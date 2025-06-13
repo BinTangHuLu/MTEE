@@ -1,0 +1,5 @@
+There is a female. ||entailment
+There is a accept. ||entailment
+There is a dude. ||entailment
+The female rests on the shoulder. ||entailment
+The female rests on the man. ||entailment

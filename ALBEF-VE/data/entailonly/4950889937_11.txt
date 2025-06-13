@@ -1,0 +1,4 @@
+there are people ||entailment
+there is a street ||entailment
+the street is busy ||entailment
+people are walking down a street ||entailment

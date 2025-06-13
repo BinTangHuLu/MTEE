@@ -1,0 +1,3 @@
+There is a group. ||entailment
+There is a vehicle. ||entailment
+The group is gathered near the vehicle. ||entailment

@@ -1,0 +1,4 @@
+There are not girls. ||Contradiction
+There is not a group. ||Contradiction
+The girls are not jumping. ||Contradiction
+The girls are not jumping over one another. ||Contradiction

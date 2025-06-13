@@ -1,0 +1,3 @@
+There is not a girl. ||Contradiction
+There is not a cup. ||Contradiction
+The girl does not have a cup. ||Entailment

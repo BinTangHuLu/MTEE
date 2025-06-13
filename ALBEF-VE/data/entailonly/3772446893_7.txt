@@ -1,0 +1,6 @@
+there is a girl ||entailment
+there is a dress ||entailment
+there is some furniture ||entailment
+the dress is in ||contradiction
+the girl is sitting ||entailment
+the girl is on furniture ||entailment

@@ -1,0 +1,5 @@
+There is a man. ||entailment
+There is a street. ||neutral
+The man is standing. ||entailment
+The man is standing outside. ||entailment
+The man is standing near street. ||entailment

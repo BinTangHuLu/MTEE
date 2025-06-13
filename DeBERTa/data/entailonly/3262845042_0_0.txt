@@ -1,0 +1,5 @@
+There is a man. ||entailment
+There are some skis. ||entailment
+There is a mountain. ||entailment
+The man is on skis. ||entailment
+The skis are on the mountain. ||entailment

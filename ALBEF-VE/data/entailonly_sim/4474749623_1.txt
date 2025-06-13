@@ -1,0 +1,5 @@
+there are dude ||entailment
+there are accommodation ||entailment
+there are two dude ||entailment
+the dude are sitting in chairs ||contradiction
+the dude are in chairs ||entailment

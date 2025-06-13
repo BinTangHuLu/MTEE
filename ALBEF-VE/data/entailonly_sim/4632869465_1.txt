@@ -1,0 +1,4 @@
+there is a animal ||entailment
+there are some flora ||entailment
+the animal is yellow haired ||contradiction
+the animal receives flowers ||contradiction

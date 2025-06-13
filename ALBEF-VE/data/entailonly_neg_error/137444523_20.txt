@@ -1,0 +1,3 @@
+EA,picture,taken
+RE2,taking,picture
+A,getting

@@ -1,0 +1,4 @@
+there is a person ||entailment
+there is a jacket ||entailment
+the jacket is leather ||entailment
+the person has a jacket ||entailment

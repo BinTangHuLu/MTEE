@@ -1,0 +1,5 @@
+there are not men ||contradiction
+there are not thumbs up ||contradiction
+there is not a barbecue ||contradiction
+men are not giving thumbs up ||contradiction
+thumbs up is not given by barbecue ||contradiction

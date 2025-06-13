@@ -1,0 +1,5 @@
+there are guys ||entailment
+there is a skateboard ||entailment
+there are people ||entailment
+the guys are sitting on the skateboard ||entailment
+the guys are watching people ||entailment

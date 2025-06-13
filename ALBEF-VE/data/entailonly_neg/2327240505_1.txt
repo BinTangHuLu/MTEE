@@ -1,0 +1,9 @@
+there is not a girl ||contradiction
+there is not a flower ||contradiction
+there is not a shirt ||contradiction
+there is not a skateboard ||contradiction
+there is not a boy ||contradiction
+the flower is not on the shirt ||neutral
+the girl is not with the flower ||entailment
+the girl does not ride the skateboard ||entailment
+the skateboard is not with the boy ||entailment

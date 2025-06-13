@@ -1,0 +1,5 @@
+There is a child. ||Entailment
+The child is young. ||Entailment
+The child is prepared. ||Entailment
+The get through is inclement. ||Entailment
+The child is prepared for weather. ||Entailment

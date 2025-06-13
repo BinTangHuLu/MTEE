@@ -1,0 +1,3 @@
+there are not people ||contradiction
+the people are not three ||entailment
+the people are not jumping up in air ||contradiction

@@ -1,0 +1,6 @@
+there is a child ||entailment
+there is a hat ||entailment
+there is a skateboard ||entailment
+the hat is red ||entailment
+the child is in the hat ||entailment
+the child sits on the skateboard ||entailment

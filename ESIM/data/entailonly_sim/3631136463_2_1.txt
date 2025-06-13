@@ -1,0 +1,5 @@
+There is a chunk. ||entailment
+There is a grassland. ||entailment
+The chunk is big. ||neutral
+The dogs are carrying the chunk. ||contradiction
+The dogs are carrying in the grassland. ||entailment

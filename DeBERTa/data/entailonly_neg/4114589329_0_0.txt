@@ -1,0 +1,7 @@
+There is not a car. ||contradiction
+There are not pedestrians. ||contradiction
+The car is not making a right turn. ||contradiction
+The car is not making. ||contradiction
+The pedestrians are not three. ||entailment
+The car is not making a turn. ||contradiction
+The pedestrians do not cross behind the car. ||contradiction

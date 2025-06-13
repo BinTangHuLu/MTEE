@@ -1,0 +1,5 @@
+There is a association. ||entailment
+There are some community. ||neutral
+There is a account. ||entailment
+The association is watching something. ||entailment
+The association takes a picture of one. ||entailment

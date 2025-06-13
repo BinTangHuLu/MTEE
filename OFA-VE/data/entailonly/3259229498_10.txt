@@ -1,0 +1,3 @@
+There is a crowd. ||Entailment
+There is a stage. ||Entailment
+The crowd looks at the stage. ||Entailment

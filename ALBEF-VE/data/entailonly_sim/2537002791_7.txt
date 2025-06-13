@@ -1,0 +1,3 @@
+there is a data processor ||entailment
+there is a arrangement ||entailment
+there is a expression ||entailment

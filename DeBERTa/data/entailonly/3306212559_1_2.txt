@@ -1,0 +1,6 @@
+There is a sunset. ||entailment
+The sunset is beautiful. ||neutral
+There are shapes. ||entailment
+There are four figures. ||entailment
+The sunset shows shapes. ||entailment
+The figures are silhouetted against backdrop. ||entailment

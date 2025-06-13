@@ -1,0 +1,3 @@
+There is a child. ||contradiction
+The child is dancing. ||contradiction
+The cartoongrapher is taking a photo. ||contradiction

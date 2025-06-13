@@ -1,0 +1,4 @@
+there is a lady ||entailment
+there is a baby ||entailment
+the lady is blond ||entailment
+the lady is holding the baby ||entailment

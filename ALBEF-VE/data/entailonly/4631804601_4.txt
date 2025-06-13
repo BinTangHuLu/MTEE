@@ -1,0 +1,7 @@
+there is a man ||entailment
+there is some wood ||entailment
+there is a wheel ||entailment
+there is a tool ||entailment
+the man is working with wood ||entailment
+the man is working with the wheel ||entailment
+the man is working with the tool ||entailment

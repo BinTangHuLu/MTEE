@@ -1,0 +1,3 @@
+There is not a dog. ||contradiction
+There is not a frisbee. ||contradiction
+The dog is not going to catch the frisbee. ||contradiction

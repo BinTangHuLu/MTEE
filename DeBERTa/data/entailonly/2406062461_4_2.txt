@@ -1,0 +1,6 @@
+There is a gentleman. ||entailment
+There is a hat. ||entailment
+There is a ball. ||entailment
+The gentleman is orange. ||entailment
+The gentleman is wearing a hat. ||entailment
+The gentleman has a ball. ||entailment

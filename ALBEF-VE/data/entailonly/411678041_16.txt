@@ -1,0 +1,5 @@
+there is a cowboy ||entailment
+there are some people ||entailment
+there is a street ||entailment
+the cowboy rides past people ||entailment
+the people are on the street ||entailment

@@ -1,0 +1,4 @@
+There is a Dog. ||Entailment
+There is a pool. ||Entailment
+The Dog cools off. ||Entailment
+The Dog is in the pool. ||Entailment

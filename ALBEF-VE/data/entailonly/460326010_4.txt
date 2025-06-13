@@ -1,0 +1,3 @@
+there is a boy ||entailment
+there is a bird ||entailment
+the boy is chasing the bird ||entailment

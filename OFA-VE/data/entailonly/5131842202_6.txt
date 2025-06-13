@@ -1,0 +1,3 @@
+There is a clown. ||Entailment
+There is a tent. ||Entailment
+The clown sits by the tent. ||Entailment

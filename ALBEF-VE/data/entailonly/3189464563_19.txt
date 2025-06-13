@@ -1,0 +1,3 @@
+there is an ice cream cake ||entailment
+there is a table ||entailment
+the ice cream cake is on the table ||entailment

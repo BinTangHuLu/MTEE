@@ -1,0 +1,5 @@
+There is a dude. ||Entailment
+There is a pole. ||Entailment
+There are community. ||Entailment
+The dude has a cane. ||Entailment
+The dude is near people. ||Entailment

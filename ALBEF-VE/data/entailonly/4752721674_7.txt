@@ -1,0 +1,3 @@
+there are cameras ||entailment
+there are people ||entailment
+the cameras are monitoring people ||entailment

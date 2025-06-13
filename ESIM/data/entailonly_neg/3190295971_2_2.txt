@@ -1,0 +1,8 @@
+There is not Food. ||contradiction
+There is not wine. ||contradiction
+There is not a table. ||contradiction
+There are not people. ||contradiction
+The table is not many. ||neutral
+The Food is not on the table. ||contradiction
+The wine is not on the table. ||contradiction
+The people are not surrounding the table. ||contradiction

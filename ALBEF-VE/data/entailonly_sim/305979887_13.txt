@@ -1,0 +1,5 @@
+there is an lone ||entailment
+there is a bar ||entailment
+there is drink ||entailment
+the lone holds water ||entailment
+the drink is near the stroller ||entailment

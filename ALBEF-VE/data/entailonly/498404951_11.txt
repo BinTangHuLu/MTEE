@@ -1,0 +1,4 @@
+there is a dog ||entailment
+there is some water ||entailment
+the dog is white ||entailment
+the dog is at water ||entailment

@@ -1,0 +1,2 @@
+There are community. ||entailment
+community are trying to warm up. ||entailment

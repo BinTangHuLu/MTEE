@@ -1,0 +1,4 @@
+there is a man ||entailment
+there is a shirt ||entailment
+the shirt is black ||entailment
+the man is wearing a black shirt ||contradiction

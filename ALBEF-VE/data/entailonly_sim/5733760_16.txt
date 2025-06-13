@@ -1,0 +1,5 @@
+there is a dude ||entailment
+there is a blouse ||entailment
+there is a bottle ||entailment
+the blouse is wearing ||entailment
+the dude speaks through microphone ||entailment

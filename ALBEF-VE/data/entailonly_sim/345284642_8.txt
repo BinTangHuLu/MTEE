@@ -1,0 +1,5 @@
+there is an bodily ||entailment
+there is a farmland ||entailment
+the farmland is snowy ||entailment
+the bodily carries something ||entailment
+the bodily goes through the field ||entailment

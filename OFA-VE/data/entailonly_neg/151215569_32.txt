@@ -1,0 +1,5 @@
+There is not a girl. ||Contradiction
+There is not a man. ||Contradiction
+There are not shoulders. ||Entailment
+The girl does not ride on shoulders. ||Contradiction
+The man does not possess the girl. ||Contradiction

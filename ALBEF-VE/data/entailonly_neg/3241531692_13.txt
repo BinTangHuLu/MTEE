@@ -1,0 +1,7 @@
+there is not a woman ||contradiction
+there are not some clothes ||contradiction
+there is not a drum ||contradiction
+the clothes are not colorful ||contradiction
+the woman is not playing ||contradiction
+the woman is not in clothes ||contradiction
+the woman is not playing a drum ||entailment

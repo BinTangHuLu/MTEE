@@ -1,0 +1,2 @@
+There are females. ||entailment
+The females are than males. ||entailment

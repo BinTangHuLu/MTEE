@@ -1,0 +1,3 @@
+there is not a vendor ||contradiction
+there are not some toys ||contradiction
+the vendor is not selling toys ||contradiction

@@ -1,0 +1,4 @@
+there is a baby ||entailment
+there are some doll ||neutral
+the baby is playing ||entailment
+the baby is playing with toys ||contradiction

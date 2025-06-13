@@ -1,0 +1,3 @@
+There is someone. ||Entailment
+There is music. ||Entailment
+Someone is performing music. ||Entailment

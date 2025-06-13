@@ -1,0 +1,5 @@
+there is a boy ||entailment
+there is a girl ||entailment
+there is a subway ||entailment
+the boy is standing with the girl ||entailment
+the boy is in the subway ||entailment

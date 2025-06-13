@@ -1,0 +1,3 @@
+There is a motorcycle. ||entailment
+There is a van. ||entailment
+The motorcycle rides next to the van. ||contradiction

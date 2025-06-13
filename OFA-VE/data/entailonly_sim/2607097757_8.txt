@@ -1,0 +1,4 @@
+There is a break. ||Contradiction
+There is some dirt. ||Entailment
+The break is open. ||Contradiction
+The break is in ground. ||Contradiction

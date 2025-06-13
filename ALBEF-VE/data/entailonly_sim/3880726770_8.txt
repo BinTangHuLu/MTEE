@@ -1,0 +1,5 @@
+there is a gentlewoman ||contradiction
+there is some fodder ||entailment
+there is some cereal ||neutral
+the gentlewoman sits by hay ||contradiction
+the gentlewoman sits by grain ||contradiction

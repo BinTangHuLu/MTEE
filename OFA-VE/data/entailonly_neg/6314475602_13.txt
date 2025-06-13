@@ -1,0 +1,3 @@
+There is not a person. ||Contradiction
+There is not a pole. ||Contradiction
+The person did not throw the pole. ||Contradiction

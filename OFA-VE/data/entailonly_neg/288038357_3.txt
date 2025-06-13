@@ -1,0 +1,4 @@
+There is not a Man. ||Contradiction
+There is not a roof. ||Contradiction
+The Man is not working. ||Contradiction
+The Man is not working on the roof. ||Contradiction

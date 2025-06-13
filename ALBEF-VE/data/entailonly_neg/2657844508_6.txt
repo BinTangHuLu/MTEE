@@ -1,0 +1,4 @@
+there is not a couple ||contradiction
+there is not some wine ||contradiction
+the couple is not drinking ||contradiction
+the couple is not drinking wine ||contradiction

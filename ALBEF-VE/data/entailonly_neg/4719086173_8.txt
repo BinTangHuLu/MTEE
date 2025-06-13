@@ -1,0 +1,4 @@
+there are not firefighters ||contradiction
+there are not suits ||contradiction
+the suits are not wearing ||neutral
+the firefighters are not wearing suits ||contradiction

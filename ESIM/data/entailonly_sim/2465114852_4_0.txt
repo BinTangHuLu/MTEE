@@ -1,0 +1,3 @@
+There is an agent. ||entailment
+The agent is security. ||entailment
+The agent is outside. ||entailment

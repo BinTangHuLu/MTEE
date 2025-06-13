@@ -1,0 +1,4 @@
+There are people. ||Entailment
+There is a hillside. ||Entailment
+The hillside is grassy. ||Entailment
+The people stand on the hillside. ||Entailment

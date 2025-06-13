@@ -1,0 +1,4 @@
+There is a jumper. ||Entailment
+The jumper is high. ||Entailment
+There is outdoors. ||Entailment
+The jumper is outdoors. ||Entailment

@@ -1,0 +1,6 @@
+There is a dude. ||entailment
+There is a conspiracy. ||contradiction
+There is an congregation. ||entailment
+The dude is on stilts. ||entailment
+The dude performs a trick. ||entailment
+The dude performs for the audience. ||entailment

@@ -1,0 +1,5 @@
+there are people ||entailment
+there is a face ||entailment
+the people are few ||neutral
+the people are displaying something ||entailment
+something is on the face ||entailment

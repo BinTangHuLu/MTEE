@@ -1,0 +1,4 @@
+There is a dude. ||Entailment
+There is some molding. ||Entailment
+The dude is doing woodwork. ||Entailment
+The dude is doing woodwork. ||Entailment

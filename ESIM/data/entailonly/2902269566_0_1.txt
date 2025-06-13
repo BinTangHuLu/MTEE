@@ -1,0 +1,5 @@
+There is a rider. ||entailment
+There is a bike. ||entailment
+The rider is his. ||neutral
+The bike is motocross. ||entailment
+The rider is riding the bike. ||entailment

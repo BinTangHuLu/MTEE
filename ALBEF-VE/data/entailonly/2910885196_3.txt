@@ -1,0 +1,3 @@
+there is a cake ||entailment
+there is some frosting ||entailment
+the cake has frosting ||entailment

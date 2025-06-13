@@ -1,0 +1,3 @@
+there are children ||entailment
+there is sand ||entailment
+the children are having fun in sand ||entailment

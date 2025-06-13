@@ -1,0 +1,2 @@
+EA,hat,green
+E1RE2,snowboarder,while wearing,hat

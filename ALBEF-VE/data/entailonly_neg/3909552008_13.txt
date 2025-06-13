@@ -1,0 +1,4 @@
+there are not men ||contradiction
+there is not a tower ||contradiction
+the tower is not possibly damaged ||contradiction
+the men are not working on the tower ||contradiction

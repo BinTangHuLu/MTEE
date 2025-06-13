@@ -1,0 +1,4 @@
+There are not Turtles. ||contradiction
+There is not grass. ||contradiction
+The grass is not green. ||contradiction
+The Turtles are not crawling in grass. ||contradiction

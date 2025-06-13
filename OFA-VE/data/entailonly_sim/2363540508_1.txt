@@ -1,0 +1,4 @@
+There is a child. ||Entailment
+There is a accelerate. ||Entailment
+The child is sliding. ||Entailment
+The child is sliding down the slide. ||Entailment

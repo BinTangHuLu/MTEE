@@ -1,0 +1,5 @@
+there is a woman ||entailment
+there is a horse ||entailment
+the horse is jumping ||entailment
+the woman rides the horse ||entailment
+the horse jumps over the object ||entailment

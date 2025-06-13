@@ -1,0 +1,3 @@
+there is a juggler ||entailment
+the juggler is performing ||neutral
+the juggler is performing outdoors ||entailment

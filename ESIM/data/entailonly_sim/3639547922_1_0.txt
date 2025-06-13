@@ -1,0 +1,3 @@
+There is a child. ||entailment
+The child goes down slide. ||entailment
+There is a accelerate. ||entailment

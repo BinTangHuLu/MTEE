@@ -1,0 +1,3 @@
+there is a association ||entailment
+there is a gallery ||neutral
+the association are inside studio ||contradiction

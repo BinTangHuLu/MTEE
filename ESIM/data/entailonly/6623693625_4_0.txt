@@ -1,0 +1,4 @@
+There is a kid. ||entailment
+There is a cup. ||entailment
+The kid is young. ||entailment
+The kid is drinking out of cup. ||entailment

@@ -1,0 +1,3 @@
+EA,boots,black leather
+A,shoulders
+A,strapped

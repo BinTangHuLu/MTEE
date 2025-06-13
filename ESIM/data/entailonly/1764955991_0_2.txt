@@ -1,0 +1,9 @@
+There is a dog. ||entailment
+There is a road. ||entailment
+There is a ball. ||entailment
+The dog is running. ||entailment
+The road is leaf covered. ||entailment
+The dog is carrying. ||entailment
+The ball is in its mouth. ||entailment
+The dog is running down the road. ||entailment
+The dog is carrying the ball. ||entailment

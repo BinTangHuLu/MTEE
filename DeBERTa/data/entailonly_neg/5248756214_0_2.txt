@@ -1,0 +1,5 @@
+There is not a man. ||contradiction
+There is not a cart. ||contradiction
+There is not a road. ||contradiction
+The man is not pushing the cart. ||contradiction
+The cart is not down the road. ||contradiction

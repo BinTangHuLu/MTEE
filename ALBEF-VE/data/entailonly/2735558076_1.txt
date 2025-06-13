@@ -1,0 +1,5 @@
+there is a person ||entailment
+there are others ||entailment
+the person is young ||entailment
+the person is talking with others ||entailment
+the person is near bustop ||entailment

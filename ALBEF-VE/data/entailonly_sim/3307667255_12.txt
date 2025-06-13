@@ -1,0 +1,5 @@
+there are dude ||entailment
+there are female ||neutral
+there is a architecture ||entailment
+the dude stand in front of the building ||entailment
+the female stand in front of the building ||entailment

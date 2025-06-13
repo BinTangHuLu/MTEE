@@ -1,0 +1,3 @@
+There are Soldiers. ||entailment
+There is a building. ||entailment
+The Soldiers are guarding the building. ||neutral

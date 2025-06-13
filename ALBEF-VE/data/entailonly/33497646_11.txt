@@ -1,0 +1,5 @@
+there is a man ||entailment
+there is a beach ||entailment
+there is water ||entailment
+the man is on the beach ||entailment
+the beach is by water ||entailment

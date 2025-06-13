@@ -1,0 +1,3 @@
+There is a man. ||Entailment
+The man is inside. ||Entailment
+The man is inside. ||Entailment

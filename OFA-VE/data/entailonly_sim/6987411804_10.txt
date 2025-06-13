@@ -1,0 +1,4 @@
+There is a child. ||Entailment
+There is atmosphere. ||Entailment
+The cheerleader holds the child. ||Neutral
+The cheerleader holds in the atmosphere. ||Entailment

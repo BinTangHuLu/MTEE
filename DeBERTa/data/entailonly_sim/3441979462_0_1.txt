@@ -1,0 +1,6 @@
+There is a female. ||entailment
+There is a cable. ||entailment
+The female is young. ||entailment
+The cable is blue. ||entailment
+The female is playing on the ball. ||entailment
+The ball is attached to the cable. ||entailment

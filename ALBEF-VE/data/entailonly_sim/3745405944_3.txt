@@ -1,0 +1,5 @@
+there is a female ||entailment
+there is a dude ||entailment
+there is a estate ||entailment
+the female is at the park ||neutral
+the dude is at the park ||neutral

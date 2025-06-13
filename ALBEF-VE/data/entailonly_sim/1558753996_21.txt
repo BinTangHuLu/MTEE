@@ -1,0 +1,6 @@
+there is a body ||entailment
+there is a bar ||entailment
+there is an apparatus ||entailment
+the body is leaning against the wall ||entailment
+the body is leaning against the wall ||entailment
+the body is playing the instrument ||entailment

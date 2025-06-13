@@ -1,0 +1,7 @@
+there is not a man ||contradiction
+there is not a shirt ||neutral
+there is not a sand castle ||contradiction
+there is not a beach ||contradiction
+the shirt is not blue ||contradiction
+the man is not building a sand castle ||contradiction
+the sand castle is not at the beach ||contradiction

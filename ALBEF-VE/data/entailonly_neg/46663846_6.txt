@@ -1,0 +1,5 @@
+there are not men ||contradiction
+there are not cones ||contradiction
+there is not a truck ||contradiction
+the men are not placed cones ||contradiction
+the cones are not in truck ||contradiction

@@ -1,0 +1,7 @@
+there is a man ||entailment
+there is a woman ||entailment
+there is a gathering ||entailment
+the gathering is celebratory ||neutral
+the man and woman are at the gathering ||entailment
+the man is at the gathering ||entailment
+the woman is at the gathering ||entailment

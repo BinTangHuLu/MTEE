@@ -1,0 +1,2 @@
+There is a chase. ||Entailment
+The Dogs are competing in the chase. ||Entailment

@@ -1,0 +1,4 @@
+there is a association ||entailment
+there are community ||entailment
+there is a estate ||entailment
+the association are walking through park ||entailment

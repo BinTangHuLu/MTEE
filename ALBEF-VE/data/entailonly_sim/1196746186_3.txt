@@ -1,0 +1,5 @@
+there is a female ||entailment
+there are aisle ||neutral
+there is a coast ||entailment
+the female retraces footsteps ||entailment
+the aisle are at the beach ||entailment

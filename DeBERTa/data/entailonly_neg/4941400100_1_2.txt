@@ -1,0 +1,8 @@
+There is not a redhead. ||contradiction
+There is not a bracelet. ||contradiction
+There is not a woman. ||contradiction
+The redhead is not putting. ||contradiction
+The woman is not old. ||entailment
+The redhead is not putting on woman. ||contradiction
+The redhead is not putting bracelet. ||contradiction
+The bracelet is not on woman. ||contradiction

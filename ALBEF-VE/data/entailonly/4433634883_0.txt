@@ -1,0 +1,5 @@
+there is a picture ||entailment
+there is a street ||entailment
+there is a city ||entailment
+the picture is of the street ||entailment
+the picture is in the city ||entailment

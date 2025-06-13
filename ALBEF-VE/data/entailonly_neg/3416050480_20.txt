@@ -1,0 +1,6 @@
+there is not a woman ||contradiction
+there is not a competition ||contradiction
+there is not an airport ||contradiction
+the competition does not involve riding ||contradiction
+the woman does not compete in the competition ||contradiction
+the competition does not have an airport ||contradiction

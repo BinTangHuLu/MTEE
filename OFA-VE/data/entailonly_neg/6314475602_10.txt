@@ -1,0 +1,5 @@
+There are not people. ||Contradiction
+There are not men. ||Contradiction
+There are not kilts. ||Contradiction
+People do not watch men. ||Contradiction
+Men are not in kilts. ||Contradiction

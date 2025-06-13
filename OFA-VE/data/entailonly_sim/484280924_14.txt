@@ -1,0 +1,4 @@
+There is some bread. ||Neutral
+There is a bag. ||Contradiction
+The chef is putting bread. ||Neutral
+The bread is being put into the container. ||Neutral

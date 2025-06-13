@@ -1,0 +1,5 @@
+There is not a man. ||contradiction
+There is not a cigarette. ||contradiction
+The man is not young. ||contradiction
+The man is not smoking. ||contradiction
+The man is not smoking a cigarette. ||contradiction

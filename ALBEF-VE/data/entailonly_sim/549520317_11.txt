@@ -1,0 +1,4 @@
+there is a baby ||entailment
+there is a accelerate ||entailment
+the baby is small ||neutral
+the baby is at the slide ||entailment

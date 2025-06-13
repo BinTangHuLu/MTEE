@@ -1,0 +1,3 @@
+there is a surfer ||entailment
+there is an ocean ||entailment
+the surfer is in ocean ||entailment

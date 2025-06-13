@@ -1,0 +1,7 @@
+There are child. ||entailment
+There are composure. ||neutral
+There is a field. ||contradiction
+The child are their. ||entailment
+The composure are stretch. ||entailment
+The child form a circle in the gym. ||entailment
+The child stretch their legs. ||entailment

@@ -1,0 +1,4 @@
+There is a architecture. ||Contradiction
+There is an article. ||Entailment
+Someone is in the architecture. ||Contradiction
+Someone is moving an article. ||Neutral

@@ -1,0 +1,3 @@
+there is a clan ||entailment
+there is age ||entailment
+the clan is having time ||entailment

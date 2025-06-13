@@ -1,0 +1,5 @@
+there is a woman ||entailment
+there is some water ||entailment
+there is a boy ||entailment
+the woman is in water ||entailment
+the woman is with the boy ||entailment

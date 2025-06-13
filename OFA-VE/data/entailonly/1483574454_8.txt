@@ -1,0 +1,3 @@
+There are people. ||Entailment
+There are bikes. ||Entailment
+The people work on bikes. ||Entailment

@@ -1,0 +1,7 @@
+There are not people. ||contradiction
+There is not a slope. ||contradiction
+There are not backpacks. ||contradiction
+The people are not two. ||contradiction
+The slope is not snowy. ||contradiction
+The people are not hiking with backpacks. ||contradiction
+The people are not hiking up slope. ||contradiction

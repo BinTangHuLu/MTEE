@@ -1,0 +1,4 @@
+There is not a woman. ||Entailment
+There is not a man. ||Entailment
+The woman is not blond. ||Entailment
+The woman is not near the man. ||Entailment

@@ -1,0 +1,4 @@
+there is a dude ||entailment
+there is an apparatus ||entailment
+the apparatus is musical ||entailment
+the dude knows how to play the instrument ||entailment

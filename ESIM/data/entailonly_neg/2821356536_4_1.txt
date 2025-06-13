@@ -1,0 +1,2 @@
+There is not a fire pit. ||contradiction
+The fire pit has not been put out. ||neutral

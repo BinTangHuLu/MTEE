@@ -1,0 +1,3 @@
+there is a boy ||entailment
+the boy is very tired ||neutral
+the boy is resting ||entailment

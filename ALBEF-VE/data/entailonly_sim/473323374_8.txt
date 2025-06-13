@@ -1,0 +1,3 @@
+there is a little ||entailment
+there is a clinic ||neutral
+the little is in hospital ||entailment

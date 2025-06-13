@@ -1,0 +1,4 @@
+There is not a person. ||contradiction
+There is not a cliff. ||contradiction
+The cliff is not steep. ||contradiction
+The person is not climbing the cliff. ||contradiction

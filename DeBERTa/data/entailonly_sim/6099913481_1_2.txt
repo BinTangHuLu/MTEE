@@ -1,0 +1,4 @@
+There are community. ||entailment
+The community are in beach attire. ||entailment
+There is apparel. ||entailment
+The community are in attire. ||entailment

@@ -1,0 +1,3 @@
+there are community ||neutral
+there is a automobile ||entailment
+the community are in the vehicle ||neutral

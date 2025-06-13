@@ -1,0 +1,4 @@
+there is not a man ||contradiction
+there is not a suit ||contradiction
+the suit is not green striped ||contradiction
+the man is not surfing ||contradiction

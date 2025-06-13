@@ -1,0 +1,7 @@
+There is not a woman. ||contradiction
+There is not a tank top. ||contradiction
+There is not a mug. ||contradiction
+The woman is not pink. ||contradiction
+The woman is not holding. ||contradiction
+The tank top is not pink. ||contradiction
+The mug is not holding. ||contradiction

@@ -1,0 +1,4 @@
+there is a dude ||entailment
+there is a avenue ||entailment
+the dude is shirtless ||entailment
+the dude walks down street ||entailment

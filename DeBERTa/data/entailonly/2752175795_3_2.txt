@@ -1,0 +1,3 @@
+There are guys. ||entailment
+There is a billboard. ||entailment
+The guys sit on the billboard. ||entailment

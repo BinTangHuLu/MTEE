@@ -1,0 +1,6 @@
+There are not men. ||contradiction
+There are not uniforms. ||contradiction
+There is not a gymnasium. ||entailment
+There are not six men. ||contradiction
+The men are not dressed in black and yellow. ||contradiction
+The men are not standing in the gymnasium. ||entailment

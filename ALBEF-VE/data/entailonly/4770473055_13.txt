@@ -1,0 +1,7 @@
+there is a man ||entailment
+there is a hat ||entailment
+there is a sash ||entailment
+the hat is black shaggy ||neutral
+the sash is leopard printed ||entailment
+the man is wearing a hat ||entailment
+the man is wearing a sash ||entailment

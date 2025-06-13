@@ -1,0 +1,5 @@
+There is a woman. ||entailment
+There is a flower. ||entailment
+There is a bucket. ||entailment
+The woman picks the flower. ||entailment
+The woman is out of the bucket. ||entailment

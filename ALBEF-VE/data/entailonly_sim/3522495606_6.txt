@@ -1,0 +1,4 @@
+there is a area ||entailment
+there are some community ||entailment
+the community are old ||neutral
+the community stand around table ||contradiction

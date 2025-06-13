@@ -1,0 +1,5 @@
+there is not a girl ||contradiction
+there is not a sign ||contradiction
+the girl is not pink ||contradiction
+the sign is not the horns ||entailment
+the girl is not rocking the sign ||neutral

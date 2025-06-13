@@ -1,0 +1,2 @@
+EA,People,standing
+E1RE2,People,being filmed by,cameras

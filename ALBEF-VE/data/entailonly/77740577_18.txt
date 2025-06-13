@@ -1,0 +1,5 @@
+there is a woman ||entailment
+there is a man ||entailment
+there is a child ||entailment
+the woman sits next to the man ||entailment
+the woman sits next to the child ||entailment

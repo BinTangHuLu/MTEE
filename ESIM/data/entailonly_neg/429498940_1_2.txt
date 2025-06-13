@@ -1,0 +1,3 @@
+There are not people. ||contradiction
+There is not a meeting. ||contradiction
+The people are not at the meeting. ||entailment

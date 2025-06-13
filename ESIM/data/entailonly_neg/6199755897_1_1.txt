@@ -1,0 +1,3 @@
+There is not a runner. ||contradiction
+There are not some supporters. ||contradiction
+The runner is not in front of supporters. ||contradiction

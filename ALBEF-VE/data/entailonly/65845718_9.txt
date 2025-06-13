@@ -1,0 +1,5 @@
+there is a lady ||entailment
+there is a suit ||entailment
+there is a pool ||entailment
+the suit is dark colored ||entailment
+the lady is in pool ||entailment

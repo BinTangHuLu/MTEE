@@ -1,0 +1,4 @@
+There are dude. ||entailment
+There are two dude. ||entailment
+The dude are standing together. ||entailment
+The dude are dressed up. ||entailment

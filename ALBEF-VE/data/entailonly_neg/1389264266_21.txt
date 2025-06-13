@@ -1,0 +1,6 @@
+there is not a woman ||contradiction
+there is not hair ||contradiction
+there is not a friend ||contradiction
+the hair is not unusual ||contradiction
+the woman is not with hair ||entailment
+the woman is not looking back at the friend ||neutral

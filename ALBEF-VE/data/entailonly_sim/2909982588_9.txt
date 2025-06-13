@@ -1,0 +1,4 @@
+there is a child ||entailment
+there is some bling cream ||neutral
+the child is eating ||entailment
+the child is eating ice cream ||neutral

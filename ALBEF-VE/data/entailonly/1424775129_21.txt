@@ -1,0 +1,5 @@
+there is a child ||entailment
+there are some tracks ||entailment
+there is a stick ||entailment
+the child is stepping on tracks ||entailment
+the child is with a stick ||entailment

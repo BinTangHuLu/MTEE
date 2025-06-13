@@ -1,0 +1,9 @@
+there is not a woman ||contradiction
+there is not a curb ||contradiction
+there is not a hat ||contradiction
+there are not some baskets ||contradiction
+the hat does not have fruit on it ||contradiction
+the baskets do not have on it ||neutral
+the woman is not sitting on the curb ||entailment
+the woman is not wearing the hat ||contradiction
+the baskets are not on the curb ||entailment

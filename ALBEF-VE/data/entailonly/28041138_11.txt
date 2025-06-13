@@ -1,0 +1,8 @@
+there is a man ||entailment
+there is a microphone ||entailment
+there is a bass ||entailment
+the man is wearing ||entailment
+the man is singing into ||neutral
+the man is playing ||entailment
+the man is singing into microphone ||neutral
+the man is playing bass ||entailment

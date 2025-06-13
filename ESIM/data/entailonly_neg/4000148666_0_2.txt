@@ -1,0 +1,4 @@
+There are not boys. ||contradiction
+There is not a ball. ||contradiction
+The boys are not young. ||contradiction
+The boys are not kicking around the ball. ||contradiction

@@ -1,0 +1,4 @@
+there is a dude ||entailment
+there is a sock ||entailment
+the dude is with the bat ||entailment
+the dude is wearing the bat ||entailment

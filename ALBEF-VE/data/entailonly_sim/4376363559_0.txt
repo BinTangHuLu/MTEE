@@ -1,0 +1,4 @@
+there is a body ||entailment
+there is a colt ||neutral
+the body is ready ||entailment
+the body is to ride the horse ||contradiction

@@ -1,0 +1,4 @@
+there is a dude ||entailment
+there is a costume ||entailment
+the costume is green striped ||neutral
+the dude is surfing ||entailment

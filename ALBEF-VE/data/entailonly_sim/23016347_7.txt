@@ -1,0 +1,3 @@
+there is a athlete ||entailment
+there is a bench ||contradiction
+the athlete is on court ||entailment

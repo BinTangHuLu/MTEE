@@ -1,0 +1,4 @@
+There is not a guy. ||Contradiction
+There is not a shirt. ||Contradiction
+The shirt is not black. ||Entailment
+The guy does not wear the shirt. ||Contradiction

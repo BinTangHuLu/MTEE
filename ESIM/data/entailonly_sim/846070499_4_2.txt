@@ -1,0 +1,6 @@
+There is a juvenile. ||entailment
+There is a dude. ||entailment
+There is a artery. ||entailment
+The juvenile is tight. ||entailment
+The juvenile is speaking to the guy. ||entailment
+The juvenile is speaking to the road. ||entailment

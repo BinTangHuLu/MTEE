@@ -1,0 +1,5 @@
+There is not a man. ||Entailment
+There is not a cane. ||Entailment
+There are not people. ||Contradiction
+The man does not have a cane. ||Neutral
+The man is not near people. ||Contradiction

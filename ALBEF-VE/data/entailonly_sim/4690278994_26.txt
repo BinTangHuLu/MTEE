@@ -1,0 +1,5 @@
+there is a contestant ||entailment
+there is a blouse ||entailment
+there are knickers ||neutral
+the contestant is in the shirt ||entailment
+the contestant is in the pants ||neutral

@@ -1,0 +1,3 @@
+there is a person ||entailment
+there is a baseball ||entailment
+the person is playing baseball ||entailment

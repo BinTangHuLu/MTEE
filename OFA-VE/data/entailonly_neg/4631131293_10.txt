@@ -1,0 +1,4 @@
+There are not women. ||Entailment
+There are not outfits. ||Contradiction
+The outfits are not matching. ||Neutral
+The women are not wearing outfits. ||Contradiction

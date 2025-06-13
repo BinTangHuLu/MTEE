@@ -1,0 +1,4 @@
+there is not a man ||contradiction
+there is not a woman ||contradiction
+the man is not talking to the woman ||contradiction
+the man is not outside the woman ||entailment

@@ -1,0 +1,2 @@
+There is not a woman. ||Entailment
+The woman is not sewing. ||Entailment

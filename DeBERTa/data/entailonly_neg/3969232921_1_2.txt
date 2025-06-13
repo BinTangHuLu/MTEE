@@ -1,0 +1,6 @@
+There is not a couple. ||contradiction
+There are not cops. ||contradiction
+There is not an eye. ||contradiction
+There is not a parking lot. ||contradiction
+The cops do not keep an eye. ||contradiction
+The cops do not keep a parking lot. ||contradiction

@@ -1,0 +1,3 @@
+there is a person ||entailment
+the person is bungee jumping ||entailment
+the person is bungee jumping ||entailment

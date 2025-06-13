@@ -1,0 +1,5 @@
+There are boy. ||entailment
+There is a child. ||entailment
+There is a belt. ||entailment
+The boy help the girl. ||entailment
+The child is with the harness. ||entailment

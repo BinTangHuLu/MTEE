@@ -1,0 +1,3 @@
+EA,people,two
+E1RE2,people,outside,people
+E1R,people,in

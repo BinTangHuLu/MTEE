@@ -1,0 +1,5 @@
+There is an infant. ||entailment
+There are some pajamas. ||entailment
+The infant is young. ||entailment
+The pajamas are wearing. ||entailment
+The infant is wearing pajamas. ||entailment

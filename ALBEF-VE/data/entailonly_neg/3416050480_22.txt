@@ -1,0 +1,6 @@
+there is not a lady ||contradiction
+there is not a horse ||contradiction
+there is not an obstacle ||contradiction
+the obstacle is not plane shaped ||entailment
+the lady does not ride the horse ||contradiction
+the horse does not go over the obstacle ||contradiction

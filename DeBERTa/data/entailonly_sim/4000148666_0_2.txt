@@ -1,0 +1,3 @@
+There are child. ||entailment
+The child are young. ||entailment
+The child are kicking around the ball. ||entailment

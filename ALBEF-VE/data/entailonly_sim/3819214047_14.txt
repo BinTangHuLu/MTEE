@@ -1,0 +1,3 @@
+there is a juvenile ||entailment
+the juvenile is teen ||neutral
+the juvenile waits skateboard ||entailment

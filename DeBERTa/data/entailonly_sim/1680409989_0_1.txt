@@ -1,0 +1,5 @@
+There is a female. ||entailment
+There is a account. ||entailment
+There is a body. ||entailment
+The female paints the portrait. ||entailment
+The account is of the person. ||entailment

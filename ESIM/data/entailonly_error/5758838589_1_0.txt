@@ -1,0 +1,2 @@
+R,taking temperature of
+RE2,taking,temperature

@@ -1,0 +1,2 @@
+There is a woman. ||entailment
+The woman is talking to someone. ||entailment

@@ -1,0 +1,3 @@
+there is not a blower ||contradiction
+there is not work ||contradiction
+the blower is not at work ||contradiction

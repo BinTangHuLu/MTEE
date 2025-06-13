@@ -1,0 +1,5 @@
+there are community ||entailment
+there is melody ||entailment
+there is an congregation ||entailment
+community are playing music ||entailment
+the melody is in front of the audience ||neutral

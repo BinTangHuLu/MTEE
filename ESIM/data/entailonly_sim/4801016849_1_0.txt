@@ -1,0 +1,5 @@
+There is a female. ||entailment
+There is a blossom. ||entailment
+There is a can. ||entailment
+The female picks the flower. ||entailment
+The female is out of the bucket. ||entailment

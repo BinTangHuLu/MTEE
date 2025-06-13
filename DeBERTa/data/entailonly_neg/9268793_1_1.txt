@@ -1,0 +1,4 @@
+There is not a human. ||contradiction
+There is not a camera. ||contradiction
+The human does not look at the camera. ||contradiction
+The human is building somethingnot . ||entailment

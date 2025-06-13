@@ -1,0 +1,4 @@
+there is a girl ||entailment
+the girl is young ||entailment
+the girl is making bubbles ||entailment
+the bubbles are outside ||entailment

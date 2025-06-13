@@ -1,0 +1,4 @@
+A,painted
+R,of
+R,has painted
+R,by

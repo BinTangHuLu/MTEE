@@ -1,0 +1,5 @@
+There is a man. ||entailment
+The man is elderly. ||entailment
+The man gave up blowing air. ||entailment
+The man gave up an object. ||entailment
+The man is blowing air into the object. ||entailment

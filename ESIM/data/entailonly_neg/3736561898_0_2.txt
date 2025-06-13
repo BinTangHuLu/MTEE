@@ -1,0 +1,4 @@
+There are not men. ||contradiction
+There are not six men. ||contradiction
+The men are not dressed in black and yellow. ||contradiction
+The men are not lifting two. ||contradiction

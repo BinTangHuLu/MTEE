@@ -1,0 +1,2 @@
+there is an event ||entailment
+the event is taking place ||entailment

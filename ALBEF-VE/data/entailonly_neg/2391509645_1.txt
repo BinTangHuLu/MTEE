@@ -1,0 +1,3 @@
+there is not an animal ||contradiction
+the animal is not laying down ||contradiction
+the animal is not laying down outside ||contradiction

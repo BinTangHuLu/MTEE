@@ -1,0 +1,4 @@
+There is not a baby. ||contradiction
+The baby is not little. ||contradiction
+The baby is not blue. ||contradiction
+The baby is not wearing. ||contradiction

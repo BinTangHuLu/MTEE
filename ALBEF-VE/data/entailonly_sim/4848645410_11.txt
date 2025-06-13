@@ -1,0 +1,3 @@
+there is a avenue ||entailment
+someone is taking image ||entailment
+the photographer is taking image of the street ||neutral

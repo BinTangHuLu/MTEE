@@ -1,0 +1,4 @@
+there is a man ||entailment
+there is a ball ||entailment
+there is a tennis ||entailment
+the man attempts to hit the ball ||entailment

@@ -1,0 +1,6 @@
+there are not men ||contradiction
+there are not sunglasses ||contradiction
+there are not beer ||contradiction
+there are not two men ||contradiction
+the men are not in sunglasses ||contradiction
+the men do not drink beer ||contradiction

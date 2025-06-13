@@ -1,0 +1,3 @@
+There is an architect. ||entailment
+There are some mitt. ||neutral
+The mitt are purple. ||contradiction

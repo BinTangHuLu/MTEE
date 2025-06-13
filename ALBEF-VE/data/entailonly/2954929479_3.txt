@@ -1,0 +1,5 @@
+there is a boy ||entailment
+there are some glasses ||entailment
+there is a pumpkin ||entailment
+the glasses are with ||neutral
+the boy is holding pumpkin ||entailment

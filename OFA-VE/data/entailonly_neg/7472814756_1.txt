@@ -1,0 +1,4 @@
+There are not sailboats. ||Contradiction
+There is not water. ||Contradiction
+The sailboats are not three. ||Entailment
+The sailboats are not sailing through water. ||Contradiction

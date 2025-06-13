@@ -1,0 +1,4 @@
+there are clan ||entailment
+there is a cartoon ||neutral
+there are two clan ||neutral
+the clan are posing for the photo ||entailment

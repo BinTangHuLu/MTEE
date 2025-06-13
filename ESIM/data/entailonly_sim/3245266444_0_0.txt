@@ -1,0 +1,3 @@
+There are child. ||entailment
+There are doll. ||entailment
+The child are surrounded by toys. ||entailment

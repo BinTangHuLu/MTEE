@@ -1,0 +1,4 @@
+There is not a boy. ||Entailment
+There is not a girl. ||Contradiction
+There are not bikes. ||Contradiction
+The boy and girl are not riding bikes. ||Contradiction

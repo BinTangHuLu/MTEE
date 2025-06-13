@@ -1,0 +1,4 @@
+there is a dude ||entailment
+there is a basin ||entailment
+the dude is performing gymnastics ||entailment
+the dude is performing gymnastics by the lake ||entailment

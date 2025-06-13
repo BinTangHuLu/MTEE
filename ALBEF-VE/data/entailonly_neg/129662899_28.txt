@@ -1,0 +1,6 @@
+there is not a man ||contradiction
+there are not sunglasses ||contradiction
+there is not a block ||contradiction
+there is not a rope ||contradiction
+the man is not in sunglasses ||contradiction
+the man is not standing near the block ||contradiction

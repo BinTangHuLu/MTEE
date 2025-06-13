@@ -1,0 +1,4 @@
+There are firefighters. ||entailment
+There is a subway station. ||entailment
+There are three firefighters. ||entailment
+The firefighters are coming up from the subway station. ||entailment

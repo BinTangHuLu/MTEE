@@ -1,0 +1,10 @@
+there is not a man ||contradiction
+there is not a vest ||contradiction
+there are not pants ||contradiction
+there are not stones ||contradiction
+there are not tracks ||contradiction
+the vest is not orange ||contradiction
+the man is not with a vest ||contradiction
+the man is not with pants ||contradiction
+the man is not pouring stones ||contradiction
+the stones are not on tracks ||contradiction

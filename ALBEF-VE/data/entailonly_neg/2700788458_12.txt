@@ -1,0 +1,7 @@
+there is not a man ||contradiction
+there is not a woman ||contradiction
+there are not some shirts ||contradiction
+the shirts are not white ||contradiction
+the man does not wear shirts ||contradiction
+the woman does not wear shirts ||contradiction
+the shirts are not worn outdoors ||contradiction

@@ -1,0 +1,2 @@
+There are cars. ||entailment
+The cars are racing. ||entailment

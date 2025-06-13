@@ -1,0 +1,3 @@
+There is a body. ||entailment
+There is a album. ||neutral
+The body is with the book. ||entailment

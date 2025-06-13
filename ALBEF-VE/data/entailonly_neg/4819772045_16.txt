@@ -1,0 +1,5 @@
+there are not mothers ||contradiction
+there is not a child ||contradiction
+there is not a street ||contradiction
+the mothers do not watch their child ||contradiction
+the child is not playing in the street ||entailment

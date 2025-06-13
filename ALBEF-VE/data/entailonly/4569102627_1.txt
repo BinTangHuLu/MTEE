@@ -1,0 +1,5 @@
+there is a girl ||entailment
+there is some juice ||entailment
+the girl is drinking ||entailment
+the hair is brown ||neutral
+the girl has brown hair ||neutral

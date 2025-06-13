@@ -1,0 +1,4 @@
+there is a child ||entailment
+there is a picture ||entailment
+the child is young ||entailment
+the child is outside in picture ||entailment

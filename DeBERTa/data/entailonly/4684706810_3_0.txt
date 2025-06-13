@@ -1,0 +1,4 @@
+There is a baby. ||entailment
+The baby is little. ||entailment
+The baby is blue. ||entailment
+The baby is wearing. ||entailment

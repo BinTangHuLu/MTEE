@@ -1,0 +1,6 @@
+There is a person. ||Entailment
+There is some clothing. ||Entailment
+There are some objects. ||Entailment
+The clothing is dark. ||Neutral
+The person is in clothing. ||Entailment
+The objects are meant to convey some kind of information or message. ||Entailment

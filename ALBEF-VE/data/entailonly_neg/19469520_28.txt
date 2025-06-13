@@ -1,0 +1,2 @@
+there are not cyclists ||contradiction
+the cyclists are not waiting ||contradiction

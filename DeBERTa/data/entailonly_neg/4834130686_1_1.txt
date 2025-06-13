@@ -1,0 +1,3 @@
+There is not a woman. ||contradiction
+There is not a shelf. ||contradiction
+The woman does not fix the shelf. ||contradiction

@@ -1,0 +1,5 @@
+there are women ||entailment
+there are words ||entailment
+there is a crowd ||entailment
+the women are speaking words ||entailment
+the words are in front of the crowd ||entailment

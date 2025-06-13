@@ -1,0 +1,9 @@
+there is a girl ||entailment
+there is a flower ||entailment
+there is a shirt ||entailment
+there is a skateboard ||entailment
+there is a boy ||entailment
+the flower is on the shirt ||entailment
+the girl is with the flower ||entailment
+the girl rides the skateboard ||entailment
+the skateboard is with the boy ||entailment

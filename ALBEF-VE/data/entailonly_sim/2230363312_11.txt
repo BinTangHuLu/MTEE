@@ -1,0 +1,3 @@
+there is a dude ||entailment
+there is a pocket size ||entailment
+the dude reaches for something in the pocket ||entailment

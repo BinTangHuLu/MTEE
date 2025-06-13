@@ -1,0 +1,4 @@
+There is a girl. ||entailment
+The girl is walking. ||entailment
+The girl is frowning. ||contradiction
+The girl is with a phone. ||entailment

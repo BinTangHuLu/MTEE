@@ -1,0 +1,3 @@
+there is someone ||entailment
+there is soccer ||entailment
+someone is playing soccer ||entailment

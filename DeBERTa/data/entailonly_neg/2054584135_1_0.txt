@@ -1,0 +1,8 @@
+There is not a person. ||contradiction
+There is not a street. ||contradiction
+There is not snow. ||contradiction
+The person is not walking. ||contradiction
+The street is not scattered. ||contradiction
+The snow is not about. ||contradiction
+The person is not walking down the street. ||contradiction
+The street is not with snow. ||contradiction

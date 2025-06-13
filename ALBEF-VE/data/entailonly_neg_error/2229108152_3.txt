@@ -1,0 +1,2 @@
+A,walking
+R,is walking

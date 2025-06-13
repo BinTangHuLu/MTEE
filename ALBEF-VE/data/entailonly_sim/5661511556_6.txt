@@ -1,0 +1,4 @@
+there is a child ||entailment
+there is a account ||entailment
+the child is young ||neutral
+the child is working in the picture ||entailment

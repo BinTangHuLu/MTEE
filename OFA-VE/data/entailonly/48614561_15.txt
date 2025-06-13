@@ -1,0 +1,5 @@
+There is a child. ||Entailment
+There is a child. ||Entailment
+The child is young. ||Entailment
+The child took something. ||Entailment
+Something is from the child. ||Entailment

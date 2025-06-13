@@ -1,0 +1,4 @@
+there is not a boy ||contradiction
+there is not a crowd ||contradiction
+there are not people ||contradiction
+the boy does not grin in the crowd ||contradiction

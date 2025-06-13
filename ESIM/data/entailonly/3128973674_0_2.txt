@@ -1,0 +1,6 @@
+There is a lady. ||entailment
+There is a kitchen. ||entailment
+The lady is in the kitchen. ||entailment
+The lady is her. ||entailment
+The feet are her. ||entailment
+The lady cleans feet. ||entailment

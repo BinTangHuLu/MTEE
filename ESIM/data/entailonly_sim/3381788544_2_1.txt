@@ -1,0 +1,4 @@
+There are community. ||neutral
+There is a beat. ||contradiction
+The beat is on. ||neutral
+The community has cap. ||neutral

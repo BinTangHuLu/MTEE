@@ -1,0 +1,6 @@
+there are women ||entailment
+there are hands ||entailment
+there is a man ||entailment
+there is a foot ||entailment
+the women has her hands ||entailment
+the hands are on the foot ||contradiction

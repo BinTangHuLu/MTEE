@@ -1,0 +1,4 @@
+there is a pup ||entailment
+there is some consideration ||entailment
+the pup catches attention ||entailment
+the consideration is of the bull ||entailment

@@ -1,0 +1,4 @@
+there is a guy ||entailment
+there is a person ||entailment
+the person is another ||neutral
+the guy is helping person ||entailment

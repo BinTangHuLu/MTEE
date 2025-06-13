@@ -1,0 +1,5 @@
+There is a female. ||Entailment
+There is an sea. ||Entailment
+There is a coast. ||Entailment
+The female is at the ocean. ||Entailment
+The sea is at the beach. ||Entailment

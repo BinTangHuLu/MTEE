@@ -1,0 +1,5 @@
+there is not deleon ||contradiction
+there is not mic ||contradiction
+there is not charities ||contradiction
+deleon is not speaking into mic ||contradiction
+deleon is not speaking about charities ||contradiction

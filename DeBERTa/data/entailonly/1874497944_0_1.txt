@@ -1,0 +1,4 @@
+There are workers. ||entailment
+There is some gear. ||entailment
+The gear is safety. ||entailment
+The workers were wearing gear. ||entailment

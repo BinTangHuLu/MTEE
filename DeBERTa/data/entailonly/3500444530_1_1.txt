@@ -1,0 +1,6 @@
+There is someone. ||entailment
+There is a shirt. ||neutral
+There is a box. ||entailment
+The shirt is plaid. ||entailment
+Someone sits on the box. ||entailment
+Someone has something. ||entailment

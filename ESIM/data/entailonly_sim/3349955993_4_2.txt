@@ -1,0 +1,5 @@
+There is a association. ||entailment
+There are child. ||entailment
+There is a avenue. ||entailment
+The child are playing soccer. ||entailment
+The child are in the street. ||entailment

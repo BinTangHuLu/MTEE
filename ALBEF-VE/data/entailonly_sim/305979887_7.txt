@@ -1,0 +1,5 @@
+there is a bar ||entailment
+there is a female ||entailment
+the female is sitting ||entailment
+the bar is with the woman ||entailment
+the stroller is next to the bar ||contradiction

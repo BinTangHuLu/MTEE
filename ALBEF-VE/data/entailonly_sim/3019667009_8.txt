@@ -1,0 +1,4 @@
+there are child ||entailment
+there are architecture ||entailment
+the architecture are old ||entailment
+the child are playing on structures ||entailment

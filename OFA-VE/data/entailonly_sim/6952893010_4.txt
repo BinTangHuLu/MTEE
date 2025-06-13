@@ -1,0 +1,4 @@
+There are armada. ||Neutral
+There is a expanse. ||Entailment
+There are four armada. ||Neutral
+The armada are sailing at sea. ||Neutral

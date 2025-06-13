@@ -1,0 +1,4 @@
+there is a guy ||entailment
+there is a horse ||entailment
+the guy is walking ||entailment
+the guy is walking the horse ||entailment

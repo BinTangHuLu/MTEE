@@ -1,0 +1,4 @@
+There is not wood. ||Entailment
+There is not a frame. ||Contradiction
+The wood is not visible. ||Contradiction
+The wood is not visible in the frame. ||Contradiction

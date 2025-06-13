@@ -1,0 +1,4 @@
+there is a baby ||entailment
+there is a estate ||entailment
+the baby rides the skateboard ||contradiction
+the skateboard is at the estate ||contradiction

@@ -1,0 +1,2 @@
+There is a cartoon. ||entailment
+There is a avenue. ||entailment

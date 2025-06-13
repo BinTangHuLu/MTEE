@@ -1,0 +1,4 @@
+There is a woman. ||Entailment
+There is a child. ||Entailment
+There is a toy. ||Entailment
+The woman was near the child. ||Entailment

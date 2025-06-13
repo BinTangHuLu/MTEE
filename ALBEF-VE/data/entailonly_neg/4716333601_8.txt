@@ -1,0 +1,3 @@
+there are not people ||contradiction
+there is not a cafe ||contradiction
+the people are not walking past the cafe ||contradiction

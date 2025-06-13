@@ -1,0 +1,4 @@
+there is a female ||entailment
+there is a dude ||entailment
+the dude is practicing martial arts ||entailment
+the dude is practicing arts ||neutral

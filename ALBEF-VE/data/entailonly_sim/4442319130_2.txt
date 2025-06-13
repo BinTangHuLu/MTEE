@@ -1,0 +1,3 @@
+there is a kitten ||entailment
+there is a burrow ||neutral
+the kitten nestles against someone ||entailment

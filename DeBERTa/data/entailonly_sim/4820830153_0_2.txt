@@ -1,0 +1,8 @@
+There is a advertise. ||entailment
+There are soft alcohol. ||entailment
+There is a agrarian. ||entailment
+The advertise is selling. ||entailment
+The soft alcohol are soft. ||contradiction
+The agrarian is Arabic. ||neutral
+The advertise is selling drinks. ||entailment
+The advertise is in country. ||entailment

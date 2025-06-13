@@ -1,0 +1,7 @@
+There is not a girl. ||contradiction
+There is not some water. ||contradiction
+There is not some skin. ||contradiction
+There is not a snake. ||contradiction
+The water is not dirty. ||contradiction
+The girl is not sitting in water. ||contradiction
+The girl is not with skin. ||contradiction

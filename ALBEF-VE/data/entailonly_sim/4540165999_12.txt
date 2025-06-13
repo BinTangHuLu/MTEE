@@ -1,0 +1,4 @@
+there is an shade ||entailment
+there is a hike ||neutral
+someone is carrying an shade ||entailment
+someone is on a hike ||neutral

@@ -1,0 +1,4 @@
+there is a animal ||entailment
+there is a automobile ||entailment
+the automobile is outside ||entailment
+the animal is inside the vehicle ||entailment

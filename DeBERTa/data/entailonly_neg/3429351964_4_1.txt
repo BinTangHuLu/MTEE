@@ -1,0 +1,7 @@
+There is not a lady. ||contradiction
+There is not an object. ||contradiction
+There are not some items. ||contradiction
+There is not a fruit. ||contradiction
+The lady is not holding. ||contradiction
+The object does not contain. ||contradiction
+The lady is not behind the fruit. ||contradiction

@@ -1,0 +1,3 @@
+There is a human. ||Entailment
+There are some shorts. ||Entailment
+The shorts are in. ||Entailment

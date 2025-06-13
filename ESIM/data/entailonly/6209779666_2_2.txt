@@ -1,0 +1,2 @@
+There is a school. ||entailment
+The school is being worked on. ||entailment

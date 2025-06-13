@@ -1,0 +1,4 @@
+There is a female. ||entailment
+There is a homogeneous. ||entailment
+The homogeneous is military. ||neutral
+The female is in uniform. ||entailment

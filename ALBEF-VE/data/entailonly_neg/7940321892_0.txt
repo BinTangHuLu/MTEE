@@ -1,0 +1,8 @@
+there is not a race car ||contradiction
+there is not a number ||contradiction
+there is not a racetrack ||contradiction
+the race car is not red ||contradiction
+the race car is not 56 ||contradiction
+the speeds are not fast ||contradiction
+the race car is not with a number ||contradiction
+the race car is not driving along racetrack ||contradiction

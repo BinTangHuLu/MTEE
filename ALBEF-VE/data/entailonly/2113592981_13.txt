@@ -1,0 +1,3 @@
+there is a girl ||entailment
+there is a park ||entailment
+the girl jumps up and down in the park ||entailment

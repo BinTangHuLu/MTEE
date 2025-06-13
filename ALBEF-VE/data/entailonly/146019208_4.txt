@@ -1,0 +1,5 @@
+there are folks ||entailment
+there is some apparel ||entailment
+the apparel is suited for ||entailment
+the outdoors is rugged ||entailment
+the folks wear apparel ||entailment

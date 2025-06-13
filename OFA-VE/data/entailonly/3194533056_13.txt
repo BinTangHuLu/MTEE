@@ -1,0 +1,2 @@
+There is Ladies. ||Entailment
+The Ladies are moving outside. ||Entailment

@@ -1,0 +1,3 @@
+There is not a woman. ||contradiction
+There is not a man. ||contradiction
+The woman is not being recorded by the man. ||contradiction

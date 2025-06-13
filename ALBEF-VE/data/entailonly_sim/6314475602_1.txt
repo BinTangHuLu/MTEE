@@ -1,0 +1,3 @@
+there are dude ||entailment
+there is a assemblage ||entailment
+the dude are standing around outside ||entailment

@@ -1,0 +1,4 @@
+There are adolescent. ||Entailment
+There is a dress. ||Entailment
+The dress is same. ||Contradiction
+The adolescent are wearing skirt. ||Entailment

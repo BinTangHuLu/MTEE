@@ -1,0 +1,4 @@
+There is a body. ||entailment
+There is an bodily. ||entailment
+The body is interacting with the animal. ||entailment
+The communication is out of doors. ||entailment

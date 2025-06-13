@@ -1,0 +1,4 @@
+There is not a ride. ||contradiction
+There is not a roller coaster. ||contradiction
+There are not people. ||contradiction
+The ride is not filled with people. ||contradiction

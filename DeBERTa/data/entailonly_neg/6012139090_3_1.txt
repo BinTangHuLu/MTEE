@@ -1,0 +1,5 @@
+There is not a band. ||contradiction
+There is not a song. ||contradiction
+There is not a stage. ||contradiction
+The band is not performing the song. ||contradiction
+The band is not performing the stage. ||contradiction

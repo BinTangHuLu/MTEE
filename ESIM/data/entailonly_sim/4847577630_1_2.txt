@@ -1,0 +1,2 @@
+There is a female. ||entailment
+The female is standing in front of the bus. ||entailment

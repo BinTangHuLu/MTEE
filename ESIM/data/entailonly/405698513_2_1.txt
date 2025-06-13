@@ -1,0 +1,3 @@
+There is a gymnast. ||entailment
+The leg is straight up. ||entailment
+The gymnast has leg. ||entailment

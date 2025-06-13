@@ -1,0 +1,3 @@
+there is not an elephant ||contradiction
+the elephant is not petting ||contradiction
+the elephant is not being petted ||contradiction

@@ -1,0 +1,3 @@
+there are not people ||contradiction
+the vests are not matching ||contradiction
+the people do not have vests ||contradiction

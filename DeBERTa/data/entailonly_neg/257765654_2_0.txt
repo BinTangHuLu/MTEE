@@ -1,0 +1,4 @@
+There is not a bucket. ||contradiction
+There are not some flowers. ||contradiction
+There is not a woman. ||contradiction
+The bucket is not carried by the woman. ||contradiction

@@ -1,0 +1,4 @@
+There is someone. ||Entailment
+There is hair. ||Entailment
+The hair is shoulder-length. ||Neutral
+Someone has shoulder-length hair. ||Entailment

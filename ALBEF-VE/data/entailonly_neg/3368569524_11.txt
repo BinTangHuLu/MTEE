@@ -1,0 +1,4 @@
+there is not a girl ||contradiction
+there is not a ball ||contradiction
+the girl is not about to shoot the ball ||contradiction
+the girl is not pressing hard ||contradiction

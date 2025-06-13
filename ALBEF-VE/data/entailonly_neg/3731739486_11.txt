@@ -1,0 +1,3 @@
+there are not people ||contradiction
+there is not a bus ||contradiction
+people are not entering a bus ||contradiction

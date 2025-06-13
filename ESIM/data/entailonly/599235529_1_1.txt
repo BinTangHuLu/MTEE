@@ -1,0 +1,5 @@
+There is a couple. ||neutral
+There is a bench. ||entailment
+The couple is asleep. ||entailment
+The couple is on the bench. ||neutral
+The bench is outside. ||entailment

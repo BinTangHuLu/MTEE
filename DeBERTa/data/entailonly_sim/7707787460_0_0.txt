@@ -1,0 +1,4 @@
+There are dude. ||entailment
+There are two dude. ||entailment
+The dude are uniform. ||neutral
+The dude wrestle in uniform. ||entailment

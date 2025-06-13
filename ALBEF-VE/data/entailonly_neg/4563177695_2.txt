@@ -1,0 +1,3 @@
+there are not guards ||contradiction
+the guards are not standing ||entailment
+the guards are not watching ||contradiction

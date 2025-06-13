@@ -1,0 +1,5 @@
+there are not men ||contradiction
+there is not soccer ||contradiction
+there is not a stadium ||contradiction
+men do not play soccer ||contradiction
+soccer is not in stadium ||contradiction

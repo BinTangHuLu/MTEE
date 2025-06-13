@@ -1,0 +1,3 @@
+There is a dude. ||Entailment
+There is melody. ||Entailment
+The dude is playing music. ||Entailment

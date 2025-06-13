@@ -1,0 +1,5 @@
+there is a pup ||entailment
+there is a belt ||entailment
+there is a camcorder ||entailment
+the belt is gnawing ||entailment
+the pup is gnawing on strap ||entailment

@@ -1,0 +1,3 @@
+There is a man. ||Entailment
+There is some equipment. ||Entailment
+The man is near equipment. ||Entailment

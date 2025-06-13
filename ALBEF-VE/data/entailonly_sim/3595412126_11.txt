@@ -1,0 +1,5 @@
+there are girl ||entailment
+there is a forest ||entailment
+the girl are pink ||entailment
+the girl are wearing ||entailment
+the girl are slanted against the tree ||contradiction

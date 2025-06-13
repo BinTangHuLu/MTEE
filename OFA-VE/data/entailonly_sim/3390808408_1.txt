@@ -1,0 +1,2 @@
+There is a soccer athlete. ||Entailment
+The soccer athlete is running. ||Entailment

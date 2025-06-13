@@ -1,0 +1,3 @@
+there is not a woman ||contradiction
+there is not a machine ||contradiction
+the woman is not using sewing machine ||contradiction

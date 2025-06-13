@@ -1,0 +1,4 @@
+there are workmen ||entailment
+there are clothes ||entailment
+the clothes are orange ||entailment
+the workmen are in clothes ||entailment

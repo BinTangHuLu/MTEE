@@ -1,0 +1,4 @@
+there is a female ||entailment
+there are some equipment ||entailment
+the equipment are variety ||entailment
+the female is presenting goods ||entailment

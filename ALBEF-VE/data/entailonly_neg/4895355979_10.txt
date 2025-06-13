@@ -1,0 +1,6 @@
+there is not an adult ||contradiction
+there is not a shirt ||contradiction
+there is not a lion figure ||contradiction
+the shirt is not striped ||contradiction
+the adult is not in the shirt ||neutral
+the adult does not stand next to the lion figure ||contradiction

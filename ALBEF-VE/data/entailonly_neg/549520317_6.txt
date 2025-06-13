@@ -1,0 +1,5 @@
+there is not a child ||contradiction
+there is not a coat ||contradiction
+the coat is not crimson ||contradiction
+the child is not in the coat ||contradiction
+the child does not cavort outside ||contradiction

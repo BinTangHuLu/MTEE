@@ -1,0 +1,5 @@
+There is not a man. ||contradiction
+There is not a chunk. ||contradiction
+There is not a building. ||contradiction
+The man does not wash off the chunk. ||contradiction
+The chunk is not of the building. ||entailment

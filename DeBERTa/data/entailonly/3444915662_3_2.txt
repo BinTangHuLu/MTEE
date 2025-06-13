@@ -1,0 +1,5 @@
+There is a girl. ||entailment
+There is some rubble. ||entailment
+The girl is young. ||entailment
+The girl is Asian. ||entailment
+The girl is outside in rubble. ||entailment

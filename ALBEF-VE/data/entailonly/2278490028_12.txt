@@ -1,0 +1,6 @@
+there is a group ||entailment
+there are some people ||entailment
+there is an object ||entailment
+the object is floating ||entailment
+the object is in the wild ||contradiction
+the people are on the object ||entailment

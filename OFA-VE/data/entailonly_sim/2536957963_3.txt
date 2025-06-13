@@ -1,0 +1,4 @@
+There are band. ||Contradiction
+There is accessory. ||Entailment
+The accessory is heavy. ||Entailment
+The band are carrying gear. ||Neutral

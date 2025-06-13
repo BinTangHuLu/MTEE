@@ -1,0 +1,4 @@
+there is a baby ||entailment
+there is a bag ||entailment
+the bag is open ||entailment
+the baby is inside of the container ||entailment

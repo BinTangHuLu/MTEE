@@ -1,0 +1,4 @@
+There is a girl. ||Entailment
+There is a device. ||Entailment
+The device has magnification. ||Entailment
+The girl is looking through the device. ||Entailment

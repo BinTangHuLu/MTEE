@@ -1,0 +1,5 @@
+There is a person. ||Entailment
+There is a street. ||Entailment
+The person is navigating. ||Entailment
+The person is navigating the street. ||Entailment
+The person is on wheels. ||Entailment

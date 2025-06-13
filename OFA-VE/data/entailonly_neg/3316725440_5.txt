@@ -1,0 +1,4 @@
+There is not someone. ||Contradiction
+There is not a bike. ||Contradiction
+The bike is not for a ride. ||Contradiction
+Someone is not taking the bike. ||Neutral

@@ -1,0 +1,7 @@
+there is a boy ||entailment
+there is a ball ||entailment
+there is a hand ||entailment
+there is a pool ||entailment
+the boy has a ball ||entailment
+the ball is in the hand ||neutral
+the boy jumped into the pool ||entailment

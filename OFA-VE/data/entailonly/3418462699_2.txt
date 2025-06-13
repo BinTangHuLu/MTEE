@@ -1,0 +1,5 @@
+There is a man. ||Entailment
+There is a sweater. ||Entailment
+The sweater is red. ||Entailment
+The man is with the sweater. ||Neutral
+The man is outdoors. ||Entailment

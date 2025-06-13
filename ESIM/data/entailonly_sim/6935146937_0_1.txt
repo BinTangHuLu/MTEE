@@ -1,0 +1,4 @@
+There is a circle. ||entailment
+There is a ball. ||entailment
+The circle is watching someone. ||entailment
+Someone is playing ball. ||entailment

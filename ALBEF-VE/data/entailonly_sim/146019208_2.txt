@@ -1,0 +1,5 @@
+there are community ||entailment
+there is apparatus ||entailment
+there are sand ||entailment
+the community are with equipment ||entailment
+the community are sitting on rocks ||entailment

@@ -1,0 +1,8 @@
+There is a body. ||Contradiction
+There is a cartoon. ||Contradiction
+There is a anything. ||Entailment
+There is a attitude. ||Entailment
+There is a rickshaw. ||Entailment
+The body is in the photo. ||Contradiction
+The anything is for sale at the stand. ||Entailment
+The anything is for sale at the cart. ||Entailment

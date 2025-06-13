@@ -1,0 +1,5 @@
+There is a man. ||entailment
+There is a raft. ||neutral
+There are some boats. ||entailment
+The man sits in the raft. ||entailment
+The raft is by boats. ||entailment

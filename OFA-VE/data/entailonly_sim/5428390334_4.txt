@@ -1,0 +1,2 @@
+There is a analyst. ||Entailment
+The analyst is using microscope. ||Entailment

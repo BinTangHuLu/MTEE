@@ -1,0 +1,4 @@
+There is a female. ||Entailment
+There are some knickers. ||Neutral
+The knickers are in. ||Contradiction
+The female plays tennis. ||Entailment

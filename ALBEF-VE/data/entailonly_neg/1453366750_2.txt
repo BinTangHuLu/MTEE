@@ -1,0 +1,3 @@
+there are not women ||contradiction
+there is not an indoor ||entailment
+the women are not indoor ||entailment

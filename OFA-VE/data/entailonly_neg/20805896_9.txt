@@ -1,0 +1,4 @@
+There is not a covers. ||Entailment
+There is not a chair. ||Entailment
+There is not a papsan. ||Contradiction
+The covers is not on chair. ||Entailment

@@ -1,0 +1,5 @@
+There is a man. ||Entailment
+The man is red-haired. ||Entailment
+The man is showing. ||Entailment
+There are muscles. ||Entailment
+The man is showing muscles. ||Entailment

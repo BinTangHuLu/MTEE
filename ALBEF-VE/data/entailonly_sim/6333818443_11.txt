@@ -1,0 +1,6 @@
+there is a female ||entailment
+there is a gallery ||neutral
+there is a bowl ||entailment
+the bowl is in her hand ||neutral
+the female is in the kitchen ||entailment
+the female is jumping with the cup ||entailment

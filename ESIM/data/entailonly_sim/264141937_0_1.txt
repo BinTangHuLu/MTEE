@@ -1,0 +1,4 @@
+There is a female. ||entailment
+The female is elaborately dressed. ||entailment
+The female has riches. ||entailment
+The female stands around with riches. ||entailment

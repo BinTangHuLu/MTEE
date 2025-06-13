@@ -1,0 +1,4 @@
+there is a woman ||entailment
+there is a court ||entailment
+there is a tennis ||entailment
+the woman is on court ||entailment

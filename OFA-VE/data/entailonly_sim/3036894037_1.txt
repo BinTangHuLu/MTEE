@@ -1,0 +1,4 @@
+There are defender. ||Entailment
+There is a body. ||Contradiction
+The body is old. ||Neutral
+The defender are near the person. ||Entailment

@@ -1,0 +1,6 @@
+there is a gentlewoman ||neutral
+there is some eyebrow ||entailment
+there is an article ||neutral
+the eyebrow is long ||neutral
+the gentlewoman is with hair ||contradiction
+the gentlewoman is standing over the object ||contradiction

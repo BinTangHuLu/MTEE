@@ -1,0 +1,3 @@
+there are child ||entailment
+the child are young ||neutral
+the child are asleep ||contradiction

@@ -1,0 +1,3 @@
+There is not a man. ||Contradiction
+There is not a gun. ||Contradiction
+The man is not holding the gun. ||Entailment

@@ -1,0 +1,3 @@
+there are dude ||entailment
+there is a dais ||entailment
+the dude are at podium ||entailment

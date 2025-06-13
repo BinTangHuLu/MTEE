@@ -1,0 +1,4 @@
+There is a baby. ||entailment
+There is a appendage. ||entailment
+The baby is chocolate. ||entailment
+The appendage is all over. ||contradiction

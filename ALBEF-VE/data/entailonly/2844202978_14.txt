@@ -1,0 +1,3 @@
+there is a table ||entailment
+there is a lady ||entailment
+the table is next to the lady ||entailment

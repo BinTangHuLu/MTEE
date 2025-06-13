@@ -1,0 +1,3 @@
+there is a man ||entailment
+there is water ||entailment
+the man is swimming in water ||contradiction

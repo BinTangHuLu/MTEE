@@ -1,0 +1,4 @@
+There are boy. ||Entailment
+There is a basin. ||Entailment
+The boy are two young. ||Entailment
+The boy are playing besides lake. ||Entailment

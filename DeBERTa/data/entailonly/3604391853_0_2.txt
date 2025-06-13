@@ -1,0 +1,3 @@
+There is a man. ||entailment
+The man is red. ||neutral
+The man is holding out hand. ||entailment

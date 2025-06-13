@@ -1,0 +1,5 @@
+There is not a kid. ||Contradiction
+There is not a floor. ||Entailment
+There is not a toy. ||Contradiction
+The kid does not play on the floor. ||Entailment
+The kid does not play with the toy. ||Neutral

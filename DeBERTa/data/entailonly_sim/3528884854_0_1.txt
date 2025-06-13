@@ -1,0 +1,3 @@
+There is a body. ||entailment
+There is a area. ||entailment
+The body is in the room. ||entailment

@@ -1,0 +1,3 @@
+there is a beach ||entailment
+there are footprints ||entailment
+the beach has footprints ||entailment

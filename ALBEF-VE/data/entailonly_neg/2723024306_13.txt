@@ -1,0 +1,3 @@
+there is not an adult ||contradiction
+there is not some sand ||contradiction
+the adult is not working with sand ||contradiction

@@ -1,0 +1,5 @@
+There are not workers. ||Entailment
+There are not feet. ||Entailment
+There is not ground. ||Entailment
+The workers do not have feet. ||Entailment
+The feet are not on ground. ||Entailment

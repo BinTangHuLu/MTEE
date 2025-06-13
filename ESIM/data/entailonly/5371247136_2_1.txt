@@ -1,0 +1,5 @@
+There is a lady. ||entailment
+There is a scope. ||entailment
+There is an ocean. ||entailment
+The lady is looking through the scope. ||entailment
+The scope is at the ocean. ||entailment

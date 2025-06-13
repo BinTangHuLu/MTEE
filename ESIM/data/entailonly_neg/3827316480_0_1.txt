@@ -1,0 +1,4 @@
+There is not a girl. ||contradiction
+There is not an object. ||contradiction
+The girl does not run. ||contradiction
+The girl does not lean over the object. ||contradiction

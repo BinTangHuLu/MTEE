@@ -1,0 +1,7 @@
+there is a woman ||entailment
+there is a suit ||entailment
+there is an edge ||entailment
+there is a pool ||entailment
+the pool is in ground ||neutral
+the woman is holding onto the edge ||entailment
+the edge is of the pool ||entailment

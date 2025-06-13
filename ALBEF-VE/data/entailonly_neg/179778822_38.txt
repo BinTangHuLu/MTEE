@@ -1,0 +1,6 @@
+there is not a child ||contradiction
+there is not a shirt ||entailment
+there is not a mirror ||contradiction
+the shirt is not yellow ||contradiction
+the child is not wearing the shirt ||neutral
+the child is not looking into the mirror ||contradiction

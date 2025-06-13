@@ -1,0 +1,8 @@
+there is not a worker ||contradiction
+there is not a pole ||contradiction
+there is not work ||contradiction
+there is not a dude ||contradiction
+there is not a shirt ||contradiction
+the shirt is not striped ||contradiction
+the worker is not doing pole based work ||entailment
+the dude does not talk to the worker ||contradiction

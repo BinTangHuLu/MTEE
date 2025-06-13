@@ -1,0 +1,5 @@
+There is a man. ||Entailment
+There is a shovel. ||Entailment
+There are hands. ||Entailment
+The man is holding a shovel. ||Entailment
+The shovel is in hands. ||Entailment

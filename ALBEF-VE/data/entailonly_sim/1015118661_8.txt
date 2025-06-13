@@ -1,0 +1,5 @@
+there is a employee ||entailment
+there is a gem ||entailment
+there is a child ||entailment
+the child is little ||entailment
+the child is standing next to the worker ||contradiction

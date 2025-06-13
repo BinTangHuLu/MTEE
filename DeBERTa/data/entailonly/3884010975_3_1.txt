@@ -1,0 +1,5 @@
+There is a woman. ||entailment
+There is a kitchen. ||entailment
+The woman is young. ||entailment
+The kitchen is very good. ||neutral
+The woman works in the kitchen. ||entailment

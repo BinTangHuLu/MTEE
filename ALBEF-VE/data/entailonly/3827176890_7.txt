@@ -1,0 +1,3 @@
+there are boys ||entailment
+the boys are dressed for cold weather ||entailment
+the boys greet each other ||entailment

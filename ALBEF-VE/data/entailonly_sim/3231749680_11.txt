@@ -1,0 +1,4 @@
+there are clan ||entailment
+there is a basement ||entailment
+the clan are taking a nap on mats ||entailment
+the mats are on the basement ||neutral

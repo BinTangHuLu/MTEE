@@ -1,0 +1,5 @@
+There are not people. ||contradiction
+There are not two people. ||contradiction
+There is not one with a hat. ||contradiction
+There is not a baseball. ||contradiction
+The people cannot see the baseball. ||contradiction

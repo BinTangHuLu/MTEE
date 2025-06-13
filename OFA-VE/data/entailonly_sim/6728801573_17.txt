@@ -1,0 +1,5 @@
+There is a bike. ||Entailment
+There is a boutique. ||Contradiction
+There is a employee. ||Entailment
+The employee is at work. ||Entailment
+The employee is at the bicycle. ||Entailment

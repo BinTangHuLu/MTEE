@@ -1,0 +1,11 @@
+There is a scene. ||neutral
+There are workers. ||entailment
+There is gear. ||entailment
+There is scaffolding. ||entailment
+The scene is outdoor. ||entailment
+The scene is daytime. ||entailment
+The workers are two. ||entailment
+The workers are safety. ||entailment
+The gear is safety. ||entailment
+The scene is with workers. ||neutral
+The workers are working on scaffolding. ||entailment

@@ -1,0 +1,3 @@
+there is a worker ||entailment
+the worker is indoors ||entailment
+the worker is indoors ||entailment

@@ -1,0 +1,4 @@
+There is a volleyball bout. ||entailment
+There is advance. ||entailment
+The volleyball bout is in progress. ||entailment
+The advance is between ladies. ||entailment

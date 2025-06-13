@@ -1,0 +1,3 @@
+There is not a Skateboarder. ||Entailment
+There is not air. ||Entailment
+The Skateboarder is not in air. ||Entailment

@@ -1,0 +1,4 @@
+there is a group ||entailment
+there are some people ||entailment
+there is an escalator ||entailment
+the group is on escalator ||entailment

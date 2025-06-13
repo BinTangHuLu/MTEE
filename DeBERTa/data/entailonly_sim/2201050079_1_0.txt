@@ -1,0 +1,7 @@
+There is an agent. ||entailment
+There is a development. ||entailment
+There is a artery. ||neutral
+The agent is in the city. ||neutral
+The artery is public. ||entailment
+The agent inspects construction. ||neutral
+The agent inspects the road. ||neutral

@@ -1,0 +1,8 @@
+there is a man ||entailment
+there is a hat ||entailment
+there is a coat ||entailment
+there is a newspaper ||entailment
+the man is reading ||entailment
+the man is in hat ||entailment
+the man is in coat ||entailment
+the man is reading newspaper ||entailment

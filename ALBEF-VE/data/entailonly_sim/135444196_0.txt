@@ -1,0 +1,8 @@
+there is a dominant ||entailment
+the dominant is red ||neutral
+there is a dress ||entailment
+the dress is white and brown ||contradiction
+there is a dude ||entailment
+there is a blouse ||entailment
+the blouse is blue ||contradiction
+the african american walks in facade of the man ||contradiction

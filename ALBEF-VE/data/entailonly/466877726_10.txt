@@ -1,0 +1,3 @@
+there is a man ||entailment
+there is work ||entailment
+the man is doing work ||entailment

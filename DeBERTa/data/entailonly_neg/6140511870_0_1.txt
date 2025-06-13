@@ -1,0 +1,10 @@
+There is not a guy. ||contradiction
+There are not some pants. ||contradiction
+There is not a shirt. ||contradiction
+There is not a face mask. ||contradiction
+There is not fire. ||contradiction
+The guy is not in pants. ||contradiction
+The guy is not in shirt. ||contradiction
+The guy is not wearing a face mask. ||contradiction
+The face mask is not to breath through. ||entailment
+The guy does not fool around with fire. ||contradiction

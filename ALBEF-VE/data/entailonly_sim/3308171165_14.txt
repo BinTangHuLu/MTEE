@@ -1,0 +1,3 @@
+there is a child ||entailment
+there is a bar ||entailment
+the child is against the wall ||entailment

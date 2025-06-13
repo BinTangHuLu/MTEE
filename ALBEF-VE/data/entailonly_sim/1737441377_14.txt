@@ -1,0 +1,8 @@
+there is a dude ||entailment
+there is a child ||entailment
+there are some apparel ||entailment
+the apparel are colorful ||neutral
+the dude is adorned in garments ||entailment
+the child is adorned in garments ||entailment
+the dude shops at the market ||neutral
+the child shops at the market ||neutral

@@ -1,0 +1,3 @@
+there are adolescent ||entailment
+there is a association ||entailment
+the adolescent are in a group ||neutral

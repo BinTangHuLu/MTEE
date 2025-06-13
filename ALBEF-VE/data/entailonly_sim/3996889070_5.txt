@@ -1,0 +1,5 @@
+there is a child ||entailment
+there is an bodily ||entailment
+the child is little ||entailment
+the child is kind ||neutral
+the child is being animal ||entailment

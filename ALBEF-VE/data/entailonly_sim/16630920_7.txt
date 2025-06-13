@@ -1,0 +1,3 @@
+there is a dude ||entailment
+there is some caffeine ||neutral
+the dude has coffee ||entailment

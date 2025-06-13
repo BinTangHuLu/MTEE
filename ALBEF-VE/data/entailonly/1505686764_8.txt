@@ -1,0 +1,5 @@
+there is a man ||entailment
+there is a shirt ||contradiction
+there is a river ||entailment
+the man took off the shirt ||entailment
+the man is near the river ||entailment

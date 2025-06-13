@@ -1,0 +1,5 @@
+There is not a man. ||contradiction
+The man is not wearing a suit with gold buttons. ||contradiction
+The suit does not have a name tag. ||contradiction
+The man does not have hands. ||contradiction
+The man does not gesture with hands. ||contradiction

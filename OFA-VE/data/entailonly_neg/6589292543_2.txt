@@ -1,0 +1,2 @@
+There is not a boy. ||Entailment
+The boy is not tired. ||Entailment

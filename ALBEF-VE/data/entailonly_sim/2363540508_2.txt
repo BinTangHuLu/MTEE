@@ -1,0 +1,3 @@
+there is a child ||entailment
+there is a channel ||entailment
+the child is going through the tunnel ||entailment

@@ -1,0 +1,4 @@
+there are girls ||entailment
+the girls are uniformed ||entailment
+there is a sport ||entailment
+the girls play a sport ||entailment

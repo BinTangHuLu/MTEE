@@ -1,0 +1,3 @@
+there is a baby ||entailment
+there is a screw ||neutral
+the baby reaches up toward the propeller ||entailment

@@ -1,0 +1,4 @@
+there is not a boy ||contradiction
+there are not some rocks ||contradiction
+the boy is not little ||contradiction
+the boy is not balancing on rocks ||contradiction

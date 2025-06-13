@@ -1,0 +1,4 @@
+There are community. ||Entailment
+There is an excursion. ||Entailment
+The community talk with people. ||Entailment
+The community are on outing. ||Entailment

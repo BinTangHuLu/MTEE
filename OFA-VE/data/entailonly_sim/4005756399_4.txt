@@ -1,0 +1,4 @@
+There are equipment. ||Entailment
+There is a avenue. ||Entailment
+Someone is selling equipment. ||Neutral
+Someone stands on the avenue. ||Entailment

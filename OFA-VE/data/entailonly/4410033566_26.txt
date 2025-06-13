@@ -1,0 +1,3 @@
+There is a man. ||Entailment
+There is a counter. ||Entailment
+The man is leaning on the counter. ||Entailment

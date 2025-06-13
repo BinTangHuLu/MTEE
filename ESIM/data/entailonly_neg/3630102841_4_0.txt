@@ -1,0 +1,4 @@
+There are not men. ||contradiction
+There are not hats. ||contradiction
+The men are not having. ||contradiction
+The hats are not on their head. ||entailment

@@ -1,0 +1,6 @@
+there is not a man ||contradiction
+there is not a hat ||contradiction
+there is not a coat ||contradiction
+the man is not talking on the phone ||contradiction
+the man is not in the hat ||entailment
+the man is not in the coat ||contradiction

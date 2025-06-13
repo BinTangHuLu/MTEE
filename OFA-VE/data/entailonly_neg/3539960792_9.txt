@@ -1,0 +1,4 @@
+There is not a man. ||Contradiction
+There is not a bat. ||Entailment
+The man is not with the bat. ||Entailment
+The man is not wearing the bat. ||Neutral

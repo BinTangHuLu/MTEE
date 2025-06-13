@@ -1,0 +1,6 @@
+there is a female ||entailment
+there is a fedora ||neutral
+there are bling skates ||neutral
+the fedora is red ||neutral
+the female is wearing a hat ||entailment
+the female is wearing ice skates ||contradiction

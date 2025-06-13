@@ -1,0 +1,3 @@
+there is a dude ||entailment
+there is a crew cut ||entailment
+the dude is getting a haircut ||entailment

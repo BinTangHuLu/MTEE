@@ -1,0 +1,5 @@
+there is a dude ||entailment
+there is a blouse ||entailment
+there is a fedora ||entailment
+the blouse is black ||entailment
+the fedora is black ||neutral

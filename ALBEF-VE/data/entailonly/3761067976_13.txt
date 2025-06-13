@@ -1,0 +1,3 @@
+there is a girl ||entailment
+there is a rose ||entailment
+the girl is holding a rose ||neutral

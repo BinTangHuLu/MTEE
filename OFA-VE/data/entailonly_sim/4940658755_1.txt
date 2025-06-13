@@ -1,0 +1,3 @@
+There is a dude. ||Entailment
+There is a bank. ||Entailment
+The dude stands next to the store. ||Entailment

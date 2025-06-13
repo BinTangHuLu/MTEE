@@ -1,0 +1,3 @@
+there is a store ||entailment
+there is a town ||entailment
+the store is in town ||entailment

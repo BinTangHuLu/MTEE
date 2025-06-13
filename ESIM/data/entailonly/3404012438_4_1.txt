@@ -1,0 +1,5 @@
+There is a dog. ||entailment
+There is a pond. ||entailment
+There is a duck. ||entailment
+The dog is swimming through the pond. ||neutral
+The dog is in pursuit of the duck. ||neutral

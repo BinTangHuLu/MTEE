@@ -1,0 +1,4 @@
+There is not a woman. ||Contradiction
+There is not a uniform. ||Contradiction
+The woman is not Chinese. ||Entailment
+The woman is not wearing a uniform. ||Neutral

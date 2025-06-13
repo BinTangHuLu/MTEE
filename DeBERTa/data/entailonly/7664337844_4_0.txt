@@ -1,0 +1,4 @@
+There is a group. ||entailment
+There are some swimmers. ||entailment
+There is water. ||entailment
+The swimmers are jumping into water. ||entailment

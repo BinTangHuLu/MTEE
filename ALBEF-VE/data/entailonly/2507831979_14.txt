@@ -1,0 +1,3 @@
+there is a woman ||entailment
+there is a chat ||entailment
+the woman is having chat ||entailment

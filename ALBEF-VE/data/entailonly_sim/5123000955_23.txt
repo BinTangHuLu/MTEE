@@ -1,0 +1,3 @@
+there are clan ||entailment
+the clan are wearing coats ||neutral
+the clan are jumping in the air ||entailment

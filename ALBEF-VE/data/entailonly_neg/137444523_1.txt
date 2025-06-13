@@ -1,0 +1,5 @@
+there is not a man ||contradiction
+there is not a t shirt ||contradiction
+the man is not young ||entailment
+the t shirt is not green ||contradiction
+the man is not wearing a t shirt ||contradiction

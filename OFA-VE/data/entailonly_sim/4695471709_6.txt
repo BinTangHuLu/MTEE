@@ -1,0 +1,3 @@
+There are community. ||Entailment
+There are bronze. ||Neutral
+The community are visiting statues. ||Neutral

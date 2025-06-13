@@ -1,0 +1,5 @@
+There is a dude. ||Entailment
+There are some gesture. ||Entailment
+There is a dais. ||Contradiction
+The dude uses gestures. ||Entailment
+The dude is speaking at the podium. ||Entailment

@@ -1,0 +1,3 @@
+there are not children ||contradiction
+there is not a pool ||contradiction
+some children are not playing in the pool ||neutral

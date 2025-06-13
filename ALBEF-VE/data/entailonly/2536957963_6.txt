@@ -1,0 +1,3 @@
+there are janitors ||entailment
+there is a job ||entailment
+the janitors are doing the job ||entailment

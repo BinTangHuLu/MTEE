@@ -1,0 +1,4 @@
+there is not a human ||contradiction
+there is not an instrument ||contradiction
+the instrument is not musical ||neutral
+the human is not playing the instrument ||entailment

@@ -1,0 +1,3 @@
+there are man ||entailment
+there is a bar ||entailment
+the man are on the wall ||entailment

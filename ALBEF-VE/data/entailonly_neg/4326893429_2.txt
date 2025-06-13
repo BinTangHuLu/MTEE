@@ -1,0 +1,6 @@
+there are not men ||contradiction
+there is not clothing ||contradiction
+there is not a hill ||contradiction
+the clothing is not winter ||contradiction
+the men are not in clothing ||contradiction
+the men are not by the hill ||contradiction

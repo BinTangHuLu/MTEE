@@ -1,0 +1,4 @@
+There is not Traffic. ||contradiction
+There is not a worker. ||contradiction
+There is not a road. ||contradiction
+The Traffic is not being directed by the worker. ||contradiction

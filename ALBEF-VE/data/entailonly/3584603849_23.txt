@@ -1,0 +1,3 @@
+there are planes ||entailment
+the planes are some ||neutral
+the planes are flying around planes ||entailment

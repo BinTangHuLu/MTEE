@@ -1,0 +1,3 @@
+There is a account. ||Contradiction
+There is a capital. ||Entailment
+The account is in the city. ||Entailment

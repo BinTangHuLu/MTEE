@@ -1,0 +1,5 @@
+there are community ||entailment
+there is a exterior ||entailment
+the exterior is raised ||entailment
+the community are on the surface ||entailment
+the exterior is near traintracks ||neutral

@@ -1,0 +1,4 @@
+there is a athlete ||entailment
+there is a soccer ||contradiction
+the athlete is running ||entailment
+the athlete is running with the ball ||entailment

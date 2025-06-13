@@ -1,0 +1,4 @@
+There is a association. ||entailment
+The clan are Asian. ||entailment
+There are clan. ||entailment
+The clan are beating on tambourines. ||entailment

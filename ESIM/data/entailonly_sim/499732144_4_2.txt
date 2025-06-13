@@ -1,0 +1,7 @@
+There is a child. ||entailment
+There are knickers. ||entailment
+The child is his. ||neutral
+The knickers are his. ||neutral
+The suspenders are attached to knickers. ||neutral
+The child has suspenders. ||entailment
+The suspenders are attached to knickers. ||neutral

@@ -1,0 +1,3 @@
+there is a dude ||contradiction
+there is a circle ||entailment
+the dude is in the crowd ||entailment

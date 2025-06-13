@@ -1,0 +1,4 @@
+there is not a male ||contradiction
+there is not a person ||contradiction
+the male is not african american ||entailment
+the male is not with person ||contradiction

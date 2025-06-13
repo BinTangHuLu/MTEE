@@ -1,0 +1,4 @@
+There is a pup. ||Entailment
+There is a bludgeon. ||Entailment
+The pup and cow are outside. ||Entailment
+The pup is outside cow. ||Entailment

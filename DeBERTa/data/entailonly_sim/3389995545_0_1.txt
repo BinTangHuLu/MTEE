@@ -1,0 +1,3 @@
+There is a soccer agreeable. ||entailment
+It is midnight. ||neutral
+The soccer agreeable is being played at night. ||entailment

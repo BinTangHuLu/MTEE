@@ -1,0 +1,2 @@
+There is a commemoration. ||entailment
+The commemoration is occurring. ||entailment

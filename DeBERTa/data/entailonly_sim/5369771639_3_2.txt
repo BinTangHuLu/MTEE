@@ -1,0 +1,6 @@
+There is a referee. ||entailment
+There are dude. ||entailment
+There is a agreeable. ||neutral
+The referee watches men. ||entailment
+The dude are in the game. ||entailment
+The referee watches the game. ||entailment

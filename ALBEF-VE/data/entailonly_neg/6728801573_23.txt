@@ -1,0 +1,4 @@
+there is not a woman ||contradiction
+there is not a bike ||contradiction
+the woman is not old ||entailment
+the woman is not building the bike ||neutral

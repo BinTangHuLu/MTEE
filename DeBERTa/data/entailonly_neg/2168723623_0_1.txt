@@ -1,0 +1,3 @@
+There is not a plane. ||contradiction
+There is not a sky. ||contradiction
+The plane does not fly in the sky. ||contradiction

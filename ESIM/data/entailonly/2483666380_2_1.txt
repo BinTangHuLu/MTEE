@@ -1,0 +1,4 @@
+There is a woman. ||entailment
+The woman is doing something. ||entailment
+Her hands are her. ||entailment
+The woman is doing with hands. ||entailment

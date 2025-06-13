@@ -1,0 +1,5 @@
+There is a person. ||entailment
+There is a child. ||entailment
+There is another person. ||entailment
+The person is talking to the child. ||entailment
+Another person watches. ||entailment

@@ -1,0 +1,5 @@
+there are dude ||entailment
+there is an congregation ||entailment
+there are two dude ||entailment
+the congregation is full ||contradiction
+the dude are karate fighting in front of the audience ||entailment

@@ -1,0 +1,3 @@
+there is a group ||entailment
+there is a studio ||entailment
+the group are inside studio ||contradiction

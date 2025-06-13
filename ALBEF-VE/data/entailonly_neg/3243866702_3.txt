@@ -1,0 +1,5 @@
+there are not children ||contradiction
+there is not a turtle ||contradiction
+there is not a beach ||contradiction
+the children do not play with the turtle ||contradiction
+the turtle is not at the beach ||contradiction

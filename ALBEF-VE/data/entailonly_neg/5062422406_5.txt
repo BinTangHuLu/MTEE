@@ -1,0 +1,8 @@
+there is not a golfer ||contradiction
+there is not a jacket ||contradiction
+there are not pants ||contradiction
+there is not a club ||contradiction
+the jacket does not wear ||contradiction
+the golfer does not wear the jacket ||contradiction
+the golfer does not wear the pants ||entailment
+the golfer is not swinging the club ||entailment

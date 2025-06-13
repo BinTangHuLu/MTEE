@@ -1,0 +1,4 @@
+there is not a woman ||contradiction
+the woman is not dressed in black ||contradiction
+there is not a black ||contradiction
+there is not outdoors ||contradiction

@@ -1,0 +1,4 @@
+there is not a plane ||contradiction
+there are not passengers ||contradiction
+the passengers are not two ||entailment
+the plane does not have passengers ||neutral

@@ -1,0 +1,4 @@
+there are people ||entailment
+there is a ride ||entailment
+the ride is park ||neutral
+people are riding a ride ||entailment

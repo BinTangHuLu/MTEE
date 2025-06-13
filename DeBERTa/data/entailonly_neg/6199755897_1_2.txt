@@ -1,0 +1,5 @@
+There is not a runner. ||contradiction
+There is not a convoy. ||contradiction
+There are not some motorcycles. ||contradiction
+The runner is not with convoy. ||contradiction
+The convoy is not of motorcycles. ||contradiction

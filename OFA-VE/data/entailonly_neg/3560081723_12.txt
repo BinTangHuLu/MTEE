@@ -1,0 +1,3 @@
+There is not a racer. ||Contradiction
+There is not an ATV. ||Contradiction
+The racer does not jump in ATV. ||Contradiction

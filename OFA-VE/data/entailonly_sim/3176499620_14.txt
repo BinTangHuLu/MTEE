@@ -1,0 +1,6 @@
+There is a dude. ||Entailment
+There is a frame. ||Entailment
+The frame is his. ||Contradiction
+The dude is moving. ||Entailment
+The dude is moving very rapidly. ||Entailment
+The dude is moving the body. ||Entailment

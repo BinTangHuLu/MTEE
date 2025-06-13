@@ -1,0 +1,5 @@
+There is not a girl. ||contradiction
+There is not a smile. ||contradiction
+There are not teeth. ||contradiction
+The girl does not fake a smile. ||contradiction
+The girl does not need to brush her teeth. ||contradiction

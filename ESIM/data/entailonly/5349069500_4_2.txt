@@ -1,0 +1,5 @@
+There is a basket weaver. ||entailment
+There is a class. ||entailment
+There is a fair. ||entailment
+The basket weaver is teaching the class. ||neutral
+The class is at the fair. ||entailment

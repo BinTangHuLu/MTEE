@@ -1,0 +1,4 @@
+there is a woman ||entailment
+there is a uniform ||entailment
+the uniform is volleyball ||neutral
+the woman is wearing uniform ||entailment

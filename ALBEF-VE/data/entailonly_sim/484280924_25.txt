@@ -1,0 +1,6 @@
+there is a dude ||entailment
+there is some bread ||entailment
+there is a bar kitchen ||entailment
+the bread is different ||neutral
+the dude is cooking food ||entailment
+the bread is in the restaurant kitchen ||entailment

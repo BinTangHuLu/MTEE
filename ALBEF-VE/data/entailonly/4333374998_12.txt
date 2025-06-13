@@ -1,0 +1,3 @@
+there is a kid ||entailment
+there is a window ||entailment
+the kid looks out of the window ||entailment

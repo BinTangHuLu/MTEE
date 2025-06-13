@@ -1,0 +1,4 @@
+There is a halt. ||Entailment
+There is some berry. ||Neutral
+There are dude. ||Entailment
+The halt is surrounded by men. ||Entailment

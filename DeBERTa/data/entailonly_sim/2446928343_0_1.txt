@@ -1,0 +1,6 @@
+There is a female. ||entailment
+There is a blouse. ||entailment
+There is a armchair. ||entailment
+There is an definition. ||entailment
+The female is animated. ||entailment
+The female is sitting in the chair. ||entailment

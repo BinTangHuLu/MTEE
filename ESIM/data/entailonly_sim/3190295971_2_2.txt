@@ -1,0 +1,7 @@
+There is alcohol. ||entailment
+There is a bar. ||neutral
+There are community. ||neutral
+The bar is many. ||neutral
+The Food is on the bar. ||contradiction
+The alcohol is on the table. ||entailment
+The community are surrounding the table. ||neutral

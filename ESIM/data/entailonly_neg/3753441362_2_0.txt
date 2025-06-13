@@ -1,0 +1,5 @@
+There is not a person. ||contradiction
+The person does not have upper. ||contradiction
+The person does not have lower. ||entailment
+The person does not separate upper. ||entailment
+The person does not separate lower. ||entailment

@@ -1,0 +1,2 @@
+E1R,seat,for
+A,away facing

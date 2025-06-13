@@ -1,0 +1,3 @@
+There is a child. ||entailment
+There are some gemstone. ||entailment
+The child sits in front of stones. ||entailment

@@ -1,0 +1,4 @@
+There is a dude. ||Entailment
+There is a slope. ||Entailment
+The slope is vert. ||Neutral
+The dude is on ramp. ||Entailment

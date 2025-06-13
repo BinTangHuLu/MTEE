@@ -1,0 +1,3 @@
+there are not men ||contradiction
+the men are not standing ||entailment
+men are not standing by men ||contradiction

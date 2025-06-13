@@ -1,0 +1,6 @@
+there is a researcher ||entailment
+there is an image ||entailment
+there is a glass ||entailment
+the glass is magnifying ||neutral
+the researcher studies the image ||entailment
+the image is with the glass ||neutral

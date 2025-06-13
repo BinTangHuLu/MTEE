@@ -1,0 +1,4 @@
+EA,clothes,tattered
+A,poor
+RE2,kneels by,body
+A,trash filled

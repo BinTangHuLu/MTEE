@@ -1,0 +1,5 @@
+there is a girl ||entailment
+there is a wheelbarrow ||entailment
+there are gloves ||neutral
+the gloves are wearing ||neutral
+the girl is bushes wheelbarrow ||entailment

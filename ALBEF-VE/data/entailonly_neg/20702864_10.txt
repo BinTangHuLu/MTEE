@@ -1,0 +1,3 @@
+there are not workers ||contradiction
+there is not a city ||contradiction
+the workers are not working outside ||contradiction

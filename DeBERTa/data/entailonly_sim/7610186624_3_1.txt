@@ -1,0 +1,4 @@
+There is a gentlewoman. ||neutral
+There is a bar. ||neutral
+The gentlewoman is leeping. ||neutral
+The gentlewoman is on the table. ||neutral

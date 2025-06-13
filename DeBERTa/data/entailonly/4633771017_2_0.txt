@@ -1,0 +1,4 @@
+There is a man. ||entailment
+There is someone. ||entailment
+The man dances with someone. ||entailment
+The man is in disguise. ||neutral

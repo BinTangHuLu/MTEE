@@ -1,0 +1,6 @@
+there is a man ||entailment
+there is a drink ||entailment
+there are people ||entailment
+the drink is his ||neutral
+the man is having a sip of drink ||entailment
+the man is with people ||neutral

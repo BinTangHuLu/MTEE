@@ -1,0 +1,4 @@
+There is a gentleman. ||entailment
+There is a lady. ||entailment
+The gentleman is young. ||neutral
+The gentleman is speaking to the lady. ||entailment

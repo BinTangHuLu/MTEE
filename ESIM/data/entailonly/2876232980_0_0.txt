@@ -1,0 +1,6 @@
+There is a child. ||entailment
+There is a top. ||entailment
+The top is red. ||entailment
+The child is blond headed. ||entailment
+The child is wearing the top. ||entailment
+The child is standing behind the child. ||entailment

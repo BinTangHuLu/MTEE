@@ -1,0 +1,3 @@
+There are club. ||entailment
+There are two club. ||entailment
+The club are playing sport. ||entailment

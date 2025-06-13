@@ -1,0 +1,5 @@
+There is a person. ||Entailment
+There is a cat. ||Entailment
+There is a store. ||Entailment
+The person stands near the cat. ||Entailment
+The cat is in the store. ||Entailment

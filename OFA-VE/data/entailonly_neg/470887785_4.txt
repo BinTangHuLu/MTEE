@@ -1,0 +1,6 @@
+There is not a woman. ||Entailment
+There is not a group. ||Contradiction
+There are not people. ||Contradiction
+The woman is not speaking. ||Entailment
+The woman is not speaking to the group. ||Neutral
+The group is not of people. ||Entailment

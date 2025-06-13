@@ -1,0 +1,3 @@
+there is a man ||entailment
+there are some bikes ||entailment
+the man is looking at bikes ||entailment

@@ -1,0 +1,2 @@
+There is a blanket. ||entailment
+The blanket is white. ||entailment

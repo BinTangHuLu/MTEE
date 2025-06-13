@@ -1,0 +1,3 @@
+there is a bar ||entailment
+there is a gentlewoman ||entailment
+the bar is next to the lady ||entailment

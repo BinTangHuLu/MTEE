@@ -1,0 +1,3 @@
+there is not an elephant ||contradiction
+there is not a man ||contradiction
+the elephant is not being ridden by the man ||contradiction

@@ -1,0 +1,3 @@
+there are guys ||entailment
+there is entertainment ||entailment
+the guys are putting on entertainment ||entailment

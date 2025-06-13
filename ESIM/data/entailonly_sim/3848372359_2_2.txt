@@ -1,0 +1,5 @@
+There are community. ||neutral
+There is a caravan track. ||contradiction
+The community are some. ||neutral
+The community are with cameras. ||neutral
+The community are standing on the train track. ||neutral

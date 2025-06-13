@@ -1,0 +1,4 @@
+there is a mountain climber ||entailment
+there is a rock face ||entailment
+the rock face is sheer ||neutral
+the mountain climber scales the rock face ||entailment

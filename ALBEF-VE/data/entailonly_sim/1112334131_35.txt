@@ -1,0 +1,4 @@
+there is a child ||entailment
+there is a fedora ||contradiction
+the child is wearing ||entailment
+the child is making a funny face ||entailment

@@ -1,0 +1,4 @@
+There is a group. ||entailment
+There are some people. ||entailment
+There are some suitcases. ||entailment
+The group are pulling suitcases. ||entailment

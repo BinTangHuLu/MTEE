@@ -1,0 +1,4 @@
+There is a baby. ||entailment
+The baby plays. ||entailment
+The baby plays with brooms. ||neutral
+The baby plays outside. ||entailment

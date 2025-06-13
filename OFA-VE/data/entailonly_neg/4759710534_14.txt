@@ -1,0 +1,4 @@
+There is not a woman. ||Contradiction
+There is not a tattoo. ||Contradiction
+The tattoo is not on the upper back. ||Entailment
+The woman does not have a tattoo on the upper back. ||Contradiction

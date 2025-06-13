@@ -1,0 +1,3 @@
+there is a bicyclist ||entailment
+the bicyclist is racing ||entailment
+the bicyclist is racing ||entailment

@@ -1,0 +1,4 @@
+there is a woman ||entailment
+there is an object ||entailment
+the object is new ||neutral
+the woman examines the object ||entailment

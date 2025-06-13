@@ -1,0 +1,5 @@
+There are not Women. ||contradiction
+There are not computers. ||contradiction
+There is not a store. ||contradiction
+The Women are not shopping for computers. ||contradiction
+The Women are not shopping at the store. ||contradiction

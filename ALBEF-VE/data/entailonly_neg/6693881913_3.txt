@@ -1,0 +1,3 @@
+there are not players ||contradiction
+there is not a rink ||contradiction
+the players do not play on the rink ||contradiction

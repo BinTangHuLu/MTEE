@@ -1,0 +1,16 @@
+there is a child ||entailment
+there is a blouse ||entailment
+there is a bowl ||entailment
+there is a depict ||entailment
+there is a mom ||entailment
+there are knickers ||entailment
+the child is young blonde ||neutral
+the blouse is yellow ||entailment
+the blouse is yellow ||entailment
+the knickers are red ||neutral
+the child is with a shirt ||entailment
+the child is with a cup ||entailment
+the child looks at a mirror ||entailment
+the depict is with a mother ||entailment
+the mom is behind the girl ||entailment
+the mom is wearing a shirt ||entailment

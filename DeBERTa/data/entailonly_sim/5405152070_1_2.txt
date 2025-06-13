@@ -1,0 +1,5 @@
+There are child. ||entailment
+There is a field. ||contradiction
+There are composure. ||entailment
+The child are in gym. ||entailment
+The child stretch legs. ||entailment

@@ -1,0 +1,4 @@
+There is a group. ||Entailment
+There are men. ||Entailment
+There is a basketball. ||Entailment
+The men are playing basketball. ||Entailment

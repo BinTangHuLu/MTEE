@@ -1,0 +1,11 @@
+There are community. ||entailment
+There are documentation. ||entailment
+There is a challenge. ||neutral
+There is a avenue. ||entailment
+The community are holding up signs. ||entailment
+The community are holding up signs. ||entailment
+The community are holding up signs. ||entailment
+The community are holding up signs. ||entailment
+The community are holding up signs. ||entailment
+The community are holding up signs. ||entailment
+The community are holding up signs. ||entailment

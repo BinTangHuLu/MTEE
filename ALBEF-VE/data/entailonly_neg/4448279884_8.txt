@@ -1,0 +1,5 @@
+there are not friends ||contradiction
+there is not a gathering ||contradiction
+there is not a bonfire ||contradiction
+the friends are not having a gathering ||contradiction
+the gathering is not near bonfire ||contradiction

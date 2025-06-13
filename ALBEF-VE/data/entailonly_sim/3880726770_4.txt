@@ -1,0 +1,4 @@
+there are equipment ||entailment
+there is a boutique ||entailment
+the spices are put in act in the shop ||entailment
+the equipment are put in display in the shop ||contradiction

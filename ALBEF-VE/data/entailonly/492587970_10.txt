@@ -1,0 +1,5 @@
+there are men ||entailment
+there are women ||entailment
+there are two men ||entailment
+men are improving hygiene ||entailment
+women watch men ||entailment

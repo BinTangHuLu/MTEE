@@ -1,0 +1,3 @@
+There is not a male. ||contradiction
+The male is not young. ||contradiction
+The male is not wearing a white shirt. ||contradiction

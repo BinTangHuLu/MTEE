@@ -1,0 +1,4 @@
+There is a woman. ||entailment
+There is a racquet. ||entailment
+The woman is tennis. ||entailment
+The racquet is tennis. ||entailment

@@ -1,0 +1,4 @@
+there is a lady ||entailment
+there is a swimsuit ||entailment
+the lady is checking things out ||entailment
+the lady is in swimsuit ||entailment

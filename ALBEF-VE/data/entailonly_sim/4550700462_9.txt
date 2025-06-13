@@ -1,0 +1,5 @@
+there is a female ||entailment
+there is a child ||entailment
+there is a banner ||entailment
+the female is walking next to the boy ||entailment
+the child is carrying the flag ||entailment

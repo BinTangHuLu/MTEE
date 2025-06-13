@@ -1,0 +1,4 @@
+There is a auto. ||entailment
+There is a smoke station. ||entailment
+The auto sets on fire. ||entailment
+The auto sets on fire at the gas station. ||entailment

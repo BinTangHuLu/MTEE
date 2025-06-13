@@ -1,0 +1,4 @@
+There is not a girl. ||contradiction
+There are not some drums. ||contradiction
+The drums are not electronic. ||contradiction
+The girl is not playing drums. ||contradiction

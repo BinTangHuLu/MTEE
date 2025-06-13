@@ -1,0 +1,4 @@
+there is a dude ||entailment
+there is a strum ||entailment
+the strum is premier brand ||neutral
+the dude is holding the drum ||entailment

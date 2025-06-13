@@ -1,0 +1,8 @@
+There is a boy. ||entailment
+There are suspenders. ||entailment
+There are pants. ||entailment
+The boy is his. ||neutral
+The pants are his. ||neutral
+The suspenders are attached to pants. ||entailment
+The boy has suspenders. ||entailment
+The suspenders are attached to pants. ||entailment

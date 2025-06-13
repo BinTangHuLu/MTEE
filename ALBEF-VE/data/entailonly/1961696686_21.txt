@@ -1,0 +1,5 @@
+there is a lady ||entailment
+there is a ball ||entailment
+there is a lane ||entailment
+the lady prepares to throw the ball ||entailment
+the ball is down the lane ||entailment

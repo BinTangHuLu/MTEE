@@ -1,0 +1,12 @@
+There is not an artist. ||contradiction
+There is not a picture. ||contradiction
+There is not a man. ||contradiction
+There is not a flock. ||contradiction
+There are not birds. ||contradiction
+The picture is not painted. ||contradiction
+The picture is not of a man. ||contradiction
+The man is not being flown high in the sky. ||contradiction
+The artist has not painted the picture. ||contradiction
+The picture is not of the man. ||contradiction
+The man is not being flown by the flock. ||contradiction
+The flock is not by birds. ||contradiction

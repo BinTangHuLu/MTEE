@@ -1,0 +1,6 @@
+there is not a man ||contradiction
+there is not a shirt ||contradiction
+there are not drums ||contradiction
+the shirt is not gray ||contradiction
+the man is not with the shirt ||contradiction
+the man does not play drums ||contradiction

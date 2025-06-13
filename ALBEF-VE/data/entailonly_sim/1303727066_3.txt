@@ -1,0 +1,3 @@
+there is a dude ||entailment
+there are claw ||entailment
+the dude raises fingers ||entailment

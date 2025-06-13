@@ -1,0 +1,3 @@
+there is a man ||entailment
+there is some clothing ||entailment
+the man wears clothing ||entailment

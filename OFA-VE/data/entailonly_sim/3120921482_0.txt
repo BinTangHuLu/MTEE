@@ -1,0 +1,5 @@
+There is a baby. ||Contradiction
+There is a blouse. ||Contradiction
+The blouse is red and white striped. ||Neutral
+The blouse is red. ||Contradiction
+The blouse is striped. ||Neutral

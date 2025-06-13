@@ -1,0 +1,2 @@
+there is a barrier ||entailment
+the monitors are behind the barrier ||entailment

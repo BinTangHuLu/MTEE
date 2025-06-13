@@ -1,0 +1,3 @@
+There is not a woman. ||contradiction
+There are not some lights. ||contradiction
+The woman is not under lights. ||contradiction

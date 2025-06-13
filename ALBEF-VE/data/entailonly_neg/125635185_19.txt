@@ -1,0 +1,3 @@
+there are not children ||contradiction
+there is not outdoors ||entailment
+the children are not outsiders ||contradiction

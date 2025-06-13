@@ -1,0 +1,2 @@
+R,outside
+A,enjoying

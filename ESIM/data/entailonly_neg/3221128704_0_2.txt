@@ -1,0 +1,4 @@
+There are not soccer players. ||contradiction
+There are not two soccer players. ||contradiction
+The soccer players do not run around. ||contradiction
+The soccer players are not chasing each other. ||contradiction

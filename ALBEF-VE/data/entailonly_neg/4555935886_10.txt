@@ -1,0 +1,5 @@
+there is not a woman ||contradiction
+there is not a dress ||contradiction
+there is not a line ||contradiction
+the dress is not in ||neutral
+the woman is not standing in front of the line ||contradiction

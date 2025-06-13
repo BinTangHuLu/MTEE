@@ -1,0 +1,3 @@
+there are community ||entailment
+there is electronics apparatus ||entailment
+the community are holding electronics equipment ||entailment

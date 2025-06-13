@@ -1,0 +1,4 @@
+There is not a dog. ||contradiction
+There is not a road. ||contradiction
+The dog is not running. ||contradiction
+The dog is not running down road. ||contradiction

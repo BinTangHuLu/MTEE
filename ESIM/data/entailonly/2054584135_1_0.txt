@@ -1,0 +1,8 @@
+There is a person. ||entailment
+There is a street. ||entailment
+There is snow. ||entailment
+The person is walking. ||entailment
+The street is scattered. ||entailment
+The snow is about. ||entailment
+The person is walking down the street. ||entailment
+The street is with snow. ||entailment

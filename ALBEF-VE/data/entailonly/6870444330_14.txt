@@ -1,0 +1,5 @@
+there is a man ||entailment
+there is a ground floor ||entailment
+there is some equipment ||entailment
+the man is above the ground floor ||entailment
+the man is with equipment ||entailment

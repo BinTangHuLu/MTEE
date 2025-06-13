@@ -1,0 +1,3 @@
+there is a waiter ||entailment
+there is a restaurant ||entailment
+the waiter is in the restaurant ||entailment

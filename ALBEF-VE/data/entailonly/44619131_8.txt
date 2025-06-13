@@ -1,0 +1,5 @@
+there are people ||entailment
+there are computers ||entailment
+there is a setting ||entailment
+the people work on computers ||entailment
+the people are in the setting ||neutral

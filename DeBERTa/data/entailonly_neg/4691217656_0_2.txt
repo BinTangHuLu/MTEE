@@ -1,0 +1,4 @@
+There is not a woman. ||contradiction
+There is not a man. ||contradiction
+The woman does not walk down the street. ||contradiction
+The man does not walk down the street. ||contradiction

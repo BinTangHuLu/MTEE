@@ -1,0 +1,2 @@
+There is an sea. ||entailment
+The seagulls are flying over the sea. ||entailment

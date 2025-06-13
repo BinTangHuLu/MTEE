@@ -1,0 +1,6 @@
+There is a dude. ||entailment
+There is a artery. ||contradiction
+The flee kart is numbered 65. ||neutral
+The artery is narrow. ||entailment
+The dude is driving the go kart. ||entailment
+The dude is on the road. ||entailment

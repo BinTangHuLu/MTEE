@@ -1,0 +1,5 @@
+there is not a boy ||contradiction
+there is not a girl ||contradiction
+there is not a subway ||contradiction
+the boy is not standing with the girl ||entailment
+the boy is not in the subway ||entailment

@@ -1,0 +1,4 @@
+there is a association ||entailment
+there are some community ||entailment
+the community are in a group ||entailment
+the community are playing golf ||entailment

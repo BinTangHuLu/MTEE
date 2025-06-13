@@ -1,0 +1,5 @@
+There is a Person. ||Entailment
+There is a skateboard. ||Entailment
+There is a stair rail. ||Entailment
+The Person is on the skateboard. ||Entailment
+The skateboard is on the stair rail. ||Entailment

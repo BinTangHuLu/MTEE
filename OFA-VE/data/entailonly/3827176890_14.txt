@@ -1,0 +1,2 @@
+There are boys. ||Entailment
+The boys are outside. ||Entailment

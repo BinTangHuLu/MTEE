@@ -1,0 +1,4 @@
+There is not a woman. ||contradiction
+There is not a bag. ||contradiction
+The woman is not holding. ||contradiction
+The bag is hernot . ||neutral

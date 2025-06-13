@@ -1,0 +1,5 @@
+There are community. ||neutral
+There is a bar. ||neutral
+The community are total. ||neutral
+The community are near the table. ||neutral
+The bar is with objects. ||entailment

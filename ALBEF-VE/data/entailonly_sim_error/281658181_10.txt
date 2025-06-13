@@ -1,0 +1,3 @@
+A,female
+R,watches
+RE2,is doing,photoshoot

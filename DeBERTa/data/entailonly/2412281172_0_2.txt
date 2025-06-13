@@ -1,0 +1,5 @@
+There are people. ||entailment
+There are kids. ||entailment
+There is a day. ||entailment
+The people are young. ||entailment
+The people are walking on day. ||entailment

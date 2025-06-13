@@ -1,0 +1,3 @@
+There is a kid. ||Entailment
+There is a playground. ||Entailment
+The kid is in the playground. ||Entailment

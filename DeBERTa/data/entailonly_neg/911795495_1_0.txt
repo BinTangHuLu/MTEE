@@ -1,0 +1,4 @@
+There is not a girl. ||contradiction
+There is not an orange. ||contradiction
+The girl is not wearing. ||contradiction
+The girl is not orange. ||contradiction

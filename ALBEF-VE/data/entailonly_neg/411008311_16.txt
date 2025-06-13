@@ -1,0 +1,5 @@
+there is not a man ||contradiction
+there is not a road ||contradiction
+there is not grass ||contradiction
+the man does not jump from the road ||contradiction
+the man does not jump into the grass ||contradiction

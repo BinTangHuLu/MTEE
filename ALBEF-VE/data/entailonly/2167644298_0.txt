@@ -1,0 +1,3 @@
+there is a person ||entailment
+there are some glasses ||entailment
+the person is with glasses ||entailment

@@ -1,0 +1,4 @@
+There are not people. ||contradiction
+The people are somenot . ||entailment
+The people are not outside. ||contradiction
+The people are not kneeling. ||contradiction

@@ -1,0 +1,7 @@
+there is a man ||entailment
+there is an outfit ||entailment
+there is a microphone ||entailment
+there is a tent ||entailment
+the outfit is yellow ||entailment
+the man stands behind the microphone ||entailment
+the microphone is in the tent ||entailment

@@ -1,0 +1,5 @@
+there is not a man ||contradiction
+there is not a cigarette ||contradiction
+there is not a bench ||contradiction
+the man is not smoking the cigarette ||neutral
+the cigarette is not on the bench ||entailment

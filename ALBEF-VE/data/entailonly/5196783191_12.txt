@@ -1,0 +1,3 @@
+there is an audience ||entailment
+there are performers ||entailment
+the audience watched performers ||entailment

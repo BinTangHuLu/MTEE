@@ -1,0 +1,7 @@
+there is a child ||entailment
+there is a chunk ||entailment
+there is a period ||entailment
+the child is young ||neutral
+the period is nice ||neutral
+the child is playing on the log ||entailment
+the chunk is on the day ||entailment

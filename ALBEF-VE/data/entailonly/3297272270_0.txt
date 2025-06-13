@@ -1,0 +1,4 @@
+there is a group ||entailment
+there are guys ||entailment
+the guys are four ||neutral
+the guys are wearing slacks ||entailment

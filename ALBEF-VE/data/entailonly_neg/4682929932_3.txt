@@ -1,0 +1,4 @@
+there is not a crowd ||contradiction
+there are not some people ||contradiction
+there is not a background ||contradiction
+the crowd does not stand in the background ||contradiction

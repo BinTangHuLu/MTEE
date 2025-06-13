@@ -1,0 +1,3 @@
+There are not people. ||Contradiction
+There is not a rock. ||Contradiction
+The people were not on the rock. ||Entailment

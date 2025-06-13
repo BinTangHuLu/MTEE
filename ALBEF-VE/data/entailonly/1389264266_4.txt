@@ -1,0 +1,4 @@
+there are girls ||entailment
+there is a picture ||entailment
+there are two girls ||entailment
+the girls are in the picture ||entailment

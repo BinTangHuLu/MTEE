@@ -1,0 +1,4 @@
+There are not lines. ||Contradiction
+There are not people. ||Contradiction
+The lines are not multiple. ||Contradiction
+The lines are not of people. ||Contradiction

@@ -1,0 +1,3 @@
+There is a woman. ||entailment
+The woman has something. ||entailment
+Her face is on the woman. ||contradiction

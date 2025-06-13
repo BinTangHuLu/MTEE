@@ -1,0 +1,6 @@
+there are musicians ||entailment
+there is a piece ||entailment
+there is a theater hall ||entailment
+the piece is musical ||neutral
+the musicians perform the piece ||neutral
+the piece is at the theater hall ||neutral

@@ -1,0 +1,4 @@
+there is a athlete ||entailment
+there is a circle ||entailment
+there are congregation ||entailment
+the athlete is looking at the crowd ||entailment

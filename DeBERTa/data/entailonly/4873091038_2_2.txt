@@ -1,0 +1,6 @@
+There are people. ||entailment
+There is a building. ||entailment
+The building is brick. ||entailment
+The mural is colorful. ||entailment
+The people are walking toward the building. ||entailment
+The building is with mural. ||entailment

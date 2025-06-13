@@ -1,0 +1,4 @@
+there is a boy ||entailment
+there are legos ||entailment
+the boy is playing ||entailment
+the boy is playing with legos ||neutral

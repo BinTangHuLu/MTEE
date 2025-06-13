@@ -1,0 +1,4 @@
+there is a pool ||entailment
+there is water ||entailment
+the pool is not full ||entailment
+the pool is not full of water ||entailment

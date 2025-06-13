@@ -1,0 +1,5 @@
+there are clan ||entailment
+there is a association ||entailment
+there is barley ||entailment
+the clan are enjoying company ||neutral
+the clan are hanging out on grass ||entailment

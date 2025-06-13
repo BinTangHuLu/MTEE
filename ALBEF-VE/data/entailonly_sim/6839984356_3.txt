@@ -1,0 +1,4 @@
+there is a minority ||contradiction
+there is a skateboard conspiracy ||neutral
+the minority is asian ||neutral
+the minority is doing skateboard trick ||entailment

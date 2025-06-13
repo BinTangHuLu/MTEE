@@ -1,0 +1,2 @@
+There is work. ||Entailment
+The work is difficult. ||Entailment

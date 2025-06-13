@@ -1,0 +1,2 @@
+there is a drummer ||entailment
+the drummer is performing ||entailment

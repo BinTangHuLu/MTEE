@@ -1,0 +1,7 @@
+there is not a man ||contradiction
+there is not a hat ||contradiction
+there is not a food stand ||contradiction
+there is not a cooler ||contradiction
+the hat is not wearing ||neutral
+the man is not standing at food stand ||contradiction
+the food stand is not propped against cooler ||contradiction

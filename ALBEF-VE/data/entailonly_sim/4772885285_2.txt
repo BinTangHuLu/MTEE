@@ -1,0 +1,3 @@
+there is a female ||entailment
+there is an shade ||entailment
+the shade is blue ||entailment

@@ -1,0 +1,3 @@
+EA,people,some
+E1RE2,people,with,cameras
+E1RE2,people,standing on,train track

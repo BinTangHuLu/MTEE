@@ -1,0 +1,5 @@
+There is not a woman. ||contradiction
+There are not some orders. ||contradiction
+There is not a doctor. ||contradiction
+The woman is not trying to finish orders. ||contradiction
+The woman is not trying to finish doctor. ||contradiction

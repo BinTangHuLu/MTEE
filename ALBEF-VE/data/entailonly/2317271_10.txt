@@ -1,0 +1,2 @@
+there is a party ||entailment
+there is a bridal ||entailment

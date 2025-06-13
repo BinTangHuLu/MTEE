@@ -1,0 +1,4 @@
+There are not people. ||Contradiction
+There are not animals. ||Contradiction
+The animals are not visible. ||Contradiction
+The animals are not in frame. ||Entailment

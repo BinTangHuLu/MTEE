@@ -1,0 +1,6 @@
+there is a person ||entailment
+there is some air ||entailment
+there is a ride ||entailment
+the ride is bungee jumping ||entailment
+the person is thrown into air ||entailment
+the person is thrown into the ride ||neutral

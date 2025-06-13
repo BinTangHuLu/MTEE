@@ -1,0 +1,3 @@
+there is someone ||entailment
+there is a cap ||entailment
+someone is wearing a cap ||entailment

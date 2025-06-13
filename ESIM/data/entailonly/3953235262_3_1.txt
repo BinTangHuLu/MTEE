@@ -1,0 +1,6 @@
+There is a lady. ||entailment
+There is an axe. ||entailment
+There are woods. ||entailment
+The lady is posing. ||entailment
+The lady is with an axe. ||entailment
+The lady is posing in woods. ||entailment

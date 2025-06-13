@@ -1,0 +1,3 @@
+There is not a boat rider. ||Contradiction
+There is not water. ||Contradiction
+The boat rider is not splashed with water. ||Contradiction

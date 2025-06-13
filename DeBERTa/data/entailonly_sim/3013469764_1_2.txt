@@ -1,0 +1,4 @@
+There is a body. ||entailment
+There is a disk. ||entailment
+The disk is big. ||neutral
+The body is riding the wheel. ||entailment

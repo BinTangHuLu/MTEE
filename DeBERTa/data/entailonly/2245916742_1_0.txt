@@ -1,0 +1,5 @@
+There is a human. ||entailment
+The human is standing. ||entailment
+There are objects. ||entailment
+The objects are large. ||entailment
+The human is between objects. ||entailment

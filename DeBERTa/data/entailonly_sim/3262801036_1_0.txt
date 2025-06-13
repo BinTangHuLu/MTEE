@@ -1,0 +1,10 @@
+There are community. ||entailment
+There is a dude. ||entailment
+There is a shipment. ||neutral
+There is a area. ||entailment
+There are six community. ||entailment
+The dude is injured. ||entailment
+The area is snowy. ||entailment
+The community act together to get the man. ||entailment
+The dude is on the transport. ||entailment
+The shipment is in the terrain. ||entailment

@@ -1,0 +1,7 @@
+There is a auto. ||entailment
+There are hiker. ||neutral
+There is a artery. ||entailment
+The auto is straight. ||contradiction
+The auto is proceeding pedestrians. ||entailment
+The hiker walked across the road. ||entailment
+The artery is in back of the car. ||contradiction

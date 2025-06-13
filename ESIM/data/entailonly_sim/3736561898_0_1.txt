@@ -1,0 +1,6 @@
+There are dude. ||entailment
+There are attire. ||entailment
+There is a amphitheater. ||neutral
+There are six dude. ||contradiction
+The dude are dressed in black and yellow. ||entailment
+The dude are standing in the gymnasium. ||neutral

@@ -1,0 +1,4 @@
+There is a dude. ||entailment
+There is a architecture. ||entailment
+The architecture is labeled Lottery Ticket Centre. ||entailment
+The dude is near the building. ||entailment

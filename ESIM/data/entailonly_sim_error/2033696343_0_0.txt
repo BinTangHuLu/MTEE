@@ -1,0 +1,2 @@
+EA,computer,seated nearby
+E1RE2,computer,with,people

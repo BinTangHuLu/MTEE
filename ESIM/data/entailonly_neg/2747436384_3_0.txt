@@ -1,0 +1,4 @@
+There is not a group. ||entailment
+There are not some people. ||entailment
+There is not an ocean. ||contradiction
+The group does not play in the ocean. ||entailment

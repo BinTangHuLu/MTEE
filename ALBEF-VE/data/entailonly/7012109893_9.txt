@@ -1,0 +1,3 @@
+there is a man ||entailment
+there is a roof ||entailment
+the man is mopping the roof ||entailment

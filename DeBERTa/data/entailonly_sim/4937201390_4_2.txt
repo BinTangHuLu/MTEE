@@ -1,0 +1,4 @@
+There is a association. ||entailment
+There are some community. ||entailment
+There is a architecture. ||entailment
+The association are standing in front of the building. ||entailment

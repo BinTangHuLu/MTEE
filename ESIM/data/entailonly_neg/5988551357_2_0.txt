@@ -1,0 +1,3 @@
+There is not a clown. ||contradiction
+There is not a horse. ||contradiction
+The clown has not fallen off the horse. ||contradiction

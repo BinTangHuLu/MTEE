@@ -1,0 +1,5 @@
+There are child. ||entailment
+There is a bit. ||neutral
+The child are two. ||entailment
+The bit is literature. ||entailment
+The child are reading the piece. ||contradiction

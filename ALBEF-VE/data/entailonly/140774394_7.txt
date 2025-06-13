@@ -1,0 +1,4 @@
+there is a man ||entailment
+there is a saw ||entailment
+the saw is industrial ||neutral
+the man uses the saw ||entailment

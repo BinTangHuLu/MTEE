@@ -1,0 +1,5 @@
+there is a child ||entailment
+there are some film ||neutral
+there is a circle ||entailment
+the child is taking pictures ||entailment
+the child is in the middle of the crowd ||entailment

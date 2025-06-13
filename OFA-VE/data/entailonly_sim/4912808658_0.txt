@@ -1,0 +1,4 @@
+There is a dude. ||Entailment
+The dude is good. ||Neutral
+There are apparatus. ||Entailment
+The dude is good with instruments. ||Neutral

@@ -1,0 +1,3 @@
+there is a circle ||neutral
+there is a agreeable ||entailment
+the circle watches the game ||neutral

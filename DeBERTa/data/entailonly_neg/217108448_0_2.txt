@@ -1,0 +1,3 @@
+There is not a child. ||contradiction
+There is not the sky. ||contradiction
+The child does not look at the outside. ||contradiction

@@ -1,0 +1,6 @@
+there is a female ||entailment
+there is a fedora ||contradiction
+there is a biscuit ||entailment
+the fedora is orange ||contradiction
+the female is wearing a hat ||entailment
+the female is eating a cookie ||entailment

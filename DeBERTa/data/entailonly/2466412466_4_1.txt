@@ -1,0 +1,5 @@
+There is a child. ||entailment
+There is a ride. ||neutral
+There is a man. ||entailment
+The child is going for a ride. ||neutral
+The child is going for a man. ||entailment

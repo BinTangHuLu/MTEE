@@ -1,0 +1,4 @@
+There is a child. ||entailment
+There is a hand. ||entailment
+The child is chocolate. ||entailment
+The hand is all over. ||neutral

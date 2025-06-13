@@ -1,0 +1,4 @@
+there are not people ||contradiction
+there is not a man ||contradiction
+the man is not elderly ||entailment
+the people are not standing behind the man ||entailment

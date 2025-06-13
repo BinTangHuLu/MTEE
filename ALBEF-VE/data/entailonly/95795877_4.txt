@@ -1,0 +1,6 @@
+there is a man ||entailment
+there is a woman ||contradiction
+there is a subway ||entailment
+the man is sleeping ||entailment
+the man is next to the woman ||entailment
+the woman is on the subway ||entailment

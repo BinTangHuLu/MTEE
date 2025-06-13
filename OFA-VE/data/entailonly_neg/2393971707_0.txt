@@ -1,0 +1,4 @@
+There are not railings. ||Entailment
+There are not designs. ||Contradiction
+The railings did not have. ||Contradiction
+The railings did not have designs. ||Contradiction

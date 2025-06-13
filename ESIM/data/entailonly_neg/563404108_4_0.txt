@@ -1,0 +1,3 @@
+There are not people. ||contradiction
+There are not a lot of people. ||contradiction
+The people are not standing near each other. ||contradiction

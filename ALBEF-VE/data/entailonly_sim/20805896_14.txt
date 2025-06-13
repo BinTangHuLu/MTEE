@@ -1,0 +1,3 @@
+there are dude ||entailment
+there are development ||neutral
+the dude share items ||entailment

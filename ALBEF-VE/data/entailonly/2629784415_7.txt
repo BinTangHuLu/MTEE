@@ -1,0 +1,5 @@
+there are people ||entailment
+there are things ||entailment
+the things are old ||neutral
+the things are preserved ||entailment
+the people are looking at things ||entailment

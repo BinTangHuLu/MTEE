@@ -1,0 +1,3 @@
+there is a body ||entailment
+there is an dress ||entailment
+the body is in apparel ||entailment

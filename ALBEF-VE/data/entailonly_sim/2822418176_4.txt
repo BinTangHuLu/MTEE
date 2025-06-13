@@ -1,0 +1,4 @@
+there is a dude ||entailment
+the dude is elderly ||contradiction
+there is molding ||neutral
+the dude is practicing woodwork ||entailment

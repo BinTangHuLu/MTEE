@@ -1,0 +1,4 @@
+there are community ||entailment
+there is a dude ||entailment
+community are dancing by man ||contradiction
+the dude is playing guitar ||neutral

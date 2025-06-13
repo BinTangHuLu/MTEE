@@ -1,0 +1,4 @@
+There is a dress. ||Entailment
+There is a photo. ||Entailment
+The dress has a color. ||Entailment
+The dresses vary in color. ||Entailment

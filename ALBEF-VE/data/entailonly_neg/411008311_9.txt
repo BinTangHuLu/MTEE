@@ -1,0 +1,6 @@
+there are not people ||contradiction
+there is not a wedding ||contradiction
+there is not a man ||contradiction
+the man is not jumping ||contradiction
+people are not participating in the wedding ||contradiction
+the people are not photobombed by the man ||contradiction

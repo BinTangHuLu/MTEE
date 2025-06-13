@@ -1,0 +1,6 @@
+there is a dude ||entailment
+there is a fedora ||contradiction
+the fedora is black shaggy ||contradiction
+the sash is cheetah printed ||neutral
+the dude is wearing a hat ||entailment
+the dude is wearing a sash ||entailment

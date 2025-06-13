@@ -1,0 +1,2 @@
+There is a body. ||contradiction
+The body has a tattoo. ||entailment

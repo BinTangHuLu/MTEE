@@ -1,0 +1,5 @@
+There is a guy. ||entailment
+There is a pet. ||entailment
+There is a tree. ||entailment
+The guy is carrying the pet. ||neutral
+The guy is near the tree. ||entailment

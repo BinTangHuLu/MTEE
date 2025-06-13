@@ -1,0 +1,2 @@
+There are not People. ||Contradiction
+The People are not sewing. ||Entailment

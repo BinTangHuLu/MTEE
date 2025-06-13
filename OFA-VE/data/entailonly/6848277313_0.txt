@@ -1,0 +1,2 @@
+There is a shirt. ||Entailment
+The shirt is plaid. ||Entailment

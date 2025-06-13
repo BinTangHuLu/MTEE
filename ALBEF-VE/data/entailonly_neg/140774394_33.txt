@@ -1,0 +1,5 @@
+there is not a man ||contradiction
+there is not wood ||contradiction
+there are not tents ||contradiction
+the man is not chopping wood ||contradiction
+the man is not by tents ||contradiction

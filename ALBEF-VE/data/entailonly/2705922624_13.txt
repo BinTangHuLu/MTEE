@@ -1,0 +1,5 @@
+there are kids ||entailment
+there is a picture ||entailment
+the kids are getting ready ||entailment
+the kids are to take a picture ||entailment
+the picture is outdoors ||entailment

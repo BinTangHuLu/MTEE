@@ -1,0 +1,6 @@
+there is not food ||contradiction
+there is not a kitchen ||contradiction
+there are not men ||contradiction
+there are not three men ||contradiction
+the food is not being prepared in the kitchen ||contradiction
+the food is not being prepared by men ||contradiction

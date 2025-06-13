@@ -1,0 +1,2 @@
+There are players. ||entailment
+The players are playing sport. ||entailment

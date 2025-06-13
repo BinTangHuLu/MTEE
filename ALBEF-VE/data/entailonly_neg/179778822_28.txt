@@ -1,0 +1,16 @@
+there is not a girl ||contradiction
+there is not a shirt ||entailment
+there is not a cup ||contradiction
+there is not a mirror ||contradiction
+there is not a mother ||contradiction
+there are not shorts ||contradiction
+the girl is not young blonde ||entailment
+the shirt is not yellow ||contradiction
+the shirt is not yellow ||contradiction
+the shorts are not red ||entailment
+the girl is not with a shirt ||contradiction
+the girl is not with a cup ||contradiction
+the girl does not look at a mirror ||contradiction
+the mirror is not with a mother ||contradiction
+the mother is not behind the girl ||contradiction
+the mother is not wearing a shirt ||contradiction

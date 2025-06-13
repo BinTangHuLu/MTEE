@@ -1,0 +1,3 @@
+There are not children. ||contradiction
+There is not sand. ||contradiction
+The children are not playing in sand. ||contradiction

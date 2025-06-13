@@ -1,0 +1,4 @@
+there are firefighters ||entailment
+there are suits ||entailment
+the suits are wearing ||neutral
+the firefighters are wearing suits ||neutral

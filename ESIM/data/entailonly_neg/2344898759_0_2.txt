@@ -1,0 +1,8 @@
+She does not exist. ||contradiction
+There is not a conversation. ||contradiction
+There is not a phone. ||contradiction
+There is not outdoors. ||contradiction
+She does not have a conversation. ||contradiction
+The conversation is not on the phone. ||contradiction
+She does not have the phone. ||contradiction
+She does not have outdoors. ||contradiction

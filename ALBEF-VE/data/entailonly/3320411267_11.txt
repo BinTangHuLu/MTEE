@@ -1,0 +1,5 @@
+there is a woman ||entailment
+there is a jacket ||entailment
+there is a rock ||entailment
+the jacket is blue ||entailment
+the woman is climbing rock ||entailment

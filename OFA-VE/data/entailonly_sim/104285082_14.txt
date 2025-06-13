@@ -1,0 +1,6 @@
+There is a dude. ||Entailment
+The dude is older. ||Entailment
+There is an apparatus. ||Entailment
+The apparatus is unique. ||Entailment
+The dude sits. ||Entailment
+The dude is playing the instrument. ||Entailment

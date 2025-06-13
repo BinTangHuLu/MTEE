@@ -1,0 +1,5 @@
+there is a association ||entailment
+there is an congregation ||entailment
+the association is musical ||entailment
+the congregation is live ||entailment
+the association performs in front of the audience ||neutral

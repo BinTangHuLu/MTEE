@@ -1,0 +1,4 @@
+there are female ||entailment
+the female are two ||neutral
+there is a amusement ||entailment
+the female are engaged in the hobby ||entailment

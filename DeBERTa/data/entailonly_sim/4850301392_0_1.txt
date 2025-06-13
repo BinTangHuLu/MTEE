@@ -1,0 +1,4 @@
+There is a female. ||entailment
+There is a accessory. ||entailment
+The accessory has magnification. ||entailment
+The female is using the device. ||entailment

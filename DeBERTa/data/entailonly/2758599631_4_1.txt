@@ -1,0 +1,6 @@
+There is a woman. ||entailment
+There is a head. ||entailment
+There is a man. ||entailment
+There is a shoulder. ||entailment
+The head is on the shoulder. ||entailment
+The woman is resting on the shoulder. ||entailment

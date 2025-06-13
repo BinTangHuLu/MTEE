@@ -1,0 +1,3 @@
+there is a girl ||entailment
+there are some photos ||entailment
+the girl takes photos ||entailment

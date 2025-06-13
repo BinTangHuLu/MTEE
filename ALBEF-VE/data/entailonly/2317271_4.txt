@@ -1,0 +1,4 @@
+there are families ||entailment
+there is a photo ||entailment
+there are two families ||entailment
+the families are posing for the photo ||entailment

@@ -1,0 +1,3 @@
+There is a man. ||Entailment
+There is a street. ||Entailment
+The man stands in the street. ||Entailment

@@ -1,0 +1,6 @@
+there is a woman ||entailment
+there is a kitchen ||entailment
+there is a cup ||entailment
+the cup is in her hand ||contradiction
+the woman is in the kitchen ||entailment
+the woman is jumping with the cup ||neutral

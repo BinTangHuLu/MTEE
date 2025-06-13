@@ -1,0 +1,5 @@
+There is not a man. ||contradiction
+The man is not smiling. ||contradiction
+The man is not with a drill. ||contradiction
+The lantern is not red. ||contradiction
+The man does not hold the lantern. ||contradiction

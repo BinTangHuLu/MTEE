@@ -1,0 +1,3 @@
+there is a grandmother ||entailment
+there is a estate ||entailment
+the grandmother takes a break in the park ||neutral

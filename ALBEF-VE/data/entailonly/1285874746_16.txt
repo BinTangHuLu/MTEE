@@ -1,0 +1,6 @@
+there is a woman ||entailment
+there is a dress ||entailment
+there is a hat ||entailment
+the dress is blue ||entailment
+the woman is in dress ||entailment
+the woman is in hat ||entailment

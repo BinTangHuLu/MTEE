@@ -1,0 +1,5 @@
+There is a aristocrat. ||entailment
+There is a fedora. ||contradiction
+The aristocrat is orange. ||entailment
+The aristocrat is wearing a hat. ||entailment
+The aristocrat has a ball. ||entailment

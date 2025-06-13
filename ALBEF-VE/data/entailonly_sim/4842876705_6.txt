@@ -1,0 +1,5 @@
+there is a dude ||entailment
+there is a dark ||entailment
+there is a bar ||entailment
+the dude is playing the bass ||entailment
+the dark is against the wall ||entailment

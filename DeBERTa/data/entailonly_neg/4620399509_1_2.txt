@@ -1,0 +1,7 @@
+There is not a woman. ||contradiction
+There is not a dress. ||contradiction
+The woman is not young. ||contradiction
+The dress is not white sleeveless lined with red flowers. ||contradiction
+The woman is not wearing the dress. ||contradiction
+The woman is not talking on a cellphone. ||contradiction
+The woman does not walk down the sidewalk. ||contradiction

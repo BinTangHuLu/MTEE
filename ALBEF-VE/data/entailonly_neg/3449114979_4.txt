@@ -1,0 +1,5 @@
+there are not children ||contradiction
+there is not schoolwork ||contradiction
+there are not chalkboards ||contradiction
+the children are not doing schoolwork ||contradiction
+the schoolwork is not on chalkboards ||entailment

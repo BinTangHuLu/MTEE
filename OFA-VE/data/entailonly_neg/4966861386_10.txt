@@ -1,0 +1,4 @@
+There is not a firefighter. ||Contradiction
+There is not some gear. ||Contradiction
+The firefighter is not dressed. ||Contradiction
+The firefighter is not dressed in gear. ||Contradiction

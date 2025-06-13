@@ -1,0 +1,4 @@
+there is a boy ||entailment
+there is an outdoor ||entailment
+the boy is young ||entailment
+the boy is in outdoor ||entailment

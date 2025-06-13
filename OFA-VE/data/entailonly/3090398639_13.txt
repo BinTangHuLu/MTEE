@@ -1,0 +1,2 @@
+There are bicyclists. ||Entailment
+The bicyclists are riding. ||Entailment

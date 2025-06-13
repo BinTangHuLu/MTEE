@@ -1,0 +1,4 @@
+There are lines. ||Entailment
+There are people. ||Entailment
+The lines are multiple. ||Entailment
+The lines are of people. ||Entailment

@@ -1,0 +1,3 @@
+there are not men ||entailment
+there is not a billboard ||contradiction
+men are not putting up the billboard ||contradiction

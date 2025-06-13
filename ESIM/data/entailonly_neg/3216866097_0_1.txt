@@ -1,0 +1,4 @@
+There are not people. ||contradiction
+The people are not old. ||contradiction
+The people do not perform onstage. ||contradiction
+The people do not perform onstage on stage. ||contradiction

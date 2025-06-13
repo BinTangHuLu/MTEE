@@ -1,0 +1,5 @@
+There is a group. ||entailment
+There is a girl. ||entailment
+The group is gorup. ||entailment
+The girl is jumping. ||contradiction
+The group is jumping over each other. ||entailment

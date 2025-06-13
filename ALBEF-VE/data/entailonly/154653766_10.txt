@@ -1,0 +1,3 @@
+there are teenagers ||entailment
+there is outside ||entailment
+the teenagers are hanging out outside ||entailment

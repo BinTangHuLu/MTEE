@@ -1,0 +1,3 @@
+There are not girls. ||contradiction
+There is not a library. ||contradiction
+The girls are not in the library. ||contradiction

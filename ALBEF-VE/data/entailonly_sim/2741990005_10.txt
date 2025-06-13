@@ -1,0 +1,3 @@
+there is a acrobat ||entailment
+the acrobat is high ||neutral
+the acrobat is outdoors ||entailment

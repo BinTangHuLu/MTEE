@@ -1,0 +1,4 @@
+There is a child. ||entailment
+The child is dressed for summer. ||entailment
+The child is wearing a green shirt. ||entailment
+The child is wearing khaki shorts. ||entailment

@@ -1,0 +1,3 @@
+there is a crowd ||entailment
+there is a statue ||entailment
+the crowd is near the statue ||entailment

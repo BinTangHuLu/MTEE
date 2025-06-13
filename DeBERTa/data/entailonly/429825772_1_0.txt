@@ -1,0 +1,5 @@
+There is a girl. ||entailment
+There are some shorts. ||entailment
+There is a pond. ||entailment
+The girl is fishing in the pond. ||entailment
+The girl is wearing shorts. ||entailment

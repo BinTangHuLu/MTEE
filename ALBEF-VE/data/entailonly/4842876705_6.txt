@@ -1,0 +1,5 @@
+there is a man ||entailment
+there is a bass ||neutral
+there is a wall ||entailment
+the man is playing the bass ||entailment
+the bass is against the wall ||entailment

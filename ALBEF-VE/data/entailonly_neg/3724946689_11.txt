@@ -1,0 +1,4 @@
+there are not people ||contradiction
+there is not a ship ||contradiction
+the ship is not pirate ||contradiction
+the people are not riding on the ship ||contradiction

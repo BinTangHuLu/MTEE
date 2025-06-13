@@ -1,0 +1,8 @@
+there is a man ||entailment
+there is a t shirt ||entailment
+there is a piece ||entailment
+there is a paper ||entailment
+there is ground ||entailment
+the piece is large ||neutral
+the man paints on piece ||entailment
+the piece is on ground ||entailment

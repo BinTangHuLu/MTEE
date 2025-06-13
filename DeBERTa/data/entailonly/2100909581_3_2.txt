@@ -1,0 +1,3 @@
+There is a dog. ||entailment
+There is some snow. ||entailment
+The dog enjoys snow. ||entailment

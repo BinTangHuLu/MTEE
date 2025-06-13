@@ -1,0 +1,4 @@
+There is a human. ||entailment
+There is an animal. ||entailment
+The human is outdoors. ||entailment
+The human is outdoors with the animal. ||entailment

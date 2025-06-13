@@ -1,0 +1,5 @@
+There is not a man. ||contradiction
+There are not some dogs. ||contradiction
+The man does not have two. ||contradiction
+The man does not have dogs. ||contradiction
+The dogs are not playing. ||contradiction

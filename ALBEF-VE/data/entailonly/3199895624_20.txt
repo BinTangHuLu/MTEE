@@ -1,0 +1,5 @@
+there is a man ||entailment
+there are some clothes ||entailment
+there is a room ||entailment
+the man is wearing clothes ||entailment
+the clothes are inside of the room ||entailment

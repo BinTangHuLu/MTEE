@@ -1,0 +1,8 @@
+There is a dude. ||entailment
+There is a bar. ||neutral
+There is a area. ||entailment
+The dude is sitting. ||entailment
+The bar is near. ||neutral
+The area is fabric-draped. ||entailment
+The dude is sitting near the table. ||entailment
+The dude is sitting in the room. ||entailment

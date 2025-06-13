@@ -1,0 +1,2 @@
+There is not a student. ||Contradiction
+The student is not painting. ||Entailment

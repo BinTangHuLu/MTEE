@@ -1,0 +1,4 @@
+There is a man. ||entailment
+The man has his arms. ||entailment
+The man spreads his arms. ||entailment
+The man is standing in front of railing. ||entailment

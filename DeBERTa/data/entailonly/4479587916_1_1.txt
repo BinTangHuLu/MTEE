@@ -1,0 +1,7 @@
+There is a man. ||entailment
+There is a sidewalk. ||entailment
+There are headphones. ||entailment
+The man is walking. ||entailment
+The man is wearing headphones. ||entailment
+The man walks down the sidewalk. ||entailment
+The man is wearing headphones. ||entailment

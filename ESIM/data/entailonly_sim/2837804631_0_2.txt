@@ -1,0 +1,4 @@
+There is a child. ||entailment
+There is a geyser. ||entailment
+The child is standing. ||entailment
+The child is standing near the fountain. ||entailment

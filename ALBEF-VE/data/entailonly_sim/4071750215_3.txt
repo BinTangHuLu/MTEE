@@ -1,0 +1,5 @@
+there is a child ||entailment
+there are frond ||entailment
+the child is little ||entailment
+the child is in the outfit ||entailment
+the child stands in leaves ||entailment

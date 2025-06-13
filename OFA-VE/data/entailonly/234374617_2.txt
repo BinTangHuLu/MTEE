@@ -1,0 +1,4 @@
+There is a man. ||Entailment
+There is a cellphone. ||Entailment
+The man is outside the cellphone. ||Entailment
+The man is talking on the cellphone. ||Neutral

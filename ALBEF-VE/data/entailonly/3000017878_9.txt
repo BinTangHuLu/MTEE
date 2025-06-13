@@ -1,0 +1,3 @@
+there are men ||entailment
+there is music ||entailment
+the men play music ||entailment

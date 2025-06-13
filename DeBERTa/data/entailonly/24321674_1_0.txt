@@ -1,0 +1,6 @@
+There is Pebbles. ||entailment
+There is a body. ||entailment
+There is water. ||entailment
+There are boys. ||entailment
+The boys are two. ||entailment
+Pebbles are being thrown into the body of water. ||entailment

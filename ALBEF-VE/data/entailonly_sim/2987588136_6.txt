@@ -1,0 +1,3 @@
+there are female ||entailment
+the female are affectionate ||entailment
+the female are being affectionate ||entailment

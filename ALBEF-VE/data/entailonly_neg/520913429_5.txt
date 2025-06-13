@@ -1,0 +1,3 @@
+there is not a person ||contradiction
+the person is doing somethingnot ||entailment
+the person is not outside ||entailment

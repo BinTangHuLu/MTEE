@@ -1,0 +1,3 @@
+there is a dummy ||entailment
+the dummy is put ||neutral
+the dummy is put on display ||neutral

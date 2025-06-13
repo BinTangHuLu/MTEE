@@ -1,0 +1,4 @@
+there is a gentlewoman ||entailment
+there is a circle ||entailment
+the gentlewoman is looking ||entailment
+the gentlewoman is looking into the crowd ||neutral

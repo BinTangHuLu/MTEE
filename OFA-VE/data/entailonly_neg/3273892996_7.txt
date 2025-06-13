@@ -1,0 +1,6 @@
+There is not a man. ||Entailment
+There is not a stall. ||Contradiction
+There is not a market. ||Contradiction
+The man is not older. ||Entailment
+The man does not run the stall. ||Contradiction
+The man does not sell items. ||Contradiction

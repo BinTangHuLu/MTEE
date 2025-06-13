@@ -1,0 +1,5 @@
+there is not a person ||contradiction
+there is not an elderly person ||contradiction
+there is not a home ||entailment
+the person is not helping the elderly person ||entailment
+the elderly person is not getting to the home ||entailment

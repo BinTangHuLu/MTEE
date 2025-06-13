@@ -1,0 +1,3 @@
+there is a athlete ||entailment
+there is a bowl ||contradiction
+the athlete is at plate ||entailment

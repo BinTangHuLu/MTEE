@@ -1,0 +1,8 @@
+there is a child ||entailment
+there is some eyebrow ||entailment
+there are some boot ||entailment
+the eyebrow is weird blue ||neutral
+the eyebrow is blue ||entailment
+the boot are big ||neutral
+the child has weird blue hair ||entailment
+the child has big shoes ||neutral

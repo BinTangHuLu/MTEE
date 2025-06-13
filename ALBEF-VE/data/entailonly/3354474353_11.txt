@@ -1,0 +1,6 @@
+there are dogs ||entailment
+there is snow ||entailment
+there is something ||entailment
+there are mouths ||entailment
+the dogs are in snow ||entailment
+something is in mouths ||entailment

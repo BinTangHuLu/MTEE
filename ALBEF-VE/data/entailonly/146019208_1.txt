@@ -1,0 +1,10 @@
+there are hikers ||entailment
+there is equipment ||entailment
+there are rocks ||entailment
+there is snow ||entailment
+there is a background ||entailment
+the equipment is a bit of ||entailment
+the hikers are with equipment ||entailment
+the hikers are sitting on rocks ||entailment
+the rocks are with snow ||entailment
+the snow is in the background ||entailment

@@ -1,0 +1,4 @@
+there are not people ||contradiction
+there is not a show ||contradiction
+there is not a plane ||contradiction
+the people are not watching the show ||entailment

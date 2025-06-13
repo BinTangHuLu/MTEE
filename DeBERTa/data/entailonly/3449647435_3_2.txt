@@ -1,0 +1,3 @@
+There are People. ||entailment
+There is a beach. ||entailment
+The People are strolling on the beach. ||entailment

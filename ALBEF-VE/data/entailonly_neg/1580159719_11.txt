@@ -1,0 +1,4 @@
+there are not people ||contradiction
+the people are not young ||entailment
+the people are not playing music ||contradiction
+the people are not outside music ||contradiction

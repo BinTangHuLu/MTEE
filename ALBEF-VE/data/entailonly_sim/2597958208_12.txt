@@ -1,0 +1,7 @@
+there is a child ||entailment
+there is a child ||entailment
+the child is young ||entailment
+the child is young ||entailment
+the child is playing with the girl ||neutral
+the child is playing with one another ||neutral
+the child is playing with the boy ||neutral

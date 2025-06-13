@@ -1,0 +1,4 @@
+There is not a Lady. ||contradiction
+The Lady is not pink. ||contradiction
+The Lady does not reach to a man. ||contradiction
+The man is not sitting beside the Lady. ||contradiction

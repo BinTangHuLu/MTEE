@@ -1,0 +1,2 @@
+there is atmosphere ||entailment
+the bicyclist is in atmosphere ||entailment

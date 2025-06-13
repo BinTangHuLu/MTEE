@@ -1,0 +1,3 @@
+there is a man ||entailment
+there is a night ||entailment
+the man is outside night ||entailment

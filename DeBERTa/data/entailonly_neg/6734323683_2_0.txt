@@ -1,0 +1,7 @@
+There is not a man. ||contradiction
+There are not stilts. ||contradiction
+There is not a trick. ||contradiction
+There is not an audience. ||contradiction
+The man is not on stilts. ||contradiction
+The man does not perform a trick. ||contradiction
+The man does not perform for the audience. ||contradiction

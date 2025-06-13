@@ -1,0 +1,5 @@
+there is a man ||entailment
+there is a bike ||entailment
+the man is doing tricks ||entailment
+the man is doing the bike ||entailment
+the man is at night ||entailment

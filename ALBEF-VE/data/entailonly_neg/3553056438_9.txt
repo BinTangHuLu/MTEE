@@ -1,0 +1,3 @@
+there are not children ||contradiction
+there is not some hay ||contradiction
+the children are not sitting on hay ||contradiction

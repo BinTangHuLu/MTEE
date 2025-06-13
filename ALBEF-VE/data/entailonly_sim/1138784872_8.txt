@@ -1,0 +1,3 @@
+there is a baby ||entailment
+the baby is small ||neutral
+the baby is by store fronts ||entailment

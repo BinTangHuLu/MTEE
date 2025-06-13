@@ -1,0 +1,5 @@
+there are not people ||contradiction
+there is not a side ||contradiction
+there is not a street ||contradiction
+the people do not wait on side ||entailment
+the side is not of street ||contradiction

@@ -1,0 +1,3 @@
+there is a dude ||entailment
+there is an farther ||entailment
+the dude is sleeping outside ||entailment

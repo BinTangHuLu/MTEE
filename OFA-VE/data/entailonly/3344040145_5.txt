@@ -1,0 +1,2 @@
+There is an outside. ||Entailment
+The outside is cold. ||Entailment

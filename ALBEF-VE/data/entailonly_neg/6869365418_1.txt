@@ -1,0 +1,4 @@
+there are not parents ||contradiction
+there are not kids ||contradiction
+the kids do not dodge water ||contradiction
+the parents do not watch their kids ||contradiction

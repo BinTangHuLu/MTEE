@@ -1,0 +1,4 @@
+There are kids. ||entailment
+There is something. ||entailment
+There is a table. ||entailment
+The kids are staring at the table. ||entailment

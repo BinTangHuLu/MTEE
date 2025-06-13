@@ -1,0 +1,4 @@
+There is not something. ||contradiction
+There is not a woman. ||contradiction
+Something did not happen to the woman. ||contradiction
+Something did not surprise the woman. ||contradiction

@@ -1,0 +1,6 @@
+there is a man ||entailment
+there is a hand ||entailment
+there is a woman ||entailment
+there is a back ||entailment
+the man has a hand ||entailment
+the hand is on the back ||entailment

@@ -1,0 +1,3 @@
+There is a set. ||entailment
+The set is posing. ||neutral
+The set is posing for camera. ||neutral

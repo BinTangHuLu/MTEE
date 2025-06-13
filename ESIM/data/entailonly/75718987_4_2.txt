@@ -1,0 +1,4 @@
+There are women. ||entailment
+There are girls. ||entailment
+The women are looking at something. ||entailment
+The girls are looking at something. ||entailment

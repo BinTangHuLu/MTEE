@@ -1,0 +1,4 @@
+there is not a policewoman ||contradiction
+there is not a guard ||contradiction
+the policewoman is not standing ||entailment
+the policewoman is not standing by guard ||contradiction

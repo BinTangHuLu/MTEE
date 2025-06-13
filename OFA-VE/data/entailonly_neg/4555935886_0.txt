@@ -1,0 +1,4 @@
+There is not a woman. ||Entailment
+There is not some laundry. ||Entailment
+The woman is not hanging. ||Entailment
+The woman is not hanging laundry. ||Entailment

@@ -1,0 +1,6 @@
+There is a dude. ||entailment
+There is an opportunity. ||neutral
+There is a forest. ||neutral
+The opportunity is large. ||neutral
+The dude is at the opening. ||entailment
+The opportunity is of the tree. ||entailment

@@ -1,0 +1,4 @@
+there are association ||entailment
+there is a gig ||neutral
+the association are musical ||entailment
+the association are in concert ||entailment

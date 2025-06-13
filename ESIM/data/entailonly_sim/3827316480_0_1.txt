@@ -1,0 +1,4 @@
+There is a child. ||entailment
+There is an article. ||entailment
+The child runs. ||entailment
+The child leans over the object. ||entailment

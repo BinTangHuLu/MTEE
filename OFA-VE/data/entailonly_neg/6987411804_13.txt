@@ -1,0 +1,4 @@
+There is not a cheerleader. ||Contradiction
+There is not a male cheerleader. ||Entailment
+There is not a female cheerleader. ||Entailment
+The male cheerleader is not holding the female cheerleader. ||Contradiction

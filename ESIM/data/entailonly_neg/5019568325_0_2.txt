@@ -1,0 +1,4 @@
+There is not a man. ||contradiction
+There is not a stage. ||contradiction
+The man is not black. ||contradiction
+The man is not standing on stage. ||contradiction

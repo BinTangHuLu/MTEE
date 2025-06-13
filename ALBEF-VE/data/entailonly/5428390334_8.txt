@@ -1,0 +1,4 @@
+there is a man ||entailment
+there is a coat ||entailment
+the coat is lab ||entailment
+the man is looking at something ||entailment

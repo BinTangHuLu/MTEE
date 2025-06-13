@@ -1,0 +1,4 @@
+There is a acrobat. ||entailment
+There is a bounce. ||entailment
+The acrobat is her. ||entailment
+The acrobat is completing jump. ||entailment

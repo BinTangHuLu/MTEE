@@ -1,0 +1,4 @@
+there is not a girl ||contradiction
+there is not a signal ||contradiction
+the signal is not hand ||neutral
+the girl is not making signal ||contradiction

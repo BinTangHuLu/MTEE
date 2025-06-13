@@ -1,0 +1,5 @@
+there is a dude ||entailment
+there is a female ||entailment
+there is a access ||entailment
+the dude is sitting on the staircase ||entailment
+the female is sitting on the staircase ||entailment

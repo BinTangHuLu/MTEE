@@ -1,0 +1,5 @@
+There is a baby. ||entailment
+The baby is small. ||entailment
+The baby is dressed for winter. ||entailment
+The baby stares across the lake. ||entailment
+The baby is leaning on the fence. ||entailment

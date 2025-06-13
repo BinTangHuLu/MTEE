@@ -1,0 +1,5 @@
+There is a child. ||Entailment
+There is a dude. ||Contradiction
+There are animal. ||Contradiction
+The child rides on shoulders. ||Entailment
+The dude possesses the girl. ||Contradiction

@@ -1,0 +1,4 @@
+there is a association ||entailment
+there is a conflagration ||entailment
+the friends are having a association ||neutral
+the association is near bonfire ||entailment

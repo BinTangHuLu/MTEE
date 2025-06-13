@@ -1,0 +1,5 @@
+There are children. ||Entailment
+There is a camera. ||Contradiction
+The children are playful. ||Entailment
+The children are being playful. ||Entailment
+The children are in front of the camera. ||Entailment

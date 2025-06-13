@@ -1,0 +1,3 @@
+there are not people ||contradiction
+there are not sweaters ||contradiction
+the people do not pose sweaters ||contradiction

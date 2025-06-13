@@ -1,0 +1,6 @@
+There is a baby. ||Entailment
+There is a armor. ||Entailment
+There is a bludgeon. ||Contradiction
+There is a bestow. ||Entailment
+The armor is viking. ||Neutral
+The bestow is cow. ||Neutral

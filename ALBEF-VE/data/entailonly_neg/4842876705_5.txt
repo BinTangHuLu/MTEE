@@ -1,0 +1,4 @@
+there is not a musician ||contradiction
+there is not a street ||contradiction
+the musician is not street ||contradiction
+the musician is not smoking street ||contradiction

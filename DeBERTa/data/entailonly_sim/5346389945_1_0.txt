@@ -1,0 +1,5 @@
+There is a child. ||entailment
+There is a coat. ||entailment
+There is a mural. ||contradiction
+The child is young. ||entailment
+The child is standing in the landscape. ||entailment

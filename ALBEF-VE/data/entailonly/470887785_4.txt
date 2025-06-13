@@ -1,0 +1,6 @@
+there is a woman ||entailment
+there is a group ||entailment
+there are people ||entailment
+the woman is speaking ||entailment
+the woman is speaking to the group ||contradiction
+the group is of people ||entailment

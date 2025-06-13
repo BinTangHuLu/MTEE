@@ -1,0 +1,6 @@
+There are Workers. ||Entailment
+There is a road. ||Entailment
+There are signs. ||Entailment
+The signs are stop. ||Entailment
+The Workers are in road. ||Entailment
+The Workers are holding signs. ||Entailment

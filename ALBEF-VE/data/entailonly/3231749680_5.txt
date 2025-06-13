@@ -1,0 +1,3 @@
+there are children ||entailment
+there is a floor ||entailment
+the children are sleeping on the floor ||entailment

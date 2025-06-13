@@ -1,0 +1,6 @@
+There are men. ||entailment
+There are women. ||entailment
+There are two men. ||entailment
+There are two women. ||entailment
+The men are outside conversations. ||entailment
+The women are outside conversations. ||entailment

@@ -1,0 +1,3 @@
+There are beast. ||Entailment
+There is barley. ||Contradiction
+The beast are in grass. ||Entailment

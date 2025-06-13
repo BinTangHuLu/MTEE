@@ -1,0 +1,5 @@
+There is not a child. ||contradiction
+There is not a skateboard. ||contradiction
+There is not a park. ||contradiction
+The child does not ride the skateboard. ||contradiction
+The child is not at the park. ||contradiction

@@ -1,0 +1,2 @@
+there are ballet dancer ||neutral
+the ballet dancer were clothed in bright clothing ||entailment

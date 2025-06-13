@@ -1,0 +1,4 @@
+there are not dancers ||contradiction
+there is not a road ||contradiction
+the dancers are not colorfully dressed ||contradiction
+the dancers are not entertaining on the road ||contradiction

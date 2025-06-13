@@ -1,0 +1,5 @@
+there is a man ||entailment
+there are some jeans ||neutral
+there is a horse ||entailment
+the jeans are waring ||neutral
+the man leads the horse ||entailment

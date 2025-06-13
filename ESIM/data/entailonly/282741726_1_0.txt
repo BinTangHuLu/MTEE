@@ -1,0 +1,4 @@
+There is a group. ||entailment
+There are some people. ||entailment
+There are some tables. ||entailment
+The group are sitting at tables. ||entailment

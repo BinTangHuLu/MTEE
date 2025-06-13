@@ -1,0 +1,5 @@
+There is not a chef. ||Contradiction
+There is not some food. ||Contradiction
+There is not a container. ||Contradiction
+The chef is not putting food. ||Contradiction
+The food is not being put into the container. ||Contradiction

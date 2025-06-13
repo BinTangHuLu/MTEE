@@ -1,0 +1,4 @@
+There are kids. ||Entailment
+There is a sport. ||Entailment
+The kids are playing. ||Entailment
+The kids are playing a sport. ||Neutral

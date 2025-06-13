@@ -1,0 +1,3 @@
+There is a juvenile. ||Entailment
+The juvenile is moving around. ||Entailment
+The juvenile is moving around outside. ||Entailment

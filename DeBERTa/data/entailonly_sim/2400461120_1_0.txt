@@ -1,0 +1,8 @@
+There is a female. ||entailment
+There is a avenue corner. ||entailment
+There are some care. ||entailment
+The care are different. ||neutral
+The care are three. ||entailment
+The care have beautiful artwork. ||neutral
+The female is standing on the street corner. ||neutral
+The female is beside the stores. ||entailment

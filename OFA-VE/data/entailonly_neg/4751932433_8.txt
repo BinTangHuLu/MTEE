@@ -1,0 +1,3 @@
+There are not sheeps. ||Entailment
+There is not a man. ||Entailment
+The sheeps are not checked by man. ||Entailment

@@ -1,0 +1,4 @@
+There is a body. ||Entailment
+There is an smock. ||Entailment
+The smock is yellow. ||Neutral
+The body has an apron. ||Entailment

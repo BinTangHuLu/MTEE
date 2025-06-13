@@ -1,0 +1,4 @@
+There are not dogs. ||contradiction
+There are not groups. ||contradiction
+The dogs are not loose. ||contradiction
+The dogs are not in groups. ||contradiction

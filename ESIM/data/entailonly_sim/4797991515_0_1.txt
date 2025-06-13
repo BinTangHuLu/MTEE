@@ -1,0 +1,6 @@
+There is a dude. ||entailment
+The dude is old. ||entailment
+The dude has a pink polo. ||entailment
+The dude looks through a telescope. ||entailment
+There is a baby. ||entailment
+The dude is standing next to the child. ||entailment

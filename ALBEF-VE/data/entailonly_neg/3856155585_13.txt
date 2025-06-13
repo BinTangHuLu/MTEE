@@ -1,0 +1,5 @@
+there are not books ||contradiction
+there is not a table ||contradiction
+there are not women ||contradiction
+the books are not strewn on the table ||entailment
+the women do not look through books ||contradiction

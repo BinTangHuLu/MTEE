@@ -1,0 +1,4 @@
+There are community. ||entailment
+There is a basin. ||entailment
+community watch ducks. ||neutral
+community watch pond. ||neutral

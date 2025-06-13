@@ -1,0 +1,4 @@
+there is not a woman ||contradiction
+the woman is not riding ||contradiction
+it is not daytime ||contradiction
+the woman is not riding during daytime ||contradiction

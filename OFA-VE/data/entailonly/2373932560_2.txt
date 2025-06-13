@@ -1,0 +1,3 @@
+There is a man. ||Entailment
+There is a vehicle. ||Entailment
+The man is exiting the vehicle. ||Entailment

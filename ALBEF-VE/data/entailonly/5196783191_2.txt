@@ -1,0 +1,5 @@
+there is a show ||entailment
+there are some lights ||entailment
+the lights are lots of ||neutral
+the show is with lights ||entailment
+the show is being played ||entailment

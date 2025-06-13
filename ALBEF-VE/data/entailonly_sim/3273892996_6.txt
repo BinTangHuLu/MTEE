@@ -1,0 +1,6 @@
+there are dude ||entailment
+there is an component ||entailment
+there is a dude ||entailment
+the dude trade an item ||entailment
+the component is over veggies ||entailment
+the dude are speaking to the man ||entailment

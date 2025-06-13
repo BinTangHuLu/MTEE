@@ -1,0 +1,4 @@
+There is a crowd. ||Entailment
+There are some people. ||Entailment
+The crowd is of people. ||Entailment
+The people are walking. ||Entailment

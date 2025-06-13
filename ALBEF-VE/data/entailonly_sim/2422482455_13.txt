@@ -1,0 +1,4 @@
+there is a body ||entailment
+there is a pup ||entailment
+the pup is black ||entailment
+the body is playing with the dog ||entailment

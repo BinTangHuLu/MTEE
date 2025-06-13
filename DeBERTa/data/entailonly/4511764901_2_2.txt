@@ -1,0 +1,3 @@
+There is a woman. ||entailment
+There is an escalator. ||entailment
+The woman walks to the escalator. ||entailment

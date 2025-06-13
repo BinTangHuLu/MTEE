@@ -1,0 +1,3 @@
+There is not a crowd. ||contradiction
+There is not a restaurant. ||contradiction
+The crowd is not outside the restaurant. ||contradiction

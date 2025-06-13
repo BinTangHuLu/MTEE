@@ -1,0 +1,3 @@
+there is a man ||entailment
+the man is two ||neutral
+the man is standing together with another man ||entailment

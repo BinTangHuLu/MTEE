@@ -1,0 +1,2 @@
+there are dude ||entailment
+dude are fighting men ||entailment

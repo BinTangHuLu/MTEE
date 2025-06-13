@@ -1,0 +1,3 @@
+There is a dude. ||Entailment
+There is a outrigger. ||Entailment
+The dude is in the kayak. ||Entailment

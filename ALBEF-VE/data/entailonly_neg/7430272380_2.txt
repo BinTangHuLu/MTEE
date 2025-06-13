@@ -1,0 +1,4 @@
+there is not a man ||contradiction
+there is not a shirt ||contradiction
+the shirt is not grey ||contradiction
+the man does not wear the shirt ||contradiction

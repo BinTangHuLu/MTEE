@@ -1,0 +1,2 @@
+There are workers. ||Entailment
+The workers are standing outside. ||Neutral

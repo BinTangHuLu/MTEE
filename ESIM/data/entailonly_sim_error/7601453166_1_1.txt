@@ -1,0 +1,3 @@
+A,circular
+RE2,uses,paint
+RE2,stencil words on,sign

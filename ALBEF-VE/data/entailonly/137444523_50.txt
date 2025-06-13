@@ -1,0 +1,8 @@
+there is a man ||entailment
+there is a woman ||entailment
+there is a shade ||entailment
+the man and woman are together ||entailment
+the man is under the shade ||entailment
+the woman is under the shade ||entailment
+the man is taking pictures ||entailment
+the woman is taking pictures ||entailment

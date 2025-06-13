@@ -1,0 +1,5 @@
+there is she ||contradiction
+there is a door ||entailment
+there is he ||contradiction
+she stands by door ||entailment
+he sits down ||entailment

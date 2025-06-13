@@ -1,0 +1,3 @@
+There is not a man. ||contradiction
+The man is not raising. ||contradiction
+His arm is not raised by the man. ||contradiction

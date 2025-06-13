@@ -1,0 +1,5 @@
+There is a association. ||neutral
+There are some community. ||neutral
+The association is eating. ||entailment
+The association is drinking. ||entailment
+The community are eating and drinking in the group. ||neutral

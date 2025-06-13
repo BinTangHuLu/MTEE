@@ -1,0 +1,3 @@
+there are not athletes ||contradiction
+there is not a river ||contradiction
+the athletes do not kayak down the river ||contradiction

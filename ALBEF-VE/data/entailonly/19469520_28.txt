@@ -1,0 +1,2 @@
+there are cyclists ||entailment
+the cyclists are waiting ||entailment

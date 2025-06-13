@@ -1,0 +1,2 @@
+There is not a teenager. ||Entailment
+There is not a surfboard. ||Contradiction

@@ -1,0 +1,3 @@
+There is not a raven. ||Entailment
+There is not a tree. ||Contradiction
+The raven does not sit on the tree. ||Entailment

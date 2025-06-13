@@ -1,0 +1,5 @@
+There is a female. ||Entailment
+There is a account. ||Contradiction
+The female is 2. ||Neutral
+The female is in the picture. ||Entailment
+The female is working together with the woman. ||Entailment

@@ -1,0 +1,4 @@
+There is a body. ||Entailment
+There is a colt. ||Entailment
+The body is ready. ||Entailment
+The body is to ride the horse. ||Entailment

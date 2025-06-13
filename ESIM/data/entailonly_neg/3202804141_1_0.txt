@@ -1,0 +1,3 @@
+There are not people. ||contradiction
+There is not Africa. ||contradiction
+The people are not in Africa. ||contradiction

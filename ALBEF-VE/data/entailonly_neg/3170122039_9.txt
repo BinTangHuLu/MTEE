@@ -1,0 +1,3 @@
+there are not bikers ||contradiction
+there is not a country ||contradiction
+the bikers are not riding in the country ||contradiction

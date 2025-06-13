@@ -1,0 +1,2 @@
+There is a kid. ||entailment
+The kid is allowed to attempt assault course. ||entailment

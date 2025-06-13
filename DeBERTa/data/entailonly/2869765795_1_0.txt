@@ -1,0 +1,3 @@
+There is a dog. ||entailment
+The dog is brown. ||entailment
+The dog is walking outside. ||entailment

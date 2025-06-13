@@ -1,0 +1,5 @@
+There is not a man. ||contradiction
+There is not a bike. ||contradiction
+There is not a hamper. ||contradiction
+The man is not on the bike. ||contradiction
+The man is not with the hamper. ||contradiction

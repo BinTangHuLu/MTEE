@@ -1,0 +1,4 @@
+There are not Kids. ||Contradiction
+There is not water. ||Contradiction
+The Kids are not playing. ||Contradiction
+The Kids are not in water. ||Entailment

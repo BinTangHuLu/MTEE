@@ -1,0 +1,7 @@
+There is a coach. ||entailment
+There is a player. ||entailment
+There is a team. ||entailment
+There is a crowd. ||entailment
+The coach talks with the player. ||entailment
+The coach is in front of the team. ||entailment
+The coach is in front of the crowd. ||entailment

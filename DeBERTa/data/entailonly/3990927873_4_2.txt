@@ -1,0 +1,2 @@
+There is a woman. ||entailment
+There is an office. ||entailment

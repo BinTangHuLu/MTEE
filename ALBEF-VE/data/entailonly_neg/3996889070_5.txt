@@ -1,0 +1,5 @@
+there is not a girl ||contradiction
+there is not an animal ||contradiction
+the girl is not little ||entailment
+the girl is not kind ||neutral
+the girl is not being animal ||contradiction

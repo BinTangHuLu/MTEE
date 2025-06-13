@@ -1,0 +1,2 @@
+There is a juvenile. ||Entailment
+The juvenile is surfing surf. ||Entailment

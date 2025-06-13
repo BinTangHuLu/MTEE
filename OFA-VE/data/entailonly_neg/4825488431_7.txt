@@ -1,0 +1,3 @@
+There are not People. ||Contradiction
+There is not an airport. ||Contradiction
+People are not at the airport. ||Entailment

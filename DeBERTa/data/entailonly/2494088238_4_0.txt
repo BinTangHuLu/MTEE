@@ -1,0 +1,4 @@
+There are children. ||entailment
+There is an ocean. ||entailment
+There is a dog. ||entailment
+The children are at the ocean. ||neutral

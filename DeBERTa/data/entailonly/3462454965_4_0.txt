@@ -1,0 +1,4 @@
+There are dogs. ||entailment
+There are three dogs. ||entailment
+The dogs are running. ||entailment
+The dogs are running running. ||entailment

@@ -1,0 +1,5 @@
+There is a guy. ||entailment
+There are some bottles. ||entailment
+There is a truck. ||entailment
+The guy has bottles. ||entailment
+The guy has a truck. ||entailment

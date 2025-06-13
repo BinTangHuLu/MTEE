@@ -1,0 +1,4 @@
+There is a baby. ||Entailment
+There is a delicacy. ||Entailment
+The delicacy is frozen. ||Entailment
+The Kid is eating delicacy. ||Entailment

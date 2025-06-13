@@ -1,0 +1,5 @@
+there is a child ||entailment
+there is an branch ||entailment
+the child is young ||neutral
+the branch is injured ||neutral
+the child is with arm ||entailment

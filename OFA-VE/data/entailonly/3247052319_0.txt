@@ -1,0 +1,3 @@
+There is a man. ||Entailment
+There is a fourwheeler. ||Entailment
+The man is driving the fourwheeler. ||Entailment

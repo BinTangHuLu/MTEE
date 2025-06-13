@@ -1,0 +1,7 @@
+There is a man. ||entailment
+There are women. ||entailment
+There is a path. ||entailment
+There is a child. ||entailment
+The path is wooden. ||entailment
+The man is walking down the path. ||entailment
+The man is pushing the child. ||entailment

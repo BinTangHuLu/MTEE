@@ -1,0 +1,5 @@
+There is not a guy. ||contradiction
+There is not a man. ||contradiction
+The guy is not cutting. ||contradiction
+The guy is not cutting hair. ||contradiction
+The guy is not cutting the man. ||neutral

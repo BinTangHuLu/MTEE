@@ -1,0 +1,7 @@
+There is a female. ||entailment
+There is a design. ||neutral
+There is a estuary. ||neutral
+The female is outdoors. ||entailment
+The female looks at the map. ||entailment
+The female is behind the river. ||entailment
+The estuary is behind the boats. ||entailment

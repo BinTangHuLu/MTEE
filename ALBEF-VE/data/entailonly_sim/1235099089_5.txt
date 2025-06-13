@@ -1,0 +1,6 @@
+there is a child ||entailment
+there are attire ||entailment
+the child is young ||neutral
+the attire are summer ||neutral
+the child is running outside ||entailment
+the child is near markers ||entailment

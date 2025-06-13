@@ -1,0 +1,5 @@
+there is not a man ||contradiction
+the man is not old ||entailment
+there is not an object ||contradiction
+there is not he ||contradiction
+he is not seeing the object ||entailment

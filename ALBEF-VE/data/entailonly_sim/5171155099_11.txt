@@ -1,0 +1,5 @@
+there is a dude ||entailment
+there is a apparel ||entailment
+there is a colt ||neutral
+the apparel is military ||neutral
+the dude is riding the horse ||entailment

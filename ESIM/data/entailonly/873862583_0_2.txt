@@ -1,0 +1,4 @@
+There is Lilly. ||entailment
+There is Sally. ||entailment
+Lilly was eating lunch. ||neutral
+Sally was eating lunch. ||neutral

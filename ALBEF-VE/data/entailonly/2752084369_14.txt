@@ -1,0 +1,5 @@
+there is a girl ||entailment
+there is a dress ||entailment
+there are bags ||entailment
+the dress is in ||neutral
+the girl is carrying bags ||entailment

@@ -1,0 +1,3 @@
+There is not a truck. ||contradiction
+The truck is not moving. ||contradiction
+The truck is not being disassembled. ||entailment

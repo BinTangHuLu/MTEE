@@ -1,0 +1,3 @@
+there are men ||entailment
+the men are young ||neutral
+the men are posing men ||neutral

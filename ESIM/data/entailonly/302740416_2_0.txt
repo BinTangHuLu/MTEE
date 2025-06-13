@@ -1,0 +1,3 @@
+There is a man. ||entailment
+There are onions. ||entailment
+The man is holding onions. ||entailment

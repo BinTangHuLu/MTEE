@@ -1,0 +1,3 @@
+There is not a child. ||Contradiction
+There is not a jacket. ||Contradiction
+The child does not wear a jacket. ||Contradiction

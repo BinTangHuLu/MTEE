@@ -1,0 +1,3 @@
+there is a female ||entailment
+there is a album ||entailment
+the female is reading the book ||neutral

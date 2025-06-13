@@ -1,0 +1,4 @@
+There is not a golfer. ||Contradiction
+There is not a club. ||Contradiction
+The golfer is not leaning. ||Entailment
+The golfer does not stand leaning on the club. ||Entailment

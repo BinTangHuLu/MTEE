@@ -1,0 +1,2 @@
+There is a skater. ||Entailment
+The skater is young. ||Entailment

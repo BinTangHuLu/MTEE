@@ -1,0 +1,4 @@
+There are not boys. ||Contradiction
+There is not an edge. ||Contradiction
+There are not two boys. ||Entailment
+The boys are not playing by the edge. ||Entailment

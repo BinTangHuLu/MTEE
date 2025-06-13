@@ -1,0 +1,5 @@
+there is a bowl ||entailment
+there is a appendage ||entailment
+there is a dude ||entailment
+the bowl is in the hand ||neutral
+the appendage is of the man ||neutral

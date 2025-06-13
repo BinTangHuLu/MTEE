@@ -1,0 +1,4 @@
+There is a girl. ||Entailment
+There is a playground. ||Entailment
+The girl is little. ||Entailment
+The girl plays on the playground. ||Entailment

@@ -1,0 +1,4 @@
+There is not a man. ||contradiction
+The man does not have his arms. ||contradiction
+The man does not spread his arms. ||contradiction
+The man is not standing in front of railing. ||contradiction

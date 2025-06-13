@@ -1,0 +1,5 @@
+There is a building. ||entailment
+There are some doors. ||entailment
+The building is brick. ||entailment
+The doors are glass. ||entailment
+The building had doors. ||entailment

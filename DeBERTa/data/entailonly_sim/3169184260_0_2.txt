@@ -1,0 +1,4 @@
+There is a child. ||entailment
+There is a doll. ||neutral
+The child is young. ||entailment
+The child is holding the toy. ||entailment

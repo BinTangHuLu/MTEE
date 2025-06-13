@@ -1,0 +1,2 @@
+E,shorts
+RE2,is wearing,shorts

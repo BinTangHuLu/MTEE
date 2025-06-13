@@ -1,0 +1,5 @@
+there is a pup ||entailment
+there are some staircase ||entailment
+the pup is black and white ||entailment
+the staircase are white ||neutral
+the pup is running down steps ||contradiction

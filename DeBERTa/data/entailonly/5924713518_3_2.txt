@@ -1,0 +1,2 @@
+There is a boy. ||entailment
+There is a telescope. ||entailment

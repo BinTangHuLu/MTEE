@@ -1,0 +1,3 @@
+there are girls ||entailment
+there is a pathway ||entailment
+the girls are walking along the pathway ||entailment

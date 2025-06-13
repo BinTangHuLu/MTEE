@@ -1,0 +1,4 @@
+There is not a girl. ||contradiction
+There is not a suit. ||contradiction
+The girl is not bathing. ||contradiction
+The girl is not in suit. ||entailment

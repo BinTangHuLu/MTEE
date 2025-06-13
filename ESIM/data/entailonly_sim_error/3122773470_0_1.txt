@@ -1,0 +1,2 @@
+EA,people,walking
+E1RE2,people,walking through,nature

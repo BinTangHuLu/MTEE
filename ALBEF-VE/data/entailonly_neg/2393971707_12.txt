@@ -1,0 +1,3 @@
+there are not people ||contradiction
+the people are not red ||entailment
+the people are not walking ||entailment

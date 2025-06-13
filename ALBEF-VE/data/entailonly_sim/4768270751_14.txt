@@ -1,0 +1,3 @@
+there is a female ||entailment
+the female is young ||neutral
+the female creates art ||entailment

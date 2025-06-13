@@ -1,0 +1,3 @@
+There are people. ||entailment
+There is an ocean. ||entailment
+The people are near the ocean. ||entailment

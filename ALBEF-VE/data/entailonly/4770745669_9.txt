@@ -1,0 +1,7 @@
+there is a man ||entailment
+there is a shirt ||entailment
+there are some shorts ||entailment
+there is a doorway ||entailment
+the shirt is black ||entailment
+the shorts are blue ||contradiction
+the man stands in the doorway ||entailment

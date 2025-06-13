@@ -1,0 +1,2 @@
+there is a female ||entailment
+there is a child ||entailment

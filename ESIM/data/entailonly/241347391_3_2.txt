@@ -1,0 +1,3 @@
+There is a shirt. ||entailment
+The shirt is red. ||entailment
+The shirt is attire. ||entailment

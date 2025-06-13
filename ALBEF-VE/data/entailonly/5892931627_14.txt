@@ -1,0 +1,4 @@
+there is a player ||entailment
+there is a baseball ||entailment
+there is a ball ||entailment
+the player is swinging to hit the ball ||entailment

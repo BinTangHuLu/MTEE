@@ -1,0 +1,3 @@
+there are dude ||entailment
+there is drink ||entailment
+the dude are by water ||entailment

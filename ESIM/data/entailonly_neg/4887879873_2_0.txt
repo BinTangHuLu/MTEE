@@ -1,0 +1,4 @@
+There is not a person. ||contradiction
+The person is not outside. ||contradiction
+There is not water. ||contradiction
+The person is not near water. ||contradiction

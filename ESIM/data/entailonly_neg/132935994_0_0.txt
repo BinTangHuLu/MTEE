@@ -1,0 +1,6 @@
+There is not a firefighter. ||contradiction
+There is not a hose. ||contradiction
+The firefighter is not holding. ||contradiction
+The hose is not fire. ||contradiction
+The hose is not water coming out. ||contradiction
+The firefighter is not holding hose. ||contradiction

@@ -1,0 +1,6 @@
+there is a body ||entailment
+there is a pedal ||entailment
+there is a period ||entailment
+the period is mostly cloudy ||entailment
+the body rides the bike ||entailment
+the pedal is on the day ||entailment

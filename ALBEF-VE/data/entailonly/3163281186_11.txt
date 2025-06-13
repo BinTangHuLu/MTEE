@@ -1,0 +1,5 @@
+there is a woman ||entailment
+there is a ground ||entailment
+there is an elephant ||entailment
+the woman is on the ground ||entailment
+the woman is looking at the elephant ||entailment

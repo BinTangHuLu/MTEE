@@ -1,0 +1,4 @@
+There is not a man. ||contradiction
+There is not a sweatshirt. ||contradiction
+The sweatshirt is not football. ||entailment
+The man is not wearing the sweatshirt. ||contradiction

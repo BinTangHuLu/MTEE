@@ -1,0 +1,8 @@
+there is not a man ||contradiction
+there is not a microphone ||contradiction
+there is not a bass ||contradiction
+the man is not wearing ||contradiction
+the man is not singing into ||contradiction
+the man is not playing ||contradiction
+the man is not singing into microphone ||contradiction
+the man is not playing bass ||contradiction

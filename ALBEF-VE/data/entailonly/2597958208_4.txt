@@ -1,0 +1,3 @@
+there is a boy ||entailment
+there is a girl ||entailment
+the boy and girl are walking ||entailment

@@ -1,0 +1,3 @@
+A,strapped
+R,with
+A,shoulders

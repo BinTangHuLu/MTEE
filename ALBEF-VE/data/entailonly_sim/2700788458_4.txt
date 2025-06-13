@@ -1,0 +1,3 @@
+there is a set ||neutral
+there is a peck ||entailment
+the set is moving closer to the kiss ||entailment

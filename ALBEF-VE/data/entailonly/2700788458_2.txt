@@ -1,0 +1,4 @@
+there is a person ||entailment
+there is someone ||entailment
+the person is trying to punch ||neutral
+the person is trying to punch someone ||neutral

@@ -1,0 +1,4 @@
+there is a mannequin ||entailment
+there is a window ||entailment
+the mannequin is half nude ||entailment
+the mannequin is posed in the window ||entailment

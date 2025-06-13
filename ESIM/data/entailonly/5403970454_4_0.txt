@@ -1,0 +1,3 @@
+There is a human. ||entailment
+There is a vehicle. ||entailment
+The human is riding the vehicle. ||entailment

@@ -1,0 +1,5 @@
+there is a man ||entailment
+there are some pieces ||entailment
+there is some art ||entailment
+the man is sitting in front of pieces ||entailment
+the pieces are of art ||neutral

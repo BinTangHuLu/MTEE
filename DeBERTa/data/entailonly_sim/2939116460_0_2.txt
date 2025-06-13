@@ -1,0 +1,5 @@
+There is a child. ||entailment
+There is a armor. ||contradiction
+There is a pup tag. ||entailment
+The child is with a helmet. ||entailment
+The child wears dog tag. ||entailment

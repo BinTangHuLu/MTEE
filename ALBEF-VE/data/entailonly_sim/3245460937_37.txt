@@ -1,0 +1,3 @@
+there is a baby ||entailment
+the baby is jumping ||entailment
+the baby is jumping ||entailment

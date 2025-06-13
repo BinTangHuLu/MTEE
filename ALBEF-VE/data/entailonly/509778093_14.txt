@@ -1,0 +1,6 @@
+there is a dog ||entailment
+there is a ball ||entailment
+the dog is small ||entailment
+the dog is brown ||entailment
+the ball is white ||entailment
+the dog paws at the ball ||entailment

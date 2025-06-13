@@ -1,0 +1,3 @@
+there are clan ||entailment
+the clan are black and white ||neutral
+the clan are performing ||neutral

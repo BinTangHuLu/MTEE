@@ -1,0 +1,3 @@
+there is a woman ||entailment
+there is bread ||entailment
+the woman is selling bread ||entailment

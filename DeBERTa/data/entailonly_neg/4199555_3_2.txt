@@ -1,0 +1,5 @@
+There is not a man. ||contradiction
+There is not a wheelbarrow. ||contradiction
+The man is not sitting. ||contradiction
+The wheelbarrow is not full of produce. ||contradiction
+The man is not next to the wheelbarrow. ||contradiction

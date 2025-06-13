@@ -1,0 +1,2 @@
+EA,shorts,blue
+A,black

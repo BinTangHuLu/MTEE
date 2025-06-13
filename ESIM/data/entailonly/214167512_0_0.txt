@@ -1,0 +1,8 @@
+There is a girl. ||entailment
+The girl is young. ||entailment
+The girl is smiling. ||entailment
+The girl is holding. ||entailment
+The girl is stuffed. ||entailment
+The girl is holding with one hand. ||entailment
+There is an animal. ||entailment
+The girl is holding an animal. ||entailment

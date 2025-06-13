@@ -1,0 +1,4 @@
+There is not a boy. ||contradiction
+There is not a brother. ||contradiction
+The boy is not giving brother. ||contradiction
+The boy is not giving ride. ||contradiction

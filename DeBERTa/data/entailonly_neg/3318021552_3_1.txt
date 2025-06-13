@@ -1,0 +1,4 @@
+There are not Vegetables. ||contradiction
+There is not a tent. ||contradiction
+The tent is not white. ||contradiction
+Vegetables are not being sold under tent. ||contradiction

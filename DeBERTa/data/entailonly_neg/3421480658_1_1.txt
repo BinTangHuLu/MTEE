@@ -1,0 +1,3 @@
+There is not a girl. ||contradiction
+There is not a cat. ||contradiction
+The girl is not showing affection towards the cat. ||contradiction

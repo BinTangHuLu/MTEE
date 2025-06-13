@@ -1,0 +1,4 @@
+there is a woman ||entailment
+the woman is older ||entailment
+the woman had a thing ||entailment
+the thing is for sale ||neutral

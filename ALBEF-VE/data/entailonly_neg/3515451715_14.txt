@@ -1,0 +1,5 @@
+there is not a woman ||contradiction
+there is not a kid ||contradiction
+there is not a swing ||contradiction
+the woman does not push the kid ||contradiction
+the kid is not on the swing ||entailment

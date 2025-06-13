@@ -1,0 +1,3 @@
+there is a baby ||entailment
+the baby is up ||entailment
+the baby is in the air ||entailment

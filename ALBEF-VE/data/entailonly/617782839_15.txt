@@ -1,0 +1,3 @@
+there is a man ||entailment
+there is a bow ||entailment
+the man is using the bow ||entailment

@@ -1,0 +1,2 @@
+There is a tree. ||Entailment
+The tree is no longer standing upright. ||Entailment

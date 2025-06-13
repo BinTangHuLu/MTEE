@@ -1,0 +1,4 @@
+There are not people. ||contradiction
+There is not a house. ||contradiction
+The house is not taking pictures. ||contradiction
+The people are not in the house. ||entailment

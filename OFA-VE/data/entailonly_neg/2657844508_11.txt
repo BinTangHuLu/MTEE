@@ -1,0 +1,3 @@
+There is not a couple. ||Contradiction
+There is not some wine. ||Entailment
+The couple does not have wine. ||Contradiction

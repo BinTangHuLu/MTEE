@@ -1,0 +1,4 @@
+there are men ||entailment
+there is a kitchen ||entailment
+the men are inside the kitchen ||entailment
+there are three men ||entailment

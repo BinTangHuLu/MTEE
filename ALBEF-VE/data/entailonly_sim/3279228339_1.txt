@@ -1,0 +1,4 @@
+there is a bistro ||entailment
+there are dude ||entailment
+there are two dude ||entailment
+the dude sit alone ||entailment

@@ -1,0 +1,6 @@
+There are women. ||Entailment
+There are umbrellas. ||Entailment
+There is rain. ||Entailment
+The women use umbrellas. ||Entailment
+The umbrellas keep themselves. ||Entailment
+The umbrellas keep dry. ||Entailment

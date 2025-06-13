@@ -1,0 +1,4 @@
+There is a man. ||entailment
+There are some sweets. ||entailment
+The sweets are fluffy. ||neutral
+The man is holding sweets. ||entailment

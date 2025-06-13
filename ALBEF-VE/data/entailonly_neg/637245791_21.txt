@@ -1,0 +1,5 @@
+there is not a child ||contradiction
+there is not a toy ||contradiction
+the child is not small ||entailment
+the child is not male ||entailment
+the child does not engage with toy ||contradiction

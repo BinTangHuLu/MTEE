@@ -1,0 +1,6 @@
+There is a association. ||neutral
+There are some community. ||neutral
+There is a child. ||entailment
+The association is carefully. ||neutral
+The community listen to the boy. ||neutral
+The child is being interviewed. ||entailment

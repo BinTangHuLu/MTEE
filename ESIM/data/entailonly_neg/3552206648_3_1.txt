@@ -1,0 +1,3 @@
+There is not a swan. ||contradiction
+There is not a lake. ||contradiction
+The swan is not flying away from the lake. ||contradiction

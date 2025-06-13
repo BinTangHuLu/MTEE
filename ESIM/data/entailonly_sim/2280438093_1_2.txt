@@ -1,0 +1,4 @@
+There are community. ||neutral
+There is a choir. ||entailment
+The community are part of the chorus. ||neutral
+The community are performing. ||neutral

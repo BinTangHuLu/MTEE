@@ -1,0 +1,4 @@
+there is a colt ||entailment
+there is an bodily ||entailment
+someone is on the colt ||entailment
+someone is chasing the bodily ||contradiction

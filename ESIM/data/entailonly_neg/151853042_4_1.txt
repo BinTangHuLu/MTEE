@@ -1,0 +1,4 @@
+There is not a man. ||contradiction
+There is not a head. ||contradiction
+The head is not partially obscured. ||entailment
+The man is not obscured. ||entailment

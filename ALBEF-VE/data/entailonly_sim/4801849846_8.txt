@@ -1,0 +1,2 @@
+there is a avenue ||entailment
+someone is walking on avenue ||entailment

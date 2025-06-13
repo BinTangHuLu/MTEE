@@ -1,0 +1,3 @@
+There are boys. ||Entailment
+There are rocks. ||Entailment
+The boys are throwing rocks. ||Neutral

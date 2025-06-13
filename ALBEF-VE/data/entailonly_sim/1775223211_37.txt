@@ -1,0 +1,6 @@
+there is a gentlewoman ||entailment
+there is a brew ||neutral
+there are development ||entailment
+the development are unfinished ||neutral
+the gentlewoman sits under the loom ||neutral
+another works on the development ||neutral

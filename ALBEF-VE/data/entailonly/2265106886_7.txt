@@ -1,0 +1,3 @@
+there is a lady ||entailment
+there are some veggies ||entailment
+the lady is with veggies ||entailment

@@ -1,0 +1,5 @@
+There is not a man. ||contradiction
+There is not something. ||contradiction
+There is not a head. ||contradiction
+The man does not put on the head. ||contradiction
+The man does not put on something. ||contradiction

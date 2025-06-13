@@ -1,0 +1,3 @@
+There is a hiker. ||Entailment
+The hiker is walking. ||Entailment
+The hiker is walking. ||Entailment

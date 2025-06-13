@@ -1,0 +1,4 @@
+there are girls ||entailment
+there are outfits ||entailment
+the outfits are cheerleading ||entailment
+the girls are wearing outfits ||entailment

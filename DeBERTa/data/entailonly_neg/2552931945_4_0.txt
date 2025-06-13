@@ -1,0 +1,4 @@
+There is not a man. ||contradiction
+There is not a guitar. ||contradiction
+The man is not sitting with the guitar. ||contradiction
+The man is not strumming the guitar. ||entailment

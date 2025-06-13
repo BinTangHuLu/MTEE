@@ -1,0 +1,5 @@
+There is a painter. ||entailment
+There are some masterpieces. ||neutral
+There is a museum. ||entailment
+The painter is copying masterpieces. ||neutral
+The painter is copying in museum. ||entailment

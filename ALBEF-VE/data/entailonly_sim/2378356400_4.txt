@@ -1,0 +1,5 @@
+there is a mom ||entailment
+there is a baby ||entailment
+there is a doll ||entailment
+the mom was watching the child ||entailment
+the baby rides the toy ||contradiction

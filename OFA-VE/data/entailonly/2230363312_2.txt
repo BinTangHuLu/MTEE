@@ -1,0 +1,4 @@
+There is a man. ||Entailment
+There is a beard. ||Entailment
+The man is old. ||Entailment
+The man is with beard. ||Entailment

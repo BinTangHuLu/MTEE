@@ -1,0 +1,3 @@
+there is a alp climber ||entailment
+there is a bluff ||entailment
+the alp climber reached the hilltop ||entailment

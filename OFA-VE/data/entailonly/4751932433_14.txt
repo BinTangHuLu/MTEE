@@ -1,0 +1,3 @@
+There are people. ||Entailment
+There are sheep. ||Entailment
+The people are near sheep. ||Entailment

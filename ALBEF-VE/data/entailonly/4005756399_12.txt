@@ -1,0 +1,8 @@
+there is a person ||entailment
+there is a photo ||entailment
+there is a thing ||entailment
+there is a stand ||entailment
+there is a cart ||entailment
+the person is in the photo ||entailment
+the thing is for sale at the stand ||neutral
+the thing is for sale at the cart ||neutral

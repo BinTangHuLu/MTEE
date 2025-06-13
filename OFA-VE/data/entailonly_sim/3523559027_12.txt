@@ -1,0 +1,3 @@
+There are community. ||Entailment
+There are curve. ||Contradiction
+The community are outside the lines. ||Entailment

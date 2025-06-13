@@ -1,0 +1,9 @@
+there is not a child ||contradiction
+there is not a seat ||contradiction
+there is not a tree ||contradiction
+there is not a sky ||contradiction
+the child is not young ||entailment
+the sky is not blue ||contradiction
+the child does not jump in the seat ||entailment
+the seat is not in front of the tree ||entailment
+the tree is not under the sky ||contradiction

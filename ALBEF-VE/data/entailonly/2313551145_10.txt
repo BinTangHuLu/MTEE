@@ -1,0 +1,8 @@
+there is a man ||entailment
+there are some boxes ||entailment
+there are some shoulders ||entailment
+there is a building ||entailment
+the boxes are on ||entailment
+the building is coca cola ||neutral
+the man is with boxes ||entailment
+the man walks past the building ||entailment

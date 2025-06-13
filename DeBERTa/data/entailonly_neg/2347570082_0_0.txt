@@ -1,0 +1,4 @@
+There are not police officers. ||contradiction
+The police officers are not wearing yellow reflective jackets. ||contradiction
+The police officers are not standing. ||contradiction
+The police officers are not in a shopping zone. ||contradiction

@@ -1,0 +1,3 @@
+There are musicians. ||Entailment
+There is noise. ||Entailment
+The musicians are making noise. ||Entailment

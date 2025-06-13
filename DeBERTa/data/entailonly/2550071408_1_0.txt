@@ -1,0 +1,6 @@
+There is a woman. ||entailment
+There is a bench. ||entailment
+There is a park. ||entailment
+The woman is blonde. ||entailment
+The woman sits on the bench. ||entailment
+The woman is outside in the park. ||entailment

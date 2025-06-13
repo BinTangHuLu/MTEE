@@ -1,0 +1,3 @@
+There is a man. ||entailment
+There is water. ||entailment
+The man is doing water. ||entailment

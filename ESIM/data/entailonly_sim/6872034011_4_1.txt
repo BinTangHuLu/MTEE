@@ -1,0 +1,4 @@
+There is blizzard. ||contradiction
+There is dirt. ||contradiction
+The blizzard is on the ground. ||contradiction
+There is a account. ||contradiction

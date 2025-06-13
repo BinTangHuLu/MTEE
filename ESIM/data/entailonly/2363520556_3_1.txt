@@ -1,0 +1,3 @@
+There is sand. ||entailment
+There is ground. ||entailment
+The sand is in the ground. ||neutral

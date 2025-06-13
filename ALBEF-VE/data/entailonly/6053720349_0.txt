@@ -1,0 +1,3 @@
+there is a baby ||entailment
+there is a suitcase ||entailment
+the baby is in the suitcase ||entailment

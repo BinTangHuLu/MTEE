@@ -1,0 +1,3 @@
+There are children. ||Entailment
+There are legs. ||Entailment
+The children are moving their legs. ||Entailment

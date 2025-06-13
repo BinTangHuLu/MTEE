@@ -1,0 +1,5 @@
+there is not a guy ||contradiction
+there is not a broom ||contradiction
+there is not a wall ||contradiction
+the guy does not use the broom ||entailment
+the broom is not in front of the wall ||contradiction

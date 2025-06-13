@@ -1,0 +1,5 @@
+There is a boy. ||entailment
+The boy is little. ||entailment
+The boy looks disgusted. ||contradiction
+The ball is dirty. ||entailment
+The boy is dirty ball. ||entailment

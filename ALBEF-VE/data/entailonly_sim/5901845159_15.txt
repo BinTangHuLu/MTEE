@@ -1,0 +1,8 @@
+there is a baby ||entailment
+there is a fur ||entailment
+there is a dude ||entailment
+there is some apparatus ||entailment
+the fur is blue ||contradiction
+the baby is in the coat ||entailment
+the baby approaches the man ||entailment
+the dude is with equipment ||entailment

@@ -1,0 +1,3 @@
+There is not an animal. ||contradiction
+There is not a man. ||contradiction
+The animal is not biting the man. ||contradiction

@@ -1,0 +1,3 @@
+There are community. ||Entailment
+There are attire. ||Entailment
+The community are in clothes. ||Entailment

@@ -1,0 +1,5 @@
+there is not a dog ||contradiction
+there is not some attention ||entailment
+there is not a bull ||contradiction
+the dog does not catch attention ||contradiction
+the attention is not of the bull ||entailment

@@ -1,0 +1,4 @@
+There is a circle. ||Entailment
+There is a capital. ||Entailment
+The circle is large. ||Contradiction
+The circle is in the city. ||Neutral

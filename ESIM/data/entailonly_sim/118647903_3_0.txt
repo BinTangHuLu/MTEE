@@ -1,0 +1,2 @@
+There are soccer list. ||entailment
+The soccer list go after the ball. ||neutral

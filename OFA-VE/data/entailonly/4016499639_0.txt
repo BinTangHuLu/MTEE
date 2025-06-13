@@ -1,0 +1,6 @@
+There are People. ||Entailment
+There is food. ||Entailment
+There is a cart. ||Entailment
+The cart is popular. ||Entailment
+People wait for food. ||Entailment
+People are at cart. ||Entailment

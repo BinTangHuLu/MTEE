@@ -1,0 +1,2 @@
+There is a scarf. ||entailment
+The scarf is black. ||contradiction

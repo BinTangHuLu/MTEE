@@ -1,0 +1,3 @@
+they exist ||entailment
+there is a pool ||entailment
+they are cleaning the pool ||entailment

@@ -1,0 +1,3 @@
+There is an area. ||entailment
+There is a flashlight. ||entailment
+The area is lit up by flashlight. ||entailment

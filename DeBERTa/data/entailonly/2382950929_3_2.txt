@@ -1,0 +1,3 @@
+There are faces. ||entailment
+There are people. ||entailment
+The faces are visible. ||entailment

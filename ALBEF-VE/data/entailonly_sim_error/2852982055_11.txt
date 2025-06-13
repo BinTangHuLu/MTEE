@@ -1,0 +1,3 @@
+R,looks away
+A,nearby
+R,played in

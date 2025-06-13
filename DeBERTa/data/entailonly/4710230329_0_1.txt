@@ -1,0 +1,5 @@
+There are pedestrians. ||entailment
+There is a tram. ||entailment
+There is a street. ||entailment
+The pedestrians wait for the tram. ||entailment
+The pedestrians are crossing the street. ||contradiction

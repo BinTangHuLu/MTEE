@@ -1,0 +1,5 @@
+There is a dude. ||Entailment
+There is a lap. ||Entailment
+There is a brain. ||Contradiction
+The dude has a leg. ||Entailment
+The lap is over the head. ||Entailment

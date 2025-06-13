@@ -1,0 +1,5 @@
+There is a child. ||entailment
+There is a tree. ||entailment
+The child is outside. ||entailment
+The tree is christmas. ||neutral
+The child plays next to the tree. ||entailment

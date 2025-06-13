@@ -1,0 +1,5 @@
+There is not a man. ||contradiction
+There is not a bench. ||contradiction
+There is not a child. ||contradiction
+The man is not eating on the bench. ||contradiction
+The bench is not near the child. ||contradiction

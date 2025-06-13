@@ -1,0 +1,4 @@
+there are men ||entailment
+there is a ladder ||entailment
+the men are repairing something ||entailment
+the men are on the ladder ||entailment

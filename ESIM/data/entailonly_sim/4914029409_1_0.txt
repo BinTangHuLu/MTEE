@@ -1,0 +1,4 @@
+There is a association. ||neutral
+There is a avenue. ||entailment
+The friends are a association of. ||neutral
+The friends are biking through the avenue. ||neutral

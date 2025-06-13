@@ -1,0 +1,3 @@
+There is a car. ||Entailment
+The car is racing. ||Entailment
+The car is racing along. ||Entailment

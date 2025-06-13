@@ -1,0 +1,5 @@
+There are not children. ||contradiction
+There are not notebooks. ||contradiction
+There is not one. ||contradiction
+One does not stand next to them. ||entailment
+The children are not writing in notebooks. ||contradiction

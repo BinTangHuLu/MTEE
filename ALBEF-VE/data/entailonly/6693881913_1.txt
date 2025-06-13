@@ -1,0 +1,3 @@
+there are players ||entailment
+there is hockey ||entailment
+the players fight ||entailment

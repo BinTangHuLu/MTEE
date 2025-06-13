@@ -1,0 +1,3 @@
+there are babies ||entailment
+there is a floor ||entailment
+the babies are sitting on the floor ||entailment

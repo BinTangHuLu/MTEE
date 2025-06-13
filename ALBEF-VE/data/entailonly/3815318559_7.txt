@@ -1,0 +1,4 @@
+there is a car ||entailment
+there is a street ||entailment
+the car is red ||entailment
+the car traveled down street ||entailment

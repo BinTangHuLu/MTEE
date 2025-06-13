@@ -1,0 +1,6 @@
+There is not a machine. ||contradiction
+There is not an architecture. ||contradiction
+There is not a man. ||contradiction
+There is not water. ||contradiction
+The machine does not take down architecture. ||contradiction
+The man does not spray on water. ||contradiction

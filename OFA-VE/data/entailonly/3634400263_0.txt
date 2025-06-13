@@ -1,0 +1,3 @@
+There is a bicyclist. ||Entailment
+There is ground. ||Entailment
+The bicyclist is on ground. ||Entailment

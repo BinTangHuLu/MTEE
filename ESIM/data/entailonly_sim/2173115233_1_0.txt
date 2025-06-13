@@ -1,0 +1,3 @@
+There are child. ||neutral
+There is a architecture. ||neutral
+The child are near the building. ||entailment

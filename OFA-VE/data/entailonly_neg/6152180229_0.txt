@@ -1,0 +1,4 @@
+There are not People. ||Contradiction
+There is not a picture. ||Contradiction
+The picture is not outdoors. ||Contradiction
+The People are not posing for the picture. ||Contradiction

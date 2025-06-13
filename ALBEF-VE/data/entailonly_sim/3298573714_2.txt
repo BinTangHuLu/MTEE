@@ -1,0 +1,2 @@
+there is a pup ||entailment
+the pup is near a row of garages ||entailment

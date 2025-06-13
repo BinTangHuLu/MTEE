@@ -1,0 +1,5 @@
+There is a animal. ||Contradiction
+There is a forest. ||Contradiction
+There is a bit. ||Entailment
+The animal holds the piece. ||Contradiction
+The bit is of the tree. ||Entailment

@@ -1,0 +1,6 @@
+There is a snowboarder. ||entailment
+There is a railing. ||entailment
+There is a hat. ||entailment
+The hat is green. ||entailment
+The snowboarder is riding along railing. ||entailment
+The snowboarder is while wearing hat. ||entailment

@@ -1,0 +1,5 @@
+there is a child ||entailment
+there is a architecture ||entailment
+there is a agreeable ||entailment
+the child is sitting in the building ||contradiction
+the child is playing the game ||entailment

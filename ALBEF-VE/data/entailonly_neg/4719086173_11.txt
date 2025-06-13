@@ -1,0 +1,3 @@
+there are not firefighters ||contradiction
+there is not an area ||contradiction
+the firefighters do not check the area ||contradiction

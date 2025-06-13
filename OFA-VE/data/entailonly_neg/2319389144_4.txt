@@ -1,0 +1,5 @@
+There is not a shot. ||Entailment
+There are not some people. ||Entailment
+There is not a street. ||Entailment
+The shot is not of people. ||Entailment
+The people are not on the street. ||Entailment

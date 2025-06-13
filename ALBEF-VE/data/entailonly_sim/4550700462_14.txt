@@ -1,0 +1,5 @@
+there is a gentlewoman ||neutral
+there is a baby ||entailment
+there is a banner ||entailment
+the gentlewoman is next to the child ||entailment
+the baby has a flag ||entailment

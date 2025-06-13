@@ -1,0 +1,4 @@
+There is a man. ||entailment
+There is a building. ||entailment
+The man is cleaning. ||entailment
+The man is in the building. ||entailment

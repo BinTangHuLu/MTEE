@@ -1,0 +1,4 @@
+there is a man ||entailment
+there is a buggy ||entailment
+the buggy is dune ||neutral
+the man is working on the buggy ||entailment

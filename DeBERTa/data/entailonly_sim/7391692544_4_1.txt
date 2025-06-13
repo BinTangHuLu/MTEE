@@ -1,0 +1,2 @@
+There is a appearance. ||entailment
+The appearance is light. ||entailment

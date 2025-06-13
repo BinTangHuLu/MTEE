@@ -1,0 +1,4 @@
+there is a dog ||entailment
+the dog is gray ||entailment
+the dog is tan ||entailment
+the dog is outside ||entailment

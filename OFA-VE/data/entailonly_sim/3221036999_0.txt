@@ -1,0 +1,5 @@
+There is a body. ||Entailment
+There is some atmosphere. ||Entailment
+There is a slope. ||Entailment
+The body is in the air. ||Entailment
+The atmosphere is over the ramp. ||Entailment

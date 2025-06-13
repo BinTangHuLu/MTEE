@@ -1,0 +1,3 @@
+there are females ||entailment
+there is a moment ||entailment
+the females are sharing the moment ||entailment

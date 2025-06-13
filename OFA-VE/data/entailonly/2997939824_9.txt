@@ -1,0 +1,5 @@
+There are People. ||Entailment
+There are uniforms. ||Entailment
+There is an activity. ||Entailment
+The People are wearing uniforms. ||Entailment
+The People are performing the activity. ||Entailment

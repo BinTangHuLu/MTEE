@@ -1,0 +1,5 @@
+there is not a man ||contradiction
+there is not a ground floor ||entailment
+there is not some equipment ||contradiction
+the man is not above the ground floor ||entailment
+the man is not with equipment ||contradiction

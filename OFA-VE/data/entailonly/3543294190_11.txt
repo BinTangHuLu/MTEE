@@ -1,0 +1,4 @@
+There is a man. ||Entailment
+There is a bike. ||Entailment
+The bike is his. ||Entailment
+The man is popping a wheelie. ||Entailment

@@ -1,0 +1,5 @@
+There is a female. ||Entailment
+There is a account. ||Entailment
+There is a bludgeon. ||Contradiction
+The female is with the picture. ||Entailment
+The account is of the cow. ||Entailment

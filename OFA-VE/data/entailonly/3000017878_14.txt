@@ -1,0 +1,3 @@
+There is a band. ||Entailment
+There is a concert. ||Entailment
+The band is playing at the concert. ||Neutral

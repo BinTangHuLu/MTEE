@@ -1,0 +1,4 @@
+There is a body. ||Entailment
+There is a missile. ||Neutral
+There is a apartment. ||Contradiction
+The body is trying to move the projectile. ||Entailment

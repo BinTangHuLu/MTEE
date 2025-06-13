@@ -1,0 +1,3 @@
+there is a man ||entailment
+there is a mask ||entailment
+the man is wearing a mask ||entailment

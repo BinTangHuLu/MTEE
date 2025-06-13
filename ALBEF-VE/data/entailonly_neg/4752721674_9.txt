@@ -1,0 +1,3 @@
+there is not a cameras ||contradiction
+there is not a wall ||contradiction
+the cameras cannot be seen next to the wall ||contradiction

@@ -1,0 +1,5 @@
+there are not men ||contradiction
+there is not a uniform ||contradiction
+there is not a church ||contradiction
+men are not in uniform ||contradiction
+men are not outside of the church ||contradiction

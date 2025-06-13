@@ -1,0 +1,3 @@
+there is a dude ||entailment
+the dude holds the microphone ||entailment
+the dude points at the man ||entailment

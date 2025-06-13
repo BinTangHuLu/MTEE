@@ -1,0 +1,5 @@
+there is a dude ||entailment
+there is a action ||neutral
+the dude is bearded ||entailment
+the dude plucks guitar ||entailment
+the guitar is in action ||entailment

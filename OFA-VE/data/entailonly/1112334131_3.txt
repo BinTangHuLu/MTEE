@@ -1,0 +1,3 @@
+There is a child. ||Entailment
+There is ice cream. ||Entailment
+The child eats ice cream. ||Entailment

@@ -1,0 +1,5 @@
+there are not men ||contradiction
+there is not a crane ||contradiction
+there are not trees ||contradiction
+the men are not in the crane ||contradiction
+the crane does not look at trees ||contradiction

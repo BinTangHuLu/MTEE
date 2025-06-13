@@ -1,0 +1,4 @@
+There are not athletes. ||contradiction
+There is not basketball. ||contradiction
+The athletes are not professional. ||contradiction
+The athletes are not playing basketball. ||contradiction

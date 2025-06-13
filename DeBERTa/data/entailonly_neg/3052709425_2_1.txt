@@ -1,0 +1,5 @@
+There is not a man. ||contradiction
+The man is not older. ||contradiction
+The man does not have gray hair. ||contradiction
+The suit is not gray. ||contradiction
+The man is not wearing a suit. ||contradiction

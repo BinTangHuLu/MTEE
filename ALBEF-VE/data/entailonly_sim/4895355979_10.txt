@@ -1,0 +1,6 @@
+there is an man ||entailment
+there is a blouse ||entailment
+there is a cat figure ||contradiction
+the blouse is striped ||entailment
+the man is in the shirt ||entailment
+the man stands next to the lion figure ||entailment

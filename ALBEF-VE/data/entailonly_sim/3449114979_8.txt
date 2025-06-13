@@ -1,0 +1,3 @@
+there are bulk ||entailment
+the bulk are plastic ||neutral
+the bulk are in front of kids ||entailment

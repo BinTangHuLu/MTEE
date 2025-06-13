@@ -1,0 +1,6 @@
+There is not a woman. ||Contradiction
+There are not arms. ||Contradiction
+The woman is not jumping. ||Contradiction
+Her arms are hernot . ||Entailment
+The woman does not jump in air. ||Contradiction
+The woman does not extend arms. ||Contradiction

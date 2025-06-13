@@ -1,0 +1,2 @@
+there is a soccer player ||entailment
+the soccer player is running ||entailment

@@ -1,0 +1,5 @@
+there is not a woman ||contradiction
+there is not a podium ||contradiction
+there is not a speech ||contradiction
+the woman is not at the podium ||contradiction
+the woman is not giving the speech ||contradiction

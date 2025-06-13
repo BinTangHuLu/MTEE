@@ -1,0 +1,3 @@
+there is a clan ||entailment
+there is a coast ||entailment
+the clan sits on the beach ||entailment

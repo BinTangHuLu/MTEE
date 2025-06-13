@@ -1,0 +1,4 @@
+There are not people. ||contradiction
+The people are not walking. ||contradiction
+The people are not dirt. ||contradiction
+The people are not walking in dirt. ||contradiction

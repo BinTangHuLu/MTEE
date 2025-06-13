@@ -1,0 +1,5 @@
+There is a body. ||entailment
+The body has upper. ||entailment
+The body has lower. ||entailment
+The body separates upper. ||entailment
+The body separates lower. ||entailment

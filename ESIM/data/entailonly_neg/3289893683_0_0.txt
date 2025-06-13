@@ -1,0 +1,2 @@
+There are not People. ||contradiction
+People are not playing basketball. ||contradiction

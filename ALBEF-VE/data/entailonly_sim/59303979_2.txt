@@ -1,0 +1,2 @@
+there are attire ||entailment
+he is wearing attire ||neutral

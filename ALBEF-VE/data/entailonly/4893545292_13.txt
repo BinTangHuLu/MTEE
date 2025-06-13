@@ -1,0 +1,4 @@
+there is a woman ||entailment
+there is a picture ||entailment
+the woman is heavy ||neutral
+the woman is taking a picture ||entailment

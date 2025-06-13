@@ -1,0 +1,6 @@
+There is a person. ||entailment
+There is an institution. ||neutral
+There is protection. ||entailment
+There are meals. ||entailment
+The person is appropriate. ||entailment
+The person works with meals. ||entailment

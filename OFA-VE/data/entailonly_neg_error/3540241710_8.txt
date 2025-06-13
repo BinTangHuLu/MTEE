@@ -1,0 +1,3 @@
+EA,skateboarder,riding
+E1R,skateboarder,riding
+A,high in the air

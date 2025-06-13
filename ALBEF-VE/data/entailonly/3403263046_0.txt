@@ -1,0 +1,3 @@
+there are basketball players ||entailment
+there is a ball ||entailment
+the basketball players are competing for the ball ||neutral

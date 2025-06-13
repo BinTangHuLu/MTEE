@@ -1,0 +1,5 @@
+There is a crowd. ||Entailment
+There is a scene. ||Entailment
+There is a building. ||Entailment
+The building is religious. ||Entailment
+The scene is in front of the building. ||Entailment

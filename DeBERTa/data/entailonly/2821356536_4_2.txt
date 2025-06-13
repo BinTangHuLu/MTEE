@@ -1,0 +1,3 @@
+There are men. ||entailment
+There are Two men. ||entailment
+The men are standing next to each other. ||entailment

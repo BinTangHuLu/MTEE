@@ -1,0 +1,4 @@
+there is a kid ||entailment
+there is a shirt ||entailment
+the shirt is sesame street ||neutral
+the kid is with shirt ||entailment

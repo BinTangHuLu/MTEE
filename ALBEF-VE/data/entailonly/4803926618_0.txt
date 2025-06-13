@@ -1,0 +1,5 @@
+there is a man ||entailment
+there is a shirt ||entailment
+there are drums ||entailment
+the shirt is gray ||entailment
+the man plays drums ||entailment

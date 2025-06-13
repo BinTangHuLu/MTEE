@@ -1,0 +1,3 @@
+There are not animals. ||contradiction
+The animals are somenot . ||neutral
+The animals are not outdoors. ||contradiction

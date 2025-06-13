@@ -1,0 +1,3 @@
+there is a man ||entailment
+there is a bus ||entailment
+the man is standing on the bus ||entailment

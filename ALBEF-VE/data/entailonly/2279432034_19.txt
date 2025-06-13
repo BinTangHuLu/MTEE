@@ -1,0 +1,6 @@
+there is a group ||entailment
+there are some people ||entailment
+there are some instruments ||entailment
+there is a choir ||entailment
+the people play instruments ||entailment
+the choir is behind the people ||entailment

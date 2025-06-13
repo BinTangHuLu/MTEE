@@ -1,0 +1,5 @@
+there is a person ||entailment
+there is a beach ||entailment
+there is a surfboard ||entailment
+the person is walking on the beach ||entailment
+the person is carrying a surfboard ||entailment

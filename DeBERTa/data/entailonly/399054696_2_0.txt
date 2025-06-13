@@ -1,0 +1,4 @@
+There are people. ||entailment
+There is a boat. ||entailment
+The people are smiling. ||entailment
+The people are on the boat. ||entailment

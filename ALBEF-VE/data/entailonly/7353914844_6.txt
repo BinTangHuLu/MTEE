@@ -1,0 +1,4 @@
+there are men ||entailment
+there is water ||entailment
+the water is rough ||entailment
+men are kayaking in water ||entailment

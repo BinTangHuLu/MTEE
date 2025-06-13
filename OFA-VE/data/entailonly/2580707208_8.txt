@@ -1,0 +1,5 @@
+There is a man. ||Entailment
+There is a hat. ||Entailment
+There is a head. ||Entailment
+The man is wearing a hat. ||Entailment
+The hat is on the head. ||Entailment

@@ -1,0 +1,7 @@
+there is a boy ||entailment
+there is a coat ||entailment
+there are pants ||entailment
+the coat is red ||entailment
+the pants are tan ||entailment
+the boy is provided with a coat ||entailment
+the boy is provided with pants ||entailment

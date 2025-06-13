@@ -1,0 +1,5 @@
+there are not entertainers ||contradiction
+there is not a show ||contradiction
+there are not people ||contradiction
+the entertainers did not put on the show ||contradiction
+the show is not for people ||contradiction

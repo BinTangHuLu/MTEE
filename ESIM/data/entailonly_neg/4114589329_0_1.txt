@@ -1,0 +1,5 @@
+There is not a sedan. ||contradiction
+There is not a corner. ||entailment
+There are not walkers. ||contradiction
+The sedan was not turning the corner. ||contradiction
+The walkers were not crossing. ||contradiction

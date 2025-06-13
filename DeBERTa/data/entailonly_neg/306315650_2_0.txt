@@ -1,0 +1,4 @@
+There is not a female. ||contradiction
+There is not a bazaar. ||contradiction
+The female is not outdoors. ||contradiction
+The female is not at bazaar. ||contradiction

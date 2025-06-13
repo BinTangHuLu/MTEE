@@ -1,0 +1,3 @@
+There is a hen. ||entailment
+There is a dealer. ||entailment
+The hen is near the vendor. ||entailment

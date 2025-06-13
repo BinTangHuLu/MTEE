@@ -1,0 +1,3 @@
+there are not children ||contradiction
+there is not straw ||contradiction
+the children are not throwing straw ||contradiction

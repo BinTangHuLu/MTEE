@@ -1,0 +1,4 @@
+There is a woman. ||entailment
+There is a bus. ||entailment
+The bus is well decorated. ||entailment
+The woman is standing in front of the bus. ||entailment

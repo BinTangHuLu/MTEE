@@ -1,0 +1,5 @@
+there are not people ||contradiction
+there is not a face ||contradiction
+the people are not few ||entailment
+the people are displaying somethingnot ||contradiction
+something is not on the face ||entailment

@@ -1,0 +1,3 @@
+There are men. ||Entailment
+There is a table. ||Entailment
+The men drink at the table. ||Entailment

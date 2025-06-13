@@ -1,0 +1,5 @@
+There is a dude. ||Contradiction
+There is a female. ||Entailment
+The dude is outdoors. ||Entailment
+The female is outdoors. ||Entailment
+The dude and woman are outdoors. ||Entailment

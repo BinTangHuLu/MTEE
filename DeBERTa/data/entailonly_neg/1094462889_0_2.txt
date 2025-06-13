@@ -1,0 +1,4 @@
+There is not a dog. ||contradiction
+The dog is not brown. ||contradiction
+The dog is not outside. ||contradiction
+It is not snowing. ||contradiction

@@ -1,0 +1,5 @@
+There is a childbearing. ||Entailment
+There is a fedora. ||Neutral
+The childbearing is wearing. ||Entailment
+The childbearing is traveling by foot. ||Neutral
+The childbearing is traveling by foot outside. ||Entailment

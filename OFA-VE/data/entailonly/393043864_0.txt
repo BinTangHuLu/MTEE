@@ -1,0 +1,3 @@
+There is a basket. ||Entailment
+There is some produce. ||Entailment
+The basket sits outside produce. ||Entailment

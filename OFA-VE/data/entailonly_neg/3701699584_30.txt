@@ -1,0 +1,4 @@
+There is not a player. ||Contradiction
+There is not a tennis. ||Entailment
+The player is not ready. ||Entailment
+The player is not ready to play tennis. ||Neutral

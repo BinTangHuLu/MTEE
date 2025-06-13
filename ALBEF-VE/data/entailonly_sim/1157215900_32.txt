@@ -1,0 +1,3 @@
+there is a body ||entailment
+there is cabbage ||neutral
+the body is near bread ||entailment

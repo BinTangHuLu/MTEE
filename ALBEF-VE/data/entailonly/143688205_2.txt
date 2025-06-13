@@ -1,0 +1,3 @@
+there is a guy ||entailment
+the guy is rock climbing ||entailment
+the guy is rock climbing ||entailment

@@ -1,0 +1,5 @@
+there is not a dog ||contradiction
+there is not a strap ||contradiction
+there is not a camera ||contradiction
+the strap is not gnawing ||neutral
+the dog is not gnawing on strap ||contradiction

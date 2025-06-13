@@ -1,0 +1,3 @@
+RE2,is standing with,girl's right hand
+E1R,girl's right hand,on
+A,right

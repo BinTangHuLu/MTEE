@@ -1,0 +1,4 @@
+there are people ||entailment
+there is a market street ||entailment
+the people are young black ||neutral
+the people are in market street ||entailment

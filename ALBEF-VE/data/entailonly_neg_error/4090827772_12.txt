@@ -1,0 +1,3 @@
+A,wearing shorts
+A,wearing shirt
+A,red

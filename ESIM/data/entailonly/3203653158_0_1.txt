@@ -1,0 +1,4 @@
+There is a person. ||entailment
+There is a field. ||entailment
+The person is standing. ||entailment
+The person is in the field. ||entailment

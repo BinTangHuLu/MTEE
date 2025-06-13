@@ -1,0 +1,7 @@
+There is a association. ||Entailment
+There are some community. ||Entailment
+There are some apparatus. ||Entailment
+There is a dude. ||Entailment
+The community are with instruments. ||Entailment
+The community are near the man. ||Entailment
+The dude is with the microphone. ||Neutral

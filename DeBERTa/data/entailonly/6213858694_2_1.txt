@@ -1,0 +1,5 @@
+There are competitors. ||entailment
+There are teammates. ||entailment
+There is a referee. ||entailment
+The competitors are near teammates. ||entailment
+The competitors are near the referee. ||entailment

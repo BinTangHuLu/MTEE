@@ -1,0 +1,8 @@
+There is not a man. ||contradiction
+There is not a car. ||contradiction
+There is not a cellphone. ||contradiction
+The man is not getting gas. ||contradiction
+The car is hisnot . ||entailment
+The cellphone is hisnot . ||neutral
+The man does not talk on the cellphone. ||contradiction
+The man is not getting the car. ||contradiction

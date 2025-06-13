@@ -1,0 +1,2 @@
+there is an aircraft ||entailment
+the aircraft is heavy ||neutral

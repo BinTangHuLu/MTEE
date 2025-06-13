@@ -1,0 +1,8 @@
+there is a employee ||entailment
+there is a beam ||entailment
+there is effort ||entailment
+there is a buddy ||entailment
+there is a blouse ||entailment
+the blouse is striped ||entailment
+the employee is doing pole based work ||contradiction
+the buddy talks to the worker ||neutral

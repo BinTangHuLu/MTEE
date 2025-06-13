@@ -1,0 +1,8 @@
+There is not a man. ||contradiction
+There is not a suit. ||contradiction
+There are not some bricks. ||entailment
+There is not a name tag. ||contradiction
+The man is not in a suit. ||contradiction
+The suit is not with gold. ||contradiction
+The man does not gesture with his hands. ||contradiction
+The man does not gesture with hands. ||contradiction

@@ -1,0 +1,7 @@
+There is a female. ||entailment
+There is a brain. ||contradiction
+There is a dude. ||entailment
+There is a accept. ||entailment
+The female is resting on the head. ||entailment
+The brain is on the shoulder. ||contradiction
+The female is resting on the shoulder. ||entailment

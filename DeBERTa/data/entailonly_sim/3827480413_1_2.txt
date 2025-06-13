@@ -1,0 +1,3 @@
+There is an allure. ||entailment
+There are sightseer. ||entailment
+The allure drew the attention of tourists. ||entailment

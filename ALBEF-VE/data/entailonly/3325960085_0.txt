@@ -1,0 +1,3 @@
+there is a school ||entailment
+there are some doors ||entailment
+the doors are about to open ||neutral

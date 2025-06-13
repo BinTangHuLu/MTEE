@@ -1,0 +1,5 @@
+There are not people. ||contradiction
+There are not three people. ||contradiction
+The people are not enjoying. ||neutral
+The outdoors is not great. ||neutral
+The people are not enjoying outdoors. ||contradiction

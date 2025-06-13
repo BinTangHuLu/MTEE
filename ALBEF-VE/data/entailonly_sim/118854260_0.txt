@@ -1,0 +1,2 @@
+there is a female ||entailment
+the female works with crafts ||entailment

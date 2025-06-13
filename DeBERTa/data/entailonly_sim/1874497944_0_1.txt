@@ -1,0 +1,4 @@
+There are band. ||contradiction
+There is some accessory. ||entailment
+The accessory is safety. ||entailment
+The band were wearing gear. ||contradiction

@@ -1,0 +1,4 @@
+There are people. ||entailment
+There is a man. ||entailment
+The man is in uniform. ||entailment
+The people walk with the man. ||entailment

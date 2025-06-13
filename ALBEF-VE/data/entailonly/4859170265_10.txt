@@ -1,0 +1,4 @@
+there are females ||entailment
+there is a road ||entailment
+the females are blonde ||entailment
+the females are walking down road ||entailment

@@ -1,0 +1,5 @@
+there is a acrobat ||entailment
+there is a ballot ||entailment
+the acrobat is being helped ||entailment
+the acrobat is holding onto ||entailment
+the acrobat is holding onto the poll ||neutral

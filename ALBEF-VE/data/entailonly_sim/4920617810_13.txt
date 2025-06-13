@@ -1,0 +1,2 @@
+there is a gentlewoman ||entailment
+the gentlewoman is sitting ||entailment

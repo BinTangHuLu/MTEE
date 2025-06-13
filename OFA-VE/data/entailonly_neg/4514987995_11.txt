@@ -1,0 +1,2 @@
+There are not students. ||Entailment
+The students are not working together. ||Contradiction

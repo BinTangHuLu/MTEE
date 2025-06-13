@@ -1,0 +1,5 @@
+there is a dog ||entailment
+there is a bull ||entailment
+the dog is outdoors ||entailment
+the bull is outdoors ||entailment
+the dog and bull are outdoors ||entailment

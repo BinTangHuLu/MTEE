@@ -1,0 +1,3 @@
+There are people. ||Entailment
+There is a train. ||Entailment
+The people are on the train. ||Entailment

@@ -1,0 +1,4 @@
+there are people ||entailment
+there are bikes ||entailment
+the bikes are on ||entailment
+the people are waiting to go in a race ||neutral

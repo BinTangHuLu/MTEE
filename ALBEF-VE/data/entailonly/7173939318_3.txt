@@ -1,0 +1,4 @@
+there are people ||entailment
+there is a scene ||entailment
+the people are enjoying ||neutral
+the people are outside the scene ||entailment

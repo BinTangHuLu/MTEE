@@ -1,0 +1,4 @@
+there is a person ||entailment
+there is a skateboard ||entailment
+the person is doing tricks ||neutral
+the person is doing tricks on skateboard ||entailment

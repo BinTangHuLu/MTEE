@@ -1,0 +1,5 @@
+There is not a person. ||contradiction
+There is not a truck. ||contradiction
+The truck is not delivery. ||contradiction
+The person is talking to someonenot . ||neutral
+The someone is not coat. ||contradiction

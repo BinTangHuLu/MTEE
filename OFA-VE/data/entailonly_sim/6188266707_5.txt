@@ -1,0 +1,4 @@
+There is a body. ||Entailment
+There is a athletics. ||Entailment
+The body is female. ||Entailment
+The body is playing sport. ||Entailment

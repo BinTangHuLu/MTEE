@@ -1,0 +1,5 @@
+There are not men. ||contradiction
+The men are not older. ||contradiction
+There is not a street. ||contradiction
+The street is not defaced. ||contradiction
+The men do not walk down the street. ||contradiction

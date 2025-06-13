@@ -1,0 +1,3 @@
+there is a family ||entailment
+there is water ||entailment
+the family is looking at water ||entailment

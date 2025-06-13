@@ -1,0 +1,3 @@
+there are men ||entailment
+there are bikes ||entailment
+the men are cleaning bikes ||entailment

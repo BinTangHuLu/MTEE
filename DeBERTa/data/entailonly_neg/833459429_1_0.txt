@@ -1,0 +1,5 @@
+There is not a woman. ||contradiction
+There is not a dress. ||contradiction
+There is not some food. ||contradiction
+The woman is not wearing a dress. ||contradiction
+The woman does not cook food. ||contradiction

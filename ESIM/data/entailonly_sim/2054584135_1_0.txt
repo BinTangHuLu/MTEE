@@ -1,0 +1,8 @@
+There is a body. ||entailment
+There is a avenue. ||entailment
+There is blizzard. ||neutral
+The body is walking. ||entailment
+The avenue is scattered. ||entailment
+The blizzard is about. ||neutral
+The body is walking down the street. ||entailment
+The avenue is with snow. ||entailment

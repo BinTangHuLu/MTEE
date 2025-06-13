@@ -1,0 +1,3 @@
+There is not a man. ||contradiction
+There are not birds. ||contradiction
+The man is not being carried by birds. ||contradiction

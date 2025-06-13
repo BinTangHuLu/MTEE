@@ -1,0 +1,4 @@
+there is not a lady ||contradiction
+there is not a day ||contradiction
+the day is not clear ||entailment
+the lady is not outside on the day ||entailment

@@ -1,0 +1,2 @@
+there are pants ||contradiction
+the pants are long ||entailment

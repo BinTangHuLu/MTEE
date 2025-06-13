@@ -1,0 +1,2 @@
+EA,ship,large
+E1RE2,ship,with,machinery

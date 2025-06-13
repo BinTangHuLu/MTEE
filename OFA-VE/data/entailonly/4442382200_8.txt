@@ -1,0 +1,3 @@
+There is a man. ||Entailment
+There is a road. ||Entailment
+The man is in road. ||Entailment

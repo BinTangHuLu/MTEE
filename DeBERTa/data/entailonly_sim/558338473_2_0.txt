@@ -1,0 +1,6 @@
+There are community. ||entailment
+There is an act. ||entailment
+There is a field. ||contradiction
+The community are Two. ||entailment
+The community are doing exercise. ||entailment
+The act is in gym. ||entailment

@@ -1,0 +1,3 @@
+there are people ||entailment
+the people are reciting ||neutral
+there are vows ||entailment

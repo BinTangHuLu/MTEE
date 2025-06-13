@@ -1,0 +1,4 @@
+there are women ||contradiction
+there is a camera ||entailment
+the women are two ||neutral
+the women are using the camera ||entailment

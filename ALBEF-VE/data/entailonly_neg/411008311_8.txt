@@ -1,0 +1,2 @@
+there is not a guy ||contradiction
+the guy is not acting erratic ||entailment

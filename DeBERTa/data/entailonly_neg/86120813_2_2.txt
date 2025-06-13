@@ -1,0 +1,4 @@
+There is not a man. ||contradiction
+There are not coveralls. ||contradiction
+The man is not wearing coveralls. ||contradiction
+The coveralls are not coveralls. ||contradiction

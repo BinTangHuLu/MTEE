@@ -1,0 +1,6 @@
+there is not a boy ||contradiction
+there is not a shirt ||entailment
+there is not a fountain ||contradiction
+the shirt is not red ||contradiction
+the boy is not in the shirt ||neutral
+the boy is not leaning away from the fountain ||contradiction

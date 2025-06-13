@@ -1,0 +1,3 @@
+there is a woman ||entailment
+there are some vehicles ||entailment
+the woman is watching vehicles ||entailment

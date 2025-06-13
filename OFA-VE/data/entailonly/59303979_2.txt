@@ -1,0 +1,3 @@
+There is He. ||Entailment
+There are clothes. ||Entailment
+He is wearing clothes. ||Entailment

@@ -1,0 +1,5 @@
+There is a association. ||Entailment
+There are some community. ||Entailment
+There are some athletics. ||Entailment
+The community are playing games. ||Entailment
+The association is of people. ||Entailment

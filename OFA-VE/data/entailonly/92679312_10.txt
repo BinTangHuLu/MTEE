@@ -1,0 +1,4 @@
+There are people. ||Entailment
+There are microphones. ||Entailment
+The people are singing. ||Entailment
+The people are singing into microphones. ||Entailment

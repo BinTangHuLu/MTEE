@@ -1,0 +1,3 @@
+there are artist ||entailment
+there is a fame ||entailment
+the artist are performing in the spotlight ||entailment

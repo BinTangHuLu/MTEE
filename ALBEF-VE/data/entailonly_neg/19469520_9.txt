@@ -1,0 +1,3 @@
+there are not competitors ||contradiction
+there is not a competition ||contradiction
+the competitors are not after competition ||contradiction

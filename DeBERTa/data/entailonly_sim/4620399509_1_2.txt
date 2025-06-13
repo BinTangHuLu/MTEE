@@ -1,0 +1,7 @@
+There is a female. ||entailment
+There is a apparel. ||entailment
+The female is young. ||entailment
+The apparel is white sleeveless lined with red flowers. ||entailment
+The female is wearing the dress. ||entailment
+The female is talking on a cellphone. ||entailment
+The female walks down the sidewalk. ||entailment

@@ -1,0 +1,13 @@
+There is a gentlewoman. ||neutral
+There is a fur. ||entailment
+There are some bounce. ||entailment
+There is a camcorder. ||neutral
+There is a backpack. ||neutral
+The fur is leather. ||entailment
+The bounce are black leather. ||entailment
+The backpack is strapped. ||entailment
+The backpack is on shoulders. ||neutral
+The gentlewoman walks away from the camera. ||neutral
+The gentlewoman is in the coat. ||neutral
+The fur is with the boots. ||neutral
+The gentlewoman is with the bag. ||neutral

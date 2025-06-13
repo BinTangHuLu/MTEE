@@ -1,0 +1,3 @@
+there is a dude ||entailment
+there is a athletics ||entailment
+the dude plays sport ||entailment

@@ -1,0 +1,3 @@
+There is not a man. ||Contradiction
+There is not a traffic light. ||Contradiction
+The man is not next to the traffic light. ||Entailment

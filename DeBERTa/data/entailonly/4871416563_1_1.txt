@@ -1,0 +1,7 @@
+There is a woman. ||entailment
+There is a crowd. ||entailment
+There is an umbrella. ||entailment
+The woman is raven haired. ||neutral
+The umbrella is white opened. ||entailment
+The woman is seen by the crowd. ||entailment
+The woman is holding the umbrella. ||entailment

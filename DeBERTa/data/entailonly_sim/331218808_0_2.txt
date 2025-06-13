@@ -1,0 +1,7 @@
+There is a dude. ||entailment
+There is a armchair. ||entailment
+There is a backpack. ||neutral
+The dude is sitting. ||entailment
+The backpack is under his arm. ||neutral
+The dude is with the chair. ||entailment
+The dude is with the bag. ||entailment

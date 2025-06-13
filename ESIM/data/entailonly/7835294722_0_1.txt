@@ -1,0 +1,2 @@
+There is an acrobat. ||entailment
+The acrobat is hanging upside down. ||entailment

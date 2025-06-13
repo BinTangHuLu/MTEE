@@ -1,0 +1,3 @@
+there are not people ||contradiction
+there is not music ||contradiction
+the people are not practicing music ||contradiction

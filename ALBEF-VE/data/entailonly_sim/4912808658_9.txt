@@ -1,0 +1,6 @@
+there is a dude ||entailment
+there is an cash ||entailment
+there is a achievement ||entailment
+the cash is primary ||contradiction
+the achievement is street ||neutral
+the dude is in performance ||entailment

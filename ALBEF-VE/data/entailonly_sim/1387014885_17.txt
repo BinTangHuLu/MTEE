@@ -1,0 +1,2 @@
+there is a dude ||entailment
+the dude is taking tickets ||entailment

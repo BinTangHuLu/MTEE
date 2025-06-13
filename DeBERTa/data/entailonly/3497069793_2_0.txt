@@ -1,0 +1,2 @@
+There is a girl. ||entailment
+The girl is bouncing around. ||entailment

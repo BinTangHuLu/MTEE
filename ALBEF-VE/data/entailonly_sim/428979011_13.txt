@@ -1,0 +1,5 @@
+there is a dude ||entailment
+there is a canvas ||neutral
+the dude is dressed in yellow ||entailment
+the dude sings into the microphone ||entailment
+the dude is inside of the tent ||entailment

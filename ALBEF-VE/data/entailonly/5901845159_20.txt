@@ -1,0 +1,3 @@
+there is a boy ||entailment
+there is a man ||entailment
+the boy is looking at the man ||entailment

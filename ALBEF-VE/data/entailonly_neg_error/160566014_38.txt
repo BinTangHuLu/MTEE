@@ -1,0 +1,3 @@
+RE2,serves as,seat
+A,away facing
+E1R,seat,for

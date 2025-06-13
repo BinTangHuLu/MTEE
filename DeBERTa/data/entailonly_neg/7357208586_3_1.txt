@@ -1,0 +1,3 @@
+There is not a cyclist. ||contradiction
+There is not a road. ||contradiction
+The cyclist does not ride down the road. ||contradiction

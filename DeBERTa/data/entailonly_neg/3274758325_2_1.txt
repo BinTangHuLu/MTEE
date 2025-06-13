@@ -1,0 +1,4 @@
+There is not a Person. ||contradiction
+There is not a bandanna. ||contradiction
+The bandanna is not orange. ||contradiction
+The Person is not playing flute. ||contradiction

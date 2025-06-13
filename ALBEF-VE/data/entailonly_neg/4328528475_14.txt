@@ -1,0 +1,4 @@
+there is not a girl ||contradiction
+there is not a racket ||contradiction
+the girl is not asian ||contradiction
+the girl is not using the racket ||contradiction

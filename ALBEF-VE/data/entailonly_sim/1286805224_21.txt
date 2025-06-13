@@ -1,0 +1,4 @@
+there is a female ||entailment
+there is a bank ||entailment
+the female is smiling ||entailment
+the female is smiling in the store ||entailment

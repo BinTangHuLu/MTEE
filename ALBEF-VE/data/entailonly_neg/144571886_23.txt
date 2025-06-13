@@ -1,0 +1,6 @@
+there is not a woman ||contradiction
+there is not a chevrolet ||contradiction
+there is not a car ||contradiction
+there is not a sign ||contradiction
+the woman is not standing in front of chevrolet ||contradiction
+chevrolet is not car and sign ||contradiction

@@ -1,0 +1,4 @@
+there is a group ||entailment
+there are some friends ||entailment
+the group is waiting ||entailment
+the group is waiting outside ||entailment

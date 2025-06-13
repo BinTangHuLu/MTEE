@@ -1,0 +1,3 @@
+there is a circle ||neutral
+the circle is gathered ||entailment
+the circle is gathered outdoors ||entailment

@@ -1,0 +1,3 @@
+there is not an airplane ||contradiction
+there are not spectators ||contradiction
+the airplane does not soar over spectators ||contradiction

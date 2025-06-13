@@ -1,0 +1,6 @@
+There is a woman. ||entailment
+There is a court. ||entailment
+The woman is young. ||entailment
+The woman skateboards on the court. ||entailment
+The court is outdoor. ||entailment
+The court is a basketball court. ||entailment

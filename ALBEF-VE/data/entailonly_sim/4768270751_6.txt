@@ -1,0 +1,8 @@
+there is a dude ||entailment
+there is a t blouse ||entailment
+there is a bit ||entailment
+there is a daily ||neutral
+there is dirt ||neutral
+the bit is large ||neutral
+the dude paints on piece ||entailment
+the bit is on ground ||entailment

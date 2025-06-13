@@ -1,0 +1,3 @@
+there is a demonstration ||neutral
+there are arts ||entailment
+the arts are martial ||neutral

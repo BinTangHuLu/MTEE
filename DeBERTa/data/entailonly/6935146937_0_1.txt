@@ -1,0 +1,5 @@
+There is a crowd. ||entailment
+There is someone. ||entailment
+There is a basketball. ||entailment
+The crowd is watching someone. ||entailment
+Someone is playing basketball. ||entailment

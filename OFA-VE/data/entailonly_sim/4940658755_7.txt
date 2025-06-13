@@ -1,0 +1,5 @@
+There is a body. ||Entailment
+There is a boutique. ||Neutral
+The body is older. ||Entailment
+The body stands outside of window. ||Neutral
+The window is of boutique. ||Neutral

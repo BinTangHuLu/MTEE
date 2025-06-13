@@ -1,0 +1,4 @@
+there is a man ||entailment
+there is a pole ||entailment
+the pole is red ||entailment
+the man is standing next to the pole ||contradiction

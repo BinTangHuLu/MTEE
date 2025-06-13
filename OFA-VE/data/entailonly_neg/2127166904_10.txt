@@ -1,0 +1,3 @@
+There are not people. ||Contradiction
+There is not a store. ||Contradiction
+The people are not talking in the store. ||Entailment

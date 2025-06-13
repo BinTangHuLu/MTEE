@@ -1,0 +1,4 @@
+There is a woman. ||entailment
+There is an Asian. ||entailment
+The woman is Asian. ||entailment
+The woman is dancing. ||entailment

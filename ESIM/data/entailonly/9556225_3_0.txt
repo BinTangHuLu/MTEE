@@ -1,0 +1,4 @@
+There is a woman. ||entailment
+The woman is working. ||entailment
+The hands are protected from harm. ||entailment
+The woman is working with hands. ||neutral

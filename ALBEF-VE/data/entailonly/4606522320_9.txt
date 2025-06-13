@@ -1,0 +1,3 @@
+there are men ||entailment
+there is a picture ||entailment
+the men are posing for the picture ||neutral

@@ -1,0 +1,4 @@
+There is a man. ||entailment
+There is a tree. ||entailment
+The man pushes the tree. ||entailment
+The man is in the forest. ||entailment

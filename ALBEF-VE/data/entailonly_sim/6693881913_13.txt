@@ -1,0 +1,3 @@
+there are list ||neutral
+there is a action ||entailment
+the list get into fight ||contradiction

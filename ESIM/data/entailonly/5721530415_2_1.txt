@@ -1,0 +1,3 @@
+There are people. ||entailment
+There is a room. ||neutral
+The people are in the room. ||neutral

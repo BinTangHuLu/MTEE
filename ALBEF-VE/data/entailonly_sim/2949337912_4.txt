@@ -1,0 +1,2 @@
+there is drink ||entailment
+the surfer is on drink ||contradiction

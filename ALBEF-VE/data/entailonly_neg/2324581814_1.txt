@@ -1,0 +1,5 @@
+there are not men ||contradiction
+there is not a dog ||contradiction
+there is not a room ||contradiction
+the men are not in the room ||contradiction
+the dog is not in the room ||entailment

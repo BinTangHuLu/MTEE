@@ -1,0 +1,6 @@
+There is a man. ||entailment
+There is a duffel bag. ||entailment
+There is a cart. ||entailment
+There is a street. ||entailment
+The man is with a duffel bag. ||entailment
+The man walks with the girl. ||entailment

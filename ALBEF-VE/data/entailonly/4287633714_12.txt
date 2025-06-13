@@ -1,0 +1,5 @@
+there is a person ||entailment
+there is a jacket ||entailment
+there are arms ||entailment
+the arms are covered ||entailment
+the person has arms ||entailment

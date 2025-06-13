@@ -1,0 +1,3 @@
+There is a female. ||Entailment
+There is some fiber. ||Entailment
+The Woman works with fiber. ||Entailment

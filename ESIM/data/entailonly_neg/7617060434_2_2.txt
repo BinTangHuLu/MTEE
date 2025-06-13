@@ -1,0 +1,5 @@
+There is not a teenager. ||contradiction
+There is not a golf. ||contradiction
+There is not a field. ||contradiction
+The teenager is not playing golf. ||contradiction
+The teenager is not in the field. ||contradiction

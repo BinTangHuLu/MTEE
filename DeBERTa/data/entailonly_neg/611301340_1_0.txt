@@ -1,0 +1,3 @@
+There are not People. ||contradiction
+The People are not orange. ||contradiction
+The People are not wearing orange. ||contradiction

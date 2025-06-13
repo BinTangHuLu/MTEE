@@ -1,0 +1,2 @@
+There is a auto. ||Entailment
+He is in facade of the car. ||Neutral

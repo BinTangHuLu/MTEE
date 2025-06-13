@@ -1,0 +1,3 @@
+there are not shoppers ||contradiction
+there is not produce ||contradiction
+the shoppers did not pick up produce ||contradiction

@@ -1,0 +1,4 @@
+there is a goods ||entailment
+there is a bluff ||entailment
+the bluff is muddy ||entailment
+the goods drives up the hill ||entailment

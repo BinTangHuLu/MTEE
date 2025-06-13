@@ -1,0 +1,5 @@
+there is a basketball game ||entailment
+there is lafayette ||contradiction
+there is penn state ||entailment
+the basketball game is between lafayette ||neutral
+the basketball game is between penn state ||neutral

@@ -1,0 +1,3 @@
+there is a girl ||entailment
+there is a dominos ||entailment
+the girl is outside of dominos ||entailment

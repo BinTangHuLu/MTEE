@@ -1,0 +1,5 @@
+there is a female ||entailment
+there is a metro ||entailment
+the female has blue hair ||contradiction
+the female is with blue hair ||contradiction
+the female stands in the subway ||entailment

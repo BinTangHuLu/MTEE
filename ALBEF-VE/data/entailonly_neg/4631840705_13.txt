@@ -1,0 +1,3 @@
+there is not a climber ||contradiction
+there is not a mountain ||contradiction
+the climber is not on the mountain ||contradiction

@@ -1,0 +1,4 @@
+there are curve ||entailment
+there are community ||entailment
+the curve are multiple ||entailment
+the curve are of people ||entailment

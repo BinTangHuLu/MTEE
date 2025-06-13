@@ -1,0 +1,3 @@
+There is a body. ||Entailment
+There is an apparatus. ||Entailment
+The body is holding the instrument. ||Entailment

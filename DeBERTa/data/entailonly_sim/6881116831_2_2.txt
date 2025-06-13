@@ -1,0 +1,4 @@
+There is a association. ||entailment
+There are some community. ||entailment
+There is some bread. ||neutral
+The association buys food. ||neutral

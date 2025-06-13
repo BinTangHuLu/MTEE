@@ -1,0 +1,4 @@
+There are community. ||entailment
+The community are Two. ||entailment
+The community stand on the median. ||entailment
+The community are with advertising signs. ||entailment

@@ -1,0 +1,3 @@
+there are men ||entailment
+the activity is complicated ||neutral
+the men are engaged in activity ||entailment

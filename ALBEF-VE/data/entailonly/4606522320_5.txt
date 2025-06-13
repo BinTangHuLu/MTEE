@@ -1,0 +1,3 @@
+there are men ||entailment
+there are uniforms ||entailment
+the men are wearing uniforms ||entailment

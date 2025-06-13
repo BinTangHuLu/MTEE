@@ -1,0 +1,4 @@
+there is not a lad ||contradiction
+there is not a mountain ||contradiction
+the lad is not young ||entailment
+the lad is not looking down the mountain ||entailment

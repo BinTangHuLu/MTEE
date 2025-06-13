@@ -1,0 +1,4 @@
+there is not a child ||contradiction
+there is not a moped ||contradiction
+the child is not small ||entailment
+the child does not point at moped ||contradiction

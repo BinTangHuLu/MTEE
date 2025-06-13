@@ -1,0 +1,7 @@
+There is a lady. ||entailment
+There is an object. ||entailment
+There are some items. ||entailment
+There is a fruit. ||entailment
+The lady is holding. ||entailment
+The object contains. ||entailment
+The lady is behind the fruit. ||entailment

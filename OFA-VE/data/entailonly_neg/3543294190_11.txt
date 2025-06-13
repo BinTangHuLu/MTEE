@@ -1,0 +1,4 @@
+There is not a man. ||Contradiction
+There is not a bike. ||Contradiction
+The bike is hisnot . ||Contradiction
+The man is not popping a wheelie. ||Entailment

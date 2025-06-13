@@ -1,0 +1,7 @@
+there is a man ||entailment
+there are some sunglasses ||neutral
+there is a hat ||entailment
+there is a boat ||entailment
+the hat is yellow ||neutral
+the man is wearing sunglasses ||neutral
+the man is driving the boat ||neutral

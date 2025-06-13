@@ -1,0 +1,4 @@
+There are not humans. ||contradiction
+The humans are not male. ||contradiction
+The humans are not outside. ||contradiction
+The humans are not with a hat on. ||contradiction

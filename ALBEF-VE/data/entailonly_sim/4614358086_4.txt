@@ -1,0 +1,4 @@
+there is a constable ||entailment
+there is a homogeneous ||entailment
+the homogeneous is in ||entailment
+the constable is standing guard ||entailment

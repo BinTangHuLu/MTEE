@@ -1,0 +1,4 @@
+there is a boy ||entailment
+there is a hat ||entailment
+the boy is in the hat ||entailment
+the boy looks like a fool ||entailment

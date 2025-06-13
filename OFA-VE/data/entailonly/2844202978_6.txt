@@ -1,0 +1,3 @@
+There are women. ||Entailment
+There is food. ||Entailment
+The women are sitting with food. ||Entailment

@@ -1,0 +1,4 @@
+there is a child ||entailment
+there is a path ||entailment
+the child is holding the ball ||entailment
+the ball is next to the path ||entailment

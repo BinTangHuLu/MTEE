@@ -1,0 +1,4 @@
+there are dogs ||entailment
+there is a woman ||entailment
+there is a yard ||entailment
+the woman is in the yard ||entailment

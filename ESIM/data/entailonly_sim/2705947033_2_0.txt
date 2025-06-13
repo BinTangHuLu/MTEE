@@ -1,0 +1,4 @@
+There are clan. ||neutral
+There is an field. ||neutral
+There is a jungle. ||neutral
+The clan are in the area. ||contradiction

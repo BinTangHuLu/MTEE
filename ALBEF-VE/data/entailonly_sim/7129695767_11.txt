@@ -1,0 +1,2 @@
+there is a bluff ||entailment
+someone is on bluff ||entailment

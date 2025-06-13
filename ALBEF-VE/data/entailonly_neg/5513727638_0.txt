@@ -1,0 +1,8 @@
+there is not a biker ||contradiction
+there is not a stunt ||contradiction
+there are not onlookers ||contradiction
+there is not a corner ||entailment
+the biker is not doing a stunt ||contradiction
+the onlookers do not watch in biker ||contradiction
+the biker is not doing a stunt ||contradiction
+the onlookers do not watch in corner ||entailment

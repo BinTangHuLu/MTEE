@@ -1,0 +1,5 @@
+There is a boy. ||entailment
+There is a wall. ||entailment
+There is a foundation. ||entailment
+The boy is against the wall. ||entailment
+The boy is against the foundation. ||entailment

@@ -1,0 +1,5 @@
+there is a couple ||entailment
+there is a tunnel ||entailment
+there is graffiti ||entailment
+the couple is being photographed in the tunnel ||entailment
+the tunnel is with graffiti ||entailment

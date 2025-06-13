@@ -1,0 +1,7 @@
+There is not a girl. ||contradiction
+There is not a soda. ||contradiction
+There is not a street. ||contradiction
+There are not some people. ||contradiction
+The girl does not drink soda. ||contradiction
+The girl is not on the street. ||contradiction
+The street is not in front of people. ||contradiction

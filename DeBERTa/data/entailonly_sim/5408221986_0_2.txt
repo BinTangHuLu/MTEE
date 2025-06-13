@@ -1,0 +1,5 @@
+There are community. ||entailment
+There is a cartoon. ||contradiction
+There are four community. ||entailment
+The cartoon is outdoor. ||contradiction
+The community pose for the photo. ||entailment

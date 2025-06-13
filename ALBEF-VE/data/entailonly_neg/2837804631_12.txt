@@ -1,0 +1,3 @@
+there is not water ||contradiction
+there is not a boy ||contradiction
+the water does not spray on the boy ||contradiction

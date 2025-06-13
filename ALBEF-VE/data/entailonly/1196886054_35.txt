@@ -1,0 +1,3 @@
+there is a bride ||entailment
+there is a groom ||entailment
+the bride walks down the aisle ||entailment

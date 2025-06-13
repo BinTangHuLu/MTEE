@@ -1,0 +1,5 @@
+there is a man ||entailment
+there is some scenery ||entailment
+the man is elderly ||entailment
+the scenery is beautiful ||entailment
+the man is enjoying scenery ||entailment

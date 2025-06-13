@@ -1,0 +1,8 @@
+there is not a boy ||contradiction
+there are not some floaties ||contradiction
+there are not feet ||contradiction
+there is not sand ||contradiction
+there is not a beach ||contradiction
+the boy does not have feet ||contradiction
+the feet are not in sand ||contradiction
+the sand is not on the beach ||neutral

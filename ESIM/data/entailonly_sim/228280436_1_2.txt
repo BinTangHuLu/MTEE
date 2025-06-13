@@ -1,0 +1,5 @@
+There is a attitude. ||neutral
+There is some crop. ||entailment
+There is a avenue market. ||entailment
+The attitude is selling produce. ||entailment
+The attitude is in the street market. ||entailment

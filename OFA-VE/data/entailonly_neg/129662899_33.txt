@@ -1,0 +1,3 @@
+There is not a man. ||Contradiction
+There are not sunglasses. ||Contradiction
+The man does not have sunglasses. ||Contradiction

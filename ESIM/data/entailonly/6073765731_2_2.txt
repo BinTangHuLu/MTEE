@@ -1,0 +1,5 @@
+There is a woman. ||entailment
+There are some orders. ||entailment
+There is a doctor. ||entailment
+The woman is trying to finish orders. ||neutral
+The woman is trying to finish doctor. ||neutral

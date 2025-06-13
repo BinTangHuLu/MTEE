@@ -1,0 +1,5 @@
+There are clan. ||neutral
+There is a account. ||entailment
+The clan are three. ||contradiction
+The clan are in the picture. ||contradiction
+The clan are outside. ||entailment

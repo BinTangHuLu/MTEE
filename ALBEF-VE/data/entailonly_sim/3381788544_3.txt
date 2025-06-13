@@ -1,0 +1,4 @@
+there are boyhood ||entailment
+there are attire ||entailment
+the attire are dark ||entailment
+the boyhood are with uniforms ||entailment

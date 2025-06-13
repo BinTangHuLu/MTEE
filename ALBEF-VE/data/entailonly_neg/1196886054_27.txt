@@ -1,0 +1,5 @@
+there are not people ||contradiction
+there is not a wedding party ||contradiction
+there is not a sidewalk ||contradiction
+the people are not of the wedding party ||contradiction
+the people are not walking along the sidewalk ||entailment

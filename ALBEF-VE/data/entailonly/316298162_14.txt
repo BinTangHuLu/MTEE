@@ -1,0 +1,3 @@
+there are guys ||entailment
+there is a park ||entailment
+the guys are walking in the park ||entailment

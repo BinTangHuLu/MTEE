@@ -1,0 +1,4 @@
+There are people. ||entailment
+There is a beach. ||entailment
+The people are young. ||entailment
+The people run on beach. ||entailment

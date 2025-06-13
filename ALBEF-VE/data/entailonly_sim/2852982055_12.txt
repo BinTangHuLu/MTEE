@@ -1,0 +1,7 @@
+there are clan ||entailment
+there is a female ||entailment
+there is a geyser ||entailment
+the clan and woman are enjoying time ||neutral
+the female is enjoying time ||neutral
+the clan are enjoying time ||neutral
+the age is in the fountain ||entailment

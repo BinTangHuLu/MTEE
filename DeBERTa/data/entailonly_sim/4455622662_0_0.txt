@@ -1,0 +1,2 @@
+There are knickers. ||entailment
+The knickers are long. ||entailment

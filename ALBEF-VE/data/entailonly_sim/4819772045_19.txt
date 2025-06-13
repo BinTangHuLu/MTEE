@@ -1,0 +1,5 @@
+there is a child ||entailment
+there is a camcorder ||entailment
+the ladies are watching the child ||entailment
+the child is sticking out tongue ||neutral
+the child is at camera ||entailment

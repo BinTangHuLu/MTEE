@@ -1,0 +1,5 @@
+there is a boy ||entailment
+there is something ||entailment
+there is a board ||entailment
+the boy is trying to grab something ||entailment
+something is near the board ||entailment

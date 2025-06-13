@@ -1,0 +1,5 @@
+There is a body. ||entailment
+There is a armchair. ||neutral
+There is drink. ||neutral
+The body sits in the chair. ||entailment
+The body sits in the water. ||entailment

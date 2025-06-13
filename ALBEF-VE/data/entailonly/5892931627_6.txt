@@ -1,0 +1,3 @@
+there is a player ||entailment
+there is a plate ||contradiction
+the player is at plate ||entailment

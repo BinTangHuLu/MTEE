@@ -1,0 +1,4 @@
+There are not Santas. ||Contradiction
+There is not music. ||Contradiction
+The music is not Christmas. ||Entailment
+Santas are not performing music. ||Contradiction

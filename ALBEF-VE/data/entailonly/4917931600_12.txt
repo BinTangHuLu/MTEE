@@ -1,0 +1,3 @@
+there is a male ||entailment
+there is a floor ||entailment
+the male sits on the floor ||entailment

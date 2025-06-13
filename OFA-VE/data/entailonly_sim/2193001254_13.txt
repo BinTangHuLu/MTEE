@@ -1,0 +1,2 @@
+There is a fedora. ||Entailment
+Someone is wearing a fedora. ||Neutral

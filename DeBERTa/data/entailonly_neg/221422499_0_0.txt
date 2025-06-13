@@ -1,0 +1,4 @@
+There is not a gymnast. ||contradiction
+There is not a crowd. ||contradiction
+The gymnast is not scanning. ||contradiction
+The gymnast is not scanning the crowd. ||contradiction

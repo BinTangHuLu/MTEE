@@ -1,0 +1,3 @@
+There are not women. ||contradiction
+There are not lollipops. ||contradiction
+The women are not eating lollipops. ||contradiction

@@ -1,0 +1,9 @@
+there is not an individual ||contradiction
+there is not a sweater ||contradiction
+there is not a book ||contradiction
+there is not a child ||contradiction
+there is not a lap ||contradiction
+the sweater is not wearing ||contradiction
+the child is not sitting ||entailment
+the individual is not looking at the book ||entailment
+the child is not on the lap ||entailment

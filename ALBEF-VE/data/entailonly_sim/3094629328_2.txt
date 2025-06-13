@@ -1,0 +1,4 @@
+there is a dude ||entailment
+there is a apparatus ||entailment
+the apparatus is hand ||neutral
+the dude is waiting with tool ||entailment

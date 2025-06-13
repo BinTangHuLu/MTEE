@@ -1,0 +1,2 @@
+There are not Scientists. ||contradiction
+Scientists are not working on cure. ||contradiction

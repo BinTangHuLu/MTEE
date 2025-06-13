@@ -1,0 +1,3 @@
+There are not fireworks. ||contradiction
+There is not a sky. ||contradiction
+The fireworks were not shot into the sky. ||contradiction

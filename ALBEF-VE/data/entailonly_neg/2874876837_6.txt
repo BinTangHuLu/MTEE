@@ -1,0 +1,3 @@
+there is not a trampoline ||contradiction
+the trampoline is not jumped on ||contradiction
+the trampoline is not being jumped on ||contradiction

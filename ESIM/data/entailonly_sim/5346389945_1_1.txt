@@ -1,0 +1,4 @@
+There is a child. ||entailment
+There is some bling. ||neutral
+The child is standing. ||entailment
+The child is near ice. ||entailment

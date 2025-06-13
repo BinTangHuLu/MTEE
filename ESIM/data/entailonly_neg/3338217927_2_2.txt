@@ -1,0 +1,7 @@
+There is not an animal. ||contradiction
+The animal is not outside. ||contradiction
+The animal is not in cold weather. ||contradiction
+The animal is not playing. ||contradiction
+The animal is not plastic. ||entailment
+The animal is not a toy. ||contradiction
+The animal is not playing with a toy. ||contradiction

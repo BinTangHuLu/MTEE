@@ -1,0 +1,4 @@
+There are men. ||entailment
+There is a farm. ||entailment
+The men are working. ||entailment
+The men are working on the farm. ||entailment

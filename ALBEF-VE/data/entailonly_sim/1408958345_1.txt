@@ -1,0 +1,7 @@
+there is a child ||entailment
+there is a bikini ||entailment
+there is camel ||contradiction
+the child is little ||entailment
+the bikini is flower ||contradiction
+the child is wearing a swimsuit ||entailment
+the child is playing in sand ||entailment

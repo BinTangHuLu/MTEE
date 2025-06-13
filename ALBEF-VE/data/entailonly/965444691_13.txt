@@ -1,0 +1,3 @@
+there is a man ||entailment
+there is something black ||entailment
+the man is wearing black ||entailment

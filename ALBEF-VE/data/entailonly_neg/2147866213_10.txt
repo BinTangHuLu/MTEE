@@ -1,0 +1,5 @@
+there is not a man ||contradiction
+there is not a dog ||entailment
+there is not a beer ||contradiction
+the man does not have a dog ||entailment
+the man does not have a beer ||contradiction

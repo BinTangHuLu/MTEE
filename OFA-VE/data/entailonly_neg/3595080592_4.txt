@@ -1,0 +1,4 @@
+There are not kids. ||Contradiction
+There are not people. ||Contradiction
+The people are not older. ||Entailment
+The kids are not near people. ||Contradiction

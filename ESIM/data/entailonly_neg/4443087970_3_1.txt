@@ -1,0 +1,5 @@
+There is not a person. ||contradiction
+There is not a phone. ||contradiction
+There is not outdoors. ||contradiction
+The person is not on the phone. ||entailment
+The person is not outdoors. ||contradiction

@@ -1,0 +1,3 @@
+there are community ||entailment
+there are community ||entailment
+community are watching people ||entailment

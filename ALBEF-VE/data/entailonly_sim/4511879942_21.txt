@@ -1,0 +1,4 @@
+there are female ||entailment
+there is a metro ||entailment
+the female are two ||neutral
+the female are talking near subway ||entailment

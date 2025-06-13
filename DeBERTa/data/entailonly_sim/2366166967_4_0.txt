@@ -1,0 +1,3 @@
+There are child. ||entailment
+There is a comedy ground. ||contradiction
+The child are in play ground. ||entailment

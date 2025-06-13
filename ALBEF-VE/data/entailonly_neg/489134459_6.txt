@@ -1,0 +1,5 @@
+there is not a girl ||contradiction
+there is not a surface ||contradiction
+the surface is not hard ||entailment
+the girl is not touching the surface ||entailment
+the surface is not with body ||entailment

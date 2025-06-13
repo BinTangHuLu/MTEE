@@ -1,0 +1,3 @@
+EA,ability,to balance
+E1R,ability,to balance
+A,on one wheel

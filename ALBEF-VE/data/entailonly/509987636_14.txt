@@ -1,0 +1,6 @@
+there is a man ||entailment
+there is a hat ||entailment
+there are some photos ||entailment
+the hat is white ||neutral
+the man is wearing the hat ||entailment
+the man is close to the photos ||entailment

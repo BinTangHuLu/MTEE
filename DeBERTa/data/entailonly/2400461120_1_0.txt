@@ -1,0 +1,8 @@
+There is a woman. ||entailment
+There is a street corner. ||entailment
+There are some stores. ||entailment
+The stores are different. ||entailment
+The stores are three. ||entailment
+The stores have beautiful artwork. ||entailment
+The woman is standing on the street corner. ||neutral
+The woman is beside the stores. ||entailment

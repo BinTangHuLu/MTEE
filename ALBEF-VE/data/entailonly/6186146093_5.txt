@@ -1,0 +1,5 @@
+there is a man ||entailment
+there is a lady ||entailment
+there is a bike tire ||entailment
+the man and lady are fixing the bike tire ||entailment
+the man is fixing the bike tire ||entailment

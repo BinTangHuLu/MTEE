@@ -1,0 +1,4 @@
+There is a person. ||entailment
+There is a way. ||entailment
+There is a circle. ||entailment
+The person walks way. ||entailment

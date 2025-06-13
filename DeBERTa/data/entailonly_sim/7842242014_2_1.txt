@@ -1,0 +1,2 @@
+There is a auto. ||entailment
+The auto does burn out. ||entailment

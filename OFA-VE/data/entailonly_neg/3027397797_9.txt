@@ -1,0 +1,5 @@
+There is not a person. ||Contradiction
+There is not a street. ||Contradiction
+The person is not navigating. ||Entailment
+The person is not navigating the street. ||Entailment
+The person is not on wheels. ||Entailment

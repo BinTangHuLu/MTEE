@@ -1,0 +1,14 @@
+There is a lady. ||entailment
+There is a scarf. ||entailment
+There are boots. ||entailment
+There is a jacket. ||entailment
+There is a train. ||entailment
+There is music. ||entailment
+The scarf is orange. ||entailment
+The boots are brown. ||neutral
+The jacket is brown. ||entailment
+The lady is with the scarf. ||entailment
+The lady is with the boots. ||entailment
+The lady is with the jacket. ||entailment
+The lady is on the train. ||entailment
+The lady is listening to music. ||entailment

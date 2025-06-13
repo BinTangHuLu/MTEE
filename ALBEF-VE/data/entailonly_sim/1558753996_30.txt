@@ -1,0 +1,5 @@
+there is a dude ||entailment
+there is a bar ||entailment
+the dude is playing guitar ||entailment
+the dude has a beard ||entailment
+the dude leans on the wall ||entailment

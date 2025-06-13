@@ -1,0 +1,4 @@
+there is a man ||entailment
+there is some laundry ||entailment
+the man is doing laundry ||entailment
+the man is looking while doing laundry ||entailment

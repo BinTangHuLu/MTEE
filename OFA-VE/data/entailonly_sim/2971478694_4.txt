@@ -1,0 +1,2 @@
+There are female. ||Entailment
+female are wearing saris. ||Entailment

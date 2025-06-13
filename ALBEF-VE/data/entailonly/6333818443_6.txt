@@ -1,0 +1,3 @@
+there is a woman ||entailment
+there is a cup ||entailment
+the woman is carrying the cup ||contradiction

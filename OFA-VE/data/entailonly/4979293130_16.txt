@@ -1,0 +1,4 @@
+There is a child. ||Entailment
+There is a moped. ||Entailment
+The child knows what. ||Entailment
+The moped is called. ||Entailment

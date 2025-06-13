@@ -1,0 +1,2 @@
+there is a boat ||entailment
+the boat passes by ||entailment

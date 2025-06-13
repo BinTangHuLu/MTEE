@@ -1,0 +1,6 @@
+there is not a man ||contradiction
+there is not an instrument ||contradiction
+the instrument is not bamboo ||contradiction
+the man is not older ||entailment
+the man does not have gray hair ||entailment
+the man is not playing the instrument ||entailment

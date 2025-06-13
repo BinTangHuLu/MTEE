@@ -1,0 +1,4 @@
+There is a princess. ||neutral
+There is a dress. ||entailment
+The princess is in the dress. ||neutral
+The princess was there in the crowd. ||neutral

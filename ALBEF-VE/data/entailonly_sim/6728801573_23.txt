@@ -1,0 +1,4 @@
+there is a female ||entailment
+there is a pedal ||entailment
+the female is old ||neutral
+the female is building the bike ||entailment

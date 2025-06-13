@@ -1,0 +1,4 @@
+There is a association. ||Entailment
+There are community. ||Entailment
+The community are dark-skinned. ||Entailment
+The community are walking in the group. ||Entailment

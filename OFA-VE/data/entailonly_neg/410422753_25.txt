@@ -1,0 +1,3 @@
+There is not snow. ||Contradiction
+There is not a picture. ||Contradiction
+The snow is not in the picture. ||Entailment

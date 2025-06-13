@@ -1,0 +1,4 @@
+There is a man. ||Entailment
+There is a performer. ||Entailment
+The performer is athletic. ||Entailment
+The man is a performer. ||Neutral

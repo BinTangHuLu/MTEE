@@ -1,0 +1,3 @@
+There are adolescent. ||entailment
+adolescent are playing. ||entailment
+adolescent are playing outdoors. ||entailment

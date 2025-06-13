@@ -1,0 +1,4 @@
+There is not a female. ||Entailment
+There are not arms. ||Contradiction
+The female is not young. ||Entailment
+The female is not moving arms. ||Contradiction

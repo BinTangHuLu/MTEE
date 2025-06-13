@@ -1,0 +1,5 @@
+There is not a person. ||contradiction
+There is not a rock. ||contradiction
+The person is not single. ||contradiction
+The rock is not heavily-eroded. ||contradiction
+The person does not stand on rock. ||contradiction

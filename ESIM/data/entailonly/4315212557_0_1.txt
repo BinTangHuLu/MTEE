@@ -1,0 +1,4 @@
+There are boys. ||entailment
+There is a table. ||entailment
+The boys are sitting at the table. ||entailment
+The girls are sitting at the table. ||contradiction

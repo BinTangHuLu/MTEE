@@ -1,0 +1,4 @@
+there is a man ||entailment
+there is a sign ||entailment
+the sign is stop ||neutral
+the man holds the sign ||entailment

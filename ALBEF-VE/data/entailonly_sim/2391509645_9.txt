@@ -1,0 +1,5 @@
+there is a dude ||entailment
+there is a bludgeon ||contradiction
+there is a coast ||entailment
+the dude and cow are together ||entailment
+the bludgeon is on the beach ||entailment

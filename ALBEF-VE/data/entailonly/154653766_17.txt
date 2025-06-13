@@ -1,0 +1,4 @@
+there is a group ||entailment
+there are some people ||entailment
+the group is standing ||entailment
+the group is standing by people ||entailment

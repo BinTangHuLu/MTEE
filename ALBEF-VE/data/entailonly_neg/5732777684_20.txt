@@ -1,0 +1,3 @@
+there are not children ||contradiction
+the children are not outside ||entailment
+the children are not walking ||contradiction

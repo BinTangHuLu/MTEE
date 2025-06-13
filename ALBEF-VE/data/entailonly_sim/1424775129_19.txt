@@ -1,0 +1,4 @@
+there is a child ||entailment
+there is a caravan ||entailment
+the child is little ||neutral
+the child is by train ||entailment

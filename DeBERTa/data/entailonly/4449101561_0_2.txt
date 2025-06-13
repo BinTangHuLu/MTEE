@@ -1,0 +1,3 @@
+There is a bird. ||entailment
+There is a pole. ||entailment
+The bird is standing on the pole. ||entailment

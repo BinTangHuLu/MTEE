@@ -1,0 +1,7 @@
+There is a woman. ||entailment
+There is a map. ||entailment
+There is a river. ||entailment
+There are some boats. ||entailment
+The woman is outdoors. ||entailment
+The woman looks at the map. ||entailment
+The river is behind the boats. ||entailment

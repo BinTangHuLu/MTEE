@@ -1,0 +1,5 @@
+There is not a person. ||contradiction
+There is not a robe. ||contradiction
+There is not a couch. ||contradiction
+The person is not robe. ||contradiction
+The person does not sit on couch. ||contradiction

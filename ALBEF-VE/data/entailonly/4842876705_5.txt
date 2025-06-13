@@ -1,0 +1,4 @@
+there is a musician ||entailment
+there is a street ||entailment
+the musician is street ||entailment
+the musician is smoking street ||entailment

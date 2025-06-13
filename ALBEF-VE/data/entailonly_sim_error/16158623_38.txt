@@ -1,0 +1,3 @@
+EA,bottom,all gray
+E1R,bottom,of
+A,human

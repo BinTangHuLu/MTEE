@@ -1,0 +1,3 @@
+There are dude. ||Entailment
+There is atmosphere. ||Entailment
+dude are jumping into air. ||Entailment

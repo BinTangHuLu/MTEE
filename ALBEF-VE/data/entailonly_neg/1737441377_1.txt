@@ -1,0 +1,5 @@
+there are not people ||contradiction
+there is not a cart ||contradiction
+there is not produce ||contradiction
+the people are not inspecting the cart ||contradiction
+the cart is not full of produce ||contradiction

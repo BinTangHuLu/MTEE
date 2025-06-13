@@ -1,0 +1,5 @@
+there is a chef ||entailment
+there is a kitchen ||entailment
+the kitchen is hot ||neutral
+the kitchen is stuffy ||entailment
+the chef is working in the kitchen ||entailment

@@ -1,0 +1,3 @@
+EA,beach,sandy
+A,small
+RE2,are standing on,beach

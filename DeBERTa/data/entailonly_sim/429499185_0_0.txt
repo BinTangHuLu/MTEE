@@ -1,0 +1,5 @@
+There are community. ||entailment
+There is a body. ||entailment
+There is a bar. ||contradiction
+The community are listening to the person. ||entailment
+The body speaks to the table. ||entailment

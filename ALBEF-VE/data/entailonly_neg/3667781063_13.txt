@@ -1,0 +1,3 @@
+there are not people ||contradiction
+there is not a gondola ||contradiction
+the people are not riding in the gondola ||contradiction

@@ -1,0 +1,5 @@
+There is not a man. ||contradiction
+There is not a hospital. ||contradiction
+There is not a friend. ||contradiction
+The man does not receive friend. ||contradiction
+The man is not in hospital. ||contradiction

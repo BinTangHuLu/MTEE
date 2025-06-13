@@ -1,0 +1,3 @@
+there are students ||entailment
+there are tools ||entailment
+the students are using tools ||entailment

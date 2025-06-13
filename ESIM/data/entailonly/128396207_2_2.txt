@@ -1,0 +1,4 @@
+There is a cyclist. ||entailment
+There is a street. ||entailment
+The street is public. ||entailment
+The cyclist rides on street. ||entailment

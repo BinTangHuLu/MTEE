@@ -1,0 +1,3 @@
+there is a conjurer ||entailment
+the conjurer is performing ||entailment
+the conjurer is performing outdoors ||entailment

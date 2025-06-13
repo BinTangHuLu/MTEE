@@ -1,0 +1,4 @@
+There are not men. ||Entailment
+The men are not young. ||Entailment
+There is not a boardgame. ||Contradiction
+The men do not play boardgame. ||Contradiction

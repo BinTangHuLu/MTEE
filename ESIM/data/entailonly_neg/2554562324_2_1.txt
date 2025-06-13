@@ -1,0 +1,3 @@
+There is not a woman. ||contradiction
+There is not a tree. ||contradiction
+The woman is not climbing down the tree. ||entailment

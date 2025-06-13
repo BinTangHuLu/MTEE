@@ -1,0 +1,3 @@
+There are girl. ||entailment
+The girl are Two. ||neutral
+The girl are holding each other. ||entailment

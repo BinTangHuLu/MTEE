@@ -1,0 +1,7 @@
+there is not a man ||entailment
+there is not a shirt ||entailment
+there is not a woman ||contradiction
+there is not a street ||contradiction
+the shirt is not blue ||entailment
+the man does not glance at the woman ||contradiction
+the woman does not cross the street ||contradiction

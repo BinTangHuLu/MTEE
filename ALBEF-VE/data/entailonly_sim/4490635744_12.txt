@@ -1,0 +1,4 @@
+there is a baby ||entailment
+there is a path ||entailment
+the cops are on the path ||entailment
+the baby is on the sidewalk ||entailment

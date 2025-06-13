@@ -1,0 +1,4 @@
+There is a analyst. ||entailment
+There is a accelerate. ||entailment
+The analyst studies the slide. ||contradiction
+The accelerate is related to the invention. ||entailment

@@ -1,0 +1,4 @@
+There is a boy. ||Entailment
+There is a conspiracy. ||Contradiction
+The boy is doing. ||Entailment
+The boy is doing trick. ||Entailment

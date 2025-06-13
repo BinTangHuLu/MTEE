@@ -1,0 +1,4 @@
+there is not a man ||contradiction
+there is not a car ||contradiction
+the man is not old ||entailment
+the man is not fixing the car ||contradiction

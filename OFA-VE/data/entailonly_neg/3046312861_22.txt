@@ -1,0 +1,5 @@
+There is not a girl. ||Contradiction
+There is not a middle. ||Entailment
+There is not a training. ||Contradiction
+The girl is not in the middle. ||Entailment
+The girl is not in training. ||Entailment

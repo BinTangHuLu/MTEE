@@ -1,0 +1,3 @@
+there is a female ||entailment
+there are some drink ||entailment
+the female is near beverages ||entailment

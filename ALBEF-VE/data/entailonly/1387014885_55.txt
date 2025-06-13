@@ -1,0 +1,5 @@
+there is a man ||entailment
+there is a woman ||entailment
+there is a concert ||entailment
+the concert is outdoor ||entailment
+the man is talking to the woman ||entailment

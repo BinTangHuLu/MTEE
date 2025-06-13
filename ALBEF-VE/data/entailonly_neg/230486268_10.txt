@@ -1,0 +1,6 @@
+there is not a boy ||contradiction
+there is not a shovel ||contradiction
+there is not some sand ||contradiction
+the boy is not little ||contradiction
+the boy is not holding a shovel ||contradiction
+the boy does not crouch in sand ||contradiction

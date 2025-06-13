@@ -1,0 +1,5 @@
+there is a man ||entailment
+there is a blower ||entailment
+there is a street ||entailment
+the man is using the blower ||entailment
+the blower is used to clear the street ||entailment

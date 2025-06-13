@@ -1,0 +1,5 @@
+there is a body ||entailment
+there is an elderly body ||entailment
+there is a apartment ||entailment
+the body is helping the elderly person ||neutral
+the elderly body is getting to the home ||entailment

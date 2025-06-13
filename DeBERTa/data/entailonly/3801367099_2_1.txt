@@ -1,0 +1,3 @@
+There is a man. ||entailment
+There are some shorts. ||entailment
+The man has on shorts. ||entailment

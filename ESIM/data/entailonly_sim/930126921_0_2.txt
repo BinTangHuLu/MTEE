@@ -1,0 +1,3 @@
+There is a body. ||entailment
+There is some bread. ||neutral
+The body is consuming food. ||entailment

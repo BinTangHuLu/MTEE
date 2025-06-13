@@ -1,0 +1,3 @@
+there is a gentlewoman ||entailment
+there is some washing ||entailment
+the gentlewoman does laundry ||neutral

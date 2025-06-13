@@ -1,0 +1,3 @@
+there is a group ||entailment
+there is a wall ||entailment
+the group is around the wall ||entailment

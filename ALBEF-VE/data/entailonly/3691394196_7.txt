@@ -1,0 +1,3 @@
+there is a man ||entailment
+there is a crowd ||entailment
+the man is addressing the crowd ||entailment

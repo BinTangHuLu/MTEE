@@ -1,0 +1,4 @@
+There is a boy. ||Entailment
+There is a bed. ||Entailment
+The boy is very tired. ||Entailment
+The boy is resting on the bed. ||Entailment

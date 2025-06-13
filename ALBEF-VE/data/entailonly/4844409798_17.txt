@@ -1,0 +1,4 @@
+there is a boy ||entailment
+there is a person ||entailment
+the boy is young ||entailment
+the boy is next to person ||entailment

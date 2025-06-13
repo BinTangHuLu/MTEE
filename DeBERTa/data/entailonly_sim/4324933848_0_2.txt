@@ -1,0 +1,3 @@
+There is a child. ||entailment
+The child is looking at. ||entailment
+The child is looking at pastries. ||entailment

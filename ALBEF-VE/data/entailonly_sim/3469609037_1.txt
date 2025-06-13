@@ -1,0 +1,3 @@
+there is a baby ||contradiction
+there is some atmosphere ||entailment
+the baby is in air ||contradiction

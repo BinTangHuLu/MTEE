@@ -1,0 +1,6 @@
+There is a female. ||entailment
+There is a bench. ||neutral
+The female is young. ||entailment
+The female skateboards on the court. ||entailment
+The bench is outdoor. ||contradiction
+The bench is a basketball court. ||entailment

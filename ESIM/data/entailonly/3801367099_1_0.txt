@@ -1,0 +1,4 @@
+There is a man. ||entailment
+There is a flower. ||entailment
+The flower is yellow. ||entailment
+The man poses with the flower. ||entailment

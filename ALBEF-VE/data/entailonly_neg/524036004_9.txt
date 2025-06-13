@@ -1,0 +1,5 @@
+there is not a boy ||contradiction
+there are not some trunks ||contradiction
+there is not a pool ||contradiction
+the boy is not in trunks ||contradiction
+the boy does not jump into the pool ||contradiction

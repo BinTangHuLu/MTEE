@@ -1,0 +1,6 @@
+There is a dude. ||entailment
+There is a backpack bag. ||entailment
+There is a rickshaw. ||neutral
+There is a avenue. ||entailment
+The dude is with a duffel bag. ||entailment
+The dude walks with the girl. ||entailment

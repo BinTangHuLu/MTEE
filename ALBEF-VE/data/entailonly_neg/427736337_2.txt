@@ -1,0 +1,3 @@
+there are not people ||contradiction
+there is not a desk ||contradiction
+people are not sitting by desk ||contradiction

@@ -1,0 +1,3 @@
+there are competitors ||entailment
+the competitors are ready ||entailment
+the competitors are for the grand opening ||neutral

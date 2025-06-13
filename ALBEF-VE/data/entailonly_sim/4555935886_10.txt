@@ -1,0 +1,5 @@
+there is a female ||entailment
+there is a apparel ||entailment
+there is a boundary ||entailment
+the apparel is in ||neutral
+the female is standing in front of the line ||entailment

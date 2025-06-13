@@ -1,0 +1,4 @@
+There is not a child. ||contradiction
+The child does not splash. ||contradiction
+The child is not water. ||contradiction
+The child does not splash water. ||contradiction

@@ -1,0 +1,2 @@
+There is not a Truck. ||Contradiction
+The Truck is not stuck. ||Entailment

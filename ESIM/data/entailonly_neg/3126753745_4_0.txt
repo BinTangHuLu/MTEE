@@ -1,0 +1,7 @@
+There are not Musicians. ||contradiction
+The Musicians are not playing. ||contradiction
+The Musicians do not have their instruments. ||contradiction
+The instruments are theirnot . ||contradiction
+There is not a venue. ||contradiction
+The Musicians are not playing their instruments. ||contradiction
+The Musicians are not playing at the venue. ||contradiction

@@ -1,0 +1,5 @@
+There is a child. ||entailment
+There are some knickers. ||entailment
+There is a basin. ||entailment
+The child is fishing in the pond. ||entailment
+The child is wearing shorts. ||entailment

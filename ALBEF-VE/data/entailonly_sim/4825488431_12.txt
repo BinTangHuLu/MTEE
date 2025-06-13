@@ -1,0 +1,4 @@
+there are community ||entailment
+there is a appearance ||entailment
+there is a airplane ||entailment
+the community are watching the show ||neutral

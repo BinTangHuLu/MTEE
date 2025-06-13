@@ -1,0 +1,3 @@
+there is a dog ||entailment
+the dog is brown ||entailment
+the dog jumps in the air ||entailment

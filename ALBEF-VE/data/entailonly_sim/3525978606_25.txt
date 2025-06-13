@@ -1,0 +1,3 @@
+there is a automobile ||entailment
+there are female ||entailment
+the automobile is being cleaned by women ||entailment

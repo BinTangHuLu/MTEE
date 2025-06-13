@@ -1,0 +1,3 @@
+there are letters ||entailment
+there is a building ||entailment
+the letters are on the building ||entailment

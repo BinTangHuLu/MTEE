@@ -1,0 +1,5 @@
+there is a dude ||entailment
+there is a doll ||entailment
+there is a appendage ||entailment
+the dude holds the toy ||entailment
+the dude sits ||entailment

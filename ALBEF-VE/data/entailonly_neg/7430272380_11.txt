@@ -1,0 +1,4 @@
+there is not a man ||contradiction
+there is not a performer ||contradiction
+the performer is not athletic ||contradiction
+the man is not a performer ||contradiction

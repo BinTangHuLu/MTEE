@@ -1,0 +1,3 @@
+there are not people ||contradiction
+there is not a microphone ||contradiction
+the people do not speak into the microphone ||contradiction

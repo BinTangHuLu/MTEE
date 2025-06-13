@@ -1,0 +1,4 @@
+There is a man. ||entailment
+There is a raincoat. ||entailment
+The man is red. ||entailment
+The man is in front of camera. ||entailment

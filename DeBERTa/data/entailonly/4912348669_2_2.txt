@@ -1,0 +1,3 @@
+There is a man. ||entailment
+The man is talking to someone. ||entailment
+There is someone. ||entailment

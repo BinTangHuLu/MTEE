@@ -1,0 +1,3 @@
+There are boys. ||entailment
+There is a bed. ||entailment
+The boys are in bed. ||entailment

@@ -1,0 +1,3 @@
+There is a guy. ||Entailment
+There is some clothing. ||Entailment
+The guy is wearing clothing. ||Entailment

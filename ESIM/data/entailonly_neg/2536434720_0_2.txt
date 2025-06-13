@@ -1,0 +1,5 @@
+There is not a rider. ||contradiction
+There is not a horse. ||contradiction
+The rider is not covered in gear. ||contradiction
+The horse is not covered in gear. ||contradiction
+The rider is not covered in gear are covered in horse. ||contradiction

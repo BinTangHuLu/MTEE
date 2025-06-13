@@ -1,0 +1,8 @@
+there are kids ||entailment
+there is clothing ||entailment
+the clothing is summer ||entailment
+there is a man ||entailment
+the man is young ||entailment
+there is a path ||entailment
+kids follow the man ||entailment
+the man is down the path ||contradiction

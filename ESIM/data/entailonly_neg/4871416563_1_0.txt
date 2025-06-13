@@ -1,0 +1,8 @@
+There is not a brunette. ||contradiction
+There is not a visor. ||contradiction
+There is not a crowd. ||contradiction
+There is not an umbrella. ||contradiction
+The brunette is not attractive. ||neutral
+The visor is not red. ||contradiction
+The brunette does not get a lot of attention from the crowd. ||contradiction
+The brunette does not hold the umbrella. ||contradiction

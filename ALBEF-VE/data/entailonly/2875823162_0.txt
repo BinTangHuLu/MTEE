@@ -1,0 +1,3 @@
+there is a person ||entailment
+there is a car ||neutral
+the person tries to push the car ||entailment

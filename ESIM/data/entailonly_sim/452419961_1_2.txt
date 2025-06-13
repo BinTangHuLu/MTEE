@@ -1,0 +1,2 @@
+There is a crate. ||entailment
+The kids are in the crate. ||contradiction

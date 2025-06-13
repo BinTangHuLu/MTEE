@@ -1,0 +1,3 @@
+there is a person ||entailment
+there is a phone ||entailment
+the person is holding the phone ||entailment

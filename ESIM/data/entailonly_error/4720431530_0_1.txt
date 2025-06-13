@@ -1,0 +1,2 @@
+E1RE2,bus stops,at,bus stop
+RE2,wait at,bus stop

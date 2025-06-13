@@ -1,0 +1,5 @@
+There is a female. ||Entailment
+There is a colt. ||Entailment
+There is a shin. ||Entailment
+The female is on the horse. ||Entailment
+The female is chasing the calf. ||Neutral

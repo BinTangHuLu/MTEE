@@ -1,0 +1,3 @@
+there is a player ||entailment
+there is a baseball ||entailment
+the player is outside player ||entailment

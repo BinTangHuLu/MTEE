@@ -1,0 +1,4 @@
+There is a boy. ||Entailment
+There is a toy. ||Entailment
+The boy is sitting down. ||Entailment
+The boy is looking at the toy. ||Entailment

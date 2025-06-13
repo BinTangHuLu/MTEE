@@ -1,0 +1,3 @@
+there are women ||entailment
+there is a public ||entailment
+the women are in public ||entailment

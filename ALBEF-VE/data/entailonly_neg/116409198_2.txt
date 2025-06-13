@@ -1,0 +1,4 @@
+there is not a guy ||contradiction
+there is not a tent ||contradiction
+the tent is not blue ||entailment
+the guy does not have a tent ||contradiction

@@ -1,0 +1,5 @@
+there is not a boy ||contradiction
+there is not a lady ||contradiction
+the boy is not small ||contradiction
+the lady is not heels ||entailment
+the boy sees the lady ||entailment

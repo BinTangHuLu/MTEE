@@ -1,0 +1,4 @@
+There is a baby. ||Entailment
+The baby is young. ||Entailment
+The baby is using something. ||Entailment
+The something is to float in drink. ||Contradiction

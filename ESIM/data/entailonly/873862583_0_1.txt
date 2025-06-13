@@ -1,0 +1,7 @@
+There is Lilly. ||entailment
+There is Sally. ||entailment
+There is lunch. ||entailment
+Lilly is laughing. ||entailment
+Sally is laughing. ||entailment
+Lilly is eating lunch. ||neutral
+Sally is eating lunch. ||neutral

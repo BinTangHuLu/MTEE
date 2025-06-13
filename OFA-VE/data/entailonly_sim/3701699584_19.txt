@@ -1,0 +1,3 @@
+There is a dude. ||Entailment
+There are some boot. ||Contradiction
+The dude is wearing shoes. ||Entailment

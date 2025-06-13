@@ -1,0 +1,3 @@
+there is not a hat ||contradiction
+there is not he ||neutral
+he did not wear a hat ||contradiction

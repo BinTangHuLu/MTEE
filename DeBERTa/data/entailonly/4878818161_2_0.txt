@@ -1,0 +1,5 @@
+There is a woman. ||entailment
+There is a street. ||entailment
+There is a baby. ||entailment
+The woman crosses the street. ||entailment
+The woman is carrying the baby. ||entailment

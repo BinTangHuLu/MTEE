@@ -1,0 +1,3 @@
+there are not sheeps ||contradiction
+there is not a man ||contradiction
+the sheeps are not checked by man ||contradiction

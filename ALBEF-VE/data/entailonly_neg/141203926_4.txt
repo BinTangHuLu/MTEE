@@ -1,0 +1,5 @@
+there are not women ||contradiction
+there is not an apron ||contradiction
+the apron is not wearing ||contradiction
+the women are not doing her job ||contradiction
+the women is not doing job ||contradiction

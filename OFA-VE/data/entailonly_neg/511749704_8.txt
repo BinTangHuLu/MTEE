@@ -1,0 +1,4 @@
+There is not a boy. ||Contradiction
+There are not some tricks. ||Contradiction
+The boy is not doing skateboard. ||Contradiction
+The boy is not doing tricks. ||Contradiction

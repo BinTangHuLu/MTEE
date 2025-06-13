@@ -1,0 +1,4 @@
+there are not children ||contradiction
+there is not a picture ||entailment
+the children are not two ||entailment
+the children are not in the picture ||neutral

@@ -1,0 +1,4 @@
+There are female. ||entailment
+The female are drinking coffee. ||entailment
+The female are outside. ||entailment
+The female are drinking coffee. ||entailment

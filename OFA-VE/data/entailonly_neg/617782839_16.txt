@@ -1,0 +1,4 @@
+There is not a person. ||Contradiction
+There is not a projectile. ||Entailment
+There is not a place. ||Contradiction
+The person is not trying to move the projectile. ||Entailment

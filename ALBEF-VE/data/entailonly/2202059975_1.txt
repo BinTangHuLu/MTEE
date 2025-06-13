@@ -1,0 +1,3 @@
+there are shoppers ||entailment
+there is a street ||entailment
+the shoppers are walking on the side of the street ||neutral

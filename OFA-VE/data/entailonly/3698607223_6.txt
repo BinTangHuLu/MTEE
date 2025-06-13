@@ -1,0 +1,3 @@
+There is a skier. ||Entailment
+The skier is skiing. ||Entailment
+The skier is skiing skier. ||Entailment

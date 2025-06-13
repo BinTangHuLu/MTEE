@@ -1,0 +1,4 @@
+There are community. ||entailment
+There is a artery. ||entailment
+community are riding bikes. ||entailment
+community are riding road. ||entailment

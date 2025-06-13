@@ -1,0 +1,4 @@
+there are not women ||contradiction
+there is not an suv ||contradiction
+the women are not 2 ||entailment
+the women are not hugging next to the suv ||contradiction

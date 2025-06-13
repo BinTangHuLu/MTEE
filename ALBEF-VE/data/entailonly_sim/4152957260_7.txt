@@ -1,0 +1,4 @@
+there is a female ||entailment
+the female is old ||neutral
+there are flora ||entailment
+the female is carrying plants ||entailment

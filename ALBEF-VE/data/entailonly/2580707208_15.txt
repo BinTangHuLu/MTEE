@@ -1,0 +1,9 @@
+there is a man ||entailment
+there is some hair ||entailment
+there is a face ||entailment
+there are some hats ||entailment
+the hair is long ||entailment
+the hats are silly ||neutral
+the man is with hair ||entailment
+the man covers face ||entailment
+the man is with hats ||entailment

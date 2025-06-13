@@ -1,0 +1,4 @@
+there is a man ||entailment
+there is music ||entailment
+the man is playing music ||entailment
+the man is smoking ||entailment

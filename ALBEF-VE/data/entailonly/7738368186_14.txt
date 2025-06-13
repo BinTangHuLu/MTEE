@@ -1,0 +1,8 @@
+there is a person ||entailment
+there are some beer bottles ||entailment
+there is a flag ||entailment
+there are some glasses ||entailment
+the flag is england ||neutral
+the person has beer bottles ||entailment
+the person has a flag ||entailment
+the person has glasses ||entailment

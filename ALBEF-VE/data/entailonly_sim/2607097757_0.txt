@@ -1,0 +1,4 @@
+there are dude ||entailment
+the glasses are freedom ||neutral
+the dude are wearing hats ||entailment
+the dude are wearing glasses ||neutral

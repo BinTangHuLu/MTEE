@@ -1,0 +1,4 @@
+There is lumber. ||Entailment
+There is a body. ||Contradiction
+The lumber is visible. ||Entailment
+The lumber is visible in the frame. ||Entailment

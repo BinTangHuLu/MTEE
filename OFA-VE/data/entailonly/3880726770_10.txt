@@ -1,0 +1,4 @@
+There are people. ||Entailment
+There is a market. ||Entailment
+The market is outdoor. ||Entailment
+The people are at the market. ||Entailment

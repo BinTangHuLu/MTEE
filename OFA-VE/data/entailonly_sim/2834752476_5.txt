@@ -1,0 +1,3 @@
+There is a dude. ||Entailment
+The dude is inside. ||Entailment
+The dude is inside. ||Entailment

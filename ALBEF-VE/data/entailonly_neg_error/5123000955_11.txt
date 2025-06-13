@@ -1,0 +1,6 @@
+A,shows
+R,shows
+E1RE2,mountains,in,image
+RE2,shows,mountains
+RE2,in,image
+RE2,in,image

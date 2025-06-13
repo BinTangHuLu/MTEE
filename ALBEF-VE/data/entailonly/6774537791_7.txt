@@ -1,0 +1,5 @@
+there is an athlete ||entailment
+there is air ||entailment
+there is a machine ||entailment
+the athlete hangs in air ||entailment
+the athlete is next to the machine ||contradiction

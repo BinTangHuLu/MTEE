@@ -1,0 +1,4 @@
+there is a gentleman ||entailment
+there is a sidewalk ||entailment
+the gentleman is older ||entailment
+the gentleman walks on sidewalk ||entailment

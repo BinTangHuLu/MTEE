@@ -1,0 +1,3 @@
+There is a teen. ||Entailment
+There is surfing. ||Entailment
+The teen is surfing surf. ||Entailment

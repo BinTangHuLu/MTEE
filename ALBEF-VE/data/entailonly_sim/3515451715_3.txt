@@ -1,0 +1,4 @@
+there is a grandmother ||entailment
+there is a estate ||entailment
+the grandmother and kids are together ||entailment
+the kids are at the estate ||neutral

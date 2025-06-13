@@ -1,0 +1,4 @@
+There is a line. ||entailment
+There is a academy. ||entailment
+The line is high. ||neutral
+The line prepares themselves to put on performance. ||entailment

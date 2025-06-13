@@ -1,0 +1,9 @@
+There is a female. ||entailment
+There is a container top. ||entailment
+There are knickers. ||contradiction
+There is a bottle. ||neutral
+The female is wearing. ||entailment
+The female looks through. ||entailment
+The female is wearing a tank top. ||entailment
+The female is wearing pants. ||entailment
+The female looks through glass. ||entailment

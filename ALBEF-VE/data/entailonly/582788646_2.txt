@@ -1,0 +1,5 @@
+there is a child ||entailment
+there is water ||entailment
+the child is looking at ||entailment
+the child is wearing flotational devices ||entailment
+the child is looking at water ||entailment

@@ -1,0 +1,2 @@
+There is not a rider. ||contradiction
+The rider is not outdoors. ||contradiction

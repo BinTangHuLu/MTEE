@@ -1,0 +1,5 @@
+there is a dog ||entailment
+there is a ball ||entailment
+there is an ocean ||neutral
+the dog is playing with the ball ||entailment
+the ball is by the ocean ||neutral

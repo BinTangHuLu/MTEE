@@ -1,0 +1,7 @@
+There are men. ||entailment
+There is garb. ||entailment
+There are drums. ||entailment
+The men are Two. ||entailment
+The garb is cultural. ||entailment
+The men are in garb. ||entailment
+The men are moving drums. ||entailment

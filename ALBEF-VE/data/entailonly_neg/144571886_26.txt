@@ -1,0 +1,5 @@
+there is not a woman ||contradiction
+there is not a chevrolet car ||contradiction
+the woman is not blonde ||entailment
+the dress is not black ||contradiction
+the woman is not standing in front of the chevrolet car ||contradiction

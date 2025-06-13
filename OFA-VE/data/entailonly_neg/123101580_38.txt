@@ -1,0 +1,4 @@
+There are not players. ||Contradiction
+There is not a pitch. ||Contradiction
+The players are not young female. ||Entailment
+The players are not on the pitch. ||Contradiction

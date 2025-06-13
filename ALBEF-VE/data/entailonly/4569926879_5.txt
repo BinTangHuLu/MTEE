@@ -1,0 +1,6 @@
+there is a man ||entailment
+there is a public ||entailment
+there is a girl ||entailment
+the man is drinking ||entailment
+the man is in public ||entailment
+the man is marking contact with the girl ||entailment

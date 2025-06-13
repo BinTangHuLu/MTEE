@@ -1,0 +1,6 @@
+There is not a man. ||contradiction
+There is not a woman. ||contradiction
+There is not an area. ||contradiction
+There is not a metropolitan. ||contradiction
+The man is not in the area. ||contradiction
+The woman is not in the area. ||contradiction

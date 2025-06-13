@@ -1,0 +1,3 @@
+there is a body ||entailment
+there is a cartoon ||neutral
+the body is having the photo ||contradiction

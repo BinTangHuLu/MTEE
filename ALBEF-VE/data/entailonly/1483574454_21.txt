@@ -1,0 +1,3 @@
+there are bicycles ||entailment
+there is a shop ||entailment
+the bicycles are in the shop ||entailment

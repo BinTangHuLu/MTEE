@@ -1,0 +1,7 @@
+there are adolescent ||entailment
+there is a aisle ||entailment
+there is an field ||entailment
+the aisle is wood ||entailment
+the field is heavily wooded ||neutral
+the adolescent walk down the path ||entailment
+the aisle is in the area ||entailment

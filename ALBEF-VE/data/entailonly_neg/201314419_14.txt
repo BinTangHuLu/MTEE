@@ -1,0 +1,3 @@
+there are not people ||contradiction
+there is not a sunset ||contradiction
+the people do not watch the sunset ||contradiction

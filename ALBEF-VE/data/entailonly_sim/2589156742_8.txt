@@ -1,0 +1,3 @@
+there is a dude ||entailment
+there is a bowl ||entailment
+the dude is drinking out of the cup ||neutral

@@ -1,0 +1,5 @@
+There is not a man. ||Contradiction
+There is not a cat. ||Contradiction
+There is not a body. ||Contradiction
+The man does not keep the cat. ||Contradiction
+The cat is not close to the body. ||Entailment

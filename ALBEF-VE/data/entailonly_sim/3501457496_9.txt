@@ -1,0 +1,3 @@
+there is a clan ||entailment
+there is a dog ||entailment
+the clan is with the pet ||entailment

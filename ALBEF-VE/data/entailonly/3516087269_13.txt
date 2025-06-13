@@ -1,0 +1,5 @@
+there is a girl ||entailment
+there is a boy ||entailment
+there is a subway ||entailment
+the girl is leaning over in front of the boy ||contradiction
+the girl is in front of the subway ||entailment

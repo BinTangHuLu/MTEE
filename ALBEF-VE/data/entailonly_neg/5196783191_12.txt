@@ -1,0 +1,3 @@
+there is not an audience ||contradiction
+there are not performers ||contradiction
+the audience did not watch performers ||contradiction

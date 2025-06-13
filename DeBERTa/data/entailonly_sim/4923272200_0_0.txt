@@ -1,0 +1,7 @@
+There is a dude. ||entailment
+There is an apparatus. ||entailment
+There is a avenue. ||entailment
+There are some community. ||entailment
+The dude is playing the instrument. ||entailment
+The dude is on the street. ||entailment
+The avenue is near the people. ||neutral

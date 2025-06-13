@@ -1,0 +1,7 @@
+There is not a man. ||contradiction
+There is not a motorcycle. ||contradiction
+There is not a sunset. ||contradiction
+The man is not sitting. ||contradiction
+The sunset is not directly behind. ||contradiction
+The man is not on the motorcycle. ||contradiction
+The motorcycle is not with the sunset. ||entailment

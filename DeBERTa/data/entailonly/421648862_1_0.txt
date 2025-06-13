@@ -1,0 +1,3 @@
+There is a girl. ||entailment
+There is a beach. ||entailment
+The girl is sitting on the beach. ||entailment

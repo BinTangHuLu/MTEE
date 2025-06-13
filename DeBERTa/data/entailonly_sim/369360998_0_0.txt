@@ -1,0 +1,2 @@
+There is a animal. ||entailment
+There is blizzard. ||neutral

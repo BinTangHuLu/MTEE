@@ -1,0 +1,7 @@
+there are child ||entailment
+there is camel ||entailment
+there is a dredge ||entailment
+the child are little ||entailment
+the dredge is yellow plastic ||neutral
+the child are playing in sand ||entailment
+the child are playing with a shovel ||neutral

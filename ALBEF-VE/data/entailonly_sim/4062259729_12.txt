@@ -1,0 +1,7 @@
+there is a dude ||entailment
+there are some specs ||neutral
+there is a fedora ||contradiction
+there is a barge ||entailment
+the fedora is yellow ||contradiction
+the dude is wearing sunglasses ||neutral
+the dude is driving the boat ||contradiction

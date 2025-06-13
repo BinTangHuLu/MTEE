@@ -1,0 +1,6 @@
+There is a group. ||entailment
+There are some people. ||entailment
+There is a dance. ||contradiction
+There is outdoors. ||entailment
+The group dances with people. ||neutral
+The people dance outdoors. ||neutral

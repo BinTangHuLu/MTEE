@@ -1,0 +1,5 @@
+There is not a man. ||Entailment
+There is not a vehicle. ||Entailment
+The vehicle does not have two pedals. ||Entailment
+The man is not riding the vehicle. ||Entailment
+The vehicle is not with pedals. ||Entailment

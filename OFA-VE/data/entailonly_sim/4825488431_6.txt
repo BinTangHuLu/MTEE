@@ -1,0 +1,3 @@
+There are community. ||Entailment
+There is an airliner. ||Entailment
+community are looking at aircraft. ||Neutral

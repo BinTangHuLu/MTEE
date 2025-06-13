@@ -1,0 +1,10 @@
+there are not women ||contradiction
+there is not a paper cup ||contradiction
+there is not a tree ||contradiction
+there is not a christmas tree ||contradiction
+the paper cup is not holding ||contradiction
+the tree is not christmas ||contradiction
+the tree is not christmas tree ||contradiction
+the women are not holding a paper cup ||contradiction
+the women are not posing in front of christmas tree ||contradiction
+the women are not making funny faces ||contradiction

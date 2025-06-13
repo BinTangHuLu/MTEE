@@ -1,0 +1,4 @@
+there is a guy ||entailment
+there is a girl ||entailment
+there is a bicycle ||entailment
+the guy is working on ||entailment

@@ -1,0 +1,4 @@
+there is a boy ||entailment
+there is an bodily ||entailment
+the boy has an animal ||entailment
+the bodily is next to the male ||entailment

@@ -1,0 +1,4 @@
+There is a man. ||Entailment
+The man is old. ||Entailment
+There is music. ||Entailment
+The man plays music. ||Entailment

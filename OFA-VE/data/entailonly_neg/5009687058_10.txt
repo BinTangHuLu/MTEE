@@ -1,0 +1,4 @@
+There are not people. ||Contradiction
+There is not a football. ||Contradiction
+There is not outdoors. ||Contradiction
+The people are not playing football. ||Contradiction

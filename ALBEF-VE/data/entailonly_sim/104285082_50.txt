@@ -1,0 +1,4 @@
+there is a animal ||entailment
+there is an apparatus ||entailment
+the apparatus is musical ||entailment
+the animal is playing the instrument ||contradiction

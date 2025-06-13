@@ -1,0 +1,7 @@
+there is a man ||entailment
+there is a shirt ||contradiction
+there is a woman ||entailment
+there is a street ||entailment
+the shirt is blue ||contradiction
+the man glances at the woman ||entailment
+the woman crosses the street ||entailment

@@ -1,0 +1,5 @@
+There is not a man. ||contradiction
+There is not a pool. ||contradiction
+The man is not swimming. ||contradiction
+The pool is not indoor. ||contradiction
+The man is not swimming in the pool. ||contradiction

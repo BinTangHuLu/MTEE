@@ -1,0 +1,7 @@
+there is not a fellow ||contradiction
+there is not nature ||entailment
+there are not colours ||contradiction
+there are not shops ||contradiction
+there is not food ||contradiction
+the fellow is not in nature ||entailment
+the shops are not for food ||contradiction

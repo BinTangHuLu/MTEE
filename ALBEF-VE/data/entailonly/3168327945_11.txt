@@ -1,0 +1,5 @@
+there is a person ||entailment
+there is a couch ||entailment
+the candy is christmas ||neutral
+the person is on the couch ||entailment
+the person is eating candy ||contradiction

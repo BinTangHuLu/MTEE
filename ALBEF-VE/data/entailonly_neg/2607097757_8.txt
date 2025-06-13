@@ -1,0 +1,4 @@
+there is not a hole ||contradiction
+there is not some ground ||entailment
+the hole is not open ||contradiction
+the hole is not in ground ||entailment

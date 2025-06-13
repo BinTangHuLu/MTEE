@@ -1,0 +1,4 @@
+There are men. ||entailment
+There are shits. ||neutral
+The shits are several different coloured. ||neutral
+The men are wearing shits. ||neutral

@@ -1,0 +1,5 @@
+There are Birds. ||entailment
+The Birds are flying. ||entailment
+There is a body. ||entailment
+There is water. ||entailment
+The Birds are above water. ||entailment

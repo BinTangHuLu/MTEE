@@ -1,0 +1,4 @@
+there are not people ||contradiction
+there is not a flag ||contradiction
+the people are not waving ||contradiction
+the people are not waving a flag ||contradiction

@@ -1,0 +1,4 @@
+there is a kid ||entailment
+there is a treat ||entailment
+the treat is frozen ||neutral
+the kid is eating treat ||entailment

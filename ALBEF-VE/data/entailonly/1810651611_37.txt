@@ -1,0 +1,4 @@
+there is a girl ||entailment
+there are some swings ||entailment
+the girl is little ||entailment
+the girl plays on swings ||entailment

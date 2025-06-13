@@ -1,0 +1,9 @@
+there is a clue ||neutral
+there is drink ||entailment
+the clue shows ||neutral
+the clue shows kids ||neutral
+the clue shows mountains ||contradiction
+the clue shows water ||entailment
+the kids are in appearance ||entailment
+the enough are in image ||entailment
+the drink is in image ||entailment

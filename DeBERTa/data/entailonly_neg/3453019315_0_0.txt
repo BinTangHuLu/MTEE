@@ -1,0 +1,5 @@
+There is not a man. ||contradiction
+There is not a bike. ||contradiction
+The man is not ridding. ||contradiction
+The bike is hisnot . ||neutral
+The man is not ridding his bike. ||contradiction

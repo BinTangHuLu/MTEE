@@ -1,0 +1,8 @@
+There is not a woman. ||contradiction
+There is not a basket. ||contradiction
+There is not a street. ||contradiction
+The woman is not. ||entailment
+The basket is not. ||contradiction
+The street is not. ||contradiction
+The woman is not carrying the basket. ||contradiction
+The basket is not down the street. ||entailment

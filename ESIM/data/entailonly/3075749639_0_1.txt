@@ -1,0 +1,7 @@
+There is a crowd. ||entailment
+There is Christmas. ||entailment
+There is a Bank. ||entailment
+There is America. ||entailment
+The crowd is celebrating Christmas. ||entailment
+The crowd is outside of Bank. ||entailment
+The Bank is of America. ||entailment

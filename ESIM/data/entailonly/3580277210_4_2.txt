@@ -1,0 +1,3 @@
+There are people. ||entailment
+There are rackets. ||entailment
+The people are holding rackets. ||entailment

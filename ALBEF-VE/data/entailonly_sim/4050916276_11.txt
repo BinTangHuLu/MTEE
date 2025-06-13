@@ -1,0 +1,3 @@
+there is a bar ||contradiction
+the bar is wet ||entailment
+the bar is wet ||entailment

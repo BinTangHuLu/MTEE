@@ -1,0 +1,2 @@
+There is a earth. ||Contradiction
+The Climbers climb the earth. ||Entailment

@@ -1,0 +1,4 @@
+There is a lady. ||entailment
+There is a man. ||entailment
+The man is old. ||entailment
+The lady is giving hug to the man. ||entailment

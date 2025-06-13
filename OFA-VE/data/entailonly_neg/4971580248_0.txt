@@ -1,0 +1,3 @@
+There is not someone. ||Contradiction
+There is not something. ||Contradiction
+Someone is not looking at something. ||Entailment

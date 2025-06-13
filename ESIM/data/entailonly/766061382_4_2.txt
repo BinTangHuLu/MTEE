@@ -1,0 +1,3 @@
+There is a child. ||entailment
+The child is topless. ||entailment
+The child is playing in water. ||entailment

@@ -1,0 +1,3 @@
+there is a body ||entailment
+there is drink ||entailment
+the body is in water ||entailment

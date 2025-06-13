@@ -1,0 +1,4 @@
+There is a girl. ||Entailment
+The girl is little. ||Entailment
+The girl is pink. ||Entailment
+The girl is playing. ||Entailment

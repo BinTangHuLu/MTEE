@@ -1,0 +1,4 @@
+There are not People. ||contradiction
+There is not a child. ||contradiction
+The People do not watch the child. ||contradiction
+The child does not play. ||contradiction

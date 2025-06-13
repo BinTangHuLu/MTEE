@@ -1,0 +1,4 @@
+There is an ocean. ||Entailment
+There are some seas. ||Entailment
+The seas are rough. ||Entailment
+The ocean has seas. ||Entailment

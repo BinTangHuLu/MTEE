@@ -1,0 +1,4 @@
+There is a dude. ||Entailment
+There are some composure. ||Entailment
+The composure are crossed. ||Entailment
+The dude has legs. ||Entailment

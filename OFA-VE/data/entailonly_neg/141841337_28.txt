@@ -1,0 +1,4 @@
+There is not a man. ||Entailment
+There is not a leg. ||Entailment
+The man is not flexible. ||Entailment
+The man is not stretching the leg. ||Entailment

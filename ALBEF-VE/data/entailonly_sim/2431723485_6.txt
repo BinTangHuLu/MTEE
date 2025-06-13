@@ -1,0 +1,4 @@
+there is a body ||entailment
+there is a pedal ||entailment
+the body rides the bike ||entailment
+the pedal is in the woods ||entailment

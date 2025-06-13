@@ -1,0 +1,4 @@
+there is a boy ||entailment
+there is a pole ||entailment
+the pole is light ||neutral
+the boy hangs on pole ||entailment

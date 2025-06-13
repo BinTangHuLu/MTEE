@@ -1,0 +1,4 @@
+There is not an event. ||contradiction
+There is not a street. ||contradiction
+There are not people. ||contradiction
+The event has not attracted people. ||contradiction

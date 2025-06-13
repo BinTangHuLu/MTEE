@@ -1,0 +1,5 @@
+There is a contestant. ||entailment
+There is a championship. ||neutral
+There is a accomplishment line. ||entailment
+The contestant is in the competition. ||neutral
+The contestant wants to go to the finish line. ||entailment

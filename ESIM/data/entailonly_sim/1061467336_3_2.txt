@@ -1,0 +1,3 @@
+There are community. ||entailment
+The firetruck has all its bulb on. ||entailment
+community stand outside of the firetruck. ||entailment

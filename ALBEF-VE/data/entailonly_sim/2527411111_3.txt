@@ -1,0 +1,4 @@
+there are community ||entailment
+there are two community ||entailment
+the community are kissing ||contradiction
+the community are kissing outdoors ||entailment

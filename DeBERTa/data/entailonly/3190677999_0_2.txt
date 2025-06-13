@@ -1,0 +1,5 @@
+There are children. ||entailment
+There is a picture. ||entailment
+The children are three. ||neutral
+The children are in the picture. ||entailment
+The children are outside. ||entailment

@@ -1,0 +1,7 @@
+there is not a person ||contradiction
+there is not a hat ||contradiction
+there is not a paintbrush ||contradiction
+the person is not small ||entailment
+the hat is not white ||entailment
+the person is not wearing the hat ||contradiction
+the person does not reach for the paintbrush ||contradiction

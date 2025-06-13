@@ -1,0 +1,6 @@
+There are not people. ||entailment
+There is not a moment. ||contradiction
+There is not another. ||entailment
+The people are not Two. ||entailment
+The people are not having moment. ||entailment
+Another does not avoid looking at them. ||entailment

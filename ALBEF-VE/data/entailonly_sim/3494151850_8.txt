@@ -1,0 +1,4 @@
+there is a barge ||entailment
+there are some boy ||entailment
+the barge is full ||neutral
+the barge makes a turn ||entailment

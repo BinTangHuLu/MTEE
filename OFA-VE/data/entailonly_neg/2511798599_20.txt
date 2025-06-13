@@ -1,0 +1,4 @@
+There are not men. ||Entailment
+There is not an event. ||Contradiction
+There are not at least 2 men. ||Entailment
+The men are not at the event. ||Contradiction

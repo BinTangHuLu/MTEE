@@ -1,0 +1,4 @@
+there is a person ||entailment
+there is a wall ||entailment
+the person is orange ||entailment
+the person is laying on the wall ||entailment

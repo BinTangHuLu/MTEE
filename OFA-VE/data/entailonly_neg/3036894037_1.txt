@@ -1,0 +1,4 @@
+There are not guards. ||Contradiction
+There is not a person. ||Contradiction
+The person is not old. ||Entailment
+The guards are not near the person. ||Contradiction

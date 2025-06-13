@@ -1,0 +1,4 @@
+There are community. ||entailment
+There is a account. ||entailment
+The community are hood wearing. ||entailment
+The community pose for the picture. ||entailment

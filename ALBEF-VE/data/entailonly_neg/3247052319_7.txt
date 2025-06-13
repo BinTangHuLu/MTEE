@@ -1,0 +1,5 @@
+there is not a man ||contradiction
+there is not an atv ||contradiction
+there is not a course ||contradiction
+the man does not drive the atv ||contradiction
+the atv is not on the course ||contradiction

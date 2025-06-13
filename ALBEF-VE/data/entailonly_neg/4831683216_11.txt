@@ -1,0 +1,8 @@
+there is not a girl ||contradiction
+there is not a drink ||contradiction
+there is not a day ||contradiction
+the girl is not young ||entailment
+the day is not beautiful ||contradiction
+the girl did not take a sip ||contradiction
+the sip is not of the drink ||neutral
+the sip is not on the day ||entailment

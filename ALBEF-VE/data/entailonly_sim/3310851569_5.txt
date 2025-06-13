@@ -1,0 +1,3 @@
+there is a line ||entailment
+there are four line members ||entailment
+the line is playing music ||entailment

@@ -1,0 +1,4 @@
+There is a boy. ||entailment
+There are some flashcards. ||entailment
+The boy holds flashcards. ||entailment
+The boy has his hands. ||entailment

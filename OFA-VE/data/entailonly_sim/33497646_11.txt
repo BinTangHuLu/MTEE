@@ -1,0 +1,5 @@
+There is a dude. ||Entailment
+There is a coast. ||Entailment
+There is drink. ||Contradiction
+The dude is on the beach. ||Entailment
+The coast is by water. ||Entailment

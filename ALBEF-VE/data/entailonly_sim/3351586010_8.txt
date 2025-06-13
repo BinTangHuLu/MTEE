@@ -1,0 +1,6 @@
+there is a boy ||entailment
+there is a estate ||entailment
+the boy is male ||neutral
+the estate is outdoor ||neutral
+the boy is at the park ||neutral
+the boy is skating at the park ||neutral

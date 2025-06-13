@@ -1,0 +1,3 @@
+there is a set ||neutral
+there is a account ||entailment
+the set takes their picture ||entailment

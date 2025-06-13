@@ -1,0 +1,8 @@
+There is a person. ||entailment
+There are some clothes. ||entailment
+There is a body. ||entailment
+There is some water. ||entailment
+The person is poor. ||entailment
+The clothes are tattered. ||entailment
+The water is trash filled. ||entailment
+The person kneels by body. ||entailment

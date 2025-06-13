@@ -1,0 +1,3 @@
+There are not people. ||contradiction
+There are not bleachers. ||contradiction
+The people do not sit on bleachers. ||contradiction

@@ -1,0 +1,5 @@
+There are people. ||Entailment
+There is an ocean. ||Entailment
+There is a sky. ||Entailment
+The people are looking out at the ocean. ||Neutral
+The people are looking out at the sky. ||Entailment

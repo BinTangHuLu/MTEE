@@ -1,0 +1,6 @@
+There is a association. ||entailment
+There are some community. ||neutral
+There is a amphitheater. ||neutral
+The association is of. ||entailment
+The community doesn't care about stadium. ||entailment
+The community are sitting in stadium. ||entailment

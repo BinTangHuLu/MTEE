@@ -1,0 +1,4 @@
+There is a boy. ||entailment
+The boy is looking at. ||entailment
+There are pastries. ||entailment
+The boy is looking at pastries. ||entailment

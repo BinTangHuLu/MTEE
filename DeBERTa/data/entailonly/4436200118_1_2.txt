@@ -1,0 +1,4 @@
+There is a woman. ||entailment
+The woman is exploring. ||neutral
+There are containers. ||entailment
+The woman is exploring something. ||entailment

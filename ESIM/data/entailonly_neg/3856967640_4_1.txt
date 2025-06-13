@@ -1,0 +1,10 @@
+There is not a woman. ||contradiction
+There is not a book. ||contradiction
+There is not paper. ||contradiction
+There is not a star. ||contradiction
+The woman is not holding. ||contradiction
+The book is not yellow. ||contradiction
+The woman is not holding the book. ||contradiction
+The woman is not holding the paper. ||contradiction
+The woman is not holding the star. ||contradiction
+The woman is not smiling. ||contradiction

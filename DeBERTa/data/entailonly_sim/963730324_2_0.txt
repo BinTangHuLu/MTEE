@@ -1,0 +1,3 @@
+There is a body. ||entailment
+There is a rickshaw. ||contradiction
+The body is pushing the cart. ||entailment

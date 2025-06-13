@@ -1,0 +1,6 @@
+there are not children ||entailment
+there is not a photo ||entailment
+there is not a woman ||contradiction
+the dress is not black ||entailment
+the children are not having a photo ||contradiction
+the photo is not taken by a woman ||contradiction

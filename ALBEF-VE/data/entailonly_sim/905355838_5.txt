@@ -1,0 +1,3 @@
+there is a athlete ||entailment
+the athlete is number 21 ||entailment
+the athlete is staring at outfield ||neutral

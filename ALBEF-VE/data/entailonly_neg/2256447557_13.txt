@@ -1,0 +1,4 @@
+there are not kids ||contradiction
+there is not a beach ||contradiction
+the kids and adults are not on the beach ||contradiction
+the kids are not on the beach ||contradiction

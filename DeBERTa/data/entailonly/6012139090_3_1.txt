@@ -1,0 +1,5 @@
+There is a band. ||entailment
+There is a song. ||entailment
+There is a stage. ||entailment
+The band is performing the song. ||entailment
+The band is performing the stage. ||entailment

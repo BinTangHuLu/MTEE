@@ -1,0 +1,2 @@
+There are kick boards. ||Entailment
+The kick boards can float. ||Entailment

@@ -1,0 +1,3 @@
+there is a gentlewoman ||entailment
+there is a pedal ||entailment
+the gentlewoman is putting air ||entailment

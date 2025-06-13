@@ -1,0 +1,5 @@
+There is a girl. ||Entailment
+There is a middle. ||Entailment
+There is a training. ||Entailment
+The girl is in the middle. ||Entailment
+The girl is in training. ||Entailment

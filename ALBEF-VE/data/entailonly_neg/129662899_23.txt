@@ -1,0 +1,10 @@
+there is not a man ||contradiction
+there are not sunglasses ||contradiction
+there are not coveralls ||contradiction
+there is not a hat ||contradiction
+there is not a rope ||contradiction
+there is not a spool ||contradiction
+the coveralls are not peach ||entailment
+the hat is not red ||entailment
+the man does not stand by the rope ||contradiction
+the rope is not on the spool ||entailment

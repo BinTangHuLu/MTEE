@@ -1,0 +1,5 @@
+there is a body ||entailment
+there is a armor ||entailment
+there is an automatic teller machine ||entailment
+the body is in the helmet ||entailment
+the body uses the atm ||entailment

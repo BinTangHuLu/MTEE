@@ -1,0 +1,6 @@
+there is a child ||entailment
+there is a helmet ||entailment
+there is a vest ||entailment
+the helmet is with ||neutral
+the vest is cow ||contradiction
+the child is with helmet ||entailment

@@ -1,0 +1,3 @@
+there is not a person ||contradiction
+there is not some cleaning ||contradiction
+the person is not performing cleaning ||contradiction

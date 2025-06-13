@@ -1,0 +1,2 @@
+There is a cigarette. ||Entailment
+The cigarette is light. ||Neutral

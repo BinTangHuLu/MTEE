@@ -1,0 +1,8 @@
+There is a girl. ||entailment
+There are some knickers. ||entailment
+There is a dude. ||entailment
+There is a artery. ||entailment
+The girl is young. ||entailment
+The knickers are snug. ||entailment
+The gal chats with the dude. ||entailment
+The dude is in the road. ||entailment

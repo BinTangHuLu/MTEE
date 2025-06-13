@@ -1,0 +1,5 @@
+there is a female ||entailment
+there is a child ||entailment
+there are biscuit ||entailment
+the female is holding cookies ||contradiction
+the child is holding cookies ||contradiction

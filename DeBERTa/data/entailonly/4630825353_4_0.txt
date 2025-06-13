@@ -1,0 +1,5 @@
+There is a girl. ||entailment
+There is a cellphone. ||entailment
+There is a ground. ||entailment
+The girl is lying on the ground. ||entailment
+The girl is on the cellphone. ||entailment

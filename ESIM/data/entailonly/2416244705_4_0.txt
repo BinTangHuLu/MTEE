@@ -1,0 +1,3 @@
+There is a girl. ||entailment
+There is a horse. ||entailment
+The girl is brushing the horse. ||entailment

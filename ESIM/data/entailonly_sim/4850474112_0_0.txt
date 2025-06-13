@@ -1,0 +1,5 @@
+There are caller. ||entailment
+The caller are Many. ||entailment
+The caller have fun at celebration. ||entailment
+There is a anniversary. ||neutral
+The anniversary is Latin. ||entailment

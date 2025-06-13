@@ -1,0 +1,4 @@
+there is a boy ||entailment
+there is a slide ||entailment
+the boy is arriving ||neutral
+the boy is arriving at the slide ||neutral

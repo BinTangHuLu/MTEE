@@ -1,0 +1,3 @@
+There is a woman. ||Entailment
+There is a basket. ||Entailment
+The woman has a basket. ||Entailment

@@ -1,0 +1,2 @@
+RE2,is traveling by,foot
+RE2,is traveling by,foot outside

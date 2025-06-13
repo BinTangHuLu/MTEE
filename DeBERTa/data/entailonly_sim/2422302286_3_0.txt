@@ -1,0 +1,4 @@
+There is a child. ||entailment
+There is a auto. ||entailment
+The child has a toy. ||entailment
+The child is riding in the car. ||entailment

@@ -1,0 +1,5 @@
+there is a man ||entailment
+there is a flag ||entailment
+the shirt is without ||entailment
+the man is waving ||entailment
+the man is waving the flag ||entailment

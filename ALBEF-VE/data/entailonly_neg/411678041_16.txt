@@ -1,0 +1,5 @@
+there is not a cowboy ||contradiction
+there are not some people ||contradiction
+there is not a street ||contradiction
+the cowboy does not ride past people ||contradiction
+the people are not on the street ||contradiction

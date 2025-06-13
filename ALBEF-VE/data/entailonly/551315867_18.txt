@@ -1,0 +1,4 @@
+there are men ||entailment
+there is a lift ||entailment
+there is a crane ||entailment
+the men are in the lift ||entailment

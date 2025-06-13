@@ -1,0 +1,5 @@
+there are community ||entailment
+there is a architecture ||entailment
+the architecture is big ||neutral
+community are outside the building ||entailment
+community are talking next to the building ||entailment

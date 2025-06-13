@@ -1,0 +1,3 @@
+there is a firefighter ||entailment
+there is a automobile ||entailment
+the firefighter is in the vehicle ||entailment

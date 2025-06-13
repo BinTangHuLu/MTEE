@@ -1,0 +1,4 @@
+there are not women ||entailment
+there is not a dress ||contradiction
+the women are not dark ||entailment
+the women are not wearing a dress ||entailment

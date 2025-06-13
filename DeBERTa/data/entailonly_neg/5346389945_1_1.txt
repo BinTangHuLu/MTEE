@@ -1,0 +1,4 @@
+There is not a girl. ||contradiction
+There is not some ice. ||contradiction
+The girl is not standing. ||contradiction
+The girl is not near ice. ||contradiction

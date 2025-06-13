@@ -1,0 +1,3 @@
+There is a doctor. ||entailment
+There is a book. ||entailment
+The doctor is looking at the book. ||entailment

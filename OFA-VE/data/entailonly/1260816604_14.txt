@@ -1,0 +1,4 @@
+There is a person. ||Entailment
+There is a car. ||Entailment
+The car is moving. ||Entailment
+The person is in the car. ||Entailment

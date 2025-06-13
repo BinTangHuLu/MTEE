@@ -1,0 +1,4 @@
+there is a man ||entailment
+there is a hat ||entailment
+there is a road ||entailment
+the man is by road ||entailment

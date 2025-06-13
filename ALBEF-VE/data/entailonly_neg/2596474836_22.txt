@@ -1,0 +1,3 @@
+there are not people ||contradiction
+there is not a pool ||contradiction
+the people are not in the pool ||contradiction

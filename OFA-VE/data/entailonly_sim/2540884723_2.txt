@@ -1,0 +1,3 @@
+There is a dude. ||Contradiction
+There is a female. ||Entailment
+The dude and woman are sitting down. ||Entailment

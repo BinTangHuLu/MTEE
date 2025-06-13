@@ -1,0 +1,4 @@
+There are female. ||Entailment
+There is a forest. ||Contradiction
+The forest is Christmas. ||Neutral
+The female are posing in front of the tree. ||Entailment

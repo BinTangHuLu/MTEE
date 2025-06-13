@@ -1,0 +1,5 @@
+there is not a person ||contradiction
+there is not a cat ||contradiction
+there is not a store ||contradiction
+the person does not stand near the cat ||contradiction
+the cat is not in the store ||contradiction

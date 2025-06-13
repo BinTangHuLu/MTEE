@@ -1,0 +1,3 @@
+There is a female. ||entailment
+Something happened to the female. ||entailment
+Something surprised the female. ||entailment

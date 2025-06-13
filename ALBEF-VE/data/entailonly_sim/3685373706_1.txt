@@ -1,0 +1,5 @@
+there is a dude ||entailment
+there is a aisle ||entailment
+there is a frame ||entailment
+the aisle is red ||neutral
+the aisle is on body ||entailment

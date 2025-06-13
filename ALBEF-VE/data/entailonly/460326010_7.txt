@@ -1,0 +1,4 @@
+there is a child ||entailment
+there is an animal ||entailment
+the animal is small ||neutral
+the child chases the animal ||entailment

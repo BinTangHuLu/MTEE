@@ -1,0 +1,5 @@
+There are people. ||entailment
+The people are two. ||entailment
+The people are holding. ||entailment
+The swords are fencing. ||entailment
+The people are holding swords. ||neutral

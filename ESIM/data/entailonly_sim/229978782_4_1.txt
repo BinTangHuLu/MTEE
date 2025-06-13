@@ -1,0 +1,2 @@
+There are dude. ||entailment
+The dude are playing with the Frisbee. ||entailment

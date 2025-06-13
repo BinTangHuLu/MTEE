@@ -1,0 +1,5 @@
+there is a woman ||entailment
+there is a tent ||entailment
+the tent is small ||neutral
+the tent is red ||entailment
+the woman smiles from the tent ||entailment

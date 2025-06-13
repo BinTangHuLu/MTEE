@@ -1,0 +1,3 @@
+There is not a person. ||Contradiction
+There is not a tree. ||Contradiction
+The person is not touching the tree. ||Entailment

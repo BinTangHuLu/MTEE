@@ -1,0 +1,4 @@
+There are men. ||entailment
+There are two men. ||entailment
+The men are practicing martial arts. ||entailment
+The men are practicing martial arts. ||entailment

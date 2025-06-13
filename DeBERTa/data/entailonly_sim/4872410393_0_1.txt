@@ -1,0 +1,5 @@
+There is a child. ||entailment
+There is a blouse. ||entailment
+The child is young. ||entailment
+The blouse is red. ||entailment
+The child is wearing the shirt. ||entailment

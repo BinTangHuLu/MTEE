@@ -1,0 +1,3 @@
+there are clan ||entailment
+there are backcountry ||contradiction
+the clan are grasping onto sticks ||entailment

@@ -1,0 +1,5 @@
+There is a snapshot. ||Entailment
+There is a birds-eye. ||Contradiction
+There is a skier. ||Entailment
+The skier is competitive. ||Entailment
+The snapshot is of the skier. ||Entailment

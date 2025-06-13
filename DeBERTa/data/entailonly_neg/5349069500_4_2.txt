@@ -1,0 +1,5 @@
+There is not a basket weaver. ||contradiction
+There is not a class. ||contradiction
+There is not a fair. ||contradiction
+The basket weaver is not teaching the class. ||contradiction
+The class is not at the fair. ||contradiction

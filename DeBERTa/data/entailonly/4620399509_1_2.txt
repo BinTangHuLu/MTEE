@@ -1,0 +1,7 @@
+There is a woman. ||entailment
+There is a dress. ||entailment
+The woman is young. ||entailment
+The dress is white sleeveless lined with red flowers. ||entailment
+The woman is wearing the dress. ||entailment
+The woman is talking on a cellphone. ||entailment
+The woman walks down the sidewalk. ||entailment

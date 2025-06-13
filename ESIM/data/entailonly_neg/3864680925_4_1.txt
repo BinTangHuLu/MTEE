@@ -1,0 +1,6 @@
+There are not men. ||contradiction
+There are not two men. ||contradiction
+The men are not complimenting each other. ||contradiction
+The men are not blue. ||contradiction
+The shirts are not blue. ||contradiction
+The men are not on shirts. ||contradiction

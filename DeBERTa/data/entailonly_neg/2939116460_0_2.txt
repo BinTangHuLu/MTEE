@@ -1,0 +1,5 @@
+There is not a girl. ||contradiction
+There is not a helmet. ||contradiction
+There is not a dog tag. ||contradiction
+The girl is not with a helmet. ||contradiction
+The girl does not wear dog tag. ||contradiction

@@ -1,0 +1,4 @@
+There is a graduate. ||Neutral
+There is a activity. ||Entailment
+The activity is art. ||Entailment
+The Student is working on the activity. ||Entailment

@@ -1,0 +1,7 @@
+There is a woman. ||entailment
+There is a business. ||entailment
+The woman is happily. ||entailment
+The business is closed. ||entailment
+The business is colorful. ||neutral
+The woman stands by the business. ||entailment
+The business is showing a sign. ||entailment

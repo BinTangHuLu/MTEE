@@ -1,0 +1,2 @@
+A,outdoors
+RE2,standing,outdoors

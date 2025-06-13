@@ -1,0 +1,5 @@
+There are dude. ||entailment
+There are five dude. ||entailment
+The dude are kneeling. ||entailment
+There is a dude. ||entailment
+The dude puts his hands into air. ||entailment

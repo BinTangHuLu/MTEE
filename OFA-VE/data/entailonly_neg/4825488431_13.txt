@@ -1,0 +1,4 @@
+There are not people. ||Contradiction
+There is not a group. ||Contradiction
+The people are not in a group. ||Entailment
+The people are not standing outside the group. ||Entailment

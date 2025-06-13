@@ -1,0 +1,3 @@
+there is a chase car ||entailment
+there is a oval ||entailment
+the chase car is on racetrack ||entailment

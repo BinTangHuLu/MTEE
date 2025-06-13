@@ -1,0 +1,5 @@
+there is a body ||entailment
+there is a bar ||entailment
+the body is uniformed ||entailment
+the body looks at notes ||entailment
+the body is leaning against the wall ||contradiction

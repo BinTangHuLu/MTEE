@@ -1,0 +1,5 @@
+there is a dude ||entailment
+there is a dirt floor ||neutral
+there is some apparatus ||entailment
+the dude is above the ground floor ||entailment
+the dude is with equipment ||entailment

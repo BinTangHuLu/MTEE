@@ -1,0 +1,3 @@
+there are not people ||contradiction
+there is not a pharmacy ||contradiction
+the people are not outside of the pharmacy ||contradiction

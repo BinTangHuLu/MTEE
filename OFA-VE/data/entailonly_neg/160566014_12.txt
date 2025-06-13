@@ -1,0 +1,4 @@
+There is not a man. ||Entailment
+There is not a woman. ||Entailment
+The man and woman are not sitting. ||Entailment
+The man is not sitting and the woman is sitting. ||Entailment

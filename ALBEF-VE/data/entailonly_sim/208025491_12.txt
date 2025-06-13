@@ -1,0 +1,4 @@
+there are community ||entailment
+there is a estate ||entailment
+community talk to one another ||entailment
+community are at park ||entailment

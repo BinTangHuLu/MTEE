@@ -1,0 +1,4 @@
+there is a body ||entailment
+there is some blizzard ||neutral
+the body is skiing ||entailment
+the body is on snow ||entailment

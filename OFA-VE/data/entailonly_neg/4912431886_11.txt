@@ -1,0 +1,4 @@
+There is not a building. ||Contradiction
+There is not a word. ||Contradiction
+The building is not big. ||Entailment
+The building does not have word. ||Contradiction

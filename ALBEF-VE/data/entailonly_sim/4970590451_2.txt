@@ -1,0 +1,4 @@
+there is a body ||entailment
+there is a armor ||entailment
+the armor is colorful ||entailment
+the body is wearing a colorful helmet ||contradiction

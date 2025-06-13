@@ -1,0 +1,6 @@
+there are community ||entailment
+there are accommodation ||entailment
+there are flora ||entailment
+the community are not blond ||entailment
+the community are sitting on chairs ||entailment
+the accommodation are near flowers ||entailment

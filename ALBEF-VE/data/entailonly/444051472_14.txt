@@ -1,0 +1,7 @@
+there is a man ||entailment
+there is a bench ||entailment
+there is a book ||entailment
+the man is elderly ||entailment
+the man is sitting ||entailment
+the man is sitting on the bench ||entailment
+the man is reading the book ||neutral

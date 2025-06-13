@@ -1,0 +1,6 @@
+there are dude ||entailment
+there is a heart ||entailment
+there is a city ||entailment
+dude socialize at center ||entailment
+the heart is of town ||entailment
+dude socialize at center of town ||entailment

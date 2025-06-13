@@ -1,0 +1,11 @@
+There are not workers. ||contradiction
+There is not an event. ||contradiction
+There are not condiments. ||contradiction
+There is not a table. ||contradiction
+The workers are not preparing. ||contradiction
+The event is not catered. ||contradiction
+The condiments are not lining. ||contradiction
+The table does not have food. ||contradiction
+The workers are not preparing for the event. ||contradiction
+The event is not with condiments. ||contradiction
+The condiments are not lining the table. ||contradiction

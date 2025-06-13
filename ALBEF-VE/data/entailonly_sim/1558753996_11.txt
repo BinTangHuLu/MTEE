@@ -1,0 +1,2 @@
+there is a boy ||entailment
+the boy has a beard ||entailment

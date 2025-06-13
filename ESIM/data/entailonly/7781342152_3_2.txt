@@ -1,0 +1,5 @@
+There is some. ||entailment
+Some are staying afloat. ||entailment
+Some are moving. ||neutral
+There is water. ||entailment
+Some are in water moving. ||entailment

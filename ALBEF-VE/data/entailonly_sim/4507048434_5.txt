@@ -1,0 +1,5 @@
+there is a dude ||entailment
+there is a fedora ||entailment
+the dude is talking on the phone ||entailment
+the dude is in the hat ||entailment
+the dude is in the coat ||entailment

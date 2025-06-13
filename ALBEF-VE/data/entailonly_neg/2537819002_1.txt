@@ -1,0 +1,6 @@
+there is not a man ||contradiction
+there is not a vest ||contradiction
+there are not tracks ||contradiction
+the vest is not orange ||contradiction
+the man is not with the vest ||neutral
+the man was not working on tracks ||contradiction

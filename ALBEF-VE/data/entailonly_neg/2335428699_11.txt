@@ -1,0 +1,4 @@
+there are not children ||contradiction
+there is not winter ||contradiction
+the children are not playing ||contradiction
+the children are not playing during winter ||contradiction

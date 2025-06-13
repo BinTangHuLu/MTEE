@@ -1,0 +1,3 @@
+there is a girl ||entailment
+there is a baseball ||entailment
+the girl plays baseball ||entailment

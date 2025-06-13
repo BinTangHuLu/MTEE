@@ -1,0 +1,5 @@
+There are people. ||entailment
+There is a person. ||entailment
+There is a table. ||entailment
+The people are listening to the person. ||entailment
+The person speaks to the table. ||entailment

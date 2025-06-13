@@ -1,0 +1,5 @@
+There is a child. ||Entailment
+There are some attire. ||Entailment
+The attire are wet. ||Entailment
+The child is washing clothes. ||Neutral
+The attire are washed by the girl. ||Neutral

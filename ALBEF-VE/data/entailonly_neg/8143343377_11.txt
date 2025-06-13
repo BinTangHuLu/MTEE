@@ -1,0 +1,5 @@
+there are not guys ||contradiction
+there is not a band ||contradiction
+there is not music ||contradiction
+the guys do not play music ||contradiction
+the music is not played with the band ||contradiction

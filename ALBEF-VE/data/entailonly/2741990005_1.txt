@@ -1,0 +1,3 @@
+there is a person ||entailment
+there is a pole ||entailment
+the person is jumping over the pole ||entailment

@@ -1,0 +1,3 @@
+there are workers ||entailment
+there is a pole ||entailment
+the workers are climbing the pole ||entailment

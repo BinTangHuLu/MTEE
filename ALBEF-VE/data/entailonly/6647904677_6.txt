@@ -1,0 +1,10 @@
+there is a group ||entailment
+there are some people ||entailment
+there are some robes ||entailment
+there are some headdresses ||entailment
+there are some bikes ||entailment
+the robes are blue ||entailment
+the headdresses are white ||neutral
+the people are in robes ||entailment
+the people are in headdresses ||entailment
+the people are on bikes ||entailment

@@ -1,0 +1,4 @@
+There is a game. ||Entailment
+There is a football. ||Entailment
+The game is ready. ||Entailment
+The game is to start football. ||Neutral

@@ -1,0 +1,3 @@
+there are officers ||entailment
+there is duty ||entailment
+the officers are on duty ||neutral

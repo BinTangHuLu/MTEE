@@ -1,0 +1,3 @@
+there is a child ||entailment
+there is a consideration ||entailment
+the child can see reflection ||entailment

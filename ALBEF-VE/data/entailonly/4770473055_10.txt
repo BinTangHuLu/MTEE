@@ -1,0 +1,4 @@
+there is a man ||entailment
+there is a drum ||entailment
+the drum is premier brand ||neutral
+the man is holding the drum ||entailment

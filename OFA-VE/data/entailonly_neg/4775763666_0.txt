@@ -1,0 +1,4 @@
+There is not a table. ||Contradiction
+There are not females. ||Entailment
+The females are not three. ||Entailment
+The females are not standing around the table. ||Entailment

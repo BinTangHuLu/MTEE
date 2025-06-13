@@ -1,0 +1,2 @@
+There are not players. ||Entailment
+There is not a tennis. ||Contradiction

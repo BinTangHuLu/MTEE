@@ -1,0 +1,3 @@
+there are clan ||entailment
+there is a barge ||contradiction
+the clan ride on the boat ||entailment

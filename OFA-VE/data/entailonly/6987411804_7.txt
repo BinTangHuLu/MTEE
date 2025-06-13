@@ -1,0 +1,4 @@
+There are girls. ||Entailment
+There are outfits. ||Entailment
+The outfits are cheerleading. ||Neutral
+The girls are wearing outfits. ||Entailment

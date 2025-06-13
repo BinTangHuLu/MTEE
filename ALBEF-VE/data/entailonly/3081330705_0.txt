@@ -1,0 +1,3 @@
+there is a man ||entailment
+there is a mountain top ||entailment
+the man stood over the mountain top ||entailment

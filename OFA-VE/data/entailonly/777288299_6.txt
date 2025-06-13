@@ -1,0 +1,3 @@
+There is a player. ||Entailment
+There is a tennis. ||Entailment
+The player jumps player. ||Entailment

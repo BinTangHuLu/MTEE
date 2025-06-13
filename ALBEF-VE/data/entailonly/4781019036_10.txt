@@ -1,0 +1,4 @@
+there is a group ||entailment
+there are people ||entailment
+there is a roller coaster ||entailment
+the people are riding the roller coaster ||neutral

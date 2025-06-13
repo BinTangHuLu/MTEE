@@ -1,0 +1,5 @@
+There is a body. ||entailment
+There is a baby. ||entailment
+There is another body. ||entailment
+The body is talking to the child. ||entailment
+Another body watches. ||entailment

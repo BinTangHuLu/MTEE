@@ -1,0 +1,5 @@
+There is a dog. ||Entailment
+There is some grass. ||Entailment
+The dog is small. ||Entailment
+The dog is in grass. ||Entailment
+The dog is in grass. ||Entailment

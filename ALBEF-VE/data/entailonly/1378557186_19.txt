@@ -1,0 +1,5 @@
+there is a guy ||entailment
+there is a gun ||entailment
+there is an animal ||entailment
+the guy is shooting a gun ||entailment
+the shooting is near the animal ||entailment

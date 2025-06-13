@@ -1,0 +1,2 @@
+there is a girl ||entailment
+the girl is dressed ||entailment

@@ -1,0 +1,3 @@
+there is a couple ||entailment
+there is talking ||entailment
+the couple is talking ||entailment

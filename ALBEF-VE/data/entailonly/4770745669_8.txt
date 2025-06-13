@@ -1,0 +1,6 @@
+there is a man ||entailment
+there is an object ||entailment
+the object is large ||neutral
+the pants are only ||contradiction
+the man is sitting in front of the object ||contradiction
+the man is wearing pants ||neutral

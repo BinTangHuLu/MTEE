@@ -1,0 +1,3 @@
+there are not soldiers ||contradiction
+there is not a barrier ||contradiction
+the soldiers are not guarding a barrier ||contradiction

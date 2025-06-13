@@ -1,0 +1,5 @@
+there is a clue ||entailment
+there is a set ||entailment
+there is a bluff ||entailment
+the clue stands in front of the couple ||entailment
+the set is on top of the hill ||neutral

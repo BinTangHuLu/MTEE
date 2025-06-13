@@ -1,0 +1,3 @@
+there is a dude ||entailment
+there is a clue ||entailment
+the dude is trying to take down the sign ||neutral

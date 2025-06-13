@@ -1,0 +1,2 @@
+there are kids ||entailment
+the kids are walking outside ||entailment

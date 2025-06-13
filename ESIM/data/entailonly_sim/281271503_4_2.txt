@@ -1,0 +1,5 @@
+There is a dude. ||entailment
+There is an action. ||entailment
+The dude performs act. ||entailment
+The dude is on unicycle. ||entailment
+The action is juggling. ||entailment

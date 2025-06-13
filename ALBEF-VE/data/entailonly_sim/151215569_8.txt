@@ -1,0 +1,4 @@
+there is a child ||entailment
+there is a conspicuous ||entailment
+the conspicuous is hand ||entailment
+the child is making signal ||entailment

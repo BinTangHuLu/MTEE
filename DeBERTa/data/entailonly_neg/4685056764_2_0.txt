@@ -1,0 +1,4 @@
+There are not Soldiers. ||contradiction
+There is not a building. ||contradiction
+The Soldiers are not packing heat. ||contradiction
+The Soldiers are not near the building. ||contradiction

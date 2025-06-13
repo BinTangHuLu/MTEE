@@ -1,0 +1,3 @@
+there is not a person ||contradiction
+there is not an suv ||contradiction
+the person is not in suv ||contradiction

@@ -1,0 +1,6 @@
+there is a pup ||entailment
+there is a glass ||entailment
+there is a camcorder ||entailment
+the pup is small ||entailment
+the pup is looking through lens ||entailment
+the glass is of camera ||contradiction

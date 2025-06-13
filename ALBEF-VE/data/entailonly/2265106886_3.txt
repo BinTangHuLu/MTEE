@@ -1,0 +1,3 @@
+there is a woman ||entailment
+there are vegetables ||entailment
+the woman sells vegetables ||entailment

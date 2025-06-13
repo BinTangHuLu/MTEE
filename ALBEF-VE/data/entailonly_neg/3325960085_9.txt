@@ -1,0 +1,5 @@
+there is not a crowd ||contradiction
+there are not some people ||contradiction
+the crowd is not of people ||contradiction
+the crowd is not seated ||entailment
+the crowd are not seated ||entailment

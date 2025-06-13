@@ -1,0 +1,7 @@
+there is a child ||entailment
+there is a fur ||entailment
+there are knickers ||neutral
+the fur is red ||neutral
+the knickers are tan ||neutral
+the child is provided with a coat ||entailment
+the child is provided with pants ||entailment

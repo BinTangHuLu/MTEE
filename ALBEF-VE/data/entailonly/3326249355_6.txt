@@ -1,0 +1,5 @@
+there is a couple ||entailment
+there is a photo ||entailment
+there is a sign ||entailment
+the couple takes a photo ||entailment
+the photo is taken by the sign ||entailment

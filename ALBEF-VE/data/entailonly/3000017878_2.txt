@@ -1,0 +1,3 @@
+there is a band ||entailment
+there is a backdrop ||entailment
+the band plays on backdrop ||entailment

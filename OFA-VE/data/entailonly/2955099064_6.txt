@@ -1,0 +1,3 @@
+There are Men. ||Entailment
+There is wrestling. ||Entailment
+Men are wrestling. ||Entailment

@@ -1,0 +1,5 @@
+There are not people. ||contradiction
+The people are not two. ||entailment
+The people are not occupied. ||contradiction
+The people do not have different content. ||contradiction
+The people are not occupied with different content. ||contradiction

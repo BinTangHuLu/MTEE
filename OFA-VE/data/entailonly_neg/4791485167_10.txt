@@ -1,0 +1,5 @@
+There is not a man. ||Contradiction
+There is not a shovel. ||Contradiction
+There are not hands. ||Contradiction
+The man is not holding a shovel. ||Contradiction
+The shovel is not in hands. ||Entailment

@@ -1,0 +1,7 @@
+there is a man ||entailment
+there is a club ||entailment
+there are people ||entailment
+the club is golf ||neutral
+the man is raising ||entailment
+the man is raising club ||entailment
+the club is in front of people ||entailment

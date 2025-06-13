@@ -1,0 +1,8 @@
+there is a woman ||entailment
+there is a dress ||entailment
+there is a tray ||entailment
+the dress is wearing ||neutral
+the tray is carrying ||entailment
+the woman is wearing the dress ||neutral
+the woman is carrying the tray ||entailment
+the tray is on the head ||contradiction

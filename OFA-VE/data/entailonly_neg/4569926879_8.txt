@@ -1,0 +1,5 @@
+There is not a man. ||Contradiction
+There is not a woman. ||Contradiction
+The man is not outdoors. ||Contradiction
+The woman is not outdoors. ||Contradiction
+The man and woman are not outdoors. ||Contradiction

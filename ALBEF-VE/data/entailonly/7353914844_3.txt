@@ -1,0 +1,3 @@
+there are kayakers ||entailment
+there is a current ||entailment
+the kayakers are in the current ||entailment

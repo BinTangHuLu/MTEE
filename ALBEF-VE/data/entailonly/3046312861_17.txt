@@ -1,0 +1,3 @@
+there is a girl ||entailment
+there is a sport ||entailment
+the girl is training in sport ||entailment

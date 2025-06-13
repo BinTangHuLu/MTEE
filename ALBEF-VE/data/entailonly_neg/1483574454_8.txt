@@ -1,0 +1,3 @@
+there are not people ||contradiction
+there are not bikes ||contradiction
+the people do not work on bikes ||contradiction

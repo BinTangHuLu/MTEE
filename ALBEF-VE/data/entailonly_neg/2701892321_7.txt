@@ -1,0 +1,3 @@
+there are not gymnasts ||contradiction
+there is not a competition ||contradiction
+the gymnasts are not at the competition ||contradiction

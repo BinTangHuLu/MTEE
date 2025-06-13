@@ -1,0 +1,6 @@
+there is a girl ||entailment
+there is a tub ||entailment
+there is water ||entailment
+the tub is plastic ||neutral
+the girl is in the tub ||contradiction
+the tub is with water ||entailment

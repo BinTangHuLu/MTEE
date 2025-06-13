@@ -1,0 +1,6 @@
+There are Cars. ||entailment
+There are tents. ||entailment
+There is a mountain. ||entailment
+The Cars are at foot. ||entailment
+The tents are at foot. ||entailment
+The foot is of mountain. ||entailment

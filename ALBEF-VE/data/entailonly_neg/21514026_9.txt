@@ -1,0 +1,8 @@
+there is not a woman ||contradiction
+there is not a dress ||contradiction
+there is not a tray ||contradiction
+the dress is not wearing ||neutral
+the tray is not carrying ||contradiction
+the woman is not wearing the dress ||entailment
+the woman is not carrying the tray ||contradiction
+the tray is not on the head ||entailment

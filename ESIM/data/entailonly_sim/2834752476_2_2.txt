@@ -1,0 +1,5 @@
+There is a dude. ||entailment
+There is a smoke. ||entailment
+The dude is young. ||entailment
+The dude is smoking. ||entailment
+The dude is smoking a cigarette. ||entailment

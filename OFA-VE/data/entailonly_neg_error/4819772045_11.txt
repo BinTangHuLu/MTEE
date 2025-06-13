@@ -1,0 +1,2 @@
+EA,human,are seated
+E1R,human,is in

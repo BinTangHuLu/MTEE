@@ -1,0 +1,11 @@
+There are people. ||entailment
+There are signs. ||entailment
+There is a protest. ||entailment
+There is a street. ||entailment
+The people are holding up signs. ||entailment
+The people are holding up signs. ||entailment
+The people are holding up signs. ||entailment
+The people are holding up signs. ||entailment
+The people are holding up signs. ||entailment
+The people are holding up signs. ||entailment
+The people are holding up signs. ||entailment

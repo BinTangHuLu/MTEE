@@ -1,0 +1,4 @@
+There are female. ||entailment
+There are flora. ||entailment
+The flora are green. ||neutral
+The female are sitting near to plants. ||entailment

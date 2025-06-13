@@ -1,0 +1,5 @@
+There is a child. ||Entailment
+There is a club. ||Neutral
+There is a agreeable. ||Entailment
+The club is basketball. ||Entailment
+The club is playing the game. ||Neutral

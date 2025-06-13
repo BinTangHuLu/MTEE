@@ -1,0 +1,6 @@
+There is not a kid. ||Contradiction
+There is not a uniform. ||Contradiction
+There is not a ball. ||Contradiction
+The kid is not young. ||Entailment
+The kid is not in uniform. ||Entailment
+The kid does not hold the ball. ||Entailment

@@ -1,0 +1,4 @@
+There are community. ||entailment
+The community have differing ages. ||entailment
+The community are outside. ||entailment
+The community are playing golf. ||entailment

@@ -1,0 +1,6 @@
+There is a dude. ||entailment
+The dude is black. ||entailment
+The dude has no hair. ||entailment
+The dude is making a sculpture. ||neutral
+The dude is with a pick. ||entailment
+The dude is with a hammer. ||entailment

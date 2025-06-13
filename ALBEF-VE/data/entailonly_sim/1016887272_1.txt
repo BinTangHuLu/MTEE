@@ -1,0 +1,3 @@
+there is a body ||entailment
+there is a belt ||neutral
+the body is wearing a harness ||entailment

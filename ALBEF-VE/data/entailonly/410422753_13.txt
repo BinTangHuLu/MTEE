@@ -1,0 +1,4 @@
+there is a dog ||entailment
+there is some snow ||entailment
+the dog is covered ||entailment
+the dog is covered in snow ||neutral

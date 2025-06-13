@@ -1,0 +1,3 @@
+there is a girl ||entailment
+there is an insect ||entailment
+the girl is holding the insect ||entailment

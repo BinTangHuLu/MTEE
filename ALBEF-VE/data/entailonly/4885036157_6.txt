@@ -1,0 +1,4 @@
+there is a couple ||entailment
+there is a photographed ||entailment
+the couple is being ||entailment
+the couple is photographed underground ||contradiction

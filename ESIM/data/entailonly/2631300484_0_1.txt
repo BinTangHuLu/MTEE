@@ -1,0 +1,9 @@
+There is a male. ||entailment
+There are human beings. ||entailment
+There is a snake. ||entailment
+The male is surrounded. ||entailment
+The human beings are other. ||entailment
+The snake is large. ||neutral
+The male is surrounded with human beings. ||entailment
+The human beings are having a snake. ||entailment
+The snake is around the chest. ||entailment

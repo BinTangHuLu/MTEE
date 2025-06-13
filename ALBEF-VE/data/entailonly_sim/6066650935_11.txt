@@ -1,0 +1,8 @@
+there are community ||entailment
+there are apparatus ||entailment
+there are car ||contradiction
+there is a aisle ||entailment
+the apparatus have two wheels apiece ||entailment
+the community are riding on contraptions ||contradiction
+the apparatus are on the path ||entailment
+the aisle contains passersby ||entailment

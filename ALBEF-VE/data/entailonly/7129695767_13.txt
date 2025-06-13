@@ -1,0 +1,3 @@
+there is outdoors ||entailment
+there is climber ||entailment
+the outdoors challenges climber ||entailment

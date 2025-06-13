@@ -1,0 +1,3 @@
+there is a dude ||entailment
+there are female ||entailment
+the dude sits next to women ||entailment

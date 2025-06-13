@@ -1,0 +1,7 @@
+there is not a player ||contradiction
+there is not an opponent ||contradiction
+there is not a shot ||contradiction
+there is not a court ||contradiction
+the player is not female ||contradiction
+the player does not block the shot ||contradiction
+the shot is not on the court ||entailment

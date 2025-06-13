@@ -1,0 +1,3 @@
+there are people ||entailment
+there is a bench ||entailment
+the people are on the bench ||entailment

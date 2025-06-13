@@ -1,0 +1,2 @@
+There is an sea. ||Entailment
+The surfer is in sea. ||Entailment

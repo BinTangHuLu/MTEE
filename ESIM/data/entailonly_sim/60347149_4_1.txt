@@ -1,0 +1,4 @@
+There are dude. ||entailment
+There are two dude. ||entailment
+The dude are sparring with sticks. ||entailment
+The dude are karate. ||entailment

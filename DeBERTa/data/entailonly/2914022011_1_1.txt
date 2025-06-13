@@ -1,0 +1,5 @@
+There is a man. ||entailment
+There is a shadow. ||entailment
+There is a person. ||entailment
+The man is standing outside the shadow. ||entailment
+The man is having his photo taken by the person. ||entailment

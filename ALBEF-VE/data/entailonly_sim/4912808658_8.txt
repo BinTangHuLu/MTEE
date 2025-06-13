@@ -1,0 +1,3 @@
+there is a artist ||entailment
+there is a avenue side ||neutral
+the artist is playing on street side ||entailment

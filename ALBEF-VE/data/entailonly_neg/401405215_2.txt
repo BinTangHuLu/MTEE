@@ -1,0 +1,5 @@
+there are not kids ||contradiction
+there are not bubbles ||contradiction
+there is not a beach ||contradiction
+the kids are not blowing bubbles ||contradiction
+the bubbles are not at the beach ||contradiction

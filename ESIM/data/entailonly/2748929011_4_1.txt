@@ -1,0 +1,3 @@
+There is a game. ||entailment
+There is golf. ||entailment
+The game is being played. ||entailment

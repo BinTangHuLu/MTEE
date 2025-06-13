@@ -1,0 +1,5 @@
+there is not a girl ||contradiction
+there is not a dress ||contradiction
+there are not bags ||contradiction
+the dress is not in ||neutral
+the girl is not carrying bags ||contradiction

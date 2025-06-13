@@ -1,0 +1,3 @@
+there are people ||entailment
+there are two people ||entailment
+the people are swimming ||entailment

@@ -1,0 +1,5 @@
+There is a female. ||entailment
+There is a bra. ||neutral
+There is drink. ||entailment
+The female is wearing a bikini. ||entailment
+The female lays near water. ||entailment

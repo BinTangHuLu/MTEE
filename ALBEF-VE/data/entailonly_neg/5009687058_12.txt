@@ -1,0 +1,4 @@
+there is not a player ||contradiction
+there is not a football ||contradiction
+there is not a ball ||contradiction
+the player does not block the ball ||contradiction

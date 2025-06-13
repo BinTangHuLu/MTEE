@@ -1,0 +1,3 @@
+there is a man ||entailment
+there is a road ||entailment
+the man is walking at road ||contradiction

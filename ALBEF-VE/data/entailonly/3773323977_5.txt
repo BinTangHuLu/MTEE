@@ -1,0 +1,5 @@
+there are boys ||entailment
+there is a boy ||entailment
+there is water ||entailment
+the boys stand next to the boy ||entailment
+the boy is sitting by water ||contradiction

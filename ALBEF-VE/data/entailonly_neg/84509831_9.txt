@@ -1,0 +1,6 @@
+there is not a boy ||contradiction
+there is not a shirt ||entailment
+there is not a bow ||contradiction
+the shirt is not red ||contradiction
+the boy is not with the shirt ||neutral
+the boy does not wield the bow ||contradiction

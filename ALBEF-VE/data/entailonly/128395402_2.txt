@@ -1,0 +1,5 @@
+there is a person ||entailment
+there is a bike ||entailment
+there is a pavement ||entailment
+the person is riding the bike ||neutral
+the bike is on the pavement ||entailment

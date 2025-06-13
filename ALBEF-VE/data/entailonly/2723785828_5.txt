@@ -1,0 +1,5 @@
+there are girls ||entailment
+there are faces ||entailment
+the girls are young ||neutral
+the faces are painted ||entailment
+the girls are with faces ||entailment

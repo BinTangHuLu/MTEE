@@ -1,0 +1,2 @@
+there are not children ||entailment
+the children are not exercising ||contradiction

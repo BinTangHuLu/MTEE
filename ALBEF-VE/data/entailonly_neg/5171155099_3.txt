@@ -1,0 +1,5 @@
+there is not a man ||contradiction
+there is not a hat ||contradiction
+there is not a horse ||contradiction
+the man is not in the hat ||neutral
+the man does not ride the horse ||contradiction

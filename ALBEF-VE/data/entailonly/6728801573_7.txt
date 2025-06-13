@@ -1,0 +1,4 @@
+there is a lady ||entailment
+there is a frame ||entailment
+there is a bicycle ||entailment
+the lady is lubricating the frame ||entailment

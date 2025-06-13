@@ -1,0 +1,6 @@
+There are not People. ||Contradiction
+There is not food. ||Contradiction
+There is not a cart. ||Entailment
+The cart is not popular. ||Neutral
+People do not wait for food. ||Entailment
+People are not at cart. ||Contradiction

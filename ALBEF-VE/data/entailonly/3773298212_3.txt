@@ -1,0 +1,4 @@
+there is a man ||entailment
+there is a machine ||entailment
+the man is kneeling to fix ||entailment
+the man is fixing the machine ||neutral

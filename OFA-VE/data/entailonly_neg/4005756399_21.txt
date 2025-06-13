@@ -1,0 +1,3 @@
+There is not a vendor. ||Contradiction
+There are not some toys. ||Contradiction
+The vendor is not selling toys. ||Contradiction

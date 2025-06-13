@@ -1,0 +1,4 @@
+There are cars. ||Entailment
+There is a track. ||Entailment
+The cars are fast. ||Entailment
+The cars are going around track. ||Entailment

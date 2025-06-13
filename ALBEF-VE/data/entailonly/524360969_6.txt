@@ -1,0 +1,6 @@
+there are workers ||entailment
+there is a road ||entailment
+there are signs ||entailment
+the signs are stop ||neutral
+the workers are in road ||neutral
+the workers are holding signs ||neutral

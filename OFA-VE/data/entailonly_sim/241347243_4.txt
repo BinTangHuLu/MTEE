@@ -1,0 +1,4 @@
+There is a agreeable. ||Entailment
+There is a soccer. ||Contradiction
+The agreeable is ready. ||Contradiction
+The agreeable is to start football. ||Neutral

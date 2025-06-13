@@ -1,0 +1,4 @@
+There is a dude. ||Entailment
+There is a canvas. ||Contradiction
+The dude is near the tent. ||Entailment
+The canvas is on the mountainside. ||Entailment

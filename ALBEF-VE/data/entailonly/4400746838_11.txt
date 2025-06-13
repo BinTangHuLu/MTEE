@@ -1,0 +1,6 @@
+there is a girl ||entailment
+there is a shirt ||entailment
+there is a face ||entailment
+the girl is blonde ||entailment
+the shirt is yellow ||entailment
+the girl covers face ||entailment

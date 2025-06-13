@@ -1,0 +1,3 @@
+there is an individual ||entailment
+there is some debris ||entailment
+the individual is working in the midst of debris ||entailment

@@ -1,0 +1,3 @@
+There is not a lady. ||contradiction
+The lady is not walking. ||entailment
+The lady is not down forest. ||entailment

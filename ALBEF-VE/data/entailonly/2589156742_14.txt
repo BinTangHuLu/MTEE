@@ -1,0 +1,3 @@
+there is a man ||entailment
+there is a drink ||entailment
+the man is holding drink ||entailment

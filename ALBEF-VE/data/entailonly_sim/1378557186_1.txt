@@ -1,0 +1,4 @@
+there is a dude ||entailment
+there is a rip ||neutral
+the rip is his ||neutral
+the dude is aiming the rifle ||neutral

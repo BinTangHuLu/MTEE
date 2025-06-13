@@ -1,0 +1,4 @@
+There is a baby. ||entailment
+There is a bowl. ||contradiction
+The baby is young. ||contradiction
+The baby is drinking out of cup. ||neutral

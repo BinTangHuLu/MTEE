@@ -1,0 +1,5 @@
+There is a woman. ||entailment
+There is a face. ||entailment
+The woman is her. ||entailment
+The face is part. ||neutral
+The woman covers face. ||neutral

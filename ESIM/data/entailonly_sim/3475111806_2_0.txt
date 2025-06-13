@@ -1,0 +1,6 @@
+There is a dude. ||entailment
+There is a account. ||contradiction
+There are dude. ||entailment
+There is a circle. ||neutral
+The dude takes a picture. ||entailment
+The dude is in the crowd. ||entailment

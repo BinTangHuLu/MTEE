@@ -1,0 +1,6 @@
+There are not shoppers. ||contradiction
+There are not vegetables. ||contradiction
+There is not a market. ||contradiction
+The market is not busy. ||contradiction
+The shoppers are not purchasing vegetables. ||contradiction
+The shoppers are not purchasing at the market. ||contradiction

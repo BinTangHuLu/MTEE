@@ -1,0 +1,2 @@
+There are band. ||entailment
+The band are on scaffolding. ||entailment

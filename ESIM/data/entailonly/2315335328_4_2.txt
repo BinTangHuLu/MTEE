@@ -1,0 +1,7 @@
+There is a lady. ||entailment
+There is a dress. ||entailment
+There is a container. ||entailment
+There are toys. ||neutral
+The lady is in a dress. ||entailment
+The container is of yarn. ||entailment
+The lady has toys. ||entailment

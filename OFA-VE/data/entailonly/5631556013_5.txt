@@ -1,0 +1,4 @@
+There is a boy. ||Entailment
+There are some shorts. ||Entailment
+The shorts are wearing. ||Entailment
+The boy is wearing shorts. ||Entailment

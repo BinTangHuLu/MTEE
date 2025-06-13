@@ -1,0 +1,5 @@
+There are not runners. ||Contradiction
+There is not a marathon. ||Contradiction
+There is not a line. ||Contradiction
+The runners are not marathon. ||Contradiction
+The runners are not near line. ||Contradiction

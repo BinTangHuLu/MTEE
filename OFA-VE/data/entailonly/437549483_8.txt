@@ -1,0 +1,4 @@
+There is a woman. ||Entailment
+There is arts. ||Entailment
+The arts is martial. ||Entailment
+The woman does arts. ||Entailment

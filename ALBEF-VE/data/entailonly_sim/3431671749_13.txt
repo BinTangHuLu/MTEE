@@ -1,0 +1,5 @@
+there is bonfire ||entailment
+there is a auto ||entailment
+the auto is race ||neutral
+bonfire are shooting from front ||contradiction
+facade is of car ||entailment

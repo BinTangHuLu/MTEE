@@ -1,0 +1,9 @@
+there is not a lady ||contradiction
+there is not an exercises ||contradiction
+there is not a sphere ||contradiction
+there is not a building ||contradiction
+the building is not 18th century ||entailment
+the sphere is not concrete ||entailment
+the lady does not do exercises ||contradiction
+the exercises are not on top of sphere ||contradiction
+the building is not surrounding sphere ||contradiction

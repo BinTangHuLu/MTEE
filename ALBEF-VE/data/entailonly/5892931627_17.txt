@@ -1,0 +1,6 @@
+there is a man ||entailment
+there is a ball ||entailment
+there is a game ||entailment
+the man is young ||entailment
+the man is about to hit the ball ||entailment
+the ball is during the game ||entailment

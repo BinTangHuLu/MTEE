@@ -1,0 +1,4 @@
+There are people. ||Entailment
+There is a park. ||Entailment
+There is an amusement park. ||Entailment
+The people are at amusement park. ||Entailment

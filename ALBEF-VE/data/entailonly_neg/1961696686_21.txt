@@ -1,0 +1,5 @@
+there is not a lady ||contradiction
+there is not a ball ||contradiction
+there is not a lane ||contradiction
+the lady does not prepare to throw the ball ||contradiction
+the ball is not down the lane ||entailment

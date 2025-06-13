@@ -1,0 +1,3 @@
+there is a man ||entailment
+there is a vehicle ||entailment
+the man is driving the vehicle ||entailment

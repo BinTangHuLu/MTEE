@@ -1,0 +1,5 @@
+There is not a cowboy. ||Entailment
+There is not a horse. ||Contradiction
+There are not things. ||Contradiction
+The cowboy is not wearing things. ||Contradiction
+The horse is not wearing things. ||Contradiction

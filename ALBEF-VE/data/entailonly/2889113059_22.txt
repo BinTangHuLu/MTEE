@@ -1,0 +1,3 @@
+there is a man ||entailment
+there is an operahouse ||neutral
+the man is singing in operahouse ||entailment

@@ -1,0 +1,4 @@
+there is a exterior ||entailment
+there is the clay ||contradiction
+the exterior is visible ||entailment
+the exterior is of the earth ||entailment

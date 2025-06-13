@@ -1,0 +1,4 @@
+There are community. ||entailment
+The community are male. ||entailment
+The community are outside. ||entailment
+The community are with a hat on. ||entailment

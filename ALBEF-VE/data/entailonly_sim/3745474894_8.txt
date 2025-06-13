@@ -1,0 +1,2 @@
+there are minority ||entailment
+the minority are outside ||entailment

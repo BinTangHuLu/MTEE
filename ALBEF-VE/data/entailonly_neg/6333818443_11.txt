@@ -1,0 +1,6 @@
+there is not a woman ||contradiction
+there is not a kitchen ||contradiction
+there is not a cup ||contradiction
+the cup is not in her hand ||contradiction
+the woman is not in the kitchen ||contradiction
+the woman is not jumping with the cup ||contradiction

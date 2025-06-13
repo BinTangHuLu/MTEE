@@ -1,0 +1,3 @@
+There are community. ||entailment
+There are community. ||entailment
+The community are near people. ||entailment

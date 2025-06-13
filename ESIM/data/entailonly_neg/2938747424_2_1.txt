@@ -1,0 +1,4 @@
+There is not a dog. ||contradiction
+There is not a beach. ||contradiction
+The dog is not white. ||contradiction
+The dog is not at the beach. ||contradiction

@@ -1,0 +1,4 @@
+There is not a group. ||entailment
+There are not workers. ||entailment
+There is not construction. ||contradiction
+The workers are not taking the group. ||entailment

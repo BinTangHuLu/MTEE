@@ -1,0 +1,4 @@
+There is not a man. ||contradiction
+There is not a hat. ||contradiction
+The man's lips are not sealed. ||contradiction
+The man does not keep the hat. ||contradiction

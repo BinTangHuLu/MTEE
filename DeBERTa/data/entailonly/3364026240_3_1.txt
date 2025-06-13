@@ -1,0 +1,4 @@
+There is a snowboarder. ||entailment
+There is a field. ||entailment
+There is snow. ||entailment
+The snowboarder is gliding over the field. ||entailment

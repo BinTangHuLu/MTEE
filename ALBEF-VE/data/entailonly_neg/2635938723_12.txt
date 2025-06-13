@@ -1,0 +1,5 @@
+there is not a boy ||contradiction
+there is not a popsicle ||contradiction
+the boy is not little ||contradiction
+the popsicle is not red ||contradiction
+the boy does not eat popsicle ||contradiction

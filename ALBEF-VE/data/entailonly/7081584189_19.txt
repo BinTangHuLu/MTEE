@@ -1,0 +1,5 @@
+there is a group ||entailment
+there is a kayak ||entailment
+there is a race ||entailment
+the group is in the kayak ||entailment
+the kayak is in the race ||neutral

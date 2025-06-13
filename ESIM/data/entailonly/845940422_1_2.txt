@@ -1,0 +1,3 @@
+There is a girl. ||entailment
+The girl is troubled. ||neutral
+The expression is troubled. ||neutral

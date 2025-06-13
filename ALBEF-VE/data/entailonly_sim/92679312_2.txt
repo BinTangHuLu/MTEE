@@ -1,0 +1,3 @@
+there are community ||entailment
+there is a duo ||entailment
+the community are singing a duet ||contradiction

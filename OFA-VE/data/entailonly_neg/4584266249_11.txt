@@ -1,0 +1,6 @@
+There are not women. ||Contradiction
+There are not umbrellas. ||Contradiction
+There is not rain. ||Entailment
+The women do not use umbrellas. ||Contradiction
+The umbrellas do not keep themselves. ||Entailment
+The umbrellas do not keep dry. ||Entailment

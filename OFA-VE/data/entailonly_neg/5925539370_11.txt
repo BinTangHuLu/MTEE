@@ -1,0 +1,4 @@
+There is not a boy. ||Entailment
+There is not a baseball. ||Entailment
+The boy is not throwing. ||Contradiction
+The boy is not throwing baseball. ||Entailment

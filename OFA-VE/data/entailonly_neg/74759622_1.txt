@@ -1,0 +1,4 @@
+There is not a man. ||Contradiction
+There is not a brush. ||Entailment
+There is not a toilet brush. ||Entailment
+The man is not holding the brush. ||Entailment

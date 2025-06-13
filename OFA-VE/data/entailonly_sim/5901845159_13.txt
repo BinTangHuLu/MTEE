@@ -1,0 +1,3 @@
+There are community. ||Entailment
+The community are multiple. ||Contradiction
+The community are present. ||Entailment

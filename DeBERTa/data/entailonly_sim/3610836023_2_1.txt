@@ -1,0 +1,3 @@
+There is a body. ||entailment
+There is some drink. ||neutral
+The body is near water. ||entailment

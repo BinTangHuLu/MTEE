@@ -1,0 +1,5 @@
+There is a couple. ||entailment
+The couple is older looking. ||neutral
+The couple are holding hands. ||entailment
+The couple walk. ||entailment
+The couple walk past restaurant. ||entailment

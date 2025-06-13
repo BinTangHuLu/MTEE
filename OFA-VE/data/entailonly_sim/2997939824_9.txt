@@ -1,0 +1,5 @@
+There are community. ||Entailment
+There are attire. ||Entailment
+There is an action. ||Entailment
+The community are wearing uniforms. ||Entailment
+The community are performing the activity. ||Entailment

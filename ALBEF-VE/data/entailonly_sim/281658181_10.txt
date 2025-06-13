@@ -1,0 +1,5 @@
+there is an animal ||entailment
+there is a admirer ||entailment
+the animal is female ||neutral
+the animal is doing a photoshoot ||contradiction
+the admirer watches the athlete ||neutral

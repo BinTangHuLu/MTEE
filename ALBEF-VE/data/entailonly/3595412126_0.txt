@@ -1,0 +1,3 @@
+there are girls ||entailment
+there is a tree ||entailment
+the girls are standing by the tree ||entailment

@@ -1,0 +1,2 @@
+there is a father ||entailment
+there is a baby ||entailment

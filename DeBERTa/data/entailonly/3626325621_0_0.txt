@@ -1,0 +1,5 @@
+There is a man. ||entailment
+There is an opening. ||entailment
+There is a tree. ||entailment
+The man is at the opening. ||entailment
+The opening is of the tree. ||entailment

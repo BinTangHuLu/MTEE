@@ -1,0 +1,2 @@
+there is an airplane ||entailment
+the airplane is heavy ||entailment

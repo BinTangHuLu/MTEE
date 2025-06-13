@@ -1,0 +1,6 @@
+there is a female ||entailment
+there is a account ||entailment
+the female is two ||neutral
+the female is in the picture ||entailment
+there is melody ||entailment
+the female is playing music ||entailment

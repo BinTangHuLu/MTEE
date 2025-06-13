@@ -1,0 +1,3 @@
+there are band ||entailment
+there is a backyard ||entailment
+the band are working on the lawn ||entailment

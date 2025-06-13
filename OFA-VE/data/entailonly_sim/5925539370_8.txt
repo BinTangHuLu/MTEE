@@ -1,0 +1,4 @@
+There are clan. ||Contradiction
+There is a farmland. ||Contradiction
+The clan play baseball. ||Neutral
+They play in the farmland. ||Contradiction

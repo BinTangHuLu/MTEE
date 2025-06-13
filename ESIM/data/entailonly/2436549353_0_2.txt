@@ -1,0 +1,5 @@
+There is a boy. ||entailment
+There is a girl. ||entailment
+The boy is outside. ||entailment
+The girl is outside. ||entailment
+The boy is outside and the girl is outside. ||entailment

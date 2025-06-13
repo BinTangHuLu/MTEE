@@ -1,0 +1,4 @@
+there are not people ||contradiction
+there is not a street ||contradiction
+the street is not busy ||contradiction
+people are not walking down a street ||contradiction

@@ -1,0 +1,2 @@
+There is a contestant. ||entailment
+The contestant wants to head for the finish line. ||entailment

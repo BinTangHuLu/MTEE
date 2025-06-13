@@ -1,0 +1,4 @@
+there are cars ||entailment
+there is a racetrack ||entailment
+the cars are on the racetrack ||entailment
+the cars are racing ||entailment

@@ -1,0 +1,2 @@
+There is a martial artisan. ||Entailment
+The martial artisan is competing. ||Entailment

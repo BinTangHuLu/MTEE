@@ -1,0 +1,5 @@
+there is not a lady ||contradiction
+there is not a beach ||contradiction
+there is not a crowd ||contradiction
+the lady is not black ||contradiction
+the lady is not walking on the beach ||entailment

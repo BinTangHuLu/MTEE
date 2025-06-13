@@ -1,0 +1,5 @@
+There is not a person. ||Contradiction
+There is not a picture. ||Contradiction
+There is not a tent. ||Contradiction
+The person is not having the picture. ||Neutral
+The picture is not taken inside the tent. ||Entailment

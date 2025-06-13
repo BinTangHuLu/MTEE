@@ -1,0 +1,3 @@
+there is a girl ||entailment
+there is a glass ||entailment
+the girl is holding the glass ||entailment

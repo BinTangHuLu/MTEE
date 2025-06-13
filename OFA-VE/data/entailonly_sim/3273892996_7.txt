@@ -1,0 +1,6 @@
+There is a dude. ||Entailment
+There is a halt. ||Entailment
+There is a advertise. ||Contradiction
+The dude is older. ||Entailment
+The dude runs the stall. ||Neutral
+The dude sells items. ||Entailment

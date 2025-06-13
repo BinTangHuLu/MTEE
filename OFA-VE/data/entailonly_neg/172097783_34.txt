@@ -1,0 +1,4 @@
+There is not a guy. ||Contradiction
+There is not some water. ||Contradiction
+The guy is not water-skiing. ||Entailment
+The guy is not on water. ||Entailment

@@ -1,0 +1,6 @@
+There are dude. ||entailment
+There is a bar. ||contradiction
+There is a pup. ||entailment
+The dude are homeless. ||entailment
+The dude lean against the wall. ||entailment
+The dude are with the dog. ||entailment

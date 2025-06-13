@@ -1,0 +1,7 @@
+there are guys ||entailment
+there is a cherry picker ||entailment
+there are wires ||entailment
+there are trees ||entailment
+the guys stand in the cherry picker ||entailment
+the cherry picker is near wires ||entailment
+the cherry picker is near trees ||entailment

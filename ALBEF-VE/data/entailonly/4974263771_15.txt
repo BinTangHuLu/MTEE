@@ -1,0 +1,3 @@
+there are kids ||entailment
+there is a ledge ||entailment
+the kids converse on the ledge ||entailment

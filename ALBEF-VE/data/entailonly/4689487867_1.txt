@@ -1,0 +1,13 @@
+there is a man ||entailment
+there is a vest ||entailment
+there are sunglasses ||entailment
+there are cards ||entailment
+there is a stand ||entailment
+there are buttons ||entailment
+there is a hat ||entailment
+the vest is in ||entailment
+the man is looking at ||entailment
+the man is looking at cards ||entailment
+the cards are at stand ||contradiction
+the man has buttons ||entailment
+the buttons are on hat ||entailment

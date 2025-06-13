@@ -1,0 +1,3 @@
+there are community ||entailment
+there are four community ||entailment
+there are at least four community ||entailment

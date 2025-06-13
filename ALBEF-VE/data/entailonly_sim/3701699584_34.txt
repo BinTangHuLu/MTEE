@@ -1,0 +1,5 @@
+there is a body ||entailment
+there is a athletics ||entailment
+the body has played ||entailment
+the athletics has played at least once in their life ||entailment
+the body has played sport ||entailment

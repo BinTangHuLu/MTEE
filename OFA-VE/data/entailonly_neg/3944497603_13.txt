@@ -1,0 +1,4 @@
+There is not someone. ||Entailment
+There is not a station. ||Entailment
+The station is not metro. ||Entailment
+Someone is not standing near the station. ||Entailment

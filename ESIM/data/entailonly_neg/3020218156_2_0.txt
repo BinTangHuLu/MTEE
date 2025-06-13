@@ -1,0 +1,5 @@
+There is not a guy. ||contradiction
+There is not a building. ||contradiction
+There are not men. ||contradiction
+The guy is not near the building. ||contradiction
+The guy does not stand by men. ||contradiction

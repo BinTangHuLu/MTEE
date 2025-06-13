@@ -1,0 +1,4 @@
+there is not a covering ||contradiction
+there is not a woman ||contradiction
+the woman is not brightly colored ||contradiction
+the covering is not being worn by the woman ||contradiction

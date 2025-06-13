@@ -1,0 +1,5 @@
+there is a dog ||entailment
+there is a boy ||entailment
+the dog is muscular ||neutral
+the boy is young ||entailment
+the dog is looking at the boy ||entailment

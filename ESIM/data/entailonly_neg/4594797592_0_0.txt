@@ -1,0 +1,4 @@
+There is not a girl. ||contradiction
+There is not a frok. ||contradiction
+The girl is not pink color. ||contradiction
+The girl is not wearing frok. ||contradiction

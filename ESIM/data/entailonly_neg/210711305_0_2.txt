@@ -1,0 +1,6 @@
+There is not a man. ||contradiction
+There is not a path. ||contradiction
+There is not a child. ||contradiction
+The path is not wooden. ||entailment
+The man is not walking down the path. ||contradiction
+The man is not pushing the child. ||contradiction

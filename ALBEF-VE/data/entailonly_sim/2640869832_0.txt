@@ -1,0 +1,4 @@
+there is a association ||entailment
+there are some community ||entailment
+the community are sitting down ||entailment
+the community are talking ||entailment

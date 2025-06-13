@@ -1,0 +1,3 @@
+there is a mom ||entailment
+there are some kids ||entailment
+the mom is with kids ||entailment

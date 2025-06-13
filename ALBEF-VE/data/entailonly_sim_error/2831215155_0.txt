@@ -1,0 +1,3 @@
+RE2,looking through,telescope
+A,blue
+E1R,telescope,at

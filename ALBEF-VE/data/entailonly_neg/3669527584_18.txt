@@ -1,0 +1,3 @@
+there is not an image ||entailment
+there is not a link ||entailment
+the image is not on the link ||entailment

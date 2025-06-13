@@ -1,0 +1,4 @@
+There is a person. ||entailment
+The person is red. ||entailment
+The person is cutting grass. ||entailment
+The person is cutting on riding mower. ||entailment

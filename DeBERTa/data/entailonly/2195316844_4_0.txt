@@ -1,0 +1,4 @@
+There is a man. ||entailment
+There is a sale. ||entailment
+There is a yard. ||entailment
+The man is at sale. ||entailment

@@ -1,0 +1,5 @@
+There is a body. ||Entailment
+There is a avenue. ||Entailment
+The body is navigating. ||Entailment
+The body is navigating the street. ||Entailment
+The body is on wheels. ||Entailment

@@ -1,0 +1,6 @@
+there is a dude ||entailment
+there is a little ||entailment
+there is some baggage ||entailment
+the little plays ||entailment
+the little plays with luggage ||entailment
+the dude is monitoring the baby ||entailment

@@ -1,0 +1,9 @@
+There is a group. ||entailment
+There are men. ||entailment
+There are sports. ||entailment
+There is sand. ||entailment
+The group consists of men. ||entailment
+The sports are playing. ||entailment
+The sand is in. ||entailment
+The group is playing sports. ||entailment
+The group is in sand. ||entailment

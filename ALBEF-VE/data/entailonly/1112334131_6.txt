@@ -1,0 +1,5 @@
+there is a boy ||entailment
+there is a girl ||entailment
+the boy is eating ice cream ||entailment
+the girl is eating ice cream ||entailment
+the boy and girl are eating ||entailment

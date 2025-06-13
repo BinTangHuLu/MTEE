@@ -1,0 +1,2 @@
+there is a grassland ||entailment
+the animals are in the grassland ||neutral

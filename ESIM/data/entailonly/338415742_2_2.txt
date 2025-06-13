@@ -1,0 +1,8 @@
+There is a man. ||entailment
+There is a brief case. ||neutral
+There is a corner. ||neutral
+There is a woman. ||contradiction
+The man is with a brief case. ||neutral
+The man is near a corner. ||entailment
+The man stands near the corner. ||contradiction
+The woman walks past the corner. ||contradiction

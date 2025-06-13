@@ -1,0 +1,3 @@
+there is a crowd ||entailment
+there is a match ||entailment
+the crowd enjoys the match ||neutral

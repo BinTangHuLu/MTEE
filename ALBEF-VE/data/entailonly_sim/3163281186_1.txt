@@ -1,0 +1,7 @@
+there is a female ||entailment
+there is an boar ||contradiction
+there is a body ||entailment
+the body is another ||neutral
+the boar has a head ||contradiction
+the female is riding the elephant ||entailment
+the body is touching the elephant ||entailment

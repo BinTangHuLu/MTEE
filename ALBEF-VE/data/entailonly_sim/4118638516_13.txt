@@ -1,0 +1,5 @@
+there is a dude ||entailment
+there is some equipment ||entailment
+there is a avenue ||entailment
+the dude sells stuff ||entailment
+the equipment is sold by street ||entailment

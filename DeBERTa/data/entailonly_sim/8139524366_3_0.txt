@@ -1,0 +1,4 @@
+There are dude. ||entailment
+There are knickers. ||entailment
+The knickers are black. ||entailment
+The dude are wearing pants. ||entailment

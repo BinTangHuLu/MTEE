@@ -1,0 +1,5 @@
+There is a man. ||Entailment
+There is a cane. ||Entailment
+There are people. ||Entailment
+The man has a cane. ||Entailment
+The man is near people. ||Entailment

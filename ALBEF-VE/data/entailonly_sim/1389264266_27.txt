@@ -1,0 +1,3 @@
+there are adolescent ||entailment
+the adolescent are pink ||neutral
+the adolescent hear is ||entailment

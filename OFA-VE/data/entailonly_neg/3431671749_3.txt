@@ -1,0 +1,5 @@
+There is not a race car. ||Contradiction
+There are not flames. ||Contradiction
+The race car is not showboating. ||Entailment
+The race car is not showboating by flames. ||Entailment
+The flames do not shoot form rear. ||Entailment

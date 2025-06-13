@@ -1,0 +1,4 @@
+there is a female ||entailment
+there is a barge ||neutral
+the female laughs another ||entailment
+another paddles barge ||neutral

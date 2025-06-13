@@ -1,0 +1,2 @@
+There is not a man. ||Entailment
+The man is not seated. ||Entailment

@@ -1,0 +1,5 @@
+there is a man ||entailment
+there is a boy ||entailment
+the boy is young ||entailment
+the man is teaching the boy ||entailment
+the boy is learning how to swim from the man ||entailment

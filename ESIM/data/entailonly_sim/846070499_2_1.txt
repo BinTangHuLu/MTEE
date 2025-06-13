@@ -1,0 +1,5 @@
+There is a dude. ||contradiction
+There is a female. ||entailment
+The dude is talking. ||entailment
+The dude is wearing pants. ||entailment
+The female is wearing pants. ||entailment

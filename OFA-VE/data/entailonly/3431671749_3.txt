@@ -1,0 +1,5 @@
+There is a race car. ||Entailment
+There are flames. ||Entailment
+The race car is showboating. ||Neutral
+The race car is showboating by flames. ||Entailment
+The flames shoot form rear. ||Entailment

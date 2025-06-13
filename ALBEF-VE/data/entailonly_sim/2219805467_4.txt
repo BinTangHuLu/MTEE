@@ -1,0 +1,4 @@
+there is a pup ||entailment
+there is some drink ||neutral
+the pup is by water ||entailment
+the pup is with a ball ||entailment

@@ -1,0 +1,4 @@
+There is not a guy. ||Contradiction
+There is not a hat. ||Contradiction
+There is not a skateboard. ||Contradiction
+The guy does not have a skateboard. ||Entailment

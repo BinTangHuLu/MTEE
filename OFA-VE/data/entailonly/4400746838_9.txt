@@ -1,0 +1,6 @@
+There is a girl. ||Entailment
+There is a hand. ||Entailment
+There are eyes. ||Entailment
+The girl is blonde. ||Entailment
+The girl has a hand. ||Entailment
+The hand is over eyes. ||Entailment

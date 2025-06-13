@@ -1,0 +1,5 @@
+There is a woman. ||Entailment
+There are some styles. ||Entailment
+The woman is Indian. ||Entailment
+The styles are traditional. ||Entailment
+The woman is wearing styles. ||Entailment

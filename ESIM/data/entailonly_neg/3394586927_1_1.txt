@@ -1,0 +1,6 @@
+There is not a person. ||contradiction
+There is not a top. ||contradiction
+The top is not dark. ||contradiction
+The person is not with top. ||contradiction
+The person is not outside. ||contradiction
+The person is doing something not active. ||neutral

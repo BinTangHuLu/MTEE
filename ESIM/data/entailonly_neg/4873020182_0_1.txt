@@ -1,0 +1,8 @@
+There is not a woman. ||contradiction
+There is not a jacket. ||contradiction
+There are not children. ||contradiction
+There is not a table. ||contradiction
+The woman is not plaid. ||contradiction
+The woman does not wear the jacket. ||contradiction
+The woman does not stand near the children. ||contradiction
+The children are not sitting at the table. ||entailment

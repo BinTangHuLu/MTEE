@@ -1,0 +1,6 @@
+There are Boys. ||Entailment
+There is a sport. ||Entailment
+There are uniforms. ||Entailment
+The sport is a team. ||Entailment
+The Boys play sport. ||Entailment
+The sport is in uniforms. ||Entailment

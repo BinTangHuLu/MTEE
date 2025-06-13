@@ -1,0 +1,3 @@
+there is a squirrel ||entailment
+there is some snow ||entailment
+the squirrel is in snow ||entailment

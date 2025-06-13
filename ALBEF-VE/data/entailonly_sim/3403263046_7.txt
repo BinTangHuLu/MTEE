@@ -1,0 +1,2 @@
+there is a ball player ||entailment
+the ball player is trying to block another ||entailment

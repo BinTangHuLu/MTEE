@@ -1,0 +1,8 @@
+There is a dude. ||entailment
+There is a coat. ||entailment
+The coat is red. ||entailment
+There is a exit. ||entailment
+The dude is opening the door. ||entailment
+There are blueprint. ||neutral
+The blueprint are car. ||neutral
+The dude is holding keys. ||entailment

@@ -1,0 +1,3 @@
+There is a body. ||entailment
+There is a clue. ||entailment
+The body holds the sign. ||entailment

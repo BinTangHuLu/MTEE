@@ -1,0 +1,8 @@
+There are not men. ||contradiction
+There is not garb. ||contradiction
+There are not drums. ||contradiction
+There is not a crowd. ||contradiction
+The men are not Two. ||contradiction
+The men are not in garb. ||contradiction
+The men are not playing drums. ||contradiction
+The men are not among the crowd. ||contradiction

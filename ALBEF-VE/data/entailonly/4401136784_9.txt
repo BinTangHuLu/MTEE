@@ -1,0 +1,2 @@
+they are eachother ||entailment
+they know eachother ||entailment

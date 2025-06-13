@@ -1,0 +1,3 @@
+there is a kid ||entailment
+there is a car ||entailment
+the kid is standing behind the car ||entailment

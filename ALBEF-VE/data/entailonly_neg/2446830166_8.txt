@@ -1,0 +1,5 @@
+there is not a person ||contradiction
+there is not a lady ||contradiction
+the person is not taller ||contradiction
+the person does not walk around the lady ||contradiction
+the lady is not holding things ||contradiction

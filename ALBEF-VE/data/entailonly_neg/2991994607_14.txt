@@ -1,0 +1,4 @@
+there is not food ||contradiction
+there is not drink ||contradiction
+there is not a photo ||entailment
+the food and drink are not in the photo ||contradiction

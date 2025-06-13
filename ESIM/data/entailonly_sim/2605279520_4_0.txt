@@ -1,0 +1,5 @@
+There are female. ||entailment
+There is a disco floor. ||neutral
+The female are in a group. ||neutral
+The disco floor is decorated with bamboo. ||neutral
+The female are on the dance floor. ||neutral

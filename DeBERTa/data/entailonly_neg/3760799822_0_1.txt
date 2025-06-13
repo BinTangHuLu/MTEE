@@ -1,0 +1,5 @@
+There are not men. ||contradiction
+There are not women. ||contradiction
+There are not two men. ||contradiction
+The men are not outside conversations. ||contradiction
+The women are not outside conversations. ||contradiction

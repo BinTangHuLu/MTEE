@@ -1,0 +1,5 @@
+There is not a woman. ||contradiction
+There is not a flower. ||contradiction
+There is not a bucket. ||contradiction
+The woman does not pick the flower. ||contradiction
+The woman is not out of the bucket. ||contradiction

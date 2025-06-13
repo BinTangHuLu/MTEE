@@ -1,0 +1,5 @@
+There is not a guy. ||contradiction
+There is not a sweatshirt. ||contradiction
+There is not a power saw. ||contradiction
+The guy is not wearing a sweatshirt. ||contradiction
+The guy does not use a power saw. ||contradiction

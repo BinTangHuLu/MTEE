@@ -1,0 +1,4 @@
+A,young
+R,jumps in
+A,blue
+R,in front of

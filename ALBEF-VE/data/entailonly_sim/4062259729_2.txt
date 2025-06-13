@@ -1,0 +1,3 @@
+there is a dude ||entailment
+there is a catamaran ||entailment
+the dude is riding on the sailboat ||entailment

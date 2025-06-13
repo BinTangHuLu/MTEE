@@ -1,0 +1,3 @@
+there are not actors ||contradiction
+there is not a script ||contradiction
+the actors do not read the script ||contradiction

@@ -1,0 +1,4 @@
+there is a crowd ||entailment
+there are some people ||entailment
+there is a background ||entailment
+the crowd stands in the background ||entailment

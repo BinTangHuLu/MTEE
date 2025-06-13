@@ -1,0 +1,3 @@
+There are not bystanders. ||Entailment
+There are not benches. ||Entailment
+The bystanders do not rest on benches. ||Contradiction

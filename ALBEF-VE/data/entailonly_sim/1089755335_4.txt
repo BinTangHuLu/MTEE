@@ -1,0 +1,7 @@
+there is a female ||entailment
+there are clan ||entailment
+there is a deck ||entailment
+the clan are fishing ||entailment
+the female is with children ||entailment
+the clan are fishing over the boardwalk ||neutral
+fishing over the deck is in the evening ||entailment

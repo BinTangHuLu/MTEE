@@ -1,0 +1,4 @@
+there is not a person ||contradiction
+there is not a shirt ||contradiction
+the shirt is not numbered ||contradiction
+the person is not wearing the shirt ||contradiction

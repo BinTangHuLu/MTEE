@@ -1,0 +1,3 @@
+There is an ATV. ||Entailment
+There is a road. ||Entailment
+The ATV is driving down the road. ||Entailment

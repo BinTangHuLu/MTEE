@@ -1,0 +1,5 @@
+there is not a person ||contradiction
+there is not a child ||contradiction
+there is not a book ||contradiction
+the child is not small ||entailment
+the person does not have the book ||contradiction

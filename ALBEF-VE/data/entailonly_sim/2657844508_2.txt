@@ -1,0 +1,5 @@
+there are community ||entailment
+there is a bar ||entailment
+there is color ||entailment
+the community are at the restaurant ||entailment
+the bar is near decoration ||entailment

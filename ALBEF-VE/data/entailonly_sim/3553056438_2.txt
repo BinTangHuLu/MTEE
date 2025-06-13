@@ -1,0 +1,5 @@
+there is a child ||entailment
+there is a child ||entailment
+there is some fodder ||entailment
+the child kisses the girl ||contradiction
+the child is on hay ||entailment

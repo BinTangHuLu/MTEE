@@ -1,0 +1,3 @@
+there is a crowd ||entailment
+there are people ||entailment
+the crowd watches people ||entailment

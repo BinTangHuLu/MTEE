@@ -1,0 +1,3 @@
+There is not it. ||Contradiction
+There is not rain. ||Entailment
+It is not raining. ||Contradiction

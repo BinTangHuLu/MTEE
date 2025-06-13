@@ -1,0 +1,6 @@
+there are children ||entailment
+there are adults ||contradiction
+there is a bounce house ||entailment
+the children and adults are outside ||entailment
+the children are outside the bounce house ||entailment
+the adults are outside the bounce house ||entailment

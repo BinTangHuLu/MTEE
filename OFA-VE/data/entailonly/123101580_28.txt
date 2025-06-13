@@ -1,0 +1,5 @@
+There are girls. ||Entailment
+There are jerseys. ||Entailment
+The girls are two. ||Entailment
+The jerseys are wearing. ||Entailment
+The girls are playing sports. ||Entailment

@@ -1,0 +1,4 @@
+there are female ||entailment
+there is a circle ||contradiction
+the female are speaking words ||entailment
+the words are in facade of the crowd ||entailment

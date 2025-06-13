@@ -1,0 +1,5 @@
+there is a child ||entailment
+there are some bikini ||neutral
+there is a basin ||entailment
+the child is in trunks ||entailment
+the child jumps into the pool ||entailment

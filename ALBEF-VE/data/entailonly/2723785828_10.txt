@@ -1,0 +1,3 @@
+there are kids ||entailment
+the kids are wearing makeup ||entailment
+the kids are sitting next to kids ||entailment

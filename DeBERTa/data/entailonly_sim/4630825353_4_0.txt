@@ -1,0 +1,4 @@
+There is a child. ||entailment
+There is a dirt. ||entailment
+The child is lying on the ground. ||entailment
+The child is on the cellphone. ||entailment

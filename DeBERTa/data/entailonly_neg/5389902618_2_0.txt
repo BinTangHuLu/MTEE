@@ -1,0 +1,5 @@
+There are not women. ||contradiction
+There are not costumes. ||contradiction
+The costumes are not gorgeous. ||contradiction
+The women do not perform together in costumes. ||contradiction
+There is not an Indian. ||contradiction

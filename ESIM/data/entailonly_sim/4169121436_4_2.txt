@@ -1,0 +1,4 @@
+There are female. ||entailment
+There is a advertise. ||neutral
+The female are asian. ||entailment
+The female are at the market. ||entailment

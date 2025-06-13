@@ -1,0 +1,6 @@
+there is a man ||entailment
+there are sunglasses ||entailment
+there is a block ||entailment
+there is a rope ||entailment
+the man is in sunglasses ||entailment
+the man is standing near the block ||entailment

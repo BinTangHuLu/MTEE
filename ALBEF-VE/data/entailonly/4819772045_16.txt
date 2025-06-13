@@ -1,0 +1,5 @@
+there are mothers ||entailment
+there is a child ||entailment
+there is a street ||entailment
+the mothers watch their child ||entailment
+the child is playing in the street ||entailment

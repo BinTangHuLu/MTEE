@@ -1,0 +1,4 @@
+There are Girls. ||entailment
+The Girls are standing up. ||entailment
+There is a wall. ||entailment
+The Girls are against the wall. ||entailment

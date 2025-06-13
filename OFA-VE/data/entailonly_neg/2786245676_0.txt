@@ -1,0 +1,5 @@
+There is not a boy. ||Contradiction
+The boy is not smiling. ||Neutral
+The boy is smiling with somethingnot . ||Neutral
+There is not something. ||Contradiction
+There is not a hand. ||Contradiction

@@ -1,0 +1,5 @@
+There are not men. ||contradiction
+There are not five men. ||contradiction
+The men are not kneeling. ||contradiction
+There is not a man. ||contradiction
+The man does not put his hands into air. ||contradiction

@@ -1,0 +1,12 @@
+There is an artisan. ||entailment
+There is a account. ||entailment
+There is a dude. ||entailment
+There is a assembly. ||entailment
+There are fowl. ||entailment
+The account is painted. ||neutral
+The account is of a man. ||entailment
+The dude is being flown high in the sky. ||entailment
+The artisan has painted the picture. ||neutral
+The account is of the man. ||contradiction
+The dude is being flown by the flock. ||entailment
+The assembly is by birds. ||neutral

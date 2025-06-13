@@ -1,0 +1,3 @@
+there is a trick ||entailment
+there is air ||entailment
+the trick is performed in air ||entailment

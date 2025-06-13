@@ -1,0 +1,5 @@
+There is a driver. ||neutral
+There is a pedal. ||entailment
+The driver is his. ||neutral
+The pedal is motocross. ||entailment
+The driver is riding the bike. ||entailment

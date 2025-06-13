@@ -1,0 +1,4 @@
+There are community. ||Entailment
+There is a bank. ||Contradiction
+There is bling cream. ||Entailment
+The community are outside the store. ||Entailment

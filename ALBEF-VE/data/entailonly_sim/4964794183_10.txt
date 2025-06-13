@@ -1,0 +1,4 @@
+there are female ||entailment
+there is a circle ||entailment
+the cameraman is filming female ||entailment
+the female are walking through the crowd ||entailment

@@ -1,0 +1,8 @@
+there are activity vests ||entailment
+there is a estuary ||entailment
+there is a outrigger ||entailment
+there is a cartoon opportunity ||neutral
+the kayakers are held in apartment by oars ||contradiction
+the kayakers are in the estuary ||neutral
+the outrigger is over kayak ||entailment
+the outrigger is apart third ||neutral

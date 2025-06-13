@@ -1,0 +1,5 @@
+there is a dude ||entailment
+there is a coat ||entailment
+there is a fedora ||contradiction
+the coat is dark ||entailment
+the dude sits in street ||entailment

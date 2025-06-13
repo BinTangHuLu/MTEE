@@ -1,0 +1,5 @@
+There is a woman. ||entailment
+There is a camera. ||entailment
+There is a tripod. ||entailment
+The woman is setting up the camera. ||entailment
+The camera is on the tripod. ||entailment

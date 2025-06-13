@@ -1,0 +1,6 @@
+there is a dude ||entailment
+there is a costume ||entailment
+there is a pup ||entailment
+the costume is green striped ||neutral
+the dude is surfing man ||neutral
+the costume is with dog ||contradiction

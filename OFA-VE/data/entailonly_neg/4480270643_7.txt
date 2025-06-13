@@ -1,0 +1,3 @@
+There is not a man. ||Contradiction
+There is not some water. ||Entailment
+The man is not looking at water. ||Neutral

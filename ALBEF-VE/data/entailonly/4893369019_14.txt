@@ -1,0 +1,2 @@
+there is a crowd ||entailment
+the crowd is being entertained ||entailment

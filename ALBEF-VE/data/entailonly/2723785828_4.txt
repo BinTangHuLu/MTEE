@@ -1,0 +1,3 @@
+there are children ||entailment
+there is a pair ||entailment
+the children have painted faces ||entailment

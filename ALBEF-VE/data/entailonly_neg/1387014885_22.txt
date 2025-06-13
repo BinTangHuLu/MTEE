@@ -1,0 +1,5 @@
+there is not a man ||contradiction
+there is not a woman ||contradiction
+there is not an event ||contradiction
+the man and woman are not speaking at event ||contradiction
+the man are not speaking at event ||contradiction

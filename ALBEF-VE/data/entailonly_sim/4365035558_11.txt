@@ -1,0 +1,5 @@
+there are community ||entailment
+there is a coast ||entailment
+there is a dog ||entailment
+the community visited the beach ||contradiction
+the coast is with a puppy ||entailment

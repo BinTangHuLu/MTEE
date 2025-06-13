@@ -1,0 +1,5 @@
+There is a baby. ||entailment
+The baby is small. ||entailment
+The baby is dressed. ||entailment
+The baby is winter. ||neutral
+The baby is dressed for winter. ||entailment

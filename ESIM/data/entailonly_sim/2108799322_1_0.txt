@@ -1,0 +1,5 @@
+There is a pup. ||entailment
+The pup is running. ||entailment
+There is an field. ||neutral
+The field is marshy. ||neutral
+The pup is running in the area. ||entailment

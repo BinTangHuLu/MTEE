@@ -1,0 +1,3 @@
+there is not a line ||contradiction
+there are not customers ||contradiction
+the line is not of customers ||contradiction

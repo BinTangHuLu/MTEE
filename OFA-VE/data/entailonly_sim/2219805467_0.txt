@@ -1,0 +1,2 @@
+There is a pup. ||Entailment
+The pup has a ball. ||Entailment

@@ -1,0 +1,5 @@
+There is a rider. ||entailment
+There are some ramps. ||entailment
+It is a sunny day. ||entailment
+The rider has a bike. ||entailment
+The rider is jumping ramps. ||entailment

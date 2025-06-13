@@ -1,0 +1,5 @@
+There is not a retriever. ||contradiction
+There is not a lake. ||contradiction
+The retriever is not wet. ||contradiction
+The retriever is not golden. ||contradiction
+The retriever is not in the lake. ||contradiction

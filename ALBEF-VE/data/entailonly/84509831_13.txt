@@ -1,0 +1,3 @@
+there is a person ||entailment
+there is an ocean ||entailment
+the person is by ocean ||entailment

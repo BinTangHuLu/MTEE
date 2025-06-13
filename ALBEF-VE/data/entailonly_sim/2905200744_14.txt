@@ -1,0 +1,2 @@
+there is a automobile ||entailment
+the automobile is large ||entailment

@@ -1,0 +1,4 @@
+there is a boy ||entailment
+there is a crowd ||entailment
+there are people ||entailment
+the boy grins in the crowd ||entailment

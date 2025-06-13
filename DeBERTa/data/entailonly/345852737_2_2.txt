@@ -1,0 +1,6 @@
+There is a woman. ||entailment
+There is a Trader Joe's. ||entailment
+There is a shopping cart. ||entailment
+The shopping cart is full. ||entailment
+The woman is walking away from Trader Joe's. ||entailment
+The woman is walking away from the shopping cart. ||entailment

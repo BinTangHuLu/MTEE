@@ -1,0 +1,3 @@
+there is a artist ||entailment
+there are some community ||entailment
+the artist is performing for people ||entailment

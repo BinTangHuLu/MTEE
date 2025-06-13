@@ -1,0 +1,3 @@
+There is a man. ||entailment
+There is a woman. ||entailment
+The man is cooperating with the woman. ||entailment

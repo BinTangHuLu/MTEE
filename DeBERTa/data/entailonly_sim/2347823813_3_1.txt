@@ -1,0 +1,4 @@
+There is a circle. ||neutral
+There are some community. ||entailment
+The community dance. ||entailment
+The circle is watching people. ||neutral

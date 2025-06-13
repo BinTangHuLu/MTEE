@@ -1,0 +1,2 @@
+There is a artery. ||entailment
+The cyclist rides down the artery. ||contradiction

@@ -1,0 +1,4 @@
+There is a shop. ||Entailment
+There are varities. ||Entailment
+There are bicycles. ||Entailment
+The shop has varities. ||Entailment

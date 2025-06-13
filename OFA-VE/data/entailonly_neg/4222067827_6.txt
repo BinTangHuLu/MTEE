@@ -1,0 +1,3 @@
+There is not a boy. ||Contradiction
+There is not a helmet. ||Contradiction
+The boy is not with helmet. ||Entailment

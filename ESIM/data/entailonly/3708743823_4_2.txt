@@ -1,0 +1,3 @@
+There is a guy. ||entailment
+The guy is outside. ||entailment
+The guy is snow. ||entailment

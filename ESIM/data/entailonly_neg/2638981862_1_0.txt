@@ -1,0 +1,7 @@
+There are not boys. ||contradiction
+There is not a floor. ||contradiction
+There is not a home. ||contradiction
+The boys are not well dressed. ||entailment
+The floor is not red carpet. ||contradiction
+The boys do not sit on the floor. ||contradiction
+The boys are not inside of the home. ||contradiction

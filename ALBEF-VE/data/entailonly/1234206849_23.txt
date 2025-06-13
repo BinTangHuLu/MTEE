@@ -1,0 +1,2 @@
+there are women ||entailment
+the women are smiling ||entailment

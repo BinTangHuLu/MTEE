@@ -1,0 +1,5 @@
+there is a man ||entailment
+there is a chair ||entailment
+the man is breaded ||contradiction
+the man sits in chair ||entailment
+the man is stroking beard ||neutral

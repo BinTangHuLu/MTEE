@@ -1,0 +1,4 @@
+There is a toddler. ||entailment
+There is a girl. ||entailment
+The toddler is little. ||neutral
+The toddler is blowing bubbles with the girl. ||entailment

@@ -1,0 +1,7 @@
+there is a man ||entailment
+there is a guitar ||entailment
+there is a banjo ||entailment
+the guitar is playing ||neutral
+the man is playing a guitar ||contradiction
+the man is playing alongside another ||neutral
+the another is on banjo ||contradiction

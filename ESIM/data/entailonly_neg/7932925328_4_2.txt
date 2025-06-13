@@ -1,0 +1,3 @@
+There is not a ballerina. ||contradiction
+There is not indoors. ||contradiction
+The ballerina is not indoors. ||contradiction

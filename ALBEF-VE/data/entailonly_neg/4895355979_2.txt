@@ -1,0 +1,6 @@
+there is not a tourist ||contradiction
+there is not a photo ||entailment
+there is not a lion statue ||contradiction
+the lion statue is not historical ||neutral
+the tourist is not taking a photo ||contradiction
+the photo is not with the lion statue ||contradiction

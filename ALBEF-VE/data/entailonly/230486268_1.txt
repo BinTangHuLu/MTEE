@@ -1,0 +1,7 @@
+there are boys ||entailment
+there is sand ||entailment
+there is a shovel ||entailment
+the boys are little ||entailment
+the shovel is yellow plastic ||neutral
+the boys are playing in sand ||entailment
+the boys are playing with a shovel ||entailment

@@ -1,0 +1,2 @@
+There is not a boy. ||Contradiction
+The boy is not lying down. ||Entailment

@@ -1,0 +1,2 @@
+R,wearing
+R,walking on

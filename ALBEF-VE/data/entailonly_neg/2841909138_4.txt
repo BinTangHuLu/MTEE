@@ -1,0 +1,4 @@
+there is not a girl ||contradiction
+there are not some feet ||entailment
+the feet are not exposed ||entailment
+the girl does not have feet ||entailment

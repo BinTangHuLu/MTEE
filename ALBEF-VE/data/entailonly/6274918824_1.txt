@@ -1,0 +1,4 @@
+there is a person ||entailment
+there is a batter ||entailment
+the batter is mixing ||entailment
+the person is mixing the batter ||entailment

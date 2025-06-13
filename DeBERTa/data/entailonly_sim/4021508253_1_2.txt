@@ -1,0 +1,14 @@
+There is a gentlewoman. ||entailment
+There is a bandanna. ||neutral
+There are bounce. ||contradiction
+There is a coat. ||entailment
+There is a caravan. ||contradiction
+There is melody. ||entailment
+The bandanna is orange. ||neutral
+The bounce are brown. ||neutral
+The coat is brown. ||entailment
+The gentlewoman is with the scarf. ||entailment
+The gentlewoman is with the boots. ||entailment
+The gentlewoman is with the jacket. ||entailment
+The gentlewoman is on the train. ||entailment
+The gentlewoman is listening to music. ||entailment

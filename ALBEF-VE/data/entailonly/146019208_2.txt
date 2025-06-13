@@ -1,0 +1,5 @@
+there are people ||entailment
+there is equipment ||entailment
+there are rocks ||entailment
+the people are with equipment ||entailment
+the people are sitting on rocks ||entailment

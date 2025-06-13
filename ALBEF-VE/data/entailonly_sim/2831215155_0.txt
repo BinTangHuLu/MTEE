@@ -1,0 +1,9 @@
+there is a body ||entailment
+there is a farmland ||entailment
+there is a abbreviate ||contradiction
+there is a auto ||entailment
+the auto is blue ||neutral
+the auto is approaching ||entailment
+the body is standing in the field ||entailment
+the body is looking through the telescope ||contradiction
+the abbreviate is at the car ||neutral

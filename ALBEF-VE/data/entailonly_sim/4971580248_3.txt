@@ -1,0 +1,3 @@
+there is a female ||entailment
+the female is dressed in ||entailment
+the female is black color ||entailment

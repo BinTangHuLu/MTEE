@@ -1,0 +1,3 @@
+there are guards ||entailment
+the guards are standing ||entailment
+the guards are watching ||entailment

@@ -1,0 +1,5 @@
+There is not a woman. ||Contradiction
+There is not a picture. ||Contradiction
+The woman is not 2. ||Entailment
+The woman is not in the picture. ||Entailment
+The woman is not working together with the woman. ||Contradiction

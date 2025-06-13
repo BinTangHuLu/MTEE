@@ -1,0 +1,5 @@
+There is not a crowd. ||Contradiction
+There is not a man. ||Contradiction
+There are not some hats. ||Contradiction
+The crowd is not watching the man. ||Neutral
+The man is not with hats. ||Contradiction

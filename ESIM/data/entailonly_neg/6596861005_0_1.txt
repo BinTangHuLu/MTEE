@@ -1,0 +1,8 @@
+There is not a woman. ||contradiction
+There is not a map. ||contradiction
+There is not a river. ||contradiction
+There are not some boats. ||contradiction
+The woman is not outdoors. ||contradiction
+The woman does not look at the map. ||contradiction
+The woman is not behind the river. ||entailment
+The river is not behind the boats. ||entailment

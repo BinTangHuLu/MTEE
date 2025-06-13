@@ -1,0 +1,3 @@
+there is not a teen ||contradiction
+there is not a skateboard ||contradiction
+the teen does not sit on the skateboard ||contradiction

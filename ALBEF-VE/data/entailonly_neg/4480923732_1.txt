@@ -1,0 +1,2 @@
+there is not a jacket ||contradiction
+the jacket is not green ||contradiction

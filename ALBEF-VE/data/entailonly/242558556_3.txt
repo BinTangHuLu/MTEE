@@ -1,0 +1,3 @@
+there is a girl ||entailment
+there is something white ||entailment
+the girl is wearing white ||entailment

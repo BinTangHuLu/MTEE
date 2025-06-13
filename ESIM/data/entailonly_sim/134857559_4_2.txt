@@ -1,0 +1,6 @@
+There is a line. ||neutral
+There is some melody. ||entailment
+There is a locale. ||entailment
+The locale is large. ||neutral
+The line is playing music. ||entailment
+The line is playing at the venue. ||entailment

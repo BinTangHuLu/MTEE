@@ -1,0 +1,4 @@
+There is a man. ||entailment
+There is a van. ||entailment
+The man is sitting. ||entailment
+The man is near van. ||entailment

@@ -1,0 +1,4 @@
+There is not a woman. ||contradiction
+There is not a newspaper. ||contradiction
+The newspaper is not "real change". ||contradiction
+The woman is not holding the newspaper. ||contradiction

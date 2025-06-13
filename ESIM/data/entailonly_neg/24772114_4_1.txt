@@ -1,0 +1,3 @@
+There is not a worker. ||contradiction
+There is not a building. ||contradiction
+The worker is not working on the building. ||contradiction

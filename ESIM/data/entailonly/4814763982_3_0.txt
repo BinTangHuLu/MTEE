@@ -1,0 +1,5 @@
+There is a man. ||entailment
+There are some things. ||entailment
+There is a baton. ||entailment
+The man is doing things. ||entailment
+The man is with a baton. ||entailment

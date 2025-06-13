@@ -1,0 +1,2 @@
+there is a camcorder ||entailment
+someone is using the camcorder ||neutral

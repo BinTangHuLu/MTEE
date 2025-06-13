@@ -1,0 +1,3 @@
+there are people ||entailment
+the vests are matching ||neutral
+the people have vests ||entailment

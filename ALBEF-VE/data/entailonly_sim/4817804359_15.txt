@@ -1,0 +1,3 @@
+there is a body ||entailment
+there is a camcorder ||entailment
+the body is near the camera ||entailment

@@ -1,0 +1,2 @@
+There are artist. ||entailment
+The artist are a group. ||entailment

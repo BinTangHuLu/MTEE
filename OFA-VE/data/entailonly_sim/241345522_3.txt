@@ -1,0 +1,5 @@
+There is a body. ||Entailment
+There is a business. ||Contradiction
+The body is playing sports. ||Entailment
+The body is playing sports. ||Entailment
+The body is playing outdoors. ||Entailment

@@ -1,0 +1,4 @@
+there is a man ||entailment
+the man is young ||entailment
+there is a picture ||entailment
+the man takes a picture ||entailment

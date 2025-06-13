@@ -1,0 +1,5 @@
+there is not a woman ||contradiction
+there is not a picture ||contradiction
+there is not a cow ||contradiction
+the woman is not with the picture ||neutral
+the picture is not of the cow ||entailment

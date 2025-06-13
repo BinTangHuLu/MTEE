@@ -1,0 +1,4 @@
+there are not flaggers ||contradiction
+there is not a site ||contradiction
+there are not two flaggers ||contradiction
+the flaggers are not at the site ||entailment

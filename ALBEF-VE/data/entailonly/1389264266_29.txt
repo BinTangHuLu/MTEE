@@ -1,0 +1,4 @@
+there are friends ||entailment
+there is a street ||entailment
+the friends are walking down the street ||neutral
+there is someone ||entailment

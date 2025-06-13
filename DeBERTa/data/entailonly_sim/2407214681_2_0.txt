@@ -1,0 +1,2 @@
+There are child. ||entailment
+The band are unclean. ||entailment

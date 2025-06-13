@@ -1,0 +1,6 @@
+There is not a dog. ||contradiction
+There is not a mouth. ||contradiction
+There is not a ball. ||contradiction
+The dog does not hold the ball. ||contradiction
+The mouth does not hold the ball. ||contradiction
+The ball is not retrieved. ||contradiction

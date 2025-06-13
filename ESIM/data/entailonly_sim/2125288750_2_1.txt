@@ -1,0 +1,4 @@
+There are community. ||neutral
+There is a banner. ||contradiction
+There is a soccer. ||contradiction
+The community are playing football. ||neutral

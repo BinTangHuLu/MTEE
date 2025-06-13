@@ -1,0 +1,2 @@
+There is a group. ||entailment
+There are some brides. ||entailment

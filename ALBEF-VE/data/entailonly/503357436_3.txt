@@ -1,0 +1,4 @@
+there is a male ||entailment
+there is a person ||entailment
+the male is african american ||neutral
+the male is with person ||entailment

@@ -1,0 +1,4 @@
+there is a body ||entailment
+there is a sword ||entailment
+the sword is light ||neutral
+the body is using saber ||contradiction

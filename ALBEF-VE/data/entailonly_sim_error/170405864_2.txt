@@ -1,0 +1,2 @@
+EA,cup,red
+A,beautiful

@@ -1,0 +1,4 @@
+There are not men. ||contradiction
+There are not two men. ||contradiction
+The men are not uniform. ||contradiction
+The men do not wrestle in uniform. ||contradiction

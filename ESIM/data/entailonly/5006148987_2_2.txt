@@ -1,0 +1,4 @@
+There is a police officer. ||entailment
+There is a mouth. ||entailment
+The police officer is moving. ||neutral
+The police officer is moving mouth. ||entailment

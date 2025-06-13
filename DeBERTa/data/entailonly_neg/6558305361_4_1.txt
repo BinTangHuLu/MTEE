@@ -1,0 +1,2 @@
+There is not a child. ||contradiction
+The child does not swing. ||contradiction

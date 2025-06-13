@@ -1,0 +1,2 @@
+There is not a singer. ||contradiction
+The singer is not wearing a pea coat. ||contradiction

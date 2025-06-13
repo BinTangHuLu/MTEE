@@ -1,0 +1,3 @@
+there is not a woman ||contradiction
+there is not some writing ||contradiction
+the woman is not doing writing ||entailment

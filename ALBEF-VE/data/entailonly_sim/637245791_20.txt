@@ -1,0 +1,3 @@
+there is a child ||entailment
+there is a basement ||neutral
+the child is sitting on the floor ||contradiction

@@ -1,0 +1,6 @@
+There is not a man. ||contradiction
+There is not a bench. ||contradiction
+There is not a store. ||contradiction
+The man is not reading. ||contradiction
+The man is not reading on the bench. ||contradiction
+The bench is not outside of the store. ||contradiction

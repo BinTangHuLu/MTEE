@@ -1,0 +1,3 @@
+there are gymnasts ||entailment
+there is a competition ||entailment
+the gymnasts are at the competition ||entailment

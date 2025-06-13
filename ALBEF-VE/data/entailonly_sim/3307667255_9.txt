@@ -1,0 +1,5 @@
+there is a circle ||neutral
+there is a arena ||neutral
+there is a architecture ||entailment
+the architecture is religious ||entailment
+the arena is in front of the building ||neutral

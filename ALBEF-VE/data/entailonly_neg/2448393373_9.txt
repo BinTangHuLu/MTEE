@@ -1,0 +1,6 @@
+there is not a kid ||contradiction
+there is not a bat ||contradiction
+there is not a ball ||contradiction
+the kid is not playing ||contradiction
+the kid is not playing with the bat ||contradiction
+the kid is not playing with the ball ||entailment

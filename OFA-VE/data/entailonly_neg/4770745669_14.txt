@@ -1,0 +1,3 @@
+There is not a man. ||Entailment
+There is not a doorway. ||Entailment
+The man does not wait in the doorway. ||Entailment

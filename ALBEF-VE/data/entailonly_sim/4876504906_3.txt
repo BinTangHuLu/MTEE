@@ -1,0 +1,3 @@
+there is a body ||entailment
+there is a apparel ||entailment
+the body wears the costume ||entailment

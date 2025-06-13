@@ -1,0 +1,2 @@
+A,black fur
+R,is not wearing

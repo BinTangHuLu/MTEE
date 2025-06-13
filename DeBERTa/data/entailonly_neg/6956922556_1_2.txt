@@ -1,0 +1,4 @@
+There are not girls. ||contradiction
+There are not two girls. ||contradiction
+The girls are not doing pose. ||contradiction
+The pose is not same. ||neutral

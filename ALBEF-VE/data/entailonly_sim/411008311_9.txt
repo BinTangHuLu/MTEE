@@ -1,0 +1,6 @@
+there are community ||entailment
+there is a marriage ||entailment
+there is a dude ||entailment
+the dude is jumping ||entailment
+community are participating in the wedding ||entailment
+the community are photobombed by the man ||entailment

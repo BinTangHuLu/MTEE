@@ -1,0 +1,5 @@
+there are not people ||contradiction
+there is not a man ||contradiction
+there are not drums ||entailment
+the people do not dance by the man ||contradiction
+the man is not playing drums ||entailment

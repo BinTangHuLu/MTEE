@@ -1,0 +1,6 @@
+there is a woman ||entailment
+there are children ||entailment
+there is a fountain ||entailment
+the woman looks away from the children ||contradiction
+the children played in the fountain ||entailment
+the fountain is nearby ||neutral

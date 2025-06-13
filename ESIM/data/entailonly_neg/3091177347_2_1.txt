@@ -1,0 +1,3 @@
+There are not people. ||contradiction
+There are not photographers. ||contradiction
+The people are not photographers. ||contradiction

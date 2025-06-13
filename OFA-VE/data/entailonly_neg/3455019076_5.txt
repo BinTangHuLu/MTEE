@@ -1,0 +1,4 @@
+There is not a woman. ||Contradiction
+There is not some hair. ||Entailment
+The hair is not long. ||Entailment
+The woman does not have long hair. ||Contradiction

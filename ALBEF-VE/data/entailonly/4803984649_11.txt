@@ -1,0 +1,5 @@
+there is a man ||entailment
+there is a face ||entailment
+there is a camera ||entailment
+the man is black ||entailment
+the man is trying to cover the face ||entailment

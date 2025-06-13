@@ -1,0 +1,4 @@
+there is a dude ||entailment
+there is a loaf ||entailment
+the loaf is birthday ||neutral
+the dude is cutting cake ||entailment

@@ -1,0 +1,4 @@
+There are dude. ||Entailment
+There is a account. ||Entailment
+The dude are in the picture. ||Entailment
+The dude are outside men. ||Entailment

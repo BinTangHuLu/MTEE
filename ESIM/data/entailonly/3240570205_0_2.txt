@@ -1,0 +1,5 @@
+There is an adult. ||entailment
+There is a camera. ||entailment
+The adult is using. ||entailment
+The camera is video. ||entailment
+The adult is using camera. ||entailment

@@ -1,0 +1,5 @@
+there is not a woman ||contradiction
+there is not a bike ||contradiction
+there is not a trail ||contradiction
+the woman does not ride the bike ||contradiction
+the bike is not on the trail ||entailment

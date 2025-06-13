@@ -1,0 +1,2 @@
+There is a luau. ||Entailment
+The luau is going on. ||Entailment

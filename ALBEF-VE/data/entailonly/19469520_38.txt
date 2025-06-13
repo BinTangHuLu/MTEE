@@ -1,0 +1,4 @@
+there are cyclists ||entailment
+there is a group ||entailment
+the cyclists are racing ||neutral
+the cyclists are racing in a group ||neutral

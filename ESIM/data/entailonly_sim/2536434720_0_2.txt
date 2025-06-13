@@ -1,0 +1,5 @@
+There is a driver. ||entailment
+There is a colt. ||entailment
+The driver is covered in gear. ||entailment
+The colt is covered in gear. ||entailment
+The driver is covered in gear are covered in horse. ||entailment

@@ -1,0 +1,4 @@
+there is a child ||entailment
+there are some sand ||neutral
+the child is little ||entailment
+the child is balancing on rocks ||entailment

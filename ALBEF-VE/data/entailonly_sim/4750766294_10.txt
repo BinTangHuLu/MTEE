@@ -1,0 +1,3 @@
+there is a baby ||entailment
+there is a baby ||entailment
+the baby is reading to the child ||contradiction

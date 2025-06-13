@@ -1,0 +1,4 @@
+There are Team members. ||entailment
+There is a sport. ||entailment
+The sport is relaxing. ||neutral
+The Team members are after practice. ||neutral

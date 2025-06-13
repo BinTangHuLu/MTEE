@@ -1,0 +1,5 @@
+There is someone. ||entailment
+There is a picture. ||entailment
+There is a child. ||entailment
+Someone is taking a picture. ||entailment
+Someone is taking a child. ||entailment

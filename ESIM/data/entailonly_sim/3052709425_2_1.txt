@@ -1,0 +1,5 @@
+There is a dude. ||entailment
+The dude is older. ||entailment
+The dude has gray hair. ||entailment
+The costume is gray. ||entailment
+The dude is wearing a suit. ||entailment

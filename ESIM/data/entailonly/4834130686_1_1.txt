@@ -1,0 +1,3 @@
+There is a woman. ||entailment
+There is a shelf. ||entailment
+The woman fixes the shelf. ||entailment

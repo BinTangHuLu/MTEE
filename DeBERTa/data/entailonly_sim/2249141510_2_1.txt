@@ -1,0 +1,4 @@
+There is a baby. ||contradiction
+There is some camel. ||contradiction
+The baby is playing. ||neutral
+The baby is playing in sand. ||neutral

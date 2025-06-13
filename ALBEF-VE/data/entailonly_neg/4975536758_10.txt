@@ -1,0 +1,6 @@
+there is not a child ||contradiction
+there is not a bike ||contradiction
+there is not a road ||contradiction
+the road is not unpaved ||entailment
+the child is not standing near the bike ||contradiction
+the bike is not on the road ||entailment

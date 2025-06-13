@@ -1,0 +1,3 @@
+There is a animal. ||entailment
+There are flora. ||entailment
+The animal is looking at plants. ||entailment

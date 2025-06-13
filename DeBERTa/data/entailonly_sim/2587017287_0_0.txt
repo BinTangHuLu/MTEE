@@ -1,0 +1,5 @@
+There is a beagle. ||contradiction
+There is a basin. ||entailment
+The beagle is wet. ||contradiction
+The beagle is golden. ||contradiction
+The beagle is in the lake. ||contradiction

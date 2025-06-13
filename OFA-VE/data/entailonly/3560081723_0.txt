@@ -1,0 +1,6 @@
+There is a man. ||Entailment
+There are some things. ||Entailment
+There is an All-Terrain Vehicle. ||Entailment
+The things are risky. ||Entailment
+The man does things. ||Entailment
+The man does things while riding an All-Terrain Vehicle. ||Entailment

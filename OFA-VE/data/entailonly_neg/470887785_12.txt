@@ -1,0 +1,5 @@
+There is not a woman. ||Entailment
+There are not some sounds. ||Contradiction
+There is not a mouth. ||Contradiction
+The woman does not have sounds. ||Contradiction
+The sounds are not emanating from the mouth. ||Contradiction

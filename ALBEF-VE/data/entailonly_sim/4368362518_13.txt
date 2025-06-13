@@ -1,0 +1,3 @@
+there is a dude ||entailment
+there is a adoration ||entailment
+the dude leads worship ||entailment

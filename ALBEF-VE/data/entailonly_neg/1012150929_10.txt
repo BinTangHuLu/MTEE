@@ -1,0 +1,5 @@
+there is not a boy ||contradiction
+there is not a building ||contradiction
+there is not a game ||contradiction
+the boy is not sitting in the building ||entailment
+the boy is not playing the game ||contradiction

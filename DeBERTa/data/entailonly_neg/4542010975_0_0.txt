@@ -1,0 +1,5 @@
+There is not a man. ||contradiction
+There is not a bag. ||contradiction
+The man is not carrying. ||contradiction
+The bag is not on his back. ||contradiction
+The man is not carrying the bag. ||contradiction

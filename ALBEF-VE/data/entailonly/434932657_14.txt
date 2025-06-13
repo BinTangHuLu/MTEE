@@ -1,0 +1,3 @@
+there is a cowboy ||entailment
+there is a rodeo ||entailment
+the cowboy is competing in rodeo ||neutral

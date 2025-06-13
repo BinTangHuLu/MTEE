@@ -1,0 +1,6 @@
+There is a man. ||entailment
+There is a line. ||entailment
+There are vehicles. ||entailment
+The man is military. ||entailment
+The line is military. ||entailment
+The man is walking away from vehicles. ||entailment

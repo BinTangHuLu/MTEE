@@ -1,0 +1,4 @@
+There are community. ||entailment
+There is a coast. ||entailment
+The community are standing. ||entailment
+The community are being filmed by cameras. ||entailment

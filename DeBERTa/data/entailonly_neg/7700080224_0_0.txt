@@ -1,0 +1,5 @@
+There is not a volleyball match. ||contradiction
+There is not progress. ||contradiction
+There are not ladies. ||contradiction
+The volleyball match is not in progress. ||contradiction
+The progress is not between ladies. ||contradiction

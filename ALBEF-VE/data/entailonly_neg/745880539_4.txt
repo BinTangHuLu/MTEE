@@ -1,0 +1,5 @@
+there is not a dog ||contradiction
+there is not a tube ||contradiction
+the dog is not white ||contradiction
+the tube is not yellow ||contradiction
+the dog is not walking through tube ||contradiction

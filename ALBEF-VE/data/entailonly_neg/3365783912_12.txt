@@ -1,0 +1,4 @@
+there are not men ||contradiction
+there is not a street ||contradiction
+the men are not older ||entailment
+the men do not walk down the street ||contradiction

@@ -1,0 +1,4 @@
+there is a man ||entailment
+there is a door ||entailment
+the door is open ||neutral
+the man relaxes near the door ||entailment

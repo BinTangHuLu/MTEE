@@ -1,0 +1,4 @@
+there is a man ||entailment
+there is a rifle ||entailment
+the rifle is his ||neutral
+the man is aiming the rifle ||neutral

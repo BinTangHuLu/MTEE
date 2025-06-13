@@ -1,0 +1,6 @@
+there are channel ||entailment
+there is a estate ||entailment
+there are clan ||entailment
+the channel are bright blue ||neutral
+the channel are in the park ||entailment
+the clan are playing in the park ||neutral

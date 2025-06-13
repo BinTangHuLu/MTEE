@@ -1,0 +1,2 @@
+There is a child. ||entailment
+The child has a reflection. ||entailment

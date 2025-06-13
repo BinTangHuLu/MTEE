@@ -1,0 +1,2 @@
+There is not a pitcher. ||contradiction
+The pitcher is not playing baseball. ||contradiction

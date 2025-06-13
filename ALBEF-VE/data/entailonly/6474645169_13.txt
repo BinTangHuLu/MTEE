@@ -1,0 +1,3 @@
+there are men ||entailment
+there is sand ||entailment
+the men play with sand ||entailment

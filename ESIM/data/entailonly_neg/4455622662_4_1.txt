@@ -1,0 +1,3 @@
+There are not lights. ||contradiction
+There is not a town. ||contradiction
+The lights are not in town. ||contradiction

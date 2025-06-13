@@ -1,0 +1,4 @@
+EA,woman,in front of
+R,holding
+A,creamy chocolate
+RE2,standing behind,man

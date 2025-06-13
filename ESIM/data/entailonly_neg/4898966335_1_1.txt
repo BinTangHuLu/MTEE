@@ -1,0 +1,5 @@
+There is not a girl. ||contradiction
+The girl is not far away. ||contradiction
+The girl is not looking. ||contradiction
+There is not a sky. ||contradiction
+The girl is not looking at the sky. ||contradiction

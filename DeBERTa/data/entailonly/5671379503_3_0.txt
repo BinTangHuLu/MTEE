@@ -1,0 +1,2 @@
+There are workers. ||entailment
+The workers are brave. ||neutral

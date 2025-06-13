@@ -1,0 +1,3 @@
+there is a female ||entailment
+the female is giving a presentation ||entailment
+the female is giving a presentation ||entailment

@@ -1,0 +1,5 @@
+there is not a dog ||contradiction
+there are not some steps ||contradiction
+the dog is not black and white ||contradiction
+the steps are not white ||entailment
+the dog is not running down steps ||entailment

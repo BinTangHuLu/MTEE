@@ -1,0 +1,4 @@
+There are Team meeting. ||entailment
+There is a athletics. ||entailment
+The athletics is relaxing. ||entailment
+The Team meeting are after practice. ||contradiction

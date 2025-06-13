@@ -1,0 +1,4 @@
+There is a person. ||entailment
+There are waves. ||entailment
+The waves are artificial. ||entailment
+The person is surfing on waves. ||neutral

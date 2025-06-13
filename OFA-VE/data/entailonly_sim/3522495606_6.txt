@@ -1,0 +1,4 @@
+There is a area. ||Entailment
+There are some community. ||Entailment
+The community are old. ||Entailment
+The community stand around table. ||Entailment

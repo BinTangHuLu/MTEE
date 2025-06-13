@@ -1,0 +1,5 @@
+there is a body ||entailment
+there is a gentlewoman ||contradiction
+the body is taller ||entailment
+the body walks around the lady ||entailment
+the gentlewoman is holding things ||entailment

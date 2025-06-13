@@ -1,0 +1,5 @@
+There is a workman. ||entailment
+There is a roof. ||entailment
+There is a house. ||entailment
+The workman is helping put the roof. ||entailment
+The workman is helping put the house. ||entailment

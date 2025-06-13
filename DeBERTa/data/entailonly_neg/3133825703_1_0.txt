@@ -1,0 +1,5 @@
+There is not a boy. ||contradiction
+There is not a father. ||contradiction
+There is not Santa Claus. ||contradiction
+The boy does not speak to Santa Claus. ||contradiction
+The father does not speak to Santa Claus. ||contradiction

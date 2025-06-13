@@ -1,0 +1,4 @@
+there are boys ||entailment
+there is water ||entailment
+the boys are young ||entailment
+the boys are near water ||entailment

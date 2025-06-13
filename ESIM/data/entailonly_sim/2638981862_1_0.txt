@@ -1,0 +1,7 @@
+There are child. ||entailment
+There is a basement. ||entailment
+There is a apartment. ||neutral
+The child are well dressed. ||entailment
+The basement is red carpet. ||entailment
+The child sit on the floor. ||entailment
+The child are inside of the home. ||entailment

@@ -1,0 +1,4 @@
+there is a woman ||entailment
+there are some feet ||entailment
+the woman is soaking ||entailment
+the woman is soaking feet ||entailment

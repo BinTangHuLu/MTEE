@@ -1,0 +1,5 @@
+There is a chef. ||entailment
+There is a fish. ||entailment
+There is a knife. ||entailment
+The chef is dicing fish. ||entailment
+The chef is with knife. ||entailment

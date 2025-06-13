@@ -1,0 +1,3 @@
+There is a baby. ||entailment
+There is a ambition. ||entailment
+The baby blocks the goal. ||entailment

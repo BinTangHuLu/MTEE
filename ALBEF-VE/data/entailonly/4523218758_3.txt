@@ -1,0 +1,3 @@
+there is a group ||entailment
+there are women ||entailment
+the group is of women ||neutral

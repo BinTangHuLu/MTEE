@@ -1,0 +1,2 @@
+there are artist ||entailment
+the artist have gathered together ||entailment

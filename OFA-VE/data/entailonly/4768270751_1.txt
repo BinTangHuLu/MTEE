@@ -1,0 +1,3 @@
+There is a woman. ||Entailment
+There is ground. ||Entailment
+The woman paints on ground. ||Entailment

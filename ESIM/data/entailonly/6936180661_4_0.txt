@@ -1,0 +1,2 @@
+There are People. ||entailment
+People are trying to warm up. ||entailment

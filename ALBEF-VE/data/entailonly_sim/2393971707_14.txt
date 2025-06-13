@@ -1,0 +1,4 @@
+there are community ||entailment
+the community are in red ||contradiction
+the community are pink ||contradiction
+the community are walking up steps ||entailment

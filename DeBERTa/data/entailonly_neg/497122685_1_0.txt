@@ -1,0 +1,6 @@
+There is not a child. ||contradiction
+There is not a body. ||contradiction
+There is not water. ||contradiction
+The child is not moving swiftly. ||entailment
+The child is not moving toward the body. ||contradiction
+The body is not of water. ||entailment

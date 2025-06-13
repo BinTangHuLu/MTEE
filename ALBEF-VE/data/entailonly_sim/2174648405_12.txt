@@ -1,0 +1,3 @@
+there are female ||entailment
+the female are working ||entailment
+the female are working together ||entailment

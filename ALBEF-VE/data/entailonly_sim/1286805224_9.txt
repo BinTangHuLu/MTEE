@@ -1,0 +1,3 @@
+there is a attempt ||entailment
+somebody is in the attempt ||entailment
+somebody is smiling in the attempt ||entailment

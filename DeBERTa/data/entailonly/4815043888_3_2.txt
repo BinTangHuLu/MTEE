@@ -1,0 +1,5 @@
+There are People. ||entailment
+There is food. ||entailment
+There is a vendor. ||entailment
+People are buying food. ||entailment
+People are buying from the vendor. ||entailment

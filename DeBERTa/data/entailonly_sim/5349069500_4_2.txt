@@ -1,0 +1,4 @@
+There is a box weaver. ||contradiction
+There is a collection. ||neutral
+The box weaver is teaching the class. ||neutral
+The collection is at the fair. ||neutral

@@ -1,0 +1,5 @@
+There is a man. ||entailment
+There is a cliff. ||entailment
+There is a city. ||entailment
+The man jumps off the cliff. ||entailment
+The cliff is near the city. ||entailment

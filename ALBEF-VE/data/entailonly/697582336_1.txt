@@ -1,0 +1,4 @@
+there is a raven ||contradiction
+there is some grass ||entailment
+the raven is droned as ||contradiction
+the raven is hopped along grass ||contradiction

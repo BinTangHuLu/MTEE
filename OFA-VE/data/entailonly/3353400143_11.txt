@@ -1,0 +1,4 @@
+There is a motorcyclist. ||Entailment
+There is a motorcycle. ||Entailment
+The motorcycle is his/her. ||Contradiction
+The motorcyclist is riding the motorcycle. ||Entailment

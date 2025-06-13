@@ -1,0 +1,5 @@
+A,strolling
+A,teenage
+R,on
+A,same time
+R,through

@@ -1,0 +1,6 @@
+there is a person ||entailment
+there is a gamecube kiosk ||entailment
+there is a mcdonalds ||entailment
+the person is young ||entailment
+the person plays with gamecube kiosk ||entailment
+the person plays at mcdonalds ||entailment

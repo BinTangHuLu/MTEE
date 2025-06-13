@@ -1,0 +1,4 @@
+there is a boy ||entailment
+there is a girl ||entailment
+there are bikes ||entailment
+the boy and girl are riding bikes ||entailment

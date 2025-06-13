@@ -1,0 +1,4 @@
+There is a woman. ||Entailment
+There is a podium. ||Entailment
+The woman is speaking. ||Entailment
+The woman is speaking at podium. ||Entailment

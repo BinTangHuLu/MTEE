@@ -1,0 +1,3 @@
+there is a band ||entailment
+there is a park ||entailment
+the band is performing in the park ||entailment

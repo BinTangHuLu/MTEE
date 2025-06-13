@@ -1,0 +1,3 @@
+There is a pitcher. ||entailment
+The pitcher is playing baseball. ||entailment
+There is a stadium. ||entailment

@@ -1,0 +1,4 @@
+there is a dude ||entailment
+there is a ceiling ||entailment
+the dude is working ||entailment
+the dude is working on the roof ||entailment

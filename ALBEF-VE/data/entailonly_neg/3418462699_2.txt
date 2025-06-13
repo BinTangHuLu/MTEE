@@ -1,0 +1,5 @@
+there is not a man ||contradiction
+there is not a sweater ||contradiction
+the sweater is not red ||contradiction
+the man is not with the sweater ||contradiction
+the man is not outdoors ||contradiction

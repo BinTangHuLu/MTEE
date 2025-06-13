@@ -1,0 +1,5 @@
+there is a woman ||entailment
+there is a watch ||entailment
+the woman is blond ||entailment
+the watch is large ||neutral
+the woman has a watch ||neutral

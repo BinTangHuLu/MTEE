@@ -1,0 +1,4 @@
+There is not a man. ||Contradiction
+There is not a stick. ||Contradiction
+The stick is not big. ||Entailment
+The man does not have a stick. ||Contradiction

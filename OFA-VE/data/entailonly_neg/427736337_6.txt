@@ -1,0 +1,3 @@
+There are not people. ||Contradiction
+There is not inside. ||Entailment
+The people are not talking inside. ||Entailment

@@ -1,0 +1,6 @@
+there is not a man ||contradiction
+there is not a vest ||contradiction
+there is not a bull ||contradiction
+the vest is not in ||neutral
+the man does not ride the bull ||contradiction
+the bull is in front of anothernot ||contradiction

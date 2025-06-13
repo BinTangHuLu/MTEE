@@ -1,0 +1,5 @@
+There is a association. ||Entailment
+There are artist. ||Entailment
+There are artist. ||Entailment
+The artist practice. ||Entailment
+The artist practice. ||Entailment

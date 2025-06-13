@@ -1,0 +1,3 @@
+there is a body ||entailment
+there is a athletics ||entailment
+the body is performing sport ||entailment

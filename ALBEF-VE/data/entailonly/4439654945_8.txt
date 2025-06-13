@@ -1,0 +1,4 @@
+there are children ||entailment
+there is a custom ||entailment
+the custom is local ||neutral
+the children are learning a custom ||entailment

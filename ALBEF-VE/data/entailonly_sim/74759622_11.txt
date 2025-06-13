@@ -1,0 +1,3 @@
+there is a dude ||entailment
+there is a lavatory ||entailment
+the dude is in the bathroom ||entailment

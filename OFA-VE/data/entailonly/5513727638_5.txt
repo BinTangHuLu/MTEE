@@ -1,0 +1,5 @@
+There is a biker. ||Entailment
+There is an apex. ||Entailment
+There is a ramp. ||Entailment
+The biker reaches the apex. ||Neutral
+The apex is of the ramp. ||Entailment

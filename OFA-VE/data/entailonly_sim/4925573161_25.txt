@@ -1,0 +1,5 @@
+There is a body. ||Contradiction
+There is a pedal. ||Entailment
+There is a architecture. ||Entailment
+The body rides the bike. ||Entailment
+The pedal is near the building. ||Entailment

@@ -1,0 +1,4 @@
+There is not a man. ||contradiction
+There is not a hat. ||contradiction
+The hat is not cowboy. ||contradiction
+The man is not wearing hat. ||contradiction

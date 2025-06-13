@@ -1,0 +1,2 @@
+there is a totter ||entailment
+the totter is sitting on tractor ||entailment

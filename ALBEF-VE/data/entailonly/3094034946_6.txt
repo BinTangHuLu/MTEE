@@ -1,0 +1,3 @@
+there is a player ||entailment
+there is a ball ||entailment
+the player gets ready to kick the ball ||entailment

@@ -1,0 +1,4 @@
+There is a architecture. ||entailment
+The architecture is brick. ||entailment
+The doors are bottle. ||entailment
+The architecture had doors. ||entailment

@@ -1,0 +1,2 @@
+There are community. ||entailment
+The community have been in armed forces. ||entailment

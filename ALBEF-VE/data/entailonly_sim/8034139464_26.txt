@@ -1,0 +1,3 @@
+there is an accident ||entailment
+there is a business ||entailment
+the accident is outside ||entailment

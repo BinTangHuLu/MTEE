@@ -1,0 +1,7 @@
+there is a dude ||entailment
+there is a blouse ||entailment
+there is a basin ||entailment
+the blouse is wearing ||entailment
+the basin is smoking ||contradiction
+the dude is wearing a shirt ||entailment
+the dude is smoking a pot ||contradiction

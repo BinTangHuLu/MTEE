@@ -1,0 +1,5 @@
+There is a man. ||Entailment
+There are some pieces. ||Entailment
+There is some art. ||Entailment
+The man is looking at pieces. ||Entailment
+The pieces are of art. ||Entailment

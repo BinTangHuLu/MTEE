@@ -1,0 +1,6 @@
+there is not a man ||contradiction
+there is not a baby ||contradiction
+there is not some luggage ||contradiction
+the baby does not play ||entailment
+the baby does not play with luggage ||contradiction
+the man is not monitoring the baby ||contradiction

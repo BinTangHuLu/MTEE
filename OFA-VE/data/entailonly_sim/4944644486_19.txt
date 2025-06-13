@@ -1,0 +1,3 @@
+There are community. ||Entailment
+There is a harbor. ||Contradiction
+The community are headed to the destination. ||Entailment

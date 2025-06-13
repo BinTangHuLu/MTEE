@@ -1,0 +1,5 @@
+there is deleon ||contradiction
+there is mic ||entailment
+there is charities ||entailment
+deleon is speaking into mic ||entailment
+deleon is speaking about charities ||neutral

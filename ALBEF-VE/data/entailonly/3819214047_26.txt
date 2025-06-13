@@ -1,0 +1,4 @@
+there is a guy ||entailment
+there is a hat ||entailment
+there is a skateboard ||entailment
+the guy has a skateboard ||entailment

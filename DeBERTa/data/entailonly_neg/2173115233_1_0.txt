@@ -1,0 +1,3 @@
+There are not individuals. ||contradiction
+There is not a building. ||contradiction
+The individuals are not near the building. ||contradiction

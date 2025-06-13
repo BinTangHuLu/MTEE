@@ -1,0 +1,2 @@
+there is a constable ||entailment
+the constable is standing ||entailment

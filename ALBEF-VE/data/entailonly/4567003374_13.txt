@@ -1,0 +1,4 @@
+there is a musician ||entailment
+there is an audience ||entailment
+the musician is playing ||entailment
+the musician is playing for the audience ||entailment

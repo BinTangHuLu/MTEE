@@ -1,0 +1,4 @@
+there is not a man ||contradiction
+there are not pumps ||contradiction
+there is not a gas station ||contradiction
+the man is not in gas station ||contradiction

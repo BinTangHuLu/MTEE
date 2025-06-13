@@ -1,0 +1,4 @@
+there are not ladies ||contradiction
+there is not an instrument ||contradiction
+the ladies are not young ||entailment
+the ladies are not playing the instrument ||contradiction

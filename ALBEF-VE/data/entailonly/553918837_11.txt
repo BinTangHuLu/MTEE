@@ -1,0 +1,3 @@
+there is a girl ||entailment
+the girl is little ||entailment
+the girl is laughing ||neutral

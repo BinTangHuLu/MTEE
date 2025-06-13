@@ -1,0 +1,2 @@
+There are not men. ||Entailment
+The men are not standing outside. ||Entailment

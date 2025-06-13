@@ -1,0 +1,3 @@
+There is a body. ||entailment
+There is a rickshaw. ||neutral
+The body is pushing the cart. ||entailment

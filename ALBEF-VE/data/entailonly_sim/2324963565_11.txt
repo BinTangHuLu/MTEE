@@ -1,0 +1,3 @@
+there are sweet bars ||entailment
+there is a counter ||entailment
+the sweet bars are on the shelf ||entailment

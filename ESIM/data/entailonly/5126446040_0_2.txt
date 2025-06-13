@@ -1,0 +1,5 @@
+There are people. ||entailment
+There is a house. ||entailment
+There are three people. ||entailment
+The people are standing inside the house. ||entailment
+The people are near each other. ||entailment

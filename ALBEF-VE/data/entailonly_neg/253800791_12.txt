@@ -1,0 +1,7 @@
+there are not guys ||contradiction
+there are not techniques ||contradiction
+there is not a game ||contradiction
+there is not a park ||contradiction
+the guys are not watching techniques ||contradiction
+the techniques are not for playing game ||contradiction
+the game is not at park ||contradiction

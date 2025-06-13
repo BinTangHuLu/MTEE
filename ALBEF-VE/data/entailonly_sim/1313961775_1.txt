@@ -1,0 +1,4 @@
+there is a child ||entailment
+there is a bestow ||neutral
+the child is floating ||entailment
+the child is wearing a vest ||entailment

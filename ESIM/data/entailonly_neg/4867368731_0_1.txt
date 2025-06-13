@@ -1,0 +1,2 @@
+There are not people. ||contradiction
+There are not at least 3 people. ||contradiction

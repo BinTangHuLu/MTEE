@@ -1,0 +1,5 @@
+There is not a game. ||Contradiction
+There are not children. ||Contradiction
+There is not a vehicle. ||Contradiction
+The game is not being played by children. ||Contradiction
+The children are not near the vehicle. ||Entailment

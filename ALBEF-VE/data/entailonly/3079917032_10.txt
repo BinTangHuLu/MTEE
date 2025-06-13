@@ -1,0 +1,6 @@
+there is a woman ||entailment
+there is a sweater ||entailment
+there is a girl ||entailment
+the sweater is red ||entailment
+the woman is in the sweater ||entailment
+the girl is in front of the girl ||entailment

@@ -1,0 +1,3 @@
+there is a dove ||entailment
+there is a tree ||entailment
+the dove is in the tree ||entailment

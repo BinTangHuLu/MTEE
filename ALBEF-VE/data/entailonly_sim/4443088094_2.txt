@@ -1,0 +1,4 @@
+there are community ||entailment
+there is a avenue ||entailment
+the community walk on the street ||entailment
+the community are with bikes ||entailment

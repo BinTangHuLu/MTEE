@@ -1,0 +1,6 @@
+There is a association. ||Entailment
+There are some community. ||Entailment
+There is an boundary. ||Entailment
+There is a berm. ||Contradiction
+The association is near the ledge. ||Entailment
+The community are near the ledge. ||Entailment

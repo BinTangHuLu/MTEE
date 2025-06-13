@@ -1,0 +1,3 @@
+there is a circle ||entailment
+there are marathon competition ||entailment
+the circle watches marathon runners ||entailment

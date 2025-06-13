@@ -1,0 +1,4 @@
+There are police officers. ||entailment
+The police officers are wearing yellow reflective jackets. ||entailment
+The police officers are standing. ||entailment
+The police officers are in a shopping zone. ||entailment

@@ -1,0 +1,6 @@
+there is a man ||entailment
+there is a guitar ||entailment
+there is a function ||entailment
+the man is bearded ||entailment
+the man plucks guitar ||entailment
+the guitar is in function ||entailment

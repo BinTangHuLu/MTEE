@@ -1,0 +1,3 @@
+there are community ||entailment
+community are in shirts ||entailment
+community are having a confrontation ||entailment

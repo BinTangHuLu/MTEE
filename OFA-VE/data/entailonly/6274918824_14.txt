@@ -1,0 +1,3 @@
+There is a person. ||Entailment
+There are some crepes. ||Neutral
+The person is making crepes. ||Neutral

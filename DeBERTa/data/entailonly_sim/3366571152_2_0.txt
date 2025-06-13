@@ -1,0 +1,4 @@
+There is a bar. ||neutral
+The bar is open. ||neutral
+The bar is night. ||entailment
+The bar is open at night. ||neutral

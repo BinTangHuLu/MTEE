@@ -1,0 +1,3 @@
+there is a man ||entailment
+there are decorations ||entailment
+the man has decorations ||entailment

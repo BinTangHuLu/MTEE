@@ -1,0 +1,5 @@
+there is a man ||entailment
+there are spectators ||entailment
+there is a street ||entailment
+the man is being watched by spectators ||entailment
+the spectators are in the street ||entailment

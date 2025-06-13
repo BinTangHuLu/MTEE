@@ -1,0 +1,4 @@
+There are not people. ||Contradiction
+There is not a tire. ||Entailment
+There is not a bicycle. ||Contradiction
+The people are not looking at the tire. ||Entailment

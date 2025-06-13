@@ -1,0 +1,5 @@
+there is not water ||contradiction
+there is not a city ||contradiction
+there are not sightseers ||contradiction
+the water is not between the city ||contradiction
+the water is not between the sightseers ||contradiction

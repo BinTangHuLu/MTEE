@@ -1,0 +1,8 @@
+there is a dude ||entailment
+there is a female ||entailment
+there are some backyard chairs ||entailment
+there are some bill ||neutral
+the dude is in lawn chairs ||entailment
+the female is in lawn chairs ||entailment
+the dude is reading books ||contradiction
+the female is reading books ||contradiction

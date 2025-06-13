@@ -1,0 +1,4 @@
+There is a female. ||Entailment
+There is a apparel. ||Entailment
+The apparel is blue. ||Entailment
+The female poses in the dress. ||Entailment

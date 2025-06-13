@@ -1,0 +1,3 @@
+there are dogs ||entailment
+the collars are red ||entailment
+the dogs have collars ||entailment

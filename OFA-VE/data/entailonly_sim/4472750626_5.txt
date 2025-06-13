@@ -1,0 +1,4 @@
+There is a body. ||Entailment
+There is a artery. ||Entailment
+The eyebrow is light colored. ||Neutral
+The body is walking on road. ||Neutral

@@ -1,0 +1,3 @@
+There is not an animal. ||contradiction
+The animal is not running. ||contradiction
+The animal is not outside. ||contradiction

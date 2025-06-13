@@ -1,0 +1,3 @@
+there are not kids ||contradiction
+the kids are not young ||entailment
+the kids do not run together ||contradiction

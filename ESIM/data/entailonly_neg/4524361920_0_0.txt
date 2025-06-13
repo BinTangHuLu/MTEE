@@ -1,0 +1,13 @@
+There is not a lady. ||contradiction
+There is not a coat. ||contradiction
+There are not some boots. ||contradiction
+There is not a camera. ||contradiction
+There is not a bag. ||contradiction
+The coat is not leather. ||contradiction
+The boots are not black leather. ||contradiction
+The bag is not strapped. ||entailment
+The bag is not on shoulders. ||entailment
+The lady does not walk away from the camera. ||contradiction
+The lady is not in the coat. ||contradiction
+The coat is not with the boots. ||entailment
+The lady is not with the bag. ||contradiction

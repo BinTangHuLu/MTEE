@@ -1,0 +1,5 @@
+There is a blender. ||entailment
+There is a set. ||entailment
+The blender is new. ||entailment
+The set is new. ||entailment
+The blender is necessary for the couple. ||entailment

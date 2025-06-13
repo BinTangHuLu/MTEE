@@ -1,0 +1,3 @@
+there is a woman ||entailment
+there are mountains ||entailment
+the woman paints mountains ||entailment

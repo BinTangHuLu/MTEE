@@ -1,0 +1,8 @@
+There is a person. ||Entailment
+There is a photo. ||Entailment
+There is a thing. ||Entailment
+There is a stand. ||Entailment
+There is a cart. ||Entailment
+The person is in the photo. ||Entailment
+The thing is for sale at the stand. ||Entailment
+The thing is for sale at the cart. ||Entailment

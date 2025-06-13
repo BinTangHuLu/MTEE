@@ -1,0 +1,4 @@
+there are people ||entailment
+there is a woman ||entailment
+the woman is painting ||entailment
+people walk past the woman ||entailment

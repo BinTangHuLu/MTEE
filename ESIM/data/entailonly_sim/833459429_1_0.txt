@@ -1,0 +1,5 @@
+There is a female. ||entailment
+There is a apparel. ||entailment
+There is some bread. ||neutral
+The female is wearing a dress. ||entailment
+The female cooks food. ||entailment

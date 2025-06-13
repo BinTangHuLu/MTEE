@@ -1,0 +1,3 @@
+There is a child. ||entailment
+There is a drink. ||entailment
+The child has a beverage. ||entailment

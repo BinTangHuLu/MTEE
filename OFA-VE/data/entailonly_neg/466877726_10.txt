@@ -1,0 +1,3 @@
+There is not a man. ||Entailment
+There is not work. ||Entailment
+The man is not doing work. ||Entailment

@@ -1,0 +1,5 @@
+there is a pup ||entailment
+there is a doll ||neutral
+the pup is white ||entailment
+the doll is green ||contradiction
+the pup is catching the toy ||entailment

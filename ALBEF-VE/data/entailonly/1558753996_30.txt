@@ -1,0 +1,7 @@
+there is a man ||entailment
+there is a guitar ||entailment
+there is a beard ||entailment
+there is a wall ||entailment
+the man is playing guitar ||entailment
+the man has a beard ||entailment
+the man leans on the wall ||entailment

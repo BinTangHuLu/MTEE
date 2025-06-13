@@ -1,0 +1,6 @@
+There is a man. ||entailment
+There is an ear. ||entailment
+There is a shirt. ||entailment
+The shirt is striped. ||entailment
+The man is pointing into the ear. ||entailment
+The man is wearing the shirt. ||entailment

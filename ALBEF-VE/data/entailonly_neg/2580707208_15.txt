@@ -1,0 +1,9 @@
+there is not a man ||contradiction
+there is not some hair ||contradiction
+there is not a face ||contradiction
+there are not some hats ||contradiction
+the hair is not long ||contradiction
+the hats are not silly ||contradiction
+the man is not with hair ||contradiction
+the man does not cover face ||contradiction
+the man is not with hats ||contradiction

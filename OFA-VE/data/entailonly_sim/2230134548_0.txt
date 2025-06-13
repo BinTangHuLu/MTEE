@@ -1,0 +1,2 @@
+There are some development. ||Entailment
+The cook prepares development. ||Entailment

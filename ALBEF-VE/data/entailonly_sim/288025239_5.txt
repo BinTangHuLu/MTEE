@@ -1,0 +1,5 @@
+there is a female ||entailment
+there is a canvas ||entailment
+the canvas is red ||entailment
+the canvas is microscopic ||entailment
+the female smiles from the tent ||entailment

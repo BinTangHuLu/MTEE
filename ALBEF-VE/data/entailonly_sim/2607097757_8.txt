@@ -1,0 +1,4 @@
+there is a break ||neutral
+there is some dirt ||entailment
+the break is open ||contradiction
+the break is in ground ||neutral

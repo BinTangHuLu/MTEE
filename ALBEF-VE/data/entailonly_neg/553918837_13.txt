@@ -1,0 +1,4 @@
+there is not a girl ||contradiction
+there is not a playground ||contradiction
+there is not a slide ||contradiction
+the girl does not slide down the slide ||contradiction

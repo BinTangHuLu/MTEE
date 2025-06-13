@@ -1,0 +1,5 @@
+There are vehicles. ||entailment
+There is a street. ||entailment
+There is Thailand. ||entailment
+The vehicles are going down the street. ||entailment
+The vehicles are going down Thailand. ||neutral

@@ -1,0 +1,3 @@
+there is a child ||entailment
+there is a fluctuation ||neutral
+the child is on swing ||entailment

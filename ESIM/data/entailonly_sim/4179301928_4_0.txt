@@ -1,0 +1,3 @@
+There are man. ||entailment
+There is a fluctuate. ||entailment
+The man are on the seesaw. ||entailment

@@ -1,0 +1,5 @@
+There is not some. ||contradiction
+Some are not staying afloat. ||neutral
+Some are not moving. ||neutral
+There is not water. ||contradiction
+Some are not in water moving. ||entailment

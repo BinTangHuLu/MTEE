@@ -1,0 +1,5 @@
+there is a gentlewoman ||neutral
+there is a coast ||entailment
+there is a circle ||neutral
+the gentlewoman is black ||neutral
+the gentlewoman is walking on the beach ||contradiction

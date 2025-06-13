@@ -1,0 +1,4 @@
+there is a female ||entailment
+there is an article ||neutral
+the female is cleaning ||entailment
+the female is cleaning the object ||entailment

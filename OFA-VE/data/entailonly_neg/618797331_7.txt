@@ -1,0 +1,6 @@
+There is not a boy. ||Contradiction
+There is not a sweater. ||Contradiction
+The sweater is not blue. ||Entailment
+There is not a necklace. ||Contradiction
+The necklace is not make of bead. ||Contradiction
+The boy is not holding the necklace. ||Neutral

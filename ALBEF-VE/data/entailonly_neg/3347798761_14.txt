@@ -1,0 +1,5 @@
+there is not a motorcyclist ||contradiction
+there is not a bike ||contradiction
+there is not a hill ||contradiction
+the motorcyclist does not ride the bike ||contradiction
+the bike does not go over the hill ||contradiction

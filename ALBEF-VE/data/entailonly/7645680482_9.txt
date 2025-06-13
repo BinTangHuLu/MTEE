@@ -1,0 +1,3 @@
+there are cyclists ||entailment
+there is outside ||entailment
+the cyclists are outside ||entailment

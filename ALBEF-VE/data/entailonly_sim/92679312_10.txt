@@ -1,0 +1,3 @@
+there are community ||entailment
+the community are singing ||contradiction
+the community are singing into microphones ||contradiction

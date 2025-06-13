@@ -1,0 +1,5 @@
+There are not people. ||contradiction
+There is not a scaffold. ||contradiction
+The people are not two. ||contradiction
+The scaffold is not wooden. ||contradiction
+The people are not climbing on scaffold. ||contradiction

@@ -1,0 +1,6 @@
+there is a man ||entailment
+there are some glasses ||entailment
+there is a group ||entailment
+there are some people ||entailment
+the people have red berets ||entailment
+the man is in front of the group ||entailment

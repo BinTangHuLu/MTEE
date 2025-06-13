@@ -1,0 +1,2 @@
+There are women. ||entailment
+The women are running. ||entailment

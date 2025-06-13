@@ -1,0 +1,6 @@
+There is not a man. ||contradiction
+There is not a rear. ||contradiction
+There is not an automobile. ||contradiction
+The man is not sleeping. ||contradiction
+The man is not sleeping in the automobile. ||contradiction
+The man is not in the rear. ||contradiction

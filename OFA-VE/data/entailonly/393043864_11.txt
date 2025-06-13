@@ -1,0 +1,3 @@
+There is a produce stand. ||Entailment
+There is a stand. ||Entailment
+The produce stand is fresh. ||Entailment

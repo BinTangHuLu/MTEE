@@ -1,0 +1,4 @@
+There is a man. ||Entailment
+There is a cake. ||Entailment
+The man is blue. ||Neutral
+The man is by cake. ||Entailment

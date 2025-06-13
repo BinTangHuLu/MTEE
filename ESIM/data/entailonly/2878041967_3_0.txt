@@ -1,0 +1,5 @@
+There are kids. ||entailment
+There are turtles. ||entailment
+The kids are a group. ||entailment
+The turtles are small. ||entailment
+The kids poked at turtles. ||entailment

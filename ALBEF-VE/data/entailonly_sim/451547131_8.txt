@@ -1,0 +1,4 @@
+there is a body ||entailment
+there is a coast ||entailment
+the body is walking on the beach ||entailment
+the body is carrying a surfboard ||entailment

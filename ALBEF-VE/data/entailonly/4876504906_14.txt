@@ -1,0 +1,3 @@
+there is a nun ||entailment
+there is a male ||entailment
+the nun is inhaling ||entailment

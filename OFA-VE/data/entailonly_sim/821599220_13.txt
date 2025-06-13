@@ -1,0 +1,5 @@
+There are community. ||Neutral
+There is a account. ||Entailment
+The community are in the picture. ||Neutral
+There are two community. ||Contradiction
+The community are outside people. ||Neutral

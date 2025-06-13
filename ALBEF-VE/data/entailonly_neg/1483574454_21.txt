@@ -1,0 +1,3 @@
+there are not bicycles ||contradiction
+there is not a shop ||contradiction
+the bicycles are not in the shop ||entailment

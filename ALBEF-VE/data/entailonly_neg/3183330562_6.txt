@@ -1,0 +1,5 @@
+there are not children ||contradiction
+there is not a man ||entailment
+the children are not black ||contradiction
+the man is not white ||entailment
+the children are not walking with the man ||entailment

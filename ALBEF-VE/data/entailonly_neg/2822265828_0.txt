@@ -1,0 +1,4 @@
+there are not girls ||contradiction
+the girls are eachnot ||contradiction
+the girls are not wearing ||contradiction
+the girls are not different ||entailment

@@ -1,0 +1,4 @@
+There are not women. ||contradiction
+There are not two women. ||contradiction
+The women are not wearing tank tops. ||contradiction
+The women are not drinking. ||contradiction

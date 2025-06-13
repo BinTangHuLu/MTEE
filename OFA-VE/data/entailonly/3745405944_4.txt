@@ -1,0 +1,4 @@
+There is a woman. ||Entailment
+There is a man. ||Entailment
+The woman is blond. ||Neutral
+The woman is near the man. ||Entailment

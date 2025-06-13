@@ -1,0 +1,8 @@
+There is a man. ||entailment
+There is a suit. ||entailment
+There are some bricks. ||contradiction
+There is a name tag. ||entailment
+The man is in a suit. ||entailment
+The suit is with gold. ||entailment
+The man gestures with his hands. ||entailment
+The man gestures with hands. ||entailment

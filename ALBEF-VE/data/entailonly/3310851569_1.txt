@@ -1,0 +1,3 @@
+there are musicians ||entailment
+there is dark ||entailment
+the musicians are performing in the dark ||entailment

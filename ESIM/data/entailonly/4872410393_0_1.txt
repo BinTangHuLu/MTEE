@@ -1,0 +1,5 @@
+There is a girl. ||entailment
+There is a shirt. ||entailment
+The girl is young. ||entailment
+The shirt is red. ||entailment
+The girl is wearing the shirt. ||entailment

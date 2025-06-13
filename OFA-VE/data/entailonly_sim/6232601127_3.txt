@@ -1,0 +1,3 @@
+There is a animal. ||Contradiction
+There are some attire. ||Entailment
+The animal has clothes. ||Contradiction

@@ -1,0 +1,2 @@
+there are they ||neutral
+they are hiking ||entailment

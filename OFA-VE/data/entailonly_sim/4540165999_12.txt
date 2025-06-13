@@ -1,0 +1,4 @@
+There is an shade. ||Entailment
+There is a hike. ||Contradiction
+Someone is carrying an shade. ||Neutral
+Someone is on a hike. ||Contradiction

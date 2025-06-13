@@ -1,0 +1,3 @@
+there is a lady ||entailment
+there is some food ||entailment
+the lady got food ||entailment

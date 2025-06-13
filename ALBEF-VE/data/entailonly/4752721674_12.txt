@@ -1,0 +1,3 @@
+there are cameras ||entailment
+the cameras are on ||entailment
+the cameras are filming ||entailment

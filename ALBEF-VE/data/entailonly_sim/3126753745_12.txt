@@ -1,0 +1,5 @@
+there are artist ||entailment
+there are apparatus ||entailment
+there is a locale ||entailment
+the artist are playing their instruments ||entailment
+the artist are playing at the venue ||entailment

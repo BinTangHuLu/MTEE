@@ -1,0 +1,3 @@
+there is not a man ||contradiction
+there are not some feet ||entailment
+the man is not on feet ||entailment

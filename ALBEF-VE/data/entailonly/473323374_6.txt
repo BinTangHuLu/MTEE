@@ -1,0 +1,3 @@
+there is a baby ||entailment
+the baby has curly hair ||entailment
+the hair is curly ||entailment

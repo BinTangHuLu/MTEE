@@ -1,0 +1,3 @@
+there is a person ||entailment
+there are some sunglasses ||entailment
+the person has sunglasses ||entailment

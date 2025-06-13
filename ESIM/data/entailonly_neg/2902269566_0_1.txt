@@ -1,0 +1,5 @@
+There is not a rider. ||contradiction
+There is not a bike. ||contradiction
+The rider is hisnot . ||entailment
+The bike is not motocross. ||contradiction
+The rider is not riding the bike. ||contradiction

@@ -1,0 +1,6 @@
+there is a body ||entailment
+there is a fedora ||contradiction
+the body is small ||entailment
+the fedora is white ||neutral
+the body is wearing the hat ||contradiction
+the body reaches for the paintbrush ||entailment

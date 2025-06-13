@@ -1,0 +1,3 @@
+There are Boaters. ||Entailment
+There are paddlers. ||Entailment
+The Boaters are passing by paddlers. ||Entailment

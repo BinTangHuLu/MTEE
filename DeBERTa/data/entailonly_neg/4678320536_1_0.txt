@@ -1,0 +1,12 @@
+There is not a woman. ||contradiction
+There is not some wood. ||contradiction
+There is not a hand. ||contradiction
+There is not a smile. ||contradiction
+There is not a face. ||contradiction
+The woman is not standing. ||contradiction
+The woman is not with smile. ||contradiction
+The woman is not with wood. ||contradiction
+The hand is in hernot . ||contradiction
+The woman is not standing with smile. ||contradiction
+The woman is not with wood. ||contradiction
+The woman is not with hand. ||contradiction

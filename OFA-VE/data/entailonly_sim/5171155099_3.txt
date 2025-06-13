@@ -1,0 +1,5 @@
+There is a dude. ||Entailment
+There is a fedora. ||Neutral
+There is a colt. ||Entailment
+The dude is in the hat. ||Neutral
+The dude rides the horse. ||Entailment

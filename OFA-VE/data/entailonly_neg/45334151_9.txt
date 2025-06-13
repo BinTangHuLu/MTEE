@@ -1,0 +1,4 @@
+There is not a man. ||Entailment
+There is not a laundry. ||Entailment
+The man is not young. ||Entailment
+The man is not waiting at laundry. ||Entailment

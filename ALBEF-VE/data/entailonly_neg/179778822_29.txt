@@ -1,0 +1,6 @@
+there is not a girl ||contradiction
+there are not some shoulders ||contradiction
+there is not a woman ||contradiction
+the girl is not little ||contradiction
+the girl does not sit on shoulders ||entailment
+the girl is not on woman ||entailment

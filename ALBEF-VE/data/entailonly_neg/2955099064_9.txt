@@ -1,0 +1,2 @@
+there are not rugby players ||contradiction
+the rugby players do not practice ||contradiction

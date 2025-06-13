@@ -1,0 +1,4 @@
+there is acrylic ||entailment
+there are air ||entailment
+the air are childrens ||entailment
+the acrylic is on faces ||entailment

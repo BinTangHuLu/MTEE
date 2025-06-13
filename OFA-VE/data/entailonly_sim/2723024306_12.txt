@@ -1,0 +1,3 @@
+There is a establishment. ||Contradiction
+There is drink. ||Contradiction
+The establishment is near water. ||Entailment

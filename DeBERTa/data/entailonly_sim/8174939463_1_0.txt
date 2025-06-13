@@ -1,0 +1,5 @@
+There is a child. ||entailment
+There is a call up. ||neutral
+There is another child. ||neutral
+The child is browsing the phone. ||entailment
+The another child watches the girl. ||entailment

@@ -1,0 +1,3 @@
+there is deleon ||contradiction
+there is a mic ||entailment
+deleon is speaking into the mic ||entailment

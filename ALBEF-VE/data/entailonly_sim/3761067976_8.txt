@@ -1,0 +1,2 @@
+there is a child ||entailment
+the child is pointing towards the sky ||entailment

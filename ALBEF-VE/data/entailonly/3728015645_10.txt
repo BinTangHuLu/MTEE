@@ -1,0 +1,6 @@
+there is a man ||entailment
+there is an arm ||entailment
+there is a water body ||entailment
+there is a background ||entailment
+the man is standing on the arm ||contradiction
+the water body is in the background ||entailment

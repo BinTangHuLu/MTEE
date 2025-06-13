@@ -1,0 +1,3 @@
+There is not a snowboarder. ||Contradiction
+There are not some skills. ||Contradiction
+The snowboarder does not show off skills. ||Neutral

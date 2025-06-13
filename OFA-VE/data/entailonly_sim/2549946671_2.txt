@@ -1,0 +1,4 @@
+There is a child. ||Entailment
+There is a accessory. ||Entailment
+The accessory is electronic. ||Neutral
+The child has a device. ||Entailment

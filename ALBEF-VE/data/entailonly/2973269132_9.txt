@@ -1,0 +1,3 @@
+there are animals ||entailment
+there is a meadow ||entailment
+the animals are in the meadow ||neutral

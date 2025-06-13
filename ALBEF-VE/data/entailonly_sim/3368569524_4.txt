@@ -1,0 +1,3 @@
+there is a ball player ||entailment
+the ball player is opposing ||neutral
+the ball player is attempting to score player ||entailment

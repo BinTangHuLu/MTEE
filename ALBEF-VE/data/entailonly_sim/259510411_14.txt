@@ -1,0 +1,5 @@
+there is a female ||entailment
+there is a account ||entailment
+there is a bludgeon ||entailment
+the female is with the picture ||entailment
+the account is of the cow ||entailment

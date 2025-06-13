@@ -1,0 +1,4 @@
+there is a dude ||entailment
+there is a boot ||entailment
+the dude is elderly ||neutral
+the dude is looking at the shoe ||entailment

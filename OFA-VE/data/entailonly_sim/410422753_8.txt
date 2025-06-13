@@ -1,0 +1,3 @@
+There is a pup. ||Entailment
+The pup is playing. ||Entailment
+The pup is playing outside. ||Entailment

@@ -1,0 +1,2 @@
+There are People. ||entailment
+The People are busy. ||entailment

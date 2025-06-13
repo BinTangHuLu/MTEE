@@ -1,0 +1,5 @@
+There is a person. ||Entailment
+There is some air. ||Entailment
+There is a ramp. ||Entailment
+The person is in the air. ||Entailment
+The air is over the ramp. ||Entailment

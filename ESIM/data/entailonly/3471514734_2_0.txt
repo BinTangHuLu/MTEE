@@ -1,0 +1,5 @@
+There is a girl. ||entailment
+There is a smile. ||entailment
+There are teeth. ||entailment
+The girl fakes a smile. ||entailment
+The girl needs to brush her teeth. ||entailment

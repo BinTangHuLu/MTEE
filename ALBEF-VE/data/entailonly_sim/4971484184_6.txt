@@ -1,0 +1,3 @@
+there is a dummy ||entailment
+the dummy is half nude ||neutral
+the dummy is posed in the window ||entailment

@@ -1,0 +1,6 @@
+there are not musicians ||contradiction
+there is not a piece ||contradiction
+there is not a theater hall ||contradiction
+the piece is not musical ||neutral
+the musicians do not perform the piece ||contradiction
+the piece is not at the theater hall ||entailment

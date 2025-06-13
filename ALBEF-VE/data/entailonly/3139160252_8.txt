@@ -1,0 +1,4 @@
+there are women ||entailment
+there is a building ||entailment
+the women are in front of the building ||entailment
+the women are getting their picture taken ||entailment

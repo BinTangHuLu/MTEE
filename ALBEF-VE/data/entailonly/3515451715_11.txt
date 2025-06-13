@@ -1,0 +1,3 @@
+there are children ||entailment
+there is a park ||entailment
+the children are at the park ||entailment

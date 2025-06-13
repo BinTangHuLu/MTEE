@@ -1,0 +1,11 @@
+There are workers. ||entailment
+There is an event. ||entailment
+There are condiments. ||entailment
+There is a table. ||entailment
+The workers are preparing. ||entailment
+The event is catered. ||neutral
+The condiments are lining. ||entailment
+The table has food. ||entailment
+The workers are preparing for the event. ||neutral
+The event is with condiments. ||neutral
+The condiments are lining the table. ||entailment

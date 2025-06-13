@@ -1,0 +1,7 @@
+There is not a man. ||contradiction
+There is not a woman. ||contradiction
+The man is not young. ||contradiction
+The man is not near the dock. ||contradiction
+The man is not near the bay. ||contradiction
+The woman is not near the dock. ||contradiction
+The woman is not near the bay. ||contradiction

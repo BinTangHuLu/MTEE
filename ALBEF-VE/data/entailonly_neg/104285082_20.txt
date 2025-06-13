@@ -1,0 +1,4 @@
+there is not a man ||contradiction
+there is not a chair ||contradiction
+the man is not old ||entailment
+the man is not sitting in the chair ||entailment

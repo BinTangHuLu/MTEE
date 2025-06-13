@@ -1,0 +1,4 @@
+There is not a person. ||contradiction
+There is not a stroller. ||contradiction
+The person is not outside. ||contradiction
+The person is not pushing the stroller. ||contradiction

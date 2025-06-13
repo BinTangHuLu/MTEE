@@ -1,0 +1,7 @@
+There is not a girl. ||contradiction
+The girl is not young. ||contradiction
+The girl is not smiling. ||contradiction
+The girl is not holding. ||contradiction
+The girl is not holding with one hand. ||entailment
+There is not an animal. ||contradiction
+The girl is not holding an animal. ||contradiction

@@ -1,0 +1,4 @@
+there is a person ||entailment
+there is a window ||entailment
+the person is standing ||entailment
+the person is near the window ||entailment

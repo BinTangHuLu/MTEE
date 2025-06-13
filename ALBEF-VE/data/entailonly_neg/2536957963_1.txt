@@ -1,0 +1,3 @@
+there are not people ||contradiction
+there is not a machine ||contradiction
+the people are not hauling the machine ||contradiction

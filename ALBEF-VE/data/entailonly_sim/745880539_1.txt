@@ -1,0 +1,5 @@
+there is a pup ||entailment
+there is some barley ||neutral
+the pup is small ||neutral
+the pup is in grass ||entailment
+the pup is in grass ||entailment

@@ -1,0 +1,4 @@
+There are not men. ||contradiction
+There is not a farm. ||contradiction
+The men are not working. ||contradiction
+The men are not working on the farm. ||contradiction

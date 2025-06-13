@@ -1,0 +1,4 @@
+there is not a man ||contradiction
+there is not a kitchen ||contradiction
+the man is not looking ||contradiction
+the man is not looking at the camera ||entailment

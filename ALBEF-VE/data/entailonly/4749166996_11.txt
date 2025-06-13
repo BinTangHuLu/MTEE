@@ -1,0 +1,5 @@
+there is a man ||entailment
+there is a suit ||entailment
+there is a podium ||entailment
+the suit is in ||entailment
+the man is standing in front of podium ||entailment

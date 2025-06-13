@@ -1,0 +1,5 @@
+there is a dog ||entailment
+there is a ball ||entailment
+the dog is black ||entailment
+the dog focuses on the ball ||entailment
+the ball has been thrown ||entailment

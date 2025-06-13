@@ -1,0 +1,3 @@
+there are community ||entailment
+there is a chase ||entailment
+community are waiting for race ||entailment

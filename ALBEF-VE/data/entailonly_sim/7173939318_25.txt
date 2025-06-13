@@ -1,0 +1,3 @@
+there are community ||entailment
+the community are boarding boats ||contradiction
+the community are disembarking boats ||contradiction

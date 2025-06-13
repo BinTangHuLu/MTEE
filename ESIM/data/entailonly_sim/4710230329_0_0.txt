@@ -1,0 +1,4 @@
+There is a avenue. ||entailment
+There are hiker. ||neutral
+The tram goes down the avenue. ||entailment
+The hiker sight-see the street. ||entailment

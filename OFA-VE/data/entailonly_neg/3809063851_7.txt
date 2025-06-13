@@ -1,0 +1,5 @@
+There are not musicians. ||Entailment
+There is not grass. ||Entailment
+There is not music. ||Contradiction
+The musicians do not play music. ||Contradiction
+The music is not on grass. ||Entailment

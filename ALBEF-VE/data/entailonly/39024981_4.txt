@@ -1,0 +1,3 @@
+there are women ||entailment
+there are two women ||entailment
+the women are smoking ||entailment

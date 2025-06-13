@@ -1,0 +1,3 @@
+There are list. ||Contradiction
+There is a farmland. ||Contradiction
+The list are on the field. ||Entailment

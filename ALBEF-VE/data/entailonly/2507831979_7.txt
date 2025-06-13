@@ -1,0 +1,3 @@
+there is a woman ||entailment
+there is a cafe ||entailment
+the woman sits at the cafe ||neutral

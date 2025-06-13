@@ -1,0 +1,6 @@
+There is not a man. ||contradiction
+There is not a vest. ||contradiction
+There is not a street. ||contradiction
+The man is not wearing. ||contradiction
+The man is not wearing a vest. ||contradiction
+The man is not walking down the street. ||contradiction

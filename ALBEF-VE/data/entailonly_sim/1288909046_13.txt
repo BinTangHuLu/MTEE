@@ -1,0 +1,6 @@
+there is a pup ||entailment
+there is a doll ||entailment
+there is a basin ||entailment
+the doll is orange ||contradiction
+the pup is getting the toy ||entailment
+the doll is from the pool ||neutral

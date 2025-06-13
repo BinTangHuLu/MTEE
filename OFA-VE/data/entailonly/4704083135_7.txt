@@ -1,0 +1,7 @@
+There is a woman. ||Entailment
+There is time. ||Entailment
+There is motion. ||Entailment
+The woman is enjoying. ||Entailment
+The time is out. ||Entailment
+The woman is enjoying time. ||Entailment
+The woman is expressing motion. ||Entailment

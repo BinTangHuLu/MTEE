@@ -1,0 +1,2 @@
+A,indoors
+RE2,is,indoors

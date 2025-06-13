@@ -1,0 +1,3 @@
+there are dude ||entailment
+the dude are out ||entailment
+the dude are boating ||entailment

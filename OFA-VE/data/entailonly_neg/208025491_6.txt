@@ -1,0 +1,4 @@
+There are not men. ||Entailment
+There is not beer. ||Entailment
+The men do not stand together. ||Contradiction
+One is not holding beer. ||Entailment

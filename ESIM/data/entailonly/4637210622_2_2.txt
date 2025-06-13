@@ -1,0 +1,5 @@
+There is a man. ||entailment
+There is a glass. ||entailment
+There is some tea. ||entailment
+The man is pouring glass. ||entailment
+The glass is of tea. ||entailment

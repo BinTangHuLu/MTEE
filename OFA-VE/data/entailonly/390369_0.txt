@@ -1,0 +1,4 @@
+There is someone. ||Entailment
+There is a costume. ||Entailment
+The costume is wearing. ||Entailment
+Someone is standing on the street. ||Entailment

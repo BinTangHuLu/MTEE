@@ -1,0 +1,5 @@
+There is a stand. ||entailment
+There is some produce. ||entailment
+There is a street market. ||entailment
+The stand is selling produce. ||entailment
+The stand is in the street market. ||entailment

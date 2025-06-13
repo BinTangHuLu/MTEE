@@ -1,0 +1,3 @@
+there are band ||entailment
+there is apparatus ||entailment
+the band are unloading machinery ||contradiction

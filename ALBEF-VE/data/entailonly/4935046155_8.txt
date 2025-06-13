@@ -1,0 +1,3 @@
+there are people ||entailment
+the people are two ||neutral
+the people are walking outside ||entailment

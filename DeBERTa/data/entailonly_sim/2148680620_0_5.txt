@@ -1,0 +1,4 @@
+There is a dude. ||entailment
+There is a amiable. ||entailment
+The dude bites into the marshmallow. ||entailment
+Someone else desires a morsel of the marshmallow. ||entailment

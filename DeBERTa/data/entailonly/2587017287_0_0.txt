@@ -1,0 +1,5 @@
+There is a retriever. ||entailment
+There is a lake. ||entailment
+The retriever is wet. ||entailment
+The retriever is golden. ||entailment
+The retriever is in the lake. ||entailment

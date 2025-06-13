@@ -1,0 +1,4 @@
+There is not a car. ||contradiction
+There is not a door. ||contradiction
+The car does not have a door. ||contradiction
+The door has been shut. ||contradiction

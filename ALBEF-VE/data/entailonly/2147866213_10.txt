@@ -1,0 +1,5 @@
+there is a man ||entailment
+there is a dog ||entailment
+there is a beer ||entailment
+the man has a dog ||entailment
+the man has a beer ||entailment

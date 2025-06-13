@@ -1,0 +1,7 @@
+There is a female. ||entailment
+There is a container top. ||entailment
+There is a coffee cup. ||neutral
+The female is pink. ||entailment
+The female is holding. ||entailment
+The container top is pink. ||entailment
+The coffee cup is holding. ||neutral

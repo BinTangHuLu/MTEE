@@ -1,0 +1,4 @@
+There is not a woman. ||Contradiction
+There is not water. ||Entailment
+The woman is not outside. ||Entailment
+The woman is not touching water. ||Entailment

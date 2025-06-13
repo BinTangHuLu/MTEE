@@ -1,0 +1,5 @@
+There is a hand. ||entailment
+There is a ceiling. ||entailment
+There is a apartment. ||contradiction
+The hand is helping put the roof. ||neutral
+The hand is helping put the house. ||entailment

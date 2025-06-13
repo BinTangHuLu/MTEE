@@ -1,0 +1,4 @@
+there are people ||entailment
+there are microphones ||entailment
+the people are singing ||entailment
+the people are singing into microphones ||neutral

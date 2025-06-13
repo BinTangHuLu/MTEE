@@ -1,0 +1,2 @@
+There is blizzard. ||Entailment
+The dogs are playing outside in blizzard. ||Neutral

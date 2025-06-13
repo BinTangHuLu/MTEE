@@ -1,0 +1,5 @@
+There is a person. ||entailment
+There is a truck. ||entailment
+The truck is delivery. ||entailment
+The person is talking to someone. ||entailment
+The someone is coat. ||entailment

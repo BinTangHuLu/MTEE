@@ -1,0 +1,5 @@
+There is a woman. ||Entailment
+There is an ocean. ||Entailment
+There is a beach. ||Entailment
+The woman is at the ocean. ||Entailment
+The ocean is at the beach. ||Entailment

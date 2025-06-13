@@ -1,0 +1,4 @@
+there are not workers ||contradiction
+there are not jackets ||contradiction
+the jackets are not for working ||contradiction
+the workers are not wearing jackets ||contradiction

@@ -1,0 +1,5 @@
+There is not a person. ||contradiction
+There are not people. ||contradiction
+There is not face painting. ||contradiction
+The person does not show people. ||contradiction
+The person does not show face painting. ||contradiction

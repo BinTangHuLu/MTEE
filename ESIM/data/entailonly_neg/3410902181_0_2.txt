@@ -1,0 +1,4 @@
+There is not a girl. ||contradiction
+There is not a stage. ||contradiction
+The girl is not entertaining. ||contradiction
+The girl is not on stage. ||contradiction

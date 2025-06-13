@@ -1,0 +1,2 @@
+There is not a goalie. ||Contradiction
+The goalie is not in play. ||Neutral

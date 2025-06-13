@@ -1,0 +1,4 @@
+There is a boy. ||Entailment
+There is some wood. ||Entailment
+The boy is white. ||Neutral
+The boy has wood. ||Entailment

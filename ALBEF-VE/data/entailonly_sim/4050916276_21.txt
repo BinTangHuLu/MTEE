@@ -1,0 +1,4 @@
+there is a baby ||entailment
+there is drink ||entailment
+the baby is holding something ||entailment
+something is touching drink ||entailment

@@ -1,0 +1,4 @@
+there is a woman ||entailment
+there is a skirt ||entailment
+the skirt is wearing ||neutral
+the woman is seen by some people ||entailment

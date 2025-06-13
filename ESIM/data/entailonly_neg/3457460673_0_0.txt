@@ -1,0 +1,4 @@
+There is not a girl. ||contradiction
+There is not a swing. ||contradiction
+The girl is not playing on the swing. ||contradiction
+The girl is not outside. ||contradiction

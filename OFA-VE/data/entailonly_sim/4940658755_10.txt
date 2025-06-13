@@ -1,0 +1,4 @@
+There is an patriarch. ||Neutral
+There is a apartment. ||Contradiction
+The patriarch is elder. ||Neutral
+The patriarch is near place. ||Entailment

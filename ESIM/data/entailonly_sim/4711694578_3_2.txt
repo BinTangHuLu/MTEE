@@ -1,0 +1,3 @@
+There is a bronze. ||neutral
+There is a avenue. ||entailment
+The bronze is in the middle of the street. ||neutral

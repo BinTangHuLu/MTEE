@@ -1,0 +1,3 @@
+there is a gentlewoman ||entailment
+the gentlewoman is in causals ||entailment
+the gentlewoman is having lunch ||neutral

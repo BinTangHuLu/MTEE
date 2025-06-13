@@ -1,0 +1,2 @@
+There is a dog. ||Entailment
+There is some ground. ||Entailment

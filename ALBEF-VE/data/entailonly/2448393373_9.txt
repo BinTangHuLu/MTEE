@@ -1,0 +1,6 @@
+there is a kid ||entailment
+there is a bat ||entailment
+there is a ball ||entailment
+the kid is playing ||entailment
+the kid is playing with the bat ||entailment
+the kid is playing with the ball ||entailment

@@ -1,0 +1,5 @@
+there is a jacket ||entailment
+there is an umbrella ||entailment
+the jacket is the same color ||entailment
+the umbrella is the same color ||neutral
+the jacket and umbrella are the same color ||entailment

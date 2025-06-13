@@ -1,0 +1,14 @@
+there is not a man ||contradiction
+there is not a shirt ||contradiction
+there is not some hair ||entailment
+there is not a camera ||contradiction
+there is not a mountain ||contradiction
+there is not a background ||contradiction
+the shirt is not blue ||contradiction
+the hair is not gray colored ||entailment
+the man is not wearing ||contradiction
+the man is not wearing the shirt ||contradiction
+the man is not looking through the camera ||contradiction
+the camera is not towards the mountain ||contradiction
+the mountain is not in the background ||contradiction
+the background is not outdoors ||contradiction

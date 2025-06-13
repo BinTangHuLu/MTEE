@@ -1,0 +1,3 @@
+there is not a boy ||contradiction
+there is not water ||contradiction
+the boy is not in water ||contradiction

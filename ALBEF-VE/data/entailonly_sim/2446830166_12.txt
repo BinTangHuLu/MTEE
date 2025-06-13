@@ -1,0 +1,3 @@
+there is a dude ||entailment
+there is a female ||entailment
+the dude walks behind the woman ||entailment

@@ -1,0 +1,3 @@
+There are not officers. ||Entailment
+There is not duty. ||Contradiction
+The officers are not on duty. ||Contradiction

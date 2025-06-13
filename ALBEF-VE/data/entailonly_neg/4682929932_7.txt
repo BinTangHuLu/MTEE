@@ -1,0 +1,4 @@
+there are not people ||contradiction
+there are not items ||contradiction
+the items do not want ||neutral
+the people are not picking out items ||contradiction

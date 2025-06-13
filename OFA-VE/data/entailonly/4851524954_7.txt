@@ -1,0 +1,4 @@
+There are women. ||Entailment
+There is a cafe. ||Entailment
+The cafe is outdoor. ||Entailment
+The women don't sit at the cafe. ||Entailment

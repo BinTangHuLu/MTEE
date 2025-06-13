@@ -1,0 +1,4 @@
+there are not children ||contradiction
+there are not animals ||contradiction
+the animals do not have needs ||entailment
+the children are not attending to animals ||contradiction

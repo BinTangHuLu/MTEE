@@ -1,0 +1,3 @@
+There are community. ||entailment
+The community are hanging outside. ||entailment
+The community are by water. ||entailment

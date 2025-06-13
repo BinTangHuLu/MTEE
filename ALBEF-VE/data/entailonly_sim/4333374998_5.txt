@@ -1,0 +1,3 @@
+there is a baby ||entailment
+there is a exit ||entailment
+the baby stares out the door ||entailment

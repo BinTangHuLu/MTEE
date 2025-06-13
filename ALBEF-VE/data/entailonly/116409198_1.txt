@@ -1,0 +1,5 @@
+there is a guy ||entailment
+there is winter ||entailment
+there is a day ||entailment
+the guy camps in winter ||entailment
+the guy camps during day ||entailment

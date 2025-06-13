@@ -1,0 +1,6 @@
+There is a dude. ||Entailment
+There is an apparatus. ||Entailment
+The apparatus is bamboo. ||Neutral
+The dude is older. ||Entailment
+The dude has gray hair. ||Entailment
+The dude is playing the instrument. ||Entailment

@@ -1,0 +1,5 @@
+There is not Somebody. ||contradiction
+There is not a bike. ||contradiction
+There is not a trail. ||contradiction
+Somebody is not riding the bike. ||contradiction
+The bike is not on the trail. ||entailment

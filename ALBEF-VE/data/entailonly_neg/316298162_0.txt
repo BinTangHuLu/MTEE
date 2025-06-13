@@ -1,0 +1,3 @@
+there is not a group ||contradiction
+there is not a path ||contradiction
+the group did not walk away from the path ||contradiction

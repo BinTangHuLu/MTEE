@@ -1,0 +1,4 @@
+There are not people. ||Contradiction
+There are not jackets. ||Contradiction
+The jackets are not black. ||Entailment
+The people are not wearing jackets. ||Contradiction

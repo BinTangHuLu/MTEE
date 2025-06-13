@@ -1,0 +1,6 @@
+there is a dude ||entailment
+there is a alcohol ||entailment
+there are community ||entailment
+the alcohol is his ||neutral
+the dude is having a sip of drink ||entailment
+the dude is with people ||neutral

@@ -1,0 +1,2 @@
+there are teenagers ||entailment
+the teenagers are talking to one another ||entailment

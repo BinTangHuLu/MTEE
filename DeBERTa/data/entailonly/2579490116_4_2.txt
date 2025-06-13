@@ -1,0 +1,4 @@
+There is a truck. ||entailment
+There is a ramp. ||entailment
+The truck is attached. ||entailment
+The truck is with ramp. ||entailment

@@ -1,0 +1,3 @@
+There is not she. ||Contradiction
+There is not a picture. ||Contradiction
+She is not taking a picture. ||Contradiction

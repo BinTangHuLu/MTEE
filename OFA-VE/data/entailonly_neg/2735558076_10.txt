@@ -1,0 +1,5 @@
+There are not people. ||Contradiction
+There are not boots. ||Contradiction
+The boots are not matching. ||Neutral
+The boots are not heeled. ||Entailment
+The people are not wearing boots. ||Contradiction

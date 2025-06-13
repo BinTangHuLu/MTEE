@@ -1,0 +1,11 @@
+there is a street ||entailment
+there are some people ||entailment
+there are some shirts ||entailment
+there are some skirts ||neutral
+the street is crowded ||entailment
+the people are a few ||neutral
+the shirts are white ||entailment
+the skirts are polka dotted ||neutral
+the people are wearing shirts ||entailment
+the people are wearing skirts ||neutral
+the people are walking in a line ||contradiction

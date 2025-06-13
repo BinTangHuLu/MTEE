@@ -1,0 +1,5 @@
+there is a woman ||entailment
+there is a couch ||entailment
+there is a tv ||entailment
+the woman is sitting on the couch ||contradiction
+the woman is watching tv ||neutral

@@ -1,0 +1,4 @@
+there is not a woman ||entailment
+there is not a man ||contradiction
+the man is not practicing martial arts ||entailment
+the man is not practicing arts ||entailment

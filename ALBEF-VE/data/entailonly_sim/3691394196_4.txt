@@ -1,0 +1,6 @@
+there is a charmer ||entailment
+there is a appearance ||entailment
+there is blaze ||entailment
+the charmer is doing a show ||entailment
+the charmer is doing a show ||entailment
+the appearance is with fire ||entailment

@@ -1,0 +1,4 @@
+there is not a man ||contradiction
+there is not a skateboard ||contradiction
+the skateboard is not in lap ||contradiction
+the man does not sit with skateboard ||contradiction

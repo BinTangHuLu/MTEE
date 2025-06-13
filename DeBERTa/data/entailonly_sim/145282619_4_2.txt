@@ -1,0 +1,4 @@
+There is a body. ||entailment
+The body is preparing. ||entailment
+The body is food. ||contradiction
+The body is preparing food. ||entailment

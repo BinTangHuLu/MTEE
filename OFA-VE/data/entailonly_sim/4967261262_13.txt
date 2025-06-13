@@ -1,0 +1,5 @@
+There are child. ||Entailment
+There is a child. ||Entailment
+There are two child. ||Entailment
+The child raise the boy. ||Contradiction
+The child is in the air. ||Entailment

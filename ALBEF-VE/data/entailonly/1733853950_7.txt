@@ -1,0 +1,3 @@
+there are men ||entailment
+there is an atm ||entailment
+the men are using the atm ||entailment

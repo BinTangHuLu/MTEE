@@ -1,0 +1,3 @@
+There are not girls. ||contradiction
+There are not three girls. ||entailment
+The girls are not resting. ||contradiction

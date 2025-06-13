@@ -1,0 +1,2 @@
+There is a auto. ||Entailment
+Someone is sitting inside of the auto. ||Entailment

@@ -1,0 +1,5 @@
+there are musicians ||entailment
+there are instruments ||entailment
+there is a venue ||entailment
+the musicians are playing their instruments ||entailment
+the musicians are playing at the venue ||entailment

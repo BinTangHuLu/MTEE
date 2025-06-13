@@ -1,0 +1,5 @@
+there is a boy ||entailment
+there are some tracks ||entailment
+there is a stick ||entailment
+the boy counts the tracks ||entailment
+the tracks are with the stick ||entailment

@@ -1,0 +1,8 @@
+There is a man. ||entailment
+There is an outfit. ||entailment
+There is a guitar. ||entailment
+There is a drummer. ||entailment
+The man is with glasses. ||entailment
+The man is disheveled. ||entailment
+The man is playing the guitar. ||entailment
+The man is singing along with the drummer. ||entailment

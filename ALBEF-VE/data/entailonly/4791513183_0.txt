@@ -1,0 +1,3 @@
+there is a boy ||entailment
+there is a doorway ||entailment
+the boy stands in the doorway ||entailment

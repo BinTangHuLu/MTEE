@@ -1,0 +1,3 @@
+there are not women ||entailment
+the women are not black ||entailment
+the women are not standing ||entailment

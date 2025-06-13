@@ -1,0 +1,4 @@
+there is a dude ||entailment
+there is a coat ||entailment
+the coat is black leather ||neutral
+the dude is wearing a jacket ||entailment

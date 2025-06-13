@@ -1,0 +1,3 @@
+there is a body ||entailment
+there is a slope ||entailment
+the body is on ramp ||entailment

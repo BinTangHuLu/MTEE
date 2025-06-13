@@ -1,0 +1,12 @@
+there are not kayakers ||contradiction
+there are not helmets ||contradiction
+there are not life vests ||contradiction
+there are not oars ||contradiction
+there is not a river ||contradiction
+there is not a kayak ||contradiction
+there is not a photo opportunity ||entailment
+the helmets are not yellow ||contradiction
+the kayakers are not held in place by oars ||contradiction
+the kayakers are not in the river ||contradiction
+the kayak is not over kayak ||entailment
+the kayak is not apart third ||entailment

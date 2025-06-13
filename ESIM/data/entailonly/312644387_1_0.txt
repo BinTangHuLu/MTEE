@@ -1,0 +1,4 @@
+There is a woman. ||entailment
+There is a kitchen. ||entailment
+The woman is old. ||entailment
+The woman is in the kitchen. ||entailment

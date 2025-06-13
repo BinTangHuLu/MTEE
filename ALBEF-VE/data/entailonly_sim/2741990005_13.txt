@@ -1,0 +1,3 @@
+there is a female ||entailment
+the female is jumping ||entailment
+the female is jumping ||entailment

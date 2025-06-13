@@ -1,0 +1,3 @@
+There are not boys. ||Contradiction
+There is not water. ||Contradiction
+The boys are not standing by water. ||Entailment

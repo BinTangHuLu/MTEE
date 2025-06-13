@@ -1,0 +1,4 @@
+There is a dude. ||Entailment
+The dude is young. ||Entailment
+There is a account. ||Contradiction
+The dude takes a picture. ||Entailment

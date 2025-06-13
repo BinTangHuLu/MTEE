@@ -1,0 +1,5 @@
+There is not a boy. ||Entailment
+The boy is not young. ||Entailment
+The boy is not prepared. ||Entailment
+The weather is not inclement. ||Entailment
+The boy is not prepared for weather. ||Entailment

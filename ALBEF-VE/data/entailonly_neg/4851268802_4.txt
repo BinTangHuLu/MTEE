@@ -1,0 +1,5 @@
+there is not a male ||contradiction
+there is not a girl ||contradiction
+the male is not trying to talk ||contradiction
+the male is not trying to talk to the girl ||contradiction
+there is not outdoors ||contradiction

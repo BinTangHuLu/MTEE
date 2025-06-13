@@ -1,0 +1,6 @@
+There is not a team. ||contradiction
+There is not California. ||contradiction
+There are not fans. ||contradiction
+The team is not popular. ||neutral
+The team is not in California. ||contradiction
+The team does not have fans. ||contradiction

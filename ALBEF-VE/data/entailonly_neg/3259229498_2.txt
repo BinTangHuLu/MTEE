@@ -1,0 +1,3 @@
+there are not people ||contradiction
+there is not a presentation ||contradiction
+people are not watching the presentation ||contradiction

@@ -1,0 +1,6 @@
+there is a girl ||entailment
+there is a view ||entailment
+the view is fixated ||neutral
+the girl has a view ||entailment
+the view is on something ||neutral
+there is a distance ||entailment

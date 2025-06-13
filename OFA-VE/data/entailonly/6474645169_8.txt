@@ -1,0 +1,4 @@
+There is Lafayette. ||Entailment
+There is a player. ||Entailment
+There is a ball. ||Entailment
+The player has the ball. ||Entailment

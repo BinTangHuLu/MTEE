@@ -1,0 +1,4 @@
+There is not a scene. ||contradiction
+There is not a sunset. ||contradiction
+The scene does not have water. ||contradiction
+The scene is not with sunset. ||contradiction

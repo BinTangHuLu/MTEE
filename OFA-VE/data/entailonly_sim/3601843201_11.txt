@@ -1,0 +1,2 @@
+There is a body. ||Entailment
+The body is riding the motorcycle. ||Entailment

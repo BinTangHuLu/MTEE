@@ -1,0 +1,3 @@
+There is a crowd. ||Entailment
+There are bubbles. ||Entailment
+The bubbles are popping. ||Entailment

@@ -1,0 +1,3 @@
+There are not teams. ||contradiction
+There are not two teams. ||contradiction
+The teams are not playing sport. ||contradiction

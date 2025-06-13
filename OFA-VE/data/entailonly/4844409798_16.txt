@@ -1,0 +1,7 @@
+There is a boy. ||Entailment
+There is someone. ||Entailment
+The boy is young. ||Entailment
+The shirt is red. ||Neutral
+The shirt is red. ||Neutral
+The boy is walking next to someone. ||Entailment
+The boy is wearing a red shirt. ||Neutral

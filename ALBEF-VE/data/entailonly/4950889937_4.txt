@@ -1,0 +1,3 @@
+there are streets ||entailment
+the streets are asian ||entailment
+the streets are busy ||entailment

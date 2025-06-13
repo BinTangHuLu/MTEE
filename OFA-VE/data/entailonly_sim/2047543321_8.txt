@@ -1,0 +1,3 @@
+There is a dude. ||Entailment
+There is some detritus. ||Entailment
+The dude is in debris. ||Entailment

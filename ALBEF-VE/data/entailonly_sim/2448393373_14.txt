@@ -1,0 +1,3 @@
+there is a child ||entailment
+there is a athletics ||entailment
+the child plays sport ||entailment

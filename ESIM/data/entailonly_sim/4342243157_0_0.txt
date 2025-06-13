@@ -1,0 +1,11 @@
+There is a dude. ||entailment
+There is a bottle. ||entailment
+There are detritus. ||contradiction
+The dude is holding. ||entailment
+The bottle has beer. ||entailment
+The detritus are green. ||entailment
+The dude manages to pull pieces. ||entailment
+The dude is holding beer. ||entailment
+The dude is holding glass. ||entailment
+The dude is holding pieces. ||contradiction
+The dude is holding a beard. ||entailment

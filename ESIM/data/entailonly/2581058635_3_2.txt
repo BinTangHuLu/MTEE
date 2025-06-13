@@ -1,0 +1,5 @@
+There is a man. ||entailment
+The man sees something. ||entailment
+The man is in a park. ||entailment
+There is something. ||entailment
+There is a park. ||entailment

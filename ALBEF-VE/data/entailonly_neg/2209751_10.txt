@@ -1,0 +1,3 @@
+there are not people ||contradiction
+there is not a car ||contradiction
+people are not standing by the car ||entailment

@@ -1,0 +1,3 @@
+there are dude ||entailment
+the dude are young ||neutral
+the dude are posing men ||neutral

@@ -1,0 +1,6 @@
+there is a person ||entailment
+there are police men ||entailment
+there are steps ||entailment
+the person is old ||neutral
+the person is next to police men ||entailment
+the police men are on steps ||entailment

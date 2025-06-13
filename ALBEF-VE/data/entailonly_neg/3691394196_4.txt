@@ -1,0 +1,6 @@
+there is not a magician ||contradiction
+there is not a show ||contradiction
+there is not fire ||contradiction
+the magician is not doing a show ||contradiction
+the magician is not doing a show ||contradiction
+the show is not with fire ||contradiction

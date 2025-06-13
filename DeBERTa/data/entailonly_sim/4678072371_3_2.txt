@@ -1,0 +1,4 @@
+There are community. ||entailment
+There is a hostel. ||entailment
+The automobiles are outside the hostel. ||entailment
+The community are outside the hotel. ||entailment

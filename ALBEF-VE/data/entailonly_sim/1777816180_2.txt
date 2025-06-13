@@ -1,0 +1,4 @@
+there is a child ||entailment
+there are some animal ||entailment
+there is the sand ||neutral
+the child balances on shoulders ||entailment

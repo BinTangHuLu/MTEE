@@ -1,0 +1,4 @@
+There are business. ||entailment
+There is a bistro. ||entailment
+The business are at the cafe. ||entailment
+The business are ordering food. ||contradiction

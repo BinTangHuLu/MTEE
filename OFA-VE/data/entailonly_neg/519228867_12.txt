@@ -1,0 +1,3 @@
+There is not a boy. ||Contradiction
+There is not a pool. ||Contradiction
+The boy is not in the pool. ||Entailment

@@ -1,0 +1,3 @@
+EA,competition,riding
+E1R,competition,has
+RE2,competes in,competition

@@ -1,0 +1,5 @@
+There is not a group. ||contradiction
+The group is not well dressed. ||contradiction
+There are not people. ||contradiction
+The group does not walk down the block. ||contradiction
+The people are not holding a sign. ||contradiction

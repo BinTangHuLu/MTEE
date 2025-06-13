@@ -1,0 +1,3 @@
+there is a skier ||entailment
+there is a hill ||entailment
+the skier is going down the hill ||entailment

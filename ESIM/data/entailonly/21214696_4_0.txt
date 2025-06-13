@@ -1,0 +1,3 @@
+There are boys. ||entailment
+There is a boat. ||entailment
+The boys are in the boat. ||entailment

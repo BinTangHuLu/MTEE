@@ -1,0 +1,4 @@
+There is an elder. ||Entailment
+There is a place. ||Entailment
+The elder is elder. ||Entailment
+The elder is near place. ||Entailment

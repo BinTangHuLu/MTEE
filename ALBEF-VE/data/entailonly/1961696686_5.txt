@@ -1,0 +1,4 @@
+there is a human ||entailment
+there is a pair of jeans ||entailment
+the jeans are blue ||entailment
+the human is wearing jeans ||entailment

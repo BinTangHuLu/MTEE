@@ -1,0 +1,4 @@
+There are not students. ||contradiction
+There is not a class. ||contradiction
+The students are not two. ||contradiction
+The students are not jumping in class. ||contradiction

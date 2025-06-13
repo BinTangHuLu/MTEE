@@ -1,0 +1,3 @@
+there is a worker ||entailment
+there is a stairway ||entailment
+the worker is mopping stairway ||entailment

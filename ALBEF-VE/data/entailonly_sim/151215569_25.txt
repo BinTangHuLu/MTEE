@@ -1,0 +1,9 @@
+there is a baby ||entailment
+there are some animal ||entailment
+there is a dude ||entailment
+there is a association ||entailment
+there are some community ||entailment
+the baby is sitting on shoulders ||entailment
+the baby is on man ||entailment
+the dude is amid group ||entailment
+the association is of people ||entailment

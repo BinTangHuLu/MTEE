@@ -1,0 +1,3 @@
+there are not people ||contradiction
+there is not ice cream ||contradiction
+the people are not waiting to buy ice cream ||contradiction

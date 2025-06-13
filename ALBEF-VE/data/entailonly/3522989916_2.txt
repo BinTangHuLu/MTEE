@@ -1,0 +1,4 @@
+there are animals ||entailment
+there is grass ||entailment
+the animals are little ||neutral
+the animals are playing in grass ||entailment

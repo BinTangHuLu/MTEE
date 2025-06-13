@@ -1,0 +1,5 @@
+There are not boys. ||contradiction
+There is not a street. ||contradiction
+There are not two boys. ||entailment
+The street is not in the middle of. ||contradiction
+The boys are not talking in the street. ||contradiction

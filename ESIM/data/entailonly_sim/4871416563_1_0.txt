@@ -1,0 +1,4 @@
+There is a circle. ||entailment
+There is an shade. ||neutral
+The brunette gets a area of attention from the crowd. ||entailment
+The brunette holds the shade. ||entailment

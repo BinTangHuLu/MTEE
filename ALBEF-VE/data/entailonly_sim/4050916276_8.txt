@@ -1,0 +1,3 @@
+there is a baby ||entailment
+there is a basin ||entailment
+the baby is cleaning the pool ||entailment

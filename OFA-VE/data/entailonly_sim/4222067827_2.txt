@@ -1,0 +1,6 @@
+There is a baby. ||Entailment
+There is a armor. ||Entailment
+There is a bestow. ||Entailment
+The armor is with. ||Entailment
+The bestow is cow. ||Neutral
+The baby is with helmet. ||Entailment

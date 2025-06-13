@@ -1,0 +1,5 @@
+There is not a woman. ||Entailment
+There is not a needle. ||Entailment
+There is not a hand. ||Entailment
+The woman does not hold the needle. ||Entailment
+The needle is not in the hand. ||Entailment

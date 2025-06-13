@@ -1,0 +1,4 @@
+There is not a lady. ||contradiction
+There are not dogs. ||contradiction
+The lady is not two. ||contradiction
+The lady does not have dogs. ||contradiction

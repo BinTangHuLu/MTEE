@@ -1,0 +1,5 @@
+there are not people ||contradiction
+there is not a street ||contradiction
+there are not bikes ||contradiction
+the people do not walk on the street ||contradiction
+the people are not with bikes ||contradiction

@@ -1,0 +1,4 @@
+there is a outrigger ||entailment
+there is a yellow outrigger ||entailment
+there is a larger white outrigger ||neutral
+the yellow outrigger approaches the larger white kayak ||entailment

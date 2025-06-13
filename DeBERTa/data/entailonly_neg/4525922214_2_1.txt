@@ -1,0 +1,5 @@
+There is not a man. ||contradiction
+There is not a chair. ||contradiction
+The man is not large. ||contradiction
+The man is not black. ||contradiction
+The man is not relaxing in the chair. ||neutral

@@ -1,0 +1,3 @@
+There is a female. ||Entailment
+The female is walking. ||Entailment
+The female is walking outdoors. ||Entailment

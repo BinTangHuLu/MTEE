@@ -1,0 +1,3 @@
+there are humans ||entailment
+there is a crowd ||entailment
+the humans are in the crowd ||entailment

@@ -1,0 +1,3 @@
+There is a woman. ||entailment
+There is some grass. ||entailment
+The woman is lying in the grass. ||entailment

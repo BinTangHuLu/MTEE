@@ -1,0 +1,7 @@
+there is a body ||entailment
+there are some beer glass ||entailment
+there is a banner ||entailment
+the banner is england ||neutral
+the body has beer bottles ||entailment
+the body has a flag ||entailment
+the body has glasses ||entailment

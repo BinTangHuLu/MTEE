@@ -1,0 +1,6 @@
+there is not a photograph ||entailment
+there is not a girl ||contradiction
+there is not a game ||contradiction
+the girl is not playing ||contradiction
+the photograph does not show the girl ||entailment
+the girl is not playing a game ||contradiction

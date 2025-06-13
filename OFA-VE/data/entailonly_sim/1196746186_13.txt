@@ -1,0 +1,3 @@
+There are community. ||Entailment
+There is a coast. ||Entailment
+The community are on the beach. ||Neutral

@@ -1,0 +1,3 @@
+there is a body ||entailment
+there is atmosphere ||entailment
+the body is in air ||entailment

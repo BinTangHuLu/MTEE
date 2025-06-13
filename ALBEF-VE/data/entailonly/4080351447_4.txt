@@ -1,0 +1,3 @@
+there is a boy ||entailment
+there is a camera ||entailment
+the boy is watching the camera ||entailment

@@ -1,0 +1,4 @@
+There is not a man. ||contradiction
+There is not a child. ||contradiction
+The man is looking at somethingnot . ||neutral
+The child is looking at somethingnot . ||neutral

@@ -1,0 +1,6 @@
+There is a boy. ||entailment
+The boy is happily. ||entailment
+There is an acrobat. ||neutral
+There is a stage. ||entailment
+The boy watches the acrobat. ||contradiction
+The acrobat is jumping on the stage. ||neutral

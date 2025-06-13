@@ -1,0 +1,6 @@
+There is not a boy. ||contradiction
+There is not a man. ||contradiction
+There is not a stage. ||contradiction
+The boy is not happily. ||contradiction
+The boy does not watch the man. ||neutral
+The man is not jumping on the stage. ||contradiction

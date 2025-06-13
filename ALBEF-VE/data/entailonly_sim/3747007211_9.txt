@@ -1,0 +1,7 @@
+there is a dude ||entailment
+there is some blizzard ||neutral
+there are enough ||entailment
+the dude is tubing ||neutral
+the dude is on snow ||entailment
+the dude is with mountains ||entailment
+the enough are in the background ||entailment

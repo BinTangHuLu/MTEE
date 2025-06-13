@@ -1,0 +1,4 @@
+There is drink. ||Contradiction
+There is a capital. ||Entailment
+The drink is between the city. ||Contradiction
+The drink is between the sightseers. ||Contradiction

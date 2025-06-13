@@ -1,0 +1,4 @@
+There is a woman. ||entailment
+The woman is elderly. ||entailment
+The woman is balancing something. ||entailment
+The woman is having a conversation. ||entailment

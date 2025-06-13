@@ -1,0 +1,3 @@
+there is a man ||entailment
+there is a sea ||entailment
+the man is paddling in the sea ||entailment

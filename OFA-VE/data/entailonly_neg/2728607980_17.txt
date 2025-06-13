@@ -1,0 +1,4 @@
+There is not a group. ||Entailment
+There are not some people. ||Contradiction
+The group is not large. ||Entailment
+The group is not clustered together with people. ||Entailment

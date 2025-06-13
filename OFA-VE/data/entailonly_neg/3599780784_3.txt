@@ -1,0 +1,4 @@
+There is not them. ||Contradiction
+There is not a head. ||Contradiction
+The head is not shaved. ||Entailment
+Them is not having head. ||Entailment

@@ -1,0 +1,3 @@
+There is a baby. ||Contradiction
+There is bling cream. ||Entailment
+The baby is eating ice cream. ||Neutral

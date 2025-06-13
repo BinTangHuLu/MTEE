@@ -1,0 +1,3 @@
+There are not Lacrosse players. ||Contradiction
+There is not a ball. ||Contradiction
+The Lacrosse players are not going after the ball. ||Neutral

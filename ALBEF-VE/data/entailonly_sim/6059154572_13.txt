@@ -1,0 +1,4 @@
+there is a circle ||entailment
+there are some community ||entailment
+the circle is outside people ||entailment
+the circle is watching the surfer ||entailment

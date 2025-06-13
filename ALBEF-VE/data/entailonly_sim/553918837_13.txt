@@ -1,0 +1,4 @@
+there is a child ||entailment
+there is a park ||neutral
+there is a accelerate ||entailment
+the child slides down the slide ||entailment

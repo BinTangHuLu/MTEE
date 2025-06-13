@@ -1,0 +1,2 @@
+There is a account. ||Entailment
+Someone is painting a account. ||Entailment

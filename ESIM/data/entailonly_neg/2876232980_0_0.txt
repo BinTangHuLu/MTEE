@@ -1,0 +1,6 @@
+There is not a child. ||contradiction
+There is not a top. ||contradiction
+The top is not red. ||contradiction
+The child is not blond headed. ||contradiction
+The child is not wearing the top. ||contradiction
+The child is not standing behind the child. ||contradiction

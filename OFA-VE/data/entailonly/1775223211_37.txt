@@ -1,0 +1,6 @@
+There is a lady. ||Entailment
+There is a loom. ||Entailment
+There are items. ||Entailment
+The items are unfinished. ||Entailment
+The lady sits under the loom. ||Entailment
+Another works on the items. ||Entailment

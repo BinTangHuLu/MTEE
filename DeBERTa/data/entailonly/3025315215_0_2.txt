@@ -1,0 +1,4 @@
+There is a dog. ||entailment
+There is a tunnel. ||entailment
+The dog is brown. ||entailment
+The dog is walking out of the tunnel. ||entailment

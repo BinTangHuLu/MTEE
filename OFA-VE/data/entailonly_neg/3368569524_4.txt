@@ -1,0 +1,4 @@
+There is not a basketball player. ||Contradiction
+There is not an opposing. ||Entailment
+The basketball player is not opposing. ||Entailment
+The basketball player is not attempting to score player. ||Contradiction

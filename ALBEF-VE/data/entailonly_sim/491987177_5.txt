@@ -1,0 +1,2 @@
+there is a mop ||entailment
+the bartender is sweeping with mop ||neutral

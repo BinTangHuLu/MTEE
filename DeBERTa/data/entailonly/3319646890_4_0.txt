@@ -1,0 +1,5 @@
+There are people. ||entailment
+There are three people. ||entailment
+The people are enjoying. ||neutral
+The outdoors is great. ||neutral
+The people are enjoying outdoors. ||entailment

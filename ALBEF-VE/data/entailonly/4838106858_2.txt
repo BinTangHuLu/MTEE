@@ -1,0 +1,3 @@
+there is a man ||entailment
+there is a book ||entailment
+the man is reading the book ||neutral

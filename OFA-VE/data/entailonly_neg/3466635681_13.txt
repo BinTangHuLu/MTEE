@@ -1,0 +1,3 @@
+There is not someone. ||Contradiction
+There are not some poles. ||Entailment
+Someone is not sitting near poles. ||Entailment

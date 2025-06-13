@@ -1,0 +1,5 @@
+There are police officers. ||entailment
+The police officers are wearing yellow reflective jackets. ||entailment
+The police officers are standing. ||entailment
+The jackets are yellow reflective. ||entailment
+The police officers are standing in ozone. ||entailment

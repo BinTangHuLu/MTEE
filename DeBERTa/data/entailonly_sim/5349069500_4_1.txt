@@ -1,0 +1,4 @@
+There is an adviser. ||entailment
+There is a box. ||entailment
+The adviser is at fair. ||entailment
+The adviser is weaving. ||entailment

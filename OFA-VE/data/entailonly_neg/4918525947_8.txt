@@ -1,0 +1,4 @@
+There is not a lady. ||Contradiction
+There is not an attire. ||Contradiction
+The attire is not oriental. ||Entailment
+The lady does not wear attire. ||Contradiction

@@ -1,0 +1,3 @@
+There is not a girl. ||Contradiction
+There is not a softball. ||Contradiction
+The girl is not playing softball. ||Contradiction

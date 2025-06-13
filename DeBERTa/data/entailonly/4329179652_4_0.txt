@@ -1,0 +1,3 @@
+There are girls. ||entailment
+There is a ground. ||entailment
+The girls kneel on the ground. ||entailment

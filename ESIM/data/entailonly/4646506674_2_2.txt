@@ -1,0 +1,4 @@
+There is a man. ||entailment
+There is a cap. ||entailment
+The cap is green. ||entailment
+The man finds something. ||entailment

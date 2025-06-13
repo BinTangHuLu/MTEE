@@ -1,0 +1,3 @@
+there is a guy ||entailment
+the guy is outside ||entailment
+the guy is outside ||entailment

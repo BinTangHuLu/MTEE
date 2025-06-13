@@ -1,0 +1,10 @@
+there is a dude ||entailment
+there is a bestow ||neutral
+there are knickers ||neutral
+there are gemstone ||neutral
+there are chain ||neutral
+the bestow is orange ||contradiction
+the dude is with a vest ||entailment
+the dude is with pants ||entailment
+the dude is pouring stones ||entailment
+the gemstone are on tracks ||neutral

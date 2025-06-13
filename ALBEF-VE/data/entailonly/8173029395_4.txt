@@ -1,0 +1,7 @@
+there is a man ||entailment
+there is some music ||entailment
+there is a crowd ||entailment
+there are people ||entailment
+the man is playing music ||entailment
+the man is playing in front of crowd ||entailment
+the crowd is of people ||entailment

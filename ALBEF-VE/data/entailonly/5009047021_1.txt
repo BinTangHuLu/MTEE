@@ -1,0 +1,5 @@
+there is a boy ||entailment
+there is a team ||entailment
+there is a football ||entailment
+the boy runs from the team ||entailment
+the boy has football ||entailment

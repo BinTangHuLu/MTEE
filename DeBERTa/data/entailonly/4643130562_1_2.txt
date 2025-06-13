@@ -1,0 +1,8 @@
+There are women. ||entailment
+There is Police. ||entailment
+There are jackets. ||entailment
+There is street. ||entailment
+The women are Two. ||entailment
+The jackets are similar. ||entailment
+The women look like Police. ||entailment
+The Police are standing in street. ||neutral

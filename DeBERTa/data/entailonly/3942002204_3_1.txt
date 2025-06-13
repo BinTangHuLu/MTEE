@@ -1,0 +1,5 @@
+There are people. ||entailment
+There is a conversation. ||entailment
+There is a bar. ||entailment
+The people are in conversation at the bar. ||entailment
+The people are sitting at the bar. ||entailment

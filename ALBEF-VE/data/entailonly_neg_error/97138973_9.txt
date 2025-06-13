@@ -1,0 +1,3 @@
+E,shirt
+RE2,is wearing,shirt
+A,all wet

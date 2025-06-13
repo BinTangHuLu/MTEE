@@ -1,0 +1,5 @@
+There is a boy. ||Entailment
+The boy is young. ||Entailment
+The boy is prepared. ||Entailment
+The weather is inclement. ||Entailment
+The boy is prepared for weather. ||Entailment

@@ -1,0 +1,4 @@
+There is a lady. ||entailment
+There is a table. ||neutral
+The table is outside. ||entailment
+The lady is sitting at the table. ||contradiction

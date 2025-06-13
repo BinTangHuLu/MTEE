@@ -1,0 +1,3 @@
+there is not snow ||contradiction
+there is not ground ||entailment
+the snow is not on the ground ||entailment

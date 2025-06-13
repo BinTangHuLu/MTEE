@@ -1,0 +1,4 @@
+there is a person ||entailment
+there is a dog ||entailment
+the person is playing catch ||neutral
+the person is playing catch with the dog ||neutral

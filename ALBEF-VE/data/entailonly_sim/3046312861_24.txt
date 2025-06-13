@@ -1,0 +1,3 @@
+there is a acrobat ||entailment
+the acrobat is female ||neutral
+the acrobat is training ||entailment

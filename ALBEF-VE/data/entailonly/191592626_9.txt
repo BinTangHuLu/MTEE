@@ -1,0 +1,3 @@
+there is a mountain climber ||entailment
+there is a hilltop ||entailment
+the mountain climber reached the hilltop ||entailment

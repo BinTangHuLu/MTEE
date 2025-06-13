@@ -1,0 +1,3 @@
+There is not a child. ||Entailment
+There is not a beach. ||Entailment
+The child is not near the beach. ||Entailment

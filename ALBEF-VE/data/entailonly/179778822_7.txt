@@ -1,0 +1,6 @@
+there is a woman ||entailment
+there is a child ||entailment
+the child is young ||entailment
+the woman looks at the child ||entailment
+the child looks at the woman ||entailment
+the woman is in the mirror ||entailment

@@ -1,0 +1,3 @@
+there are not players ||contradiction
+there are not outdoors ||contradiction
+the players are not outdoors ||contradiction

@@ -1,0 +1,3 @@
+there are women ||entailment
+there is rain ||entailment
+the women are outside in rain ||entailment

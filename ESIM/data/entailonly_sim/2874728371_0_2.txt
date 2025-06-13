@@ -1,0 +1,5 @@
+There is a pup. ||entailment
+The pup is big. ||entailment
+The pup is brown. ||entailment
+The pup is tiny. ||contradiction
+The pup is standing in a field. ||entailment

@@ -1,0 +1,4 @@
+there is a guy ||entailment
+there is a car ||entailment
+the guy is green ||entailment
+the guy works on the car ||entailment

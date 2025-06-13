@@ -1,0 +1,2 @@
+there are not women ||entailment
+the women did not sit outside ||contradiction

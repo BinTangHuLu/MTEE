@@ -1,0 +1,4 @@
+There are not dogs. ||Contradiction
+There is not a race. ||Contradiction
+There are not three dogs. ||Contradiction
+The dogs are not running a race. ||Contradiction

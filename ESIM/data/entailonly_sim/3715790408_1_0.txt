@@ -1,0 +1,7 @@
+There is a circle. ||neutral
+There are some community. ||neutral
+The circle is taking a picture. ||neutral
+The community are taking a picture. ||neutral
+The community are taking a picture. ||neutral
+The community are taking a picture. ||neutral
+The community are taking a picture. ||neutral

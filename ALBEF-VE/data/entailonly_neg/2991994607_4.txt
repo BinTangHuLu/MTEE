@@ -1,0 +1,7 @@
+there is not someone ||contradiction
+there is not a police costume ||contradiction
+there is not a man ||contradiction
+there is not a zombie costume ||contradiction
+someone is not in a police costume ||neutral
+someone is not next to a man ||contradiction
+the man is not in a zombie costume ||contradiction

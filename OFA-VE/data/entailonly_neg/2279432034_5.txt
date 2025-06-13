@@ -1,0 +1,5 @@
+There is not a group. ||Contradiction
+There are not musicians. ||Contradiction
+There are not singers. ||Entailment
+The musicians do not practice. ||Contradiction
+The singers do not practice. ||Contradiction

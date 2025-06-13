@@ -1,0 +1,4 @@
+There is a club. ||entailment
+There is a mentor. ||entailment
+The club is female. ||entailment
+The club is listening to the coach. ||entailment

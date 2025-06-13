@@ -1,0 +1,5 @@
+there is a toddle ||entailment
+there is a jeans ||entailment
+there is a tractor ||entailment
+the jeans are blue ||neutral
+the toddle is sitting on tractor ||entailment

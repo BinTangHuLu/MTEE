@@ -1,0 +1,5 @@
+There is a baby. ||entailment
+There is a drive. ||contradiction
+There is a dude. ||entailment
+The baby is going for a ride. ||neutral
+The baby is going for a man. ||entailment

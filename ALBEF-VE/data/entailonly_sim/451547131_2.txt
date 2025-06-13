@@ -1,0 +1,3 @@
+there are chain reaction ||neutral
+there is a period ||entailment
+the period is this time of ||entailment

@@ -1,0 +1,4 @@
+there is a girl ||entailment
+there is a motorcycle ||entailment
+the girl is cute ||neutral
+the girl is sitting on motorcycle ||entailment

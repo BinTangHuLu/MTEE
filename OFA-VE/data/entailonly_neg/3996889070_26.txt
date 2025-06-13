@@ -1,0 +1,3 @@
+There are not children. ||Contradiction
+There is not an animal. ||Contradiction
+The children do not interact with the animal. ||Contradiction

@@ -1,0 +1,2 @@
+there is an child ||entailment
+the child is crying ||contradiction

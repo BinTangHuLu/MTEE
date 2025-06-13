@@ -1,0 +1,3 @@
+There is not a cheerleader. ||contradiction
+There are not some team shirts. ||contradiction
+The cheerleader does not pass out team shirts. ||contradiction

@@ -1,0 +1,5 @@
+There is a dog. ||Entailment
+There is a log. ||Entailment
+There is a log. ||Entailment
+The dog jumps over the log. ||Neutral
+The dog is carrying the log. ||Entailment

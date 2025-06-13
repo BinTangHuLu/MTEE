@@ -1,0 +1,3 @@
+There are not children. ||Contradiction
+There is not a pair. ||Contradiction
+The children have not painted faces. ||Neutral

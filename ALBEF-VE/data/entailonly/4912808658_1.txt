@@ -1,0 +1,3 @@
+there is a man ||entailment
+there are some drums ||entailment
+the man is playing drums ||entailment

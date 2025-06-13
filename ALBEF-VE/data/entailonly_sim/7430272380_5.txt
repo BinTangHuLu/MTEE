@@ -1,0 +1,3 @@
+there is a body ||entailment
+there is a blouse ||entailment
+the body is wearing the shirt ||entailment

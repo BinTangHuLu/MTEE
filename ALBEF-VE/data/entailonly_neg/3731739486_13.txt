@@ -1,0 +1,19 @@
+there are not people ||contradiction
+there are not males ||contradiction
+there are not shirts ||contradiction
+there are not slacks ||contradiction
+there are not females ||contradiction
+there are not buses ||contradiction
+there are not school buses ||contradiction
+there are not papers ||contradiction
+the male is not in a blue shirt ||entailment
+the male is not in slacks ||entailment
+the female is not in pink ||entailment
+the female is not holding a paper ||contradiction
+the female is not on the phone ||contradiction
+the people are not in a school bus ||entailment
+the male is not in a shirt ||contradiction
+the male is not in slacks ||entailment
+the female is not in pink ||entailment
+the female is not holding a paper ||contradiction
+the female is not on the phone ||contradiction

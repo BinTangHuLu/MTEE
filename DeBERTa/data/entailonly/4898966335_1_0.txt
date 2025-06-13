@@ -1,0 +1,3 @@
+There is a person. ||neutral
+The person is looking. ||entailment
+The person is looking at something. ||entailment

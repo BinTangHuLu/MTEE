@@ -1,0 +1,4 @@
+There is not a tournament. ||Contradiction
+There are not arts. ||Contradiction
+The tournament is not martial. ||Contradiction
+The tournament is not arts. ||Contradiction

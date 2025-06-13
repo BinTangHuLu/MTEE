@@ -1,0 +1,3 @@
+there is a baby ||entailment
+there is a drive ||entailment
+the baby is holding the steer ||contradiction

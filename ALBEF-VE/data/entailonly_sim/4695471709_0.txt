@@ -1,0 +1,3 @@
+there is a act ||entailment
+there is drink ||entailment
+the act is on water ||contradiction

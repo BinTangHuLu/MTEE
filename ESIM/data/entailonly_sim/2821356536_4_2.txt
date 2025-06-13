@@ -1,0 +1,3 @@
+There are dude. ||entailment
+There are Two dude. ||entailment
+The dude are standing next to each other. ||neutral

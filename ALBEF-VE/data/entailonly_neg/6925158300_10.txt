@@ -1,0 +1,4 @@
+there are not men ||contradiction
+there are not computers ||contradiction
+the men are not young ||entailment
+the men are not using computers ||contradiction

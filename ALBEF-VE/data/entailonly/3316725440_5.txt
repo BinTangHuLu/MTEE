@@ -1,0 +1,4 @@
+there is someone ||entailment
+there is a bike ||entailment
+the bike is for a ride ||entailment
+someone is taking the bike ||neutral

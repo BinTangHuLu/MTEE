@@ -1,0 +1,4 @@
+There is a driver. ||Entailment
+There is a vehicle. ||Entailment
+The vehicle has two wheels. ||Entailment
+The driver is in the vehicle. ||Entailment

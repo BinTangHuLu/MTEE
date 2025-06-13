@@ -1,0 +1,3 @@
+there is a dude ||entailment
+there is a act ||entailment
+the dude stands next to the statute ||entailment

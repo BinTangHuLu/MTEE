@@ -1,0 +1,3 @@
+There is a woman. ||Entailment
+There is a fire. ||Entailment
+The woman is by fire. ||Entailment

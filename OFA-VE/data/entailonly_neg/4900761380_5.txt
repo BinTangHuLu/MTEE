@@ -1,0 +1,4 @@
+There is not a stall. ||Contradiction
+There is not some fruit. ||Entailment
+There are not men. ||Contradiction
+The stall is not surrounded by men. ||Entailment

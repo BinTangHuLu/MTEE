@@ -1,0 +1,5 @@
+There is a chef. ||Entailment
+There is some food. ||Entailment
+There is a container. ||Entailment
+The chef is putting food. ||Entailment
+The food is being put into the container. ||Entailment

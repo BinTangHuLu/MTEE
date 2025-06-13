@@ -1,0 +1,2 @@
+There is snow. ||Entailment
+The snow is white. ||Entailment

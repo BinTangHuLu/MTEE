@@ -1,0 +1,7 @@
+there is not a lady ||contradiction
+there is not a face ||contradiction
+there is not a girl ||contradiction
+the face is not funny ||neutral
+the girl is not little ||entailment
+the lady does not make face ||contradiction
+the face is not at girl ||contradiction

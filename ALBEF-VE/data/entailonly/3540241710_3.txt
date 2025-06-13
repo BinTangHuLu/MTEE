@@ -1,0 +1,3 @@
+there is a skateboarder ||entailment
+there is air ||entailment
+the skateboarder is in air ||entailment

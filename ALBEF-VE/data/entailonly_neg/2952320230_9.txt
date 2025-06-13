@@ -1,0 +1,4 @@
+there is not a woman ||contradiction
+there is not a court ||contradiction
+there is not a tennis ||contradiction
+the woman is not on court ||contradiction

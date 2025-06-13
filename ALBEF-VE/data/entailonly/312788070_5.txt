@@ -1,0 +1,4 @@
+there is a soccer ||entailment
+there is a sideline ||entailment
+the soccer is playing ||neutral
+the soccer was on sideline ||entailment

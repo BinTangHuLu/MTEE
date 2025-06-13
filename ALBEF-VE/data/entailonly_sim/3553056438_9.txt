@@ -1,0 +1,3 @@
+there are clan ||entailment
+there is some fodder ||entailment
+the clan are sitting on hay ||entailment

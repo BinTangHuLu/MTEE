@@ -1,0 +1,6 @@
+There is a body. ||entailment
+There is atmosphere. ||entailment
+There is drink. ||contradiction
+The atmosphere is fresh. ||entailment
+The body is enjoying air. ||entailment
+The body is at water. ||entailment

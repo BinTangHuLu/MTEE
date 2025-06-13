@@ -1,0 +1,3 @@
+There is not a kid. ||contradiction
+There is not a waterpark. ||contradiction
+The kid is not playing at waterpark. ||contradiction

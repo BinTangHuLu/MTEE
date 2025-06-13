@@ -1,0 +1,2 @@
+There is a painter. ||entailment
+The painter is sketching. ||entailment

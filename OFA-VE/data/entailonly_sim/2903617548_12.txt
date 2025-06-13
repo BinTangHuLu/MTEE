@@ -1,0 +1,5 @@
+There is a agreeable. ||Entailment
+There are clan. ||Contradiction
+There is a automobile. ||Entailment
+The agreeable is being played by children. ||Entailment
+The clan are near the vehicle. ||Entailment

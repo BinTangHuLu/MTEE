@@ -1,0 +1,5 @@
+there is a person ||entailment
+there is a pool ||entailment
+the person is little ||entailment
+the person is wearing a pink bathing suit ||entailment
+the person laughs by the pool ||entailment

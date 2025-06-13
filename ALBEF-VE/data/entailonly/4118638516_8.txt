@@ -1,0 +1,5 @@
+there are wares ||entailment
+there is a man ||entailment
+there is a shop ||entailment
+the wares are colorful ||entailment
+the wares are hanging in the shop ||entailment

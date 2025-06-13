@@ -1,0 +1,4 @@
+There is a body. ||entailment
+There is a farmland. ||entailment
+The body is standing. ||entailment
+The body is in the field. ||entailment

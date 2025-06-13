@@ -1,0 +1,5 @@
+There is a girl. ||entailment
+There is a leotard. ||entailment
+The girl is young. ||entailment
+The leotard is black. ||entailment
+The girl is wearing a leotard. ||entailment

@@ -1,0 +1,5 @@
+there is not a sun ||contradiction
+there is not a boy ||contradiction
+there are not bubbles ||contradiction
+the sun is not setting ||contradiction
+the boy is not blowing bubbles ||contradiction

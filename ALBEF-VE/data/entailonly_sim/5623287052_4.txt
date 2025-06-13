@@ -1,0 +1,5 @@
+there is a companion ||neutral
+there is description ||entailment
+there is bread ||entailment
+the companion is in nature ||entailment
+the shops are for bread ||neutral

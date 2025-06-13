@@ -1,0 +1,5 @@
+There is a animal. ||entailment
+The animal is standing. ||contradiction
+There are equipment. ||entailment
+The equipment are large. ||entailment
+The animal is between objects. ||entailment

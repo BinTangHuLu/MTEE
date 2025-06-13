@@ -1,0 +1,4 @@
+there is a dog ||entailment
+there are some hurdles ||entailment
+the dog is running ||entailment
+the dog is next to hurdles ||entailment

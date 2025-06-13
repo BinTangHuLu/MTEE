@@ -1,0 +1,5 @@
+there is a dude ||entailment
+there is a camcorder ||entailment
+there is a child ||entailment
+the dude looks past the camera ||entailment
+the child sits behind the man ||entailment

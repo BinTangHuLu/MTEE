@@ -1,0 +1,3 @@
+there are dude ||entailment
+there are two dude ||entailment
+the dude are doing martial arts ||entailment

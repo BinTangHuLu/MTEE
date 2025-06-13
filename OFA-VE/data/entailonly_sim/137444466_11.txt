@@ -1,0 +1,3 @@
+There is brink. ||Entailment
+There is a capital. ||Entailment
+Eve is in the capital. ||Neutral

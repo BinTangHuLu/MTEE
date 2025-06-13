@@ -1,0 +1,6 @@
+there are not men ||contradiction
+there is not a barbecue ||contradiction
+there is not a field ||contradiction
+the men do not stand behind the barbecue ||contradiction
+the barbecue is not in the field ||contradiction
+the men are not smiling ||contradiction

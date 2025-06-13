@@ -1,0 +1,4 @@
+there are men ||entailment
+there is beer ||entailment
+the men stand together ||entailment
+one is holding beer ||neutral

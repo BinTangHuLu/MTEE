@@ -1,0 +1,4 @@
+There is a man. ||Entailment
+There is a wall. ||Entailment
+There is a rock. ||Entailment
+The man climbs the wall. ||Entailment

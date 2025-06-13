@@ -1,0 +1,9 @@
+there is a man ||entailment
+there is a hat ||entailment
+there is a hoodie ||entailment
+there is a building ||entailment
+there is a cat ||entailment
+the man is standing ||contradiction
+the man is standing near the building ||neutral
+the cat is on the man ||contradiction
+the man is with the cat ||entailment

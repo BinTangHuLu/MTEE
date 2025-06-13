@@ -1,0 +1,2 @@
+there is a female ||entailment
+the chevrolet cruze is being presented by the female ||entailment

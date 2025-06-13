@@ -1,0 +1,2 @@
+EA,human,single
+E1R,human,is outside in front of

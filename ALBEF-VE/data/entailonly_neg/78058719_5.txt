@@ -1,0 +1,4 @@
+there is not a woman ||contradiction
+there is not a dishwasher ||contradiction
+the woman is not unloaded ||entailment
+the woman is not unloaded by dishwasher ||entailment

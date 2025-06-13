@@ -1,0 +1,3 @@
+There is not a girl. ||Contradiction
+The girl is not outdoors. ||Entailment
+The girl is not outdoors. ||Entailment

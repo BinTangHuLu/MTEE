@@ -1,0 +1,4 @@
+There is not a man. ||contradiction
+There is not surfing. ||contradiction
+The man is not outdoors. ||contradiction
+The man is not surfing outdoors. ||contradiction

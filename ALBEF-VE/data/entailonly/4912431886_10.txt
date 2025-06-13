@@ -1,0 +1,3 @@
+there is a washer ||entailment
+there is a building ||entailment
+the washer is cleaning the building ||entailment

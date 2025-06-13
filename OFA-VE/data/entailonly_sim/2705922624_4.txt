@@ -1,0 +1,5 @@
+There is a dude. ||Contradiction
+There is a association. ||Entailment
+There are community. ||Entailment
+The dude is talking to the group. ||Entailment
+The association is of people. ||Entailment

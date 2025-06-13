@@ -1,0 +1,5 @@
+There is a band. ||entailment
+There is a trio. ||entailment
+There are musicians. ||entailment
+The band consists of trio. ||entailment
+The trio consists of musicians. ||entailment

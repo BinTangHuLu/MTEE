@@ -1,0 +1,4 @@
+there are teenagers ||entailment
+there is a store ||entailment
+the teenagers are outside ||entailment
+the teenagers are outside of the store ||entailment

@@ -1,0 +1,5 @@
+There is not a cowboy. ||Entailment
+There are not some people. ||Contradiction
+There is not a street. ||Contradiction
+The cowboy does not ride past people. ||Contradiction
+The people are not on the street. ||Entailment

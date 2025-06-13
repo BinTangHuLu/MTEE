@@ -1,0 +1,3 @@
+EA,group,small
+E1RE2,group,are standing on,beach
+EA,beach,palm tree lined

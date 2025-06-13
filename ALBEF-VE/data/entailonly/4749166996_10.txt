@@ -1,0 +1,5 @@
+there is a gentleman ||entailment
+there is a suit ||entailment
+there is a stage ||entailment
+the gentleman is bald ||neutral
+the gentleman is standing on stage ||neutral

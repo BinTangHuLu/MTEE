@@ -1,0 +1,5 @@
+there is not a man ||contradiction
+there are not some jeans ||contradiction
+there is not a horse ||contradiction
+the jeans are not waring ||neutral
+the man does not lead the horse ||neutral

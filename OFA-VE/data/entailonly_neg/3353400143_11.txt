@@ -1,0 +1,4 @@
+There is not a motorcyclist. ||Contradiction
+There is not a motorcycle. ||Contradiction
+The motorcycle is hisnot /her. ||Contradiction
+The motorcyclist is not riding the motorcycle. ||Contradiction

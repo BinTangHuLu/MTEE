@@ -1,0 +1,3 @@
+there are community ||entailment
+there is a dude ||entailment
+the community are sitting around the man ||entailment

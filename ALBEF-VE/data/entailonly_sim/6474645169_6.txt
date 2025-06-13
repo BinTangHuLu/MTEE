@@ -1,0 +1,4 @@
+there is a ball game ||entailment
+there is penn community ||entailment
+the ball game is between lafayette ||neutral
+the ball game is between penn state ||neutral

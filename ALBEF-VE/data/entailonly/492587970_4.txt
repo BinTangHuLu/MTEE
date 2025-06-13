@@ -1,0 +1,3 @@
+there are men ||entailment
+the men are grooming ||entailment
+the men are grooming selves ||neutral

@@ -1,0 +1,4 @@
+There are not people. ||contradiction
+There is not a picture. ||contradiction
+The people are not hood wearing. ||contradiction
+The people do not pose for the picture. ||neutral

@@ -1,0 +1,4 @@
+There is not a skateboarder. ||contradiction
+There is not another. ||contradiction
+The skateboarder is not jumping other. ||contradiction
+The other is not sitting skateboarder. ||entailment

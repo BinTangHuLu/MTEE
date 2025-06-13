@@ -1,0 +1,7 @@
+There is an animal. ||entailment
+The animal is outside. ||entailment
+The animal is in cold weather. ||entailment
+The animal is playing. ||entailment
+The animal is plastic. ||neutral
+The animal is a toy. ||entailment
+The animal is playing with a toy. ||entailment

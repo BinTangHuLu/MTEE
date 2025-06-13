@@ -1,0 +1,3 @@
+there is a dog ||entailment
+there is a course ||entailment
+the dog is running through the course ||neutral

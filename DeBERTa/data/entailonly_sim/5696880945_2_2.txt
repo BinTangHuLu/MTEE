@@ -1,0 +1,4 @@
+There are community. ||entailment
+There is drink. ||entailment
+The community have clothes on. ||entailment
+The community are in water. ||entailment

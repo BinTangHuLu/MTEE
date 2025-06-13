@@ -1,0 +1,3 @@
+there are not players ||contradiction
+there is not a football ||contradiction
+the players do not play football ||contradiction

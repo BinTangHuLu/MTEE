@@ -1,0 +1,4 @@
+There is not a Person. ||Contradiction
+There is not a beer. ||Contradiction
+The Person is not drinking. ||Contradiction
+The Person is not drinking beer. ||Entailment

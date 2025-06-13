@@ -1,0 +1,4 @@
+There is a dude. ||Entailment
+There is some accessory. ||Entailment
+The accessory is safety. ||Entailment
+The dude is wearing gear. ||Entailment

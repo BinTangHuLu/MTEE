@@ -1,0 +1,3 @@
+there is a cadet ||entailment
+the cadet is working ||entailment
+the cadet is working ||entailment

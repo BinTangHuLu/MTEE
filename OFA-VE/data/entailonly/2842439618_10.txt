@@ -1,0 +1,3 @@
+There are surfers. ||Entailment
+There is water. ||Entailment
+The surfers are on water. ||Entailment

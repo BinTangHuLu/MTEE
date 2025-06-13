@@ -1,0 +1,3 @@
+There is a child. ||entailment
+There is a blossom. ||entailment
+The child is holding the flower. ||entailment

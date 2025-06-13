@@ -1,0 +1,5 @@
+there is an bodily ||entailment
+there is some dirt ||entailment
+the dirt is kicking up ||neutral
+the bodily is playing ||entailment
+the bodily is kicking up dust ||entailment

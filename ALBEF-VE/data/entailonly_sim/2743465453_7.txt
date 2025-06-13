@@ -1,0 +1,4 @@
+there is a server ||entailment
+there is an form ||entailment
+the server is ready ||entailment
+the server is ready to take the order ||entailment

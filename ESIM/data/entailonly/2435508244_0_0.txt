@@ -1,0 +1,5 @@
+There is a man. ||entailment
+There is a table. ||entailment
+The man sits. ||entailment
+The man is near the table. ||entailment
+The man has his drinks. ||entailment

@@ -1,0 +1,4 @@
+there is a man ||entailment
+there is some scenery ||entailment
+the scenery is a mountain ||neutral
+the man is enjoying the scenery ||entailment

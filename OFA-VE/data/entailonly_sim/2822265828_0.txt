@@ -1,0 +1,4 @@
+There are adolescent. ||Entailment
+The adolescent are each. ||Entailment
+The adolescent are wearing. ||Entailment
+The adolescent are different. ||Entailment

@@ -1,0 +1,4 @@
+There is not a girl. ||contradiction
+The girl is not young. ||contradiction
+The girl is not white. ||contradiction
+The girl is not outdoors. ||contradiction

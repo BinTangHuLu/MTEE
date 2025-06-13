@@ -1,0 +1,4 @@
+There are not vessels. ||Contradiction
+There is not a sea. ||Contradiction
+There are not four vessels. ||Contradiction
+The vessels are not sailing at sea. ||Contradiction

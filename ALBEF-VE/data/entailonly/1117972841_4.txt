@@ -1,0 +1,3 @@
+there is a dog ||entailment
+there is sand ||entailment
+the dog is playing in sand ||entailment

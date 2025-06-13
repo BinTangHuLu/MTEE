@@ -1,0 +1,3 @@
+EA,child,one
+E1RE2,child,is outside,NA
+E1R,child,in

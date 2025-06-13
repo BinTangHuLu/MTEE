@@ -1,0 +1,9 @@
+There is not a couple. ||contradiction
+There are not angel costumes. ||contradiction
+There are not leaflets. ||contradiction
+There is not a sidewalk. ||contradiction
+The couple is not dressed in angel costumes. ||contradiction
+The leaflets are not handing out. ||contradiction
+The couple are not handing out leaflets. ||contradiction
+The couple are not dressed in angel costumes. ||contradiction
+The couple are not handing out on sidewalk. ||contradiction

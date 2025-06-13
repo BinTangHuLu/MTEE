@@ -1,0 +1,3 @@
+there are community ||entailment
+there is a link ||entailment
+the community look at the bridge ||entailment

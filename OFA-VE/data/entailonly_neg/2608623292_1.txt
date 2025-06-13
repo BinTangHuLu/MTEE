@@ -1,0 +1,4 @@
+There is not a man. ||Entailment
+There is not a bench. ||Entailment
+The man is not sitting. ||Entailment
+The man is not sitting on the bench. ||Entailment

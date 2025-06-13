@@ -1,0 +1,3 @@
+There is a baby. ||Entailment
+The baby is sitting. ||Entailment
+The baby is outside on tractor. ||Entailment

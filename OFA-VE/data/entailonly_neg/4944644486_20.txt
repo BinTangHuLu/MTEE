@@ -1,0 +1,4 @@
+There is not a depiction. ||Contradiction
+There is not an animal. ||Contradiction
+The depiction is not some kind of. ||Entailment
+The depiction is not visible. ||Contradiction

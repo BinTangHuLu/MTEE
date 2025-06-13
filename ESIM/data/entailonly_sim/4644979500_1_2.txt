@@ -1,0 +1,4 @@
+There is a association. ||entailment
+There are some community. ||neutral
+There is a auto. ||entailment
+The association is turning over the car. ||entailment

@@ -1,0 +1,8 @@
+there is not a gentleman ||contradiction
+there is not a screen ||contradiction
+there are not men ||contradiction
+there is not a table ||contradiction
+the gentleman is not old ||entailment
+the gentleman did not use the screen ||entailment
+the screen is not used to interact with men ||neutral
+the men are not at the table ||contradiction

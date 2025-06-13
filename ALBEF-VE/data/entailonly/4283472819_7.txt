@@ -1,0 +1,7 @@
+there is a man ||entailment
+there is a jacket ||entailment
+there are jeans ||entailment
+the jacket is two toned gray ||neutral
+the jacket is gray ||entailment
+the jacket is two toned ||entailment
+the man is skiing ||entailment

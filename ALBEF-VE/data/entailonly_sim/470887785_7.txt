@@ -1,0 +1,3 @@
+there is a animal ||entailment
+there are community ||entailment
+the animal is talking to people ||contradiction

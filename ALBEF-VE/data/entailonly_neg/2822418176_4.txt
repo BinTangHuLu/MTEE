@@ -1,0 +1,4 @@
+there is not a man ||contradiction
+the man is not elderly ||entailment
+there is not woodwork ||contradiction
+the man is not practicing woodwork ||contradiction

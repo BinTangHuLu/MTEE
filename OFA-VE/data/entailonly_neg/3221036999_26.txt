@@ -1,0 +1,4 @@
+There is not a Skateboarder. ||Contradiction
+There is not a ramp. ||Contradiction
+The Skateboarder is not jumping. ||Contradiction
+The Skateboarder is not jumping over ramp. ||Contradiction

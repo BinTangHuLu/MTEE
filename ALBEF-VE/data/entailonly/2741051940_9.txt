@@ -1,0 +1,3 @@
+there is a puppy ||entailment
+there is a bag ||entailment
+the puppy is standing on the bag ||entailment

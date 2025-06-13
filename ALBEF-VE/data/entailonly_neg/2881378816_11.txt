@@ -1,0 +1,4 @@
+there are not people ||contradiction
+there is not a man ||contradiction
+there is not a chair ||contradiction
+the people do not walk by the man ||entailment

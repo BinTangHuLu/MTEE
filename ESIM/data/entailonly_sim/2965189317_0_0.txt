@@ -1,0 +1,7 @@
+There is a body. ||entailment
+There is an article. ||entailment
+There is a bar. ||contradiction
+There is a enlarge. ||entailment
+The body is long. ||entailment
+The body stands on the side of the wall. ||entailment
+The enlarge floats on the side. ||contradiction

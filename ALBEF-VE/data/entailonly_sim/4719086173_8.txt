@@ -1,0 +1,3 @@
+there are apparel ||entailment
+the apparel are wearing ||neutral
+the firefighters are wearing apparel ||entailment

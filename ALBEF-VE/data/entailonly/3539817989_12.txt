@@ -1,0 +1,3 @@
+there are cats ||entailment
+there is a man ||entailment
+the cats are with the man ||entailment

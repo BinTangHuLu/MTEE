@@ -1,0 +1,3 @@
+there is a guy ||entailment
+the guy is photographed ||entailment
+the guy is being photographed ||entailment

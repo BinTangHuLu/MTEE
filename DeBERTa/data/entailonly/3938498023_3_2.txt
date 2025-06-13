@@ -1,0 +1,5 @@
+There are Pretzels. ||entailment
+The Pretzels are twisted. ||neutral
+The Pretzels are made from dough. ||entailment
+There is dough. ||entailment
+The dough is twisted. ||entailment

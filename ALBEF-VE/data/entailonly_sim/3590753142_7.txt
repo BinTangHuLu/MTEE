@@ -1,0 +1,3 @@
+there is a clan ||entailment
+there is drink ||entailment
+the clan is looking at water ||entailment

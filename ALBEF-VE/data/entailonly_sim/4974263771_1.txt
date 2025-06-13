@@ -1,0 +1,2 @@
+there are man ||entailment
+the man want to see something ||entailment

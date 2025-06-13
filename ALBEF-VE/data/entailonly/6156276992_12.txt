@@ -1,0 +1,5 @@
+there is a man ||entailment
+there is a camera ||entailment
+there are woods ||entailment
+the man has a camera ||entailment
+the camera is in the woods ||neutral

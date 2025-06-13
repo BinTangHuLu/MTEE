@@ -1,0 +1,3 @@
+there are community ||entailment
+there is a chair ||entailment
+the community are on the bench ||entailment

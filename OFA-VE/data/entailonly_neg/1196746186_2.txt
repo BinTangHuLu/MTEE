@@ -1,0 +1,3 @@
+There is not a person. ||Contradiction
+There is not a beach. ||Contradiction
+The person is not walking on the beach. ||Entailment

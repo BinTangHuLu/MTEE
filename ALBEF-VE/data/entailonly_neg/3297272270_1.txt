@@ -1,0 +1,4 @@
+there are not guys ||contradiction
+there are not clothes ||contradiction
+the clothes are not ballerina ||contradiction
+the guys are not wearing clothes ||contradiction

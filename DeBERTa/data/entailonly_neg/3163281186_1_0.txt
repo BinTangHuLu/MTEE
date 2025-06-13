@@ -1,0 +1,4 @@
+There is not a person. ||contradiction
+There is not an animal. ||contradiction
+The animal is not large. ||contradiction
+The person is not riding the animal. ||contradiction

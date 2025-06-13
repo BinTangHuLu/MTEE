@@ -1,0 +1,8 @@
+There is a dude. ||entailment
+There is a accomplishment. ||entailment
+There is a path. ||entailment
+There is a metropolitan field. ||neutral
+The dude is performing a skill. ||entailment
+The dude is performing a skateboard. ||entailment
+The skateboard is on the path. ||entailment
+The path is in the metropolitan area. ||entailment

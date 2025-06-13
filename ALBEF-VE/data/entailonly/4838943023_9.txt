@@ -1,0 +1,4 @@
+there is a man ||entailment
+there are some children ||entailment
+there is a picture ||entailment
+the man took the picture ||neutral

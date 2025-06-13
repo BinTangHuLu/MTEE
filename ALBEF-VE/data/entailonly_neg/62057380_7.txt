@@ -1,0 +1,4 @@
+there are not people ||contradiction
+there is not a sidewalk ||contradiction
+the people are not young ||entailment
+the people do not run down the sidewalk ||entailment

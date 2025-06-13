@@ -1,0 +1,4 @@
+there is a street ||entailment
+there is performing ||entailment
+the performing is dancing ||neutral
+the performing is dancing on street ||neutral

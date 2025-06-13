@@ -1,0 +1,5 @@
+there are clan ||entailment
+there is blizzard ||neutral
+there are four clan ||contradiction
+the clan are outside in snow ||entailment
+the clan are on trampoline ||entailment

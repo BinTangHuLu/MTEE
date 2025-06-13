@@ -1,0 +1,4 @@
+There are women. ||Entailment
+There are outfits. ||Entailment
+The outfits are matching. ||Neutral
+The women are wearing outfits. ||Entailment

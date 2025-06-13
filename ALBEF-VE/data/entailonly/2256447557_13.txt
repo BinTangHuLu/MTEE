@@ -1,0 +1,4 @@
+there are kids ||entailment
+there is a beach ||entailment
+the kids and adults are on the beach ||entailment
+the kids are on the beach ||entailment

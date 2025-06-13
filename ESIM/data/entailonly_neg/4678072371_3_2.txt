@@ -1,0 +1,5 @@
+There are not automobiles. ||contradiction
+There are not humans. ||contradiction
+There is not a hotel. ||contradiction
+The automobiles are not outside the hotel. ||contradiction
+The humans are not outside the hotel. ||contradiction

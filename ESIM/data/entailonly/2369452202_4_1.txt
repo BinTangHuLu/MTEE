@@ -1,0 +1,4 @@
+There is a hot air balloon. ||entailment
+There is a sky. ||entailment
+The hot air balloon is hot. ||entailment
+The hot air balloon is rising in the sky. ||contradiction

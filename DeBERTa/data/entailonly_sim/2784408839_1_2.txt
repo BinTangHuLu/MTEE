@@ -1,0 +1,2 @@
+There is a outrigger. ||neutral
+The outrigger is being ridden. ||contradiction

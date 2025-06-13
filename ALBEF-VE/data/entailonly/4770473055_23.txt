@@ -1,0 +1,6 @@
+there is a male ||entailment
+there is a hat ||entailment
+there is a head ||entailment
+the male is male ||neutral
+the male has a hat ||entailment
+the hat is over the head ||entailment

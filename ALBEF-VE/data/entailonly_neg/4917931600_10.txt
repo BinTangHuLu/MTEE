@@ -1,0 +1,5 @@
+there is not a man ||contradiction
+there are not some goggles ||contradiction
+there is not a road ||contradiction
+the goggles are not wearing ||contradiction
+the man does not sit in road ||contradiction

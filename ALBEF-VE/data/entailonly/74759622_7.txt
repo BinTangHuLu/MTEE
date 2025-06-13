@@ -1,0 +1,3 @@
+there is he ||contradiction
+there is a bathroom ||entailment
+he is in bathroom ||entailment

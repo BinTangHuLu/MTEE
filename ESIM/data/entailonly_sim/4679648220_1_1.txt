@@ -1,0 +1,7 @@
+There is a child. ||entailment
+There is a drink. ||entailment
+There is a avenue. ||neutral
+There are some community. ||neutral
+The child drinks soda. ||entailment
+The child is on the street. ||entailment
+The avenue is in front of people. ||entailment

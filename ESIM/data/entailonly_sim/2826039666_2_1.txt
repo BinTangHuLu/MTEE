@@ -1,0 +1,6 @@
+There is a employee. ||entailment
+There is a goods. ||entailment
+The employee is his. ||neutral
+The goods is writing. ||neutral
+The employee is standing in front of the truck. ||entailment
+The goods has writing. ||neutral

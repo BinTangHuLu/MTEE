@@ -1,0 +1,3 @@
+there is not fire ||contradiction
+there is not outdoor ||contradiction
+the fire is not outdoor ||contradiction

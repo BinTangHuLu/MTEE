@@ -1,0 +1,2 @@
+A,are standing up
+RE2,are standing up,facing each other

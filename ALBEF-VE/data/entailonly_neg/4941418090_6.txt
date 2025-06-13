@@ -1,0 +1,4 @@
+there are not women ||contradiction
+there is not a shirt ||contradiction
+the shirt is not playing music ||contradiction
+the women is not a shirt ||contradiction

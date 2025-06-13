@@ -1,0 +1,3 @@
+There is a man. ||entailment
+There is a bag. ||entailment
+The man is carrying the bag. ||entailment

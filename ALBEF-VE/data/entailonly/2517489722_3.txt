@@ -1,0 +1,6 @@
+there is a man ||entailment
+there are woods ||entailment
+there is a girl ||entailment
+the girl is young ||entailment
+the man walks in woods ||entailment
+the girl climbs ||entailment

@@ -1,0 +1,3 @@
+there are not children ||contradiction
+there are not pumpkins ||contradiction
+the children are not in front of pumpkins ||contradiction

@@ -1,0 +1,6 @@
+There is a apparatus. ||entailment
+There is an building. ||entailment
+There is a dude. ||entailment
+There is drink. ||contradiction
+The apparatus takes down architecture. ||entailment
+The dude sprays on water. ||entailment

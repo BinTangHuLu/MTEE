@@ -1,0 +1,2 @@
+There is not a bus. ||Contradiction
+The bus is empty. ||Neutral

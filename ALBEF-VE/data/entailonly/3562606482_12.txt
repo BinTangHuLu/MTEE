@@ -1,0 +1,5 @@
+there is a man ||entailment
+there is a woman ||entailment
+the man is holding hands ||neutral
+the woman is holding hands ||entailment
+the man is holding hands with the woman ||contradiction

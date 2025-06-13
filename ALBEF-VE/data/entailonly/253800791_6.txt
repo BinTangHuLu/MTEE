@@ -1,0 +1,5 @@
+there are guys ||entailment
+there is a game ||entailment
+the guys are playing the game ||entailment
+the game is in the lot ||neutral
+the lot is public ||neutral

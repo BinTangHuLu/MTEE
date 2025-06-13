@@ -1,0 +1,4 @@
+There are not people. ||Contradiction
+There is not an outing. ||Contradiction
+The people do not talk with people. ||Contradiction
+The people are not on outing. ||Contradiction

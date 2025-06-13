@@ -1,0 +1,5 @@
+there is a man ||entailment
+there is a girl ||entailment
+there are shoulders ||entailment
+the man is holding the girl ||entailment
+the girl is on the shoulders ||entailment

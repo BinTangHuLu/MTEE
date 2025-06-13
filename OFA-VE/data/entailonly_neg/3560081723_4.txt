@@ -1,0 +1,3 @@
+There is not a man. ||Contradiction
+There is not a vehicle. ||Contradiction
+The man is not driving the vehicle. ||Contradiction

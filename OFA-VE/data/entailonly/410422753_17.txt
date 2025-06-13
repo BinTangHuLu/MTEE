@@ -1,0 +1,3 @@
+There are dogs. ||Entailment
+There is snow. ||Entailment
+The dogs are playing outside in snow. ||Neutral

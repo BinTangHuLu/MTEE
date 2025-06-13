@@ -1,0 +1,5 @@
+there is a dude ||entailment
+there is a child ||entailment
+the child is young ||neutral
+the dude walks in woods ||entailment
+the child climbs ||entailment

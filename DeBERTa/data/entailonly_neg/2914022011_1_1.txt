@@ -1,0 +1,5 @@
+There is not a man. ||contradiction
+There is not a shadow. ||contradiction
+There is not a person. ||contradiction
+The man is not standing outside the shadow. ||entailment
+The man is not having his photo taken by the person. ||contradiction

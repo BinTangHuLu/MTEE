@@ -1,0 +1,4 @@
+There is not a man. ||Entailment
+There is not a body. ||Contradiction
+The body is hisnot . ||Contradiction
+The man is not contorting his body. ||Entailment

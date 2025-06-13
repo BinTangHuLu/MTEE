@@ -1,0 +1,4 @@
+There is not an outfit. ||contradiction
+The outfit is not white. ||contradiction
+There are not women. ||contradiction
+The women are not playing tennis. ||contradiction

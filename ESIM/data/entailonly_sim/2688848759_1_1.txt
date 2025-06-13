@@ -1,0 +1,7 @@
+There are community. ||neutral
+The community are talking. ||neutral
+The community are drinking. ||neutral
+The community are sitting. ||neutral
+There is a bar. ||neutral
+The bar is outside. ||entailment
+The community are sitting at the table. ||neutral

@@ -1,0 +1,3 @@
+There are adolescent. ||Entailment
+There is a association. ||Entailment
+The adolescent are playing with one another. ||Entailment

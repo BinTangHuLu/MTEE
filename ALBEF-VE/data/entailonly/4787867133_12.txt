@@ -1,0 +1,3 @@
+there is a person ||entailment
+there are concessions ||entailment
+the person is selling concessions ||entailment

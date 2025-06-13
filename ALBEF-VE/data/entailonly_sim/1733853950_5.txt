@@ -1,0 +1,5 @@
+there is a dude ||entailment
+there is a exit ||entailment
+there is a female ||entailment
+the dude holds the door ||entailment
+the dude is for the woman ||neutral

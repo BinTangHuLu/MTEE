@@ -1,0 +1,5 @@
+there is a dog ||entailment
+there is a rifle ||entailment
+the dog is small ||entailment
+the rifle is aimed ||neutral
+the dog aims a rifle ||entailment

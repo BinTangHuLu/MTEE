@@ -1,0 +1,9 @@
+there are not boys ||contradiction
+there is not a lake ||contradiction
+there is not a boy ||contradiction
+there is not a shirt ||contradiction
+there are not rocks ||contradiction
+the shirt is not teal ||contradiction
+the boys are not playing by the lake ||contradiction
+the boy does not throw rocks ||contradiction
+the rocks are not in the lake ||contradiction

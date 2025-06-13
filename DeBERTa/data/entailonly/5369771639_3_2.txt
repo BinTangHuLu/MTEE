@@ -1,0 +1,6 @@
+There is a ref. ||entailment
+There are men. ||entailment
+There is a game. ||entailment
+The ref watches men. ||entailment
+The men are in the game. ||entailment
+The ref watches the game. ||entailment

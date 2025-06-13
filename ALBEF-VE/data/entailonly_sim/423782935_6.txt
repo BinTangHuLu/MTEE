@@ -1,0 +1,4 @@
+there are boy ||entailment
+there is a pup ||entailment
+the pup is tiny ||contradiction
+the boy are standing near the dog ||contradiction

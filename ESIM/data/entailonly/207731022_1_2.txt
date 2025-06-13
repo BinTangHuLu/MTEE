@@ -1,0 +1,5 @@
+There is a canoe. ||entailment
+There is a dock. ||contradiction
+The canoe is untied. ||neutral
+The canoe has come untied. ||entailment
+The canoe is drifting. ||entailment

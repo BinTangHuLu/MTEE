@@ -1,0 +1,3 @@
+There is a woman. ||entailment
+There is a bathroom. ||entailment
+The woman is in the bathroom. ||entailment

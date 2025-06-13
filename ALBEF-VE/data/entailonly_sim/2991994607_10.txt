@@ -1,0 +1,5 @@
+there are community ||entailment
+there is a apparel ||entailment
+there is a celebration ||entailment
+the community are in costume ||entailment
+the community are at the party ||entailment

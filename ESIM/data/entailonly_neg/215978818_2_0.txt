@@ -1,0 +1,5 @@
+There are not children. ||contradiction
+There is not a water art display. ||contradiction
+The children are not Three. ||contradiction
+The water art display is not illuminated. ||contradiction
+The children are not interacting with the water art display. ||contradiction

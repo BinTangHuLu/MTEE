@@ -1,0 +1,3 @@
+There is a child. ||Entailment
+The child is bouncing around. ||Entailment
+The child is bouncing around outside. ||Entailment

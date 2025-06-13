@@ -1,0 +1,6 @@
+There is not a woman. ||contradiction
+There are not some drums. ||contradiction
+The woman is not playing. ||contradiction
+The woman is not speaking. ||contradiction
+The woman is not playing drums. ||contradiction
+The woman is not speaking at the same time. ||contradiction

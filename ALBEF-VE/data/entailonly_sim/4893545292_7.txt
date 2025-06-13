@@ -1,0 +1,4 @@
+there is a body ||entailment
+there is a camcorder ||entailment
+the body is holding ||entailment
+the body is holding a camera ||entailment

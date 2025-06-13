@@ -1,0 +1,6 @@
+there is not a girl ||contradiction
+there is not an outfit ||contradiction
+there are not leaves ||contradiction
+the girl is not little ||contradiction
+the girl is not in the outfit ||neutral
+the girl does not stand in leaves ||contradiction

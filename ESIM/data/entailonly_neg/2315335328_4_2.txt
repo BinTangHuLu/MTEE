@@ -1,0 +1,7 @@
+There is not a lady. ||contradiction
+There is not a dress. ||contradiction
+There is not a container. ||contradiction
+There are not toys. ||contradiction
+The lady is not in a dress. ||contradiction
+The container is not of yarn. ||contradiction
+The lady does not have toys. ||contradiction

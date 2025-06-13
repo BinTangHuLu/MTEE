@@ -1,0 +1,3 @@
+there are not people ||contradiction
+there is not a trail ||contradiction
+the people are not on the trail ||contradiction

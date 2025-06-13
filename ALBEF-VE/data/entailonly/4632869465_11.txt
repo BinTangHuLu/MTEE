@@ -1,0 +1,4 @@
+there is a girl ||entailment
+there are some flowers ||entailment
+the girl is young ||neutral
+the girl holds flowers ||entailment

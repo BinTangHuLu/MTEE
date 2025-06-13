@@ -1,0 +1,3 @@
+there is a dog ||entailment
+the dog walks ||entailment
+the dog walks outside ||entailment

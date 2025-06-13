@@ -1,0 +1,4 @@
+There is a child. ||entailment
+There is a man. ||entailment
+There are shoulders. ||entailment
+The child is riding on shoulders. ||entailment

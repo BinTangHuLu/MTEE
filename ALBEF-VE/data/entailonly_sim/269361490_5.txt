@@ -1,0 +1,5 @@
+there are community ||entailment
+there is a avenue ||entailment
+there are four community ||entailment
+the community are dressed in black ||entailment
+the community are walking down street ||entailment

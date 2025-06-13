@@ -1,0 +1,2 @@
+there is a student ||entailment
+the student is painting ||entailment

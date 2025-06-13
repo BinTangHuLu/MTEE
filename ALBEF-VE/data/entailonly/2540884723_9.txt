@@ -1,0 +1,10 @@
+there is a woman ||entailment
+there is an attire ||entailment
+the attire is red business ||neutral
+the attire is wearing ||entailment
+there is a step ||entailment
+there is a man ||entailment
+the man is in leather jacket ||entailment
+the woman is sitting on the step ||entailment
+the step is with the man ||entailment
+the man is eating ||entailment

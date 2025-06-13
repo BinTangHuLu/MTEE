@@ -1,0 +1,6 @@
+there is a dude ||entailment
+there are some specs ||entailment
+there is a banner ||entailment
+there are some beer glass ||entailment
+the specs are with ||neutral
+the dude has beer bottles ||entailment

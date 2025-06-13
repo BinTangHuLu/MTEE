@@ -1,0 +1,5 @@
+There is not a man. ||contradiction
+There is not water. ||contradiction
+There is not concrete. ||contradiction
+The man is not spraying water. ||contradiction
+The man is not on concrete. ||contradiction

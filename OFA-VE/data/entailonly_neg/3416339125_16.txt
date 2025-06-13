@@ -1,0 +1,3 @@
+There is not a man. ||Contradiction
+There is not a shirt. ||Contradiction
+The man is not wearing the shirt. ||Neutral

@@ -1,0 +1,4 @@
+There is an sea. ||entailment
+The sea is blue. ||entailment
+The amount is blue. ||entailment
+The sea swims in wideness. ||entailment

@@ -1,0 +1,3 @@
+There is not a gathering. ||contradiction
+There are not some characters. ||contradiction
+The gathering is not of cartoon characters. ||contradiction

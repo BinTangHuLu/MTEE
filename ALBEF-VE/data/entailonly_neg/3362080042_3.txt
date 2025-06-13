@@ -1,0 +1,3 @@
+there is not number 16 ||contradiction
+there is not a base ||contradiction
+number 16 does not try to tag base ||contradiction

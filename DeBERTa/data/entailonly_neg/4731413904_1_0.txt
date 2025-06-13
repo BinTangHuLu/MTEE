@@ -1,0 +1,5 @@
+There are not men. ||contradiction
+There is not a TV. ||contradiction
+There is not a bar. ||contradiction
+The men are not watching TV. ||contradiction
+The men are not at the bar. ||contradiction

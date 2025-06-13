@@ -1,0 +1,3 @@
+there are not products ||contradiction
+there is not furniture ||contradiction
+the products are not on furniture ||entailment

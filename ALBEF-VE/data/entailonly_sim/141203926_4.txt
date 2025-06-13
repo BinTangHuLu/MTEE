@@ -1,0 +1,5 @@
+there are female ||entailment
+there is an smock ||entailment
+the smock is wearing ||neutral
+the female are doing her job ||entailment
+the female is doing job ||entailment

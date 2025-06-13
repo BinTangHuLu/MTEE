@@ -1,0 +1,4 @@
+there is a baby ||entailment
+there is an apparatus ||entailment
+the baby is holding ||entailment
+the baby is holding the instrument ||entailment

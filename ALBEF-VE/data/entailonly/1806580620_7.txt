@@ -1,0 +1,6 @@
+there is a girl ||entailment
+there are some sunglasses ||entailment
+there is a jean ||entailment
+the girl is wearing ||entailment
+the sunglasses are wearing ||neutral
+the girl is smiling ||entailment

@@ -1,0 +1,5 @@
+There is a girl. ||Entailment
+There is water. ||Entailment
+There is a jacket. ||Contradiction
+The girl floats in water. ||Entailment
+The girl is with a jacket. ||Contradiction

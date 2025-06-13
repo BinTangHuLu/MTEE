@@ -1,0 +1,8 @@
+there is a dude ||entailment
+there is a fedora ||contradiction
+there is a bestow ||neutral
+there is a activity ||entailment
+the bestow is orange ||contradiction
+the activity is major ||neutral
+the activity is indoor ||entailment
+the dude stands near the project ||entailment

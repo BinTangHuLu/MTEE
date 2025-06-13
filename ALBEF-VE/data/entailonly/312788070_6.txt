@@ -1,0 +1,3 @@
+there are soccer players ||entailment
+there is a crowd ||entailment
+the soccer players are in front of the crowd ||entailment

@@ -1,0 +1,6 @@
+There is a Woman. ||entailment
+There are some paintings. ||entailment
+There are some girls. ||entailment
+There are some feet. ||entailment
+The Woman views paintings. ||entailment
+The Woman is at feet. ||contradiction

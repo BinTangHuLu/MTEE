@@ -1,0 +1,3 @@
+there is a depot ||entailment
+the depot is metro ||neutral
+someone is standing near the depot ||neutral

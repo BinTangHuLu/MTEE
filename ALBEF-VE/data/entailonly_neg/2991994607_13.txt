@@ -1,0 +1,3 @@
+there are not people ||contradiction
+there are not costumes ||contradiction
+people are not wearing costumes ||contradiction

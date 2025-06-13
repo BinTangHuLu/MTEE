@@ -1,0 +1,4 @@
+there are list ||contradiction
+there is a angle ||entailment
+the list are young female ||neutral
+the list are on the pitch ||entailment

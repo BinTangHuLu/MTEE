@@ -1,0 +1,14 @@
+There is not a guy. ||contradiction
+There are not some pants. ||contradiction
+There is not a shirt. ||contradiction
+There is not something. ||contradiction
+There is not a face. ||contradiction
+There are not lungs. ||contradiction
+There is not fire. ||contradiction
+The guy is not clothed. ||contradiction
+The guy is not wearing a shirt. ||contradiction
+The pants are not clothed. ||contradiction
+The shirt is not clothed. ||contradiction
+The guy is not wearing face. ||contradiction
+The guy is not wearing lungs. ||contradiction
+The guy does not put out fire. ||contradiction

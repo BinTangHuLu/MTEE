@@ -1,0 +1,7 @@
+There is not a woman. ||contradiction
+There is not a man. ||contradiction
+There is not a couple. ||contradiction
+The woman does not dance. ||contradiction
+The woman does not dance with the man. ||contradiction
+The man is not next to the couple. ||contradiction
+The couple is not dancing. ||contradiction

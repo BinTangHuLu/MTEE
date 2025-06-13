@@ -1,0 +1,3 @@
+There is not a line. ||Contradiction
+There are not customers. ||Entailment
+The line is not of customers. ||Neutral

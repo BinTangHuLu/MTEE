@@ -1,0 +1,6 @@
+there is a child ||entailment
+there is a costume ||entailment
+there is some accessory ||entailment
+the child is smiling ||neutral
+the child is wearing a suit ||contradiction
+the child is wearing gear ||entailment

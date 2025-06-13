@@ -1,0 +1,4 @@
+there is a workman ||entailment
+there is a sign ||entailment
+the workman is removing ||entailment
+the workman is removing the sign ||entailment

@@ -1,0 +1,5 @@
+there is a dude ||entailment
+there is a colt ||neutral
+there is a avenue ||entailment
+the dude is riding the horse ||entailment
+the colt is in the street ||entailment

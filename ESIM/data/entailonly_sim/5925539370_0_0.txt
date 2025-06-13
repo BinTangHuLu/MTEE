@@ -1,0 +1,5 @@
+There are child. ||entailment
+There are mitt. ||entailment
+There are three child. ||entailment
+The mitt are baseball. ||neutral
+The child hold gloves. ||entailment

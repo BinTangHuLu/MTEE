@@ -1,0 +1,3 @@
+there is a male ||entailment
+there is a beard ||entailment
+the male has a beard ||entailment

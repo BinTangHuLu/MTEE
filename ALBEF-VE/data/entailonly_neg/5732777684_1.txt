@@ -1,0 +1,3 @@
+there are not kids ||contradiction
+there is not outside ||contradiction
+the kids are not outside ||entailment

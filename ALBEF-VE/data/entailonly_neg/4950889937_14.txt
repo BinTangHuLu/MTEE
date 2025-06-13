@@ -1,0 +1,4 @@
+there is not a woman ||contradiction
+there is not a street ||contradiction
+the street is not busy ||contradiction
+the woman is not walking down the street ||entailment

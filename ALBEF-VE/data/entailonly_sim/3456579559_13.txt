@@ -1,0 +1,3 @@
+there is a conspiracy ||entailment
+there is atmosphere ||entailment
+the conspiracy is performed in air ||neutral

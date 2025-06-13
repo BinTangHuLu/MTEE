@@ -1,0 +1,5 @@
+There is a girl. ||Entailment
+There is a bottle cap. ||Neutral
+There is a bottle. ||Entailment
+The girl is holding the bottle cap. ||Neutral
+The girl is holding the bottle. ||Entailment

@@ -1,0 +1,3 @@
+there is a female ||entailment
+there is a goods ||entailment
+the female is in the truck ||entailment

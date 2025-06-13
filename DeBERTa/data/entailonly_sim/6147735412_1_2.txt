@@ -1,0 +1,3 @@
+There is a female. ||entailment
+There are dude. ||entailment
+The female is talking amongst men. ||entailment

@@ -1,0 +1,6 @@
+there is not a girl ||contradiction
+there is not a hand ||contradiction
+there are not eyes ||contradiction
+the girl is not blonde ||contradiction
+the girl does not have a hand ||contradiction
+the hand is not over eyes ||contradiction

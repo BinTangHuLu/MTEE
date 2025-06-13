@@ -1,0 +1,4 @@
+There are men. ||Entailment
+There is beer. ||Entailment
+The men stand together. ||Entailment
+One is holding beer. ||Entailment

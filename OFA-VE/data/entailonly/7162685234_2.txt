@@ -1,0 +1,3 @@
+There are brothers. ||Neutral
+There is sand. ||Entailment
+The brothers play in sand. ||Entailment

@@ -1,0 +1,7 @@
+there are men ||entailment
+there is a meal ||entailment
+there are others ||entailment
+the men are two ||neutral
+the men cook the meal ||contradiction
+the meal is for others ||neutral
+the meal is outside in winter ||entailment

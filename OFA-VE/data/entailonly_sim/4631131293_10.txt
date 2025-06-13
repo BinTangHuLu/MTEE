@@ -1,0 +1,4 @@
+There are female. ||Entailment
+There are apparel. ||Entailment
+The apparel are matching. ||Entailment
+The female are wearing outfits. ||Entailment

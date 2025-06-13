@@ -1,0 +1,4 @@
+there is a child ||entailment
+there is an bodily ||entailment
+the bodily is stuffed ||entailment
+the child is holding an animal ||entailment

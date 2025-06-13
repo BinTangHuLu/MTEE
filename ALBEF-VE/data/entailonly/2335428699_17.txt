@@ -1,0 +1,3 @@
+there are children ||entailment
+there is a trampoline ||entailment
+the children are bouncing on the trampoline ||entailment

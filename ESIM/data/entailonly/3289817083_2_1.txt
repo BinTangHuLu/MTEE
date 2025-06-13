@@ -1,0 +1,5 @@
+There is a man. ||entailment
+There is a baby. ||entailment
+There is a pony. ||entailment
+The man is petting the pony. ||entailment
+The man is with the baby. ||entailment

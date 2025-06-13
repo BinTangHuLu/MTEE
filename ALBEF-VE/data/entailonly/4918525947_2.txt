@@ -1,0 +1,4 @@
+there is a woman ||entailment
+there is a uniform ||entailment
+the woman is chinese ||neutral
+the woman is wearing a uniform ||entailment

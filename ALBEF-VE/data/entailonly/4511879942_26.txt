@@ -1,0 +1,4 @@
+there is a woman ||entailment
+there is a subway entrance ||entailment
+the woman talks to woman ||entailment
+the woman is near subway entrance ||entailment

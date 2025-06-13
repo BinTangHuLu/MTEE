@@ -1,0 +1,4 @@
+there is a girl ||entailment
+there are some boots ||entailment
+the girl is small ||entailment
+the girl is cleaning boots ||entailment

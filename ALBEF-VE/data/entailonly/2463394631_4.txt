@@ -1,0 +1,2 @@
+there is a soldier ||entailment
+the soldier is bending over ||entailment

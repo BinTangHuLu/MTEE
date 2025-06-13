@@ -1,0 +1,9 @@
+there is a part ||entailment
+there is a wedding party ||entailment
+there is a bride ||entailment
+there is stuff ||entailment
+the part walks with the bride ||entailment
+the part walks with the party ||neutral
+the party walks with the bride ||entailment
+the bride is outside near stuff ||entailment
+the bride is near stuff ||entailment

@@ -1,0 +1,6 @@
+there is a sightseer ||entailment
+there is a cartoon ||neutral
+there is a cat statue ||contradiction
+the cat statue is historical ||contradiction
+the sightseer is taking a photo ||entailment
+the cartoon is with the lion statue ||neutral

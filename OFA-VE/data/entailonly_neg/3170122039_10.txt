@@ -1,0 +1,4 @@
+There are not people. ||Contradiction
+There are not bikes. ||Entailment
+The bikes are not outdoors. ||Entailment
+The people are not riding bikes. ||Entailment

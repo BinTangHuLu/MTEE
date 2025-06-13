@@ -1,0 +1,5 @@
+There are freight. ||contradiction
+There is a cartoon. ||neutral
+The freight are police. ||neutral
+The cartoon is two. ||contradiction
+The freight are in the photo. ||contradiction

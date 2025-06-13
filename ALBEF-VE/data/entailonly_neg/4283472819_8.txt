@@ -1,0 +1,4 @@
+there is not a man ||contradiction
+there is not a maneuver ||contradiction
+the maneuver is not tricky ||contradiction
+the man is not doing maneuver ||contradiction

@@ -1,0 +1,3 @@
+there is a man ||entailment
+there is a light ||entailment
+the man is seated under light ||entailment

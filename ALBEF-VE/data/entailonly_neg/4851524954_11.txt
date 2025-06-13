@@ -1,0 +1,4 @@
+there are not people ||entailment
+there is not a picture ||entailment
+there are not two people ||entailment
+the people are not in the picture ||entailment

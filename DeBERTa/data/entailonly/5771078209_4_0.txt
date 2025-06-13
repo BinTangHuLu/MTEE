@@ -1,0 +1,5 @@
+There is a man. ||entailment
+There is a bench. ||entailment
+There is a child. ||entailment
+The man is eating on the bench. ||entailment
+The bench is near the child. ||entailment

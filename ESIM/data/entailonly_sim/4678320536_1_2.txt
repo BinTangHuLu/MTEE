@@ -1,0 +1,5 @@
+There is a female. ||entailment
+There is some lumber. ||entailment
+The female is smiling. ||entailment
+The female stands while smiling. ||entailment
+The lumber was handed to the woman. ||neutral

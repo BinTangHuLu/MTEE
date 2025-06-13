@@ -1,0 +1,3 @@
+there is a period ||entailment
+the period is warm ||entailment
+the period makes kids ||contradiction

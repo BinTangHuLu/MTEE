@@ -1,0 +1,6 @@
+there is not a man ||contradiction
+there is not a flannel ||contradiction
+there is not a microphone ||contradiction
+the flannel is not wearing ||contradiction
+the man does not hold the microphone ||contradiction
+the man does not point at the man ||contradiction

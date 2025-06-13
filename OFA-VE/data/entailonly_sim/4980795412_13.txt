@@ -1,0 +1,3 @@
+There is a set. ||Entailment
+There is a artery. ||Entailment
+The set is on road. ||Neutral

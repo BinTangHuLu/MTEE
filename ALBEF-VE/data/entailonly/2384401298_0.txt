@@ -1,0 +1,3 @@
+there are dogs ||entailment
+there is water ||entailment
+the dogs are by water ||entailment

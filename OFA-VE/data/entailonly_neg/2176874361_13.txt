@@ -1,0 +1,4 @@
+There is not a dog. ||Entailment
+There is not a cow. ||Entailment
+The dog and cow are not outside. ||Entailment
+The dog is not outside cow. ||Entailment

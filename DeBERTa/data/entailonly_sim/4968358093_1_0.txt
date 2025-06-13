@@ -1,0 +1,2 @@
+There is a coast. ||entailment
+There is an advertisement. ||entailment

@@ -1,0 +1,4 @@
+there is not a lady ||contradiction
+there is not an outfit ||contradiction
+the outfit is not beautiful ||contradiction
+the lady is not wearing the beautiful outfit ||contradiction

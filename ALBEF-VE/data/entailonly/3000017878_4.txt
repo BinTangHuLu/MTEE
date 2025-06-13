@@ -1,0 +1,4 @@
+there is a group ||entailment
+there are some people ||entailment
+the group is playing music ||entailment
+the group is playing music for people ||neutral

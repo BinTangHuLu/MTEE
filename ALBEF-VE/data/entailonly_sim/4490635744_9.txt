@@ -1,0 +1,3 @@
+there are community ||entailment
+there is a barricade ||entailment
+the community are guarding the barrier ||neutral

@@ -1,0 +1,5 @@
+There is a person. ||entailment
+There are some sausages. ||entailment
+There is a market. ||entailment
+The person is hanging sausages. ||entailment
+The person is hanging market. ||entailment

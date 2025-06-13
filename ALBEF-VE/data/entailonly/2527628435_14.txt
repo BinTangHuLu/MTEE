@@ -1,0 +1,3 @@
+there is a guy ||entailment
+there is a cigarette ||entailment
+the guy is rolling cigarette ||neutral

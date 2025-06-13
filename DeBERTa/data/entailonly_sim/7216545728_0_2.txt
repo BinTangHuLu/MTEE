@@ -1,0 +1,12 @@
+There is a driver. ||entailment
+There is some accessory. ||entailment
+There is a pedal. ||entailment
+There is a bar. ||entailment
+The driver has a bike. ||entailment
+The driver is racing. ||entailment
+The accessory is for racing. ||entailment
+The pedal is past. ||entailment
+The bar is past. ||entailment
+The driver pedals the bike. ||entailment
+The driver is wearing gear. ||entailment
+The pedal is past the fence. ||entailment

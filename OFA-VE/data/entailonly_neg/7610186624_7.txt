@@ -1,0 +1,3 @@
+There is not a woman. ||Contradiction
+There is not an entree. ||Entailment
+The woman is not enjoying the entree. ||Neutral

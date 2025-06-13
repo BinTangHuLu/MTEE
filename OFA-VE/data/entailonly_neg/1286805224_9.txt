@@ -1,0 +1,4 @@
+There is not somebody. ||Contradiction
+There is not a shot. ||Contradiction
+Somebody is not in the shot. ||Entailment
+Somebody is not smiling in the shot. ||Neutral

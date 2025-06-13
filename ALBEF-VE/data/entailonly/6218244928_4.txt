@@ -1,0 +1,4 @@
+there is a group ||entailment
+there are some people ||entailment
+there is some equipment ||entailment
+the group is setting up equipment ||entailment

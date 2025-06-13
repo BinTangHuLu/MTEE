@@ -1,0 +1,5 @@
+there is a man ||entailment
+there is a fire ||entailment
+there is a crowd ||entailment
+the man holds fire ||entailment
+the fire is in the crowd ||entailment

@@ -1,0 +1,4 @@
+There is a person. ||entailment
+There is an animal. ||entailment
+The person is interacting with the animal. ||entailment
+The interaction is out of doors. ||entailment

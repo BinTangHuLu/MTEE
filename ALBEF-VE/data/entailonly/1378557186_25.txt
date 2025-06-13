@@ -1,0 +1,4 @@
+there are objects ||entailment
+there is a photo ||entailment
+there are three objects ||entailment
+the objects are animate ||neutral

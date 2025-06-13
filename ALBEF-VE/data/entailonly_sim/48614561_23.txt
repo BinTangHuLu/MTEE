@@ -1,0 +1,3 @@
+there are baby ||entailment
+there is a basement ||neutral
+the baby are sitting on the floor ||entailment

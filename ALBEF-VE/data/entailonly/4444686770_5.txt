@@ -1,0 +1,3 @@
+there is a boat ||entailment
+there are some people ||entailment
+the boat has people ||neutral

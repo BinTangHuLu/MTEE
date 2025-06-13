@@ -1,0 +1,3 @@
+There are not men. ||Contradiction
+There is not ground. ||Entailment
+The men are standing on ground. ||Contradiction

@@ -1,0 +1,3 @@
+there are boy ||entailment
+the girl is not awake ||entailment
+boy are not standing while gal ||entailment

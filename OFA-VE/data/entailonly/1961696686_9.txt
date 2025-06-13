@@ -1,0 +1,3 @@
+There is a woman. ||Entailment
+There is an alley. ||Entailment
+The woman is bowling in the alley. ||Neutral

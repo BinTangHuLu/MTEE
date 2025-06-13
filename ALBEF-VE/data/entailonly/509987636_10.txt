@@ -1,0 +1,3 @@
+there is a person ||entailment
+there is some art ||entailment
+the person is looking at art ||entailment

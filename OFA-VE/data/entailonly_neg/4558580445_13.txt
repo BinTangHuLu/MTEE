@@ -1,0 +1,4 @@
+There are not horses. ||Entailment
+There is not a line. ||Entailment
+The horses are not three. ||Entailment
+The horses are not in line. ||Entailment

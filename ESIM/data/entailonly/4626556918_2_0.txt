@@ -1,0 +1,6 @@
+There is a guy. ||entailment
+There is a skateboard. ||entailment
+There is a park. ||entailment
+The guy is with skateboard. ||entailment
+The guy is looking at the park. ||entailment
+The guy has skateboard at the park. ||entailment

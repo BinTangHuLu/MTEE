@@ -1,0 +1,5 @@
+there are adolescent ||entailment
+there are air ||entailment
+the adolescent are young ||entailment
+the air are painted ||entailment
+the adolescent are with faces ||entailment

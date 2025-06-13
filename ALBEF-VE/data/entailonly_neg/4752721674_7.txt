@@ -1,0 +1,3 @@
+there are not cameras ||contradiction
+there are not people ||contradiction
+the cameras are not monitoring people ||contradiction

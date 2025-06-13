@@ -1,0 +1,3 @@
+there is a man ||entailment
+there is air ||entailment
+the man is falling through air ||entailment

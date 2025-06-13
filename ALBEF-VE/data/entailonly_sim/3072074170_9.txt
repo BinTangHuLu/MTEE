@@ -1,0 +1,4 @@
+there is a dude ||entailment
+there is some barley ||neutral
+the dude stands ||entailment
+the dude stands in grass ||entailment

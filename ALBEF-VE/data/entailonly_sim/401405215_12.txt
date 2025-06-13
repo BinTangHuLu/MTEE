@@ -1,0 +1,9 @@
+there is a star ||neutral
+there is a child ||entailment
+there are detergent bubbles ||entailment
+there are sand ||neutral
+the star is setting ||neutral
+the child is blowing soap bubbles ||entailment
+the child is blowing soap bubbles ||entailment
+the detergent bubbles are by rocks ||entailment
+the detergent bubbles are at bay ||neutral

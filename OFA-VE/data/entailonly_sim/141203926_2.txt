@@ -1,0 +1,3 @@
+There is a female. ||Entailment
+There is effort. ||Entailment
+The female is at work. ||Entailment

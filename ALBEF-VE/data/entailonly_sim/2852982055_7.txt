@@ -1,0 +1,4 @@
+there is a baby ||entailment
+there are man ||contradiction
+the baby is one ||neutral
+the man are two ||entailment

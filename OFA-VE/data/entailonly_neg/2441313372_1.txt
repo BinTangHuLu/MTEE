@@ -1,0 +1,2 @@
+There is not a boy. ||Contradiction
+The boy did not fall. ||Entailment

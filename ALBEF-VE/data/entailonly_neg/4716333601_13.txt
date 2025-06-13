@@ -1,0 +1,5 @@
+there are not pedestrians ||contradiction
+there is not a road ||contradiction
+there is not a cafe ||contradiction
+the pedestrians do not walk on the road ||contradiction
+the road is not past the cafe ||contradiction

@@ -1,0 +1,4 @@
+there is not a performer ||contradiction
+there is not a street ||contradiction
+the performer is not juggling ||contradiction
+the performer is not juggling street ||contradiction

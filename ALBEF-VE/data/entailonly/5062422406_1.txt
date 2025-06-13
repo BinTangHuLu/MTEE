@@ -1,0 +1,4 @@
+there is a golfer ||entailment
+there is a club ||entailment
+the golfer is leaning ||entailment
+the golfer stands leaning on the club ||entailment

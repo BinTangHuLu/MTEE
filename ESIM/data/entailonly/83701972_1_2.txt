@@ -1,0 +1,4 @@
+There are humans. ||entailment
+There are two humans. ||entailment
+The humans are enjoying. ||entailment
+The humans are outside. ||entailment

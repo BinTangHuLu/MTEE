@@ -1,0 +1,4 @@
+there is a pedal ||entailment
+there is a bluff ||entailment
+the motorcyclist rides the pedal ||entailment
+the pedal goes over the hill ||entailment

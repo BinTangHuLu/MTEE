@@ -1,0 +1,5 @@
+there is a circle ||entailment
+there are some community ||entailment
+the circle is of people ||entailment
+the circle is seated ||neutral
+the circle are seated ||neutral

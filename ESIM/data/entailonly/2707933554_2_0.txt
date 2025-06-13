@@ -1,0 +1,5 @@
+There is a female. ||entailment
+There is a bee. ||entailment
+There is a hand. ||entailment
+The female has a bee. ||entailment
+The female has a hand. ||entailment

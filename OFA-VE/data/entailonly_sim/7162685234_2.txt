@@ -1,0 +1,3 @@
+There are relative. ||Entailment
+There is camel. ||Contradiction
+The relative play in sand. ||Entailment

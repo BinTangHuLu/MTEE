@@ -1,0 +1,6 @@
+there is a man ||entailment
+there are women ||entailment
+there is a cake ||entailment
+the man grins ||entailment
+the man grins at women ||entailment
+the man stands behind cake ||entailment

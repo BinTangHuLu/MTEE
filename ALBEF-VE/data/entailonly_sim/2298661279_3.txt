@@ -1,0 +1,3 @@
+there is a baby ||entailment
+there is some apparatus ||entailment
+the baby is on equipment ||entailment

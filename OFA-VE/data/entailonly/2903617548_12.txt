@@ -1,0 +1,5 @@
+There is a game. ||Entailment
+There are children. ||Entailment
+There is a vehicle. ||Entailment
+The game is being played by children. ||Entailment
+The children are near the vehicle. ||Entailment

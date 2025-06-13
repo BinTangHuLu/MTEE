@@ -1,0 +1,13 @@
+there is not a man ||contradiction
+there is not a vest ||contradiction
+there are not sunglasses ||contradiction
+there are not cards ||contradiction
+there is not a stand ||contradiction
+there are not buttons ||contradiction
+there is not a hat ||contradiction
+the vest is not in ||contradiction
+the man is not looking at ||contradiction
+the man is not looking at cards ||contradiction
+the cards are not at stand ||contradiction
+the man does not have buttons ||contradiction
+the buttons are not on hat ||contradiction

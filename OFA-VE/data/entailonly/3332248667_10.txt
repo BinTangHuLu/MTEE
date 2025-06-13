@@ -1,0 +1,6 @@
+There is a man. ||Contradiction
+There is a woman. ||Entailment
+There is a transportation. ||Entailment
+The man and woman are using transportation. ||Entailment
+The man is using transportation. ||Entailment
+The woman is using transportation. ||Entailment

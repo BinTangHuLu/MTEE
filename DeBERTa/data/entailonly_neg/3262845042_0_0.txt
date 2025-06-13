@@ -1,0 +1,5 @@
+There is not a man. ||contradiction
+There are not some skis. ||contradiction
+There is not a mountain. ||contradiction
+The man is not on skis. ||contradiction
+The skis are not on the mountain. ||contradiction

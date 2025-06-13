@@ -1,0 +1,5 @@
+There is not a man. ||contradiction
+There is not a guitar. ||contradiction
+There is not a stage. ||contradiction
+The man is not playing. ||contradiction
+The man is not playing on stage. ||contradiction

@@ -1,0 +1,4 @@
+There is a riverbank. ||entailment
+There is nudity. ||entailment
+There are kids. ||entailment
+The riverbank was played on by nudity of kids. ||entailment

@@ -1,0 +1,5 @@
+there is a dude ||entailment
+there is a cartoon ||neutral
+there is a bronze ||entailment
+the dude is taking a photo ||entailment
+the cartoon is by the statue ||entailment

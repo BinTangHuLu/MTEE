@@ -1,0 +1,3 @@
+there are community ||neutral
+there is bling ||neutral
+community are on ice ||entailment

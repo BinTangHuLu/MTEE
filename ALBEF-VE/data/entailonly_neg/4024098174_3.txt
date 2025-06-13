@@ -1,0 +1,3 @@
+there is not a skier ||contradiction
+there is not a course ||contradiction
+the skier is not heading down the course ||contradiction

@@ -1,0 +1,5 @@
+There is not a woman. ||contradiction
+There is not a picture. ||contradiction
+The woman is not taking. ||contradiction
+The picture is not cold weather. ||contradiction
+The woman is not taking a picture. ||contradiction

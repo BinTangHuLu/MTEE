@@ -1,0 +1,5 @@
+there is a body ||entailment
+there is a colt ||entailment
+there is a airplane ||entailment
+the body rides the horse ||contradiction
+the colt is over the plane ||entailment

@@ -1,0 +1,4 @@
+There are not boys. ||contradiction
+There is not a table. ||contradiction
+The boys are not sitting at the table. ||contradiction
+The girls are not sitting at the table. ||contradiction

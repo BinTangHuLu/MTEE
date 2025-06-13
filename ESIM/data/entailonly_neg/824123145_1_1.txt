@@ -1,0 +1,6 @@
+There are not walkers. ||contradiction
+There is not a sky. ||contradiction
+There is not a beach. ||contradiction
+The sky is not blue. ||contradiction
+The walkers are not under the sky. ||contradiction
+The walkers are not near the beach. ||contradiction

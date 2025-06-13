@@ -1,0 +1,3 @@
+there is something ||entailment
+there is a face ||entailment
+something is on face ||entailment

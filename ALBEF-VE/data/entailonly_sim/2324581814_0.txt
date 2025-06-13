@@ -1,0 +1,5 @@
+there are dude ||entailment
+there are clan ||entailment
+there are two dude ||entailment
+the dude are doing project ||entailment
+the activity is together with men ||entailment

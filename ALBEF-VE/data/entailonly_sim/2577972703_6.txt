@@ -1,0 +1,6 @@
+there is a child ||entailment
+there is a air ||entailment
+there is some claw paint ||entailment
+the child is with finger paint on her face ||entailment
+the air has finger paint ||entailment
+the child is laughing ||entailment

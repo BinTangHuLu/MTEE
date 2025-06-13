@@ -1,0 +1,7 @@
+There is a female. ||entailment
+There is a fedora. ||contradiction
+There is dirt. ||entailment
+The female is squatting. ||entailment
+The female is wearing a hat. ||entailment
+The fedora is touching the ground. ||contradiction
+The female is touching ground. ||entailment

@@ -1,0 +1,7 @@
+there is a pup ||entailment
+there is a doll ||entailment
+there is a basin ||entailment
+the doll is orange ||contradiction
+the doll is thrown ||contradiction
+the pup chases the toy ||entailment
+the doll is into the pool ||contradiction

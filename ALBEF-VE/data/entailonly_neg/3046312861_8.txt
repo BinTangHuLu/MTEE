@@ -1,0 +1,3 @@
+there is not a person ||contradiction
+there is not some air ||entailment
+the person is not in air ||contradiction

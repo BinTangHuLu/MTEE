@@ -1,0 +1,5 @@
+there is a child ||entailment
+there is a phone ||entailment
+the child is little ||entailment
+the child is talking on the phone ||entailment
+the child is outside the phone ||entailment

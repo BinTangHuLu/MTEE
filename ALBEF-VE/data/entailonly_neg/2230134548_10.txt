@@ -1,0 +1,5 @@
+there is not a chef ||contradiction
+there is not a kitchen ||contradiction
+the kitchen is not hot ||entailment
+the kitchen is not stuffy ||contradiction
+the chef is not working in the kitchen ||contradiction

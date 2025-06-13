@@ -1,0 +1,3 @@
+there are men ||entailment
+the men stand ||entailment
+the men stand together ||entailment

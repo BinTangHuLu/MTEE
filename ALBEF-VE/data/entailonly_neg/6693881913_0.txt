@@ -1,0 +1,4 @@
+there are not players ||contradiction
+there is not hockey ||contradiction
+the players are not hugging ||contradiction
+the players are not hugging players ||contradiction

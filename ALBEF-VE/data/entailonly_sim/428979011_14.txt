@@ -1,0 +1,4 @@
+there is a dude ||entailment
+there is a canvas ||neutral
+the dude stands behind the microphone ||entailment
+the microphone is in the canvas ||contradiction

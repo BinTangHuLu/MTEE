@@ -1,0 +1,6 @@
+there are people ||entailment
+there is a surface ||entailment
+there are traintracks ||entailment
+the surface is raised ||entailment
+the people are on the surface ||entailment
+the surface is near traintracks ||neutral

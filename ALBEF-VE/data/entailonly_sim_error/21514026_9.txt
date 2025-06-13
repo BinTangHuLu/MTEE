@@ -1,0 +1,4 @@
+A,wearing
+R,wearing
+A,carrying
+RE2,on,head

@@ -1,0 +1,5 @@
+there is not a dog ||contradiction
+there is not a computer ||contradiction
+the dog is not white ||contradiction
+the dog is not using ||contradiction
+the dog is not using computer ||contradiction

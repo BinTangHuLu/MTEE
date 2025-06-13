@@ -1,0 +1,3 @@
+there are not cars ||contradiction
+there is not an intersection ||contradiction
+the cars are not in the intersection ||contradiction

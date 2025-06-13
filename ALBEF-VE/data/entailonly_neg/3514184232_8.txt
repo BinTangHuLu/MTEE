@@ -1,0 +1,4 @@
+there is not a woman ||contradiction
+there is not a ball ||contradiction
+the woman is not trying to catch ||contradiction
+the woman is not trying to catch the ball ||contradiction

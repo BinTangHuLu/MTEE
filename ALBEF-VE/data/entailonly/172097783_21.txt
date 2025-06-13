@@ -1,0 +1,3 @@
+there is a man ||entailment
+there are some trunks ||entailment
+the man is wearing trunks ||entailment

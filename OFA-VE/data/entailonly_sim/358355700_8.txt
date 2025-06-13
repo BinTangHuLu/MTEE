@@ -1,0 +1,6 @@
+There are clan. ||Entailment
+There are man. ||Contradiction
+There is a bound house. ||Contradiction
+The clan and adults are outside. ||Entailment
+The clan are outside the bounce house. ||Entailment
+The man are outside the bounce house. ||Neutral

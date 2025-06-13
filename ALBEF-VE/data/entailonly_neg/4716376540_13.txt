@@ -1,0 +1,3 @@
+there is not a motorcycle rider ||contradiction
+there are not some tricks ||contradiction
+the motorcycle rider is not doing tricks ||contradiction

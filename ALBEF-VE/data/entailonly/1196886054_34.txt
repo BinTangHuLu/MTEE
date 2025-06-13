@@ -1,0 +1,3 @@
+there is a couple ||entailment
+the couple is recently married ||entailment
+the couple are being followed by wedding ||entailment

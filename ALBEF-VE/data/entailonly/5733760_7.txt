@@ -1,0 +1,4 @@
+there is a man ||entailment
+there is a song ||entailment
+the man is signing ||entailment
+the man is signing a song ||contradiction

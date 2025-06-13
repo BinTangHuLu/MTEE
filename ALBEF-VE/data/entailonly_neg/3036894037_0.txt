@@ -1,0 +1,6 @@
+there is not a person ||contradiction
+there are not police men ||contradiction
+there are not steps ||contradiction
+the person is not old ||entailment
+the person is not next to police men ||contradiction
+the police men are not on steps ||contradiction

@@ -1,0 +1,2 @@
+A,shop lifts
+R,shop lifts

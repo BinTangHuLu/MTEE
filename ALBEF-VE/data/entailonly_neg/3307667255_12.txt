@@ -1,0 +1,5 @@
+there are not men ||contradiction
+there are not women ||entailment
+there is not a building ||contradiction
+the men do not stand in front of the building ||contradiction
+the women do not stand in front of the building ||contradiction

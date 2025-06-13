@@ -1,0 +1,4 @@
+There is not a woman. ||contradiction
+There is not a dog. ||contradiction
+The woman does not enjoy time together. ||contradiction
+The dog does not enjoy time together. ||contradiction

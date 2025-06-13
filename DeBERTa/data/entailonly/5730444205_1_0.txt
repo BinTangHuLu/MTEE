@@ -1,0 +1,4 @@
+There are Women. ||entailment
+The Women are outside. ||entailment
+There are horses. ||entailment
+The Women are riding horses. ||entailment

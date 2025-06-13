@@ -1,0 +1,8 @@
+there is not a man ||contradiction
+there is not a woman ||contradiction
+there is not a table ||contradiction
+there is not a drink ||contradiction
+the man and woman are not together ||contradiction
+the man does not sit at the table ||contradiction
+the woman does not sit at the table ||contradiction
+the table is not with a drink ||contradiction

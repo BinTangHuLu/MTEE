@@ -1,0 +1,3 @@
+A,blonde
+R,covers
+A,yellow

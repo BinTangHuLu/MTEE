@@ -1,0 +1,8 @@
+there is a dude ||entailment
+there are banner ||entailment
+there are band ||entailment
+the dude is moving ||entailment
+the dude is holding ||entailment
+the dude is moving flags ||entailment
+the dude is holding flags ||entailment
+the banner are in hands ||contradiction

@@ -1,0 +1,4 @@
+there is bread ||entailment
+there is alcohol ||entailment
+there is a cartoon ||entailment
+the bread and drink are in the photo ||entailment

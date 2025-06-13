@@ -1,0 +1,2 @@
+There is a contestant. ||entailment
+The contestant is with convoy. ||entailment

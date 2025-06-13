@@ -1,0 +1,3 @@
+there is a man ||entailment
+there is a painting ||entailment
+the man is near the painting ||entailment

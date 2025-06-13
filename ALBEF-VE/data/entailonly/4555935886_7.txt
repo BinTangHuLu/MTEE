@@ -1,0 +1,5 @@
+there is a woman ||entailment
+there are some clothes ||entailment
+there is a line ||entailment
+the woman hangs clothes ||entailment
+the clothes are on the line ||neutral

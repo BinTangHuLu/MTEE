@@ -1,0 +1,7 @@
+There is not a dog. ||Entailment
+There is not a cow. ||Entailment
+There is not an area. ||Contradiction
+The area is not fenced. ||Contradiction
+The dog and cow are not together. ||Neutral
+The dog is not outside of the area. ||Entailment
+The cow is not outside of the area. ||Entailment

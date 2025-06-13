@@ -1,0 +1,4 @@
+There are not men. ||Contradiction
+There are not computers. ||Contradiction
+The men are not using computers. ||Contradiction
+The men are not using computers. ||Contradiction

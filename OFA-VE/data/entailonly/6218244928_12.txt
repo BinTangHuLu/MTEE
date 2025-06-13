@@ -1,0 +1,4 @@
+There are Men. ||Entailment
+There is a boat. ||Entailment
+The Men work on the boat. ||Entailment
+The boat is outside. ||Entailment

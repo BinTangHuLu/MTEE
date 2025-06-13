@@ -1,0 +1,6 @@
+There is not a lady. ||contradiction
+There is not a kitchen. ||contradiction
+The lady is not in the kitchen. ||contradiction
+The lady is hernot . ||entailment
+The feet are hernot . ||contradiction
+The lady does not clean feet. ||contradiction

@@ -1,0 +1,2 @@
+there is a hike ||neutral
+the surfer is taking a hike ||contradiction

@@ -1,0 +1,3 @@
+There is a girl. ||entailment
+There is a beverage. ||entailment
+The girl has a beverage. ||entailment

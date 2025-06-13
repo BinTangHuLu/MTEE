@@ -1,0 +1,3 @@
+there are not humans ||contradiction
+the humans are not two ||entailment
+the humans are not building ||contradiction

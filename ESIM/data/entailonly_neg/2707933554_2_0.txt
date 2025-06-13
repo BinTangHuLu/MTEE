@@ -1,0 +1,5 @@
+There is not a female. ||contradiction
+There is not a bee. ||contradiction
+There is not a hand. ||contradiction
+The female does not have a bee. ||contradiction
+The female does not have a hand. ||contradiction

@@ -1,0 +1,4 @@
+there are not animals ||contradiction
+there is not grass ||contradiction
+the animals are not little ||entailment
+the animals are not playing in grass ||contradiction

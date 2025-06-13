@@ -1,0 +1,8 @@
+There is a gal. ||entailment
+There are some pants. ||entailment
+There is a guy. ||entailment
+There is a road. ||entailment
+The gal is young. ||entailment
+The pants are snug. ||entailment
+The gal chats with the guy. ||entailment
+The guy is in the road. ||entailment

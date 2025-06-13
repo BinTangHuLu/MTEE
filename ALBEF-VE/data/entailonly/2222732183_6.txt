@@ -1,0 +1,7 @@
+there is a woman ||entailment
+there is a boy ||entailment
+there is a couch ||entailment
+the boy is young ||entailment
+the couch is flowered ||entailment
+the woman and boy are together ||entailment
+the boy is sitting on the couch ||entailment

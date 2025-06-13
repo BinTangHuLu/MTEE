@@ -1,0 +1,6 @@
+There are men. ||entailment
+There is a log. ||entailment
+There is an area. ||entailment
+The area is snowy. ||entailment
+The men felled the log. ||entailment
+The men are in the area. ||entailment

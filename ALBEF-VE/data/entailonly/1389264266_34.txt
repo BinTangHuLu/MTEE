@@ -1,0 +1,3 @@
+there are girls ||entailment
+the girls are similar ||entailment
+the girls are with styles ||entailment

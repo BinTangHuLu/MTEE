@@ -1,0 +1,3 @@
+there are people ||entailment
+there is a soccer ||entailment
+the people are playing soccer ||entailment

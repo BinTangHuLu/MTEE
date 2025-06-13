@@ -1,0 +1,5 @@
+there is a potters disk ||entailment
+there is a fidget ||entailment
+the fidget is his craft ||neutral
+the potters disk spins ||entailment
+the fidget works his craft ||entailment

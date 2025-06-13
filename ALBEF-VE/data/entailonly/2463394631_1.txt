@@ -1,0 +1,3 @@
+there is a man ||entailment
+there is a ground ||entailment
+the man is on ground ||entailment

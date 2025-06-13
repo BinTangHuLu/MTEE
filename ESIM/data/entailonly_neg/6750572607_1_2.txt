@@ -1,0 +1,3 @@
+There is not a child. ||contradiction
+The child is not blonde. ||contradiction
+The child is not playing. ||contradiction

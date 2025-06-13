@@ -1,0 +1,9 @@
+there is a girl ||entailment
+there is some hair ||entailment
+there is a woman ||entailment
+there is a shirt ||entailment
+the hair is blond ||entailment
+the girl is dressed in yellow ||entailment
+the woman is in yellow ||entailment
+the girl is with hair ||entailment
+the woman is behind the girl ||entailment

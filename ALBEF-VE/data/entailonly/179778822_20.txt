@@ -1,0 +1,4 @@
+there is a girl ||entailment
+there is a cup ||entailment
+the cup is yellow ||neutral
+the girl is holding the cup ||entailment

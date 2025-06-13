@@ -1,0 +1,3 @@
+there are men ||entailment
+there is a military ||entailment
+the men are outside ||entailment

@@ -1,0 +1,9 @@
+there is a person ||entailment
+there is a field ||entailment
+there is a telescope ||entailment
+there is a car ||entailment
+the car is blue ||neutral
+the car is approaching ||neutral
+the person is standing in the field ||entailment
+the person is looking through the telescope ||contradiction
+the telescope is at the car ||entailment

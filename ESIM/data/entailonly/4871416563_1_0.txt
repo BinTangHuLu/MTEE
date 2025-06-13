@@ -1,0 +1,8 @@
+There is a brunette. ||entailment
+There is a visor. ||entailment
+There is a crowd. ||entailment
+There is an umbrella. ||entailment
+The brunette is attractive. ||neutral
+The visor is red. ||entailment
+The brunette gets a lot of attention from the crowd. ||entailment
+The brunette holds the umbrella. ||entailment

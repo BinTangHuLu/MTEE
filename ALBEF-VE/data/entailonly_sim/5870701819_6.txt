@@ -1,0 +1,4 @@
+there are female ||entailment
+the female are elegant ||entailment
+the female are in clothing ||entailment
+the female are dancing together ||entailment

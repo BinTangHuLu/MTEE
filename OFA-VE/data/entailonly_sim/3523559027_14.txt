@@ -1,0 +1,3 @@
+There are artillery. ||Neutral
+There are curve. ||Contradiction
+The Soldiers are standing in curve. ||Neutral

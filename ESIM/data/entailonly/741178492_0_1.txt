@@ -1,0 +1,5 @@
+There are men. ||entailment
+There is a bulldozer. ||entailment
+The men are standing. ||entailment
+The bulldozer is idling. ||entailment
+The men are standing near the bulldozer. ||entailment

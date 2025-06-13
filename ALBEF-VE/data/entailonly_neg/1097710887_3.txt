@@ -1,0 +1,4 @@
+there is not a girl ||contradiction
+the girl is not young ||entailment
+the girl is not making bubbles ||contradiction
+the bubbles are not outside ||contradiction

@@ -1,0 +1,4 @@
+There are community. ||entailment
+There is a period. ||entailment
+The community are young. ||entailment
+The community are walking on day. ||entailment

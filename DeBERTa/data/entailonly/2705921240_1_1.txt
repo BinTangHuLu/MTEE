@@ -1,0 +1,4 @@
+There is a man. ||entailment
+The man is young. ||entailment
+There are gloves. ||entailment
+The man wears gloves. ||entailment

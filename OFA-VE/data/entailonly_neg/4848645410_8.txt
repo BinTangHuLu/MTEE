@@ -1,0 +1,4 @@
+There is not a man. ||Contradiction
+The man is not young. ||Entailment
+There is not a picture. ||Contradiction
+The man does not take a picture. ||Contradiction

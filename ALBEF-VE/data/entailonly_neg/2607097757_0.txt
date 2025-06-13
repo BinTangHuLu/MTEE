@@ -1,0 +1,7 @@
+there are not men ||contradiction
+there are not hats ||contradiction
+there are not glasses ||contradiction
+the hats are not constructions ||contradiction
+the glasses are not safety ||contradiction
+the men are not wearing hats ||contradiction
+the men are not wearing glasses ||contradiction

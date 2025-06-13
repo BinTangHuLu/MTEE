@@ -1,0 +1,5 @@
+there is a man ||entailment
+there is a guitar ||entailment
+there is a street ||entailment
+the man is playing the guitar ||entailment
+the man is in the street ||entailment

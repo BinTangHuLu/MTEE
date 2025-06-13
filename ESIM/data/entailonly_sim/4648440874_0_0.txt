@@ -1,0 +1,2 @@
+There is a animator. ||entailment
+The animator is sketching. ||entailment

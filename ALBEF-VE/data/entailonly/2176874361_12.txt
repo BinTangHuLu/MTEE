@@ -1,0 +1,5 @@
+there is a dog ||entailment
+there is a cow ||entailment
+there is some hay ||entailment
+the dog is playing with the cow ||entailment
+the cow is playing with the hay ||neutral

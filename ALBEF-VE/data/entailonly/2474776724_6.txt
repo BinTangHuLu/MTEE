@@ -1,0 +1,3 @@
+there are players ||entailment
+there are female ||entailment
+the players are interacting with female ||entailment

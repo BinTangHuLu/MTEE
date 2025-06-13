@@ -1,0 +1,2 @@
+there is not a vehicle ||contradiction
+the vehicle is not large ||contradiction

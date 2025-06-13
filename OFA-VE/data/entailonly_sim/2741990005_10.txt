@@ -1,0 +1,3 @@
+There is a acrobat. ||Entailment
+The acrobat is high. ||Entailment
+The acrobat is outdoors. ||Entailment

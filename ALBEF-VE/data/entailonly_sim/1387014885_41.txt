@@ -1,0 +1,8 @@
+there is a circle ||neutral
+there is an accident ||neutral
+there is a dude ||entailment
+there is a female ||entailment
+the circle is gathered at the event ||entailment
+the circle are watching the man ||neutral
+the circle are watching the woman ||contradiction
+the dude is arguing with the woman ||neutral

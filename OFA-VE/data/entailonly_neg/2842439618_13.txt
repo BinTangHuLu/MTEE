@@ -1,0 +1,4 @@
+There is not a surfer. ||Contradiction
+There is not a wave. ||Contradiction
+The wave is not large. ||Entailment
+The surfer is not riding down the wave. ||Contradiction

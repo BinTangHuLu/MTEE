@@ -1,0 +1,5 @@
+There are dude. ||entailment
+There are apparel. ||entailment
+There are three dude. ||entailment
+The apparel are dressed in. ||entailment
+The dude are dressed in suits. ||entailment

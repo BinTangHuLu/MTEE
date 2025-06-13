@@ -1,0 +1,5 @@
+There are not friends. ||neutral
+There is not paper. ||contradiction
+There are not bags. ||contradiction
+The friends are not playing with paper. ||contradiction
+The friends are not playing with bags. ||contradiction

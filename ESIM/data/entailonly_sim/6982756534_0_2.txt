@@ -1,0 +1,8 @@
+There is a female. ||entailment
+There is a box. ||entailment
+There is a avenue. ||entailment
+The female is carrying. ||entailment
+The box is down. ||contradiction
+The female is carrying the basket. ||entailment
+The female is in the street. ||entailment
+The avenue is in Nepal. ||contradiction

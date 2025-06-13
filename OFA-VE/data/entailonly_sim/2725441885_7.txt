@@ -1,0 +1,5 @@
+There is a bash. ||Entailment
+There is a agreeable. ||Entailment
+There is a bat. ||Entailment
+The bash is in the game. ||Entailment
+The bash is getting a hit. ||Entailment

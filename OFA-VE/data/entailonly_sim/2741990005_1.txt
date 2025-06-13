@@ -1,0 +1,3 @@
+There is a body. ||Entailment
+There is a beam. ||Entailment
+The body is jumping over the pole. ||Neutral

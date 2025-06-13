@@ -1,0 +1,4 @@
+There is a dude. ||Entailment
+There is a pedal. ||Entailment
+The dude is doing a wheelie. ||Entailment
+The dude is doing a wheelie on a bike. ||Entailment

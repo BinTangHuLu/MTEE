@@ -1,0 +1,5 @@
+There is not a guy. ||contradiction
+There is not a room. ||contradiction
+The room does not have wood floor. ||contradiction
+The guy is not in the room. ||contradiction
+The guy does not jump up in the room. ||contradiction

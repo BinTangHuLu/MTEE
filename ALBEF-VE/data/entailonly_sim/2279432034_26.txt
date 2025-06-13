@@ -1,0 +1,3 @@
+there is an band ||entailment
+there is a entrance ||entailment
+the band is at the hall ||entailment

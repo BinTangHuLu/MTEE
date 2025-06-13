@@ -1,0 +1,2 @@
+there is a ground ||entailment
+the flaggers are at the ground ||contradiction

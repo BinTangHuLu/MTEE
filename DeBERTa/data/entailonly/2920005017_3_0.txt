@@ -1,0 +1,4 @@
+There is a human. ||entailment
+There is a room. ||entailment
+The human is not wearing any clothes. ||entailment
+The human is in the room. ||entailment

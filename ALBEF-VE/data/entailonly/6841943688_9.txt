@@ -1,0 +1,3 @@
+there is a man ||entailment
+there is a saxaphone ||entailment
+the man is holding saxaphone ||entailment

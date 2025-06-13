@@ -1,0 +1,3 @@
+there is a quarterback ||entailment
+the quarterback gets ready ||entailment
+the quarterback gets ready to throw ||entailment

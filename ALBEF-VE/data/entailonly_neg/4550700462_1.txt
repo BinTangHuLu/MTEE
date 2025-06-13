@@ -1,0 +1,5 @@
+there is not a flag ||contradiction
+there is not a boy ||contradiction
+there is not a pocket ||contradiction
+the flag is not mexican ||contradiction
+the flag is not tucked in the pocket ||contradiction

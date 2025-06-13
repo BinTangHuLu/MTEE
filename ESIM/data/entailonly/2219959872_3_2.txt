@@ -1,0 +1,3 @@
+There is a man. ||entailment
+There are kids. ||entailment
+The man is standing with kids. ||entailment

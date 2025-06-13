@@ -1,0 +1,3 @@
+there is a boy ||entailment
+there is a bike ||entailment
+the boy is riding the bike ||neutral

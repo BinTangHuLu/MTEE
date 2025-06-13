@@ -1,0 +1,2 @@
+there is drink ||entailment
+the sailboats are sailing through drink ||contradiction

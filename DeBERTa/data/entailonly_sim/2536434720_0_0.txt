@@ -1,0 +1,5 @@
+There is a colt rider. ||neutral
+There is bear. ||contradiction
+There is a colt. ||neutral
+The bear is traditional. ||contradiction
+The colt rider rides with the horse. ||neutral

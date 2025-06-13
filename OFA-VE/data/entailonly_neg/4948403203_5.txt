@@ -1,0 +1,4 @@
+There is not a male. ||Entailment
+There is not a piece. ||Entailment
+There is not a paper. ||Entailment
+The male was not looking at the piece. ||Neutral

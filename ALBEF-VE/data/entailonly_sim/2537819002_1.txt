@@ -1,0 +1,6 @@
+there is a dude ||entailment
+there is a bestow ||neutral
+there are chain ||neutral
+the bestow is orange ||contradiction
+the dude is with the vest ||entailment
+the dude was working on tracks ||entailment

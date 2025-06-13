@@ -1,0 +1,4 @@
+there is a gentlewoman ||entailment
+there is a fedora ||neutral
+the gentlewoman is standing behind baskets ||entailment
+the gentlewoman is wearing a hat ||entailment

@@ -1,0 +1,4 @@
+There is a baby. ||entailment
+There is some drink. ||neutral
+The baby is naked. ||entailment
+The baby is in water. ||entailment

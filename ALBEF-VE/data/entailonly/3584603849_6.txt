@@ -1,0 +1,4 @@
+there is an airplane ||entailment
+there is air ||entailment
+the airplane is moving ||entailment
+the airplane is moving in air ||entailment

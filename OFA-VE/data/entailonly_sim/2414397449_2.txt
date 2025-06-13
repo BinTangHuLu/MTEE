@@ -1,0 +1,2 @@
+There is a pup. ||Entailment
+The Dog jumps over pup. ||Entailment

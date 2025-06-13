@@ -1,0 +1,6 @@
+There is a man. ||Entailment
+There is a bench. ||Entailment
+There is a view. ||Entailment
+The man is sitting. ||Entailment
+The man is sitting on the bench. ||Entailment
+The man enjoys the view. ||Entailment

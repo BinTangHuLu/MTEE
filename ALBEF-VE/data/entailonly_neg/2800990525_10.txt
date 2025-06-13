@@ -1,0 +1,7 @@
+there is not a man ||contradiction
+there are not some sunglasses ||contradiction
+there is not a body ||contradiction
+the sunglasses are not a pair of ||neutral
+the man is not walking outside ||entailment
+the man is not with sunglasses ||contradiction
+the sunglasses are not on the body ||entailment

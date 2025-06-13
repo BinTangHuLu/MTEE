@@ -1,0 +1,4 @@
+there are girls ||entailment
+the girls are some ||neutral
+the girls are playing sports ||entailment
+the girls are wearing different outfits ||contradiction

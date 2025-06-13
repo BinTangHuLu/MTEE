@@ -1,0 +1,5 @@
+There is a man. ||entailment
+The man is happily. ||entailment
+The man is celebrating. ||entailment
+The man is victory. ||entailment
+The man is smiling and shooting champagne. ||entailment

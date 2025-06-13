@@ -1,0 +1,3 @@
+there is a player ||entailment
+there is a tennis ||entailment
+the player jumps player ||entailment

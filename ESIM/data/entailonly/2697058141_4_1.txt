@@ -1,0 +1,8 @@
+There is a boy. ||entailment
+There is a utensil. ||entailment
+There is some meat. ||entailment
+There is a grill. ||entailment
+The boy is young. ||entailment
+The boy is using utensil. ||entailment
+The boy is using utensil to handle meat. ||entailment
+The meat is on grill. ||entailment

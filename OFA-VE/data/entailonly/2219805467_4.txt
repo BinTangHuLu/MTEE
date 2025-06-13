@@ -1,0 +1,5 @@
+There is a dog. ||Entailment
+There is some water. ||Entailment
+There is a ball. ||Entailment
+The dog is by water. ||Entailment
+The dog is with a ball. ||Entailment

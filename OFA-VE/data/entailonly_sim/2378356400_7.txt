@@ -1,0 +1,3 @@
+There is a female. ||Entailment
+There is a baby. ||Entailment
+The female is walking together with the child. ||Neutral

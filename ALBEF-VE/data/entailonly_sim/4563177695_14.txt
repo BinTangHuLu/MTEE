@@ -1,0 +1,4 @@
+there are band ||entailment
+there is dirt ||neutral
+the band have feet ||contradiction
+the feet are on dirt ||neutral

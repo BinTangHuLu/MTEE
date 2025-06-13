@@ -1,0 +1,5 @@
+There is a girl. ||entailment
+There is a phone. ||entailment
+There is another girl. ||entailment
+The girl is browsing the phone. ||entailment
+The another girl watches the girl. ||neutral

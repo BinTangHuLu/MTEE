@@ -1,0 +1,6 @@
+There are people. ||entailment
+There is an object. ||entailment
+There is water. ||entailment
+The object is wooden. ||entailment
+The people are in the object. ||entailment
+The object is on water. ||entailment

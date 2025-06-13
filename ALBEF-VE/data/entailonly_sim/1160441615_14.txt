@@ -1,0 +1,4 @@
+there are flora ||entailment
+there is a corridor ||entailment
+the flora are pretty ||neutral
+the flora are covered in the hallway ||entailment

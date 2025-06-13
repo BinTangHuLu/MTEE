@@ -1,0 +1,4 @@
+There is not he. ||Contradiction
+He is not fast. ||Entailment
+He is not possibly. ||Entailment
+He is not running. ||Entailment

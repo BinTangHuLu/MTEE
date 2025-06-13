@@ -1,0 +1,4 @@
+there is a man ||entailment
+there are colors ||entailment
+the colors are traditional halloween ||neutral
+the man is wearing traditional halloween colors ||entailment

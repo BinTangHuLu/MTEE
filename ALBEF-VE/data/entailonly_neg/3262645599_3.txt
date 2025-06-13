@@ -1,0 +1,3 @@
+there are not fishermen ||contradiction
+there are not two fishermen ||contradiction
+the fishermen are not fishing ||contradiction

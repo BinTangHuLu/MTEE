@@ -1,0 +1,5 @@
+There is not a man. ||Contradiction
+There is not a uniform. ||Contradiction
+There is not a horse. ||Contradiction
+The uniform is not in. ||Contradiction
+The man does not ride on top of the horse. ||Contradiction

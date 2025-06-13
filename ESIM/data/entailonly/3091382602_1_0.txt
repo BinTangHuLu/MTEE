@@ -1,0 +1,3 @@
+There are men. ||entailment
+There are two men. ||entailment
+The men are ready to have their picture. ||entailment

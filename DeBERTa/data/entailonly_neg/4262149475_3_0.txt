@@ -1,0 +1,4 @@
+There is not a man. ||contradiction
+The man is not practicing. ||contradiction
+The man is not his religion. ||contradiction
+The man is not practicing his religion. ||contradiction

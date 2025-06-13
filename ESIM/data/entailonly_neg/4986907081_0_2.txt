@@ -1,0 +1,5 @@
+There is not a person. ||contradiction
+There is not a chair. ||contradiction
+There is not water. ||contradiction
+The person does not sit in the chair. ||contradiction
+The person does not sit in the water. ||contradiction

@@ -1,0 +1,6 @@
+there are not people ||contradiction
+there is not a line ||contradiction
+there is not a bus ||contradiction
+the people are not 4 ||entailment
+the people are not in line ||contradiction
+the line is not for bus ||contradiction

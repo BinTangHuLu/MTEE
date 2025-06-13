@@ -1,0 +1,5 @@
+There is a person. ||entailment
+There is a robe. ||entailment
+There is a couch. ||entailment
+The person is robe. ||entailment
+The person sits on couch. ||entailment

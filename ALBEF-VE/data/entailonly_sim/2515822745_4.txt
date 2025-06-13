@@ -1,0 +1,3 @@
+there are list ||entailment
+there is a article ||entailment
+the list read the script ||neutral

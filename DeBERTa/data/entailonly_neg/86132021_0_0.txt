@@ -1,0 +1,7 @@
+There is not a man. ||contradiction
+There is not a hat. ||contradiction
+There are not boots. ||contradiction
+There is not underwear. ||contradiction
+There is not a sidewalk. ||contradiction
+The man is not wearing only a hat, boots, and underwear. ||contradiction
+The man is not walking on the sidewalk. ||contradiction

@@ -1,0 +1,3 @@
+There is a girl. ||entailment
+There is a vehicle. ||entailment
+The girl is inside the vehicle. ||entailment

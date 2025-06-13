@@ -1,0 +1,5 @@
+There is a child. ||entailment
+There are some sand. ||entailment
+The child is young. ||entailment
+The sand are in hand. ||contradiction
+The child is with rocks. ||entailment

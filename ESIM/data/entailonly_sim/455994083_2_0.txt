@@ -1,0 +1,5 @@
+There is a boy. ||entailment
+There is a accessory. ||entailment
+The boy is male. ||entailment
+The accessory is near his mouth. ||entailment
+The boy has a device. ||entailment

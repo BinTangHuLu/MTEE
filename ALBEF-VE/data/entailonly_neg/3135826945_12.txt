@@ -1,0 +1,5 @@
+there is not a mom ||contradiction
+there is not a child ||contradiction
+the child is not small ||entailment
+the mom does not have a book ||contradiction
+the child does not have a book ||contradiction

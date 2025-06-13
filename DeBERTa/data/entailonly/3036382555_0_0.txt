@@ -1,0 +1,3 @@
+There are Girls. ||entailment
+Girls are playing. ||entailment
+Girls are playing outdoors. ||entailment

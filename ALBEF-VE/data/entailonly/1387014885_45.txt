@@ -1,0 +1,3 @@
+there is a crowd ||entailment
+there is a concert ||entailment
+the crowd gathers to hear the concert ||entailment

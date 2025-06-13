@@ -1,0 +1,4 @@
+there are not people ||contradiction
+there is not grass ||contradiction
+the people are not younger ||entailment
+the people are not outside on grass ||contradiction

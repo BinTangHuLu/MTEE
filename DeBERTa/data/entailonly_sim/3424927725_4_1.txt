@@ -1,0 +1,3 @@
+There is a body. ||entailment
+There is a earth cliff. ||entailment
+The body is sitting on the rock cliff. ||entailment

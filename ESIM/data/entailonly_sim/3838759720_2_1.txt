@@ -1,0 +1,6 @@
+There is a aristocrat. ||entailment
+The aristocrat is older. ||entailment
+The aristocrat is wearing a plaid shirt. ||entailment
+The aristocrat is wearing blue pants. ||entailment
+There is a abbreviate. ||entailment
+The aristocrat looks through the telescope. ||entailment

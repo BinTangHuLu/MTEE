@@ -1,0 +1,3 @@
+there are not people ||contradiction
+the people are not young ||entailment
+the people are not outside ||contradiction

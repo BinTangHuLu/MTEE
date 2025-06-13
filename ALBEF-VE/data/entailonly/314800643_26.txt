@@ -1,0 +1,3 @@
+there is a guy ||entailment
+there is a golf ||entailment
+the guy is playing golf ||neutral

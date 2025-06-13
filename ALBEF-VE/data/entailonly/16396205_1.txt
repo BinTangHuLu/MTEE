@@ -1,0 +1,5 @@
+there are guys ||entailment
+there is grass ||entailment
+the guys are some ||entailment
+the grass is some ||neutral
+the guys are having a good time ||entailment

@@ -1,0 +1,3 @@
+there are not officers ||contradiction
+there are not streets ||contradiction
+the officers are not on streets ||contradiction

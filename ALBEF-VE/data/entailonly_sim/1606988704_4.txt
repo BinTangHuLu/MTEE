@@ -1,0 +1,3 @@
+there are clan ||entailment
+there are fodder bales ||entailment
+the clan play on hay bales ||entailment

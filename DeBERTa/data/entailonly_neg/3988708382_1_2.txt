@@ -1,0 +1,7 @@
+There is not a man. ||contradiction
+There is not a conversation. ||contradiction
+There is not a friend. ||contradiction
+There is not a fishing. ||contradiction
+The man is not having a conversation. ||contradiction
+The man is not with a friend. ||contradiction
+The man is not fishing with a friend. ||contradiction

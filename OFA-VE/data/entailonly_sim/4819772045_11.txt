@@ -1,0 +1,4 @@
+There is a animal. ||Contradiction
+There is a avenue. ||Entailment
+The animal is in the street. ||Contradiction
+The animal are seated. ||Contradiction

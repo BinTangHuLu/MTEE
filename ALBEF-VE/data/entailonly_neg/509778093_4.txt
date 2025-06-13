@@ -1,0 +1,4 @@
+there is not a dog ||contradiction
+there is not some grass ||contradiction
+the dog is not orange ||entailment
+the dog does not play in grass ||contradiction

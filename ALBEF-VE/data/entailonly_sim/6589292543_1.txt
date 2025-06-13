@@ -1,0 +1,3 @@
+there are child ||entailment
+the child are little ||entailment
+the child lay down ||entailment

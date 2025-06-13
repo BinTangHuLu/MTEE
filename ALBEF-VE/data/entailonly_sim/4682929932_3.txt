@@ -1,0 +1,4 @@
+there is a circle ||entailment
+there are some community ||entailment
+there is a backdrop ||entailment
+the circle stands in the background ||entailment

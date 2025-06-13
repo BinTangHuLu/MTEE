@@ -1,0 +1,7 @@
+There is not a woman. ||contradiction
+There is not a dock. ||contradiction
+There is not an ocean. ||contradiction
+The woman is not outside. ||contradiction
+The dock is not overlooking. ||contradiction
+The woman does not sit on the dock. ||contradiction
+The dock is not overlooking the ocean. ||contradiction

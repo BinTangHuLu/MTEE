@@ -1,0 +1,5 @@
+There is a child. ||entailment
+There is a man. ||entailment
+There is a pool. ||entailment
+The child is thrown by the man. ||entailment
+The man is in the pool. ||entailment

@@ -1,0 +1,3 @@
+there are meeting ||entailment
+there is a army ||entailment
+the meeting are talking to members ||entailment

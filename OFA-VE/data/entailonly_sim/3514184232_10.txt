@@ -1,0 +1,3 @@
+There is a athlete. ||Entailment
+The athlete is attempting to make a play. ||Entailment
+The athlete is attempting to make play. ||Entailment

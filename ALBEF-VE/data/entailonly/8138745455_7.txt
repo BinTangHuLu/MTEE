@@ -1,0 +1,5 @@
+there are people ||entailment
+there is a game ||entailment
+there is a building ||entailment
+the people are playing the game ||entailment
+the game is outside the building ||neutral

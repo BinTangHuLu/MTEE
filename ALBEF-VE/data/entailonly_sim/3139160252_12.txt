@@ -1,0 +1,3 @@
+there are female ||entailment
+the female are three ||neutral
+the female are posing ||entailment

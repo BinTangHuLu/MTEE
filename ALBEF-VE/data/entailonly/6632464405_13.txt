@@ -1,0 +1,4 @@
+there is a man ||entailment
+there are some effects ||entailment
+the effects are flame throwing ||entailment
+the man is in front of effects ||entailment

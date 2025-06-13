@@ -1,0 +1,5 @@
+There is a pup. ||Entailment
+There is some barley. ||Contradiction
+The pup is small. ||Entailment
+The pup is in grass. ||Entailment
+The pup is in grass. ||Entailment

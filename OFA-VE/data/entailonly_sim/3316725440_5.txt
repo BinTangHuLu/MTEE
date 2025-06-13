@@ -1,0 +1,3 @@
+There is a pedal. ||Entailment
+The pedal is for a ride. ||Entailment
+Someone is taking the pedal. ||Entailment

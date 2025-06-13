@@ -1,0 +1,5 @@
+There is a bronco. ||Entailment
+There are some community. ||Entailment
+There is a avenue. ||Entailment
+The bronco rides past people. ||Entailment
+The community are on the street. ||Entailment

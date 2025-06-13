@@ -1,0 +1,4 @@
+There is a baby. ||entailment
+The baby practices guitar. ||entailment
+The baby practices indoors. ||entailment
+The baby practices guitar. ||entailment

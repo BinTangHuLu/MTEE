@@ -1,0 +1,3 @@
+There is something. ||neutral
+Something is alcoholic. ||neutral
+Something is visible. ||entailment

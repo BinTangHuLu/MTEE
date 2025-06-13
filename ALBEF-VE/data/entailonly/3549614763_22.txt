@@ -1,0 +1,4 @@
+there are females ||entailment
+there is a waiter ||entailment
+the females are trying to decide ||neutral
+the waiter is getting impatient ||neutral

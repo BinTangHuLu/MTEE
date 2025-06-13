@@ -1,0 +1,4 @@
+there is a dog ||entailment
+there is a ball ||entailment
+the ball is moving ||entailment
+the dog runs after the ball ||neutral

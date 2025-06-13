@@ -1,0 +1,4 @@
+There is a child. ||Entailment
+There is a sock. ||Entailment
+The sock is plastic. ||Entailment
+The child is holding the bat. ||Entailment

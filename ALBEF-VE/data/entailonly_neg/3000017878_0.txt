@@ -1,0 +1,4 @@
+there is not a band ||contradiction
+there is not a backdrop ||contradiction
+the backdrop is not beautiful ||neutral
+the band does not play in front of the backdrop ||contradiction

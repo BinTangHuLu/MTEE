@@ -1,0 +1,5 @@
+there is not a man ||contradiction
+there is not a leg ||contradiction
+there is not a head ||contradiction
+the man does not have a leg ||contradiction
+the leg is not over the head ||entailment

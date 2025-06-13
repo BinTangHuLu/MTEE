@@ -1,0 +1,6 @@
+There is a female. ||entailment
+There is a camcorder. ||neutral
+There is a bar. ||contradiction
+The female is pointing. ||entailment
+The camcorder is upwards. ||entailment
+The female is while standing at the wall. ||entailment

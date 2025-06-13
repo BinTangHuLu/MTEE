@@ -1,0 +1,4 @@
+there are not women ||contradiction
+there is not a book ||contradiction
+the women are not two ||entailment
+the women are not reading a book ||contradiction

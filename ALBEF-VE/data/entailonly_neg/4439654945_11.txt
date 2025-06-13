@@ -1,0 +1,4 @@
+there are not children ||contradiction
+there are not adults ||entailment
+the children are not young ||entailment
+the children are not watching adults ||entailment

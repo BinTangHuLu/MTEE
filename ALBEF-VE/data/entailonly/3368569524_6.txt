@@ -1,0 +1,3 @@
+there are humans ||entailment
+there is a sport ||entailment
+the humans are playing a sport ||entailment

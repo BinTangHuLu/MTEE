@@ -1,0 +1,3 @@
+there is a body ||entailment
+there are acknowledgment ||neutral
+the body is selling concessions ||contradiction

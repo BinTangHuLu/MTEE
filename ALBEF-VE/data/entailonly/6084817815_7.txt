@@ -1,0 +1,3 @@
+there are people ||entailment
+the people have bright colours ||entailment
+the people are in bright colours ||entailment

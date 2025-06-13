@@ -1,0 +1,5 @@
+There is not a man. ||Contradiction
+There is not a beach. ||Contradiction
+There is not water. ||Contradiction
+The man is not on the beach. ||Entailment
+The beach is not by water. ||Entailment

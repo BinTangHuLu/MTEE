@@ -1,0 +1,6 @@
+There are Octogenarians. ||entailment
+There are photographs. ||entailment
+There is a wall. ||entailment
+The photographs are old. ||entailment
+The Octogenarians are admiring photographs. ||entailment
+The photographs decorated the wall. ||entailment

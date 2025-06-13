@@ -1,0 +1,5 @@
+there are not people ||contradiction
+there are not computers ||contradiction
+there is not a setting ||contradiction
+the people do not work on computers ||contradiction
+the people are not in the setting ||neutral

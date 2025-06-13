@@ -1,0 +1,5 @@
+There is not a woman. ||Entailment
+There is not a shop. ||Contradiction
+There is not a window. ||Contradiction
+The woman is not standing outside. ||Entailment
+The shop's window does not belong to the shop. ||Neutral

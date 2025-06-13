@@ -1,0 +1,7 @@
+there is a girl ||entailment
+there is a log ||entailment
+there is a day ||entailment
+the girl is young ||neutral
+the day is nice ||neutral
+the girl is playing on the log ||entailment
+the log is on the day ||entailment

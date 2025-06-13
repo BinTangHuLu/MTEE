@@ -1,0 +1,4 @@
+There are not gymnasts. ||contradiction
+There are not leotards. ||contradiction
+The leotards are not matching. ||neutral
+The gymnasts are not practicing. ||contradiction

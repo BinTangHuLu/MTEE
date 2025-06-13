@@ -1,0 +1,7 @@
+there is a party ||entailment
+there is a christmas ||entailment
+there is a man ||entailment
+there is a woman ||entailment
+the man and woman are making a toast ||neutral
+the man is making a toast ||neutral
+the woman is making a toast ||neutral

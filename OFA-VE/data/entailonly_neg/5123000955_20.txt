@@ -1,0 +1,4 @@
+There are not children. ||Contradiction
+There is not a group. ||Contradiction
+The children are not outdoors. ||Contradiction
+The group is not of children. ||Entailment

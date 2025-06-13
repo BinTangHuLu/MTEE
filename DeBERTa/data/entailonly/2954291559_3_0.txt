@@ -1,0 +1,3 @@
+There is a worker. ||entailment
+There is a building. ||entailment
+The worker is on the building. ||entailment

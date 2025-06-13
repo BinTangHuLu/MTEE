@@ -1,0 +1,4 @@
+there is not a boy ||contradiction
+there is not a ball ||contradiction
+the boy is not little ||contradiction
+the boy is not carrying the ball ||contradiction

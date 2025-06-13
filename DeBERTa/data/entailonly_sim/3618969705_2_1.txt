@@ -1,0 +1,3 @@
+There are admission. ||contradiction
+There is a collection. ||entailment
+The admission are attending class. ||entailment

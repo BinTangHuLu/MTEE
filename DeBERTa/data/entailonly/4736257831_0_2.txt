@@ -1,0 +1,4 @@
+There is a woman. ||entailment
+The woman is painted green. ||entailment
+The woman is holding. ||entailment
+The woman is holding a hula hoop. ||entailment

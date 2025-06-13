@@ -1,0 +1,3 @@
+there are actors ||entailment
+there is a script ||entailment
+the actors read the script ||neutral

@@ -1,0 +1,4 @@
+there is a girl ||entailment
+there is a zoo ||entailment
+there is a petting zoo ||entailment
+the girl is at the zoo ||neutral

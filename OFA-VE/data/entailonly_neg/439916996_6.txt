@@ -1,0 +1,4 @@
+There are not Dogs. ||Contradiction
+There is not a woman. ||Entailment
+There is not a yard. ||Contradiction
+The woman is not in the yard. ||Contradiction

@@ -1,0 +1,10 @@
+there is not a person ||contradiction
+there is not a skateboarding trick ||contradiction
+there is not air ||contradiction
+there is not a board ||contradiction
+there is not a hand ||contradiction
+the hand is not left ||entailment
+the person does not do skateboarding trick ||contradiction
+the skateboarding trick is not in air ||contradiction
+the person is not holding board ||contradiction
+the board is not with hand ||entailment

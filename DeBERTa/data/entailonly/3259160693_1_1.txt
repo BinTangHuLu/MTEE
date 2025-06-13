@@ -1,0 +1,4 @@
+There is a man. ||entailment
+The man is standing. ||entailment
+The man has hands. ||entailment
+The man is standing on hands. ||entailment

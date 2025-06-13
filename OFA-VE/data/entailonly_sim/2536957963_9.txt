@@ -1,0 +1,3 @@
+There are dude. ||Entailment
+There is an article. ||Entailment
+The dude are moving the object. ||Entailment

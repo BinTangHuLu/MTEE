@@ -1,0 +1,2 @@
+EA,shirt,blue
+RE2,is wearing,shirt

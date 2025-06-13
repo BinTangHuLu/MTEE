@@ -1,0 +1,3 @@
+There are workers. ||Entailment
+There are rocks. ||Entailment
+The workers are working on rocks. ||Entailment

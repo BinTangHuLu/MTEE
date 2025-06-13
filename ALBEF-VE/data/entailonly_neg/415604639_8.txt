@@ -1,0 +1,4 @@
+there is not a day ||contradiction
+there is not a st patricks day ||contradiction
+there is not an officer ||contradiction
+the officer is not inside day ||entailment

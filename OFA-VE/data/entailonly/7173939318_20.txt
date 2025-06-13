@@ -1,0 +1,4 @@
+There is a group. ||Entailment
+There are some people. ||Entailment
+There is a dock. ||Entailment
+The group is on dock. ||Entailment

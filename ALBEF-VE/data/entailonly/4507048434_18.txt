@@ -1,0 +1,6 @@
+there is a man ||entailment
+there is a corner ||entailment
+there is a building ||entailment
+the man is standing at the corner ||entailment
+the corner is of the building ||entailment
+the man is talking ||entailment

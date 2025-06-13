@@ -1,0 +1,4 @@
+There are list. ||entailment
+There is a field. ||contradiction
+The list are standing on the rink. ||neutral
+The list are standing on the ice. ||neutral

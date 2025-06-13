@@ -1,0 +1,4 @@
+there is not a person ||contradiction
+there is not a helmet ||contradiction
+the helmet is not colorful ||contradiction
+the person is not wearing a colorful helmet ||contradiction

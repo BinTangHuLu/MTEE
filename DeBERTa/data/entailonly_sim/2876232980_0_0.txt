@@ -1,0 +1,6 @@
+There is a baby. ||neutral
+There is a dominant. ||entailment
+The dominant is red. ||entailment
+The baby is blond headed. ||neutral
+The baby is wearing the top. ||contradiction
+The baby is standing behind the child. ||neutral

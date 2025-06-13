@@ -1,0 +1,3 @@
+There is not a game. ||Contradiction
+There is not a football. ||Contradiction
+The game is not happening football. ||Contradiction

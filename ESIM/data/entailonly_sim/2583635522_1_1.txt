@@ -1,0 +1,5 @@
+There are dude. ||entailment
+There is a pedal. ||entailment
+The dude are Two. ||entailment
+The clothing is different brand of. ||neutral
+The dude are comparing bike. ||entailment

@@ -1,0 +1,5 @@
+there is a baby ||entailment
+there is a homogeneous ||entailment
+the baby is young ||neutral
+the baby is in uniform ||entailment
+the baby holds the ball ||entailment

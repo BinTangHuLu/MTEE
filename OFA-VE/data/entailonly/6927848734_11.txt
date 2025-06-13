@@ -1,0 +1,4 @@
+There is a man. ||Entailment
+There is a destination. ||Entailment
+The man is attempting. ||Entailment
+The man is attempting to arrive at destination. ||Entailment

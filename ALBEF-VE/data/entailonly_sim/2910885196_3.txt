@@ -1,0 +1,2 @@
+there is a loaf ||entailment
+the loaf has frosting ||entailment

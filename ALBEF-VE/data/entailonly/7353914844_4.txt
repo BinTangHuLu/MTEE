@@ -1,0 +1,3 @@
+there are kayakers ||entailment
+there is outdoors ||entailment
+the kayakers are outdoors ||entailment

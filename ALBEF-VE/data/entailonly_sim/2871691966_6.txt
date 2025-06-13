@@ -1,0 +1,6 @@
+there are community ||entailment
+there is a chapel ||entailment
+there is a dude ||entailment
+the dude is in robe ||entailment
+community sit in the church ||entailment
+community listen to the man ||entailment

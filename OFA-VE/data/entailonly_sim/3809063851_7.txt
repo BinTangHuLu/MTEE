@@ -1,0 +1,5 @@
+There are artist. ||Entailment
+There is barley. ||Contradiction
+There is melody. ||Entailment
+The artist play music. ||Entailment
+The melody is on grass. ||Entailment

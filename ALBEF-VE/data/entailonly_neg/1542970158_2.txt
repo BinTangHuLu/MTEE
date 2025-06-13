@@ -1,0 +1,6 @@
+there is not a man ||contradiction
+there is not a shirt ||contradiction
+there are not jeans ||contradiction
+there is not scaffolding ||contradiction
+the shirt is not plaid ||contradiction
+the man is not on scaffolding ||contradiction

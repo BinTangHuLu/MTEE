@@ -1,0 +1,5 @@
+there is a sun ||entailment
+there is a boy ||entailment
+there are bubbles ||entailment
+the sun is setting ||entailment
+the boy is blowing bubbles ||entailment

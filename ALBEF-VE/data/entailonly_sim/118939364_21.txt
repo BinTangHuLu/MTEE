@@ -1,0 +1,3 @@
+there is a female ||entailment
+there is a cord ||entailment
+the female is near the thread ||entailment

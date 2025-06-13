@@ -1,0 +1,4 @@
+there is not a worker ||contradiction
+there are not some eyes ||contradiction
+the eyes are not open ||entailment
+the worker does not have eyes ||contradiction

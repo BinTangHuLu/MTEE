@@ -1,0 +1,4 @@
+there is a aristocrat ||entailment
+there is a path ||entailment
+the aristocrat is older ||entailment
+the aristocrat walks on sidewalk ||neutral

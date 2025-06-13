@@ -1,0 +1,5 @@
+there is a man ||entailment
+there is some food ||entailment
+there are pedestrians ||entailment
+the man is selling food ||neutral
+the food is being sold to pedestrians ||entailment

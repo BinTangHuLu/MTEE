@@ -1,0 +1,5 @@
+there are women ||entailment
+there is an apron ||entailment
+the apron is wearing ||neutral
+the women are doing her job ||entailment
+the women is doing job ||entailment

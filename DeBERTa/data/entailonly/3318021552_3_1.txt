@@ -1,0 +1,4 @@
+There are Vegetables. ||entailment
+There is a tent. ||entailment
+The tent is white. ||entailment
+Vegetables are being sold under tent. ||entailment

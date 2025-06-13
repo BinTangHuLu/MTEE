@@ -1,0 +1,3 @@
+there is a dog ||entailment
+there is a computer ||entailment
+the dog is in front of the computer ||entailment

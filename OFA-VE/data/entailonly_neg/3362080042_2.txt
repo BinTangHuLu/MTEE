@@ -1,0 +1,4 @@
+There is not a human. ||Contradiction
+There is not a baseball. ||Contradiction
+The human is not playing. ||Contradiction
+The human is not playing baseball. ||Contradiction

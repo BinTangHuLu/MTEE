@@ -1,0 +1,3 @@
+There are dude. ||Entailment
+There is a account. ||Contradiction
+The dude are posing for the picture. ||Neutral

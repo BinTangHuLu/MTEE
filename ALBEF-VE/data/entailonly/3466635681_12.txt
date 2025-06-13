@@ -1,0 +1,3 @@
+there is someone ||entailment
+there are some poles ||entailment
+someone is cleaning poles ||entailment

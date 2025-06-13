@@ -1,0 +1,4 @@
+There is a girl. ||Entailment
+There is a gesture. ||Entailment
+The girl is little. ||Entailment
+The girl makes gesture. ||Entailment

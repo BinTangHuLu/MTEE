@@ -1,0 +1,3 @@
+There is a lady. ||entailment
+There is a woman. ||entailment
+The lady is helping the woman. ||entailment

@@ -1,0 +1,6 @@
+There is not a person. ||Entailment
+There is not a shop. ||Contradiction
+There is not a window. ||Contradiction
+The person is not older. ||Entailment
+The person does not stand outside of window. ||Entailment
+The window is not of shop. ||Entailment

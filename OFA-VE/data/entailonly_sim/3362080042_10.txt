@@ -1,0 +1,2 @@
+There are list. ||Contradiction
+The list are running. ||Entailment

@@ -1,0 +1,4 @@
+there is not a boy ||contradiction
+there are not legos ||contradiction
+the boy is not playing ||contradiction
+the boy is not playing with legos ||contradiction

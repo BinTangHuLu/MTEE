@@ -1,0 +1,5 @@
+There is a person. ||entailment
+There are people. ||entailment
+There is face painting. ||entailment
+The person shows people. ||entailment
+The person shows face painting. ||entailment

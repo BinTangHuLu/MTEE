@@ -1,0 +1,3 @@
+there is a dude ||entailment
+the dude is black ||neutral
+the dude is surrounded by cats ||entailment

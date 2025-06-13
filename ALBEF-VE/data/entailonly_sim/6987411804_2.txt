@@ -1,0 +1,4 @@
+there are community ||entailment
+there is an congregation ||entailment
+the community are young ||neutral
+the community are in front of the audience ||entailment

@@ -1,0 +1,5 @@
+There is not a dog. ||contradiction
+There is not a leash. ||contradiction
+The leash is not red. ||contradiction
+The dog is not on the leash. ||entailment
+The dog is not walking away. ||contradiction

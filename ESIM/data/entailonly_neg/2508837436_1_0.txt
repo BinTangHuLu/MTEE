@@ -1,0 +1,4 @@
+There is not a crowd. ||contradiction
+There are not some people. ||contradiction
+There is not a street. ||contradiction
+The crowd does not stand in the street. ||contradiction

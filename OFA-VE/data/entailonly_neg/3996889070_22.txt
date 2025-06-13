@@ -1,0 +1,3 @@
+There is not a deer. ||Entailment
+There is not a girl. ||Contradiction
+The deer was not near the girl. ||Neutral

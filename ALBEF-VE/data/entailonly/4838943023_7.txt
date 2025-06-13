@@ -1,0 +1,3 @@
+there is a man ||entailment
+there are children ||entailment
+the man is near children ||entailment

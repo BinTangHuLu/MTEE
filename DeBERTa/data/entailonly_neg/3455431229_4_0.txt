@@ -1,0 +1,3 @@
+There is not a painter. ||contradiction
+There is not a picture. ||contradiction
+The painter is not creating the picture. ||contradiction

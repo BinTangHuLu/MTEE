@@ -1,0 +1,7 @@
+there is not an individual ||contradiction
+there is not a photo ||entailment
+there is not a shirt ||contradiction
+there are not pants ||contradiction
+the shirt is not the same color ||entailment
+the pants are not the same color ||entailment
+the individual is not in the photo ||contradiction

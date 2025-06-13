@@ -1,0 +1,4 @@
+There are community. ||Entailment
+There are alcohol. ||Entailment
+The alcohol are energy. ||Entailment
+The community are enjoying drinks. ||Entailment

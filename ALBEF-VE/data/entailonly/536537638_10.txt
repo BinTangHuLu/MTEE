@@ -1,0 +1,6 @@
+there are women ||entailment
+there are clothes ||entailment
+there are heads ||entailment
+the women are asian ||neutral
+the women put clothes ||neutral
+the clothes are on heads ||entailment

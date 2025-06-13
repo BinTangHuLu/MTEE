@@ -1,0 +1,4 @@
+There is not a guy. ||contradiction
+The guy is not red. ||contradiction
+The guy is not top. ||contradiction
+The guy does not make a speech. ||contradiction

@@ -1,0 +1,9 @@
+there is not a girl ||contradiction
+there is not a background ||contradiction
+there is not a beach ||contradiction
+there is not a swimsuit ||contradiction
+the girl is not little ||contradiction
+the girl is not in a swimsuit ||contradiction
+the girl does not wave in the background ||neutral
+the girl is not at the beach ||contradiction
+the girl is not running in a swimsuit ||contradiction

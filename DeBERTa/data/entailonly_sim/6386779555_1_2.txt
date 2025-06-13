@@ -1,0 +1,6 @@
+There is a dude. ||entailment
+There is a exterior. ||entailment
+The dude is skateboarding. ||entailment
+The exterior is cement. ||entailment
+The dude does skateboarding trick. ||entailment
+The dude is on surface. ||entailment

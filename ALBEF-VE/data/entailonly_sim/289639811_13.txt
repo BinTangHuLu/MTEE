@@ -1,0 +1,4 @@
+there is dirt ||neutral
+there is a soccer bout ||entailment
+someone is hurt on dirt ||neutral
+someone is in the heart of soccer match ||entailment

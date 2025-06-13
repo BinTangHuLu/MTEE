@@ -1,0 +1,4 @@
+there is a gentlewoman ||entailment
+there is a kitten ||entailment
+the gentlewoman is elderly ||neutral
+the gentlewoman has a cat ||entailment

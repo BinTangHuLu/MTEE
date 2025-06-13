@@ -1,0 +1,5 @@
+There are female. ||entailment
+There are film. ||entailment
+The female are taking. ||entailment
+The female are taking of pictures. ||entailment
+The film are of each other. ||neutral

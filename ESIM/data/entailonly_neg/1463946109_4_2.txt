@@ -1,0 +1,3 @@
+There is not a man. ||contradiction
+There is not a face. ||contradiction
+The man is not looking at the face. ||contradiction

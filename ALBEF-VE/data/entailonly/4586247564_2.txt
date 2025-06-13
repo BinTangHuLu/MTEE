@@ -1,0 +1,5 @@
+there is a lady ||entailment
+there is an ocean ||neutral
+the lady is outside ||entailment
+the lady is walking ||entailment
+the lady is walking above the ocean ||neutral

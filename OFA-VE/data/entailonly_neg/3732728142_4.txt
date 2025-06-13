@@ -1,0 +1,3 @@
+There is not a baby. ||Contradiction
+There is not a hat. ||Contradiction
+The baby is not wearing the hat. ||Neutral

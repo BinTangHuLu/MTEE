@@ -1,0 +1,5 @@
+There are community. ||Entailment
+There are consideration. ||Entailment
+There is a depict. ||Entailment
+The community look at reflections. ||Neutral
+The consideration are in the mirror. ||Entailment

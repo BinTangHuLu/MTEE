@@ -1,0 +1,3 @@
+There is not a musician. ||contradiction
+There is not an instrument. ||contradiction
+The musician does not play on the instrument. ||contradiction

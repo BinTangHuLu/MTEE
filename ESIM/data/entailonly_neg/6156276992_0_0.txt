@@ -1,0 +1,3 @@
+There is not a photographer. ||contradiction
+There is not a landscape. ||contradiction
+The photographer does not get ready to take a shot. ||contradiction

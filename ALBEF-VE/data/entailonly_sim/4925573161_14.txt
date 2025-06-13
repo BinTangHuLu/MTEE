@@ -1,0 +1,3 @@
+there is a body ||entailment
+there is a pedal ||entailment
+the body is on the bike ||entailment

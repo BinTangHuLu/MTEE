@@ -1,0 +1,7 @@
+There is a female. ||entailment
+There is a second female. ||entailment
+The female is One. ||neutral
+The female is speaking. ||entailment
+The second female writes. ||entailment
+The female is speaking into the microphone. ||entailment
+The second female writes beside her. ||entailment

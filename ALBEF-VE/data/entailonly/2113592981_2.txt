@@ -1,0 +1,6 @@
+there is a woman ||entailment
+there is air ||entailment
+there is a city ||entailment
+the woman is asian ||neutral
+the woman is jumping into air ||entailment
+the woman is in the city ||neutral

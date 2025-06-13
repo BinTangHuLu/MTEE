@@ -1,0 +1,4 @@
+There is not a man. ||contradiction
+There are not some sweets. ||contradiction
+The sweets are not fluffy. ||neutral
+The man is not holding sweets. ||contradiction

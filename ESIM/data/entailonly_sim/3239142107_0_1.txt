@@ -1,0 +1,6 @@
+There is a dude. ||entailment
+There is a blouse. ||entailment
+There is a female. ||entailment
+The dude is wearing. ||entailment
+The blouse is peach. ||entailment
+The dude is arguing with the woman. ||entailment

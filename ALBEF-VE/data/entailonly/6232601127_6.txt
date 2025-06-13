@@ -1,0 +1,4 @@
+there is a potter ||entailment
+there is a pot ||entailment
+the potter is shaping ||entailment
+the potter is shaping the pot ||entailment

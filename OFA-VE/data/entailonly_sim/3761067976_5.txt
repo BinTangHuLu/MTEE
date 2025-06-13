@@ -1,0 +1,4 @@
+There is a child. ||Entailment
+There are band. ||Contradiction
+The band are full. ||Contradiction
+The child has hands. ||Entailment

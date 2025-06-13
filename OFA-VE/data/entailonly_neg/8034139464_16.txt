@@ -1,0 +1,4 @@
+There is not a man. ||Contradiction
+There is not a club. ||Contradiction
+There is not a golf. ||Contradiction
+The man is not holding club. ||Contradiction

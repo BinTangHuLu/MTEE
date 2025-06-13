@@ -1,0 +1,7 @@
+There is a lady. ||Entailment
+There is an umbrella. ||Entailment
+The umbrella is lucky. ||Neutral
+There is a day. ||Entailment
+The day is rainy. ||Entailment
+The umbrella is on the day. ||Entailment
+The lady is with the umbrella. ||Entailment

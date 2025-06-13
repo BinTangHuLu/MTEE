@@ -1,0 +1,4 @@
+there is a child ||entailment
+there is a motorbike ||entailment
+the motorbike is motor ||entailment
+the child is riding on the scooter ||entailment

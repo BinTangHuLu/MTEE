@@ -1,0 +1,4 @@
+There are club. ||contradiction
+There is a farmland. ||neutral
+The club were playing the ball. ||neutral
+The club were playing the field. ||contradiction

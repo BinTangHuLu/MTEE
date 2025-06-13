@@ -1,0 +1,5 @@
+there is not a person ||contradiction
+there is not a couch ||contradiction
+the candy is not christmas ||neutral
+the person is not on the couch ||entailment
+the person is not eating candy ||contradiction

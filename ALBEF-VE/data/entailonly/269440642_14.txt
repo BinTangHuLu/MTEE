@@ -1,0 +1,3 @@
+there is dancing ||entailment
+there is chinese ||entailment
+the dancing is associated with chinese ||neutral

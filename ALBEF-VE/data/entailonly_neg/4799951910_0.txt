@@ -1,0 +1,5 @@
+there is not a guy ||contradiction
+there is not a hat ||contradiction
+there is not a wall ||contradiction
+the hat is not with guy ||contradiction
+the guy is not sitting on wall ||entailment

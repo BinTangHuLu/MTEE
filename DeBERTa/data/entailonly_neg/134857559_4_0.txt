@@ -1,0 +1,3 @@
+There is not a band. ||contradiction
+The band is not music. ||contradiction
+The band is not playing music. ||contradiction

@@ -1,0 +1,6 @@
+There is a room. ||entailment
+There are actors. ||neutral
+The room is dim. ||entailment
+The actors are several. ||entailment
+The actors barely see each other. ||neutral
+The actors are getting ready to act. ||entailment

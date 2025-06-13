@@ -1,0 +1,2 @@
+There are not surgeons. ||contradiction
+The surgeons are not operating. ||contradiction

@@ -1,0 +1,4 @@
+there is a man ||entailment
+there is a builder ||entailment
+the builder is large ||neutral
+the man is standing on builder ||entailment

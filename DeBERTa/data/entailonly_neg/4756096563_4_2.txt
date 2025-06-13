@@ -1,0 +1,4 @@
+There is not a group. ||contradiction
+There are not Asians. ||contradiction
+The group is not multiple. ||contradiction
+The group has not recorded videos. ||contradiction

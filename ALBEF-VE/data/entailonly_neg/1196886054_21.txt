@@ -1,0 +1,7 @@
+there are not people ||contradiction
+there is not a wedding party ||contradiction
+there is not a park ||contradiction
+there is not a town ||contradiction
+the people are not of the wedding party ||contradiction
+the people are not walking in the park ||contradiction
+the park is not outside of the town ||entailment

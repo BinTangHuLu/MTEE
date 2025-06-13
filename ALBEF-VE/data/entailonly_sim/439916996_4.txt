@@ -1,0 +1,4 @@
+there is a female ||entailment
+there is a pup ||entailment
+the female watches ||entailment
+the female is watching the dog ||entailment

@@ -1,0 +1,4 @@
+There are men. ||entailment
+There are clothes. ||entailment
+There are men. ||entailment
+The clothes are wearing. ||entailment

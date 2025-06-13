@@ -1,0 +1,5 @@
+There is a athlete. ||Entailment
+There is a soccer. ||Entailment
+There is a agreeable. ||Entailment
+The athlete is running. ||Entailment
+The athlete is running during the game. ||Entailment

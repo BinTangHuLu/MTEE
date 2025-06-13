@@ -1,0 +1,4 @@
+there is a child ||entailment
+there is a bowl ||entailment
+the bowl is yellow ||neutral
+the child is holding the cup ||entailment

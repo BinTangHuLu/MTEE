@@ -1,0 +1,4 @@
+There is a lady. ||Entailment
+There is an outfit. ||Entailment
+The outfit is beautiful. ||Entailment
+The lady is wearing the beautiful outfit. ||Entailment

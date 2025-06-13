@@ -1,0 +1,3 @@
+there is a baby ||entailment
+there is a glide park ||entailment
+the baby skates at the skate park ||entailment

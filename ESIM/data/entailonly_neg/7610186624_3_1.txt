@@ -1,0 +1,4 @@
+There is not a lady. ||contradiction
+There is not a table. ||contradiction
+The lady is not leeping. ||entailment
+The lady is not on the table. ||contradiction

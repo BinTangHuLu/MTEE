@@ -1,0 +1,4 @@
+there is a man ||entailment
+there is a bus ride ||entailment
+the man is well dressed ||neutral
+the man is waiting for bus ride ||neutral

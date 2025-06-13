@@ -1,0 +1,3 @@
+there is a policeman ||entailment
+there is a job ||entailment
+the policeman is on job ||neutral

@@ -1,0 +1,3 @@
+There is a boy. ||Entailment
+There is something. ||Entailment
+The boy is consuming something. ||Entailment

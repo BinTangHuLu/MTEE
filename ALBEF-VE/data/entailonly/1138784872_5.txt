@@ -1,0 +1,4 @@
+there is a boy ||entailment
+there is a store ||entailment
+the boy is young ||entailment
+the boy is walking in front of the store ||entailment

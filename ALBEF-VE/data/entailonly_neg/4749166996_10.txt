@@ -1,0 +1,5 @@
+there is not a gentleman ||contradiction
+there is not a suit ||contradiction
+there is not a stage ||contradiction
+the gentleman is not bald ||entailment
+the gentleman is not standing on stage ||contradiction

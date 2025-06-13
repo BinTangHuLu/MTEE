@@ -1,0 +1,3 @@
+There are not performers. ||Contradiction
+There is not a street. ||Contradiction
+The performers are not on street. ||Contradiction

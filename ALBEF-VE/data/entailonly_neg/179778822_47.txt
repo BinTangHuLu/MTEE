@@ -1,0 +1,5 @@
+there is not a girl ||contradiction
+there is not a woman ||contradiction
+there is not a reflection ||contradiction
+the girl does not look at the reflection ||contradiction
+the woman does not look at the reflection ||contradiction

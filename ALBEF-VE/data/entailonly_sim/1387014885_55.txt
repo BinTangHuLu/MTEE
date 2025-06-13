@@ -1,0 +1,5 @@
+there is a dude ||entailment
+there is a female ||entailment
+there is a gig ||entailment
+the gig is outdoor ||entailment
+the dude is talking to the woman ||entailment

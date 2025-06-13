@@ -1,0 +1,8 @@
+there is not a woman ||contradiction
+there is not a player ||contradiction
+there is not a basketball ||contradiction
+there is not a ball ||contradiction
+the woman is not young ||entailment
+the player is not basketball ||contradiction
+the player does not block another ||contradiction
+another is not in possession of the ball ||entailment

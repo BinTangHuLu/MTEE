@@ -1,0 +1,3 @@
+A,all gray
+R,of
+R,on

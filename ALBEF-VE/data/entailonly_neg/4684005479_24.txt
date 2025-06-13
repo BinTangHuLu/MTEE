@@ -1,0 +1,6 @@
+there is not a man ||contradiction
+there is not a jersey ||contradiction
+there is not a street ||contradiction
+the jersey is not wearing ||contradiction
+the man does not wear jersey ||contradiction
+the man does not walk down street ||contradiction

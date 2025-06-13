@@ -1,0 +1,5 @@
+There is not a man. ||contradiction
+There is not a coconut. ||contradiction
+There is not a stump. ||contradiction
+The man is not slicing the coconut. ||contradiction
+The man is not next to the stump. ||contradiction

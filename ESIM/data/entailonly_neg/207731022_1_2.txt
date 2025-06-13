@@ -1,0 +1,5 @@
+There is not a canoe. ||contradiction
+There is not a dock. ||entailment
+The canoe is not untied. ||contradiction
+The canoe has not come untied. ||neutral
+The canoe is not drifting. ||entailment

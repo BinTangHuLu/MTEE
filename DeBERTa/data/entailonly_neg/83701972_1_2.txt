@@ -1,0 +1,4 @@
+There are not humans. ||contradiction
+There are not two humans. ||contradiction
+The humans are not enjoying. ||contradiction
+The humans are not outside. ||contradiction

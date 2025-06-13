@@ -1,0 +1,2 @@
+there is a pup ||entailment
+there is some dirt ||neutral

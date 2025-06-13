@@ -1,0 +1,4 @@
+There are Workers. ||entailment
+The Workers are filling orders. ||entailment
+There is robbins. ||entailment
+The Workers are at basking. ||entailment

@@ -1,0 +1,3 @@
+there is a woman ||entailment
+there are some sticks ||entailment
+the woman looks at sticks ||entailment

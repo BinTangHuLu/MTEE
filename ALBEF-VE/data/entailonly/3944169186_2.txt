@@ -1,0 +1,3 @@
+there are girls ||entailment
+there are youth ||entailment
+the girls are playing ||entailment

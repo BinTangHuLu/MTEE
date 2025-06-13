@@ -1,0 +1,6 @@
+There is a child. ||entailment
+There is a pedal. ||entailment
+The child is riding. ||entailment
+The pedal is his. ||neutral
+The child is riding the bike. ||entailment
+The pedal is outside. ||neutral

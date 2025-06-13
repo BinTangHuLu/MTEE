@@ -1,0 +1,5 @@
+There is a woman. ||entailment
+There is a leash. ||entailment
+There is a dog. ||entailment
+The woman is holding the dog. ||entailment
+The woman is holding the leash. ||entailment

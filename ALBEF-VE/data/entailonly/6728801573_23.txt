@@ -1,0 +1,4 @@
+there is a woman ||entailment
+there is a bike ||entailment
+the woman is old ||neutral
+the woman is building the bike ||neutral

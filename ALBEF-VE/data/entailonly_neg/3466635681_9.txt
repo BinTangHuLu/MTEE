@@ -1,0 +1,3 @@
+there is not a person ||contradiction
+there is not a building ||contradiction
+the person is not cleaning the building ||entailment

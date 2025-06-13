@@ -1,0 +1,7 @@
+there is not a boy ||contradiction
+there is not a flag ||contradiction
+there is not a woman ||contradiction
+the boy is not little ||entailment
+the flag is not mexican ||contradiction
+the boy is not holding the flag ||contradiction
+the boy is not walking beside the woman ||contradiction

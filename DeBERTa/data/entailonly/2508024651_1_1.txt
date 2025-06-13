@@ -1,0 +1,8 @@
+There is a person. ||entailment
+There is an outfit. ||entailment
+There is orange juice. ||entailment
+There is an area. ||entailment
+The person is polka dot. ||entailment
+The area is caution. ||entailment
+The person is handing out orange juice. ||entailment
+The person is behind the area. ||entailment

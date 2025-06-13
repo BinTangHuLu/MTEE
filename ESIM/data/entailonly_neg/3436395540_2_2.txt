@@ -1,0 +1,2 @@
+There are not animals. ||contradiction
+There are not outdoors. ||contradiction

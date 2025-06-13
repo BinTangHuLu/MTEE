@@ -1,0 +1,3 @@
+there is a female ||entailment
+the female is two ||neutral
+the female is looking ||entailment

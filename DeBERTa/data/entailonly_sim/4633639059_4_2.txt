@@ -1,0 +1,4 @@
+There is a driver. ||entailment
+There is a automobile. ||contradiction
+The automobile is two wheeled. ||contradiction
+The driver is riding the vehicle. ||entailment

@@ -1,0 +1,6 @@
+there is not a lady ||contradiction
+there is not a top ||contradiction
+the top is not wearing ||contradiction
+there is not a group ||contradiction
+the lady does not see the group ||entailment
+the group is not in distance ||contradiction

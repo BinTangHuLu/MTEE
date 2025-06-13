@@ -1,0 +1,3 @@
+there are not people ||contradiction
+there is not a photo ||entailment
+the people do not pose for the photo ||contradiction

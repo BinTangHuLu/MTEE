@@ -1,0 +1,3 @@
+there is a man ||entailment
+there are tickets ||entailment
+the man is taking tickets ||entailment

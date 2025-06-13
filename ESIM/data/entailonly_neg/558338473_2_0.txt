@@ -1,0 +1,6 @@
+There are not persons. ||contradiction
+There is not an exercise. ||contradiction
+There is not a gym. ||contradiction
+The persons are not Two. ||contradiction
+The persons are not doing exercise. ||contradiction
+The exercise is not in gym. ||contradiction

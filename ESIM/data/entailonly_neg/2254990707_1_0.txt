@@ -1,0 +1,5 @@
+There are not men. ||contradiction
+There is not a car. ||contradiction
+There is not snow. ||contradiction
+The men are not trying to push the car. ||contradiction
+The men are not trying to push the snow. ||contradiction

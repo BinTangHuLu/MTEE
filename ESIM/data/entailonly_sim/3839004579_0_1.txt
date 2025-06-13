@@ -1,0 +1,6 @@
+There is a driver. ||neutral
+The driver is mid-jump. ||entailment
+The driver is underneath. ||entailment
+The driver is showing. ||entailment
+The biker is in mid-bounce. ||entailment
+The driver is showing the sky. ||entailment

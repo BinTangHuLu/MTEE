@@ -1,0 +1,4 @@
+EA,scene,outdoor
+E1RE2,workers,working on,scaffolding
+EA,workers,two
+E1RE2,scene,with,workers

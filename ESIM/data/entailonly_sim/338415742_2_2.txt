@@ -1,0 +1,8 @@
+There is a dude. ||entailment
+There is a brief crisis. ||neutral
+There is a edge. ||entailment
+There is a female. ||entailment
+The dude is with a brief case. ||neutral
+The dude is near a corner. ||entailment
+The dude stands near the corner. ||contradiction
+The female walks past the corner. ||entailment

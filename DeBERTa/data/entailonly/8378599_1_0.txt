@@ -1,0 +1,4 @@
+There is a boy. ||entailment
+There is a street. ||entailment
+The boy is blue jacketed. ||entailment
+The boy is skating down street. ||entailment

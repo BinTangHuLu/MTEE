@@ -1,0 +1,3 @@
+There are clan. ||Contradiction
+There is camel. ||Contradiction
+The clan are having fun in sand. ||Neutral

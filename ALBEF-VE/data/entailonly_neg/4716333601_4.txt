@@ -1,0 +1,6 @@
+there is not a woman ||contradiction
+there is not a shirt ||contradiction
+there are not glasses ||contradiction
+the shirt is not striped ||contradiction
+the woman is not in the shirt ||neutral
+the woman is not in the glasses ||neutral

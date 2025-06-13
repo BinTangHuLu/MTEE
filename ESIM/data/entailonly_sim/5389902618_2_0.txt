@@ -1,0 +1,4 @@
+There are female. ||entailment
+There are apparel. ||entailment
+The apparel are gorgeous. ||entailment
+The female perform together in costumes. ||entailment

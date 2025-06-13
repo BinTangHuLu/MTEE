@@ -1,0 +1,6 @@
+there is a child ||entailment
+there are some floaties ||neutral
+there is a beach ||entailment
+the floaties are blue ||neutral
+the child is wearing floaties. ||entailment
+the child is leaning over at beach ||entailment

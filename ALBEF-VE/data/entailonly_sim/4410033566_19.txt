@@ -1,0 +1,3 @@
+there is a dude ||entailment
+there is a gallery ||entailment
+the dude is leaning in kitchen ||entailment

@@ -1,0 +1,3 @@
+there are not cats ||contradiction
+there is not a man ||contradiction
+the cats are not with the man ||contradiction

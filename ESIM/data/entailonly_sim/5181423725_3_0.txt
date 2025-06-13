@@ -1,0 +1,3 @@
+There is a child. ||entailment
+There is a loaf. ||contradiction
+The child is eating the cake. ||entailment

@@ -1,0 +1,7 @@
+there is a man ||entailment
+there is red ||entailment
+there is white ||entailment
+there is a boat ||entailment
+the man is in red ||entailment
+the man is in white ||contradiction
+the man is paddling the boat ||entailment

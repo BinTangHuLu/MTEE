@@ -1,0 +1,4 @@
+there are people ||entailment
+the people are in red ||entailment
+the people are pink ||contradiction
+the people are walking up steps ||entailment

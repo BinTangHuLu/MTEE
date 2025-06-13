@@ -1,0 +1,3 @@
+There is a woman. ||Entailment
+There are some shorts. ||Entailment
+The woman is in shorts. ||Neutral

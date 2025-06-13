@@ -1,0 +1,4 @@
+there is a waiter ||entailment
+there is an order ||entailment
+the waiter is ready ||entailment
+the waiter is ready to take the order ||entailment

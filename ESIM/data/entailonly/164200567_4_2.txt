@@ -1,0 +1,4 @@
+There is a lady. ||entailment
+There is a truck. ||entailment
+The lady is young. ||entailment
+The lady is ordering from the truck. ||entailment

@@ -1,0 +1,6 @@
+there is a man ||entailment
+there is a ball ||entailment
+there is an object ||entailment
+the object is large ||neutral
+the man hits the ball ||entailment
+the ball is hit with the object ||entailment

@@ -1,0 +1,5 @@
+there are clan ||entailment
+there is a tortoise ||entailment
+there is a coast ||entailment
+the clan play with the turtle ||entailment
+the tortoise is at the beach ||entailment

@@ -1,0 +1,5 @@
+There is not a person. ||contradiction
+There are not children. ||contradiction
+The person is not outside. ||contradiction
+The person is not with children. ||contradiction
+The children are not playing. ||contradiction

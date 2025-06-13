@@ -1,0 +1,5 @@
+there is a dude ||entailment
+there is a sponge ||entailment
+there is a ceiling ||contradiction
+the dude is holding the mop ||entailment
+the sponge is on the roof ||entailment

@@ -1,0 +1,3 @@
+there is a man ||entailment
+there is a booth ||entailment
+the man stands by the booth ||entailment

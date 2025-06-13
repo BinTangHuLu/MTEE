@@ -1,0 +1,2 @@
+there is not a plane ||contradiction
+the plane is not descending ||entailment

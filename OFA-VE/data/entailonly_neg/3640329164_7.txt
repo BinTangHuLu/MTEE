@@ -1,0 +1,3 @@
+There is not a wave. ||Contradiction
+The wave is not surfed. ||Contradiction
+The wave is not being surfed. ||Contradiction

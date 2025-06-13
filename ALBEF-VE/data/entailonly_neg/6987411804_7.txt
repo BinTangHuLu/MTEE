@@ -1,0 +1,4 @@
+there are not girls ||contradiction
+there are not outfits ||contradiction
+the outfits are not cheerleading ||contradiction
+the girls are not wearing outfits ||contradiction

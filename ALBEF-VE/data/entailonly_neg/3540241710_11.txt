@@ -1,0 +1,9 @@
+there is not a man ||contradiction
+there is not a shirt ||entailment
+there is not air ||entailment
+there is not outside ||entailment
+the shirt is not white ||entailment
+the man is not taking flight ||entailment
+the man is not in the shirt ||entailment
+the man is not taking flight in the air ||entailment
+the man is not outside the air ||entailment

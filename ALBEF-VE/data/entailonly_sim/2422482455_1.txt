@@ -1,0 +1,3 @@
+there is a female ||entailment
+there is a bar ||entailment
+the female is carrying a stick ||entailment

@@ -1,0 +1,7 @@
+there is not an act ||contradiction
+there is not an artist ||contradiction
+there are not poles ||contradiction
+the act is not highwire ||entailment
+the artist is not up ||contradiction
+the act is not during the day ||entailment
+the artist is not up supported by poles ||contradiction

@@ -1,0 +1,4 @@
+there are women ||entailment
+there is a rail ||entailment
+the dresses are dresses ||neutral
+the women are standing by the rail ||entailment

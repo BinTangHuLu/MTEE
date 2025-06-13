@@ -1,0 +1,4 @@
+There is a selection. ||Entailment
+There is some produce. ||Entailment
+The selection is for sale. ||Entailment
+The selection is for sale by produce. ||Entailment

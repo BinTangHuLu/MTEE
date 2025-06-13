@@ -1,0 +1,4 @@
+there is a group ||entailment
+there are some people ||entailment
+there is a fair ||entailment
+the people are at the fair ||neutral

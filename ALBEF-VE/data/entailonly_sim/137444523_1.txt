@@ -1,0 +1,5 @@
+there is a dude ||entailment
+there is a t blouse ||entailment
+the dude is young ||neutral
+the t blouse is green ||entailment
+the dude is wearing a t shirt ||entailment

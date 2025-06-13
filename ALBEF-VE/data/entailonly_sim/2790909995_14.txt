@@ -1,0 +1,6 @@
+there is a pup ||entailment
+there is some camel ||neutral
+there is some barley ||neutral
+there is a backdrop ||entailment
+the pup runs into the sand ||entailment
+the barley is in the background ||neutral

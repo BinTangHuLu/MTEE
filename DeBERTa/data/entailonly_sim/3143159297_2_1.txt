@@ -1,0 +1,4 @@
+There is a cartoon. ||contradiction
+There is a dude. ||entailment
+There is a little girl. ||entailment
+The cartoon is being taken of the man. ||contradiction

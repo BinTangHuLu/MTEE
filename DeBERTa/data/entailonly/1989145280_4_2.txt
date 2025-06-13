@@ -1,0 +1,4 @@
+There is a woman. ||entailment
+There are some sunglasses. ||entailment
+The sunglasses are a pair of. ||entailment
+The woman is wearing sunglasses. ||entailment

@@ -1,0 +1,5 @@
+there is not a batter ||contradiction
+there is not a game ||contradiction
+there is not a hit ||contradiction
+the batter is not in the game ||contradiction
+the batter is not getting a hit ||contradiction

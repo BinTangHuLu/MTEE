@@ -1,0 +1,3 @@
+there is an orchestra ||entailment
+there is a hall ||entailment
+the orchestra is at the hall ||entailment

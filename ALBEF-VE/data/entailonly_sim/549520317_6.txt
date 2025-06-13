@@ -1,0 +1,5 @@
+there is a baby ||entailment
+there is a fur ||entailment
+the fur is crimson ||neutral
+the baby is in the coat ||entailment
+the baby cavorts outside ||entailment

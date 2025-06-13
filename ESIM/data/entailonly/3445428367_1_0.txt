@@ -1,0 +1,6 @@
+There is a woman. ||entailment
+There is a camera. ||entailment
+There is a wall. ||entailment
+The woman is pointing. ||entailment
+The camera is upwards. ||entailment
+The woman is while standing at the wall. ||entailment

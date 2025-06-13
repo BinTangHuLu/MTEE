@@ -1,0 +1,5 @@
+There is a girl. ||entailment
+There is a guitar. ||entailment
+There is a stage. ||entailment
+The girl plays guitar. ||entailment
+The girl sings on stage. ||entailment

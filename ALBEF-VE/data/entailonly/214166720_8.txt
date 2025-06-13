@@ -1,0 +1,4 @@
+there is a boy ||entailment
+there is an animal ||entailment
+the animal is stuffed ||entailment
+the boy is holding an animal ||entailment

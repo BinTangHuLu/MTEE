@@ -1,0 +1,6 @@
+There are not Octogenarians. ||entailment
+There are not photographs. ||contradiction
+There is not a wall. ||contradiction
+The photographs are not old. ||contradiction
+The Octogenarians are not admiring photographs. ||contradiction
+The photographs did not decorate the wall. ||neutral

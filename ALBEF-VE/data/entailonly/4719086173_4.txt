@@ -1,0 +1,3 @@
+there are fire fighters ||entailment
+there is a job ||entailment
+the fire fighters have done the job ||entailment

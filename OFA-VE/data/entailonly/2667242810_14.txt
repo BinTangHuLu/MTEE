@@ -1,0 +1,4 @@
+There are people. ||Entailment
+There is a table. ||Entailment
+The people are total. ||Contradiction
+The people are near the table. ||Entailment

@@ -1,0 +1,5 @@
+there is a dude ||entailment
+there is a blouse ||contradiction
+there is a estuary ||entailment
+the dude took off the shirt ||entailment
+the dude is near the river ||entailment

@@ -1,0 +1,4 @@
+there are players ||entailment
+there is a pitch ||entailment
+the players are young female ||entailment
+the players are on the pitch ||entailment

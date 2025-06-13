@@ -1,0 +1,5 @@
+there is a little ||entailment
+there is a appendage ||entailment
+there is a bounce ||entailment
+the little is using hand ||entailment
+the appendage is to shake rattle ||contradiction

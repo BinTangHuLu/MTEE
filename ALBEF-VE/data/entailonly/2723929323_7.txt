@@ -1,0 +1,3 @@
+there are women ||entailment
+there is a beach ||entailment
+the women enjoy the beach ||entailment

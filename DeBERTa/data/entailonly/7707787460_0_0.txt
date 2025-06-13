@@ -1,0 +1,4 @@
+There are men. ||entailment
+There are two men. ||entailment
+The men are uniform. ||entailment
+The men wrestle in uniform. ||entailment

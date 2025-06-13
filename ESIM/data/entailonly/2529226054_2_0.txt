@@ -1,0 +1,7 @@
+There is a man. ||entailment
+There is a vest. ||entailment
+There is a street. ||contradiction
+The man is wearing. ||entailment
+The vest is walking. ||entailment
+The man is wearing a vest. ||entailment
+The man is walking down the street. ||entailment

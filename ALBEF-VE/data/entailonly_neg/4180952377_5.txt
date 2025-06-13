@@ -1,0 +1,4 @@
+there is not a guy ||contradiction
+there is not a car ||contradiction
+the guy is not green ||contradiction
+the guy does not work on the car ||contradiction

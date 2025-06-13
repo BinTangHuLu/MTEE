@@ -1,0 +1,4 @@
+There is a man. ||Entailment
+There is a dog. ||Entailment
+The man is playing. ||Entailment
+The man is playing with the dog. ||Neutral

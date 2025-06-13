@@ -1,0 +1,4 @@
+there is a man ||entailment
+there is a wall ||entailment
+the wall is rock ||entailment
+the man is climbing the wall ||entailment

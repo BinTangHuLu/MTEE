@@ -1,0 +1,3 @@
+There are players. ||Entailment
+There is a court. ||Entailment
+The players are on court. ||Entailment

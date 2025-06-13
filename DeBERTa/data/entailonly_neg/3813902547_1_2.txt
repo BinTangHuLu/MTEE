@@ -1,0 +1,6 @@
+There is not a man. ||contradiction
+There is not a train. ||contradiction
+The train is not tiny. ||contradiction
+The train is not different. ||contradiction
+The man is not riding the train. ||contradiction
+The man does not see another man. ||contradiction

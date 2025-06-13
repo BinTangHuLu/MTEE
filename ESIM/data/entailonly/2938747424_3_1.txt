@@ -1,0 +1,4 @@
+There is a dog. ||entailment
+The dog runs. ||entailment
+The dog is water. ||entailment
+The dog runs through water. ||entailment

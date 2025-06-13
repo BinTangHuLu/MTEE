@@ -1,0 +1,4 @@
+There is a female. ||entailment
+The female is exploring. ||entailment
+There are bag. ||entailment
+The female is exploring something. ||entailment

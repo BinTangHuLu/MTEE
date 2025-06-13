@@ -1,0 +1,3 @@
+there is a female ||entailment
+there is a bowl ||entailment
+the female is carrying the cup ||entailment

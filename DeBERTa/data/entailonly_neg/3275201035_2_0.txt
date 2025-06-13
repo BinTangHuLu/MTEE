@@ -1,0 +1,4 @@
+There is not someone. ||contradiction
+There is not water. ||contradiction
+There is not a bottle. ||contradiction
+Someone does not pour water into the bottle. ||contradiction

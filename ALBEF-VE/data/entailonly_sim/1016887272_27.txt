@@ -1,0 +1,2 @@
+there is a earth ||entailment
+the climbers climb the earth ||contradiction

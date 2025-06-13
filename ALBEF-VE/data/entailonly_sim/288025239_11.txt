@@ -1,0 +1,5 @@
+there is a dude ||entailment
+there is a canvas ||entailment
+there is blizzard ||neutral
+the dude peeks out of the tent ||entailment
+the canvas is in snow ||entailment

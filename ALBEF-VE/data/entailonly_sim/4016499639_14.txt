@@ -1,0 +1,3 @@
+there are community ||entailment
+there is a attitude ||entailment
+the community stand at the stand ||entailment

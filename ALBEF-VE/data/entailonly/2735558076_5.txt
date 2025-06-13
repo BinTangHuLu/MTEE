@@ -1,0 +1,3 @@
+there is a boy ||entailment
+there are feet ||entailment
+the boy sits at feet ||contradiction

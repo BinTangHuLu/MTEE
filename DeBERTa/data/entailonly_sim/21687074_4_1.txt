@@ -1,0 +1,6 @@
+There is summertime. ||entailment
+There is a coast. ||entailment
+There is a gallery. ||contradiction
+The summertime is hot. ||neutral
+The summertime is by the beach. ||entailment
+The summertime is on the walkway. ||entailment

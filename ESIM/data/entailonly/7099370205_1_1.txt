@@ -1,0 +1,5 @@
+There are teams. ||entailment
+There is a ball. ||entailment
+There is a field. ||entailment
+The teams were playing the ball. ||entailment
+The teams were playing the field. ||entailment

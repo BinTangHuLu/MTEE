@@ -1,0 +1,4 @@
+There is a call up. ||entailment
+There is a female. ||entailment
+The Phone is her mind. ||contradiction
+The female bends forward to the Phone. ||entailment

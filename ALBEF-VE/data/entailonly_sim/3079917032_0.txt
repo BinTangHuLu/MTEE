@@ -1,0 +1,3 @@
+there is a female ||entailment
+the female is red ||contradiction
+the female is wearing red ||entailment

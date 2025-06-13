@@ -1,0 +1,4 @@
+there is a animal ||entailment
+the animal is young ||neutral
+the animal is wearing red ||entailment
+the animal is walking outdoors ||entailment

@@ -1,0 +1,2 @@
+There are players. ||Entailment
+The players are in uniform. ||Entailment

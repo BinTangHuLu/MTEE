@@ -1,0 +1,4 @@
+There are dude. ||entailment
+There is a block. ||entailment
+The dude are watching TV. ||entailment
+The dude are at the bar. ||entailment

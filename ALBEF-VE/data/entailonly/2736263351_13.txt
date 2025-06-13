@@ -1,0 +1,3 @@
+there is he ||contradiction
+he is working ||entailment
+he is working outside ||entailment

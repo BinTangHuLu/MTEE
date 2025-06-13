@@ -1,0 +1,4 @@
+There is not a man. ||contradiction
+There is not a shirt. ||contradiction
+The man is not in the shirt. ||contradiction
+The man does not juggle. ||contradiction

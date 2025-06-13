@@ -1,0 +1,5 @@
+There is not a Person. ||Contradiction
+There is not a skateboard. ||Contradiction
+There is not a stair rail. ||Contradiction
+The Person is not on the skateboard. ||Contradiction
+The skateboard is not on the stair rail. ||Entailment

@@ -1,0 +1,6 @@
+there is not a girl ||contradiction
+there is not a tub ||contradiction
+there is not water ||contradiction
+the tub is not plastic ||neutral
+the girl is not in the tub ||contradiction
+the tub is not with water ||contradiction

@@ -1,0 +1,3 @@
+there is not a father ||contradiction
+there are not some photos ||entailment
+the father has not taken photos ||contradiction

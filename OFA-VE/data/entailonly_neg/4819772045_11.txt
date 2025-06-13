@@ -1,0 +1,4 @@
+There is not a human. ||Entailment
+There is not a street. ||Contradiction
+The human is not in the street. ||Entailment
+The human are not seated. ||Entailment

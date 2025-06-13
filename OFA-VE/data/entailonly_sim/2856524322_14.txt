@@ -1,0 +1,5 @@
+There is a dude. ||Entailment
+There is a automobile. ||Contradiction
+The automobile has two pedals. ||Entailment
+The dude is riding the vehicle. ||Entailment
+The automobile is with pedals. ||Contradiction

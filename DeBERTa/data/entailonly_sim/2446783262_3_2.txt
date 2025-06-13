@@ -1,0 +1,4 @@
+There is a female. ||entailment
+There is a bikini. ||neutral
+The female is wearing. ||entailment
+The female is swimsuit. ||entailment

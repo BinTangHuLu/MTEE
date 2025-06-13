@@ -1,0 +1,5 @@
+there is a man ||entailment
+there is a half pipe ||entailment
+there is a skateboard ||entailment
+the man is riding the half pipe ||entailment
+the half pipe is on the skateboard ||entailment

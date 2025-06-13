@@ -1,0 +1,5 @@
+there is a baby ||entailment
+there is a call up ||neutral
+the baby is little ||neutral
+the baby is talking on the phone ||entailment
+the baby is outside the phone ||entailment

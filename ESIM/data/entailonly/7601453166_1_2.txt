@@ -1,0 +1,7 @@
+There is a guy. ||entailment
+There is a sign. ||entailment
+The sign is round. ||entailment
+The surface is round. ||entailment
+The guy works on the sign. ||entailment
+The guy is putting letters on the surface. ||entailment
+The sign is on the ground. ||contradiction

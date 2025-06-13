@@ -1,0 +1,4 @@
+there is not a child ||contradiction
+there is not an ornament ||contradiction
+the child is not blond ||contradiction
+the child is not playing with ornament ||contradiction

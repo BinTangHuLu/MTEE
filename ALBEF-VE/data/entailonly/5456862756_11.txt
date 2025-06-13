@@ -1,0 +1,3 @@
+there is a lady ||entailment
+the lady is outdoors ||entailment
+the lady is outdoors ||entailment

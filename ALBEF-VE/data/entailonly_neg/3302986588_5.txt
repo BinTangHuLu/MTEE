@@ -1,0 +1,5 @@
+there is not a boy ||contradiction
+the boy is not young ||entailment
+the boy is not prepared ||contradiction
+the weather is not inclement ||entailment
+the boy is not prepared for weather ||contradiction

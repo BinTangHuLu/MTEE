@@ -1,0 +1,4 @@
+there is a girl ||entailment
+there are hands ||entailment
+the hands are full ||neutral
+the girl has hands ||entailment

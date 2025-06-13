@@ -1,0 +1,2 @@
+EA,hat,red
+E1RE2,drummer,is wearing,hat

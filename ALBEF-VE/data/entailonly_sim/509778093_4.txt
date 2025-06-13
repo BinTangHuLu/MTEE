@@ -1,0 +1,4 @@
+there is a pup ||entailment
+there is some barley ||entailment
+the pup is orange ||contradiction
+the pup plays in grass ||entailment

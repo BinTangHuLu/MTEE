@@ -1,0 +1,7 @@
+There is not a man. ||contradiction
+There is not a skateboard. ||contradiction
+There is not a surface. ||contradiction
+The man is hisnot . ||entailment
+The surface is not cement. ||contradiction
+The man does not flip skateboard. ||contradiction
+The man does not flip on surface. ||contradiction

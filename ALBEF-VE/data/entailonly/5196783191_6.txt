@@ -1,0 +1,4 @@
+there is a show ||entailment
+there is a band ||entailment
+the show is light ||entailment
+the band played the show ||entailment

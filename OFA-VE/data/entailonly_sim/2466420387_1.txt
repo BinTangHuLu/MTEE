@@ -1,0 +1,4 @@
+There is a female. ||Entailment
+There is a crisis. ||Neutral
+The female is two. ||Entailment
+The female is next to case. ||Entailment

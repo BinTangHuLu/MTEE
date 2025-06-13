@@ -1,0 +1,3 @@
+There is not a man. ||contradiction
+There are not women. ||contradiction
+The man does not take a walk with women. ||contradiction

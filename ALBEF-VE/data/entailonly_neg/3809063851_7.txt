@@ -1,0 +1,5 @@
+there are not musicians ||contradiction
+there is not grass ||contradiction
+there is not music ||contradiction
+the musicians do not play music ||contradiction
+the music is not on grass ||entailment

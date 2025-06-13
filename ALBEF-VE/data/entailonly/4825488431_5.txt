@@ -1,0 +1,6 @@
+there is a plane ||entailment
+there are some wings ||entailment
+the wings are planes ||neutral
+the plane flaps wings ||entailment
+there is an airplane ||entailment
+the airplane soars in the air ||entailment

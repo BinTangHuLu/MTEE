@@ -1,0 +1,4 @@
+There are bicyclists. ||Entailment
+There are arms. ||Entailment
+The bicyclists are with arms. ||Entailment
+The arms are around each other. ||Entailment

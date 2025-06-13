@@ -1,0 +1,2 @@
+there is a bar ||entailment
+the animals are inside of the bar ||contradiction

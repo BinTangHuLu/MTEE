@@ -1,0 +1,3 @@
+there are women ||entailment
+there are doors ||entailment
+women are walking out doors ||entailment

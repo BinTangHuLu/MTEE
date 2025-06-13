@@ -1,0 +1,2 @@
+There are band. ||Contradiction
+There is apparatus. ||Entailment

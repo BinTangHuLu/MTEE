@@ -1,0 +1,5 @@
+There are clan. ||Contradiction
+There is a tortoise. ||Entailment
+There is a coast. ||Entailment
+The clan play with the turtle. ||Neutral
+The tortoise is at the beach. ||Entailment

@@ -1,0 +1,5 @@
+There are girls. ||entailment
+There is a fountain. ||entailment
+The girls are young. ||entailment
+The girls are standing under fountain. ||entailment
+The fountain has water. ||entailment

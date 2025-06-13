@@ -1,0 +1,3 @@
+there are waves ||entailment
+there is a day ||entailment
+the day is this time of ||entailment

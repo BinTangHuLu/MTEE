@@ -1,0 +1,7 @@
+There is not a woman. ||contradiction
+There is not a phone. ||contradiction
+There is not a sidewalk. ||contradiction
+The woman is not talking. ||contradiction
+The woman is not walking. ||contradiction
+The woman is not talking on the phone. ||contradiction
+The woman is not walking down the sidewalk. ||contradiction

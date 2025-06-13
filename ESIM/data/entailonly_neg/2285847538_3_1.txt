@@ -1,0 +1,4 @@
+There is not a man. ||contradiction
+The man is not old. ||contradiction
+There are not threads. ||contradiction
+The man is not looming threads. ||neutral

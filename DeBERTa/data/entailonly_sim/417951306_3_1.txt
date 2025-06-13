@@ -1,0 +1,4 @@
+There is a female. ||entailment
+There is a fur. ||entailment
+The fur is black. ||entailment
+The female is wearing a coat. ||entailment

@@ -1,0 +1,2 @@
+There are not Boys. ||Entailment
+The Boys are not running. ||Entailment

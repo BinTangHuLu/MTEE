@@ -1,0 +1,5 @@
+There are men. ||entailment
+There are jeans. ||entailment
+The men are Two. ||neutral
+The jeans are wearing. ||entailment
+The men are wearing jeans. ||entailment

@@ -1,0 +1,5 @@
+There is a circle. ||Contradiction
+There is a arena. ||Entailment
+There is a chapel. ||Entailment
+The chapel is busy. ||Neutral
+The arena is in front of mosque. ||Neutral

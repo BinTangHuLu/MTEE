@@ -1,0 +1,3 @@
+there is a man ||entailment
+there is something green ||entailment
+the man is wearing green ||contradiction

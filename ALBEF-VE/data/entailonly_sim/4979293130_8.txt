@@ -1,0 +1,4 @@
+there is a baby ||entailment
+there is a bike ||entailment
+the baby is small ||neutral
+the baby points at the bicycle ||entailment

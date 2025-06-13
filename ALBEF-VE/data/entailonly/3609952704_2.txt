@@ -1,0 +1,4 @@
+there is a boy ||entailment
+there is a basketball ||entailment
+the boy is young ||entailment
+the boy is holding onto basketball ||contradiction

@@ -1,0 +1,3 @@
+there are men ||entailment
+the men are young ||entailment
+the men are outdoors ||entailment

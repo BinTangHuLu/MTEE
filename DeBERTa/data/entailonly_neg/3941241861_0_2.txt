@@ -1,0 +1,3 @@
+There are not friends. ||contradiction
+The friends are not sitting. ||contradiction
+The friends are not sitting in a group. ||contradiction

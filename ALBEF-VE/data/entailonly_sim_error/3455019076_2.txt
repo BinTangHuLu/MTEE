@@ -1,0 +1,3 @@
+A,long
+E1RE2,lady,is standing over,object
+E1R,lady,with

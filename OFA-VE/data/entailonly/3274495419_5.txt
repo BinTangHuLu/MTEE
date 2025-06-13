@@ -1,0 +1,3 @@
+There are People. ||Entailment
+There are machines. ||Entailment
+People work with machines. ||Entailment

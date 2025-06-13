@@ -1,0 +1,5 @@
+There is a body. ||entailment
+The body is holding. ||entailment
+The body is two. ||neutral
+There are equipment. ||entailment
+The body is holding objects. ||entailment

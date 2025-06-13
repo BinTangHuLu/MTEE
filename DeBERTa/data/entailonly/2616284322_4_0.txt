@@ -1,0 +1,4 @@
+There are dogs. ||entailment
+There is a group. ||entailment
+There is a track. ||entailment
+The dogs are racing on track. ||entailment

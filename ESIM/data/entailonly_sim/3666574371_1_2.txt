@@ -1,0 +1,6 @@
+There is a dude. ||entailment
+There is some barley. ||neutral
+The dude is lying. ||entailment
+The dude is holding on to. ||entailment
+The dude is lying in grass. ||entailment
+The dude is holding on to the ball. ||entailment

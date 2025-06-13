@@ -1,0 +1,5 @@
+There is not a Bird. ||contradiction
+The Bird is not flying. ||contradiction
+The Bird is not outside. ||contradiction
+The Bird is not against the sky. ||contradiction
+The Bird is not flying in the sky. ||contradiction

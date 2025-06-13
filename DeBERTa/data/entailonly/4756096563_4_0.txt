@@ -1,0 +1,4 @@
+There is a group. ||entailment
+There are Asians. ||entailment
+There is a video. ||entailment
+The group records video. ||entailment

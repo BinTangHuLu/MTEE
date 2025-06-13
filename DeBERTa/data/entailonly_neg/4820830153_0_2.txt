@@ -1,0 +1,8 @@
+There is not a market. ||contradiction
+There are not soft drinks. ||contradiction
+There is not a country. ||contradiction
+The market is not selling. ||contradiction
+The soft drinks are not soft. ||contradiction
+The country is not Arabic. ||contradiction
+The market is not selling drinks. ||contradiction
+The market is not in country. ||contradiction

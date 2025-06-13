@@ -1,0 +1,3 @@
+there are not people ||contradiction
+there is not a door ||contradiction
+the people are not near the door ||contradiction

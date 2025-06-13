@@ -1,0 +1,5 @@
+there are band ||entailment
+there is a barge ||entailment
+there is drink ||entailment
+the band are in the boat ||entailment
+the barge is on water ||entailment

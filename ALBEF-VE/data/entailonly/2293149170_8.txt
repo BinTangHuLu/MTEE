@@ -1,0 +1,3 @@
+there is a child ||entailment
+there are some animals ||entailment
+the child is laying down next to animals ||entailment

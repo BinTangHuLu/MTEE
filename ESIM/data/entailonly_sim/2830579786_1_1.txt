@@ -1,0 +1,5 @@
+There is a association. ||neutral
+There are some community. ||neutral
+The association is on the bus. ||entailment
+The community are on the bus. ||neutral
+The community are sightseeing. ||neutral

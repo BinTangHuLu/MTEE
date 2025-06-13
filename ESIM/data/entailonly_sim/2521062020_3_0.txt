@@ -1,0 +1,5 @@
+There is a dude. ||entailment
+There is a child. ||entailment
+There is a cable. ||entailment
+The dude is climbing the boy. ||entailment
+The child holds the rope. ||contradiction

@@ -1,0 +1,3 @@
+there are not folks ||contradiction
+there is not a game ||contradiction
+folks are not riding the game ||entailment

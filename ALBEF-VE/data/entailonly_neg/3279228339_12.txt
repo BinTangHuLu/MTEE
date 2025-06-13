@@ -1,0 +1,2 @@
+there are not men ||contradiction
+the men are not sitting by selves ||entailment

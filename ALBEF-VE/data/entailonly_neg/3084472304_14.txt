@@ -1,0 +1,3 @@
+there are not workers ||contradiction
+there are not vests ||contradiction
+the workers are not wearing vests ||contradiction

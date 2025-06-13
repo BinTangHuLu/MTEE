@@ -1,0 +1,4 @@
+there is hay ||entailment
+there are children ||entailment
+the children are three ||neutral
+the hay is filled with children ||entailment

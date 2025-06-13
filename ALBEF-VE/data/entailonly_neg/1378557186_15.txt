@@ -1,0 +1,4 @@
+there is not a male ||contradiction
+there is not an animal ||contradiction
+the male does not have an animal ||contradiction
+the animal is not next to the male ||entailment

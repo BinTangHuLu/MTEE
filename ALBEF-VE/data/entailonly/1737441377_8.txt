@@ -1,0 +1,6 @@
+there is a man ||entailment
+there is some produce ||entailment
+there is a boy ||entailment
+the boy is young ||entailment
+the man is picking out produce ||neutral
+the man is with the young boy ||entailment

@@ -1,0 +1,6 @@
+There is not a male. ||contradiction
+The male is not circular. ||entailment
+The sign is not horizontal. ||entailment
+The sign is not made. ||entailment
+The sign is not erected. ||entailment
+The male does not use paint. ||contradiction

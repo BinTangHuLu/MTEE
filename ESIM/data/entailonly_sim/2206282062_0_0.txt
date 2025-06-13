@@ -1,0 +1,7 @@
+There is a athlete. ||entailment
+There is a club. ||contradiction
+There is a colleague. ||neutral
+The athlete is One. ||entailment
+The club is women's beach volleyball. ||neutral
+The athlete jumps to spike the ball. ||entailment
+The athlete looks on the teammate. ||entailment

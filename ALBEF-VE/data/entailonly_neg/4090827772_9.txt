@@ -1,0 +1,4 @@
+there is not someone ||contradiction
+there are not flip flops ||entailment
+there is not a motorcycle ||contradiction
+someone is not commandeering the motorcycle ||neutral

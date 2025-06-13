@@ -1,0 +1,2 @@
+There are party-goers. ||entailment
+The party-goers are perusing buffet. ||neutral

@@ -1,0 +1,5 @@
+There is a painter. ||entailment
+There is a painting. ||entailment
+The painter is doing. ||entailment
+The painting is watercolor. ||entailment
+The painter is doing the painting. ||entailment

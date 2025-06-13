@@ -1,0 +1,2 @@
+there is a boy ||entailment
+the boy is smiling ||neutral

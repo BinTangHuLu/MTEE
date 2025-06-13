@@ -1,0 +1,5 @@
+there is a man ||entailment
+there is a child ||entailment
+there is a cane ||entailment
+the cane is plastic ||neutral
+the man looks at the child ||entailment

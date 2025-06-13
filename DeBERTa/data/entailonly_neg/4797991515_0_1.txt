@@ -1,0 +1,7 @@
+There is not a man. ||contradiction
+The man is not old. ||contradiction
+The man does not have a pink polo. ||contradiction
+The man does not look through a telescope. ||contradiction
+There is not a child. ||contradiction
+The child is not small. ||contradiction
+The man is not standing next to the child. ||contradiction

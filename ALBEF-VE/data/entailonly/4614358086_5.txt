@@ -1,0 +1,3 @@
+there is a policeman ||entailment
+the policeman is standing ||entailment
+there is a guar ||entailment

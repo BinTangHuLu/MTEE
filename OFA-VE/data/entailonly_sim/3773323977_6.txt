@@ -1,0 +1,4 @@
+There are child. ||Entailment
+There is drink. ||Contradiction
+The child are young. ||Entailment
+The child are near water. ||Entailment

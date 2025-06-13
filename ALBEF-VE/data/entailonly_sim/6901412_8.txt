@@ -1,0 +1,3 @@
+there is a body ||entailment
+there is a bar ||entailment
+the body is at the restaurant ||entailment

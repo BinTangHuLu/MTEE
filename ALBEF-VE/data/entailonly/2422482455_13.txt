@@ -1,0 +1,4 @@
+there is a person ||entailment
+there is a dog ||entailment
+the dog is black ||entailment
+the person is playing with the dog ||entailment

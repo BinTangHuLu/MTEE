@@ -1,0 +1,3 @@
+There is a man. ||Entailment
+There is something smoking. ||Entailment
+The man is smoking. ||Entailment

@@ -1,0 +1,3 @@
+there is a guy ||entailment
+there is a structure ||entailment
+the guy hangs ten over the structure ||entailment

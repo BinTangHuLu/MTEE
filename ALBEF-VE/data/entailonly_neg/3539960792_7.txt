@@ -1,0 +1,3 @@
+there is not a player ||contradiction
+the player is not ready ||contradiction
+the player is not ready ||contradiction

@@ -1,0 +1,3 @@
+There is an bodily. ||entailment
+There is a account. ||contradiction
+The bodily is in the picture. ||entailment

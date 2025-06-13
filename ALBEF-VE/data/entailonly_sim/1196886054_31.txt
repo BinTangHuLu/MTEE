@@ -1,0 +1,3 @@
+there is a bride to be ||entailment
+there is a bridegroom ||entailment
+the bride to be walks with the groom ||entailment

@@ -1,0 +1,4 @@
+There is not a game. ||Contradiction
+There is not a football. ||Contradiction
+The game is not ready. ||Contradiction
+The game is not to start football. ||Entailment

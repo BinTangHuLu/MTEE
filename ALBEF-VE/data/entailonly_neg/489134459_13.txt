@@ -1,0 +1,3 @@
+there are not children ||contradiction
+there is not a house ||contradiction
+the children are not in front of the house ||entailment

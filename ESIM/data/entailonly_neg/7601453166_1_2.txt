@@ -1,0 +1,7 @@
+There is not a guy. ||contradiction
+There is not a sign. ||contradiction
+The sign is not round. ||entailment
+The surface is not round. ||entailment
+The guy does not work on the sign. ||contradiction
+The guy is not putting letters on the surface. ||contradiction
+The sign is not on the ground. ||entailment

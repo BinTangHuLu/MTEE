@@ -1,0 +1,4 @@
+There are girls. ||Entailment
+There are youth. ||Entailment
+The girls are playing. ||Entailment
+The girls are playing basket ball. ||Entailment

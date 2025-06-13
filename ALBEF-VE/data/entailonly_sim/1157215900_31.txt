@@ -1,0 +1,3 @@
+there is a body ||entailment
+there is crop ||entailment
+the body is standing near produce ||entailment

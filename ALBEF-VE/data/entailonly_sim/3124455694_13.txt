@@ -1,0 +1,3 @@
+there is a female ||entailment
+there are some flora ||entailment
+the female is holding flowers ||entailment

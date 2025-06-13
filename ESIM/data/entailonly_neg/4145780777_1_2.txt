@@ -1,0 +1,3 @@
+There is not a guy. ||contradiction
+The guy does not have hair. ||contradiction
+The guy is not getting trimmed by hair. ||contradiction

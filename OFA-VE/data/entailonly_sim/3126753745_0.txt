@@ -1,0 +1,4 @@
+There is a dude. ||Entailment
+There is a fedora. ||Neutral
+The fedora is red. ||Neutral
+The dude is in the hat. ||Entailment

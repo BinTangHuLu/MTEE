@@ -1,0 +1,5 @@
+there is a group ||entailment
+there are some people ||entailment
+there are some bicycles ||entailment
+the bicycles are orange ||neutral
+the people are riding bicycles ||entailment

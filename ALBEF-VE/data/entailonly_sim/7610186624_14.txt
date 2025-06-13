@@ -1,0 +1,4 @@
+there is a gentlewoman ||entailment
+there is a bar ||entailment
+the gentlewoman is on the table ||entailment
+the gentlewoman is cutting the sandwich ||entailment

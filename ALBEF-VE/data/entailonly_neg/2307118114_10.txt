@@ -1,0 +1,5 @@
+there is not a man ||contradiction
+there is not a smile ||contradiction
+there is not a face ||contradiction
+the man does not have a smile ||contradiction
+the smile is not on the face ||entailment

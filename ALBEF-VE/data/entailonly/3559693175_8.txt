@@ -1,0 +1,4 @@
+there is a woman ||entailment
+there is a store ||entailment
+the woman buys something ||entailment
+something is bought at the store ||neutral

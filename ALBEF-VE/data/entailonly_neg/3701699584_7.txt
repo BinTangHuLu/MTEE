@@ -1,0 +1,6 @@
+there is not a man ||contradiction
+there is not a ball ||contradiction
+there is not a sign ||contradiction
+the sign is not green ||contradiction
+the man does not swing at the ball ||contradiction
+the ball is not with the sign ||neutral

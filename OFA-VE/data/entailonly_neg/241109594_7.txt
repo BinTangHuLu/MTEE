@@ -1,0 +1,3 @@
+There is not a dog. ||Contradiction
+The dog is not black and white. ||Entailment
+The dog is not outdoors. ||Contradiction

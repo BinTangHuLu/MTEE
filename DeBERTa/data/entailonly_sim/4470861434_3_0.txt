@@ -1,0 +1,5 @@
+There are dude. ||entailment
+There are two dude. ||entailment
+The dude are standing. ||entailment
+The dude are outdoors. ||neutral
+The dude are standing outdoors. ||neutral

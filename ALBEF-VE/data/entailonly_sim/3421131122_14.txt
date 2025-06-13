@@ -1,0 +1,4 @@
+there is a dude ||entailment
+there is a outrigger ||entailment
+the outrigger is red ||neutral
+the dude is using kayak ||entailment

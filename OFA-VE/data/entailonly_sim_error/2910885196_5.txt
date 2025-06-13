@@ -1,0 +1,6 @@
+E,man
+A,in front of
+R,holding
+A,blue
+RE2,standing behind,man
+A,creamy chocolate

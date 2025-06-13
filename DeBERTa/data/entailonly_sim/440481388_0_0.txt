@@ -1,0 +1,4 @@
+There are female. ||entailment
+There are clan. ||entailment
+There are two female. ||entailment
+There are two clan. ||entailment

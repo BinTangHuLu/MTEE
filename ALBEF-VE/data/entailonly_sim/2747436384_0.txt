@@ -1,0 +1,3 @@
+there are child ||entailment
+there is an sea ||entailment
+the child are in the ocean ||entailment

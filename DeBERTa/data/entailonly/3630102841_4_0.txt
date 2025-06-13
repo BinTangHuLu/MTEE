@@ -1,0 +1,4 @@
+There are men. ||entailment
+There are hats. ||entailment
+The men are having. ||neutral
+The hats are on their head. ||entailment

@@ -1,0 +1,13 @@
+there are women ||entailment
+there are bicycles ||entailment
+the bicycles are decorated ||entailment
+the women are with bicycles ||entailment
+there is a backpack ||entailment
+the backpack is red ||contradiction
+the women is wearing a backpack ||entailment
+there is a helmet ||entailment
+the helmet is black ||contradiction
+the women has a helmet ||entailment
+there is a sweatshirt ||entailment
+the sweatshirt is pink ||entailment
+the women has a sweatshirt ||entailment

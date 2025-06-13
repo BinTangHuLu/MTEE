@@ -1,0 +1,3 @@
+there is accessory ||entailment
+the accessory is safety ||neutral
+the kids are wearing accessory ||entailment

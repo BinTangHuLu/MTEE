@@ -1,0 +1,3 @@
+There is a cook. ||Entailment
+There are some items. ||Entailment
+The cook prepares items. ||Entailment

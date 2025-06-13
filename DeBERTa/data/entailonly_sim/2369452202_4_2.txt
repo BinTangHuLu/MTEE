@@ -1,0 +1,2 @@
+There is a hot atmosphere balloon. ||entailment
+The hot atmosphere balloon is making landing. ||entailment

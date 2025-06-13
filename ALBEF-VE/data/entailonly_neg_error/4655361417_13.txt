@@ -1,0 +1,2 @@
+E,hair
+RE2,has,hair

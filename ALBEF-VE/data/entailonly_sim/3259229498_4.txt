@@ -1,0 +1,3 @@
+there are community ||entailment
+the community are seated ||entailment
+the community are outdoors ||entailment

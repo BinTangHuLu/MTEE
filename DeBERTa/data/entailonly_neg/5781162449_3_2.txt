@@ -1,0 +1,4 @@
+There are not girls. ||contradiction
+The girls are not young. ||contradiction
+The girls are not showing drawing. ||contradiction
+The drawing is not animal. ||contradiction

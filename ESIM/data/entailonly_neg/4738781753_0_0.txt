@@ -1,0 +1,6 @@
+There is not a group. ||entailment
+There are not some people. ||entailment
+There is not a stadium. ||entailment
+The group is not of. ||entailment
+The people cares about stadium. ||neutral
+The people are not sitting in stadium. ||entailment

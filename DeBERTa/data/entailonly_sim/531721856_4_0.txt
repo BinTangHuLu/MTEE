@@ -1,0 +1,4 @@
+There are female. ||entailment
+There are two female. ||entailment
+The female are wearing tank tops. ||entailment
+The female are drinking. ||entailment

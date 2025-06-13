@@ -1,0 +1,3 @@
+there is a body ||entailment
+there is a baby ||entailment
+the body is holding the child ||entailment

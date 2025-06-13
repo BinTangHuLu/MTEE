@@ -1,0 +1,2 @@
+There is a car. ||Entailment
+He is in front of the car. ||Entailment

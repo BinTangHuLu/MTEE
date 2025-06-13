@@ -1,0 +1,4 @@
+There is a dam. ||Neutral
+There are community. ||Entailment
+The community are many. ||Neutral
+The dam has people. ||Neutral

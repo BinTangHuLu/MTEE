@@ -1,0 +1,5 @@
+there is a baby ||entailment
+there is a basement ||neutral
+there is a doll ||entailment
+the baby plays on the floor ||entailment
+the baby plays with the toy ||entailment

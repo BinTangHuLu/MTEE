@@ -1,0 +1,5 @@
+there is not a girl ||contradiction
+there is not a swimsuit ||contradiction
+there is not a bottle ||contradiction
+the swimsuit is not in ||neutral
+the girl is not drinking out of bottle ||contradiction

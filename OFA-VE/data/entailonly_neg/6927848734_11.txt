@@ -1,0 +1,4 @@
+There is not a man. ||Contradiction
+There is not a destination. ||Contradiction
+The man is not attempting. ||Contradiction
+The man is not attempting to arrive at destination. ||Entailment

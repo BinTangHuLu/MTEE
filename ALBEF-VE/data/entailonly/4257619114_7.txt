@@ -1,0 +1,4 @@
+there is a woman ||entailment
+there is an animal ||entailment
+the woman is dressed like ||entailment
+the woman is dressed like an animal ||entailment

@@ -1,0 +1,4 @@
+There is a child. ||entailment
+There is a farmland. ||neutral
+The child is young. ||entailment
+The child is playing in the field. ||entailment

@@ -1,0 +1,4 @@
+There is not a child. ||contradiction
+There is not some sand. ||contradiction
+The child is him not or her. ||entailment
+The child does not have sand. ||contradiction

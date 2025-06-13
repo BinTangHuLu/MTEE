@@ -1,0 +1,5 @@
+there is a dude ||entailment
+there is a pedal ||entailment
+the pedal is red ||neutral
+the dude is doing a wheelie ||neutral
+the dude is doing a wheelie on a bike ||entailment

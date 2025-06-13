@@ -1,0 +1,5 @@
+there is a man ||entailment
+there is a cow ||entailment
+there is a beach ||entailment
+the man and cow are together ||entailment
+the cow is on the beach ||entailment

@@ -1,0 +1,3 @@
+there are ladies ||entailment
+there is a conversation ||entailment
+the ladies have a conversation ||entailment

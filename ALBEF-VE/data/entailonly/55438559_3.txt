@@ -1,0 +1,3 @@
+there are friends ||entailment
+there is a race ||entailment
+friends are running in a race ||entailment

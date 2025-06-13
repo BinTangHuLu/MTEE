@@ -1,0 +1,3 @@
+there is a man ||entailment
+there is a phone ||entailment
+the man is on the phone ||entailment

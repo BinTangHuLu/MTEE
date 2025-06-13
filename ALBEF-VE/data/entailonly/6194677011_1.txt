@@ -1,0 +1,3 @@
+there is a person ||entailment
+there is a microscope ||entailment
+the person operates microscope ||entailment

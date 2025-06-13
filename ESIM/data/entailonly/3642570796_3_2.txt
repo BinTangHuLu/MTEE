@@ -1,0 +1,7 @@
+There is a woman. ||entailment
+There is a phone. ||entailment
+There is a sidewalk. ||entailment
+The woman is talking. ||entailment
+The woman is walking. ||entailment
+The woman is talking on the phone. ||entailment
+The woman is walking down the sidewalk. ||entailment

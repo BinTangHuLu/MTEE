@@ -1,0 +1,4 @@
+There is a bronze. ||Entailment
+There are some staircase. ||Entailment
+The bronze is located. ||Entailment
+The bronze is located above steps. ||Neutral

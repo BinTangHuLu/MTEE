@@ -1,0 +1,5 @@
+There is a line. ||entailment
+There is a threesome. ||contradiction
+There are artist. ||entailment
+The line consists of trio. ||entailment
+The threesome consists of musicians. ||contradiction

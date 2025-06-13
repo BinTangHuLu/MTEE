@@ -1,0 +1,5 @@
+There is a runner. ||entailment
+There is a convoy. ||entailment
+There are some motorcycles. ||entailment
+The runner is with convoy. ||entailment
+The convoy is of motorcycles. ||entailment

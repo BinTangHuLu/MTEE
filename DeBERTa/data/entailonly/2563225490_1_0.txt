@@ -1,0 +1,4 @@
+There is a man. ||entailment
+There are some teammates. ||entailment
+The man is posed. ||entailment
+The man is with teammates. ||entailment

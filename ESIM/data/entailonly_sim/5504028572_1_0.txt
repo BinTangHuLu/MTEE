@@ -1,0 +1,3 @@
+There is a baby. ||entailment
+The baby is outside. ||entailment
+The baby is looking into water. ||contradiction

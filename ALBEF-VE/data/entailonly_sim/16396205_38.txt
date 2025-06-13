@@ -1,0 +1,3 @@
+there are community ||entailment
+there is some bread ||entailment
+the community are preparing some food ||entailment

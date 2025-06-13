@@ -1,0 +1,4 @@
+there is not a dog ||contradiction
+there is not water ||contradiction
+the dog is not jumping ||contradiction
+the dog is not jumping into water ||contradiction

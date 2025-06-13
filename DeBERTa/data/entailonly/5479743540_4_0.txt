@@ -1,0 +1,4 @@
+There is a person. ||entailment
+There is a skateboard. ||entailment
+The person is young. ||entailment
+The person is on the skateboard. ||entailment

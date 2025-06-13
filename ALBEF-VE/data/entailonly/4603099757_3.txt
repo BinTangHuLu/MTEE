@@ -1,0 +1,3 @@
+there is a person ||entailment
+there is a face ||entailment
+the person is making face ||entailment

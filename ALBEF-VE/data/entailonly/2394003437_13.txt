@@ -1,0 +1,3 @@
+there is a kid ||entailment
+there are some hands ||entailment
+the kid has hands ||entailment

@@ -1,0 +1,2 @@
+There is not a photographer. ||contradiction
+The photographer is not working. ||contradiction

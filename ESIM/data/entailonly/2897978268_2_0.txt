@@ -1,0 +1,5 @@
+There is a man. ||entailment
+There is a patient. ||entailment
+There is a room. ||entailment
+The man is in hospital room. ||entailment
+The patient is in hospital room. ||entailment

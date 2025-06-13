@@ -1,0 +1,4 @@
+There is a biker. ||Entailment
+There is a trick. ||Entailment
+The biker is doing a trick. ||Entailment
+The biker is doing trick. ||Entailment

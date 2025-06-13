@@ -1,0 +1,4 @@
+There is a female. ||entailment
+There is a apparel. ||entailment
+The apparel is red. ||entailment
+The female is outdoors. ||entailment

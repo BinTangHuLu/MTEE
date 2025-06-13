@@ -1,0 +1,3 @@
+There are People. ||Entailment
+There is indoors. ||Entailment
+People are indoors. ||Entailment

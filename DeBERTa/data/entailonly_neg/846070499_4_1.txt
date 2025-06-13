@@ -1,0 +1,8 @@
+There is not a gal. ||contradiction
+There are not some pants. ||contradiction
+There is not a guy. ||contradiction
+There is not a road. ||contradiction
+The gal is not young. ||contradiction
+The pants are not snug. ||contradiction
+The gal does not chat with the guy. ||contradiction
+The guy is not in the road. ||contradiction

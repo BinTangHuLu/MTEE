@@ -1,0 +1,2 @@
+there is not a soccer player ||contradiction
+the soccer player is not running ||contradiction

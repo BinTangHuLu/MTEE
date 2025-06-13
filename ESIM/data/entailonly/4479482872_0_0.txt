@@ -1,0 +1,5 @@
+There is a boy. ||entailment
+There is a seagull. ||entailment
+There is some sand. ||entailment
+The boy swims. ||entailment
+The seagull shits on sand. ||entailment

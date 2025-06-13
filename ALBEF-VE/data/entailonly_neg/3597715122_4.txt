@@ -1,0 +1,4 @@
+there are not people ||contradiction
+there is not a store ||contradiction
+there is not ice cream ||contradiction
+the people are not outside the store ||contradiction

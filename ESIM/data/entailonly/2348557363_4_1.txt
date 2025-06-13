@@ -1,0 +1,3 @@
+There is a child. ||entailment
+There are some steps. ||entailment
+The child is on steps. ||entailment

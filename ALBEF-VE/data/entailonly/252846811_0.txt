@@ -1,0 +1,4 @@
+there are dogs ||entailment
+some dogs ||entailment
+the dogs are playing ||entailment
+the dogs are playing outside ||entailment

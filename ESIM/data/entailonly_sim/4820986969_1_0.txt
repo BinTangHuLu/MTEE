@@ -1,0 +1,8 @@
+There is a dude. ||entailment
+There is a blouse. ||entailment
+There is a booth. ||neutral
+The dude is sport. ||entailment
+The blouse is his. ||neutral
+The booth is his. ||neutral
+The dude is wearing jersey. ||entailment
+The dude is in cubicle. ||entailment

@@ -1,0 +1,3 @@
+there is a coca soda sign ||entailment
+there is a architecture ||entailment
+the coca cola clue is on the building ||entailment

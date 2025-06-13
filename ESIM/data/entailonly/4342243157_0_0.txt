@@ -1,0 +1,13 @@
+There is a man. ||entailment
+There is a beer. ||entailment
+There is a glass. ||entailment
+There are pieces. ||neutral
+There is a beard. ||entailment
+The man is holding. ||entailment
+The glass has beer. ||entailment
+The pieces are green. ||entailment
+The man manages to pull pieces. ||entailment
+The man is holding beer. ||entailment
+The man is holding glass. ||entailment
+The man is holding pieces. ||contradiction
+The man is holding a beard. ||entailment

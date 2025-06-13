@@ -1,0 +1,5 @@
+There are not Runners. ||contradiction
+There is not a person. ||contradiction
+There is not a dragon. ||contradiction
+The person is not costumed. ||contradiction
+The Runners do not see the person. ||contradiction

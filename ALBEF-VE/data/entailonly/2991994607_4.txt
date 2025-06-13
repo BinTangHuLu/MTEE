@@ -1,0 +1,7 @@
+there is someone ||entailment
+there is a police costume ||neutral
+there is a man ||entailment
+there is a zombie costume ||entailment
+someone is in a police costume ||neutral
+someone is next to a man ||entailment
+the man is in a zombie costume ||entailment

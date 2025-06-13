@@ -1,0 +1,5 @@
+there are people ||entailment
+there is a man ||contradiction
+the man is speaking ||entailment
+the people have gathered outdoors ||entailment
+the man speaks to people ||entailment

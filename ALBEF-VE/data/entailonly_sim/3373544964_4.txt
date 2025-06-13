@@ -1,0 +1,5 @@
+there is a pup ||entailment
+there is a child ||entailment
+the pup is muscular ||neutral
+the child is young ||neutral
+the pup is looking at the boy ||entailment

@@ -1,0 +1,5 @@
+There is a man. ||entailment
+There is a card. ||entailment
+The man is playing. ||entailment
+The card is in his hand. ||entailment
+The man has card. ||entailment

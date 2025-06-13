@@ -1,0 +1,5 @@
+there is not a guy ||contradiction
+there are not some things ||entailment
+there is not a street ||contradiction
+the guy does not sell things ||contradiction
+the guy is not in the street ||contradiction

@@ -1,0 +1,3 @@
+there is a clown ||entailment
+there is a tent ||entailment
+the clown sits by the tent ||contradiction

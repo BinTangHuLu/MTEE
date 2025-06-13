@@ -1,0 +1,5 @@
+there is a canvas ||entailment
+there is a dude ||entailment
+there is a female ||entailment
+the canvas is being set up by the man ||entailment
+the female is there with the man ||entailment

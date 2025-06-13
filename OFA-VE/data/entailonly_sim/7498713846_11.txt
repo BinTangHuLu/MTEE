@@ -1,0 +1,5 @@
+There is a dude. ||Entailment
+There is a appendage. ||Entailment
+There is a rear. ||Entailment
+The dude has a hand. ||Entailment
+The dude is on the back. ||Entailment

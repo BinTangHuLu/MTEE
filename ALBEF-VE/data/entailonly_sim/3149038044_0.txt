@@ -1,0 +1,3 @@
+there are clan ||entailment
+there is a soccer ||entailment
+the clan are playing with football ||contradiction

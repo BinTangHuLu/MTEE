@@ -1,0 +1,2 @@
+E1R,Someone,is carrying
+E1RE2,Someone,on,walk

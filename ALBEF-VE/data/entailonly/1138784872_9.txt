@@ -1,0 +1,2 @@
+there is a kid ||entailment
+the kid is wearing green ||entailment

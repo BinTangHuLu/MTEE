@@ -1,0 +1,5 @@
+there is an animal ||entailment
+there is some dust ||entailment
+the dust is kicking up ||entailment
+the animal is playing ||entailment
+the animal is kicking up dust ||entailment

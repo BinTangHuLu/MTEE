@@ -1,0 +1,6 @@
+There is not a man. ||contradiction
+There is not an infant. ||contradiction
+The man is not older. ||contradiction
+The man does not have clothing accessories. ||contradiction
+The infant is not wrapped in a towel. ||contradiction
+The man is not cradling the infant. ||contradiction

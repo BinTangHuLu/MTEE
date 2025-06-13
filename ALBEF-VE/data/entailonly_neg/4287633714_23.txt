@@ -1,0 +1,3 @@
+there are not jackets ||contradiction
+the jackets are not fairly similar ||entailment
+the folks do not have on jackets ||contradiction

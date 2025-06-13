@@ -1,0 +1,4 @@
+There are not players. ||Contradiction
+There is not a baseball. ||Contradiction
+There is not a ball. ||Contradiction
+The players are not trying to get the ball. ||Neutral

@@ -1,0 +1,5 @@
+there is a child ||entailment
+there is a choker ||entailment
+the child is little ||entailment
+the choker is wooden and glass beads ||neutral
+the child holds up necklace ||entailment

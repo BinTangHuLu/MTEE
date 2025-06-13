@@ -1,0 +1,3 @@
+there are community ||neutral
+there are two community ||entailment
+the community are performing ||neutral

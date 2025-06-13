@@ -1,0 +1,2 @@
+There is snow. ||entailment
+The snow is outside. ||entailment

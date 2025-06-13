@@ -1,0 +1,3 @@
+there is not a man ||contradiction
+there are not some clothes ||contradiction
+the clothes are not similarly colored ||entailment

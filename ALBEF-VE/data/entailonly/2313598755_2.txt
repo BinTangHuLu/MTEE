@@ -1,0 +1,4 @@
+there is a father ||entailment
+there is a child ||entailment
+the father takes a nap ||entailment
+the child takes a nap ||entailment

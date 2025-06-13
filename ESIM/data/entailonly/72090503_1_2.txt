@@ -1,0 +1,7 @@
+There is a man. ||entailment
+There is a child. ||entailment
+There are steps. ||entailment
+There is a bystander. ||entailment
+The man is sitting on steps. ||entailment
+The child is sitting on steps. ||entailment
+The man saw bystander. ||neutral

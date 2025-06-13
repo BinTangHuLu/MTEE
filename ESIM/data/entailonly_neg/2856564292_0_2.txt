@@ -1,0 +1,4 @@
+There is not a man. ||contradiction
+There is not another. ||entailment
+The man does not argue with another. ||contradiction
+Another is not raising his fist. ||contradiction

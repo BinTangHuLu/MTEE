@@ -1,0 +1,3 @@
+There is a photo. ||Entailment
+There is a fowl-eye. ||Contradiction
+The photo is of the skier. ||Entailment

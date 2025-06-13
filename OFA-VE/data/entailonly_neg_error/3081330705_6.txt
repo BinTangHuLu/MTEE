@@ -1,0 +1,2 @@
+EA,ground,flat
+RE2,is on,ground

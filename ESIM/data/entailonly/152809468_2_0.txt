@@ -1,0 +1,3 @@
+There is a bird. ||entailment
+There is a tree. ||entailment
+The bird is perching on the tree. ||entailment

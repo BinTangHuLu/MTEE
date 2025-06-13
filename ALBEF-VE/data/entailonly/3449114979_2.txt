@@ -1,0 +1,3 @@
+there is a children ||entailment
+the children are three ||neutral
+the children are seated ||entailment

@@ -1,0 +1,4 @@
+There is a woman. ||entailment
+There is a ground. ||entailment
+The woman is on the ground. ||contradiction
+The ground is outside. ||entailment

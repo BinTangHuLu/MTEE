@@ -1,0 +1,5 @@
+there is a man ||entailment
+there is an instrument ||entailment
+there are glasses ||entailment
+the glasses were wore ||entailment
+the man is playing instrument ||entailment

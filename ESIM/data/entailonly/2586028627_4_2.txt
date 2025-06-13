@@ -1,0 +1,5 @@
+There is a kid. ||entailment
+There is a bike. ||entailment
+The kid is his. ||neutral
+The kid is riding the bike. ||entailment
+The bike is down the street. ||entailment

@@ -1,0 +1,4 @@
+There is not a woman. ||contradiction
+There is not some food. ||contradiction
+There is not a child. ||contradiction
+The woman is not preparing for the child. ||contradiction

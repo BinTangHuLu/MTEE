@@ -1,0 +1,7 @@
+there is a dude ||entailment
+there is some lumber ||entailment
+there is a disk ||entailment
+there is a apparatus ||entailment
+the dude is working with wood ||entailment
+the dude is working with the wheel ||entailment
+the dude is working with the tool ||entailment

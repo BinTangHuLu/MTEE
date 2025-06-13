@@ -1,0 +1,3 @@
+there is a fedora ||neutral
+the fedora is red ||neutral
+the drummer is wearing the fedora ||contradiction

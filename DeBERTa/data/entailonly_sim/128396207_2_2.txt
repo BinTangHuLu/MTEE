@@ -1,0 +1,3 @@
+There is a avenue. ||entailment
+The avenue is public. ||entailment
+The cyclist rides on avenue. ||contradiction

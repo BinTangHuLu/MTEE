@@ -1,0 +1,3 @@
+there are girls ||entailment
+there is outdoors ||entailment
+the girls are outdoors ||entailment

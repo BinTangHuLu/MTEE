@@ -1,0 +1,3 @@
+there are products ||entailment
+there is furniture ||entailment
+the products are on furniture ||contradiction

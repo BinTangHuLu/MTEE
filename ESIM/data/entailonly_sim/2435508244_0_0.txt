@@ -1,0 +1,5 @@
+There is a dude. ||entailment
+There is a bar. ||neutral
+The dude sits. ||entailment
+The dude is near the table. ||entailment
+The dude has his drinks. ||entailment

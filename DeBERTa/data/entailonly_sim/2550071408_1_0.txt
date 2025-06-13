@@ -1,0 +1,6 @@
+There is a female. ||entailment
+There is a chair. ||entailment
+There is a estate. ||entailment
+The female is blonde. ||entailment
+The female sits on the bench. ||entailment
+The female is outside in the park. ||entailment

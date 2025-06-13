@@ -1,0 +1,5 @@
+There are Women. ||entailment
+There are computers. ||entailment
+There is a store. ||entailment
+The Women are shopping for computers. ||entailment
+The Women are shopping at the store. ||entailment

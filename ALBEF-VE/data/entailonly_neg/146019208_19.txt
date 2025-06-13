@@ -1,0 +1,7 @@
+there are not men ||contradiction
+there is not a meal ||contradiction
+there are not others ||contradiction
+the men are not two ||entailment
+the men do not cook the meal ||entailment
+the meal is not for others ||neutral
+the meal is not outside in winter ||contradiction

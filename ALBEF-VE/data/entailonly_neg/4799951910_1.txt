@@ -1,0 +1,10 @@
+there is not a man ||contradiction
+there is not a shirt ||contradiction
+there is not a hat ||contradiction
+there is not a concrete rise ||entailment
+the shirt is not bright yellow ||entailment
+the hat is not brimmed ||neutral
+the man is not in the shirt ||entailment
+the man is not in the hat ||neutral
+the man does not sit with another man ||contradiction
+the man is not on the concrete rise ||entailment

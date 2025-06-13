@@ -1,0 +1,11 @@
+There is a child. ||entailment
+There is an outfit. ||entailment
+There is a piece. ||entailment
+There is an equipment. ||entailment
+There is an orb. ||contradiction
+There is a surface. ||entailment
+The child is colorful. ||entailment
+The child holds a piece. ||entailment
+The child uses equipment. ||entailment
+The equipment propels the orb. ||contradiction
+The orb is against the surface. ||entailment

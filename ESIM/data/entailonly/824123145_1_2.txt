@@ -1,0 +1,4 @@
+There are walkers. ||entailment
+There is a sky. ||entailment
+The sky is blue. ||entailment
+The walkers are under the sky. ||entailment

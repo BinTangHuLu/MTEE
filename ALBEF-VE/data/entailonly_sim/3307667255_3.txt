@@ -1,0 +1,4 @@
+there is a forum ||entailment
+there are community ||entailment
+the forum is full ||neutral
+the forum is full of people ||entailment

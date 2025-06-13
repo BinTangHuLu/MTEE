@@ -1,0 +1,3 @@
+There is not a costume. ||contradiction
+There is not a performer. ||contradiction
+The costume is not being worn by the performer. ||contradiction

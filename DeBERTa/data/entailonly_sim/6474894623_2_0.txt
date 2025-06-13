@@ -1,0 +1,4 @@
+There are dude. ||entailment
+There is a ball. ||entailment
+The dude have no audience. ||entailment
+The dude are playing basketball. ||entailment

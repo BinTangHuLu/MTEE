@@ -1,0 +1,2 @@
+There is a pitcher. ||entailment
+The pitcher is playing baseball. ||entailment

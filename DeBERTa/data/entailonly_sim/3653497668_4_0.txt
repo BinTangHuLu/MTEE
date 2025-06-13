@@ -1,0 +1,4 @@
+There are clan. ||entailment
+The clan are enjoying. ||entailment
+The clan are enjoying party. ||entailment
+The celebration is birthday. ||entailment

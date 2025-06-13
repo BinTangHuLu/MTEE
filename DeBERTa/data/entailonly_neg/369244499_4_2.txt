@@ -1,0 +1,6 @@
+There is not a man. ||contradiction
+There are not hands. ||contradiction
+There are not keys. ||contradiction
+There is not a piano. ||contradiction
+The man's hands are not on keys. ||contradiction
+The keys are not of piano. ||contradiction

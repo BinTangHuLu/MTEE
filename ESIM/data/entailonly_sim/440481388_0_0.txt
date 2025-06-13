@@ -1,0 +1,4 @@
+There are female. ||entailment
+There are clan. ||contradiction
+There are two female. ||entailment
+There are two clan. ||neutral

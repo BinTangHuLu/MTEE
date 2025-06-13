@@ -1,0 +1,3 @@
+There are not kids. ||contradiction
+There is not a cage. ||contradiction
+The kids are not in the cage. ||contradiction

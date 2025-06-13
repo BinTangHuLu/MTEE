@@ -1,0 +1,4 @@
+there is a dude ||entailment
+there is a saying ||entailment
+the dude is using saw ||entailment
+the saying is at fair ||entailment

@@ -1,0 +1,3 @@
+There is a fowl. ||Entailment
+There are some sand. ||Entailment
+The fowl is on rocks. ||Neutral

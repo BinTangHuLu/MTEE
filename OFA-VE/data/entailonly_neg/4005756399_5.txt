@@ -1,0 +1,7 @@
+There is not a man. ||Contradiction
+There are not some items. ||Contradiction
+There are not kids. ||Contradiction
+There is not a cart. ||Contradiction
+The items are not for kids. ||Contradiction
+The man is not selling items. ||Contradiction
+The man does not pull the cart. ||Contradiction

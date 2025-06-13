@@ -1,0 +1,7 @@
+there is a female ||entailment
+there are some attire ||entailment
+there is a strum ||entailment
+the attire are colorful ||entailment
+the female is playing ||entailment
+the female is in clothes ||entailment
+the female is playing a drum ||neutral

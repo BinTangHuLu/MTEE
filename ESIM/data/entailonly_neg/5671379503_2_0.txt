@@ -1,0 +1,11 @@
+There is not a scene. ||contradiction
+There are not workers. ||contradiction
+There is not gear. ||contradiction
+There is not scaffolding. ||contradiction
+The scene is not outdoor. ||contradiction
+The scene is not daytime. ||contradiction
+The workers are not two. ||contradiction
+The workers are not safety. ||contradiction
+The gear is not safety. ||contradiction
+The scene is not with workers. ||contradiction
+The workers are not working on scaffolding. ||contradiction

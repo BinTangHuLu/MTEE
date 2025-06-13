@@ -1,0 +1,4 @@
+there is a boy ||entailment
+there are women ||entailment
+there is a street ||entailment
+the women are on the street ||entailment

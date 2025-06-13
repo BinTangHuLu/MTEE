@@ -1,0 +1,9 @@
+There is not a man. ||contradiction
+There is not a bear. ||contradiction
+There is not a backpack. ||contradiction
+There is not a tripod. ||contradiction
+There is not a creek. ||contradiction
+The man did not hold the tripod. ||contradiction
+The man is not with the bear. ||contradiction
+The man is not with the backpack. ||contradiction
+The tripod is not by the creek. ||contradiction

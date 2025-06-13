@@ -1,0 +1,5 @@
+there is a dude ||entailment
+there is a blouse ||entailment
+the blouse is blue ||contradiction
+the dude is wearing the shirt ||entailment
+the dude is sitting near the street ||entailment

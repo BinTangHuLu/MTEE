@@ -1,0 +1,3 @@
+There is not a boy. ||contradiction
+There is not a toy. ||contradiction
+The boy is not with toy. ||contradiction

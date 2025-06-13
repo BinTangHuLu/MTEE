@@ -1,0 +1,2 @@
+EA,degrees,70
+E1R,degrees,on

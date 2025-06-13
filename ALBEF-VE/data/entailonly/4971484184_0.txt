@@ -1,0 +1,3 @@
+there is a mannequin ||entailment
+there is a car ||entailment
+the mannequin is behind the car ||entailment

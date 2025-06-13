@@ -1,0 +1,8 @@
+There is a man. ||entailment
+There is a jacket. ||entailment
+The jacket is red. ||entailment
+There is a door. ||entailment
+The man is opening the door. ||entailment
+There are keys. ||entailment
+The keys are car. ||entailment
+The man is holding keys. ||entailment

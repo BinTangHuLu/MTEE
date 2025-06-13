@@ -1,0 +1,5 @@
+there is a girl ||entailment
+there is water ||entailment
+there is a jacket ||entailment
+the girl floats in water ||entailment
+the girl is with a jacket ||entailment

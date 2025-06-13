@@ -1,0 +1,7 @@
+there is a girl ||entailment
+there is a dress ||entailment
+there is a hat ||entailment
+there are packages ||entailment
+the girl is little ||entailment
+there are two packages ||entailment
+the girl is holding packages ||entailment

@@ -1,0 +1,4 @@
+there is a body ||entailment
+there is a conspiracy ||neutral
+the conspiracy is part of ||neutral
+the body is missing part of racket ||contradiction

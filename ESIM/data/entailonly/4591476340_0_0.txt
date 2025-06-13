@@ -1,0 +1,5 @@
+There are Runners. ||entailment
+There is a person. ||entailment
+There is a dragon. ||entailment
+The person is costumed. ||entailment
+The Runners see the person. ||entailment

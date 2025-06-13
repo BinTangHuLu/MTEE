@@ -1,0 +1,5 @@
+there is a woman ||entailment
+there is a dress ||entailment
+there is a child ||entailment
+the child is small ||neutral
+the woman is carrying the child ||contradiction

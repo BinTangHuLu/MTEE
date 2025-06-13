@@ -1,0 +1,5 @@
+there are people ||entailment
+there is music ||entailment
+there is an audience ||entailment
+people are playing music ||entailment
+the music is in front of the audience ||neutral

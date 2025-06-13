@@ -1,0 +1,3 @@
+there is a player ||entailment
+there is a basket ||entailment
+the player is looking at the basket ||entailment

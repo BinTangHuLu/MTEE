@@ -1,0 +1,3 @@
+There is a woman. ||entailment
+There are some dishes. ||entailment
+The woman is doing dishes. ||entailment

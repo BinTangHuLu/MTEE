@@ -1,0 +1,3 @@
+There is a mannequin. ||Entailment
+The mannequin is put. ||Entailment
+The mannequin is put on display. ||Entailment

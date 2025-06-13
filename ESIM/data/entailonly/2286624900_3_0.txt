@@ -1,0 +1,3 @@
+There are People. ||entailment
+There is a couch. ||entailment
+People are on the couch. ||entailment

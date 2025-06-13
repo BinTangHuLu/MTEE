@@ -1,0 +1,2 @@
+There is a pup. ||entailment
+The pup is looking up. ||entailment

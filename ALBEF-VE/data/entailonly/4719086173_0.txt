@@ -1,0 +1,3 @@
+there is a fireman ||entailment
+there is a location ||entailment
+the fireman walked to location ||entailment

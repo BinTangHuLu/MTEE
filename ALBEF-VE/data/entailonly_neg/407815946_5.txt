@@ -1,0 +1,4 @@
+there is not a man ||contradiction
+there are not some objects ||entailment
+the man does not carry objects ||contradiction
+the objects are not in arms ||contradiction

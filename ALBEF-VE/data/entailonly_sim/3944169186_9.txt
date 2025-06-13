@@ -1,0 +1,7 @@
+there is a athlete ||entailment
+there is an adversary ||entailment
+there is a attempt ||entailment
+there is a bench ||neutral
+the athlete is female ||entailment
+the athlete blocks the shot ||entailment
+the attempt is on the court ||entailment

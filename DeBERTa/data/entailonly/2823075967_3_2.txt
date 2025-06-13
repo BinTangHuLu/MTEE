@@ -1,0 +1,2 @@
+There are dogs. ||entailment
+There are at least two dogs. ||entailment

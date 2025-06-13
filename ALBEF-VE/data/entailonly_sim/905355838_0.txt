@@ -1,0 +1,3 @@
+there is a athlete ||entailment
+there is a circle ||entailment
+the athlete faces crowd ||entailment

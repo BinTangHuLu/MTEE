@@ -1,0 +1,8 @@
+There is not a player. ||contradiction
+There is not a ball. ||contradiction
+There is not a team. ||contradiction
+There is not an opponent. ||contradiction
+The player does not have an orange uniform. ||contradiction
+The player does not have a basketball. ||contradiction
+The player is not with the ball. ||contradiction
+The player is not guarded by opponent team player. ||contradiction

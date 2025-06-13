@@ -1,0 +1,4 @@
+There is a lady. ||Entailment
+There is an attire. ||Entailment
+The attire is oriental. ||Entailment
+The lady wears attire. ||Entailment

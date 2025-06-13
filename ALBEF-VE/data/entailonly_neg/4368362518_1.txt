@@ -1,0 +1,4 @@
+there is not a man ||contradiction
+the man is not older ||entailment
+there is not music ||contradiction
+the man does not play music ||contradiction

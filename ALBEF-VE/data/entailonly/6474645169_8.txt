@@ -1,0 +1,4 @@
+there is lafayette ||contradiction
+there is a player ||entailment
+there is a ball ||entailment
+the player has the ball ||entailment

@@ -1,0 +1,5 @@
+There is a pup. ||Entailment
+The pup is little. ||Entailment
+The pup is chewing. ||Entailment
+There are claw. ||Entailment
+The pup is chewing fingers. ||Neutral

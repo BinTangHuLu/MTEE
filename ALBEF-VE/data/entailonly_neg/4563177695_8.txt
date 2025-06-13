@@ -1,0 +1,5 @@
+there are not people ||contradiction
+there are not clothes ||contradiction
+the clothes are not matching ||entailment
+the people are not in clothes ||contradiction
+the people do not sit together ||entailment

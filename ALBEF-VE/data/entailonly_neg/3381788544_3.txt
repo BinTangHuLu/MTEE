@@ -1,0 +1,4 @@
+there are not teens ||contradiction
+there are not uniforms ||contradiction
+the uniforms are not dark ||entailment
+the teens are not with uniforms ||contradiction

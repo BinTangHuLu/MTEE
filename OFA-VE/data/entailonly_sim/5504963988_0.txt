@@ -1,0 +1,3 @@
+There are community. ||Entailment
+There is a breakfast. ||Neutral
+The community are preparing the meal. ||Entailment

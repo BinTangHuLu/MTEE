@@ -1,0 +1,5 @@
+there is not she ||contradiction
+there are not shoes ||contradiction
+there is not a pool ||contradiction
+she is not wearing shoes ||neutral
+she is not dancing in the pool ||entailment

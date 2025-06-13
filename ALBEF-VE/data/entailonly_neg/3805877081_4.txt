@@ -1,0 +1,4 @@
+there is not something ||entailment
+there is not a structure ||contradiction
+something does not stand in front of the structure ||contradiction
+something is not positioned in front of something ||contradiction

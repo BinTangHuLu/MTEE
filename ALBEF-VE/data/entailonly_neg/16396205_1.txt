@@ -1,0 +1,5 @@
+there are not guys ||contradiction
+there is not grass ||contradiction
+the guys are somenot ||neutral
+the grass is somenot ||neutral
+the guys are not having a good time ||contradiction

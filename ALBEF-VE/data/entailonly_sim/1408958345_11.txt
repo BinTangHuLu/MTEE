@@ -1,0 +1,3 @@
+there is a child ||entailment
+there is a frame of water ||entailment
+the child is by the body of water ||entailment

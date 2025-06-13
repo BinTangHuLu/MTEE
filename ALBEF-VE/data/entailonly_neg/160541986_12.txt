@@ -1,0 +1,3 @@
+there is not a female ||contradiction
+there is not a photographed ||contradiction
+the female is not being photographed ||contradiction

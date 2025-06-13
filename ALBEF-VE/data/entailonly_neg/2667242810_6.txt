@@ -1,0 +1,3 @@
+there are not organizers ||contradiction
+there is not a registration ||contradiction
+the organizers were not chatting at registration ||contradiction

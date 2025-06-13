@@ -1,0 +1,6 @@
+There is a dude. ||Contradiction
+There are female. ||Entailment
+There is appliance. ||Contradiction
+The dude and women are together. ||Entailment
+The dude is sitting on furniture. ||Entailment
+The female are sitting on furniture. ||Entailment

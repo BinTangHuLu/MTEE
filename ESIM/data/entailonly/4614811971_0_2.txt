@@ -1,0 +1,6 @@
+There is a woman. ||entailment
+There are some drums. ||entailment
+The woman is playing. ||entailment
+The woman is speaking. ||entailment
+The woman is playing drums. ||entailment
+The woman is speaking at the same time. ||contradiction

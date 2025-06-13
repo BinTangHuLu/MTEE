@@ -1,0 +1,3 @@
+There is a man. ||entailment
+The man is covered in paint. ||entailment
+The man takes a photo. ||entailment

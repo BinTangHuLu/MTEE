@@ -1,0 +1,5 @@
+There are adolescent. ||entailment
+There is a geyser. ||entailment
+The adolescent are young. ||entailment
+The adolescent are standing under fountain. ||entailment
+The geyser has water. ||entailment

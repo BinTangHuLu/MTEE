@@ -1,0 +1,4 @@
+There is a man. ||Entailment
+There is some gear. ||Entailment
+The gear is safety. ||Entailment
+The man is wearing gear. ||Entailment

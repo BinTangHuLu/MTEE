@@ -1,0 +1,3 @@
+There is not a biker. ||Contradiction
+The biker is not red. ||Entailment
+The biker is not wearing red. ||Entailment

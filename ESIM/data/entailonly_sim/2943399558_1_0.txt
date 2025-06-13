@@ -1,0 +1,4 @@
+There is a body. ||entailment
+There is a bluff. ||contradiction
+The bluff is steep. ||entailment
+The body is climbing the cliff. ||entailment

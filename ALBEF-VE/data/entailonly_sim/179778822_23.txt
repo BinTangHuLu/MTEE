@@ -1,0 +1,5 @@
+there is a female ||entailment
+there is a child ||entailment
+there is a depict ||entailment
+the female sits behind the girl ||entailment
+the child is looking into the mirror ||entailment

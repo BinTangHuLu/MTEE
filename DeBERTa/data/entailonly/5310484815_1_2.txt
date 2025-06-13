@@ -1,0 +1,3 @@
+There is a floor. ||entailment
+The floor is wood. ||entailment
+The floor is made of wood. ||entailment

@@ -1,0 +1,4 @@
+there is a man ||entailment
+there is a picture ||entailment
+the picture is taken ||neutral
+the man has a picture ||entailment

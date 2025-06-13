@@ -1,0 +1,3 @@
+there is not a woman ||contradiction
+the woman is not dancing ||entailment
+the woman is not smiling ||contradiction

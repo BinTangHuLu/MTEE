@@ -1,0 +1,3 @@
+there is a kid ||entailment
+the kid is jumping ||entailment
+the kid is jumping ||entailment

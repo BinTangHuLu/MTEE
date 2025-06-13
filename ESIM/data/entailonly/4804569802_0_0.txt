@@ -1,0 +1,5 @@
+There is something. ||entailment
+There is a shot. ||entailment
+The something is shown. ||entailment
+The something is made of paper. ||entailment
+The something is shown in shot. ||entailment

@@ -1,0 +1,5 @@
+there is a person ||entailment
+there is a picture ||entailment
+the person is getting ||entailment
+the picture is taken ||entailment
+the person is taking the picture ||entailment

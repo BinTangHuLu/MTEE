@@ -1,0 +1,3 @@
+there is a person ||entailment
+there is a window ||entailment
+the person is looking out of the window ||entailment

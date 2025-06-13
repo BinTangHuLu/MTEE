@@ -1,0 +1,4 @@
+there is not a man ||contradiction
+there is not some tea ||contradiction
+the man is not drinking ||contradiction
+the man is not drinking tea ||contradiction

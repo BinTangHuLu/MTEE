@@ -1,0 +1,3 @@
+there is a man ||entailment
+there is a pool ||entailment
+the man jumped toward the pool ||entailment

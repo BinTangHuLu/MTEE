@@ -1,0 +1,4 @@
+There is not a woman. ||Contradiction
+There is not some clothing. ||Contradiction
+The clothing is not strange. ||Contradiction
+The woman is not wearing strange clothing. ||Contradiction

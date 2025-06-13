@@ -1,0 +1,3 @@
+R,is standing at
+A,talking
+R,of

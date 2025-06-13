@@ -1,0 +1,3 @@
+there is a girl ||entailment
+there is a sign ||entailment
+the girl stands next to the sign ||entailment

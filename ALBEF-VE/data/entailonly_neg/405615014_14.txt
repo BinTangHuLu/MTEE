@@ -1,0 +1,4 @@
+there is not a policeman ||contradiction
+there are not some arms ||contradiction
+the policeman is not gesturing ||contradiction
+the policeman is not gesturing with arms ||contradiction

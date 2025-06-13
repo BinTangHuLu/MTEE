@@ -1,0 +1,5 @@
+There are not Girls. ||Contradiction
+There are not sports. ||Contradiction
+There is not attire. ||Contradiction
+The attire is not basketball. ||Contradiction
+The Girls are not playing sports. ||Contradiction

@@ -1,0 +1,6 @@
+There is not a woman. ||contradiction
+There is not a store. ||contradiction
+The woman is not walking. ||contradiction
+The woman is not talking on phone. ||contradiction
+The woman does not walk through the store. ||contradiction
+The woman is not talking on the phone. ||contradiction

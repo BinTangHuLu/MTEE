@@ -1,0 +1,6 @@
+there are boys ||entailment
+there are rocks ||entailment
+there is a sea ||entailment
+the sea is open ||neutral
+the boys are throwing rocks ||entailment
+the rocks are near the sea ||neutral

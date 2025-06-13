@@ -1,0 +1,6 @@
+There is a man. ||Entailment
+There is a stall. ||Entailment
+There is a market. ||Entailment
+The man is older. ||Entailment
+The man runs the stall. ||Neutral
+The man sells items. ||Entailment

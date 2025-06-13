@@ -1,0 +1,3 @@
+there are community ||entailment
+there is a apothecary ||entailment
+the community are outside of the pharmacy ||entailment

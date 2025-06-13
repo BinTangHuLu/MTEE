@@ -1,0 +1,5 @@
+there is an animal ||entailment
+there is some water ||entailment
+there is an object ||entailment
+the animal is splashing ||entailment
+the animal is running after the object ||entailment

@@ -1,0 +1,4 @@
+There are children. ||Entailment
+There are adults. ||Entailment
+The children are shorter. ||Neutral
+The children are shorter than adults. ||Entailment

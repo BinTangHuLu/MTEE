@@ -1,0 +1,4 @@
+There are not Men. ||Contradiction
+There is not a boat. ||Contradiction
+The Men do not work on the boat. ||Contradiction
+The boat is not outside. ||Contradiction

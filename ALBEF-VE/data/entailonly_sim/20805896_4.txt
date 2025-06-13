@@ -1,0 +1,5 @@
+there are dude ||entailment
+the dude are young ||neutral
+the dude are happy ||entailment
+there is a armchair ||neutral
+the dude are lying down in the chair ||neutral

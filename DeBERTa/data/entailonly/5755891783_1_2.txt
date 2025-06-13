@@ -1,0 +1,4 @@
+There is a room. ||entailment
+There is a food collection. ||entailment
+The room is as a donation. ||neutral
+The room is as a donation to the food collection. ||neutral

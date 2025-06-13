@@ -1,0 +1,4 @@
+There is a person. ||entailment
+The person is walking. ||entailment
+The person is outside. ||entailment
+The person is walking outside. ||entailment

@@ -1,0 +1,4 @@
+There is not a man. ||contradiction
+There is not a face. ||contradiction
+The face is not painted. ||contradiction
+The man does not have a face. ||contradiction

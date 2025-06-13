@@ -1,0 +1,4 @@
+there are not men ||contradiction
+there are not suits ||contradiction
+the suits are not blue ||entailment
+men are not wearing suits ||contradiction

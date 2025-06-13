@@ -1,0 +1,3 @@
+there is a man ||entailment
+there is a backpack ||entailment
+the man is in the backpack ||entailment

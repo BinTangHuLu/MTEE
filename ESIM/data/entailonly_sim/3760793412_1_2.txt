@@ -1,0 +1,5 @@
+There is a female. ||entailment
+There is a set. ||neutral
+There are clan. ||contradiction
+The female is with the couple. ||neutral
+The set is with the children. ||entailment

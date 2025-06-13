@@ -1,0 +1,4 @@
+There is a child. ||entailment
+There is a fluctuation. ||entailment
+The child is playing on the swing. ||entailment
+The child is outside. ||entailment

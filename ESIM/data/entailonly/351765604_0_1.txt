@@ -1,0 +1,7 @@
+There is a woman. ||entailment
+There is a hat. ||entailment
+There is ground. ||entailment
+The woman is squatting. ||entailment
+The woman is wearing a hat. ||entailment
+The hat is touching the ground. ||entailment
+The woman is touching ground. ||entailment

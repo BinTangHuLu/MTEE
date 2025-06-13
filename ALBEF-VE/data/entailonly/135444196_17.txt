@@ -1,0 +1,4 @@
+there is a person ||entailment
+there is clothing ||entailment
+the person is wearing clothing ||entailment
+the person is outside ||entailment

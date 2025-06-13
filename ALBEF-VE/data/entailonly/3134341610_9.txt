@@ -1,0 +1,7 @@
+there is a man ||entailment
+there is a woman ||entailment
+there is some toast ||neutral
+there is a tree ||entailment
+the man is making toast ||contradiction
+the woman is making toast ||contradiction
+the toast is in front of the tree ||entailment

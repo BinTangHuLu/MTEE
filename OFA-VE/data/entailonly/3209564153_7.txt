@@ -1,0 +1,4 @@
+There is a man. ||Entailment
+There is some gear. ||Entailment
+The gear is protective. ||Entailment
+The man is skiing with gear. ||Entailment

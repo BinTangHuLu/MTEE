@@ -1,0 +1,4 @@
+there are men ||contradiction
+there is an event ||entailment
+there are at least 2 men ||entailment
+the men are at the event ||contradiction

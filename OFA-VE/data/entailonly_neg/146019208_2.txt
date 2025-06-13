@@ -1,0 +1,5 @@
+There are not people. ||Contradiction
+There is not equipment. ||Contradiction
+There are not rocks. ||Contradiction
+The people are not with equipment. ||Entailment
+The people are not sitting on rocks. ||Entailment

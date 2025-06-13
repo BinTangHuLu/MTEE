@@ -1,0 +1,5 @@
+There is not a group. ||contradiction
+The children are not Asian. ||contradiction
+There are not children. ||contradiction
+There are not tambourines. ||contradiction
+The children are not beating on tambourines. ||contradiction

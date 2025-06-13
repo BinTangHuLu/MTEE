@@ -1,0 +1,4 @@
+There is not a toddler. ||contradiction
+There is not a girl. ||contradiction
+The toddler is not little. ||neutral
+The toddler is not blowing bubbles with the girl. ||contradiction

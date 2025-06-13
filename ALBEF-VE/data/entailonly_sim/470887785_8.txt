@@ -1,0 +1,3 @@
+there is a child ||entailment
+there is an accident ||contradiction
+the child is protesting at the event ||contradiction

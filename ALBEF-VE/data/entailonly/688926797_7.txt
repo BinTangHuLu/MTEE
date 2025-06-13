@@ -1,0 +1,8 @@
+there is a girl ||entailment
+there is a dress ||entailment
+the dress is blue ||entailment
+the girl is standing with girls right hand ||neutral
+there is a hand ||entailment
+the hand is right ||neutral
+there is a hip ||entailment
+the girls right hand is on the hip ||entailment

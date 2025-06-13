@@ -1,0 +1,10 @@
+There is a computer. ||entailment
+There are some people. ||entailment
+There is a woman. ||entailment
+There is a Winter Sport. ||entailment
+There is a store. ||entailment
+There is a bike. ||entailment
+The computer is seated nearby. ||entailment
+The computer is with people. ||entailment
+The woman is inside Winter Sport. ||entailment
+The store is with bike. ||entailment

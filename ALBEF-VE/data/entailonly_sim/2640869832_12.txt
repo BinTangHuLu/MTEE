@@ -1,0 +1,3 @@
+there is a association ||entailment
+there are some child ||entailment
+the association is of boys ||entailment

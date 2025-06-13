@@ -1,0 +1,5 @@
+there is a boy ||entailment
+there is a bike ||entailment
+there are some tricks ||entailment
+the boy does bike ||entailment
+the boy does tricks ||entailment

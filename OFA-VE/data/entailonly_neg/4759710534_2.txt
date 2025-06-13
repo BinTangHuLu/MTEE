@@ -1,0 +1,3 @@
+There is not a tattoo. ||Contradiction
+There are not wings. ||Contradiction
+The tattoo does not have wings. ||Contradiction

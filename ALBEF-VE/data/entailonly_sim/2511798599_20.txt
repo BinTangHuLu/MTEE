@@ -1,0 +1,4 @@
+there are dude ||contradiction
+there is an accident ||neutral
+there are at least 2 dude ||entailment
+the dude are at the event ||entailment

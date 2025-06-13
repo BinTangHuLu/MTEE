@@ -1,0 +1,3 @@
+there are not people ||contradiction
+there is not a speaker ||contradiction
+people are not listening to the speaker ||contradiction

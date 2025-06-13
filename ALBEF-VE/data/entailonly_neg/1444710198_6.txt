@@ -1,0 +1,4 @@
+there are not males ||contradiction
+there is not a lake ||contradiction
+the males are not two young ||entailment
+the males are not playing besides lake ||contradiction

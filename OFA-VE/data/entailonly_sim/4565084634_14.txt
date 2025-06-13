@@ -1,0 +1,4 @@
+There is a dude. ||Contradiction
+There is a female. ||Entailment
+The dude is walking. ||Entailment
+The dude is walking with the woman. ||Neutral

@@ -1,0 +1,6 @@
+There is a man. ||entailment
+There is a sign. ||entailment
+There is a store. ||entailment
+The man is black. ||entailment
+The man poses in front of the sign. ||entailment
+The man is making a purchase at the store. ||neutral

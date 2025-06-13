@@ -1,0 +1,6 @@
+There is a child. ||entailment
+There is a body. ||entailment
+There is water. ||entailment
+The child is moving swiftly. ||entailment
+The child is moving toward the body. ||entailment
+The body is of water. ||entailment

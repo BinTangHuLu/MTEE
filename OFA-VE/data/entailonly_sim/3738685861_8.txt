@@ -1,0 +1,3 @@
+There are flora. ||Entailment
+There is a baby. ||Entailment
+The flora are next to the kid. ||Entailment

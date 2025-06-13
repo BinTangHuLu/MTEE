@@ -1,0 +1,6 @@
+there are dude ||entailment
+there is a dusk ||entailment
+there is a expanse side ||entailment
+the dusk is beautiful ||entailment
+dude are watching the sunset ||entailment
+the dusk is on the sea side ||entailment

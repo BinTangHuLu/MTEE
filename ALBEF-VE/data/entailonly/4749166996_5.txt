@@ -1,0 +1,4 @@
+there is a speaker ||entailment
+there is a speech ||entailment
+the speaker is gesticulating ||entailment
+the speaker is giving speech ||entailment

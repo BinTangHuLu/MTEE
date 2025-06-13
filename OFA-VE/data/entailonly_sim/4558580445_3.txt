@@ -1,0 +1,3 @@
+There are community. ||Entailment
+There are appliance. ||Contradiction
+community are on horses. ||Entailment

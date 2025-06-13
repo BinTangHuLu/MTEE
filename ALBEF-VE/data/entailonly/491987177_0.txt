@@ -1,0 +1,4 @@
+there is a gentleman ||entailment
+there is a bar ||entailment
+the gentleman is older ||entailment
+the gentleman cleans the bar ||entailment

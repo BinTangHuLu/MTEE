@@ -1,0 +1,6 @@
+There is a dude. ||entailment
+There is an apparel. ||entailment
+There is a activity. ||entailment
+The apparel is work. ||entailment
+The dude is wearing the attire. ||entailment
+The dude is walking to the job. ||entailment

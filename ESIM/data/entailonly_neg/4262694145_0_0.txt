@@ -1,0 +1,6 @@
+There is not a man. ||contradiction
+There is not a woman. ||contradiction
+The man is not playing in the snow. ||contradiction
+The woman is not playing in the snow. ||contradiction
+The man is not playing outside. ||contradiction
+The woman is not playing outside. ||contradiction

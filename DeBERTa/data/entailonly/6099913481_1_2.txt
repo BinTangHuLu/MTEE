@@ -1,0 +1,4 @@
+There are People. ||entailment
+The People are in beach attire. ||entailment
+There is attire. ||entailment
+The People are in attire. ||entailment

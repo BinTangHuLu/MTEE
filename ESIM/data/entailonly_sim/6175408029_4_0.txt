@@ -1,0 +1,2 @@
+The cook is bread. ||neutral
+The cook prepares bread. ||neutral

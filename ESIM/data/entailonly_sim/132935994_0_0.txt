@@ -1,0 +1,2 @@
+The hosiery is fire. ||entailment
+The hosiery is water coming out. ||entailment

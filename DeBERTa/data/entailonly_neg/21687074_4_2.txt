@@ -1,0 +1,4 @@
+There is not a path. ||contradiction
+There is not a shore. ||contradiction
+The path is not wooden. ||contradiction
+The path is not towards shore. ||contradiction

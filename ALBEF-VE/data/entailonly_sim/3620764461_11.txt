@@ -1,0 +1,3 @@
+there are clan ||entailment
+there is a basement ||neutral
+the clan are on the floor ||entailment

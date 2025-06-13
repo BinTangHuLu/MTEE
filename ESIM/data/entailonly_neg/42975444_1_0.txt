@@ -1,0 +1,4 @@
+There is not a woman. ||contradiction
+There are not some shorts. ||contradiction
+The shorts are not wearing. ||contradiction
+The woman is not wearing shorts. ||contradiction

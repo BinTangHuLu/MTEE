@@ -1,0 +1,3 @@
+there are men ||entailment
+there are caps ||entailment
+the men are wearing caps ||entailment

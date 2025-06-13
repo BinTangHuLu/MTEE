@@ -1,0 +1,4 @@
+there is not a woman ||contradiction
+there is not a skirt ||contradiction
+the skirt is not wearing ||neutral
+the woman is not seen by some people ||neutral

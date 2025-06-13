@@ -1,0 +1,6 @@
+there is a man ||entailment
+there is some food ||entailment
+there is a restaurant kitchen ||entailment
+the food is different ||neutral
+the man is cooking food ||entailment
+the food is in the restaurant kitchen ||entailment

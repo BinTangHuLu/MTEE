@@ -1,0 +1,3 @@
+There is not a shirt. ||contradiction
+The shirt is not red. ||contradiction
+The shirt is not attire. ||contradiction

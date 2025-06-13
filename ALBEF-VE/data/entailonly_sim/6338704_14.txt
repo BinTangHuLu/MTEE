@@ -1,0 +1,3 @@
+there is a bridge guard ||entailment
+there are some community ||entailment
+the bridge guard is helping people ||entailment

@@ -1,0 +1,3 @@
+there is a line ||entailment
+there is a estate ||entailment
+the line is performing in the park ||entailment

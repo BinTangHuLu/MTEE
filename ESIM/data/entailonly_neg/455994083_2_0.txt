@@ -1,0 +1,5 @@
+There is not a male. ||contradiction
+There is not a device. ||contradiction
+The male is not male. ||contradiction
+The device is not near his mouth. ||contradiction
+The male does not have a device. ||contradiction

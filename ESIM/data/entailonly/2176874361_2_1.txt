@@ -1,0 +1,4 @@
+There is a dog. ||entailment
+There is a cow. ||entailment
+The dog is outside. ||entailment
+The dog is outside cow. ||entailment

@@ -1,0 +1,3 @@
+there is a worker ||entailment
+there is a site ||entailment
+the worker is near the site ||entailment

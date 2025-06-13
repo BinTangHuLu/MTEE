@@ -1,0 +1,4 @@
+there is a employee ||entailment
+there are some appearance ||entailment
+the appearance are open ||entailment
+the employee has eyes ||entailment

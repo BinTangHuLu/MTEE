@@ -1,0 +1,3 @@
+there are not monitors ||contradiction
+there is not a barricade ||contradiction
+the monitors are not behind the barricade ||contradiction

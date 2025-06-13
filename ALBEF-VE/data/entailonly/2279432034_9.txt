@@ -1,0 +1,4 @@
+there is a group ||entailment
+there are some people ||entailment
+there is an orchestra ||entailment
+the group is in orchestra ||neutral

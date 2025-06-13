@@ -1,0 +1,3 @@
+There is not a dog. ||contradiction
+There is not some grass. ||contradiction
+The dog does not run in grass. ||contradiction

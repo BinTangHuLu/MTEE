@@ -1,0 +1,5 @@
+There is a man. ||entailment
+There are children. ||entailment
+The man is encouraging. ||entailment
+The man is to have fun with children. ||entailment
+The children look on one another. ||neutral

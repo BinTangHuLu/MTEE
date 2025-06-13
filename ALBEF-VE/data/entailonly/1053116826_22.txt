@@ -1,0 +1,5 @@
+there are children ||entailment
+there is a company ||neutral
+there is grass ||entailment
+the children are enjoying company ||entailment
+the children are hanging out on grass ||entailment

@@ -1,0 +1,3 @@
+there is a man ||entailment
+there is a saw ||entailment
+the man is near saw ||entailment

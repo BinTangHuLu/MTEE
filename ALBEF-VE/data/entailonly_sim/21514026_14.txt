@@ -1,0 +1,4 @@
+there is a female ||entailment
+there is a bistro ||entailment
+there is caffeine ||neutral
+the female stands with the coffee ||entailment

@@ -1,0 +1,8 @@
+there is a woman ||entailment
+there is a player ||entailment
+there is a basketball ||entailment
+there is a ball ||entailment
+the woman is young ||entailment
+the player is basketball ||entailment
+the player blocks another ||entailment
+another is in possession of the ball ||entailment

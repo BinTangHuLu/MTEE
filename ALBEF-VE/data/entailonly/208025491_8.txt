@@ -1,0 +1,6 @@
+there is a man ||entailment
+there is a beer ||entailment
+the man is chatting ||entailment
+the man holds the beer ||entailment
+the man is standing with the man ||entailment
+the man is chatting with the man ||entailment

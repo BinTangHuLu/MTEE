@@ -1,0 +1,3 @@
+there is not an escalator ||contradiction
+the escalator is not escalating ||contradiction
+the escalator is not escalating the escalator ||entailment

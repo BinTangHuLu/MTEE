@@ -1,0 +1,4 @@
+There is a baby. ||entailment
+There is a anything. ||contradiction
+The anything is outside. ||contradiction
+The baby is doing thing. ||entailment

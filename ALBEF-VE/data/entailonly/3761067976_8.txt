@@ -1,0 +1,3 @@
+there is a girl ||entailment
+there is a sky ||entailment
+the girl is pointing towards the sky ||neutral

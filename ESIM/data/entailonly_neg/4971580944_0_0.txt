@@ -1,0 +1,4 @@
+There is not a Phone. ||contradiction
+There is not a woman. ||contradiction
+The Phone is not her ear. ||contradiction
+The woman does not bend forward to the Phone. ||contradiction

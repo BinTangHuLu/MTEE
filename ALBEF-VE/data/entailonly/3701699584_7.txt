@@ -1,0 +1,6 @@
+there is a man ||entailment
+there is a ball ||entailment
+there is a sign ||entailment
+the sign is green ||entailment
+the man swings at the ball ||entailment
+the ball is with the sign ||entailment

@@ -1,0 +1,4 @@
+There are kids. ||Entailment
+There is a trampoline. ||Entailment
+There are two kids. ||Entailment
+The kids are on the trampoline. ||Neutral

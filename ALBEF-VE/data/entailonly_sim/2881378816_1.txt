@@ -1,0 +1,3 @@
+there are artist ||entailment
+the artist are street ||entailment
+the artist are performing ||entailment

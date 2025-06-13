@@ -1,0 +1,7 @@
+There is not a person. ||contradiction
+There is not a can. ||contradiction
+There is not a soda. ||contradiction
+The person does not walk. ||contradiction
+The can is not in his hand. ||contradiction
+The person does not walk along with the can. ||contradiction
+The can does not contain soda. ||contradiction

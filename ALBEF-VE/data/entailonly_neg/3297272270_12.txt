@@ -1,0 +1,5 @@
+there are not men ||contradiction
+there are not guitars ||contradiction
+there is not a stage ||contradiction
+men do not sing and play guitars ||contradiction
+guitars are not on stage ||contradiction

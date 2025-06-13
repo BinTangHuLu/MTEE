@@ -1,0 +1,5 @@
+There is not a man. ||contradiction
+There are not some things. ||contradiction
+There is not a baton. ||contradiction
+The man is not doing things. ||contradiction
+The man is not with a baton. ||contradiction

@@ -1,0 +1,4 @@
+There is not a human. ||Contradiction
+There is not an instrument. ||Contradiction
+The instrument is not musical. ||Contradiction
+The human is not playing the instrument. ||Contradiction

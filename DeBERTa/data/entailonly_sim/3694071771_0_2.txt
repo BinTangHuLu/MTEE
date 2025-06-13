@@ -1,0 +1,6 @@
+There is a body. ||entailment
+There are commercial. ||entailment
+There is a automobile. ||entailment
+The body is wearing numbers. ||entailment
+The automobile is nonmotorized. ||contradiction
+The body is using a nonmotorized vehicle. ||entailment

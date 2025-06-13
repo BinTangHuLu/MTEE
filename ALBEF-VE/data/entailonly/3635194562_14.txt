@@ -1,0 +1,4 @@
+there is a child ||entailment
+there are colors ||entailment
+the colors are many ||neutral
+the child is using colors ||entailment

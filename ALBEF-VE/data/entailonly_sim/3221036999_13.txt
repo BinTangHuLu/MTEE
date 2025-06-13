@@ -1,0 +1,4 @@
+there is a dude ||entailment
+there is a antic ||contradiction
+the dude performs stunt ||entailment
+the antic is with skateboard ||contradiction

@@ -1,0 +1,4 @@
+there is a female ||entailment
+there is a beat ||entailment
+the beat is red ||neutral
+the female is in the cap ||contradiction

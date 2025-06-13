@@ -1,0 +1,4 @@
+There is a woman. ||Entailment
+There is some laundry. ||Entailment
+The woman is hanging. ||Entailment
+The woman is hanging laundry. ||Entailment

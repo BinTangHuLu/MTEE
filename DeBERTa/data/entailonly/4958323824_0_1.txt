@@ -1,0 +1,5 @@
+There is a person. ||entailment
+There is an institution. ||entailment
+There is protection. ||entailment
+There are meals. ||entailment
+The person works with meals. ||entailment

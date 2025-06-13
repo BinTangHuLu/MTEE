@@ -1,0 +1,3 @@
+there is not a child ||contradiction
+there is not a stick ||contradiction
+the child is not jumping with a stick ||contradiction

@@ -1,0 +1,5 @@
+there is a dude ||entailment
+there is a estuary ||neutral
+there is a outrigger ||entailment
+the dude is going down the river ||neutral
+the dude is in the kayak ||entailment

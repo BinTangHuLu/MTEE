@@ -1,0 +1,4 @@
+there is a female ||entailment
+there are some backcountry ||neutral
+there is an aroma ||entailment
+the female burns sticks ||contradiction

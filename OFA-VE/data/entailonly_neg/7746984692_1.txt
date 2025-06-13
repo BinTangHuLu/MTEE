@@ -1,0 +1,3 @@
+There is not a hiker. ||Contradiction
+The hiker is not walking. ||Entailment
+The hiker is not walking. ||Entailment

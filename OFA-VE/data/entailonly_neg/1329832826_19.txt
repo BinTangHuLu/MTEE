@@ -1,0 +1,3 @@
+There is not a picture. ||Contradiction
+There is not a city. ||Contradiction
+The picture is not in the city. ||Contradiction

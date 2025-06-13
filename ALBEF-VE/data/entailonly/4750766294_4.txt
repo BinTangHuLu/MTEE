@@ -1,0 +1,5 @@
+there is a girl ||entailment
+there is another ||entailment
+there is a bedroom ||entailment
+the girl reads another ||entailment
+another is in the bedroom ||neutral

@@ -1,0 +1,4 @@
+There is a girl. ||entailment
+There is a car. ||entailment
+The girl has a toy. ||entailment
+The girl is riding in the car. ||entailment

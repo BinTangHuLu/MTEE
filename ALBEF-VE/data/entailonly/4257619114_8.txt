@@ -1,0 +1,3 @@
+there is a female ||entailment
+there is a party ||entailment
+the female is at the party ||neutral

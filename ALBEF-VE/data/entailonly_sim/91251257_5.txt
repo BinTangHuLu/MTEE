@@ -1,0 +1,3 @@
+there is a female ||entailment
+the female is asian ||neutral
+the female is outside ||entailment

@@ -1,0 +1,4 @@
+there is a cleaner ||entailment
+there is a window ||entailment
+there is work ||entailment
+the cleaner is at work ||entailment

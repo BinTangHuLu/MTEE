@@ -1,0 +1,4 @@
+There are people. ||Entailment
+There are drinks. ||Entailment
+The drinks are energy. ||Neutral
+The people are enjoying drinks. ||Entailment

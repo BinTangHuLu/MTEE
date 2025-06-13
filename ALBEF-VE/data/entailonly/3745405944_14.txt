@@ -1,0 +1,3 @@
+there is a couple ||entailment
+the couple is outdoors ||entailment
+the couple is outdoors ||entailment

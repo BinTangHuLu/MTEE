@@ -1,0 +1,3 @@
+there is a body ||entailment
+there is some freight ||entailment
+the body stops traffic ||contradiction

@@ -1,0 +1,5 @@
+There is a gentlewoman. ||neutral
+There is a carton. ||entailment
+There is a call up. ||neutral
+The gentlewoman looks at the box. ||entailment
+The gentlewoman looks at the phone. ||neutral

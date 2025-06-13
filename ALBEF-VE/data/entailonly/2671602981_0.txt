@@ -1,0 +1,3 @@
+there is a girl ||entailment
+the girl is jumping ||entailment
+the girl is jumping ||entailment

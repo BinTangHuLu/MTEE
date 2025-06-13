@@ -1,0 +1,5 @@
+there is a janitor ||entailment
+there is a job ||entailment
+there is thailand ||entailment
+the janitor does the job ||entailment
+the job is in thailand ||entailment

@@ -1,0 +1,4 @@
+there are community ||entailment
+there is a pedal ||entailment
+the pedal is riding ||entailment
+community are bike riding ||entailment

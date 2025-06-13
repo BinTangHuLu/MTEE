@@ -1,0 +1,6 @@
+there are kids ||entailment
+there are desks ||entailment
+there are bags ||entailment
+the bags are plastic ||neutral
+the kids sit at desks ||entailment
+the bags are in front of kids ||entailment

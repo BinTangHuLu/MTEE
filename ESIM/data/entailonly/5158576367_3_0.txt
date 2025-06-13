@@ -1,0 +1,4 @@
+There is a man. ||entailment
+There is a girl. ||entailment
+The man swims. ||entailment
+The girl swims. ||entailment

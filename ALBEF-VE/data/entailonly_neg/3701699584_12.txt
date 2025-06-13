@@ -1,0 +1,8 @@
+there is not a sign ||contradiction
+there is not a finderspot ||contradiction
+there is not a man ||contradiction
+there is not a ball ||contradiction
+the man is not swinging at the ball ||contradiction
+the ball is not tennis ||contradiction
+the sign does not say finderspot ||contradiction
+the finderspot is not by the man ||entailment

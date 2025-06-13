@@ -1,0 +1,3 @@
+there is a lady ||entailment
+there is a cover ||entailment
+the lady is wearing cover ||entailment

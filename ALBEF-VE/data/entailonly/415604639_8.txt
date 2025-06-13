@@ -1,0 +1,4 @@
+there is a day ||entailment
+there is a st patricks day ||entailment
+there is an officer ||entailment
+the officer is inside day ||entailment

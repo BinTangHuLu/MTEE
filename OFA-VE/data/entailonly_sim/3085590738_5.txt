@@ -1,0 +1,4 @@
+There is a female. ||Entailment
+There is a dais. ||Contradiction
+The female is speaking. ||Entailment
+The female is speaking at podium. ||Entailment

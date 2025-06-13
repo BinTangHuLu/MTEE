@@ -1,0 +1,3 @@
+there are animals ||entailment
+there is a fence ||entailment
+the animals are inside of the fence ||entailment

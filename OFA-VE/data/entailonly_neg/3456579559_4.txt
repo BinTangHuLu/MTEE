@@ -1,0 +1,4 @@
+There is not a person. ||Contradiction
+There is not a skateboard. ||Contradiction
+The person is not doing tricks. ||Contradiction
+The person is not doing tricks on skateboard. ||Neutral

@@ -1,0 +1,4 @@
+There is not an ensemble. ||Contradiction
+There are not musicians. ||Contradiction
+The musicians are not dressed as Santa. ||Neutral
+The ensemble is not of musicians. ||Contradiction

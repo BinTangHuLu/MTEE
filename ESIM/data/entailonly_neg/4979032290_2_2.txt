@@ -1,0 +1,3 @@
+There is not a man. ||contradiction
+There is not a performer. ||contradiction
+The man does not talk to performer. ||contradiction

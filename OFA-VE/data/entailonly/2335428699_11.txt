@@ -1,0 +1,4 @@
+There are children. ||Entailment
+There is winter. ||Entailment
+The children are playing. ||Entailment
+The children are playing during winter. ||Entailment

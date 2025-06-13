@@ -1,0 +1,4 @@
+there is not a girl ||contradiction
+there is not a motorcycle ||contradiction
+the girl is not cute ||contradiction
+the girl is not sitting on motorcycle ||entailment

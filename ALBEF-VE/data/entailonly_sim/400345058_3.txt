@@ -1,0 +1,3 @@
+there is a animal ||entailment
+there is drink ||entailment
+the animal stands in water ||entailment

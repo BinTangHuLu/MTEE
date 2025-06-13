@@ -1,0 +1,3 @@
+there is a man ||entailment
+there is a chess ||entailment
+the man is playing chess ||entailment

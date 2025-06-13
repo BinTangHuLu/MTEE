@@ -1,0 +1,5 @@
+there are not men ||contradiction
+there is not a concert ||contradiction
+there is not a camera ||contradiction
+the men are not at the concert ||entailment
+the men are not using the camera ||entailment

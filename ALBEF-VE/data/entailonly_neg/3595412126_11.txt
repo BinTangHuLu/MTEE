@@ -1,0 +1,5 @@
+there are not females ||contradiction
+there is not a tree ||contradiction
+the females are not pink ||contradiction
+the females are not wearing ||contradiction
+the females are not slanted against the tree ||entailment

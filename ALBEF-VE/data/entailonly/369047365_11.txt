@@ -1,0 +1,3 @@
+there is a man ||entailment
+there are some pets ||entailment
+the man and pets are outside ||entailment

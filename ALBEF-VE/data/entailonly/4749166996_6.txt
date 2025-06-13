@@ -1,0 +1,2 @@
+there is a male ||entailment
+the male is speaking ||entailment

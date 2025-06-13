@@ -1,0 +1,6 @@
+There is not a man. ||contradiction
+There is not a floor. ||contradiction
+There are not some photographs. ||contradiction
+The man is not sitting. ||contradiction
+The man is not on the floor. ||contradiction
+The man is not around photographs. ||contradiction

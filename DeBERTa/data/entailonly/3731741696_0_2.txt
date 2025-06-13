@@ -1,0 +1,5 @@
+There are people. ||entailment
+There are two people. ||entailment
+There is one with a hat. ||entailment
+There is a baseball. ||entailment
+The people can see the baseball. ||entailment

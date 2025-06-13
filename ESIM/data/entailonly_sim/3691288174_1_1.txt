@@ -1,0 +1,2 @@
+There is an pupil. ||entailment
+The performer is working with the pupil. ||neutral

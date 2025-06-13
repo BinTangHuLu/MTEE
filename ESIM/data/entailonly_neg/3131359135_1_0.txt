@@ -1,0 +1,9 @@
+There is not a person. ||contradiction
+There is not a coat. ||contradiction
+There is not a briefcase. ||contradiction
+There is not a street. ||contradiction
+There is not a bus lane. ||contradiction
+The person is not in a coat. ||contradiction
+The person is not with a briefcase. ||contradiction
+The person does not walk down the street. ||contradiction
+The street is not next to the bus lane. ||contradiction

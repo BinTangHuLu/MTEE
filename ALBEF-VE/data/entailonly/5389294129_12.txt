@@ -1,0 +1,3 @@
+there are men ||entailment
+there are flags ||entailment
+the men are waving flags ||entailment

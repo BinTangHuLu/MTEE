@@ -1,0 +1,3 @@
+There is a dude. ||entailment
+There is a auto. ||entailment
+The dude is sitting on the car. ||entailment

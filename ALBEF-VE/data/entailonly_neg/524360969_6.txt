@@ -1,0 +1,6 @@
+there are not workers ||contradiction
+there is not a road ||contradiction
+there are not signs ||contradiction
+the signs are not stop ||neutral
+the workers are not in road ||entailment
+the workers are not holding signs ||contradiction

@@ -1,0 +1,5 @@
+there is a dude ||entailment
+there is a advertise ||entailment
+there is a circle ||entailment
+the dude plays the trumpet ||contradiction
+the dude plays for the crowd ||entailment

@@ -1,0 +1,5 @@
+There is a boy. ||contradiction
+The clue is horizontal. ||contradiction
+The clue is made. ||neutral
+The boy uses paint. ||entailment
+The male stencils words on the clue. ||entailment

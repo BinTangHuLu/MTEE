@@ -1,0 +1,7 @@
+There is a dude. ||entailment
+There is a baby. ||entailment
+There are staircase. ||entailment
+There is a eyewitness. ||entailment
+The dude is sitting on steps. ||entailment
+The baby is sitting on steps. ||entailment
+The dude saw bystander. ||neutral

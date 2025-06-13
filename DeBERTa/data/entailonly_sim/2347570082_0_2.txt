@@ -1,0 +1,4 @@
+There are force officers. ||entailment
+The force officers are wearing yellow reflective jackets. ||entailment
+The force officers are standing. ||entailment
+The force officers are standing in ozone. ||entailment

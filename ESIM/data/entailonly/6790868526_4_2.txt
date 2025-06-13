@@ -1,0 +1,5 @@
+There is a woman. ||entailment
+There is a mouse. ||entailment
+There is a desk. ||entailment
+The woman is clicking on the mouse. ||entailment
+The woman is clicking on the desk. ||entailment

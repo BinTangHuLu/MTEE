@@ -1,0 +1,10 @@
+there is a car ||entailment
+there is a man ||entailment
+there is a coat ||entailment
+there are glasses ||entailment
+the glasses are red ||neutral
+the man is wearing a coat ||entailment
+the man is wearing glasses ||entailment
+the man is having cameras ||entailment
+the man is in front of the car ||entailment
+the man is standing in front of the man ||entailment

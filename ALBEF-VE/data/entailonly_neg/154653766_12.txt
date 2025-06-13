@@ -1,0 +1,4 @@
+there is not a group ||contradiction
+there are not some people ||contradiction
+the people are not outdoors ||entailment
+the group are not people ||contradiction

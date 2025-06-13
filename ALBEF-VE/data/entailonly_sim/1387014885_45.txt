@@ -1,0 +1,3 @@
+there is a circle ||neutral
+there is a gig ||entailment
+the circle gathers to hear the concert ||entailment

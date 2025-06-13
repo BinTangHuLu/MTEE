@@ -1,0 +1,4 @@
+There is not a motorcycle. ||Contradiction
+There is not a track. ||Contradiction
+The motorcycle is not racing. ||Contradiction
+The motorcycle is not on track. ||Contradiction

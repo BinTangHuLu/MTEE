@@ -1,0 +1,3 @@
+There is not a guy. ||contradiction
+There is not a trunk. ||contradiction
+The guy does not walk on trunk. ||contradiction

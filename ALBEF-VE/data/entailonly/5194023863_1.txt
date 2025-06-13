@@ -1,0 +1,4 @@
+there is a girl ||entailment
+there is a snail ||entailment
+the girl is little ||entailment
+the girl is playing with snail ||entailment

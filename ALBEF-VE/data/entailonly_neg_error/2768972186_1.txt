@@ -1,0 +1,3 @@
+A,large
+RE2,is running with,animal
+A,small white

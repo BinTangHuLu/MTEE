@@ -1,0 +1,6 @@
+there is not a woman ||contradiction
+the woman is not young ||entailment
+there is not a guitar ||contradiction
+the woman is not singing ||contradiction
+the woman is not playing ||contradiction
+the woman is not singing and playing guitar ||contradiction

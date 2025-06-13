@@ -1,0 +1,2 @@
+There is a biker. ||Entailment
+The biker is dirt. ||Entailment

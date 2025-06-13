@@ -1,0 +1,4 @@
+there is a child ||entailment
+there is a cabinet ||entailment
+the cabinet is wooden ||entailment
+the child is being over board ||entailment

@@ -1,0 +1,6 @@
+There is a child. ||entailment
+There is a picture. ||entailment
+The child is one. ||neutral
+The picture is this. ||entailment
+The child is in the picture. ||entailment
+The child is outside. ||entailment

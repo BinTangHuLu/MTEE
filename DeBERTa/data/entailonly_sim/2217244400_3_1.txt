@@ -1,0 +1,9 @@
+There is a body. ||neutral
+There is deluge. ||entailment
+There is accident. ||neutral
+The body is standing. ||entailment
+The body is looking at. ||entailment
+The deluge is outside. ||entailment
+The accident is flood. ||neutral
+The body is standing outside rain. ||entailment
+The body is looking at damage. ||entailment

@@ -1,0 +1,7 @@
+There is a dude. ||entailment
+There is a fedora. ||contradiction
+There are bounce. ||contradiction
+There is bikini. ||entailment
+There is a path. ||entailment
+The dude is wearing only a hat, boots, and underwear. ||entailment
+The dude is walking on the sidewalk. ||entailment

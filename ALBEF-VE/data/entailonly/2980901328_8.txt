@@ -1,0 +1,5 @@
+there is a man ||entailment
+there is a picker ||entailment
+there is a pole ||entailment
+the man is on the picker ||entailment
+the picker is near the pole ||entailment

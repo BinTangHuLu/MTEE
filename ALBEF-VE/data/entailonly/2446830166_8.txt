@@ -1,0 +1,5 @@
+there is a person ||entailment
+there is a lady ||entailment
+the person is taller ||neutral
+the person walks around the lady ||entailment
+the lady is holding things ||entailment

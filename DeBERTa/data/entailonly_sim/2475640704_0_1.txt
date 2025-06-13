@@ -1,0 +1,3 @@
+There is a child. ||entailment
+There is a association. ||entailment
+The child is running towards the group. ||entailment

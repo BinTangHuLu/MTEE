@@ -1,0 +1,5 @@
+There is not a man. ||contradiction
+There are not some eyes. ||contradiction
+There are not some sunglasses. ||contradiction
+The man is not protecting his eyes. ||contradiction
+The man is not protecting his eyes with sunglasses. ||contradiction

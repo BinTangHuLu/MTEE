@@ -1,0 +1,3 @@
+There is a association. ||Entailment
+The association is well dressed. ||Entailment
+The association waits together. ||Entailment

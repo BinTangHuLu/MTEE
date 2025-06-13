@@ -1,0 +1,2 @@
+There is a architecture. ||entailment
+The architecture is older. ||entailment

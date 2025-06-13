@@ -1,0 +1,3 @@
+there are clan ||entailment
+there are appliance ||entailment
+the clan are near horses ||entailment

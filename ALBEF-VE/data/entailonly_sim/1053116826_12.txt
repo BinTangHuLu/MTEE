@@ -1,0 +1,3 @@
+there are clan ||entailment
+the clan are two ||entailment
+the clan are sitting outside ||entailment

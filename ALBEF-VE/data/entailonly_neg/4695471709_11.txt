@@ -1,0 +1,3 @@
+there is not a crowd ||contradiction
+there is not a statue ||contradiction
+the crowd is not near the statue ||contradiction

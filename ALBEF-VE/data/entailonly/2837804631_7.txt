@@ -1,0 +1,3 @@
+there is a boy ||entailment
+there is a fountain ||entailment
+the boy is near the fountain ||entailment

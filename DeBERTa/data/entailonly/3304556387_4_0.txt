@@ -1,0 +1,5 @@
+There is a man. ||entailment
+There are some dogs. ||entailment
+The man has two. ||entailment
+The man has dogs. ||entailment
+The dogs are playing. ||entailment

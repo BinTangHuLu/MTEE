@@ -1,0 +1,4 @@
+there are men ||entailment
+there are lines ||entailment
+the men are working ||entailment
+the men are working on lines ||entailment

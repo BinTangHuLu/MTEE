@@ -1,0 +1,5 @@
+There is not a man. ||contradiction
+There is not a street. ||contradiction
+There are not people. ||contradiction
+The man does not walk down the street. ||contradiction
+The man is not with people. ||contradiction

@@ -1,0 +1,5 @@
+There is not a kid. ||contradiction
+There is not a bike. ||contradiction
+The kid is hisnot . ||contradiction
+The kid is not riding the bike. ||contradiction
+The bike is not down the street. ||contradiction

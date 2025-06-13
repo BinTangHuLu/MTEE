@@ -1,0 +1,5 @@
+There are children. ||entailment
+There is a water art display. ||entailment
+The children are Three. ||entailment
+The water art display is illuminated. ||entailment
+The children are interacting with the water art display. ||entailment

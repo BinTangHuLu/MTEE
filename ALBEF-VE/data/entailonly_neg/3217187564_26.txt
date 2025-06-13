@@ -1,0 +1,3 @@
+there are not animals ||contradiction
+the animals are not running ||contradiction
+the animals are not running together ||contradiction

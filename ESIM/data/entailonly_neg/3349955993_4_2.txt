@@ -1,0 +1,6 @@
+There is not a group. ||contradiction
+There are not boys. ||contradiction
+There is not soccer. ||contradiction
+There is not a street. ||contradiction
+The boys are not playing soccer. ||contradiction
+The boys are not in the street. ||entailment

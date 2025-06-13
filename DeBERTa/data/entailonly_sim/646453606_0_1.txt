@@ -1,0 +1,4 @@
+There are adolescent. ||entailment
+There is blizzard. ||neutral
+The adolescent are playing. ||entailment
+The adolescent are having a fight. ||neutral

@@ -1,0 +1,4 @@
+there is a child ||entailment
+there is a cabinet ||entailment
+the child is trying to grab something ||entailment
+something is near the cabinet ||entailment

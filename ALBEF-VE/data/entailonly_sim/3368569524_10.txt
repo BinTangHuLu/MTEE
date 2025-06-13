@@ -1,0 +1,6 @@
+there is a child ||entailment
+there is a ball ||entailment
+the child is attempting to shoot ||entailment
+the child defends ||entailment
+the child is attempting to shoot basketball ||entailment
+the child defends the girl ||neutral

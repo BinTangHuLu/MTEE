@@ -1,0 +1,3 @@
+There is a guy. ||Entailment
+There is a city. ||Entailment
+The guy walks in the city. ||Entailment

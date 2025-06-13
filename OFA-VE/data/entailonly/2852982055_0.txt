@@ -1,0 +1,4 @@
+There are Kids. ||Entailment
+There is water. ||Entailment
+The Kids are playing. ||Entailment
+The Kids are in water. ||Entailment

@@ -1,0 +1,4 @@
+there are dude ||entailment
+there is a architecture ||entailment
+the dude are dressed up ||entailment
+the dude are sitting in front of the building ||entailment

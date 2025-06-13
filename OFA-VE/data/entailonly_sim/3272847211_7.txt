@@ -1,0 +1,5 @@
+There is a club. ||Contradiction
+There is a athlete. ||Entailment
+The club is green. ||Contradiction
+The athlete is offensive. ||Entailment
+The club has a player. ||Entailment

@@ -1,0 +1,4 @@
+There is an accident. ||contradiction
+There is a avenue. ||entailment
+There are community. ||neutral
+The accident has attracted people. ||neutral

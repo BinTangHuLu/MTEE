@@ -1,0 +1,3 @@
+There are Men. ||entailment
+There is a basketball. ||entailment
+The Men are playing basketball. ||entailment

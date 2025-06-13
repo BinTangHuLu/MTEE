@@ -1,0 +1,4 @@
+There is a child. ||Entailment
+There is a pedal. ||Entailment
+The child does bike. ||Entailment
+The child does tricks. ||Entailment

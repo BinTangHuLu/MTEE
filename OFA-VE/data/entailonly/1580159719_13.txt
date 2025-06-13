@@ -1,0 +1,5 @@
+There is a group. ||Entailment
+There are some people. ||Entailment
+There is some grass. ||Entailment
+The people are young. ||Neutral
+The people are in grass. ||Entailment

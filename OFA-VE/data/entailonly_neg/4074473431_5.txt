@@ -1,0 +1,4 @@
+There are not People. ||Contradiction
+There are not heart rates. ||Contradiction
+The heart rates are not up. ||Entailment
+People are not getting heart rates. ||Entailment

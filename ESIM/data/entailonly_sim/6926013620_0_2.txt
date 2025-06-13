@@ -1,0 +1,2 @@
+There is a colander. ||entailment
+The colander contains liquid. ||entailment

@@ -1,0 +1,3 @@
+there is a climber ||entailment
+there is a mountain ||entailment
+the climber is on the mountain ||neutral

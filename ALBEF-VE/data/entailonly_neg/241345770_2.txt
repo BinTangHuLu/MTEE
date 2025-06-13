@@ -1,0 +1,3 @@
+there is not a quarterback ||contradiction
+the quarterback does not get ready ||contradiction
+the quarterback does not get ready to throw ||contradiction

@@ -1,0 +1,3 @@
+there are musicians ||entailment
+there is a group ||entailment
+the musicians are practicing ||entailment

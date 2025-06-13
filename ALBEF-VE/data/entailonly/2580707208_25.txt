@@ -1,0 +1,4 @@
+there is a man ||entailment
+there are some hats ||entailment
+the hats are colorful ||neutral
+the man holds hats ||entailment

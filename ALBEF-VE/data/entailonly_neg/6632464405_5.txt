@@ -1,0 +1,4 @@
+there is not a performance ||contradiction
+there is not some music ||contradiction
+the performance is not underway ||contradiction
+the performance is not underway by music ||contradiction

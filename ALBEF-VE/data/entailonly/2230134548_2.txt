@@ -1,0 +1,5 @@
+there is food ||entailment
+there is a chef ||entailment
+the food is being prepared ||entailment
+the food is being prepared by the chef ||neutral
+the chef is seeing outside ||entailment

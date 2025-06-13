@@ -1,0 +1,5 @@
+There is an bodily. ||entailment
+There is a elevation. ||entailment
+The bodily is golden. ||entailment
+The elevation is snow-covered. ||entailment
+The bodily bounds across the plateau. ||contradiction

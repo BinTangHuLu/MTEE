@@ -1,0 +1,4 @@
+There is a dog. ||entailment
+There is a man. ||entailment
+The dog has a man. ||neutral
+The man is sleeping next to the dog. ||entailment

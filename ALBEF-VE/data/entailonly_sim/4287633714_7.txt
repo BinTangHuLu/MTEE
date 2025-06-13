@@ -1,0 +1,4 @@
+there is a body ||entailment
+there is a coat ||entailment
+the coat is leather ||entailment
+the body has a jacket ||entailment

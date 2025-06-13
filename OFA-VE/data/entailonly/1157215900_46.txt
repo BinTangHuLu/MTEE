@@ -1,0 +1,4 @@
+There is a woman. ||Entailment
+There is bread. ||Entailment
+The woman has. ||Entailment
+The bread is for sale. ||Entailment

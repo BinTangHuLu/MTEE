@@ -1,0 +1,5 @@
+There is not a man. ||contradiction
+There is not a street. ||contradiction
+The man is not standing. ||entailment
+The man is not standing outside. ||entailment
+The man is not standing near street. ||contradiction

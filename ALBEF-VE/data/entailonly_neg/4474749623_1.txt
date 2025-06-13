@@ -1,0 +1,5 @@
+there are not men ||entailment
+there are not chairs ||entailment
+there are not two men ||entailment
+the men are not sitting in chairs ||entailment
+the men are not in chairs ||entailment

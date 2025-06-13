@@ -1,0 +1,5 @@
+there is a man ||entailment
+there is a jacket ||entailment
+there is a hat ||entailment
+the jacket is dark ||entailment
+the man sits in street ||entailment

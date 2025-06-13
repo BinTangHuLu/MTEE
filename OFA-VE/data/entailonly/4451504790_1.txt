@@ -1,0 +1,5 @@
+There is a child. ||Entailment
+There is a steering. ||Entailment
+There is a car. ||Entailment
+The child is holding the steering. ||Entailment
+The steering is of the car. ||Entailment

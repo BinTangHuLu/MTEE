@@ -1,0 +1,4 @@
+There is not a group. ||Contradiction
+There are not people. ||Contradiction
+The people are not in a group. ||Entailment
+The people are not waiting for transportation. ||Entailment

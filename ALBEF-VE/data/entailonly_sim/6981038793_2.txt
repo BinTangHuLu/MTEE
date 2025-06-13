@@ -1,0 +1,5 @@
+there is a body ||entailment
+there are some knickers ||neutral
+the knickers are orange ||neutral
+the body is in pants ||contradiction
+the body is sking ||entailment

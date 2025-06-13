@@ -1,0 +1,5 @@
+There is a dude. ||entailment
+There is a chair. ||entailment
+The dude is young. ||entailment
+The dude waits outdoors in London. ||entailment
+The dude waits on the bench. ||entailment

@@ -1,0 +1,3 @@
+There is a set. ||Entailment
+There is a account. ||Contradiction
+The set poses for the picture. ||Neutral

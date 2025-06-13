@@ -1,0 +1,3 @@
+There is a group. ||Entailment
+There is a line. ||Entailment
+The group is in line. ||Entailment

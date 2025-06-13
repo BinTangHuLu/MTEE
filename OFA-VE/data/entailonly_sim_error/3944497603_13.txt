@@ -1,0 +1,2 @@
+A,metro
+E1R,Someone,is standing near

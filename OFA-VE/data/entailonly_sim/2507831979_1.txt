@@ -1,0 +1,3 @@
+There is a female. ||Entailment
+There is a action. ||Entailment
+The female makes gesture. ||Entailment

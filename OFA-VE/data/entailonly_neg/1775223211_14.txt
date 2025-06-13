@@ -1,0 +1,4 @@
+There are not women. ||Contradiction
+The women are not Two. ||Entailment
+There is not a hobby. ||Contradiction
+The women are not engaged in the hobby. ||Contradiction

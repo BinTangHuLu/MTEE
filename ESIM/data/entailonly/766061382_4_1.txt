@@ -1,0 +1,4 @@
+There is a child. ||entailment
+There is some water. ||entailment
+The child is naked. ||entailment
+The child is in water. ||entailment

@@ -1,0 +1,3 @@
+There are not women. ||Entailment
+There is not an indoor. ||Entailment
+The women are not indoor. ||Entailment

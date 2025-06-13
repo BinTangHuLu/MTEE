@@ -1,0 +1,5 @@
+There is not a person. ||Contradiction
+There is not a jacket. ||Contradiction
+There are not arms. ||Entailment
+The arms are not covered. ||Contradiction
+The person does not have arms. ||Contradiction

@@ -1,0 +1,4 @@
+There is a association. ||Entailment
+There are community. ||Entailment
+The association is big. ||Neutral
+The association is together for night. ||Entailment

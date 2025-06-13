@@ -1,0 +1,5 @@
+There is Traffic. ||entailment
+There is a worker. ||entailment
+There is a road. ||entailment
+The Traffic is being directed by the worker. ||entailment
+The worker is being directed by the road. ||entailment

@@ -1,0 +1,5 @@
+There is not a truck. ||contradiction
+There is not a woman. ||contradiction
+The woman is not blue. ||entailment
+The woman is not standing next to the truck. ||contradiction
+The truck is not surrounded in mud. ||contradiction

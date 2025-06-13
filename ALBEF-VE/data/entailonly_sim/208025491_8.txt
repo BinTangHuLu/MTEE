@@ -1,0 +1,5 @@
+there is a dude ||entailment
+the dude is chatting ||entailment
+the dude holds the beer ||entailment
+the dude is standing with the man ||entailment
+the dude is chatting with the man ||entailment

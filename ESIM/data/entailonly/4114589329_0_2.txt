@@ -1,0 +1,7 @@
+There is a car. ||entailment
+There are pedestrians. ||entailment
+There is a road. ||entailment
+The car is straight. ||contradiction
+The car is proceeding pedestrians. ||neutral
+The pedestrians walked across the road. ||entailment
+The road is in back of the car. ||contradiction

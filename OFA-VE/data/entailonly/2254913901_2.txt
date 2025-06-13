@@ -1,0 +1,5 @@
+There is a woman. ||Entailment
+There is a shop. ||Entailment
+There is a window. ||Entailment
+The woman is standing outside. ||Entailment
+The shop's window belongs to the shop. ||Entailment

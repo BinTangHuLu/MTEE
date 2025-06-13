@@ -1,0 +1,4 @@
+there is lumber ||entailment
+there is a body ||entailment
+the lumber is visible ||entailment
+the lumber is visible in the frame ||entailment

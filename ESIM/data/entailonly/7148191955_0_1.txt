@@ -1,0 +1,3 @@
+There are gentlemen. ||entailment
+The gentlemen are older. ||entailment
+The gentlemen are outside. ||entailment

@@ -1,0 +1,3 @@
+there is a girl ||entailment
+there is a body of water ||entailment
+the girl is by the body of water ||entailment

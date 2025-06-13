@@ -1,0 +1,3 @@
+There is a bike. ||Entailment
+The bike is riding. ||Entailment
+The Person is riding the bike. ||Entailment

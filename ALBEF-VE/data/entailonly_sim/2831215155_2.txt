@@ -1,0 +1,6 @@
+there is a auto ||entailment
+there is a dude ||entailment
+there is a farmland ||entailment
+the auto is blue ||neutral
+the auto is approaching the man ||neutral
+the dude is standing in the field ||entailment

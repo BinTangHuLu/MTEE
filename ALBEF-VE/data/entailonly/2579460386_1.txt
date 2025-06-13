@@ -1,0 +1,3 @@
+there is a dog ||entailment
+there is some water ||entailment
+the dog is in water ||entailment

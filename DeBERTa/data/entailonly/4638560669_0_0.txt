@@ -1,0 +1,5 @@
+There are boys. ||entailment
+There is a street. ||entailment
+There are two boys. ||entailment
+The street is in the middle of. ||entailment
+The boys are talking in the street. ||entailment

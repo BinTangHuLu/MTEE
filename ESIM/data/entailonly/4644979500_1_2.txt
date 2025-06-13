@@ -1,0 +1,4 @@
+There is a group. ||entailment
+There are some people. ||entailment
+There is a car. ||entailment
+The group is turning over the car. ||entailment

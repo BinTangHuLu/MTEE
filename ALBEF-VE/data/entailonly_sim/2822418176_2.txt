@@ -1,0 +1,5 @@
+there is a dude ||entailment
+there is a bronze ||entailment
+the dude is carving ||entailment
+the dude is carving the statue ||neutral
+the bronze is with chainsaw ||neutral

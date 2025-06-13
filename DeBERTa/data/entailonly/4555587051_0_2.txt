@@ -1,0 +1,5 @@
+There are men. ||entailment
+There are five men. ||neutral
+The men are kneeling. ||entailment
+There is a man. ||entailment
+The man puts his hands into air. ||entailment

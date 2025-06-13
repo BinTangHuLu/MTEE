@@ -1,0 +1,4 @@
+there is a surface ||entailment
+there is the earth ||entailment
+the surface is visible ||entailment
+the surface is of the earth ||contradiction

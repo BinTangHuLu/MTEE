@@ -1,0 +1,2 @@
+There is a surfer. ||Entailment
+The surfer jumps. ||Entailment

@@ -1,0 +1,7 @@
+there is a female ||entailment
+there is a athlete ||entailment
+there is a ball ||entailment
+the female is young ||entailment
+the athlete is basketball ||entailment
+the athlete blocks another ||entailment
+another is in custody of the ball ||neutral

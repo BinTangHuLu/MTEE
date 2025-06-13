@@ -1,0 +1,4 @@
+there are not kids ||contradiction
+there are not people ||contradiction
+the people are not older ||entailment
+the kids are not near people ||contradiction

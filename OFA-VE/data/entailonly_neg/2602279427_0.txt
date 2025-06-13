@@ -1,0 +1,4 @@
+There is not a person. ||Contradiction
+There is not an apron. ||Entailment
+The apron is not yellow. ||Entailment
+The person does not have an apron. ||Neutral

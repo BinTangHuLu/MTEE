@@ -1,0 +1,4 @@
+there is a body ||entailment
+there is an smock ||entailment
+the smock is yellow ||entailment
+the body has an apron ||entailment

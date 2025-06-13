@@ -1,0 +1,5 @@
+there is a community ||entailment
+there are members ||entailment
+the members are of the community ||entailment
+the members are gathering out doors ||entailment
+the members are for easter ||neutral

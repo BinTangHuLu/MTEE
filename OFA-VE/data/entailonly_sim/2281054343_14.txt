@@ -1,0 +1,4 @@
+There is a body. ||Entailment
+There are some equipment. ||Contradiction
+The body is in clothing. ||Entailment
+The equipment are meant to convey some kind of information or message. ||Entailment

@@ -1,0 +1,3 @@
+there are workers ||entailment
+there is a lawn ||entailment
+the workers are working on the lawn ||entailment

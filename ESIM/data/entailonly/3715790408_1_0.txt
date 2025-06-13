@@ -1,0 +1,7 @@
+There is a crowd. ||entailment
+There are some people. ||entailment
+The crowd is taking a picture. ||entailment
+The people are taking a picture. ||entailment
+The people are taking a picture. ||entailment
+The people are taking a picture. ||entailment
+The people are taking a picture. ||entailment

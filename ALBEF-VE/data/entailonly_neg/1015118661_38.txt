@@ -1,0 +1,4 @@
+there is not a man ||contradiction
+there is not a boy ||contradiction
+there is not a rockwall ||contradiction
+the man is not standing behind the boy ||entailment

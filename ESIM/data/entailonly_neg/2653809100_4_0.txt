@@ -1,0 +1,3 @@
+There is not a woman. ||contradiction
+There is not a baby. ||contradiction
+The woman is not watching the baby. ||contradiction

@@ -1,0 +1,4 @@
+there are flowers ||entailment
+there is a hallway ||entailment
+the flowers are pretty ||neutral
+the flowers are covered in the hallway ||entailment

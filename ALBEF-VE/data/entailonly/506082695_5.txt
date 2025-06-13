@@ -1,0 +1,3 @@
+there are climbers ||entailment
+there is outside ||entailment
+the climbers are climbing outside ||entailment

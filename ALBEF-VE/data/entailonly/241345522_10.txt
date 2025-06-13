@@ -1,0 +1,4 @@
+there is someone ||entailment
+there is a shot ||entailment
+there is a football ||entailment
+the someone is holding the football ||entailment

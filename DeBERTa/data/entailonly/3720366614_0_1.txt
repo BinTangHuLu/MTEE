@@ -1,0 +1,4 @@
+There is an animal. ||entailment
+The animal is small. ||entailment
+There is plant life. ||entailment
+The animal is trying to get plant life. ||entailment

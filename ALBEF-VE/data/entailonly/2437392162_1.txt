@@ -1,0 +1,6 @@
+there are tunnels ||entailment
+there is a park ||entailment
+there are children ||entailment
+the tunnels are bright blue ||neutral
+the tunnels are in the park ||neutral
+the children are playing in the park ||neutral

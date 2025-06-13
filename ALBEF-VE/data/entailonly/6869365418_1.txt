@@ -1,0 +1,4 @@
+there are parents ||entailment
+there are kids ||entailment
+the kids dodge water ||entailment
+the parents watch their kids ||entailment

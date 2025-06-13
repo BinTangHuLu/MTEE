@@ -1,0 +1,5 @@
+there are boys ||entailment
+there is a house ||entailment
+the boys are many ||entailment
+the boys are outside ||entailment
+the boys bounce house ||neutral

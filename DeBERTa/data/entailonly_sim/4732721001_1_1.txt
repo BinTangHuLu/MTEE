@@ -1,0 +1,6 @@
+There is a female. ||entailment
+There is a bank. ||neutral
+The female is walking. ||entailment
+The female is talking on phone. ||entailment
+The female walks through the store. ||entailment
+The female is talking on the phone. ||entailment

@@ -1,0 +1,4 @@
+there is a dude ||entailment
+there is a blouse ||entailment
+the blouse is on ||entailment
+the dude is with the shirt ||entailment

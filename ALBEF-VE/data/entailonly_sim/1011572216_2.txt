@@ -1,0 +1,4 @@
+there is a set ||neutral
+there is a architecture ||entailment
+the set is married ||neutral
+the set is walking next to the building ||entailment

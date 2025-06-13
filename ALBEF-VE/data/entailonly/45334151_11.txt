@@ -1,0 +1,5 @@
+there is a lady ||entailment
+there is a laundromat ||entailment
+the lady is young ||neutral
+the lady is waiting for something ||entailment
+the lady is at the laundromat ||entailment

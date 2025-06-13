@@ -1,0 +1,3 @@
+there is a dog ||entailment
+the dog is about to cause ||neutral
+the dog is about to cause a splash ||entailment

@@ -1,0 +1,5 @@
+there are not men ||contradiction
+there are not suits ||contradiction
+there is not a park ||contradiction
+the men are not in the park ||contradiction
+the suits are not in ||neutral

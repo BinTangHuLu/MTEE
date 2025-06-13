@@ -1,0 +1,4 @@
+There is not someone. ||Contradiction
+There are not some muscles. ||Contradiction
+The muscles are not flexing. ||Contradiction
+Someone is not flexing their muscles. ||Neutral

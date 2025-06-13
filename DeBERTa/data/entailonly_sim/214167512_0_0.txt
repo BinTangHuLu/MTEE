@@ -1,0 +1,7 @@
+There is a child. ||entailment
+The child is young. ||entailment
+The child is smiling. ||entailment
+The child is holding. ||entailment
+The child is holding with one hand. ||entailment
+There is an bodily. ||entailment
+The child is holding an animal. ||entailment

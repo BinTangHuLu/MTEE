@@ -1,0 +1,3 @@
+There are community. ||Entailment
+There is a control. ||Entailment
+There is a architecture. ||Entailment

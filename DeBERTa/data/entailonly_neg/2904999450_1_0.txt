@@ -1,0 +1,2 @@
+There is not a basket. ||contradiction
+The basket is not woven. ||contradiction

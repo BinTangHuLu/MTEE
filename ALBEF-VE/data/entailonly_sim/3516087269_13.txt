@@ -1,0 +1,5 @@
+there is a child ||entailment
+there is a child ||entailment
+there is a metro ||entailment
+the child is leaning over in front of the boy ||contradiction
+the child is in front of the subway ||entailment

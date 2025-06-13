@@ -1,0 +1,4 @@
+There are People. ||Entailment
+There are bikes. ||Entailment
+The bikes are parked. ||Entailment
+People walk by bikes. ||Entailment

@@ -1,0 +1,3 @@
+there are not people ||contradiction
+there is not a meal ||contradiction
+the people are not having the meal ||entailment

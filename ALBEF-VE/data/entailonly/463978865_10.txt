@@ -1,0 +1,5 @@
+there are boys ||entailment
+there is traffic ||entailment
+there is a sidewalk ||entailment
+the boys are watching traffic ||entailment
+the boys are watching traffic from the sidewalk ||neutral

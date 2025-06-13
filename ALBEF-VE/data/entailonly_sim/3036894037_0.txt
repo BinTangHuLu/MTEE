@@ -1,0 +1,6 @@
+there is a body ||entailment
+there are force men ||entailment
+there are staircase ||entailment
+the body is old ||neutral
+the body is next to police men ||entailment
+the force men are on steps ||entailment

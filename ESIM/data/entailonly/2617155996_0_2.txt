@@ -1,0 +1,5 @@
+There are men. ||entailment
+There is a machine. ||entailment
+There is a wall. ||entailment
+The men work on the machine. ||entailment
+The machine is on the wall. ||entailment

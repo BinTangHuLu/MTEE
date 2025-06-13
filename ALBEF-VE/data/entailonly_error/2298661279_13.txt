@@ -1,0 +1,2 @@
+A,arriving
+R,is arriving at

@@ -1,0 +1,5 @@
+there is not a man ||contradiction
+there are not some items ||contradiction
+there is not a street ||contradiction
+the man is not selling items ||contradiction
+the items are not on the street ||contradiction

@@ -1,0 +1,4 @@
+there is a child ||entailment
+there is a man ||entailment
+the child is young ||neutral
+the child is outside with the man ||entailment

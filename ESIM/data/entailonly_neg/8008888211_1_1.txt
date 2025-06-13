@@ -1,0 +1,3 @@
+There are not Cheerleaders. ||contradiction
+The Cheerleaders do not pass out t shirts. ||contradiction
+The t shirts are not rolled up. ||contradiction

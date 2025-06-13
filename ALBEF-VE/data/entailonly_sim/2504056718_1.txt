@@ -1,0 +1,2 @@
+there is a pup ||entailment
+the pup can jump ||entailment

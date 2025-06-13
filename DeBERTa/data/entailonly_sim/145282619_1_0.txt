@@ -1,0 +1,5 @@
+There is a dude. ||entailment
+There are some wares. ||neutral
+The dude is cooking. ||entailment
+The wares are a lot of. ||neutral
+The dude is cooking with pots. ||entailment

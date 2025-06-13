@@ -1,0 +1,6 @@
+there is a dude ||entailment
+there is some crop ||entailment
+there is a child ||entailment
+the child is young ||neutral
+the dude is picking out produce ||neutral
+the dude is with the young boy ||entailment

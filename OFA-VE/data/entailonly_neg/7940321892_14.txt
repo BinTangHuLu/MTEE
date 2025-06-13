@@ -1,0 +1,3 @@
+There is not a car. ||Contradiction
+There is not a race. ||Contradiction
+The car is not in the race. ||Neutral

@@ -1,0 +1,7 @@
+there is a boy ||entailment
+there is a sweatshirt ||entailment
+there is a pumpkin ||entailment
+the boy is young ||entailment
+the sweatshirt is blue ||entailment
+the boy is in the sweatshirt ||entailment
+the boy holds the pumpkin ||entailment

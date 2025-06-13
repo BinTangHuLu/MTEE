@@ -1,0 +1,4 @@
+there is a man ||entailment
+there is a sidewalk ||entailment
+the day is during ||entailment
+the man sweeps the sidewalk ||entailment

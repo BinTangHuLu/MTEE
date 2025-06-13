@@ -1,0 +1,3 @@
+there is a person ||entailment
+there is a posting ||entailment
+the person is near posting ||entailment

@@ -1,0 +1,10 @@
+there is a sun ||entailment
+there is a boy ||entailment
+there are soap bubbles ||entailment
+there are rocks ||entailment
+there is a bay ||entailment
+the sun is setting ||entailment
+the boy is blowing soap bubbles ||entailment
+the boy is blowing soap bubbles ||entailment
+the soap bubbles are by rocks ||entailment
+the soap bubbles are at bay ||neutral

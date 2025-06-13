@@ -1,0 +1,5 @@
+there is a man ||entailment
+there is a knife ||entailment
+there are hands ||entailment
+the man has a knife ||entailment
+the knife is in hands ||entailment

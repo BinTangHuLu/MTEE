@@ -1,0 +1,3 @@
+there is a soccer team ||neutral
+there is a match ||entailment
+the soccer team plays a match ||entailment

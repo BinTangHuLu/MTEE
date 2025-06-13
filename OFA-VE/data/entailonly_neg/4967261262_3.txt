@@ -1,0 +1,4 @@
+There are not gymnasts. ||Contradiction
+There is not some stuff. ||Contradiction
+The stuff is not gym. ||Contradiction
+The gymnasts are not doing stuff. ||Contradiction

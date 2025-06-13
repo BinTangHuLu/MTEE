@@ -1,0 +1,9 @@
+There is not a dog. ||contradiction
+There is not a road. ||contradiction
+There is not a ball. ||contradiction
+The dog is not running. ||contradiction
+The road is not leaf covered. ||contradiction
+The dog is not carrying. ||contradiction
+The ball is not in its mouth. ||contradiction
+The dog is not running down the road. ||contradiction
+The dog is not carrying the ball. ||contradiction

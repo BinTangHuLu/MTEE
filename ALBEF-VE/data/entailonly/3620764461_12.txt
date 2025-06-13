@@ -1,0 +1,4 @@
+there are children ||entailment
+there are games ||entailment
+the games are childish ||neutral
+the children are playing games ||entailment

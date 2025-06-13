@@ -1,0 +1,5 @@
+There is a picture. ||Entailment
+There are some people. ||Entailment
+There is a building. ||Entailment
+The picture is of people. ||Entailment
+The picture is taken near the building. ||Entailment

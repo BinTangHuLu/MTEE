@@ -1,0 +1,7 @@
+There is not a man. ||contradiction
+There are not some glasses. ||contradiction
+There is not a cap. ||contradiction
+The glasses are not wearing. ||contradiction
+The cap is not wearing. ||contradiction
+The man is not wearing glasses. ||contradiction
+The man is not wearing a cap. ||contradiction

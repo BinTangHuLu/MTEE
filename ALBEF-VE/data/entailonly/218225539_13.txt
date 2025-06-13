@@ -1,0 +1,6 @@
+there is a couple ||entailment
+there are people ||entailment
+there is water ||entailment
+there are mountains ||entailment
+the people enjoy water ||entailment
+the water is near mountains ||entailment

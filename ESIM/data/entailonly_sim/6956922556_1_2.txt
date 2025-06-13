@@ -1,0 +1,4 @@
+There are adolescent. ||entailment
+There are two adolescent. ||entailment
+The adolescent are doing pose. ||entailment
+The mannerism is same. ||contradiction

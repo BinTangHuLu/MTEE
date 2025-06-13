@@ -1,0 +1,3 @@
+there is equipment ||entailment
+there is a gig ||entailment
+the equipment is strewn about the concert ||entailment

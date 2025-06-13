@@ -1,0 +1,2 @@
+EA,child,is playing
+E1RE2,child,is playing,in sand

@@ -1,0 +1,3 @@
+There is a group. ||entailment
+There are some officers. ||entailment
+The group are standing officers. ||entailment

@@ -1,0 +1,4 @@
+There are community. ||neutral
+There is a apartment. ||neutral
+The apartment is taking pictures. ||neutral
+The community are in the house. ||neutral

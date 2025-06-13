@@ -1,0 +1,6 @@
+there is a girl ||entailment
+there is a face ||entailment
+there is some finger paint ||entailment
+the girl is with finger paint on her face ||entailment
+the face has finger paint ||neutral
+the girl is laughing ||entailment

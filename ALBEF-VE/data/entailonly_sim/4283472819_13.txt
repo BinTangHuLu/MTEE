@@ -1,0 +1,2 @@
+there is a ceiling ||entailment
+the skier skis off of the ceiling ||entailment

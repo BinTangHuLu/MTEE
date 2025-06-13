@@ -1,0 +1,3 @@
+there are community ||entailment
+there is an access ||entailment
+the community are watching the entrance ||neutral

@@ -1,0 +1,3 @@
+there is a dog ||entailment
+the dog runs ||entailment
+the dog runs outside ||entailment

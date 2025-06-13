@@ -1,0 +1,8 @@
+There is a woman. ||entailment
+The woman is green. ||neutral
+There is a box. ||entailment
+The woman is opening the box. ||entailment
+The man is half concealed. ||contradiction
+There is a device. ||entailment
+The device is handheld. ||entailment
+The man manipulates the device. ||contradiction

@@ -1,0 +1,7 @@
+there is a woman ||entailment
+there are some clothes ||entailment
+there is a drum ||entailment
+the clothes are colorful ||entailment
+the woman is playing ||entailment
+the woman is in clothes ||entailment
+the woman is playing a drum ||neutral

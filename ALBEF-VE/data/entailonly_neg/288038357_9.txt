@@ -1,0 +1,9 @@
+there is not a man ||contradiction
+there is not a jacket ||contradiction
+there is not a roof ||contradiction
+there is not a ledge ||contradiction
+the jacket is not white ||contradiction
+the ledge is not wooden ||entailment
+the man is not standing on top of the roof ||entailment
+the man is not standing on the ledge ||entailment
+the ledge is not outside the roof ||entailment

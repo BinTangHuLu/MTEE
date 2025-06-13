@@ -1,0 +1,3 @@
+there is a girl ||entailment
+there is a group ||entailment
+the girl is jumping over each other ||neutral

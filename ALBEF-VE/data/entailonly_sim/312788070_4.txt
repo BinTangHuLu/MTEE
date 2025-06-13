@@ -1,0 +1,3 @@
+there is a soccer athlete ||entailment
+there is a agreeable ||entailment
+the soccer athlete was in the midst of the game ||entailment

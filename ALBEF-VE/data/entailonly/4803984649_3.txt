@@ -1,0 +1,4 @@
+there is a man ||entailment
+there are hands ||entailment
+his hands are his ||neutral
+the man is holding out hands ||entailment

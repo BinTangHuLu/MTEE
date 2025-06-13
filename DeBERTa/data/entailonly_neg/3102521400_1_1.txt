@@ -1,0 +1,7 @@
+There is not a guy. ||contradiction
+There is not a wall. ||contradiction
+There is not a flier. ||contradiction
+The guy is not smoking. ||contradiction
+The guy is not against the wall. ||contradiction
+The wall is not with the flier. ||contradiction
+The flier is on itnot . ||contradiction

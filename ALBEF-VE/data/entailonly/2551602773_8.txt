@@ -1,0 +1,3 @@
+there are people ||entailment
+there is an airplane ||entailment
+the people are leaving the airplane ||entailment

@@ -1,0 +1,3 @@
+there is a restaurant ||entailment
+there are customers ||entailment
+the restaurant is filled with customers ||entailment

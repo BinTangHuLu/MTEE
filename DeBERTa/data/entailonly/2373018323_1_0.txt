@@ -1,0 +1,5 @@
+There is a man. ||entailment
+There is a flip. ||entailment
+There is a wall. ||entailment
+The man does flip. ||entailment
+The man is off wall. ||entailment

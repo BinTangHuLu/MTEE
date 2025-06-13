@@ -1,0 +1,5 @@
+there is a body ||entailment
+there is a pedal ||entailment
+there is a architecture ||entailment
+the body rides the bike ||entailment
+the pedal is near the building ||entailment

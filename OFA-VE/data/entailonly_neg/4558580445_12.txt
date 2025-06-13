@@ -1,0 +1,2 @@
+There are not horses. ||Entailment
+The horses are not multiple. ||Entailment

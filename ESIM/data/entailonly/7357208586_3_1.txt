@@ -1,0 +1,3 @@
+There is a cyclist. ||entailment
+There is a road. ||entailment
+The cyclist rides down the road. ||entailment

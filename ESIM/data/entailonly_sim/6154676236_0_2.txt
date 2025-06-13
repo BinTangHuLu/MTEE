@@ -1,0 +1,4 @@
+There is a child. ||entailment
+There is a dude. ||contradiction
+The child is dancing. ||contradiction
+The dude is take a photo. ||contradiction

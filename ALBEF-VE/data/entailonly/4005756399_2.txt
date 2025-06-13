@@ -1,0 +1,11 @@
+there is a man ||entailment
+there are some things ||entailment
+there are kids ||entailment
+there are wheels ||entailment
+there is a cart ||entailment
+there are streets ||entailment
+the things are selling ||entailment
+the man is selling things ||entailment
+the things are for kids ||neutral
+the man is wheels cart ||entailment
+the cart is around streets ||entailment

@@ -1,0 +1,6 @@
+there is not a boy ||contradiction
+there is not a shovel ||contradiction
+there is not an ocean ||contradiction
+the boy is not young ||contradiction
+the boy does not hold a shovel ||contradiction
+the shovel is not close to the ocean ||contradiction

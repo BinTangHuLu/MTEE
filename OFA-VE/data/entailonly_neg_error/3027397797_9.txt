@@ -1,0 +1,3 @@
+A,navigating
+RE2,on,wheels
+RE2,is navigating,the street

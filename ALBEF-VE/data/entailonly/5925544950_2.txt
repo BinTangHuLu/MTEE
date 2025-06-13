@@ -1,0 +1,4 @@
+there is a woman ||entailment
+there is a cap ||entailment
+the cap is red ||entailment
+the woman is in the cap ||contradiction

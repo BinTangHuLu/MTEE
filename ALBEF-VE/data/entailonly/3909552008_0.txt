@@ -1,0 +1,3 @@
+there are guys ||entailment
+there are power lines ||entailment
+the guys fix power lines ||entailment

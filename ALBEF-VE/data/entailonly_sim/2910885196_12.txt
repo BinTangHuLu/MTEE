@@ -1,0 +1,5 @@
+there is a dude ||entailment
+there is a bayonet ||entailment
+there are band ||entailment
+the dude has a knife ||entailment
+the bayonet is in hands ||entailment

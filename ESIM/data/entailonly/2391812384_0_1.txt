@@ -1,0 +1,4 @@
+There is a child. ||entailment
+The child splashes. ||entailment
+The child is water. ||entailment
+The child splashes water. ||entailment

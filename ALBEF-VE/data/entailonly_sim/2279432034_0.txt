@@ -1,0 +1,6 @@
+there are artist ||entailment
+there is a bit ||entailment
+there is a amphitheater hall ||entailment
+the bit is musical ||entailment
+the artist perform the piece ||neutral
+the bit is at the theater hall ||entailment

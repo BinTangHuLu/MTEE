@@ -1,0 +1,5 @@
+There are Men. ||entailment
+There is food. ||entailment
+There is a sidewalk. ||entailment
+The Men are selling food. ||entailment
+The Men are selling sidewalk. ||entailment

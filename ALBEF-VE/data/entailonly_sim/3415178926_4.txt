@@ -1,0 +1,3 @@
+there is a dude ||entailment
+there is a pup ||entailment
+the dude is playing with the dog ||entailment

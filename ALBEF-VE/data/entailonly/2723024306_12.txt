@@ -1,0 +1,3 @@
+there is a creation ||entailment
+there is water ||entailment
+the creation is near water ||entailment

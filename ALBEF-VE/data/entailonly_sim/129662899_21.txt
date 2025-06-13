@@ -1,0 +1,6 @@
+there is a dude ||entailment
+there are specs ||neutral
+there is a cylinder ||entailment
+the cylinder is large ||neutral
+the dude is wearing sunglasses ||neutral
+the dude is standing near the spool ||entailment

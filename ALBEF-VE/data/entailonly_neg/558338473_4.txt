@@ -1,0 +1,5 @@
+there are not men ||contradiction
+there are not two men ||contradiction
+there is not an arts ||contradiction
+the arts are not martial ||contradiction
+the men do not practice arts ||contradiction

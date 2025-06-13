@@ -1,0 +1,4 @@
+there is a child ||entailment
+there are some knickers ||neutral
+the knickers are wearing ||neutral
+the child is wearing shorts ||neutral

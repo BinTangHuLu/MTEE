@@ -1,0 +1,3 @@
+There is a girl. ||Entailment
+The girl is playing. ||Entailment
+The girl is playing outside. ||Entailment

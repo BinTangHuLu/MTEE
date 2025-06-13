@@ -1,0 +1,3 @@
+there are children ||entailment
+the children are fun ||neutral
+the children are having fun ||neutral

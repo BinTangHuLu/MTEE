@@ -1,0 +1,3 @@
+there is a female ||entailment
+there are some specs ||neutral
+the female is wearing goggles ||entailment

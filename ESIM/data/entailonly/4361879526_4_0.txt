@@ -1,0 +1,5 @@
+There are people. ||entailment
+There is a scaffold. ||entailment
+The people are two. ||entailment
+The scaffold is wooden. ||entailment
+The people are climbing on scaffold. ||entailment

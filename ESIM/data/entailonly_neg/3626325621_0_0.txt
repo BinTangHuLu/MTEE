@@ -1,0 +1,6 @@
+There is not a man. ||contradiction
+There is not an opening. ||contradiction
+There is not a tree. ||contradiction
+The opening is not large. ||contradiction
+The man is not at the opening. ||contradiction
+The opening is not of the tree. ||entailment

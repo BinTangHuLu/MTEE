@@ -1,0 +1,4 @@
+there is a girl ||entailment
+there is a shirt ||entailment
+the shirt is white ||entailment
+the girl has on shirt ||entailment

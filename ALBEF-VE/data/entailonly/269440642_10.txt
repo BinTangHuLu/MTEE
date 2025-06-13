@@ -1,0 +1,3 @@
+there are friends ||entailment
+there are others ||entailment
+friends are dancing with others ||neutral

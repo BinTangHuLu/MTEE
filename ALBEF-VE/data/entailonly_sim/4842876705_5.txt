@@ -1,0 +1,4 @@
+there is a artist ||entailment
+there is a avenue ||entailment
+the artist is street ||entailment
+the artist is smoking street ||entailment

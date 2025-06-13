@@ -1,0 +1,2 @@
+There is a set. ||Entailment
+The set was there. ||Entailment

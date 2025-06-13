@@ -1,0 +1,3 @@
+There is not a child. ||Contradiction
+There is not a steer. ||Entailment
+The child is not holding the steer. ||Entailment

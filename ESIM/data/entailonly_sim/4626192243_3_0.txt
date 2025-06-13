@@ -1,0 +1,6 @@
+There is a dude. ||entailment
+There is a avenue. ||entailment
+There is another dude. ||entailment
+The dude is prone. ||neutral
+The dude is on the street. ||entailment
+Another dude stands next to the man. ||entailment

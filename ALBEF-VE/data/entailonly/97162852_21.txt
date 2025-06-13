@@ -1,0 +1,3 @@
+there is a man ||entailment
+there is a garment ||entailment
+the man sews garment ||neutral

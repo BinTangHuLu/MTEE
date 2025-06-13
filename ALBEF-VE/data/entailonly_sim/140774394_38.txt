@@ -1,0 +1,5 @@
+there is a dude ||entailment
+there are lumber blocks ||neutral
+there is a civic ||entailment
+the dude is cutting and carving wood blocks ||contradiction
+the lumber blocks are in public ||entailment

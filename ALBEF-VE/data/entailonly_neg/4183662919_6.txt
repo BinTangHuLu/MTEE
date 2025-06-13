@@ -1,0 +1,3 @@
+there is not a girl ||contradiction
+there are not some boots ||contradiction
+the girl does not clean boots ||contradiction

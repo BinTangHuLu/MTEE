@@ -1,0 +1,4 @@
+There is a Man. ||Entailment
+There is a roof. ||Entailment
+The Man is working. ||Entailment
+The Man is working on the roof. ||Entailment

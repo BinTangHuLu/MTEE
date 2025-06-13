@@ -1,0 +1,5 @@
+there is a woman ||entailment
+there are footsteps ||entailment
+there is a beach ||entailment
+the woman retraces footsteps ||entailment
+the footsteps are at the beach ||entailment

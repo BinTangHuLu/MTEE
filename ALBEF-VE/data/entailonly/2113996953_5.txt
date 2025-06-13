@@ -1,0 +1,9 @@
+there is a woman ||entailment
+there is a curb ||entailment
+there is a hat ||entailment
+there are some baskets ||entailment
+the hat has fruit on it ||entailment
+the baskets have on it ||entailment
+the woman is sitting on the curb ||entailment
+the woman is wearing the hat ||entailment
+the baskets are on the curb ||entailment

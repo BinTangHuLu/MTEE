@@ -1,0 +1,4 @@
+There is a force officer. ||entailment
+There is a box. ||contradiction
+The force officer is moving. ||entailment
+The force officer is moving mouth. ||entailment

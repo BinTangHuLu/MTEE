@@ -1,0 +1,4 @@
+There are curve. ||Contradiction
+There are community. ||Entailment
+The curve are multiple. ||Contradiction
+The curve are of people. ||Entailment

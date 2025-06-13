@@ -1,0 +1,7 @@
+There is not a group. ||contradiction
+There are not some people. ||contradiction
+There is not some music. ||contradiction
+There is not an outdoors. ||contradiction
+The group is not old. ||contradiction
+The group is not playing music. ||contradiction
+The people are not playing music. ||contradiction

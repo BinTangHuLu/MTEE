@@ -1,0 +1,4 @@
+there is a association ||entailment
+there are some community ||entailment
+there is an band ||entailment
+the association is in orchestra ||entailment

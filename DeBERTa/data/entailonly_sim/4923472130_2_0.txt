@@ -1,0 +1,4 @@
+There is a body. ||entailment
+There is a blouse. ||entailment
+The blouse is red. ||entailment
+The body wears the shirt. ||entailment

@@ -1,0 +1,3 @@
+There is a female. ||Entailment
+There is a armchair. ||Entailment
+The female is sitting in the chair. ||Entailment

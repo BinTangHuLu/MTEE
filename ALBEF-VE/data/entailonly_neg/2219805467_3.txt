@@ -1,0 +1,5 @@
+there is not a dog ||contradiction
+there is not a ball ||contradiction
+there is not an ocean ||contradiction
+the dog is not playing with the ball ||contradiction
+the ball is not by the ocean ||contradiction

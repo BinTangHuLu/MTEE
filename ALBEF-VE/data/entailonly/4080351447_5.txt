@@ -1,0 +1,4 @@
+there is a man ||entailment
+there is a kitchen ||entailment
+the man is looking ||entailment
+the man is looking at the camera ||entailment

@@ -1,0 +1,5 @@
+there is a bronze ||entailment
+there is a dude ||entailment
+there is a access ||entailment
+the bronze is of a man ||neutral
+the bronze is on the staircase ||neutral

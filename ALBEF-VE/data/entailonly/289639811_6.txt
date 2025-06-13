@@ -1,0 +1,5 @@
+there are men ||entailment
+there is soccer ||entailment
+there is a stadium ||entailment
+men play soccer ||entailment
+soccer is in stadium ||entailment

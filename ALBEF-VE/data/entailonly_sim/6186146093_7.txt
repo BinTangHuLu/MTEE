@@ -1,0 +1,4 @@
+there are community ||entailment
+there is a annoy ||entailment
+the annoy is bicycle ||entailment
+the community are looking at tire ||entailment

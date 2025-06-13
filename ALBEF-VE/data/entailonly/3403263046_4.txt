@@ -1,0 +1,3 @@
+there is a female ||entailment
+there are some clothes ||neutral
+the female has clothes ||entailment

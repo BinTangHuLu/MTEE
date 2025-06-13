@@ -1,0 +1,3 @@
+there is a body ||entailment
+there is a asylum ||entailment
+the body is in shelter ||entailment

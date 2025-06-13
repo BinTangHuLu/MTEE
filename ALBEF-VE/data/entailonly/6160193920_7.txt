@@ -1,0 +1,4 @@
+there is a lady ||entailment
+there is a shirt ||entailment
+the shirt is blue ||entailment
+the lady is wearing a shirt ||entailment

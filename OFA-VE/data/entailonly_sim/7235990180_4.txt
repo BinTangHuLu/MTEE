@@ -1,0 +1,4 @@
+There is a animal. ||Contradiction
+There is an article. ||Entailment
+The animal is Two. ||Contradiction
+The animal is making facial expressions. ||Contradiction

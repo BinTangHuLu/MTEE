@@ -1,0 +1,3 @@
+There is a dude. ||Entailment
+The dude is with the sweater. ||Neutral
+The dude is outdoors. ||Entailment

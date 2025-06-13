@@ -1,0 +1,4 @@
+there are not people ||contradiction
+there are not microphones ||contradiction
+the people are not singing ||contradiction
+the people are not singing into microphones ||contradiction

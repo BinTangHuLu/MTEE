@@ -1,0 +1,3 @@
+There is a body. ||Entailment
+There is some bread. ||Contradiction
+The body is with food. ||Entailment

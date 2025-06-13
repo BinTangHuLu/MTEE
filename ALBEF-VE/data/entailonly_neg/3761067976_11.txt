@@ -1,0 +1,6 @@
+there is not a girl ||contradiction
+there is not a ribbon ||contradiction
+there is not a dress ||contradiction
+the dress is not yellow ||contradiction
+the girl does not have a ribbon ||contradiction
+the girl does not have a dress ||contradiction

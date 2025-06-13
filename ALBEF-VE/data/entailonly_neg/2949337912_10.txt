@@ -1,0 +1,4 @@
+there is not a surfer ||contradiction
+there is not a wave ||contradiction
+the wave is not green ||contradiction
+the surfer was not riding the wave ||contradiction

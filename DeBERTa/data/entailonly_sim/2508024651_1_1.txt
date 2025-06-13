@@ -1,0 +1,7 @@
+There is a body. ||contradiction
+There is orange alcohol. ||entailment
+There is an field. ||contradiction
+The body is polka dot. ||entailment
+The field is caution. ||entailment
+The body is handing out orange juice. ||entailment
+The body is behind the area. ||contradiction

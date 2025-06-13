@@ -1,0 +1,5 @@
+there are not musicians ||contradiction
+there is not music ||contradiction
+there is not a park ||contradiction
+the musicians do not play music ||contradiction
+the musicians are not at the park ||contradiction

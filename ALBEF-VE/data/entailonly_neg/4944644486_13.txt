@@ -1,0 +1,4 @@
+there is not a line ||contradiction
+there is not a statue ||entailment
+there is not a gorilla ||contradiction
+the line is not near the statue ||contradiction

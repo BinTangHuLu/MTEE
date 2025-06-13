@@ -1,0 +1,3 @@
+there are cars ||entailment
+there are each other ||entailment
+the cars race each other ||entailment

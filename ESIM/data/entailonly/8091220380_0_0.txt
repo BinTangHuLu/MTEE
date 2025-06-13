@@ -1,0 +1,3 @@
+There are dancers. ||entailment
+The dancers are belly. ||entailment
+The dancers perform Two. ||entailment

@@ -1,0 +1,2 @@
+There are auto. ||Entailment
+The auto are lining up. ||Entailment

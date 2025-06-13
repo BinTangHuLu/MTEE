@@ -1,0 +1,3 @@
+there is a man ||entailment
+there is a machine ||entailment
+the man is examining the machine ||entailment

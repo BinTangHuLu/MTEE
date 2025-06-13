@@ -1,0 +1,2 @@
+There are cats. ||Entailment
+The cats are outside. ||Entailment

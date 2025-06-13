@@ -1,0 +1,3 @@
+there is a pup ||entailment
+the pup is brown ||entailment
+the pup is going to get wet ||entailment

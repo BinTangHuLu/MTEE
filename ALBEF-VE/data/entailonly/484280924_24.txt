@@ -1,0 +1,3 @@
+there is a cook ||entailment
+there is a stove ||entailment
+the cook is standing in front of the stove ||entailment

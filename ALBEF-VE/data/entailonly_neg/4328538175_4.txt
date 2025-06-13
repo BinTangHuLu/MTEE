@@ -1,0 +1,3 @@
+there are not people ||contradiction
+there is not something ||contradiction
+people are work on somethingnot ||entailment

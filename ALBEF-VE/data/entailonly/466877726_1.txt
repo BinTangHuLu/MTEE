@@ -1,0 +1,5 @@
+there are men ||entailment
+there are bricks ||entailment
+there is a road ||entailment
+the men take bricks ||entailment
+the bricks are taken from the road ||entailment

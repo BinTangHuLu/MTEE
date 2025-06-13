@@ -1,0 +1,5 @@
+There is a auto. ||Entailment
+There is a artery. ||Contradiction
+The auto is red. ||Entailment
+The auto is going very fast. ||Entailment
+The auto is on road. ||Entailment

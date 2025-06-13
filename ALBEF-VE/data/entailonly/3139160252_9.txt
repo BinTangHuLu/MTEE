@@ -1,0 +1,6 @@
+there are girls ||entailment
+there is a dresser ||entailment
+there is a tree ||entailment
+the girls are three ||neutral
+the girls pose beside the dresser ||entailment
+the dresser is with the tree ||entailment

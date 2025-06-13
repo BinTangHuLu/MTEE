@@ -1,0 +1,3 @@
+There is not a game. ||Contradiction
+There is not a baseball. ||Entailment
+The game is not in progress. ||Contradiction

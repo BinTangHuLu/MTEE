@@ -1,0 +1,4 @@
+there is a association ||entailment
+there are some community ||neutral
+the community are playing ||entailment
+the community are playing with the ball ||entailment

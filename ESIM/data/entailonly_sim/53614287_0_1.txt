@@ -1,0 +1,6 @@
+There is a child. ||entailment
+There is a relative. ||entailment
+The child is playing. ||entailment
+The relative loves. ||neutral
+The child is playing Nintendo DS. ||entailment
+The child loves the sister. ||neutral

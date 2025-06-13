@@ -1,0 +1,4 @@
+there is a dude ||entailment
+there is a development ||entailment
+the dude drives the atv ||entailment
+the atv is on the development ||neutral

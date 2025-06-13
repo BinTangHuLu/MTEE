@@ -1,0 +1,5 @@
+there are not men ||entailment
+there is not a game ||contradiction
+there is not water ||contradiction
+men are not playing a game ||contradiction
+the game is not in water ||entailment

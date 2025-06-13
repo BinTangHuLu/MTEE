@@ -1,0 +1,6 @@
+There is a body. ||entailment
+There is a link. ||entailment
+The body is clad in denim. ||entailment
+The body works on the bridge. ||entailment
+The body is working on the bridge. ||entailment
+The body is working outdoors. ||entailment

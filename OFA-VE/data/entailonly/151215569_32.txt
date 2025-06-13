@@ -1,0 +1,5 @@
+There is a girl. ||Entailment
+There is a man. ||Contradiction
+There are shoulders. ||Entailment
+The girl rides on shoulders. ||Entailment
+The man possesses the girl. ||Contradiction

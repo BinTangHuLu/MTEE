@@ -1,0 +1,4 @@
+there are clan ||entailment
+there is a characteristic ||entailment
+the characteristic is local ||neutral
+the clan are learning a custom ||entailment

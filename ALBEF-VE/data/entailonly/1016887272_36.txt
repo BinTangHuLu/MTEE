@@ -1,0 +1,3 @@
+there is a group ||entailment
+there are people ||entailment
+the group are rock climbing ||entailment

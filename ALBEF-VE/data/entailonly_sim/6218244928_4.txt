@@ -1,0 +1,4 @@
+there is a association ||entailment
+there are some community ||entailment
+there is some apparatus ||entailment
+the association is setting up equipment ||entailment

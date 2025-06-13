@@ -1,0 +1,5 @@
+There is a person. ||entailment
+There are some tricks. ||entailment
+There is a crowd. ||entailment
+The person is doing tricks. ||entailment
+The person is in front of the crowd. ||entailment

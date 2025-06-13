@@ -1,0 +1,3 @@
+there is a juvenile ||entailment
+the juvenile does trick ||entailment
+the conspiracy is on skateboard ||contradiction

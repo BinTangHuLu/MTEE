@@ -1,0 +1,7 @@
+there is a person ||entailment
+there is a hat ||entailment
+there is some snow ||entailment
+the hat is blue ||contradiction
+the person is in the hat ||entailment
+the person goes snowshoeing ||entailment
+snowshoeing is in the snow ||entailment

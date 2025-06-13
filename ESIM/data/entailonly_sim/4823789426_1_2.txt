@@ -1,0 +1,3 @@
+There are boy. ||entailment
+The boy have colorful clothes. ||entailment
+The boy stand together. ||contradiction

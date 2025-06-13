@@ -1,0 +1,2 @@
+There is an Animal. ||entailment
+The Animal is outdoors. ||entailment

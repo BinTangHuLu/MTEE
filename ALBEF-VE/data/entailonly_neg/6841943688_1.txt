@@ -1,0 +1,4 @@
+there is not a man ||contradiction
+there is not a saxophone ||contradiction
+the man is not with saxophone ||contradiction
+the man does not play saxophone ||contradiction

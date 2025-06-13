@@ -1,0 +1,4 @@
+there are not workers ||contradiction
+there is not some trash ||contradiction
+the workers do not pick up trash ||contradiction
+the trash is not outside ||contradiction

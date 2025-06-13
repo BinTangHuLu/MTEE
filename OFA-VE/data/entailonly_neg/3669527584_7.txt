@@ -1,0 +1,8 @@
+There is not a female. ||Entailment
+There are not fingers. ||Contradiction
+There is not a culture. ||Contradiction
+There is not a head piece. ||Contradiction
+The female is not very colorfully robed. ||Entailment
+The fingers are not painted red. ||Contradiction
+The female is not with fingers. ||Entailment
+The female does not have on head piece. ||Contradiction

@@ -1,0 +1,8 @@
+there is not a person ||contradiction
+there are not some beer bottles ||contradiction
+there is not a flag ||contradiction
+there are not some glasses ||contradiction
+the flag is not england ||contradiction
+the person does not have beer bottles ||contradiction
+the person does not have a flag ||contradiction
+the person does not have glasses ||contradiction

@@ -1,0 +1,6 @@
+there is not a man ||contradiction
+there is not some clothing ||contradiction
+there is not a mask ||contradiction
+the clothing is not black ||contradiction
+the man is not wearing clothing ||contradiction
+the man is not wearing a mask ||contradiction

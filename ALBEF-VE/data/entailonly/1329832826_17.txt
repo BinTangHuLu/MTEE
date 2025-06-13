@@ -1,0 +1,3 @@
+there is a sign ||entailment
+there is neon ||entailment
+the sign is neon ||neutral

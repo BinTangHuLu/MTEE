@@ -1,0 +1,4 @@
+There are dude. ||Entailment
+All dude wear formal. ||Contradiction
+dude wear similar. ||Contradiction
+dude are dress in wear. ||Contradiction

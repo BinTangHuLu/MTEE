@@ -1,0 +1,4 @@
+There are driver. ||neutral
+There is a pedal. ||entailment
+The pedal is dirt. ||entailment
+The driver are outside. ||entailment

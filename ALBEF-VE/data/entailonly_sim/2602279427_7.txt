@@ -1,0 +1,4 @@
+there is a female ||entailment
+there is a fedora ||contradiction
+there is a avenue ||entailment
+the female walks down the street ||entailment

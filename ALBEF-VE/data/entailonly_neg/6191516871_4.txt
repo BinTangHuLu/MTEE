@@ -1,0 +1,3 @@
+there are not monks ||contradiction
+there is not a floor ||contradiction
+the monks are not kneeling on the floor ||contradiction

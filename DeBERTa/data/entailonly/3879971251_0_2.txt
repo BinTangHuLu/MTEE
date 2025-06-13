@@ -1,0 +1,5 @@
+There is a person. ||entailment
+There are children. ||entailment
+The person is outside. ||entailment
+The person is with children. ||entailment
+The children are playing. ||entailment

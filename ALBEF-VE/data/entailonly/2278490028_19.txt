@@ -1,0 +1,3 @@
+there is a group ||entailment
+there is an activity ||entailment
+the group takes part in the activity ||entailment

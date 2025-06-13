@@ -1,0 +1,4 @@
+there are not teenagers ||contradiction
+there is not a store ||contradiction
+the teenagers are not outside ||contradiction
+the teenagers are not outside of the store ||contradiction

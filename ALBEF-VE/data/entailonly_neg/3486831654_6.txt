@@ -1,0 +1,2 @@
+there is not an umpire ||contradiction
+the umpire is not outside ||entailment

@@ -1,0 +1,3 @@
+there is someone ||entailment
+there are others ||entailment
+someone is performing others ||entailment

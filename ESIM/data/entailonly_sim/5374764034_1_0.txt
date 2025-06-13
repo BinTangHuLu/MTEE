@@ -1,0 +1,7 @@
+There is a child. ||entailment
+There is some drink. ||neutral
+There is some bark. ||entailment
+There is a serpent. ||entailment
+The drink is dirty. ||neutral
+The child is sitting in water. ||entailment
+The child is with skin. ||entailment

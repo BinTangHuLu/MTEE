@@ -1,0 +1,4 @@
+there is a dude ||entailment
+there is a gallery ||entailment
+the dude is looking ||entailment
+the dude is looking at the camera ||entailment

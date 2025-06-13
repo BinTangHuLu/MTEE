@@ -1,0 +1,3 @@
+There are not kids. ||Contradiction
+There is not grass. ||Contradiction
+The kids are not playing on grass. ||Contradiction

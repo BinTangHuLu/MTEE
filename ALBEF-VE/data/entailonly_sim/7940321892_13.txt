@@ -1,0 +1,3 @@
+there is a auto ||entailment
+the auto is quickly ||entailment
+the auto is moving quickly ||entailment

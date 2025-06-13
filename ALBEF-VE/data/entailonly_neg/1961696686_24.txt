@@ -1,0 +1,4 @@
+there is not a man ||contradiction
+there is not a ball ||contradiction
+the ball is not bowling ||contradiction
+the man does not throw ball ||contradiction

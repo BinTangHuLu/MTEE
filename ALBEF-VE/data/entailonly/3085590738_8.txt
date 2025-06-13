@@ -1,0 +1,3 @@
+there is a person ||entailment
+there is a speech ||entailment
+the person is giving speech ||entailment

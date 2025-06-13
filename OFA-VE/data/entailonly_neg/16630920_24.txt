@@ -1,0 +1,5 @@
+There is not a cup. ||Entailment
+There is not a hand. ||Contradiction
+There is not a man. ||Contradiction
+The cup is not in the hand. ||Entailment
+The hand is not of the man. ||Contradiction

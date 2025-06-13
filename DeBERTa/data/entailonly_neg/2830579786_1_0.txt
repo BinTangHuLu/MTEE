@@ -1,0 +1,11 @@
+There is not a group. ||contradiction
+There are not some people. ||contradiction
+There is not a man. ||contradiction
+There is not a woman. ||contradiction
+There are not some instruments. ||contradiction
+There is not a bus. ||contradiction
+The group is not including people. ||contradiction
+The bus is not double-decker. ||contradiction
+The bus is not red. ||contradiction
+The group are not playing instruments. ||contradiction
+The group are not playing on bus. ||contradiction

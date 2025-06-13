@@ -1,0 +1,5 @@
+There is a female. ||entailment
+There is a account. ||entailment
+There is a goods. ||entailment
+The female is getting taken by the picture. ||entailment
+The female is near the truck. ||entailment

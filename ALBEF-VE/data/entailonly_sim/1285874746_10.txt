@@ -1,0 +1,6 @@
+there is a female ||entailment
+there is a apparel ||entailment
+there is a association ||entailment
+the female is dark skinned ||entailment
+the female wears a dress ||entailment
+the female is standing near the group ||neutral

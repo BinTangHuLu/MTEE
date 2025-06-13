@@ -1,0 +1,5 @@
+There is a baby. ||Entailment
+There is a baby. ||Entailment
+The baby is young. ||Entailment
+The baby took something. ||Entailment
+Something is from the baby. ||Entailment

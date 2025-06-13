@@ -1,0 +1,3 @@
+there is a goalie ||entailment
+there is a hockey ||entailment
+the goalie is playing hockey ||entailment

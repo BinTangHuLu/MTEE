@@ -1,0 +1,4 @@
+There are not people. ||contradiction
+There are not outdoors. ||contradiction
+The people are not young. ||neutral
+The people are not running outdoors. ||contradiction

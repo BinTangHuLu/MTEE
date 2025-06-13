@@ -1,0 +1,2 @@
+Me is sitting on border. ||entailment
+There is a artery. ||entailment

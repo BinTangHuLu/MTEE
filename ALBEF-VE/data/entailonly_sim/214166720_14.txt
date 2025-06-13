@@ -1,0 +1,5 @@
+there is a dude ||entailment
+there is an bodily ||entailment
+there is a baby ||entailment
+the dude is giving the animal ||entailment
+the bodily is to the child ||entailment

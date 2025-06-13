@@ -1,0 +1,6 @@
+there is not a pitcher ||contradiction
+there is not a baseball ||contradiction
+the pitcher is not young ||entailment
+the pitcher is not overweight ||entailment
+the pitcher is not throwing ||contradiction
+the pitcher is not throwing pitch ||contradiction

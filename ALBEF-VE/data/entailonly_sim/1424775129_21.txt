@@ -1,0 +1,5 @@
+there is a baby ||entailment
+there are some chain ||neutral
+there is a bar ||entailment
+the baby is stepping on tracks ||entailment
+the baby is with a stick ||entailment

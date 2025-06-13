@@ -1,0 +1,4 @@
+there are community ||entailment
+there is a association ||entailment
+the community are in a group ||neutral
+the community are standing outside the group ||contradiction

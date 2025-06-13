@@ -1,0 +1,4 @@
+There is not a rider. ||contradiction
+There is not a vehicle. ||contradiction
+The vehicle is not two wheeled. ||entailment
+The rider is not riding the vehicle. ||entailment

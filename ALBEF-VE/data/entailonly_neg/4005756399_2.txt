@@ -1,0 +1,11 @@
+there is not a man ||contradiction
+there are not some things ||contradiction
+there are not kids ||contradiction
+there are not wheels ||contradiction
+there is not a cart ||contradiction
+there are not streets ||contradiction
+the things are not selling ||contradiction
+the man is not selling things ||contradiction
+the things are not for kids ||entailment
+the man is not wheels cart ||contradiction
+the cart is not around streets ||contradiction

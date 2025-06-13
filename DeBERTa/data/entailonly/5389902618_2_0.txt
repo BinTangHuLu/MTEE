@@ -1,0 +1,5 @@
+There are women. ||entailment
+There are costumes. ||entailment
+The costumes are gorgeous. ||entailment
+The women perform together in costumes. ||entailment
+There is an Indian. ||entailment

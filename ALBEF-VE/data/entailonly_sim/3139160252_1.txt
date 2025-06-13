@@ -1,0 +1,10 @@
+there are female ||entailment
+there is a daily cup ||neutral
+there is a forest ||entailment
+there is a christmas forest ||entailment
+the daily cup is holding ||neutral
+the forest is christmas ||neutral
+the forest is christmas tree ||neutral
+the female are holding a paper cup ||entailment
+the female are posing in front of christmas tree ||entailment
+the female are making funny faces ||neutral

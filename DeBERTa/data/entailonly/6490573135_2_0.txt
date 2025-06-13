@@ -1,0 +1,6 @@
+There is a photographer. ||entailment
+There are some photos. ||entailment
+There is a game. ||entailment
+The photographer is taking photos. ||entailment
+The photographer is taking a game. ||entailment
+The photos are of the game. ||entailment

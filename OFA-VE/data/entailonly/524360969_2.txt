@@ -1,0 +1,4 @@
+There is a man. ||Entailment
+There is a sign. ||Entailment
+The sign is stop. ||Entailment
+The man holds the sign. ||Entailment

@@ -1,0 +1,6 @@
+There is not a man. ||contradiction
+There is not a crowd. ||contradiction
+There is not a hat. ||contradiction
+The man is not in the crowd. ||contradiction
+The hat is not backwards. ||contradiction
+The man is not wearing the hat. ||contradiction

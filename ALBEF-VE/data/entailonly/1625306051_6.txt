@@ -1,0 +1,3 @@
+there is a human ||entailment
+there is a hill ||entailment
+the human goes off hill ||entailment

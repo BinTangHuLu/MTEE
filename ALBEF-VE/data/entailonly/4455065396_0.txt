@@ -1,0 +1,4 @@
+there is a child ||entailment
+there is a floor ||entailment
+the child is inside ||entailment
+the child is on the floor ||entailment

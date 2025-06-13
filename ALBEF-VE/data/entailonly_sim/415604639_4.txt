@@ -1,0 +1,6 @@
+there is a body ||entailment
+there is a scene ||entailment
+there is a dude ||entailment
+the blouse is black ||entailment
+the body is walking into doors ||entailment
+the dude exits set ||neutral

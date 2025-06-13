@@ -1,0 +1,5 @@
+There is a boy. ||entailment
+There is a kettle. ||entailment
+The boy is small. ||neutral
+The boy is holding the kettle. ||entailment
+The kettle will soon be filled. ||entailment

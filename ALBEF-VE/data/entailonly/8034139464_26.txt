@@ -1,0 +1,3 @@
+there is an event ||entailment
+there is a sports ||entailment
+the event is outside ||entailment

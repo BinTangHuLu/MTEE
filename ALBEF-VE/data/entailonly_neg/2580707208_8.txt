@@ -1,0 +1,5 @@
+there is not a man ||contradiction
+there is not a hat ||contradiction
+there is not a head ||contradiction
+the man is not wearing a hat ||contradiction
+the hat is not on the head ||entailment

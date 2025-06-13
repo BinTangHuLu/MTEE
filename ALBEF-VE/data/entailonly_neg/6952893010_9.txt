@@ -1,0 +1,4 @@
+there are not boats ||contradiction
+there is not a day ||contradiction
+the day is not sunny ||contradiction
+boats do not gather on day ||contradiction

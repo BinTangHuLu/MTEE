@@ -1,0 +1,4 @@
+There is a group. ||Entailment
+There are people. ||Entailment
+The people are in a group. ||Entailment
+The people are waiting for transportation. ||Entailment

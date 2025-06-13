@@ -1,0 +1,4 @@
+there is a dude ||entailment
+there is a bar ||entailment
+the dude is climbing ||entailment
+the dude is climbing a rock wall ||entailment

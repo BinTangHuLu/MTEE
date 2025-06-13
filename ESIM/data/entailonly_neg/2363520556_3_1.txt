@@ -1,0 +1,3 @@
+There is not sand. ||contradiction
+There is not ground. ||contradiction
+The sand is not in the ground. ||entailment

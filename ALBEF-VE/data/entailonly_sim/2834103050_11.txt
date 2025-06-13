@@ -1,0 +1,4 @@
+there are community ||entailment
+there is a coast ||entailment
+the coast is sandy ||neutral
+community are standing on the beach ||entailment

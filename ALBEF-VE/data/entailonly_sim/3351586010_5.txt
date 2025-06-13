@@ -1,0 +1,5 @@
+there is a child ||entailment
+there is a decoration blade ||entailment
+the child is young ||neutral
+the child is rolling ||entailment
+the child is rolling in roller blade ||entailment

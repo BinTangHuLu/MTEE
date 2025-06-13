@@ -1,0 +1,9 @@
+there are boys ||entailment
+there is a lake ||entailment
+there is a boy ||entailment
+there is a shirt ||entailment
+there are rocks ||entailment
+the shirt is teal ||entailment
+the boys are playing by the lake ||entailment
+the boy throws rocks ||entailment
+the rocks are in the lake ||neutral

@@ -1,0 +1,3 @@
+There are People. ||entailment
+There is a city street. ||entailment
+The People are milling about city street. ||entailment

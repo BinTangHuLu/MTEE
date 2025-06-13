@@ -1,0 +1,3 @@
+there is a mountaineer ||entailment
+there is a alp ||entailment
+the mountaineer is on the mountain ||entailment

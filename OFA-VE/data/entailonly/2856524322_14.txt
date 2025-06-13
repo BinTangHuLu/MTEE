@@ -1,0 +1,5 @@
+There is a man. ||Entailment
+There is a vehicle. ||Entailment
+The vehicle has two pedals. ||Entailment
+The man is riding the vehicle. ||Entailment
+The vehicle is with pedals. ||Entailment

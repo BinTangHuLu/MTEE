@@ -1,0 +1,6 @@
+there is a child ||entailment
+there is a slide ||entailment
+there is a jacket ||entailment
+the jacket is red ||entailment
+the child is sitting on the slide ||entailment
+the child is wearing the jacket ||entailment

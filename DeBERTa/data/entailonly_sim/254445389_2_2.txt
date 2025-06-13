@@ -1,0 +1,4 @@
+There is a association. ||entailment
+There are some community. ||entailment
+The association is small. ||entailment
+The association are eating and drinking together with people. ||entailment

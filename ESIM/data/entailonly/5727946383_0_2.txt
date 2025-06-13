@@ -1,0 +1,7 @@
+There is a woman. ||entailment
+There is a man. ||entailment
+There is a couple. ||entailment
+The woman dances. ||entailment
+The woman dances with the man. ||entailment
+The man is next to the couple. ||entailment
+The couple is dancing. ||entailment

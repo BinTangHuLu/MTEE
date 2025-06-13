@@ -1,0 +1,2 @@
+there is a athlete ||entailment
+the athlete gets ready to hit the ball ||entailment

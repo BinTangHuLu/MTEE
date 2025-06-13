@@ -1,0 +1,5 @@
+There is a girl. ||entailment
+There is a helmet. ||entailment
+There is a dog tag. ||entailment
+The girl is with a helmet. ||entailment
+The girl wears dog tag. ||entailment

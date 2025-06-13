@@ -1,0 +1,3 @@
+there is not a woman ||contradiction
+there is not some food ||contradiction
+the woman is not sitting near food ||contradiction

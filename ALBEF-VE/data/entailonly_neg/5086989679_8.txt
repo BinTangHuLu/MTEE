@@ -1,0 +1,4 @@
+there is not a gymnast ||contradiction
+there is not a face ||contradiction
+the face is not painted ||contradiction
+the gymnast does not have a face ||entailment

@@ -1,0 +1,5 @@
+there is a woman ||entailment
+there is a backpack ||entailment
+there is a street ||entailment
+the woman is with a backpack ||entailment
+the woman is walking across the street ||entailment

@@ -1,0 +1,5 @@
+There is not a man. ||contradiction
+There is not a stone. ||contradiction
+There is not a wall. ||contradiction
+The man is not holding the stone. ||contradiction
+The man is not in front of the wall. ||contradiction

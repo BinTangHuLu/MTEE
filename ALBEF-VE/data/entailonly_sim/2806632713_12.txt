@@ -1,0 +1,6 @@
+there is a body ||entailment
+there is some atmosphere ||entailment
+there is a drive ||entailment
+the drive is bungee jumping ||entailment
+the body is thrown into air ||entailment
+the body is thrown into the ride ||entailment

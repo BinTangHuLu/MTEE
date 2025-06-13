@@ -1,0 +1,3 @@
+There are not Kids. ||contradiction
+There is not a field. ||contradiction
+The Kids are not walking in the field. ||contradiction

@@ -1,0 +1,6 @@
+There is not summer. ||contradiction
+There is not a beach. ||contradiction
+There is not a walkway. ||contradiction
+The summer is not hot. ||neutral
+The summer is not by the beach. ||contradiction
+The summer is not on the walkway. ||contradiction

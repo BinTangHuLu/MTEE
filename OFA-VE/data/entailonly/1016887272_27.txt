@@ -1,0 +1,3 @@
+There are Climbers. ||Entailment
+There is a rock. ||Entailment
+The Climbers climb the rock. ||Entailment

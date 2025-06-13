@@ -1,0 +1,3 @@
+EA,female,wearing
+E1RE2,female,is traveling by,foot
+E1RE2,female,is traveling by,foot outside

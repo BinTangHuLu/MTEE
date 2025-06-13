@@ -1,0 +1,3 @@
+there is a delight squad ||entailment
+there is a account ||entailment
+the delight squad gets a picture ||neutral

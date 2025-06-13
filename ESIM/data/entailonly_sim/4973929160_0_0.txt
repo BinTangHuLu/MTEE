@@ -1,0 +1,6 @@
+There are dude. ||entailment
+There is apparel. ||entailment
+The dude are Two. ||entailment
+The apparel is cultural. ||entailment
+The dude are in garb. ||entailment
+The dude are moving drums. ||entailment

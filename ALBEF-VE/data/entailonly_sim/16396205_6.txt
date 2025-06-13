@@ -1,0 +1,6 @@
+there are dude ||entailment
+there is a cookout ||entailment
+there is a farmland ||entailment
+the dude stand behind the barbecue ||entailment
+the cookout is in the field ||entailment
+the dude are smiling ||entailment

@@ -1,0 +1,8 @@
+There is a female. ||entailment
+There is a backpack. ||neutral
+There is a edge. ||entailment
+There is a avenue. ||entailment
+The female is holding a bag. ||entailment
+The female is talking on a cellphone. ||entailment
+The female is standing on a corner. ||entailment
+The female is waiting to cross. ||entailment

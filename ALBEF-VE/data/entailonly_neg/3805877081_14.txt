@@ -1,0 +1,2 @@
+there is not a person ||entailment
+the person is not shoplifting ||entailment

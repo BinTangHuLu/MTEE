@@ -1,0 +1,3 @@
+There is not a person. ||contradiction
+There is not a mountain. ||contradiction
+The person is not situated near the mountain. ||contradiction

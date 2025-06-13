@@ -1,0 +1,2 @@
+There are female. ||entailment
+The female are nicely dressed. ||entailment

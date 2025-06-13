@@ -1,0 +1,6 @@
+There is a dude. ||entailment
+There is a homogeneous. ||entailment
+There is a glass. ||entailment
+The homogeneous is racing. ||entailment
+The dude is wearing the uniform. ||entailment
+The dude is holding the bottle. ||entailment

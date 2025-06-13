@@ -1,0 +1,9 @@
+There is a woman. ||entailment
+There is a bag. ||entailment
+There is a cellphone. ||entailment
+There is a corner. ||entailment
+There is a street. ||entailment
+The woman is holding a bag. ||entailment
+The woman is talking on a cellphone. ||entailment
+The woman is standing on a corner. ||entailment
+The woman is waiting to cross. ||entailment

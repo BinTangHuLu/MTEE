@@ -1,0 +1,2 @@
+there are not pants ||neutral
+the pants are not long ||entailment

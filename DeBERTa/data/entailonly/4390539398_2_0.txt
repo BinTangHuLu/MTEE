@@ -1,0 +1,4 @@
+There are kids. ||entailment
+There is a skit. ||entailment
+The kids performed the skit. ||entailment
+The kids performed camping. ||entailment

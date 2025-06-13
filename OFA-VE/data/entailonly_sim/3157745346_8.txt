@@ -1,0 +1,4 @@
+There is a body. ||Contradiction
+There is a armor. ||Entailment
+The body is in the helmet. ||Entailment
+The body uses the ATM. ||Entailment

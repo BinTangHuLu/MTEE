@@ -1,0 +1,2 @@
+there is a pot ||entailment
+the pot is outside ||entailment

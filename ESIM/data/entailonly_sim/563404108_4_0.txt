@@ -1,0 +1,3 @@
+There are community. ||neutral
+There are a area of people. ||entailment
+The community are standing near each other. ||neutral

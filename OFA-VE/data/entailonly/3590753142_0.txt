@@ -1,0 +1,3 @@
+There are people. ||Entailment
+There is a bridge. ||Entailment
+The people are under the bridge. ||Entailment

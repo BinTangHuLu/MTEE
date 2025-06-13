@@ -1,0 +1,3 @@
+there is a line ||entailment
+there is a bus ||entailment
+the line is to get on bus ||entailment

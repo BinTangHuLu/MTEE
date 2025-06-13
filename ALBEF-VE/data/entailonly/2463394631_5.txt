@@ -1,0 +1,3 @@
+there is a man ||entailment
+there are overalls ||entailment
+the man is bending over overalls ||entailment

@@ -1,0 +1,7 @@
+There is a man. ||entailment
+There is a hat. ||entailment
+There are boots. ||entailment
+There is underwear. ||entailment
+There is a sidewalk. ||entailment
+The man is wearing only a hat, boots, and underwear. ||entailment
+The man is walking on the sidewalk. ||entailment

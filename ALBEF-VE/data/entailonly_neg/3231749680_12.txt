@@ -1,0 +1,3 @@
+there are not toddlers ||contradiction
+there is not a floor ||contradiction
+the toddlers do not nap on the floor ||entailment

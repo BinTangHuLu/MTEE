@@ -1,0 +1,4 @@
+There are not men. ||contradiction
+There is not a cafe. ||contradiction
+The men are not older. ||contradiction
+The men are not sitting at cafe. ||contradiction

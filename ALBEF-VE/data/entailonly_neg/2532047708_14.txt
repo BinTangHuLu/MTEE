@@ -1,0 +1,7 @@
+there is not a man ||contradiction
+there is not a violin ||contradiction
+the man does not play violin ||contradiction
+there is not a banjo ||contradiction
+there is not another ||contradiction
+the another is not red ||contradiction
+the another does not play banjo ||entailment

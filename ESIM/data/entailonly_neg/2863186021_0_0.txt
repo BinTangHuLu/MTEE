@@ -1,0 +1,3 @@
+There is not a person. ||contradiction
+There are not some birds. ||contradiction
+The person was not near birds. ||contradiction

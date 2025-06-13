@@ -1,0 +1,2 @@
+there are list ||contradiction
+the list are interacting with female ||entailment

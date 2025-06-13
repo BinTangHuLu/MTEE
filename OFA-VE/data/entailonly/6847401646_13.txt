@@ -1,0 +1,4 @@
+There is someone. ||Entailment
+There are some muscles. ||Entailment
+The muscles are flexing. ||Entailment
+Someone is flexing their muscles. ||Entailment

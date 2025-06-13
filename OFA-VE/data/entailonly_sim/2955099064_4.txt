@@ -1,0 +1,3 @@
+There are dude. ||Entailment
+There is a soccer. ||Entailment
+The dude are reaching for the football. ||Entailment

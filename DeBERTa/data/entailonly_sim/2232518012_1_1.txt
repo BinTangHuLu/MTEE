@@ -1,0 +1,2 @@
+There is a chase. ||entailment
+The greyhounds are in the heart of the race. ||neutral

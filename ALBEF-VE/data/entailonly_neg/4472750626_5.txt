@@ -1,0 +1,4 @@
+there is not a person ||contradiction
+there is not a road ||contradiction
+the hair is not light colored ||entailment
+the person is not walking on road ||entailment

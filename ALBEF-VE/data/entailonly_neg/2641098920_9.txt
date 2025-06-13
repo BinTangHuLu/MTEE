@@ -1,0 +1,6 @@
+there is not a man ||contradiction
+there is not a woman ||contradiction
+there is not a couch ||contradiction
+the man and woman are not together ||contradiction
+the man does not sit on the couch ||contradiction
+the woman does not sit on the couch ||entailment

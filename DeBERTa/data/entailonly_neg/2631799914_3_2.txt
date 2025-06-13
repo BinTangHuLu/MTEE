@@ -1,0 +1,5 @@
+There are not kids. ||contradiction
+There are not indoors. ||contradiction
+The kids are not playing a video game. ||contradiction
+The kids are not playing video game. ||contradiction
+The kids are not indoors. ||contradiction

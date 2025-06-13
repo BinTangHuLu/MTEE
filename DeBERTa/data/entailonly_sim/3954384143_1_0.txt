@@ -1,0 +1,4 @@
+There are admission. ||contradiction
+There is a collection. ||neutral
+The admission are two. ||contradiction
+The admission are jumping in class. ||entailment

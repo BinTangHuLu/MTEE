@@ -1,0 +1,5 @@
+There are children. ||Entailment
+There is a turtle. ||Entailment
+There is a beach. ||Entailment
+The children play with the turtle. ||Entailment
+The turtle is at the beach. ||Entailment

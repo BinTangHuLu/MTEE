@@ -1,0 +1,7 @@
+There is a man. ||Entailment
+There are some items. ||Entailment
+There are kids. ||Entailment
+There is a cart. ||Entailment
+The items are for kids. ||Entailment
+The man is selling items. ||Entailment
+The man pulls the cart. ||Entailment

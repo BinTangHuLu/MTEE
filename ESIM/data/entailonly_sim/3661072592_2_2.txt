@@ -1,0 +1,6 @@
+There is a child. ||entailment
+There is some ammo. ||contradiction
+There is a gentlewoman. ||entailment
+The child is young. ||neutral
+The child is putting in the lady. ||entailment
+The child is putting in the hair. ||entailment

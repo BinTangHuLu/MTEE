@@ -1,0 +1,2 @@
+There is not Ladies. ||Entailment
+The Ladies are not moving outside. ||Entailment

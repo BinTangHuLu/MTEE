@@ -1,0 +1,4 @@
+there is a man ||entailment
+there is a suit ||entailment
+the suit is green striped ||neutral
+the man is surfing ||entailment

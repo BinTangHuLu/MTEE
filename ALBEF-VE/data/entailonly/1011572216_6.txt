@@ -1,0 +1,5 @@
+there is a person ||entailment
+there is a camera ||entailment
+there is a couple ||entailment
+the person is pointing a camera ||entailment
+the camera is at the couple ||entailment

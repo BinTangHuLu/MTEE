@@ -1,0 +1,3 @@
+There are community. ||Entailment
+There is a camcorder. ||Contradiction
+The community face away from the camera. ||Entailment

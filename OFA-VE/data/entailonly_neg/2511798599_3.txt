@@ -1,0 +1,5 @@
+There are not people. ||Contradiction
+There are not shirts. ||Contradiction
+The people are not young. ||Entailment
+The shirts are not blue. ||Entailment
+The people do not have shirts. ||Contradiction

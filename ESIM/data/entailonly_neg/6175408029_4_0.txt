@@ -1,0 +1,4 @@
+There is not a cook. ||contradiction
+The cook does not prepare. ||contradiction
+The cook is not food. ||contradiction
+The cook does not prepare food. ||contradiction

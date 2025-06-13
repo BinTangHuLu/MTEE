@@ -1,0 +1,5 @@
+there is not a janitor ||contradiction
+there is not a job ||contradiction
+there is not thailand ||contradiction
+the janitor does not do the job ||entailment
+the job is not in thailand ||contradiction

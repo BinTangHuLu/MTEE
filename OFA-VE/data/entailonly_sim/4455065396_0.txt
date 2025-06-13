@@ -1,0 +1,4 @@
+There is a baby. ||Entailment
+There is a basement. ||Entailment
+The baby is inside. ||Entailment
+The baby is on the floor. ||Entailment

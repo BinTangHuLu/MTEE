@@ -1,0 +1,4 @@
+There are not ladies. ||Contradiction
+There is not an instrument. ||Contradiction
+The ladies are not young. ||Contradiction
+The ladies are not playing the instrument. ||Contradiction

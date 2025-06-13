@@ -1,0 +1,5 @@
+There is It. ||neutral
+It is cold. ||entailment
+It is snowy. ||entailment
+It is cold outside. ||entailment
+It is snowy outside. ||entailment

@@ -1,0 +1,4 @@
+there are not people ||contradiction
+there is not an audience ||contradiction
+the people are not young ||entailment
+the people are not in front of the audience ||contradiction

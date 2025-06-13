@@ -1,0 +1,5 @@
+there is not an officer ||contradiction
+there is not a crowd ||contradiction
+there are not people ||contradiction
+the people are not dressed as sailors ||entailment
+the officer is not near the crowd ||contradiction

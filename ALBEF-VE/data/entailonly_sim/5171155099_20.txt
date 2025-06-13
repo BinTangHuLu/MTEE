@@ -1,0 +1,5 @@
+there is a dude ||entailment
+there is a homogeneous ||entailment
+there is a colt ||neutral
+the homogeneous is in ||entailment
+the dude rides on top of the horse ||entailment

@@ -1,0 +1,2 @@
+E1RE2,people,on,bus
+E1RE2,people,sightseeing,NA

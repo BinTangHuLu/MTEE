@@ -1,0 +1,6 @@
+there is an administrator ||entailment
+there are credo ||entailment
+there is a aim ||entailment
+the credo are japanese style ||neutral
+the archer uses credo ||entailment
+the archer aims at the aim ||entailment

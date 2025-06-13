@@ -1,0 +1,4 @@
+there is a body ||entailment
+there is a estate ||entailment
+there is a glide park ||entailment
+the body is in the skate park ||neutral

@@ -1,0 +1,3 @@
+There are not People. ||Contradiction
+There is not a building. ||Contradiction
+The People do not stand in front of the building. ||Entailment

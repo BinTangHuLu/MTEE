@@ -1,0 +1,4 @@
+There is not a man. ||contradiction
+There is not a shopping cart. ||contradiction
+The man is not by the shopping cart. ||contradiction
+The shopping cart is not full. ||contradiction

@@ -1,0 +1,5 @@
+there is a man ||entailment
+there is a rope ||entailment
+there are climbers ||entailment
+the man is securing rope ||entailment
+the man is for climbers ||entailment

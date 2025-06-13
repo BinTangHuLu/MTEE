@@ -1,0 +1,5 @@
+There is not a man. ||Contradiction
+The man is not red-haired. ||Entailment
+The man is not showing. ||Entailment
+There are not muscles. ||Contradiction
+The man is not showing muscles. ||Entailment

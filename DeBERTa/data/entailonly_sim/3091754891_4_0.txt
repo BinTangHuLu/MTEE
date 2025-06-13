@@ -1,0 +1,2 @@
+There is a bank. ||contradiction
+The bank is middle eastern. ||contradiction

@@ -1,0 +1,12 @@
+There are men. ||entailment
+There is a musical set. ||entailment
+There are wires. ||entailment
+There is equipment. ||entailment
+There is a stage. ||entailment
+There are three men. ||entailment
+The instruments are unique. ||entailment
+The men are doing the musical set. ||entailment
+The men are holding instruments. ||entailment
+The musical set is with wires. ||entailment
+The musical set is with equipment. ||entailment
+The musical set is all over the stage. ||entailment

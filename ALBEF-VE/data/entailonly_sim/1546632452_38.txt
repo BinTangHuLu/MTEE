@@ -1,0 +1,3 @@
+there is a baby ||entailment
+there is a accelerate ||entailment
+the baby plays on the slide ||contradiction

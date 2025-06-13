@@ -1,0 +1,3 @@
+There is a dude. ||Entailment
+There is a artist. ||Entailment
+The dude is a musician. ||Entailment

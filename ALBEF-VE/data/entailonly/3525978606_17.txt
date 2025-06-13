@@ -1,0 +1,3 @@
+there is a woman ||entailment
+there is an aircraft ||entailment
+the woman is working on the aircraft ||entailment

@@ -1,0 +1,5 @@
+there are community ||entailment
+there are automation ||entailment
+there is a ambience ||entailment
+the community work on computers ||entailment
+the community are in the setting ||neutral

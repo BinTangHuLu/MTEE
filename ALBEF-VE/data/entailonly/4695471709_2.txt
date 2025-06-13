@@ -1,0 +1,5 @@
+there is a statue ||entailment
+there is a man ||entailment
+there is a staircase ||entailment
+the statue is of a man ||contradiction
+the statue is on the staircase ||entailment

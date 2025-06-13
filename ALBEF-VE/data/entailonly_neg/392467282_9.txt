@@ -1,0 +1,4 @@
+there are not dogs ||contradiction
+the dogs are not brown ||entailment
+the dogs are not outside ||contradiction
+there are not two ||contradiction

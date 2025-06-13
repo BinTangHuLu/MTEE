@@ -1,0 +1,5 @@
+There are not computers. ||contradiction
+There is not a room. ||contradiction
+There is not a projector screen. ||contradiction
+The computers are not in the room. ||contradiction
+The projector screen is not in the room. ||contradiction

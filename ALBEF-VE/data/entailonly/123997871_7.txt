@@ -1,0 +1,8 @@
+there are girls ||entailment
+there are uniforms ||entailment
+there is protection ||entailment
+there is a match ||entailment
+the uniforms are sports ||entailment
+the girls are wearing uniforms ||entailment
+the girls are wearing protection ||entailment
+the girls are at match ||entailment

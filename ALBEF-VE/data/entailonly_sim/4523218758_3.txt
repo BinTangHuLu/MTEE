@@ -1,0 +1,3 @@
+there is a association ||entailment
+there are female ||entailment
+the association is of women ||entailment

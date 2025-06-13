@@ -1,0 +1,4 @@
+there are band ||neutral
+there is a activity ||entailment
+the band are visibly ||entailment
+the band struggle to job ||contradiction

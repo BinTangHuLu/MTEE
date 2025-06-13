@@ -1,0 +1,4 @@
+there is not a girl ||contradiction
+there is not america ||contradiction
+the girl is not looking at ||entailment
+the girl is not looking at america ||contradiction

@@ -1,0 +1,5 @@
+There are not vehicles. ||contradiction
+There is not a photo. ||contradiction
+The vehicles are not police. ||contradiction
+The photo is not two. ||contradiction
+The vehicles are not in the photo. ||contradiction

@@ -1,0 +1,3 @@
+there are members ||entailment
+there is a military ||entailment
+the members are talking to members ||entailment

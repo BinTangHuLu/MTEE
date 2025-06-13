@@ -1,0 +1,3 @@
+R,look at
+E1R,man,look at
+R,in front of

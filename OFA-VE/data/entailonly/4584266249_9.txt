@@ -1,0 +1,3 @@
+There are ladies. ||Entailment
+There is daytime. ||Entailment
+The ladies are out in daytime. ||Entailment

@@ -1,0 +1,6 @@
+There is a child. ||entailment
+The child is happily. ||entailment
+There is apparatus. ||entailment
+There is a park. ||neutral
+The child uses equipment. ||entailment
+The apparatus is at the playground. ||neutral

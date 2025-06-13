@@ -1,0 +1,4 @@
+there is a line ||entailment
+there is a statue ||entailment
+there is a gorilla ||contradiction
+the line is near the statue ||entailment

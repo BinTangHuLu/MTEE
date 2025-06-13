@@ -1,0 +1,6 @@
+There is not a man. ||Entailment
+There is not a woman. ||Entailment
+There is not a train. ||Contradiction
+The man and woman are not on the train. ||Entailment
+The man is not on the train. ||Contradiction
+The woman is not on the train. ||Entailment

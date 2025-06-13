@@ -1,0 +1,5 @@
+There are not men. ||contradiction
+The men are not kiled. ||entailment
+The men are not two. ||contradiction
+The men do not hold. ||contradiction
+The men do not hold bagpipes. ||contradiction

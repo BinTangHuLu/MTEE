@@ -1,0 +1,4 @@
+There is a man. ||Entailment
+There is some hair. ||Entailment
+The hair is facial. ||Entailment
+The man has hair. ||Entailment

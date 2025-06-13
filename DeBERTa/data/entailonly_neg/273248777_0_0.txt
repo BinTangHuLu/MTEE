@@ -1,0 +1,3 @@
+There is not a player. ||contradiction
+There is not duress. ||contradiction
+The player is not under duress. ||contradiction

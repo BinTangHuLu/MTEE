@@ -1,0 +1,7 @@
+there is a body ||entailment
+there is a t blouse ||entailment
+there is a bit of paper ||entailment
+there is dirt ||neutral
+the bit of paper is large ||neutral
+the body paints on the piece of paper ||entailment
+the bit of paper is on ground ||entailment

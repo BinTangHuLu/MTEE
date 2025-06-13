@@ -1,0 +1,3 @@
+there are not men ||contradiction
+there is not a ball ||contradiction
+the men are not trying to catch the ball ||contradiction

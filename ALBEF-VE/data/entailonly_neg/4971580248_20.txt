@@ -1,0 +1,4 @@
+there is not a woman ||contradiction
+there is not a board ||contradiction
+there is not a menu ||contradiction
+the woman is not looking at the board ||entailment

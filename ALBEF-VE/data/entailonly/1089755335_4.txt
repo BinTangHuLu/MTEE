@@ -1,0 +1,7 @@
+there is a woman ||entailment
+there are children ||entailment
+there is a boardwalk ||entailment
+the children are fishing ||entailment
+the woman is with children ||entailment
+the children are fishing over the boardwalk ||neutral
+fishing over the boardwalk is in the evening ||entailment

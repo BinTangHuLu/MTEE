@@ -1,0 +1,4 @@
+There are community. ||entailment
+There are 3 community. ||entailment
+The community have blindfolds. ||entailment
+The community are with blindfolds. ||entailment

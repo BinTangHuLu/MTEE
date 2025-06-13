@@ -1,0 +1,5 @@
+There are not People. ||Contradiction
+There is not a river. ||Contradiction
+There are not rocks. ||Contradiction
+People are not by the river. ||Entailment
+People are not standing on rocks. ||Entailment

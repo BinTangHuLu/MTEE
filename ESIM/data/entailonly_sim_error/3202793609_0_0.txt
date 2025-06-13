@@ -1,0 +1,2 @@
+EA,People,walking
+E1RE2,People,are walking,outside

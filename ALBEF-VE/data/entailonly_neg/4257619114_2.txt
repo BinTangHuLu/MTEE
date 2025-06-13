@@ -1,0 +1,3 @@
+there is not a woman ||contradiction
+there is not a helmet ||contradiction
+the woman did not have a helmet ||contradiction

@@ -1,0 +1,4 @@
+there is a male ||entailment
+there are some clothes ||entailment
+the male is young ||entailment
+the male has clothes ||entailment

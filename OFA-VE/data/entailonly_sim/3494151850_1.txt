@@ -1,0 +1,5 @@
+There are band. ||Contradiction
+There is a barge. ||Entailment
+There is drink. ||Contradiction
+The band are in the boat. ||Neutral
+The barge is on water. ||Entailment

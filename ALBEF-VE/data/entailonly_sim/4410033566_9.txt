@@ -1,0 +1,4 @@
+there is a body ||entailment
+there is an article ||neutral
+the body is resting ||entailment
+the body is resting against the object ||entailment

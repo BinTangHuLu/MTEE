@@ -1,0 +1,2 @@
+There is not a dog. ||contradiction
+The dog is carrying somethingnot . ||entailment

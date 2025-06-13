@@ -1,0 +1,2 @@
+there is a boiler ||entailment
+the cook is standing in facade of the stove ||entailment

@@ -1,0 +1,6 @@
+There is not a woman. ||contradiction
+There is not a Trader Joe's. ||contradiction
+There is not a shopping cart. ||contradiction
+The shopping cart is not full. ||contradiction
+The woman is not walking away from Trader Joe's. ||contradiction
+The woman is not walking away from the shopping cart. ||contradiction

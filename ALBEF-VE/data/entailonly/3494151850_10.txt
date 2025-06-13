@@ -1,0 +1,3 @@
+there are men ||entailment
+the men are out ||entailment
+the men are boating ||entailment

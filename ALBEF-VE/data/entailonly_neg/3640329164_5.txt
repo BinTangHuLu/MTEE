@@ -1,0 +1,6 @@
+there is not a man ||contradiction
+there is not a suit ||contradiction
+there is not a dog ||contradiction
+the suit is not green striped ||contradiction
+the man is not surfing man ||contradiction
+the suit is not with dog ||entailment

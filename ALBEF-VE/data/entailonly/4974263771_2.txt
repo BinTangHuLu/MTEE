@@ -1,0 +1,3 @@
+there are adults ||entailment
+there is a wall ||entailment
+the adults are on the wall ||entailment

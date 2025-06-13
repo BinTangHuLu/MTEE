@@ -1,0 +1,5 @@
+There is not a guy. ||contradiction
+There is not a uniform. ||contradiction
+There is not a bottle. ||contradiction
+The guy is not wearing the uniform. ||contradiction
+The guy is not holding the bottle. ||contradiction

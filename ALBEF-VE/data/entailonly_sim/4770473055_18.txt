@@ -1,0 +1,4 @@
+there is a strum ||entailment
+there is a dude ||entailment
+the dude is scantily dressed ||neutral
+the strum has been placed atop the man ||contradiction

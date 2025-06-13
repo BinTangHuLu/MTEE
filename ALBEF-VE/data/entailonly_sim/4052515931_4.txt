@@ -1,0 +1,4 @@
+there is a dude ||entailment
+there is a coat ||entailment
+the coat is wearing ||entailment
+the dude is wearing jacket ||entailment

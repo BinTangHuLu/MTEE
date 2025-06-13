@@ -1,0 +1,3 @@
+there is not a woman ||contradiction
+there is not a notebook ||contradiction
+the woman is not writing in the notebook ||entailment

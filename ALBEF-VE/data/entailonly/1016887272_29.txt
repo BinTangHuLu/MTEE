@@ -1,0 +1,2 @@
+there are people ||entailment
+people are rock climbing ||entailment

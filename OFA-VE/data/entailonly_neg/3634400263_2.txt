@@ -1,0 +1,3 @@
+There is not a bicyclist. ||Contradiction
+There is not air. ||Contradiction
+The bicyclist is not in air. ||Entailment

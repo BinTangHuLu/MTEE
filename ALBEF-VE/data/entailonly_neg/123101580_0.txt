@@ -1,0 +1,3 @@
+there are not women ||contradiction
+there is not soccer ||contradiction
+the women do not play soccer ||contradiction

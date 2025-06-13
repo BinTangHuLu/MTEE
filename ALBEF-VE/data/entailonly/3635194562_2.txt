@@ -1,0 +1,7 @@
+there is a person ||entailment
+there is a hat ||entailment
+there is a paintbrush ||entailment
+the person is small ||neutral
+the hat is white ||entailment
+the person is wearing the hat ||entailment
+the person reaches for the paintbrush ||neutral

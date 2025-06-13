@@ -1,0 +1,5 @@
+there is a vendor ||entailment
+there are some toys ||entailment
+there are kids ||entailment
+the vendor is selling toys ||entailment
+the vendor is selling to kids ||entailment

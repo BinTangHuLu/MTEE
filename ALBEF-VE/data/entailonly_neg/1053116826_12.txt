@@ -1,0 +1,3 @@
+there are not children ||contradiction
+the children are not two ||entailment
+the children are not sitting outside ||contradiction

@@ -1,0 +1,8 @@
+there is not a man ||contradiction
+there is not a t shirt ||contradiction
+there is not a piece ||contradiction
+there is not a paper ||contradiction
+there is not ground ||entailment
+the piece is not large ||neutral
+the man does not paint on piece ||contradiction
+the piece is not on ground ||entailment

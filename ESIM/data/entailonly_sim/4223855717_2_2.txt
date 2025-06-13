@@ -1,0 +1,5 @@
+There is a body. ||entailment
+There is a goods. ||entailment
+The goods is delivery. ||neutral
+The body is talking to someone. ||entailment
+The someone is fur. ||entailment

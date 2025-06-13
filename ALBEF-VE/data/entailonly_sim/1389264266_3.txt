@@ -1,0 +1,5 @@
+there are adolescent ||entailment
+the adolescent are different ||entailment
+there are apparel ||entailment
+the apparel are different ||entailment
+the adolescent are facing each other ||entailment

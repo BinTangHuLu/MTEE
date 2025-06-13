@@ -1,0 +1,5 @@
+There is a dude. ||entailment
+There is a chair. ||entailment
+There is a baby. ||entailment
+The dude is eating on the bench. ||entailment
+The chair is near the child. ||entailment

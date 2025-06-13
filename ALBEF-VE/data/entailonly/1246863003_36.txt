@@ -1,0 +1,2 @@
+there are customers ||entailment
+the customers are waiting ||entailment

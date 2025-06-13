@@ -1,0 +1,3 @@
+there is a contest ||entailment
+the contest is martial ||entailment
+the contest is arts ||neutral

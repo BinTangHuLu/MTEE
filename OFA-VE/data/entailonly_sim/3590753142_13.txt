@@ -1,0 +1,3 @@
+There is a association. ||Neutral
+There is a barrier. ||Entailment
+The association leans against the railing. ||Neutral

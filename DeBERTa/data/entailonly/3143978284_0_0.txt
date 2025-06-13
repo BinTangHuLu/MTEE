@@ -1,0 +1,4 @@
+There is a baby. ||entailment
+There is an orange. ||entailment
+The baby is wearing. ||entailment
+The baby is orange. ||entailment

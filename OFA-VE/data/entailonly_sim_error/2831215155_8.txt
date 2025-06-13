@@ -1,0 +1,2 @@
+EA,person,standing
+E1RE2,person,is standing,outside

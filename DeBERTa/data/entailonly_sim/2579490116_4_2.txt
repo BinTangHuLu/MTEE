@@ -1,0 +1,4 @@
+There is a goods. ||neutral
+There is a slope. ||entailment
+The goods is attached. ||neutral
+The goods is with ramp. ||neutral

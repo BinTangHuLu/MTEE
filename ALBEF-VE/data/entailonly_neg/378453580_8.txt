@@ -1,0 +1,4 @@
+there is not a dog ||contradiction
+there is not something ||entailment
+the something is not in its mouth ||contradiction
+the dog is running around with somethingnot ||entailment

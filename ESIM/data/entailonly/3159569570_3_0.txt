@@ -1,0 +1,2 @@
+There is a person. ||entailment
+There is some clothing. ||entailment

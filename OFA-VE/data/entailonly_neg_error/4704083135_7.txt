@@ -1,0 +1,4 @@
+EA,time,out
+RE2,is enjoying,time
+A,enjoying
+R,is expressing

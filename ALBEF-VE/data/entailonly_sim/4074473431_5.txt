@@ -1,0 +1,4 @@
+there are community ||entailment
+there are character rates ||neutral
+the character rates are up ||neutral
+community are getting heart rates ||entailment

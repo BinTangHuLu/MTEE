@@ -1,0 +1,4 @@
+there is a boy ||entailment
+there is a slide ||entailment
+the boy is young ||entailment
+the boy is on slide ||entailment

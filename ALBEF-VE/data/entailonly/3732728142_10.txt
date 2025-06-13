@@ -1,0 +1,4 @@
+there is a baby ||entailment
+there is a hat ||entailment
+the baby is wearing ||entailment
+the baby is wearing the hat ||entailment

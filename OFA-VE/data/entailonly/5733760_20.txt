@@ -1,0 +1,5 @@
+There is a man. ||Entailment
+There is a microphone. ||Entailment
+There is a stage. ||Entailment
+The man holds the microphone. ||Entailment
+The microphone is on the stage. ||Entailment

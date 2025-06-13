@@ -1,0 +1,9 @@
+there is a man ||entailment
+there is a jacket ||entailment
+there is a roof ||entailment
+there is a ledge ||entailment
+the jacket is white ||entailment
+the ledge is wooden ||neutral
+the man is standing on top of the roof ||contradiction
+the man is standing on the ledge ||contradiction
+the ledge is outside the roof ||entailment

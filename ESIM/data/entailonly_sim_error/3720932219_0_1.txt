@@ -1,0 +1,3 @@
+EA,blond,blond
+EA,students,pieces of paper
+E1RE2,blond,speaks with,group

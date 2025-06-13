@@ -1,0 +1,4 @@
+there is a child ||entailment
+there is a accessory ||entailment
+the accessory has magnification ||entailment
+the child is looking through the device ||entailment

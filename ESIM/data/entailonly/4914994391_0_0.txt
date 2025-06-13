@@ -1,0 +1,3 @@
+There is a bus. ||entailment
+The bus is red. ||entailment
+The bus is backing up into spot. ||neutral

@@ -1,0 +1,6 @@
+there are not dogs ||contradiction
+there is not snow ||contradiction
+there is not something ||contradiction
+there are not mouths ||contradiction
+the dogs are not in snow ||contradiction
+something is not in mouths ||contradiction

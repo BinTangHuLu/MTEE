@@ -1,0 +1,4 @@
+There is a dude. ||Entailment
+The dude is riding. ||Entailment
+The dude is riding the skateboard. ||Entailment
+The skateboard is in the atmosphere. ||Entailment

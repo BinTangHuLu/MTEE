@@ -1,0 +1,7 @@
+there is not a woman ||contradiction
+there is not a platform ||contradiction
+there is not a cup ||contradiction
+the woman is not beautiful ||contradiction
+the cup is not red ||contradiction
+the woman is not dancing on the platform ||contradiction
+the woman is not holding the cup ||contradiction

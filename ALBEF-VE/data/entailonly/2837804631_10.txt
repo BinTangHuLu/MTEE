@@ -1,0 +1,3 @@
+there is a boy ||entailment
+the boy is little ||entailment
+the boy is playing in sprinklers ||entailment

@@ -1,0 +1,3 @@
+There is a man. ||entailment
+There is a unicycle. ||entailment
+The man is riding the unicycle. ||entailment

@@ -1,0 +1,5 @@
+There is a gallery. ||contradiction
+There is a association. ||entailment
+There are dude. ||entailment
+The gallery has a group. ||neutral
+The association is riding on it. ||entailment

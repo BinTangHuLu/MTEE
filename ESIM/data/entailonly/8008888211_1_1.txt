@@ -1,0 +1,3 @@
+There are Cheerleaders. ||entailment
+The Cheerleaders pass out t shirts. ||entailment
+The t shirts are rolled up. ||entailment

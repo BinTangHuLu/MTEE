@@ -1,0 +1,6 @@
+There is not a woman. ||Contradiction
+There is not a body. ||Contradiction
+There are not tattoos. ||Contradiction
+The tattoos are not numerous. ||Entailment
+The woman does not have tattoos. ||Contradiction
+The tattoos are not all over the body. ||Entailment

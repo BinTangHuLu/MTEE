@@ -1,0 +1,4 @@
+There is an instructor. ||entailment
+There is a basket. ||entailment
+The instructor is at fair. ||entailment
+The instructor is weaving. ||entailment

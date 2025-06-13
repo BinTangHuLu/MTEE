@@ -1,0 +1,4 @@
+There are horses. ||Entailment
+There is a line. ||Entailment
+The horses are three. ||Neutral
+The horses are in line. ||Entailment

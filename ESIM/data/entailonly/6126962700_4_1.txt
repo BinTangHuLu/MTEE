@@ -1,0 +1,3 @@
+There is a carnival. ||entailment
+There is a country. ||entailment
+The carnival is different. ||entailment

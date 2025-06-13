@@ -1,0 +1,3 @@
+There is Times Square. ||entailment
+There is California. ||entailment
+Times Square is in California. ||entailment

@@ -1,0 +1,4 @@
+There are kids. ||entailment
+There are hats. ||entailment
+The hats have streamers. ||entailment
+The kids are wearing hats. ||entailment

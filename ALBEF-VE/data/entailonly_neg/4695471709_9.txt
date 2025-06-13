@@ -1,0 +1,3 @@
+there are not people ||contradiction
+there is not a sculpture ||contradiction
+the people are not standing near the sculpture ||contradiction

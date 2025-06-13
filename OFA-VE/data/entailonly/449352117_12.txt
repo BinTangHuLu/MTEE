@@ -1,0 +1,3 @@
+There is a puppy. ||Entailment
+There is a camera. ||Entailment
+The puppy is near the camera. ||Entailment

@@ -1,0 +1,3 @@
+there is a child ||entailment
+there are flora ||entailment
+the child is playing with flowers ||entailment

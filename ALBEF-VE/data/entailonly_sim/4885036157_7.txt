@@ -1,0 +1,4 @@
+there is a set ||entailment
+there is a channel ||entailment
+the set is being photographed in the tunnel ||entailment
+the channel is with graffiti ||entailment

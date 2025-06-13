@@ -1,0 +1,4 @@
+There are people. ||entailment
+There are Four. ||entailment
+The people are talking to each other. ||entailment
+The people are outside. ||entailment

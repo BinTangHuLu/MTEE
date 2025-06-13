@@ -1,0 +1,3 @@
+There is a association. ||neutral
+There is a bank. ||neutral
+The association is near the store. ||entailment

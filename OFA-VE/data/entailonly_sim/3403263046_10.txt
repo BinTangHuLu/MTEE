@@ -1,0 +1,5 @@
+There is an animal. ||Contradiction
+There is a homogeneous. ||Contradiction
+The homogeneous is red. ||Contradiction
+The animal is in uniform. ||Contradiction
+The animal handles the ball. ||Contradiction

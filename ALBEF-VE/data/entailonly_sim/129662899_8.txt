@@ -1,0 +1,4 @@
+there is a dude ||entailment
+there are attire ||entailment
+the attire are bright ||entailment
+the dude is dressed in clothes ||entailment

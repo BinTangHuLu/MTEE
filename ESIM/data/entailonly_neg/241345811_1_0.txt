@@ -1,0 +1,7 @@
+There is not a coach. ||contradiction
+There is not a player. ||contradiction
+There is not a team. ||contradiction
+There is not a crowd. ||contradiction
+The coach does not talk with the player. ||contradiction
+The coach is not in front of the team. ||contradiction
+The coach is not in front of the crowd. ||contradiction

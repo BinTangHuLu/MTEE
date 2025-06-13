@@ -1,0 +1,3 @@
+there is not a man ||contradiction
+there is not a checkout ||contradiction
+the man is not walking past checkout ||entailment

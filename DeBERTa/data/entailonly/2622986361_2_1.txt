@@ -1,0 +1,8 @@
+There is a crowd. ||entailment
+There is a ground. ||entailment
+There are some people. ||entailment
+There is a roof. ||entailment
+The crowd is on the ground. ||contradiction
+The people are 3. ||entailment
+The crowd is watching people. ||entailment
+The people are on the edge of the roof. ||entailment

@@ -1,0 +1,4 @@
+there is a man ||entailment
+there is a stall ||entailment
+the man is standing ||entailment
+the man is standing next to the stall ||entailment

@@ -1,0 +1,5 @@
+there is a pup ||entailment
+there is a backpack ||entailment
+the pup is white ||neutral
+the backpack is plastic ||entailment
+the pup is chewing the bag ||neutral

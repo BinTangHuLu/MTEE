@@ -1,0 +1,2 @@
+There is not a Man. ||Entailment
+The Man does not hold on. ||Contradiction

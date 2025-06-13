@@ -1,0 +1,4 @@
+There is not a man. ||contradiction
+There is not a boy. ||contradiction
+The man is not playing at the beach. ||contradiction
+The boy is not playing at the beach. ||contradiction

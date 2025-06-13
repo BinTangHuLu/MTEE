@@ -1,0 +1,5 @@
+There is not a man. ||contradiction
+There is not a woman. ||contradiction
+The man is not talking. ||contradiction
+The man is not wearing pants. ||contradiction
+The woman is not wearing pants. ||contradiction

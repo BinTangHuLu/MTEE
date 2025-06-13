@@ -1,0 +1,8 @@
+There is a female. ||Entailment
+There are fingers. ||Entailment
+There is a culture. ||Entailment
+There is a head piece. ||Entailment
+The female is very colorfully robed. ||Entailment
+The fingers are painted red. ||Neutral
+The female is with fingers. ||Entailment
+The female has on head piece. ||Entailment

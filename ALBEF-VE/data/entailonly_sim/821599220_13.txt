@@ -1,0 +1,5 @@
+there are community ||entailment
+there is a account ||entailment
+the community are in the picture ||entailment
+there are two community ||entailment
+the community are outside people ||entailment

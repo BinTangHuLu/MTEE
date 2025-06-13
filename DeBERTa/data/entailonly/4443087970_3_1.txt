@@ -1,0 +1,5 @@
+There is a person. ||entailment
+There is a phone. ||entailment
+There is outdoors. ||entailment
+The person is on the phone. ||entailment
+The person is outdoors. ||entailment

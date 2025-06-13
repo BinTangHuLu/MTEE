@@ -1,0 +1,4 @@
+there is a man ||entailment
+there is a saxophone ||entailment
+the man is with saxophone ||entailment
+the man plays saxophone ||entailment

@@ -1,0 +1,4 @@
+There are boys. ||Entailment
+There is an edge. ||Entailment
+There are two boys. ||Entailment
+The boys are playing by the edge. ||Entailment

@@ -1,0 +1,3 @@
+There are People. ||entailment
+There is an establishment. ||entailment
+People are in the establishment. ||entailment

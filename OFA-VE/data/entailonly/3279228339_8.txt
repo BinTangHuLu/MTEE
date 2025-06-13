@@ -1,0 +1,3 @@
+There are men. ||Entailment
+There is a cafe. ||Entailment
+The men are in the cafe. ||Entailment

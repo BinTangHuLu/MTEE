@@ -1,0 +1,5 @@
+There are not people. ||Contradiction
+There is not a part. ||Contradiction
+There are not bodies. ||Contradiction
+The part is not at least. ||Entailment
+The people are not moving part. ||Contradiction

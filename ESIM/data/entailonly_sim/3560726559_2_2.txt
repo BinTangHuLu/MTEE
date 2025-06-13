@@ -1,0 +1,4 @@
+There is a child. ||entailment
+There are some attire. ||entailment
+The attire are formal. ||entailment
+The child is wearing clothes. ||entailment

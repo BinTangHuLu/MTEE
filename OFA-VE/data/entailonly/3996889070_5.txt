@@ -1,0 +1,5 @@
+There is a girl. ||Entailment
+There is an animal. ||Entailment
+The girl is little. ||Entailment
+The girl is kind. ||Neutral
+The girl is being animal. ||Entailment

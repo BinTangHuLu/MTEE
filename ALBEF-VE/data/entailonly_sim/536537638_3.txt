@@ -1,0 +1,3 @@
+there is a association ||entailment
+the association is well dressed ||neutral
+the association waits together ||entailment

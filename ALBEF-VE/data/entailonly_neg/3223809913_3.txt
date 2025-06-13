@@ -1,0 +1,4 @@
+there is not a skateboarder ||contradiction
+there is not a stunt ||contradiction
+the stunt is not jumping ||contradiction
+the skateboarder is not performing stunt ||contradiction

@@ -1,0 +1,5 @@
+there are community ||entailment
+there is a marriage party ||entailment
+there is a path ||entailment
+the community are of the wedding party ||entailment
+the community are walking along the sidewalk ||entailment

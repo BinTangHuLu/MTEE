@@ -1,0 +1,3 @@
+there are guys ||entailment
+there is a street ||entailment
+the guys are on the street ||entailment

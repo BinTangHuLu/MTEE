@@ -1,0 +1,3 @@
+There is a contestant. ||neutral
+There is some camel. ||contradiction
+The contestant is working out on sand. ||neutral

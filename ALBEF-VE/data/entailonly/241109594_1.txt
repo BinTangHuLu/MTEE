@@ -1,0 +1,7 @@
+there is a dog ||entailment
+there is a stick ||entailment
+there is water ||entailment
+the dog is black and white ||entailment
+the dog is retrieving ||neutral
+the dog is retrieving stick ||neutral
+the stick is from water ||neutral

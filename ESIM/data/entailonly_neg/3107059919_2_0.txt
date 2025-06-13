@@ -1,0 +1,4 @@
+There is not a girl. ||contradiction
+The girl does not have dark hair. ||contradiction
+There is not sand. ||contradiction
+The girl is not running in sand. ||contradiction

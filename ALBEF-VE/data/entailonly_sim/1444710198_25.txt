@@ -1,0 +1,7 @@
+there are child ||entailment
+there is a basin ||entailment
+there are sand ||neutral
+there is drink ||entailment
+the child are at the lake ||entailment
+the child are playing and skipping rocks ||neutral
+the sand are in the water ||contradiction

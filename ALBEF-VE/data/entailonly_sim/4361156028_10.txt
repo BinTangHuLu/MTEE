@@ -1,0 +1,3 @@
+there are female ||entailment
+the female are angry ||neutral
+the female are on the bus ||entailment

@@ -1,0 +1,5 @@
+there is not a human ||contradiction
+there is not a tree ||contradiction
+there is not a piece ||contradiction
+the human does not hold the piece ||contradiction
+the piece is not of the tree ||entailment

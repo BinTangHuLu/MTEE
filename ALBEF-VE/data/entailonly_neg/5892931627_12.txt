@@ -1,0 +1,6 @@
+there is not a game ||contradiction
+there is not a baseball ||contradiction
+there is not a player ||contradiction
+there is not a ball ||contradiction
+the game is not live ||entailment
+the player does not hit the ball ||contradiction

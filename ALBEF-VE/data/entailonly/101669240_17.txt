@@ -1,0 +1,5 @@
+there is a man ||entailment
+there is a painter ||entailment
+the painter is painting ||entailment
+the man skis and the painter ||entailment
+the painter is painting outside ||entailment

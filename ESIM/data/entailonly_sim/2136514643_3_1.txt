@@ -1,0 +1,6 @@
+There is a child. ||entailment
+The child is smiling. ||entailment
+The child is walking. ||entailment
+The child is with a cellphone. ||entailment
+The child is walking. ||entailment
+The child is with cellphone. ||entailment

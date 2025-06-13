@@ -1,0 +1,6 @@
+there is a guy ||entailment
+there is a skateboard ||entailment
+the skateboard is his ||neutral
+the guy is riding ||entailment
+the guy is riding the skateboard ||entailment
+the skateboard is in the air ||entailment

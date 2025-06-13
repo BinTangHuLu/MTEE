@@ -1,0 +1,3 @@
+there is a circle ||neutral
+the circle is large ||neutral
+the circle has gathered speaker ||entailment

@@ -1,0 +1,5 @@
+There are not visitors. ||contradiction
+The visitors are not Many. ||contradiction
+The visitors do not have fun at celebration. ||contradiction
+There is not a celebration. ||contradiction
+The celebration is not Latin. ||contradiction

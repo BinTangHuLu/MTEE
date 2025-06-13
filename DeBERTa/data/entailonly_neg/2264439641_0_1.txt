@@ -1,0 +1,3 @@
+There is not a woman. ||contradiction
+There is not a little girl. ||contradiction
+The woman does not hold the little girl. ||contradiction

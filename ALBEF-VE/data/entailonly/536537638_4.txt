@@ -1,0 +1,3 @@
+there is a group ||entailment
+the group is uniform ||neutral
+the group is waiting ||entailment

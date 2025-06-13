@@ -1,0 +1,6 @@
+there is not a woman ||contradiction
+there is not a cart ||contradiction
+there is not a parking ||contradiction
+the cart is not for shopping ||contradiction
+the woman is not holding the cart ||contradiction
+the woman is not pushing the cart into the parking ||contradiction

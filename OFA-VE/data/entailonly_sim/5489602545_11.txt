@@ -1,0 +1,3 @@
+There is a body. ||Entailment
+There is some purification. ||Entailment
+The body is performing cleaning. ||Entailment

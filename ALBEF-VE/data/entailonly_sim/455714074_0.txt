@@ -1,0 +1,3 @@
+there is a clan ||entailment
+there is a banquet ||entailment
+the clan is eating dinner ||entailment

@@ -1,0 +1,3 @@
+There is a employee. ||entailment
+There is a child. ||entailment
+The employee is evaluating the girl. ||entailment

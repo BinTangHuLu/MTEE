@@ -1,0 +1,3 @@
+there are dogs ||entailment
+there is a pair ||entailment
+the dogs are outside the pair ||entailment

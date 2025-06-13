@@ -1,0 +1,4 @@
+there is a dude ||entailment
+there are adolescent ||entailment
+the dude is taking pictures ||entailment
+the dude is taking pictures of girls ||entailment

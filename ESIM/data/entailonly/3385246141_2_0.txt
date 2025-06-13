@@ -1,0 +1,5 @@
+There is a man. ||entailment
+There is a skier. ||entailment
+The man photographs. ||entailment
+The skier is performing a trick. ||entailment
+The man photographs the skier. ||entailment

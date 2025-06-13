@@ -1,0 +1,4 @@
+there is a dog ||entailment
+there is a tree ||entailment
+the tree is fallen ||entailment
+the dog walks on the tree ||entailment

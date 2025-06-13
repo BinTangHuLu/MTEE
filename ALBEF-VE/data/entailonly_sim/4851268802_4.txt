@@ -1,0 +1,4 @@
+there is a boy ||entailment
+there is a child ||entailment
+the boy is trying to talk ||neutral
+the boy is trying to talk to the girl ||neutral

@@ -1,0 +1,4 @@
+there is not a man ||contradiction
+there is not a rifle ||contradiction
+the rifle is hisnot ||contradiction
+the man is not aiming the rifle ||entailment

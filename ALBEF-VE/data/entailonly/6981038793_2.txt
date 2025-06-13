@@ -1,0 +1,5 @@
+there is a person ||entailment
+there are some pants ||entailment
+the pants are orange ||contradiction
+the person is in pants ||contradiction
+the person is sking ||entailment

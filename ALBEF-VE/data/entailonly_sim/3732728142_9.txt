@@ -1,0 +1,5 @@
+there is a little ||entailment
+there is a fedora ||contradiction
+the fedora is red ||neutral
+the little is smiling ||neutral
+the little is wearing a hat ||entailment

@@ -1,0 +1,4 @@
+there are dude ||entailment
+there are knickers ||neutral
+the knickers are khaki green ||neutral
+dude are speaking to fellow acquaintances ||entailment

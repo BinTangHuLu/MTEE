@@ -1,0 +1,5 @@
+there is a crowd ||entailment
+there are some people ||entailment
+there is a surfer ||entailment
+the crowd is outside people ||entailment
+the crowd is watching the surfer ||entailment

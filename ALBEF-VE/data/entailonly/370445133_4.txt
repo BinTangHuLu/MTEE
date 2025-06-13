@@ -1,0 +1,4 @@
+there is a man ||entailment
+there is a sport ||entailment
+the sport is equestrian ||neutral
+the man is participating in equestrian ||neutral

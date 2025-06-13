@@ -1,0 +1,4 @@
+there is a human ||entailment
+there is a sign ||entailment
+the human is standing ||entailment
+the human is standing with the sign ||entailment

@@ -1,0 +1,4 @@
+there is not a woman ||contradiction
+there are not things ||contradiction
+there are not many things ||entailment
+the woman does not have many things ||entailment

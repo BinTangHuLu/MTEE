@@ -1,0 +1,4 @@
+there is a person ||entailment
+there is a horse ||entailment
+the person is wearing things ||entailment
+the horse is wearing things ||entailment

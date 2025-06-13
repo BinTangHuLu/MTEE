@@ -1,0 +1,5 @@
+There are not people. ||Contradiction
+There is not a restaurant. ||Contradiction
+There is not decoration. ||Contradiction
+The people are not at the restaurant. ||Entailment
+The restaurant is not near decoration. ||Contradiction

@@ -1,0 +1,2 @@
+EA,man,sitting
+E1RE2,man,sitting on,bench

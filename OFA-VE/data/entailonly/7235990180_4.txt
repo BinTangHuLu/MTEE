@@ -1,0 +1,4 @@
+There is a human. ||Entailment
+There is an object. ||Entailment
+The human is Two. ||Entailment
+The human is making facial expressions. ||Entailment

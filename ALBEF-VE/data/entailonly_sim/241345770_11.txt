@@ -1,0 +1,4 @@
+there is a agreeable ||entailment
+there is a soccer ||contradiction
+the agreeable is in progress ||entailment
+the agreeable is in progress ||entailment

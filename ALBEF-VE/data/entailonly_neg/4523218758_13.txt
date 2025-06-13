@@ -1,0 +1,4 @@
+there is not a group ||contradiction
+there are not some people ||contradiction
+there is not a sidewalk ||contradiction
+the people do not walk on the sidewalk ||contradiction

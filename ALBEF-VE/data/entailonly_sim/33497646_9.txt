@@ -1,0 +1,6 @@
+there is a dude ||entailment
+there is a frame ||entailment
+there is a coast ||entailment
+the frame is his ||neutral
+the dude is showing off his body ||neutral
+the frame is by the beach ||entailment

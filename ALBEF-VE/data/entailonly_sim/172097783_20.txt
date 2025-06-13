@@ -1,0 +1,4 @@
+there is a dude ||entailment
+there is a coat ||contradiction
+the coat is blue ||contradiction
+the dude has jacket ||neutral

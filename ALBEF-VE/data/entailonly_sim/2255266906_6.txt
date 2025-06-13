@@ -1,0 +1,3 @@
+there is a drab ||contradiction
+there is a forest ||entailment
+the drab is in the tree ||contradiction

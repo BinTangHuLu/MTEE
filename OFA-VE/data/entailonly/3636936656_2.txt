@@ -1,0 +1,4 @@
+There is a female. ||Entailment
+There are some clothes. ||Entailment
+The clothes are dark. ||Neutral
+The female is wearing clothes. ||Entailment

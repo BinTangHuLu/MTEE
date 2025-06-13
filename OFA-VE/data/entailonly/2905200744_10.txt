@@ -1,0 +1,3 @@
+There are People. ||Entailment
+There is a vehicle. ||Entailment
+The People are in the vehicle. ||Entailment

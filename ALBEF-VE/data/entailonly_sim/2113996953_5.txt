@@ -1,0 +1,7 @@
+there is a female ||entailment
+there is a barrier ||entailment
+there is a fedora ||contradiction
+the fedora has fruit on it ||entailment
+the female is sitting on the curb ||entailment
+the female is wearing the hat ||entailment
+the baskets are on the barrier ||entailment

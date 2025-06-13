@@ -1,0 +1,4 @@
+There are female. ||entailment
+There are film. ||entailment
+The female are taking. ||entailment
+The film are of each other. ||neutral

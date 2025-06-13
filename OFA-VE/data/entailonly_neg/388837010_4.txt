@@ -1,0 +1,2 @@
+There are not horses. ||Contradiction
+The horses are not far away. ||Entailment

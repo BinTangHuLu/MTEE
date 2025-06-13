@@ -1,0 +1,4 @@
+There are People. ||entailment
+There is a man. ||entailment
+The People are trying to read the man. ||neutral
+The man is writing what. ||entailment

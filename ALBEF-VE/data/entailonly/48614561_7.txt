@@ -1,0 +1,3 @@
+there is a toddler ||entailment
+there is a baby ||entailment
+the toddler plays with the baby ||entailment

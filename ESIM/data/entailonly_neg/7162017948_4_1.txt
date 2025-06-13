@@ -1,0 +1,5 @@
+There is not dough. ||contradiction
+There is not a man. ||contradiction
+There is not a woman. ||contradiction
+The dough is not being cut by the man. ||contradiction
+The dough is not being cut by the woman. ||contradiction

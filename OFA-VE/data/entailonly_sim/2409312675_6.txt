@@ -1,0 +1,2 @@
+There is a artery. ||Entailment
+The ATV is driving down the artery. ||Neutral

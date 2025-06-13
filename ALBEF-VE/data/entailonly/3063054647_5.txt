@@ -1,0 +1,3 @@
+there are children ||entailment
+there are woods ||entailment
+the children are in woods ||entailment

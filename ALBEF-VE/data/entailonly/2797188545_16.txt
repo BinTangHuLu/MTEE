@@ -1,0 +1,4 @@
+there is a person ||entailment
+there is a canoe ||entailment
+the canoe is red ||neutral
+the person is paddling the canoe ||contradiction

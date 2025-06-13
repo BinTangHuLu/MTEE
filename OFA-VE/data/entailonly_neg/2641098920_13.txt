@@ -1,0 +1,4 @@
+There is not a woman. ||Contradiction
+There is not a shirt. ||Entailment
+The shirt is not white. ||Entailment
+The woman does not have a white shirt. ||Entailment

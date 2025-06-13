@@ -1,0 +1,6 @@
+There is a baby. ||entailment
+There is a account. ||contradiction
+The baby is one. ||neutral
+The account is this. ||entailment
+The baby is in the picture. ||contradiction
+The baby is outside. ||entailment

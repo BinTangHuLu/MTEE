@@ -1,0 +1,4 @@
+There are people. ||Entailment
+There are animals. ||Entailment
+The animals are visible. ||Entailment
+The animals are in frame. ||Entailment

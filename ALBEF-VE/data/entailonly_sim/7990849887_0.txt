@@ -1,0 +1,4 @@
+there is an congregation ||entailment
+there is a achievement ||entailment
+the achievement is musical ||neutral
+the congregation is watching the performance ||entailment

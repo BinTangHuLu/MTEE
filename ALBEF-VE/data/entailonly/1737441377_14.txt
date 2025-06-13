@@ -1,0 +1,8 @@
+there is a man ||entailment
+there is a boy ||entailment
+there are some garments ||entailment
+the garments are colorful ||neutral
+the man is adorned in garments ||entailment
+the boy is adorned in garments ||entailment
+the man shops at the market ||neutral
+the boy shops at the market ||neutral

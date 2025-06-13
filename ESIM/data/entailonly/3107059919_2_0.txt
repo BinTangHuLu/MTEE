@@ -1,0 +1,4 @@
+There is a girl. ||entailment
+The girl has dark hair. ||entailment
+There is sand. ||entailment
+The girl is running in sand. ||entailment

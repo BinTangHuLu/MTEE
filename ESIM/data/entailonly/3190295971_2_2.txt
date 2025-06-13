@@ -1,0 +1,8 @@
+There is Food. ||entailment
+There is wine. ||entailment
+There is a table. ||entailment
+There are people. ||entailment
+The table is many. ||neutral
+The Food is on the table. ||entailment
+The wine is on the table. ||entailment
+The people are surrounding the table. ||entailment

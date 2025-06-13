@@ -1,0 +1,4 @@
+there are community ||entailment
+there is a banner ||entailment
+the community are waving ||entailment
+the community are waving a flag ||entailment

@@ -1,0 +1,3 @@
+there is an 88 ||entailment
+there is a base ||entailment
+the 88 tries to tag base ||entailment

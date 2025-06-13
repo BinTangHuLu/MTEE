@@ -1,0 +1,5 @@
+there is a body ||entailment
+there is a auto ||entailment
+there is a avenue ||entailment
+the body goes by the car ||entailment
+the auto is next to the street ||entailment

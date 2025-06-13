@@ -1,0 +1,8 @@
+There is a dude. ||entailment
+There is a costume. ||entailment
+There are some course. ||entailment
+There is a brand tag. ||neutral
+The dude is in a suit. ||entailment
+The costume is with gold. ||entailment
+The dude gestures with his hands. ||entailment
+The dude gestures with hands. ||entailment

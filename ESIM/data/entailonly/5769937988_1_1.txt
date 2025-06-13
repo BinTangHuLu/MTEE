@@ -1,0 +1,5 @@
+There are Chefs. ||entailment
+There is food. ||entailment
+There are customers. ||entailment
+The Chefs are making food. ||entailment
+The food is for customers. ||entailment

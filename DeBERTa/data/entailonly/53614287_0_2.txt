@@ -1,0 +1,5 @@
+There is a boy. ||entailment
+There is a Nintendo DS. ||entailment
+There is a sister. ||entailment
+The boy is playing Nintendo DS. ||entailment
+The boy is with sister. ||entailment

@@ -1,0 +1,9 @@
+There is not a woman. ||contradiction
+There is not a basket. ||contradiction
+There is not a street. ||contradiction
+There is not Nepal. ||contradiction
+The woman is not carrying. ||contradiction
+The basket is not down. ||entailment
+The woman is not carrying the basket. ||contradiction
+The woman is not in the street. ||entailment
+The street is not in Nepal. ||entailment

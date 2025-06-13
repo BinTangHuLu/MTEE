@@ -1,0 +1,3 @@
+there are not people ||contradiction
+there is not a couch ||contradiction
+the people are not on the couch ||entailment

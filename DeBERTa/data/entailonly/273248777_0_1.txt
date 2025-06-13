@@ -1,0 +1,6 @@
+There is a player. ||entailment
+The player is American. ||entailment
+The player is yellow. ||entailment
+The ball catches. ||entailment
+The player catches the ball. ||entailment
+The player is under pressure from another player. ||entailment

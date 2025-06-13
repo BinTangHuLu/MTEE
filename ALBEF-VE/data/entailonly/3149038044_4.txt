@@ -1,0 +1,3 @@
+there are kids ||entailment
+there is grass ||entailment
+the kids are playing on grass ||entailment

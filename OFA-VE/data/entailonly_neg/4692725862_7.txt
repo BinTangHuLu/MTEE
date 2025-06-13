@@ -1,0 +1,2 @@
+There are not kick boards. ||Entailment
+The kick boards cannot float. ||Contradiction

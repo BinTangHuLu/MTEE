@@ -1,0 +1,3 @@
+there is not water ||contradiction
+there is not a picture ||entailment
+the water is not in the picture ||neutral

@@ -1,0 +1,4 @@
+there is not a boy ||contradiction
+the boy is not little ||contradiction
+there is not a red ||contradiction
+the boy is not wearing red ||contradiction

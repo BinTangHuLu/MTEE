@@ -1,0 +1,4 @@
+There is not a Day. ||Contradiction
+There is not a St. Patrick's Day. ||Contradiction
+There is not an officer. ||Entailment
+The officer is not inside Day. ||Entailment

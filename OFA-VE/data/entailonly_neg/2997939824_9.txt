@@ -1,0 +1,5 @@
+There are not People. ||Contradiction
+There are not uniforms. ||Contradiction
+There is not an activity. ||Contradiction
+The People are not wearing uniforms. ||Contradiction
+The People are not performing the activity. ||Contradiction

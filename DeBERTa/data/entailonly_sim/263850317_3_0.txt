@@ -1,0 +1,5 @@
+There is a female. ||entailment
+There is a dress. ||neutral
+The female is young. ||entailment
+The dress is black. ||neutral
+The female is walking next to shops. ||entailment

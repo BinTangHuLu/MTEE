@@ -1,0 +1,4 @@
+there is a man ||entailment
+there is a hat ||entailment
+the hat is red ||neutral
+the man is in the hat ||entailment

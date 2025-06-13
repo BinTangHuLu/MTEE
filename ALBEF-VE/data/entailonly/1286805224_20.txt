@@ -1,0 +1,3 @@
+there is a female ||entailment
+there is indoors ||entailment
+the female is indoors ||entailment

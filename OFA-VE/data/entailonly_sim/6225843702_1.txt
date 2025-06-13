@@ -1,0 +1,3 @@
+There is a body. ||Entailment
+The body is exercising. ||Entailment
+The body is exercising person. ||Entailment

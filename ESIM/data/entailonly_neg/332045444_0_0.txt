@@ -1,0 +1,4 @@
+There is not a dog. ||contradiction
+There is not a stick. ||contradiction
+The dog does not run with the stick. ||contradiction
+The dog does not have the stick in his mouth. ||contradiction

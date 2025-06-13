@@ -1,0 +1,5 @@
+There are girls. ||Entailment
+The girls are different. ||Entailment
+There are outfits. ||Entailment
+The outfits are different. ||Entailment
+The girls are facing each other. ||Entailment

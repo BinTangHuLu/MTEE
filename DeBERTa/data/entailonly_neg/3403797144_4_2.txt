@@ -1,0 +1,3 @@
+There is not a surfer. ||contradiction
+There is not a swell. ||contradiction
+The surfer is not catching the swell. ||contradiction

@@ -1,0 +1,4 @@
+there is not a man ||contradiction
+there are not colors ||contradiction
+the colors are not traditional halloween ||entailment
+the man is not wearing traditional halloween colors ||entailment

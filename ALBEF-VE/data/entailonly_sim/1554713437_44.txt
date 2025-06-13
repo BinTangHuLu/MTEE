@@ -1,0 +1,6 @@
+there is a pup ||entailment
+there is a bit ||entailment
+there is a forest ||entailment
+the forest is fallen ||entailment
+the pup walks upon the piece ||entailment
+the bit is from the tree ||neutral

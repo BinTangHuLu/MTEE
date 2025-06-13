@@ -1,0 +1,3 @@
+there are not people ||contradiction
+there is not a plane ||contradiction
+the people are not entering the plane ||entailment

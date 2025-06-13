@@ -1,0 +1,6 @@
+there is not a person ||contradiction
+there are not some notes ||contradiction
+there is not a wall ||contradiction
+the person is not uniformed ||contradiction
+the person does not look at notes ||contradiction
+the person is not leaning against the wall ||contradiction

@@ -1,0 +1,5 @@
+there are not people ||contradiction
+there is not equipment ||contradiction
+there are not rocks ||contradiction
+the people are not with equipment ||contradiction
+the people are not sitting on rocks ||contradiction

@@ -1,0 +1,5 @@
+there is not a dog ||contradiction
+there is not a dog ||contradiction
+the dog is not large ||entailment
+the dog is not small ||entailment
+the dog is not beneath the dog ||entailment

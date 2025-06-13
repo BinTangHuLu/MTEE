@@ -1,0 +1,3 @@
+there are community ||entailment
+there is a farmland ||contradiction
+the community are sitting in the field ||entailment

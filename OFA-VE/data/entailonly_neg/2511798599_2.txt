@@ -1,0 +1,3 @@
+There are not people. ||Contradiction
+There is not a megaphone. ||Contradiction
+The people are not speaking into the megaphone. ||Entailment

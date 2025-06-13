@@ -1,0 +1,3 @@
+there is not an african american ||contradiction
+there is not a street ||contradiction
+the african american is not crossing the street ||entailment

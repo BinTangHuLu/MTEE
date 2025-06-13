@@ -1,0 +1,4 @@
+There is a baby. ||entailment
+There is a deluge. ||contradiction
+The baby is clothed. ||entailment
+The baby is in the shower. ||entailment

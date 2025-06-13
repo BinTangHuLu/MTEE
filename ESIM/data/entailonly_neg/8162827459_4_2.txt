@@ -1,0 +1,4 @@
+There is not a woman. ||contradiction
+There is not a park. ||contradiction
+The woman is not jogging. ||contradiction
+The woman is not in the park. ||contradiction

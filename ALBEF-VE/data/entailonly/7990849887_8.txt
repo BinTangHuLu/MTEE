@@ -1,0 +1,3 @@
+there are artists ||entailment
+there are two artists ||entailment
+the artists are performing live ||entailment

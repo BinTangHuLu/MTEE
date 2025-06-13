@@ -1,0 +1,7 @@
+There are not People. ||contradiction
+The People do not have blue hard hats. ||contradiction
+There is not a man. ||contradiction
+The man is not wearing a white shirt. ||contradiction
+The man is not wearing shorts. ||contradiction
+The People do not watch as the man. ||neutral
+The man rock does not climb. ||contradiction

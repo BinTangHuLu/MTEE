@@ -1,0 +1,3 @@
+there is a baby ||entailment
+the baby is tired ||neutral
+the baby looks tired ||neutral

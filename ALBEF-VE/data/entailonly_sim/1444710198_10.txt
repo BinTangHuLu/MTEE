@@ -1,0 +1,3 @@
+there are child ||entailment
+there are sand ||neutral
+the child are throwing rocks ||entailment

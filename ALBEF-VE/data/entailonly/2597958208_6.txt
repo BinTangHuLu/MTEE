@@ -1,0 +1,3 @@
+there are children ||entailment
+there is a field ||entailment
+the children play in the field ||entailment

@@ -1,0 +1,6 @@
+there is not a man ||contradiction
+there are not fatigues ||contradiction
+there is not my ||entailment
+the fatigues are not military ||contradiction
+my is not lying down ||entailment
+the man does not help my ||contradiction

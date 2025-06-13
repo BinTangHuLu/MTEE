@@ -1,0 +1,3 @@
+there is a man ||entailment
+there is a flannel ||entailment
+the man is wearing flannel ||neutral

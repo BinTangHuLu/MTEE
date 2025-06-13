@@ -1,0 +1,4 @@
+there are men ||entailment
+there is a building ||entailment
+the men are dressed up ||entailment
+the men are sitting in front of the building ||entailment

@@ -1,0 +1,4 @@
+There is a lady. ||Entailment
+The lady is young. ||Entailment
+There is a bike. ||Entailment
+The lady is preparing to ride the bike. ||Neutral

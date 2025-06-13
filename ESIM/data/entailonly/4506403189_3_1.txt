@@ -1,0 +1,5 @@
+There is a man. ||entailment
+There is a bus. ||entailment
+There is Iraq. ||entailment
+The man is waiting for the bus. ||entailment
+The man is in Iraq. ||entailment

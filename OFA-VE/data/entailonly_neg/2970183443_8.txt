@@ -1,0 +1,5 @@
+There is not a man. ||Contradiction
+There is not a child. ||Contradiction
+There is not an animal. ||Contradiction
+The man is not next to the animal. ||Contradiction
+The child is not next to the animal. ||Entailment

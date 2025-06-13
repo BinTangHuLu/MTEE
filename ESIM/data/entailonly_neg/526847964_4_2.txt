@@ -1,0 +1,3 @@
+There is not John McCain. ||contradiction
+There is not a talk show. ||contradiction
+John McCain is not on the talk show. ||contradiction

@@ -1,0 +1,5 @@
+there is not a cup ||contradiction
+there is not a hand ||contradiction
+there is not a man ||contradiction
+the cup is not in the hand ||neutral
+the hand is not of the man ||entailment

@@ -1,0 +1,3 @@
+there are not people ||contradiction
+there is not water ||contradiction
+people are not in water ||contradiction

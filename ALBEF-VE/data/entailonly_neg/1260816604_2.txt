@@ -1,0 +1,6 @@
+there is not a driver ||contradiction
+there is not a car ||contradiction
+there is not a bridge ||contradiction
+the car is not red ||contradiction
+the driver is not in the car ||contradiction
+the car is not on the bridge ||neutral

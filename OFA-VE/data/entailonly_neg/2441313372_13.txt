@@ -1,0 +1,4 @@
+There is not a boy. ||Contradiction
+There is not a bed. ||Contradiction
+The boy is not laying. ||Entailment
+The boy is not in bed. ||Entailment

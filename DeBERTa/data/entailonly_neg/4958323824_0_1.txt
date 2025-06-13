@@ -1,0 +1,5 @@
+There is not a person. ||contradiction
+There is not an institution. ||contradiction
+There is not protection. ||contradiction
+There are not meals. ||contradiction
+The person does not work with meals. ||contradiction

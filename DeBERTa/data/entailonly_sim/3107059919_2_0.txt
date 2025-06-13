@@ -1,0 +1,4 @@
+There is a child. ||entailment
+The child has dark hair. ||entailment
+There is camel. ||contradiction
+The child is running in sand. ||entailment

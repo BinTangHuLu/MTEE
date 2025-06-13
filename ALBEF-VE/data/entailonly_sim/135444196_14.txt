@@ -1,0 +1,7 @@
+there is a body ||entailment
+there is a avenue ||entailment
+the body is red ||neutral
+the body is in the street ||entailment
+there is another body ||neutral
+the other body is blue ||neutral
+the body is along with the other person ||contradiction

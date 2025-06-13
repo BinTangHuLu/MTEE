@@ -1,0 +1,3 @@
+There are people. ||Entailment
+There is some food. ||Entailment
+The people are preparing some food. ||Entailment

@@ -1,0 +1,4 @@
+There is not a guy. ||contradiction
+The guy does not have funky clothes. ||contradiction
+There is not a bench. ||contradiction
+The guy is not on the bench. ||contradiction

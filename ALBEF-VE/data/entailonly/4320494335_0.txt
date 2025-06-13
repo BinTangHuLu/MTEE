@@ -1,0 +1,7 @@
+there is a man ||entailment
+there is a woman ||entailment
+there is an area ||entailment
+the area is residential ||neutral
+the man and woman are outside ||entailment
+the man is outside in the area ||entailment
+the woman is outside in the area ||entailment

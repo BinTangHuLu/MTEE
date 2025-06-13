@@ -1,0 +1,3 @@
+there is a child ||entailment
+there is a colt ||neutral
+the child is on the horse ||entailment

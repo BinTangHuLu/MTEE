@@ -1,0 +1,5 @@
+there is a body ||entailment
+there is a estate ||entailment
+there is a glide ||entailment
+the body is at the park ||contradiction
+the estate is at the skate ||entailment

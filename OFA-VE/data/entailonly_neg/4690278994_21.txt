@@ -1,0 +1,2 @@
+There is not a guy. ||Contradiction
+The guy is not running. ||Entailment

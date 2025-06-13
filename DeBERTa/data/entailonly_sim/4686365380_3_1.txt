@@ -1,0 +1,5 @@
+There are community. ||entailment
+There is a account. ||entailment
+The account is this. ||entailment
+The community are in the picture. ||entailment
+The community are inside NA. ||neutral

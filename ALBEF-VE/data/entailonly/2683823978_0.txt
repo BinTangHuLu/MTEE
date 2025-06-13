@@ -1,0 +1,4 @@
+there are humans ||entailment
+there are bikes ||entailment
+the humans are female ||neutral
+the humans are near bikes ||entailment

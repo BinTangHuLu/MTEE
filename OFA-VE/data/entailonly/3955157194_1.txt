@@ -1,0 +1,4 @@
+There is a child. ||Entailment
+There is a machine. ||Entailment
+The machine is large. ||Entailment
+The child holds onto the machine. ||Entailment

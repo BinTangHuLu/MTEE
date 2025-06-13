@@ -1,0 +1,6 @@
+there is a fawn ||entailment
+there is a girl ||entailment
+there is a skirt ||entailment
+the fawn is wild ||neutral
+the girl is in skirt ||entailment
+the fawn is being pet by the girl ||entailment

@@ -1,0 +1,3 @@
+there is a lady ||entailment
+there is a musician ||entailment
+the lady is a musician ||entailment

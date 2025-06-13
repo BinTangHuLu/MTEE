@@ -1,0 +1,5 @@
+There is a dude. ||entailment
+The dude is young. ||entailment
+The dude is in swimming attire. ||entailment
+There is drink. ||entailment
+The dude enters water. ||entailment

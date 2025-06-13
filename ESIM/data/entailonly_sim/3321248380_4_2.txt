@@ -1,0 +1,5 @@
+There is a dude. ||entailment
+There are some development. ||neutral
+There is a rickshaw. ||neutral
+The dude is moving items. ||entailment
+The dude is moving the cart. ||entailment

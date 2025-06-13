@@ -1,0 +1,4 @@
+There is not a guy. ||contradiction
+There are not some sunglasses. ||contradiction
+The sunglasses are not wearing. ||contradiction
+The guy is not wearing sunglasses. ||contradiction

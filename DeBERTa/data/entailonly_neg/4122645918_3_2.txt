@@ -1,0 +1,4 @@
+There are not people. ||contradiction
+There is not scaffolding. ||contradiction
+The people are not young. ||contradiction
+The people do not play on scaffolding. ||contradiction

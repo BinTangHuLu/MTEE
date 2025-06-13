@@ -1,0 +1,6 @@
+There is a dude. ||Entailment
+There is a appearance. ||Entailment
+There is a blaze. ||Entailment
+The appearance is doing. ||Entailment
+The dude is doing the show. ||Neutral
+The appearance is with fire. ||Entailment

@@ -1,0 +1,3 @@
+there is a athlete ||entailment
+there is some atmosphere ||entailment
+the athlete is in air ||entailment

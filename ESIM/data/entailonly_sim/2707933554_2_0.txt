@@ -1,0 +1,4 @@
+There is a childbearing. ||entailment
+There is a appendage. ||entailment
+The childbearing has a bee. ||entailment
+The childbearing has a hand. ||entailment

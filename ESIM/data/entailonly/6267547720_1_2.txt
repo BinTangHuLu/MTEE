@@ -1,0 +1,4 @@
+There is a man. ||entailment
+There is a crowd. ||neutral
+The man is creative. ||entailment
+The man is being crowd. ||neutral

@@ -1,0 +1,5 @@
+there is a mom ||entailment
+there are some clan ||entailment
+there is a estate ||entailment
+the mom is swinging the children ||neutral
+the clan are swinging at the park ||entailment

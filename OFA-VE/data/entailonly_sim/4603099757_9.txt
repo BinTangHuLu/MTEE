@@ -1,0 +1,5 @@
+There is a female. ||Entailment
+There is a blouse. ||Entailment
+The female is blond. ||Entailment
+The blouse is yellow. ||Entailment
+The female is in the shirt. ||Entailment

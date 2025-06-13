@@ -1,0 +1,4 @@
+There is not a team. ||contradiction
+There is not a subway station. ||contradiction
+The team is not under construction. ||contradiction
+The team is not working in the subway station. ||contradiction

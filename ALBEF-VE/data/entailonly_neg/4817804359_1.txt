@@ -1,0 +1,3 @@
+there are not people ||contradiction
+the people are not crowded ||neutral
+the people are not crowded together ||neutral

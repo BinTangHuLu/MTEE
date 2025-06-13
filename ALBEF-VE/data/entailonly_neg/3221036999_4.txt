@@ -1,0 +1,4 @@
+there is not a motocross rider ||contradiction
+there is not a ramp ||contradiction
+the motocross rider is not jumping ||contradiction
+the motocross rider is not jumping from ramp ||contradiction

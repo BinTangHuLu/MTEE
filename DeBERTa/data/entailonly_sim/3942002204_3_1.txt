@@ -1,0 +1,5 @@
+There are community. ||entailment
+There is a chat. ||entailment
+There is a block. ||entailment
+The community are in conversation at the bar. ||entailment
+The community are sitting at the bar. ||entailment

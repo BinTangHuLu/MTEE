@@ -1,0 +1,2 @@
+There are not snowboarders. ||contradiction
+The snowboarders do not race Two. ||contradiction

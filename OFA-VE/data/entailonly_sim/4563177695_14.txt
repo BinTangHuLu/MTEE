@@ -1,0 +1,4 @@
+There are band. ||Contradiction
+There is dirt. ||Entailment
+The band have feet. ||Contradiction
+The feet are on dirt. ||Contradiction

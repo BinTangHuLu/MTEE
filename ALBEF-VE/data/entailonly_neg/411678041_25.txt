@@ -1,0 +1,7 @@
+there is not a man ||contradiction
+there is not a horse ||contradiction
+there is not a street ||contradiction
+there are not some people ||contradiction
+the man is not on the horse ||entailment
+the man does not go down the street ||contradiction
+the people do not watch the man ||contradiction

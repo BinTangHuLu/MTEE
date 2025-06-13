@@ -1,0 +1,6 @@
+There is a man. ||entailment
+There is a woman. ||entailment
+There is an area. ||entailment
+There is a metropolitan. ||entailment
+The man is in the area. ||entailment
+The woman is in the area. ||entailment

@@ -1,0 +1,3 @@
+There is not someone. ||Contradiction
+There is not a car. ||Contradiction
+Someone is not sitting inside of the car. ||Entailment

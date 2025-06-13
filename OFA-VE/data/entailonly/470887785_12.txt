@@ -1,0 +1,5 @@
+There is a woman. ||Entailment
+There are some sounds. ||Entailment
+There is a mouth. ||Contradiction
+The woman has sounds. ||Entailment
+The sounds are emanating from the mouth. ||Entailment

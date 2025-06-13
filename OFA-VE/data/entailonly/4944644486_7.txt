@@ -1,0 +1,2 @@
+There are tourists. ||Entailment
+The tourists are on vacation. ||Neutral

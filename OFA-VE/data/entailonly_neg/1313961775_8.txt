@@ -1,0 +1,5 @@
+There is not a child. ||Contradiction
+The child is not young. ||Entailment
+The child is using somethingnot . ||Entailment
+There is not something. ||Contradiction
+The something is not to float in water. ||Entailment

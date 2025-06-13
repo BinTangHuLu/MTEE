@@ -1,0 +1,5 @@
+There are not men. ||contradiction
+There are not innertubes. ||contradiction
+There is not water. ||contradiction
+The men do not sit on innertubes. ||contradiction
+The men do not sit in the middle of water. ||contradiction

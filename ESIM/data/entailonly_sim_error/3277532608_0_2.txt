@@ -1,0 +1,2 @@
+E1R,people,to cross
+E1RE2,Traffic,waits for,people

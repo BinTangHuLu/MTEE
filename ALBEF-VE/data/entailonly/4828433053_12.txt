@@ -1,0 +1,3 @@
+there is a human ||entailment
+there are some shorts ||entailment
+the shorts are in ||neutral

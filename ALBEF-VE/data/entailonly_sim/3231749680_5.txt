@@ -1,0 +1,3 @@
+there are clan ||entailment
+there is a basement ||entailment
+the clan are sleeping on the floor ||contradiction

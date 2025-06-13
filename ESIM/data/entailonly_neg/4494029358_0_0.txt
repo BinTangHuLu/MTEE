@@ -1,0 +1,9 @@
+There is not a Lady. ||contradiction
+There is not a bag. ||contradiction
+There is not a blouse. ||contradiction
+There is not a man. ||contradiction
+The bag is not pink. ||contradiction
+The blouse is not pink. ||contradiction
+The Lady is not with the bag. ||contradiction
+The Lady is not with the blouse. ||contradiction
+The Lady does not reach toward the man. ||contradiction

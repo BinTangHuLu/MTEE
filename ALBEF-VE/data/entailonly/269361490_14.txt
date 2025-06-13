@@ -1,0 +1,5 @@
+there are people ||entailment
+there is a street ||entailment
+there are trees ||entailment
+the people are walking down the street ||entailment
+the street is with trees ||entailment

@@ -1,0 +1,3 @@
+there is a boy ||entailment
+there is a shop ||entailment
+the boy is inside shop ||entailment

@@ -1,0 +1,4 @@
+there is not a child ||contradiction
+there is not an indoor ||contradiction
+the child is not laying ||contradiction
+the child is not laying indoor ||entailment

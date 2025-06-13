@@ -1,0 +1,10 @@
+there is a waters edge ||entailment
+there are sleeves ||entailment
+there are sunglasses ||neutral
+there is a man ||entailment
+there is a post ||entailment
+there is a newspaper ||entailment
+the post is brightly colored ||entailment
+the man is reading ||entailment
+the man leans against the post ||entailment
+the man is reading the newspaper ||neutral

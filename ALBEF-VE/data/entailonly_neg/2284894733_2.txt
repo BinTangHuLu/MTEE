@@ -1,0 +1,3 @@
+there is not a dog ||contradiction
+there is not some noise ||entailment
+the dog is not making noise ||contradiction

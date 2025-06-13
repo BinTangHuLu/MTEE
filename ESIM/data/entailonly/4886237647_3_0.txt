@@ -1,0 +1,5 @@
+There is a walkway. ||entailment
+There is a group. ||entailment
+There are men. ||entailment
+The walkway has a group. ||entailment
+The group is riding on it. ||entailment

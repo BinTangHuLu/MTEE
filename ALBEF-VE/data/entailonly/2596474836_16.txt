@@ -1,0 +1,5 @@
+there is a man ||entailment
+there is a girl ||entailment
+there is a pool ||entailment
+the man is holding the girl ||contradiction
+the man is in the pool ||entailment

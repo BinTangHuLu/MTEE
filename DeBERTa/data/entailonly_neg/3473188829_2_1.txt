@@ -1,0 +1,4 @@
+There are not Workers. ||contradiction
+The Workers are not filling orders. ||contradiction
+There is not robbins. ||contradiction
+The Workers are not at basking. ||contradiction

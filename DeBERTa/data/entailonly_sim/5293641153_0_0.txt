@@ -1,0 +1,5 @@
+There is a dude. ||entailment
+There are some sand. ||neutral
+There are some enough. ||neutral
+The dude is jumping over rocks. ||entailment
+The sand are near mountains. ||entailment

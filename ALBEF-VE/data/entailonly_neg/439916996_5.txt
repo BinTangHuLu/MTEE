@@ -1,0 +1,5 @@
+there is not a woman ||contradiction
+there is not a dog ||contradiction
+the woman is not white ||entailment
+the dog is not brown ||contradiction
+the woman does not watch dog ||contradiction

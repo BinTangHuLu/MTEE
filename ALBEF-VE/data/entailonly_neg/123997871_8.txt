@@ -1,0 +1,5 @@
+there are not girls ||contradiction
+there are not dresses ||contradiction
+there are not glasses ||contradiction
+the girls are not wearing dresses ||entailment
+the girls are not wearing glasses ||contradiction

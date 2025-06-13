@@ -1,0 +1,6 @@
+There is not a man. ||Contradiction
+There is not a show. ||Contradiction
+There is not a fire. ||Contradiction
+The show is not doing. ||Contradiction
+The man is not doing the show. ||Contradiction
+The show is not with fire. ||Entailment

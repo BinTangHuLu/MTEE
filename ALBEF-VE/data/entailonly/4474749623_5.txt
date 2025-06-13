@@ -1,0 +1,4 @@
+there are people ||entailment
+there are umbrellas ||entailment
+the umbrellas are different color ||neutral
+the people have umbrellas ||entailment

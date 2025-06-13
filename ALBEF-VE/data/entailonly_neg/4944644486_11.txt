@@ -1,0 +1,8 @@
+there is not a group ||contradiction
+there are not adults ||entailment
+there are not children ||contradiction
+there is not a line ||contradiction
+there is not a statue ||entailment
+the adults do not travel through the line ||entailment
+the line is not along side the statue ||entailment
+the group does not travel through the line ||entailment

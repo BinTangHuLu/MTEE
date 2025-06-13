@@ -1,0 +1,3 @@
+there is a little ||entailment
+there is a fedora ||contradiction
+the little is wearing the hat ||entailment

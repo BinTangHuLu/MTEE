@@ -1,0 +1,3 @@
+There are not children. ||Contradiction
+There are not chalkboards. ||Entailment
+The children are not with chalkboards. ||Entailment

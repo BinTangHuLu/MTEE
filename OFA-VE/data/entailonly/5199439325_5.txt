@@ -1,0 +1,6 @@
+There is a student. ||Entailment
+There are some activities. ||Entailment
+There is a class. ||Entailment
+The activities are artistic. ||Entailment
+The student is doing activities. ||Entailment
+The activities are in class. ||Entailment

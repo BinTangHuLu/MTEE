@@ -1,0 +1,3 @@
+There is a child. ||Entailment
+There are some blankets. ||Entailment
+The child is near blankets. ||Entailment

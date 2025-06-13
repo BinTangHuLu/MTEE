@@ -1,0 +1,4 @@
+There is a dude. ||Entailment
+There is a call up. ||Entailment
+There is an farther. ||Entailment
+The dude is on phone. ||Entailment

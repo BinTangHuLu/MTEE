@@ -1,0 +1,3 @@
+There are band. ||Contradiction
+There is apparatus. ||Entailment
+The Workers are unloading apparatus. ||Neutral

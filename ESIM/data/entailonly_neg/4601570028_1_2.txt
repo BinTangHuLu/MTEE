@@ -1,0 +1,4 @@
+There is not a barber. ||contradiction
+There is not a sports shop. ||contradiction
+The barber is not eagerly. ||neutral
+The barber does not wait for sports shop. ||contradiction

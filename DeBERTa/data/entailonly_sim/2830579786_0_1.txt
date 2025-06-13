@@ -1,0 +1,2 @@
+There are some community. ||entailment
+The bus is carrying community. ||entailment

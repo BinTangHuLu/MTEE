@@ -1,0 +1,3 @@
+there is a wedding party ||entailment
+there is an aisle ||entailment
+the wedding party is walking down the aisle ||neutral

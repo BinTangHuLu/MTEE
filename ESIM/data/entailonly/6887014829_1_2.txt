@@ -1,0 +1,5 @@
+There is a man. ||entailment
+There is a woman. ||entailment
+There are sunglasses. ||entailment
+The man is wearing sunglasses. ||entailment
+The woman is wearing sunglasses. ||entailment

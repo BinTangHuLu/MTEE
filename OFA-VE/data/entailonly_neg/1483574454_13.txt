@@ -1,0 +1,4 @@
+There is not a shop. ||Entailment
+There are not varities. ||Entailment
+There are not bicycles. ||Entailment
+The shop does not have varities. ||Contradiction

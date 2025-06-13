@@ -1,0 +1,4 @@
+There is a dog. ||Entailment
+There is some air. ||Entailment
+The dog is jumping. ||Entailment
+The dog is in the air. ||Entailment

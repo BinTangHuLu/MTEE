@@ -1,0 +1,4 @@
+There are people. ||Entailment
+There is gear. ||Entailment
+The gear is protective. ||Entailment
+The people are wearing gear. ||Entailment

@@ -1,0 +1,5 @@
+There are People. ||Entailment
+There is a river. ||Entailment
+There are rocks. ||Entailment
+People are by the river. ||Entailment
+People are standing on rocks. ||Entailment

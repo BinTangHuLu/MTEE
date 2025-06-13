@@ -1,0 +1,3 @@
+There are not bridesmaids. ||contradiction
+There is not a bride. ||contradiction
+The bridesmaids are not assisting the bride. ||contradiction

@@ -1,0 +1,5 @@
+There is a man. ||entailment
+There is a desk. ||entailment
+There is a computer. ||entailment
+The man is near the desk. ||entailment
+The man is near the computer. ||entailment

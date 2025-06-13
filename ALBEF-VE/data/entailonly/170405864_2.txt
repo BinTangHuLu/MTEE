@@ -1,0 +1,7 @@
+there is a woman ||entailment
+there is a platform ||entailment
+there is a cup ||entailment
+the woman is beautiful ||neutral
+the cup is red ||neutral
+the woman is dancing on the platform ||entailment
+the woman is holding the cup ||entailment

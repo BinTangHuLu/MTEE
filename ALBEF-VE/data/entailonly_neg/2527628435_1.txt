@@ -1,0 +1,3 @@
+there is not a man ||contradiction
+there is not a book ||contradiction
+the man does not sit and reads the book ||entailment

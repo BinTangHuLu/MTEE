@@ -1,0 +1,4 @@
+there is a female ||entailment
+there is a homogeneous ||entailment
+the female is chinese ||neutral
+the female is wearing a uniform ||entailment

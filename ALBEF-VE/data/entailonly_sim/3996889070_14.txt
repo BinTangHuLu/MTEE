@@ -1,0 +1,6 @@
+there is a crouch ||entailment
+there is a child ||entailment
+there is a dress ||contradiction
+the crouch is wild ||neutral
+the child is in skirt ||entailment
+the crouch is being pet by the girl ||entailment

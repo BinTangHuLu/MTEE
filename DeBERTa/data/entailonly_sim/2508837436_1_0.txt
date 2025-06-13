@@ -1,0 +1,4 @@
+There is a circle. ||contradiction
+There are some community. ||entailment
+There is a avenue. ||entailment
+The circle stands in the street. ||contradiction

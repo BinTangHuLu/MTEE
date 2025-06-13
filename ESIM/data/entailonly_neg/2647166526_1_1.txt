@@ -1,0 +1,2 @@
+There is not a ballerina. ||contradiction
+The ballerina is not talking. ||contradiction

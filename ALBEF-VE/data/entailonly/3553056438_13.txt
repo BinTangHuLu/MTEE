@@ -1,0 +1,8 @@
+there is a boy ||entailment
+there is a girl ||entailment
+the boy is young ||entailment
+the girl is young ||entailment
+the boy kisses with the girl ||contradiction
+the boy is near hay ||entailment
+the boy is near autumn display ||entailment
+the girl is near hay ||entailment

@@ -1,0 +1,3 @@
+there are adolescent ||entailment
+there is a club ||entailment
+the adolescent are on the team ||entailment

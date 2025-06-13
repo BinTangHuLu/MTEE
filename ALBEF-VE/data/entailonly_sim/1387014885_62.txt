@@ -1,0 +1,5 @@
+there is a account ||entailment
+there are community ||entailment
+there is a gig ||entailment
+the account shows people ||entailment
+the community are at the concert ||entailment

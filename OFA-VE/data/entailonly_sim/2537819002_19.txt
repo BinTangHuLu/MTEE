@@ -1,0 +1,2 @@
+There are band. ||Contradiction
+The Workers are hard at effort. ||Entailment

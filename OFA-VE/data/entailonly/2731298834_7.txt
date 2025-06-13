@@ -1,0 +1,2 @@
+There is water. ||Entailment
+The water is cold. ||Entailment

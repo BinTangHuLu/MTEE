@@ -1,0 +1,4 @@
+there are adolescent ||entailment
+the adolescent are each ||neutral
+the adolescent are wearing ||entailment
+the adolescent are different ||entailment

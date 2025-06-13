@@ -1,0 +1,4 @@
+There is a dude. ||Entailment
+There is a account. ||Entailment
+The account is taken. ||Entailment
+The dude has a picture. ||Entailment

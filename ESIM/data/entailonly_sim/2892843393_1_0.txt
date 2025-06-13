@@ -1,0 +1,4 @@
+There is a body. ||entailment
+There is a accumulation. ||entailment
+The body is near the pile. ||entailment
+The accumulation is of coconuts. ||entailment

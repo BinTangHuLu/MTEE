@@ -1,0 +1,5 @@
+There are clan. ||Entailment
+There is a camcorder. ||Contradiction
+The clan are playful. ||Neutral
+The clan are being playful. ||Neutral
+The clan are in front of the camera. ||Entailment

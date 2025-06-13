@@ -1,0 +1,3 @@
+There is not paper. ||contradiction
+There is not a camera. ||contradiction
+The paper is not being held up to the camera. ||contradiction

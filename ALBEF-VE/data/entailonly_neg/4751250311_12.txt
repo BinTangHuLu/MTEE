@@ -1,0 +1,3 @@
+there is not a man ||contradiction
+the man is not dark skinned ||entailment
+the man is not moving ||contradiction

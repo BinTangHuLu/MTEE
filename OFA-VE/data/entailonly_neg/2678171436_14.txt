@@ -1,0 +1,5 @@
+There is not a human. ||Contradiction
+There is not a tree. ||Contradiction
+There is not a piece. ||Contradiction
+The human does not hold the piece. ||Contradiction
+The piece is not of the tree. ||Contradiction

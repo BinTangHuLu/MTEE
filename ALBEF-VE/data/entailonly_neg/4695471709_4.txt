@@ -1,0 +1,4 @@
+there is not a statue ||contradiction
+there are not some steps ||contradiction
+the statue is not located ||contradiction
+the statue is not located above steps ||contradiction

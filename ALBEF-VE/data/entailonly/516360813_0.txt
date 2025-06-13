@@ -1,0 +1,4 @@
+there is a man ||entailment
+there are some peanuts ||entailment
+the man is opening ||entailment
+the man is opening peanuts ||contradiction

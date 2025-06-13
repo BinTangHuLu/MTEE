@@ -1,0 +1,7 @@
+there is a dude ||entailment
+there is a female ||entailment
+there is a association ||entailment
+the association is celebratory ||entailment
+the dude and woman are at the gathering ||entailment
+the dude is at the gathering ||entailment
+the female is at the gathering ||entailment

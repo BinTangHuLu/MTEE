@@ -1,0 +1,4 @@
+There is a dude. ||entailment
+There is a cord. ||entailment
+There is a pup. ||entailment
+The dude is holding the leash. ||entailment

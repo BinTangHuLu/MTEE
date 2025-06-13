@@ -1,0 +1,3 @@
+There are artillery. ||Entailment
+There are battery. ||Entailment
+The artillery carry weapons. ||Neutral

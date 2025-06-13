@@ -1,0 +1,3 @@
+there are people ||entailment
+there is a meal ||entailment
+the people are having the meal ||entailment

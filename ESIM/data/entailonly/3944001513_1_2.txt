@@ -1,0 +1,4 @@
+There is a man. ||entailment
+There is a newspaper. ||entailment
+The man is reading the newspaper. ||entailment
+The man is sitting down. ||contradiction

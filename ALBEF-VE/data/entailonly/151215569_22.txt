@@ -1,0 +1,3 @@
+there is a child ||entailment
+there is an adult ||entailment
+the child is riding the adult ||entailment

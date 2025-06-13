@@ -1,0 +1,7 @@
+there is a pup ||entailment
+there is a bar ||entailment
+there is drink ||entailment
+the pup is black and white ||entailment
+the pup is retrieving ||neutral
+the pup is retrieving stick ||neutral
+the bar is from water ||neutral

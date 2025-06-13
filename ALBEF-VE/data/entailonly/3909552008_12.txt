@@ -1,0 +1,4 @@
+there are men ||entailment
+there is a post ||entailment
+the men are three ||neutral
+the men are sitting and working on post ||entailment

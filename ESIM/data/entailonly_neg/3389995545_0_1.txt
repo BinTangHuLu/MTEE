@@ -1,0 +1,3 @@
+There is not a soccer game. ||contradiction
+It is not night. ||contradiction
+The soccer game is not being played at night. ||contradiction

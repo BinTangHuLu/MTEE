@@ -1,0 +1,5 @@
+There are community. ||neutral
+There is a cartoon. ||neutral
+There are four community. ||neutral
+The cartoon is outdoor. ||entailment
+The community pose for the photo. ||neutral

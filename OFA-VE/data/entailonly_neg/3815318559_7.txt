@@ -1,0 +1,4 @@
+There is not a car. ||Contradiction
+There is not a street. ||Contradiction
+The car is not red. ||Entailment
+The car did not travel down street. ||Contradiction

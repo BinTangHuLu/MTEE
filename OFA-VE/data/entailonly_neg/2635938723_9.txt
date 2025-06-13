@@ -1,0 +1,4 @@
+There is not a Kid. ||Contradiction
+There is not a treat. ||Contradiction
+The treat is not frozen. ||Contradiction
+The Kid is not eating treat. ||Contradiction

@@ -1,0 +1,5 @@
+There is a pup. ||Entailment
+There is a pup. ||Entailment
+The pup is large. ||Neutral
+The pup is small. ||Entailment
+The pup is beneath the dog. ||Entailment

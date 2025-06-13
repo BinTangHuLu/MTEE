@@ -1,0 +1,4 @@
+there is a motorcycle ||entailment
+there is a street ||entailment
+the motorcycle is rolling ||entailment
+the motorcycle is rolling down the street ||entailment

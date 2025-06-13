@@ -1,0 +1,3 @@
+There is not a man. ||contradiction
+The man is not dressed really strangely. ||neutral
+The man is not walking in front of shops. ||contradiction

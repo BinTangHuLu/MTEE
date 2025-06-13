@@ -1,0 +1,3 @@
+There is not someone. ||Contradiction
+There is not a field. ||Contradiction
+Someone is not sitting in the field. ||Entailment

@@ -1,0 +1,7 @@
+There is not a person. ||contradiction
+There is not a bicycle. ||contradiction
+There is not a bike. ||contradiction
+There is not a wire. ||contradiction
+The person is not on the bicycle. ||contradiction
+The person is hisnot . ||entailment
+The bike is not situated on the wire. ||entailment

@@ -1,0 +1,4 @@
+there is a child ||entailment
+there is a circle ||entailment
+there are community ||entailment
+the child grins in the crowd ||entailment

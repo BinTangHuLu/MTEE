@@ -1,0 +1,4 @@
+There is a man. ||entailment
+The man watches as the man. ||entailment
+The man picks up something. ||entailment
+The something is from the ground. ||entailment

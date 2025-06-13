@@ -1,0 +1,4 @@
+there is not a drum ||contradiction
+there is not a man ||contradiction
+the man is not scantily dressed ||contradiction
+the drum has not been placed atop the man ||entailment

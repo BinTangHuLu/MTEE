@@ -1,0 +1,3 @@
+There is not a boy. ||contradiction
+The boy does not have something. ||contradiction
+The boy is not carrying on shoulder. ||contradiction

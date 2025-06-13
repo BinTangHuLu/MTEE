@@ -1,0 +1,5 @@
+there is a body ||entailment
+there is a call up ||neutral
+there is a baby ||entailment
+the body is on the phone ||entailment
+the body is holding the child ||entailment

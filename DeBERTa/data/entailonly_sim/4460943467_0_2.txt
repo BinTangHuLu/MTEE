@@ -1,0 +1,4 @@
+There are community. ||entailment
+There is a avenue. ||entailment
+The community are hood wearing. ||entailment
+The community stand in street. ||entailment

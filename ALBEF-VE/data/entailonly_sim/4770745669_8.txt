@@ -1,0 +1,6 @@
+there is a dude ||entailment
+there is an article ||entailment
+the article is large ||neutral
+the knickers are only ||contradiction
+the dude is sitting in front of the object ||contradiction
+the dude is wearing pants ||neutral

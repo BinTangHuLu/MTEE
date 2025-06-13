@@ -1,0 +1,3 @@
+There is a female. ||entailment
+There is a fiddle. ||contradiction
+The female is playing the violin. ||entailment

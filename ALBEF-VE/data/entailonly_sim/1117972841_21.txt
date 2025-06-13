@@ -1,0 +1,5 @@
+there is a pup ||entailment
+there is an feeling ||entailment
+the pup is brown ||entailment
+the feeling is missing ||neutral
+the pup is missing eye ||contradiction

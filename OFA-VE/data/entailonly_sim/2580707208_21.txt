@@ -1,0 +1,4 @@
+There is a dude. ||Entailment
+There is some eyebrow. ||Neutral
+The eyebrow is long. ||Neutral
+The dude has long hair. ||Entailment

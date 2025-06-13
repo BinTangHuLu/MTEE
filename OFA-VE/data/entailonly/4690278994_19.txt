@@ -1,0 +1,4 @@
+There is a man. ||Entailment
+There is a race. ||Entailment
+The man is participating. ||Entailment
+The man is participating in the race. ||Neutral

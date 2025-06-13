@@ -1,0 +1,9 @@
+There are child. ||entailment
+There is a basement. ||contradiction
+There is a field. ||contradiction
+The child are The. ||entailment
+The child are wearing. ||entailment
+The basement is stretch. ||contradiction
+The field is The. ||contradiction
+The child are stretch of floor. ||entailment
+The child are wearing circles. ||entailment

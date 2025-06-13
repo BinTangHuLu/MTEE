@@ -1,0 +1,5 @@
+there are adolescent ||entailment
+there are business ||entailment
+there is a farmland ||entailment
+the adolescent are playing sports ||entailment
+the business are outdoor on the field ||entailment

@@ -1,0 +1,3 @@
+there is a policeman ||entailment
+there is a parade ||entailment
+the policeman is at parade ||entailment

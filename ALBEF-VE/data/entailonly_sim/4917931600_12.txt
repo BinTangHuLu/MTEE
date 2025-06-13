@@ -1,0 +1,3 @@
+there is a boy ||entailment
+there is a basement ||contradiction
+the boy sits on the floor ||entailment

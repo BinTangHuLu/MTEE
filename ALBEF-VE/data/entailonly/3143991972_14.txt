@@ -1,0 +1,6 @@
+there is a person ||entailment
+there is a baby ||entailment
+there is some luggage ||entailment
+the baby is playing ||contradiction
+the person is monitoring the baby ||entailment
+the baby plays with the luggage ||entailment

@@ -1,0 +1,6 @@
+There is not a gymnast. ||contradiction
+The gymnast is not younger. ||contradiction
+The gymnast is not wearing dark blue and white. ||entailment
+The leg is not right. ||neutral
+The leg is not straight. ||contradiction
+The gymnast does not have a leg. ||contradiction

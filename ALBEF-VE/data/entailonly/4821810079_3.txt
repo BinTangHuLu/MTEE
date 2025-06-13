@@ -1,0 +1,6 @@
+there is a vendor ||entailment
+there is a stand ||entailment
+there is a marketplace ||entailment
+the vendor is male ||neutral
+the vendor stands behind the stand ||entailment
+the stand is at the marketplace ||entailment

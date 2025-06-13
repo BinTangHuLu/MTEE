@@ -1,0 +1,3 @@
+there is not a restaurant ||contradiction
+there are not customers ||contradiction
+the restaurant is not filled with customers ||contradiction

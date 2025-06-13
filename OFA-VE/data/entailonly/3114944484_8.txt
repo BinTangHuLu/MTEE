@@ -1,0 +1,4 @@
+There is a girl. ||Entailment
+There are people. ||Entailment
+The girl is little. ||Entailment
+The girl is around people. ||Entailment

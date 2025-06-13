@@ -1,0 +1,5 @@
+there are pedestrians ||entailment
+there is a road ||entailment
+there is a cafe ||entailment
+the pedestrians walk on the road ||entailment
+the road is past the cafe ||entailment

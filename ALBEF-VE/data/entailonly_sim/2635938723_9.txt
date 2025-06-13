@@ -1,0 +1,4 @@
+there is a baby ||entailment
+there is a delicacy ||entailment
+the delicacy is frozen ||neutral
+the baby is eating treat ||entailment

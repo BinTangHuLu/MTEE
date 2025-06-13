@@ -1,0 +1,6 @@
+There are dude. ||entailment
+There is a chunk. ||neutral
+There is an field. ||contradiction
+The field is snowy. ||neutral
+The dude felled the log. ||entailment
+The dude are in the area. ||entailment

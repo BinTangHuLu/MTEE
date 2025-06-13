@@ -1,0 +1,3 @@
+there are club ||neutral
+there is a ball ||entailment
+the club are playing basketball ||entailment

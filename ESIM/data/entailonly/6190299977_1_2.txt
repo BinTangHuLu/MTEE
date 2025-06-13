@@ -1,0 +1,2 @@
+There is a soccer player. ||entailment
+The soccer player gets interception. ||entailment

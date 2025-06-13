@@ -1,0 +1,3 @@
+there is not an animal ||contradiction
+the animal is not swiftly ||entailment
+the animal is not moving swiftly ||entailment

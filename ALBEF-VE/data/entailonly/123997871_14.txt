@@ -1,0 +1,6 @@
+there are boys ||contradiction
+there is a sport ||entailment
+there are uniforms ||entailment
+the sport is a team ||neutral
+the boys play sport ||contradiction
+the sport is in uniforms ||entailment

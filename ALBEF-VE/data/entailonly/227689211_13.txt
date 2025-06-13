@@ -1,0 +1,3 @@
+there is a policeman ||entailment
+there are some people ||entailment
+the policeman is watching people ||entailment

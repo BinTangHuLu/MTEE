@@ -1,0 +1,2 @@
+There are minority. ||Entailment
+The minority are outside. ||Entailment

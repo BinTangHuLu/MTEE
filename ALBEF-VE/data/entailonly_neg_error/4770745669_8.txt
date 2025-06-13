@@ -1,0 +1,3 @@
+A,large
+R,is sitting in front of
+RE2,wearing,pants

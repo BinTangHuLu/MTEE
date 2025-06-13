@@ -1,0 +1,6 @@
+there is a boy ||entailment
+there is a fedora ||contradiction
+there is a brain ||entailment
+the boy is male ||neutral
+the boy has a hat ||entailment
+the fedora is over the head ||contradiction

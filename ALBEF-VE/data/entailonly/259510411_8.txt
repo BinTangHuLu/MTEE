@@ -1,0 +1,4 @@
+there is someone ||entailment
+there is a cow ||entailment
+there is a painting ||entailment
+someone is in front of the cow ||entailment

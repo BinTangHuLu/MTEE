@@ -1,0 +1,3 @@
+there is a woman ||entailment
+there are some outfits ||entailment
+the woman looks at outfits ||entailment

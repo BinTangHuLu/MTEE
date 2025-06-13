@@ -1,0 +1,4 @@
+there is not a female ||contradiction
+there is not an arts ||contradiction
+the female is not performing ||contradiction
+the female is not performing arts ||contradiction

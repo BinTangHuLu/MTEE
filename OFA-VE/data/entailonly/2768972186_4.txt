@@ -1,0 +1,3 @@
+There is a dog. ||Entailment
+There is a dog. ||Entailment
+The dog sniffs the dog. ||Entailment

@@ -1,0 +1,3 @@
+There is a busker. ||entailment
+There is a hat. ||entailment
+The busker is wearing a hat. ||entailment

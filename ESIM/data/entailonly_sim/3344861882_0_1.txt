@@ -1,0 +1,7 @@
+There is a female. ||entailment
+There is a coat. ||entailment
+There are specs. ||neutral
+There is a camcorder. ||entailment
+The coat is red. ||entailment
+The coat is red. ||entailment
+The female smiles at the camera. ||entailment

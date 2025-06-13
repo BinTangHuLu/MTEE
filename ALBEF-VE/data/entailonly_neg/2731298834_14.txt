@@ -1,0 +1,6 @@
+there is not a woman ||contradiction
+there are not kids ||contradiction
+the woman is not in ||entailment
+the woman is not playing ||neutral
+the kids are not playing ||contradiction
+the playing is not in water ||contradiction

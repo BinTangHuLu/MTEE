@@ -1,0 +1,6 @@
+there are riders ||entailment
+there is a park ||neutral
+there is a ride ||entailment
+there are parents ||neutral
+the riders are riding the ride ||entailment
+the ride is with parents ||neutral

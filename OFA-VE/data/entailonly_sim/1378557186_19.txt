@@ -1,0 +1,5 @@
+There is a dude. ||Entailment
+There is a cannon. ||Contradiction
+There is an bodily. ||Entailment
+The dude is shooting a gun. ||Entailment
+The firing is near the animal. ||Entailment

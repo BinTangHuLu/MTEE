@@ -1,0 +1,3 @@
+there is a account ||entailment
+there is a capital ||entailment
+the account is in the city ||entailment

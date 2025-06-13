@@ -1,0 +1,2 @@
+there is not a bicyclist ||contradiction
+the bicyclist is not doing a trick ||contradiction

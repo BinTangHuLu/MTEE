@@ -1,0 +1,4 @@
+there is a boy ||entailment
+there is a train ||neutral
+the boy is little ||entailment
+the boy is by train ||entailment

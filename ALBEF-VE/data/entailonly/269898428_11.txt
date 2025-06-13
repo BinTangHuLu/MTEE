@@ -1,0 +1,4 @@
+there is a man ||entailment
+there is a tool ||entailment
+the tool is power ||neutral
+the man is with tool ||entailment

@@ -1,0 +1,2 @@
+There is a family. ||entailment
+The family is outside. ||entailment

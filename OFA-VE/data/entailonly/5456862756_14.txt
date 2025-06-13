@@ -1,0 +1,4 @@
+There is a woman. ||Entailment
+There is water. ||Entailment
+The woman is outside. ||Entailment
+The woman is touching water. ||Entailment

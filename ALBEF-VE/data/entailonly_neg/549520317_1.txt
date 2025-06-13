@@ -1,0 +1,6 @@
+there is not a child ||contradiction
+there is not a slide ||contradiction
+there is not a jacket ||contradiction
+the jacket is not red ||contradiction
+the child is not sitting on the slide ||contradiction
+the child is not wearing the jacket ||contradiction

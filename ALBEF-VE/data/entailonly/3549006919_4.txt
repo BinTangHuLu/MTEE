@@ -1,0 +1,3 @@
+there is a man ||entailment
+there is a cliff ||entailment
+the man climbs the cliff ||entailment

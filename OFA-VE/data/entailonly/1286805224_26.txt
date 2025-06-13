@@ -1,0 +1,4 @@
+There is a girl. ||Entailment
+There is a window. ||Entailment
+The girl is smiling. ||Entailment
+The girl is smiling near the window. ||Entailment

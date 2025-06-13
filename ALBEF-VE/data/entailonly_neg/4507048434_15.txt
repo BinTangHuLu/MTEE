@@ -1,0 +1,5 @@
+there are not people ||contradiction
+there is not a building ||contradiction
+the building is not big ||entailment
+people are not outside the building ||contradiction
+people are not talking next to the building ||neutral

@@ -1,0 +1,6 @@
+there is a man ||entailment
+there is a bass ||entailment
+the bass is playing ||entailment
+the bass is singing ||contradiction
+the man is playing bass ||entailment
+the man is singing bass ||neutral

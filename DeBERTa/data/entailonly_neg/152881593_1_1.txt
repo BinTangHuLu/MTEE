@@ -1,0 +1,3 @@
+There is not a man. ||contradiction
+The man is not speaking in a classroom. ||contradiction
+There is not a classroom. ||contradiction

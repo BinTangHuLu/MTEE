@@ -1,0 +1,4 @@
+there is a woman ||entailment
+there is a dog ||entailment
+the woman watches ||entailment
+the woman is watching the dog ||entailment

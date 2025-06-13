@@ -1,0 +1,5 @@
+There are child. ||entailment
+There is a activity. ||entailment
+The child are working. ||neutral
+The activity is art. ||neutral
+The child are working on the project. ||neutral

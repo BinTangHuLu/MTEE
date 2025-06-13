@@ -1,0 +1,3 @@
+There is a body. ||Entailment
+There is an dress. ||Contradiction
+The body is in apparel. ||Entailment

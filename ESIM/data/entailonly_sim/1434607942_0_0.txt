@@ -1,0 +1,5 @@
+There is a baby. ||entailment
+There are some band. ||neutral
+There is a dude. ||entailment
+There is a brain. ||contradiction
+The band are on the head. ||contradiction

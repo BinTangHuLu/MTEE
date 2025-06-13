@@ -1,0 +1,4 @@
+There are athletes. ||entailment
+There is basketball. ||entailment
+The athletes are professional. ||neutral
+The athletes are playing basketball. ||entailment

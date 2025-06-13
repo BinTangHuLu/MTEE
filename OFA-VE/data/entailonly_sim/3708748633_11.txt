@@ -1,0 +1,2 @@
+There is a dude. ||Entailment
+The dude plays bagpipes. ||Entailment

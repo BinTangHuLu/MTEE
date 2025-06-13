@@ -1,0 +1,4 @@
+There is a boy. ||Entailment
+There is a patch. ||Entailment
+There is a pumpkin. ||Entailment
+The boy is in the patch. ||Neutral

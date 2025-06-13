@@ -1,0 +1,7 @@
+There is a man. ||entailment
+There are stilts. ||entailment
+There is a trick. ||entailment
+There is an audience. ||entailment
+The man is on stilts. ||entailment
+The man performs a trick. ||entailment
+The man performs for the audience. ||entailment

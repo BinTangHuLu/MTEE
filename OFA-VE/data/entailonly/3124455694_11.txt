@@ -1,0 +1,6 @@
+There are People. ||Entailment
+There is a surface. ||Entailment
+There are traintracks. ||Entailment
+The surface is raised. ||Entailment
+The People are on the surface. ||Contradiction
+The surface is near traintracks. ||Entailment

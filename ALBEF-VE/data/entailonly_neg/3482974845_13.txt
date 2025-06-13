@@ -1,0 +1,3 @@
+there are not animals ||contradiction
+there is not a beach ||contradiction
+the animals are not on the beach ||contradiction

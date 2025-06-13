@@ -1,0 +1,3 @@
+there is a female ||entailment
+the feet are all period ||contradiction
+the female is on feet ||entailment

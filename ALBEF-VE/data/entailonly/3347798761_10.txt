@@ -1,0 +1,5 @@
+there is a person ||entailment
+there is a bike ||entailment
+there is some dirt ||entailment
+there is a motor cross ||entailment
+the person rides the bike ||entailment

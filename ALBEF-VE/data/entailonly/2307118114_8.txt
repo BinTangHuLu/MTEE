@@ -1,0 +1,5 @@
+there is a man ||entailment
+there is a shirt ||entailment
+there is a hat ||entailment
+the shirt is black ||entailment
+the hat is black ||entailment

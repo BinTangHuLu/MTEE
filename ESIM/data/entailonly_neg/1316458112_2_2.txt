@@ -1,0 +1,4 @@
+There are not men. ||contradiction
+The men are not wearing dark clothing. ||contradiction
+There is not a bag. ||contradiction
+The men is not reaching into the bag. ||contradiction

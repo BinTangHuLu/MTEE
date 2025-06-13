@@ -1,0 +1,3 @@
+There is a firefighter. ||entailment
+There is a ladder. ||entailment
+The firefighter is going up the ladder. ||entailment

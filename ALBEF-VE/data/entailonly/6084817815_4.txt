@@ -1,0 +1,4 @@
+there are dancers ||entailment
+there is a road ||entailment
+the dancers are colorfully dressed ||entailment
+the dancers are entertaining on the road ||entailment

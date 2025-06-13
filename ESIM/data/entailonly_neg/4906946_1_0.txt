@@ -1,0 +1,4 @@
+There are not men. ||contradiction
+There are not jackets. ||contradiction
+The jackets are not lime green. ||contradiction
+The men are not wearing jackets. ||contradiction

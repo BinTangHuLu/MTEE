@@ -1,0 +1,4 @@
+There are not men. ||contradiction
+There is not a roof. ||contradiction
+There is not a building. ||contradiction
+The men are not working on the roof. ||contradiction

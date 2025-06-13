@@ -1,0 +1,6 @@
+There is a ornament. ||entailment
+There is a female. ||entailment
+The female is old. ||entailment
+The redhead is putting on female. ||entailment
+The redhead is putting ornament. ||entailment
+The ornament is on woman. ||entailment

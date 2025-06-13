@@ -1,0 +1,4 @@
+There is not a man. ||contradiction
+The man does not raise his forearms. ||contradiction
+The man does not have forearms. ||contradiction
+The man does not raise forearms. ||contradiction

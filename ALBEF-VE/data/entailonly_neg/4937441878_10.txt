@@ -1,0 +1,8 @@
+there is not a woman ||contradiction
+there is not a center ||contradiction
+there is not attention ||contradiction
+the woman is not blond ||contradiction
+the group is not large ||entailment
+the woman is not in the center ||entailment
+the center is not of attention ||entailment
+the group is not of people ||contradiction

@@ -1,0 +1,3 @@
+There is not a man. ||Entailment
+There is not an animal. ||Contradiction
+The man is not riding the animal. ||Entailment

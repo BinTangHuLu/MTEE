@@ -1,0 +1,5 @@
+there is not a room ||contradiction
+there are not some people ||contradiction
+there are not some tables ||contradiction
+the people are not old ||entailment
+the people do not stand around table ||entailment

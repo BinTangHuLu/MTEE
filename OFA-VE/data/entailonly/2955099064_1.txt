@@ -1,0 +1,2 @@
+There are men. ||Entailment
+There are three men. ||Entailment

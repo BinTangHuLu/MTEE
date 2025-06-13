@@ -1,0 +1,3 @@
+there is a person ||entailment
+there is a pole ||entailment
+the person leans against the pole ||entailment

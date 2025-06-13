@@ -1,0 +1,4 @@
+there is a man ||entailment
+there is above ||entailment
+the man is falling down ||contradiction
+the man is falling down above ||entailment

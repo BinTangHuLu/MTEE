@@ -1,0 +1,5 @@
+There is a child. ||entailment
+There are some steps. ||entailment
+There is a library. ||entailment
+The child is on steps. ||entailment
+The steps are inside the library. ||entailment

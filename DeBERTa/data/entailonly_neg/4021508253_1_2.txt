@@ -1,0 +1,14 @@
+There is not a lady. ||contradiction
+There is not a scarf. ||contradiction
+There are not boots. ||contradiction
+There is not a jacket. ||contradiction
+There is not a train. ||contradiction
+There is not music. ||contradiction
+The scarf is not orange. ||contradiction
+The boots are not brown. ||contradiction
+The jacket is not brown. ||contradiction
+The lady is not with the scarf. ||entailment
+The lady is not with the boots. ||contradiction
+The lady is not with the jacket. ||contradiction
+The lady is not on the train. ||contradiction
+The lady is not listening to music. ||contradiction

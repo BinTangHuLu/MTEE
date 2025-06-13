@@ -1,0 +1,3 @@
+there is a chef ||entailment
+there is a unicycle ||entailment
+the chef is on unicycle ||entailment

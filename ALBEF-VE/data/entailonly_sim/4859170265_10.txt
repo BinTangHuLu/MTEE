@@ -1,0 +1,4 @@
+there are girl ||entailment
+there is a artery ||neutral
+the girl are blonde ||entailment
+the girl are walking down road ||entailment

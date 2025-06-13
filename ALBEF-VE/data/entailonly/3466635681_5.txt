@@ -1,0 +1,3 @@
+there is a person ||entailment
+there is thailand ||entailment
+the person cleans up in thailand ||entailment

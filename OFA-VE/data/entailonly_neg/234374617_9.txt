@@ -1,0 +1,5 @@
+There is not a man. ||Entailment
+There is not a call. ||Entailment
+There is not a cell phone. ||Entailment
+The man does not make a call. ||Entailment
+The call is not on the cell phone. ||Entailment

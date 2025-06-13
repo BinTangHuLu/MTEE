@@ -1,0 +1,6 @@
+there is a man ||entailment
+there is a woman ||entailment
+there is a transportation ||entailment
+the man and woman are using transportation ||entailment
+the man is using transportation ||entailment
+the woman is using transportation ||entailment

@@ -1,0 +1,3 @@
+there are boys ||entailment
+the boys are little ||entailment
+the boys lay down ||entailment

@@ -1,0 +1,5 @@
+There is not a guy. ||contradiction
+There is not a marshmallow. ||contradiction
+There is not someone else. ||contradiction
+The guy does not bite into the marshmallow. ||contradiction
+Someone else does not desire a bite of the marshmallow. ||contradiction

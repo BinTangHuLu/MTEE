@@ -1,0 +1,4 @@
+there is a pedal ||entailment
+there are some ability ||entailment
+the ability are shiny ||entailment
+the pedal came with parts ||entailment

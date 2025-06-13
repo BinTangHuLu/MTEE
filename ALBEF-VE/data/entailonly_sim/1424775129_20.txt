@@ -1,0 +1,4 @@
+there is a child ||entailment
+there are some chain ||neutral
+the child is little ||neutral
+the child is walking on tracks ||entailment

@@ -1,0 +1,5 @@
+There is a child. ||entailment
+There is an life. ||neutral
+The child is younger. ||neutral
+The life is ten. ||neutral
+The child is younger than age. ||entailment

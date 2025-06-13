@@ -1,0 +1,4 @@
+There is not a person. ||contradiction
+There is not a field. ||contradiction
+The person is not standing. ||contradiction
+The person is not in the field. ||contradiction

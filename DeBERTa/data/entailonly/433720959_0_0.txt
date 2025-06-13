@@ -1,0 +1,4 @@
+There is a man. ||entailment
+The man raises his forearms. ||entailment
+The man has forearms. ||entailment
+The man raises forearms. ||entailment

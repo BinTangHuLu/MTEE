@@ -1,0 +1,4 @@
+there is not a cleaner ||contradiction
+there is not a window ||contradiction
+there is not work ||contradiction
+the cleaner is not at work ||contradiction

@@ -1,0 +1,2 @@
+there is not a crime ||entailment
+the crime has not been committed ||neutral

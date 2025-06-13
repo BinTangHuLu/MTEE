@@ -1,0 +1,4 @@
+there is a person ||entailment
+there is a shirt ||entailment
+the shirt is numbered ||entailment
+the person is wearing the shirt ||entailment

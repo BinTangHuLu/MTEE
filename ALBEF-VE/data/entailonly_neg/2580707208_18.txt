@@ -1,0 +1,7 @@
+there is not a man ||contradiction
+there is not a shirt ||contradiction
+there is not a hat ||contradiction
+the shirt is not brown ||contradiction
+the man is not holding ||contradiction
+the man is not holding the hat ||contradiction
+the hat is not above the man ||contradiction

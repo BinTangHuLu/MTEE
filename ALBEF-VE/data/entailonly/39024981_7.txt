@@ -1,0 +1,8 @@
+there are women ||entailment
+there are t shirts ||entailment
+there are jeans ||entailment
+there is a clothing store ||entailment
+the women are two ||neutral
+the t shirts are wearing ||entailment
+the jeans are blue ||neutral
+the women converse outside the clothing store ||entailment

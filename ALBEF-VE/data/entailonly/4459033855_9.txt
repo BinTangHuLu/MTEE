@@ -1,0 +1,6 @@
+there is a man ||entailment
+there are men ||entailment
+there is an audience ||entailment
+the man is old ||neutral
+the man communicates with men ||entailment
+the man communicates with the audience ||entailment

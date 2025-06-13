@@ -1,0 +1,3 @@
+There is a car. ||Entailment
+The car is parked. ||Entailment
+The car is parked here. ||Entailment

@@ -1,0 +1,4 @@
+there is a worker ||entailment
+there are some eyes ||entailment
+the eyes are open ||contradiction
+the worker has eyes ||entailment

@@ -1,0 +1,3 @@
+there is a man ||entailment
+there is air ||contradiction
+the man is leaping into air ||entailment

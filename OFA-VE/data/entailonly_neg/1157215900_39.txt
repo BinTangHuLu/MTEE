@@ -1,0 +1,4 @@
+There is not a woman. ||Contradiction
+There is not bread. ||Entailment
+The woman is not old. ||Entailment
+The woman is not displaying bread. ||Contradiction

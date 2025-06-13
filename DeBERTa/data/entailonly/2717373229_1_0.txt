@@ -1,0 +1,4 @@
+There is a car. ||entailment
+There is a door. ||entailment
+The car has a door. ||entailment
+The door has not been shut. ||entailment

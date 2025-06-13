@@ -1,0 +1,3 @@
+there is a boy ||entailment
+there is a ball ||entailment
+the boy hit the ball ||entailment

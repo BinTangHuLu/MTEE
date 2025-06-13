@@ -1,0 +1,3 @@
+there is a body ||entailment
+there is a architecture ||entailment
+the body rides past the building ||neutral

@@ -1,0 +1,4 @@
+There is not a couple. ||contradiction
+There is not outdoors. ||contradiction
+The couple does not walk outdoors. ||contradiction
+The couple does not walk together. ||contradiction

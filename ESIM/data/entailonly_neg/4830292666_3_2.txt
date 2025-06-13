@@ -1,0 +1,4 @@
+There is not a human. ||contradiction
+There is not a building. ||entailment
+The human is not single. ||contradiction
+The human is not outside in front of the building. ||entailment

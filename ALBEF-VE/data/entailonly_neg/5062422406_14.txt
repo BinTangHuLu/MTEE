@@ -1,0 +1,7 @@
+there is not a golfer ||contradiction
+there is not a club ||contradiction
+there is not a woman ||contradiction
+there is not a sign ||contradiction
+the golfer does not raise the club ||contradiction
+the woman is not holding the sign ||contradiction
+the club is not next to the woman ||contradiction

@@ -1,0 +1,5 @@
+There is a baby. ||entailment
+There is a female. ||entailment
+The baby watches. ||entailment
+The female is playing with equipment. ||entailment
+The baby watches the woman. ||entailment

@@ -1,0 +1,4 @@
+There is a dude. ||entailment
+There is a swell. ||neutral
+The dude is daring. ||neutral
+The dude is in surf. ||entailment

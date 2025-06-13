@@ -1,0 +1,3 @@
+there are boy ||entailment
+there is a bar ||entailment
+the boy are against the wall ||entailment

@@ -1,0 +1,3 @@
+there are community ||entailment
+the umbrellas are different glow ||contradiction
+the community have umbrellas ||entailment

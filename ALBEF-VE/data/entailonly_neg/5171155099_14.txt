@@ -1,0 +1,6 @@
+there is not a man ||contradiction
+there is not a horse ||contradiction
+there are not people ||contradiction
+the horse is not gray ||entailment
+the man does not ride on the horse ||contradiction
+the people do not look on the horse ||contradiction

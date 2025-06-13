@@ -1,0 +1,5 @@
+there is a alp ||entailment
+there is a mountaineer ||entailment
+there is an boundary ||entailment
+the alp has a climber ||entailment
+the mountaineer is walking along the edge ||contradiction

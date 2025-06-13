@@ -1,0 +1,7 @@
+There is a woman. ||entailment
+There is a dock. ||entailment
+There is an ocean. ||neutral
+The woman is outside. ||entailment
+The dock is overlooking. ||entailment
+The woman sits on the dock. ||entailment
+The dock is overlooking the ocean. ||neutral

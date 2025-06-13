@@ -1,0 +1,7 @@
+there is a woman ||entailment
+there is a hat ||entailment
+there are baskets ||entailment
+there is bread ||entailment
+the woman is in a hat ||entailment
+the baskets are of bread ||neutral
+the woman is standing behind the baskets ||contradiction

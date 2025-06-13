@@ -1,0 +1,5 @@
+there is an animal ||entailment
+there is an animal ||entailment
+the animal is large ||entailment
+the animal is small white ||neutral
+the animal is running with an animal ||entailment

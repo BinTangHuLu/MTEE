@@ -1,0 +1,8 @@
+there is an act ||entailment
+there is an artist ||entailment
+there are poles ||entailment
+the act is highwire ||entailment
+the artist is up ||entailment
+the act is during the day ||entailment
+the artist is up supported by poles ||entailment
+the act and artist ||entailment

@@ -1,0 +1,2 @@
+there is a female ||entailment
+the female has on clothing ||entailment

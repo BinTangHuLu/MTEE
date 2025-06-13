@@ -1,0 +1,2 @@
+There are kids. ||Entailment
+The kids are not talking. ||Entailment

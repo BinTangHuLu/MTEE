@@ -1,0 +1,4 @@
+there are men ||entailment
+there is a picture ||entailment
+the men are in the picture ||entailment
+the men are outside men ||entailment

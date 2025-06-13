@@ -1,0 +1,3 @@
+there is a female ||entailment
+the female is doing gymnastics ||entailment
+the female is doing gymnastics ||entailment

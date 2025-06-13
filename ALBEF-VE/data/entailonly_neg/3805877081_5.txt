@@ -1,0 +1,3 @@
+there is not something ||entailment
+there is not a figure ||entailment
+something is not outside with the figure ||entailment

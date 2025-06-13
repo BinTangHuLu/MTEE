@@ -1,0 +1,3 @@
+there is a girl ||entailment
+there is a backyard ||entailment
+the girl swings in the backyard ||entailment

@@ -1,0 +1,4 @@
+There are men. ||entailment
+There are pants. ||entailment
+The pants are black. ||entailment
+The men are wearing pants. ||entailment

@@ -1,0 +1,3 @@
+there is a colt ||entailment
+the colt is jumping ||entailment
+the colt is jumping ||entailment

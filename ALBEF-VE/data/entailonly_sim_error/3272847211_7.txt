@@ -1,0 +1,2 @@
+EA,team,green
+A,offensive

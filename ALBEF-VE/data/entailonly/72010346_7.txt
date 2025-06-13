@@ -1,0 +1,3 @@
+there is a duo ||entailment
+the duo is happy ||entailment
+the duo gets intimate ||entailment

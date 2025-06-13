@@ -1,0 +1,6 @@
+there is not a researcher ||contradiction
+there is not an image ||entailment
+there is not a glass ||contradiction
+the glass is not magnifying ||contradiction
+the researcher does not study the image ||contradiction
+the image is not with the glass ||entailment

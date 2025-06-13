@@ -1,0 +1,3 @@
+There is not a man. ||contradiction
+There is not a fence. ||contradiction
+The man is not next to the fence. ||contradiction

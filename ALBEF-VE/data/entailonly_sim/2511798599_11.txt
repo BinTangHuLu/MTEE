@@ -1,0 +1,5 @@
+there are community ||entailment
+there is a dude ||contradiction
+the dude is speaking ||entailment
+the community have gathered outdoors ||entailment
+the dude speaks to people ||entailment

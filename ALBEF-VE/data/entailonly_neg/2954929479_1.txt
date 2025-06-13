@@ -1,0 +1,4 @@
+there is not a boy ||contradiction
+there is not a patch ||contradiction
+there is not a pumpkin ||contradiction
+the boy is not in the patch ||contradiction

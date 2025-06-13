@@ -1,0 +1,3 @@
+there is a man ||entailment
+there are some leaves ||entailment
+the man is shoveling leaves ||entailment

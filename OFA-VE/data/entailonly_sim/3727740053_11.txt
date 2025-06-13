@@ -1,0 +1,3 @@
+There are community. ||Neutral
+There is a bout. ||Entailment
+community are competing in the match. ||Neutral

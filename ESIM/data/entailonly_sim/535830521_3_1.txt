@@ -1,0 +1,4 @@
+There is a female. ||entailment
+There is a community. ||neutral
+The community is "real change". ||neutral
+The female is holding the newspaper. ||entailment

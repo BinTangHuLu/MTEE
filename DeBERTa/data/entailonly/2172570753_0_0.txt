@@ -1,0 +1,7 @@
+There is a woman. ||entailment
+There are some glasses. ||entailment
+There is a beanie. ||entailment
+The woman is wearing. ||entailment
+The beanie is brown. ||entailment
+The woman is wearing glasses. ||entailment
+The woman is wearing a beanie. ||entailment

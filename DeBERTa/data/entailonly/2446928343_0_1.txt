@@ -1,0 +1,6 @@
+There is a woman. ||entailment
+There is a shirt. ||entailment
+There is a chair. ||entailment
+There is an expression. ||entailment
+The woman is animated. ||entailment
+The woman is sitting in the chair. ||entailment

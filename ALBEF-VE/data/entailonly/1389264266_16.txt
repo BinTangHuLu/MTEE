@@ -1,0 +1,3 @@
+there are girls ||entailment
+the girls are facing each other ||entailment
+the girls are comparing outfits ||neutral

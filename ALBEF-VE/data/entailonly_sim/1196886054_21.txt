@@ -1,0 +1,7 @@
+there are community ||entailment
+there is a marriage party ||entailment
+there is a estate ||entailment
+there is a city ||contradiction
+the community are of the wedding party ||entailment
+the community are walking in the park ||entailment
+the estate is outside of the town ||entailment

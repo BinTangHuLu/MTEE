@@ -1,0 +1,8 @@
+there is a group ||entailment
+there are adults ||contradiction
+there are children ||entailment
+there is a line ||entailment
+there is a statue ||entailment
+the adults travel through the line ||entailment
+the line is along side the statue ||neutral
+the group travels through the line ||entailment

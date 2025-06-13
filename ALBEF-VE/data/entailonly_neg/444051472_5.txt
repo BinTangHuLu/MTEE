@@ -1,0 +1,6 @@
+there is not a man ||contradiction
+there is not a book ||contradiction
+there are not some ducks ||contradiction
+the man is not older ||entailment
+the man does not read the book ||entailment
+the book is not next to the ducks ||contradiction

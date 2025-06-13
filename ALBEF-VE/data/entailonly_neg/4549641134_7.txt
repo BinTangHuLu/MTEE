@@ -1,0 +1,6 @@
+there is not a crowd ||contradiction
+there are not some people ||contradiction
+the crowd is not large ||contradiction
+there are not some chairs ||contradiction
+the chairs are not folding ||contradiction
+the crowd is not sitting in chairs ||contradiction

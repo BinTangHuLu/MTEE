@@ -1,0 +1,5 @@
+there is a dude ||entailment
+there is a bayonet ||entailment
+there is a loaf ||entailment
+the dude is holding a knife ||entailment
+the bayonet is at the cake ||entailment

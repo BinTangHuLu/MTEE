@@ -1,0 +1,4 @@
+there is a skateboarder ||entailment
+there is a stunt ||entailment
+the stunt is jumping ||entailment
+the skateboarder is performing stunt ||entailment

@@ -1,0 +1,4 @@
+there are dude ||entailment
+there are curve ||entailment
+the dude are working ||entailment
+the dude are working on lines ||entailment

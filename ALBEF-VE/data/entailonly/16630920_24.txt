@@ -1,0 +1,5 @@
+there is a cup ||entailment
+there is a hand ||entailment
+there is a man ||entailment
+the cup is in the hand ||neutral
+the hand is of the man ||entailment

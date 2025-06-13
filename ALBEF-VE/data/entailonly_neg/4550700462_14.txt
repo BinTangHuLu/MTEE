@@ -1,0 +1,5 @@
+there is not a lady ||contradiction
+there is not a child ||contradiction
+there is not a flag ||contradiction
+the lady is not next to the child ||entailment
+the child does not have a flag ||contradiction

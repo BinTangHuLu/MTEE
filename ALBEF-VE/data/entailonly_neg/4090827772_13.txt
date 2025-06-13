@@ -1,0 +1,9 @@
+there is not a man ||contradiction
+there are not some shorts ||entailment
+there is not a shirt ||entailment
+there is not a motorcycle ||contradiction
+there is not a helmet ||contradiction
+the shirt is not black ||entailment
+the helmet is not green ||entailment
+the man does not ride the motorcycle ||contradiction
+the man does not wear the helmet ||entailment

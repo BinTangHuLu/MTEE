@@ -1,0 +1,6 @@
+there is a dude ||entailment
+there is a colt ||entailment
+there is a artery ||entailment
+the dude is leading ||entailment
+the dude is leading the horse ||entailment
+the colt is down the road ||neutral

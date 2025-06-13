@@ -1,0 +1,4 @@
+There is a man. ||Entailment
+There is a stall. ||Entailment
+The man is standing. ||Entailment
+The man is standing next to the stall. ||Entailment

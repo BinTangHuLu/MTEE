@@ -1,0 +1,4 @@
+There is a female. ||entailment
+There is a dude. ||entailment
+The female is talking to the man. ||entailment
+The dude is reaching for something. ||entailment

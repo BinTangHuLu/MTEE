@@ -1,0 +1,2 @@
+A,walks
+RE2,walks,outside

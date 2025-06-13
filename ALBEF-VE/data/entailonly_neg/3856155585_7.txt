@@ -1,0 +1,3 @@
+there are not ladies ||contradiction
+there is not a table ||contradiction
+the ladies are not at the table ||contradiction

@@ -1,0 +1,5 @@
+There is not a man. ||Contradiction
+There is not an instrument. ||Contradiction
+There is not a wall. ||Contradiction
+The man does not play the instrument. ||Contradiction
+The instrument is not played against the wall. ||Contradiction

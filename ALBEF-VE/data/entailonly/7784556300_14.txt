@@ -1,0 +1,2 @@
+there are riders ||entailment
+the riders are competitive ||entailment

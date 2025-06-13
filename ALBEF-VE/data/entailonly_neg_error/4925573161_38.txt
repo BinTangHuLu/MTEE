@@ -1,0 +1,3 @@
+EA,day,mostly cloudy
+RE2,on,day
+R,rides

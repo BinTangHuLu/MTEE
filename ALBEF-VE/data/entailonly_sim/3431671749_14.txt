@@ -1,0 +1,6 @@
+there are bonfire ||entailment
+there is a auto ||entailment
+there is a back ||entailment
+the auto is race ||neutral
+bonfire are shooting from rear ||contradiction
+the auto takes off car ||contradiction

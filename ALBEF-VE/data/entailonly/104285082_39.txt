@@ -1,0 +1,5 @@
+there is a man ||entailment
+there is an object ||entailment
+there are hands ||entailment
+the man is holding the object ||entailment
+the object is in hands ||neutral

@@ -1,0 +1,4 @@
+There is a dude. ||entailment
+The dude is celebrating. ||entailment
+The dude is smiling. ||entailment
+The dude is shooting champagne. ||entailment

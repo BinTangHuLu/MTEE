@@ -1,0 +1,5 @@
+there are dude ||entailment
+there are apparel ||entailment
+there is a estate ||entailment
+the dude are in the park ||entailment
+the apparel are in ||neutral

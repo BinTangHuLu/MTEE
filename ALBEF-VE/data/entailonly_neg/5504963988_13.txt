@@ -1,0 +1,3 @@
+there are not people ||contradiction
+there are not japanese ||contradiction
+the people are not hard working ||entailment

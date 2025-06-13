@@ -1,0 +1,9 @@
+there is apparatus ||entailment
+there are sand ||entailment
+there is blizzard ||neutral
+there is a backdrop ||entailment
+the apparatus is a bit of ||entailment
+the hikers are with apparatus ||entailment
+the hikers are sitting on sand ||contradiction
+the sand are with snow ||entailment
+the blizzard is in the background ||neutral

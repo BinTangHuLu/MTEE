@@ -1,0 +1,6 @@
+there is bread ||entailment
+there is a gallery ||entailment
+there are dude ||entailment
+there are three dude ||entailment
+the bread is being prepared in the kitchen ||entailment
+the bread is being prepared by men ||entailment

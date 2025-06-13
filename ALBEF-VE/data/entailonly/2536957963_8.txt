@@ -1,0 +1,3 @@
+there are men ||entailment
+there are stairs ||entailment
+the men are trying to clean the stairs ||entailment

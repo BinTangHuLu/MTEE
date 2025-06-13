@@ -1,0 +1,3 @@
+there are child ||entailment
+the child are running ||entailment
+the child are running outdoors ||entailment

@@ -1,0 +1,4 @@
+there is a dude ||entailment
+there are some batty ||neutral
+the dude is cracking ||entailment
+the dude is cracking nuts ||entailment

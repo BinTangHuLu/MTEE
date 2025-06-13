@@ -1,0 +1,4 @@
+there is a boy ||entailment
+there is a game ||neutral
+the boy is little ||entailment
+the boy is playing the game ||contradiction

@@ -1,0 +1,5 @@
+there is not a boy ||contradiction
+there is not a team ||contradiction
+there is not a football ||contradiction
+the boy does not run from the team ||contradiction
+the boy does not have football ||contradiction

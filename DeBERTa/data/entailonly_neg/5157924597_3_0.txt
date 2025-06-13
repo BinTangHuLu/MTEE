@@ -1,0 +1,4 @@
+There is not a man. ||contradiction
+The man does not have performance. ||contradiction
+There is not a house. ||contradiction
+The man was not outside of the house. ||contradiction

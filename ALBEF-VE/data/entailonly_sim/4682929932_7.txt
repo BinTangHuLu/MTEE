@@ -1,0 +1,4 @@
+there are community ||entailment
+there are development ||neutral
+the development want ||neutral
+the community are picking out items ||entailment

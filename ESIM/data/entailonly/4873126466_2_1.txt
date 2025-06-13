@@ -1,0 +1,4 @@
+There is a man. ||entailment
+There is a face. ||entailment
+The face is painted. ||entailment
+The man has a face. ||entailment

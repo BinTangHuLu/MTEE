@@ -1,0 +1,3 @@
+there is a hat ||entailment
+there is he ||contradiction
+he wore a hat ||entailment

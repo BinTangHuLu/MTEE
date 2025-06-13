@@ -1,0 +1,4 @@
+There is a child. ||Entailment
+There is a man. ||Contradiction
+The man is older. ||Contradiction
+The child is hoisted above the man. ||Entailment

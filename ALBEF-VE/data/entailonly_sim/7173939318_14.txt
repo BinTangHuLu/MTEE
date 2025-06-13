@@ -1,0 +1,5 @@
+there is a association ||entailment
+there are some community ||entailment
+there is a barge ||entailment
+the barge is viewing ||entailment
+the community are having boat ||entailment

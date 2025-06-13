@@ -1,0 +1,3 @@
+there is a association ||entailment
+the association is large ||neutral
+the association is playing music ||entailment

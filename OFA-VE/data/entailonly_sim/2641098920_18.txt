@@ -1,0 +1,5 @@
+There is a female. ||Entailment
+There is a childbearing. ||Entailment
+There is a bed. ||Contradiction
+The Woman is next to the childbearing. ||Entailment
+The childbearing is on the couch. ||Entailment

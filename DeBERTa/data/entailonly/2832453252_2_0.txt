@@ -1,0 +1,3 @@
+There are girls. ||entailment
+There is water. ||entailment
+The girls are in water. ||entailment

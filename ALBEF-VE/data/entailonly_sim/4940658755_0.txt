@@ -1,0 +1,4 @@
+there is a dude ||entailment
+there are some sand ||neutral
+the dude is bald ||contradiction
+the dude stands next to rocks ||entailment

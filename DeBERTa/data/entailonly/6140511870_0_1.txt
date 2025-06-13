@@ -1,0 +1,10 @@
+There is a guy. ||entailment
+There are some pants. ||entailment
+There is a shirt. ||entailment
+There is a face mask. ||entailment
+There is fire. ||entailment
+The guy is in pants. ||entailment
+The guy is in shirt. ||entailment
+The guy is wearing a face mask. ||entailment
+The face mask is to breath through. ||neutral
+The guy fools around with fire. ||entailment

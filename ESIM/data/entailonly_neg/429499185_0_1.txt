@@ -1,0 +1,3 @@
+There are not women. ||contradiction
+There is not a table. ||contradiction
+The women are not sitting on the table. ||contradiction

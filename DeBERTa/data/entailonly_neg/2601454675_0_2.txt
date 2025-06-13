@@ -1,0 +1,4 @@
+There are not People. ||contradiction
+There is not a street. ||contradiction
+The street is not wet. ||contradiction
+People are not walking on the street. ||contradiction

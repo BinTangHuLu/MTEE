@@ -1,0 +1,4 @@
+There is a body. ||Entailment
+There is a air. ||Entailment
+The air is decorated. ||Entailment
+The body is with face. ||Entailment

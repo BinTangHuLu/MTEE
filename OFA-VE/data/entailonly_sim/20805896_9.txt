@@ -1,0 +1,3 @@
+There is a canvas. ||Entailment
+There is a armchair. ||Entailment
+The canvas is on chair. ||Contradiction

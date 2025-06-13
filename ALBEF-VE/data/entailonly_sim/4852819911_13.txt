@@ -1,0 +1,3 @@
+there are biography ||neutral
+there is a architecture ||entailment
+the biography are on the building ||neutral

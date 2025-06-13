@@ -1,0 +1,4 @@
+There is a child. ||Entailment
+There is a clinic. ||Entailment
+The child is young. ||Entailment
+The child rests in hospital. ||Entailment

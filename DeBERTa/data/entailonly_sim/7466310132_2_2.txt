@@ -1,0 +1,5 @@
+There is a dude. ||entailment
+There are female. ||entailment
+The dude and women are shopping. ||entailment
+The dude is shopping. ||contradiction
+The female are shopping. ||neutral

@@ -1,0 +1,4 @@
+There is a girl. ||entailment
+There is a frok. ||entailment
+The girl is pink color. ||entailment
+The girl is wearing frok. ||neutral

@@ -1,0 +1,5 @@
+there is not a kid ||contradiction
+there is not a floor ||contradiction
+there is not a toy ||contradiction
+the kid does not play on the floor ||contradiction
+the kid does not play with the toy ||contradiction

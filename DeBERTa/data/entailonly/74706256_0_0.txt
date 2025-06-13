@@ -1,0 +1,8 @@
+There is a male. ||entailment
+There are clothes. ||entailment
+There is a pair. ||entailment
+There are scissors. ||entailment
+The male is little. ||entailment
+The male is with a pair of scissors in his hands. ||entailment
+The male has clothes. ||entailment
+The clothes are on with a pair of scissors. ||neutral

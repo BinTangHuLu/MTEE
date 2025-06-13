@@ -1,0 +1,4 @@
+There are community. ||Entailment
+There is a drive. ||Contradiction
+The drive is park. ||Contradiction
+community are riding a ride. ||Entailment

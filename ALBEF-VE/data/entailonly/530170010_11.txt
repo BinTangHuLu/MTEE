@@ -1,0 +1,3 @@
+there is a man ||entailment
+the man has red hair ||entailment
+the man is leaping ||entailment

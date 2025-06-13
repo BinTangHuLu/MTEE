@@ -1,0 +1,3 @@
+there is a wave ||entailment
+there are some boys ||entailment
+the wave is about hit ||entailment

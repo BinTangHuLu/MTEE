@@ -1,0 +1,6 @@
+there is flames ||entailment
+there is front ||entailment
+there is a car ||entailment
+the car is race ||entailment
+flames are shooting from front ||entailment
+front is of car ||entailment

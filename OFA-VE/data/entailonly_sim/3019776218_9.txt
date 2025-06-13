@@ -1,0 +1,3 @@
+There is a baby. ||Entailment
+There is a pup. ||Entailment
+The baby and dog are together. ||Entailment

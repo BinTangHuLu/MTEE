@@ -1,0 +1,2 @@
+EA,people,outside
+E1RE2,people,talking to,each other

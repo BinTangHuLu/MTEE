@@ -1,0 +1,3 @@
+there are people ||entailment
+there is a destination ||entailment
+the people are headed to the destination ||neutral

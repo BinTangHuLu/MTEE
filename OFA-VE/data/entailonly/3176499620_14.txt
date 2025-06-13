@@ -1,0 +1,6 @@
+There is a man. ||Entailment
+There is a body. ||Entailment
+The body is his. ||Contradiction
+The man is moving. ||Entailment
+The man is moving very rapidly. ||Entailment
+The man is moving the body. ||Entailment

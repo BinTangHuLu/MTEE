@@ -1,0 +1,4 @@
+there is a man ||entailment
+there is a beard ||entailment
+the man is old ||neutral
+the man is with beard ||entailment

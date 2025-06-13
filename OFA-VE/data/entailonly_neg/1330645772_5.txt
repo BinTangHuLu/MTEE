@@ -1,0 +1,3 @@
+There is not an animal. ||Contradiction
+The animal is not small. ||Entailment
+The animal is not running. ||Contradiction

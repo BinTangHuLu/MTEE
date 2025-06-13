@@ -1,0 +1,3 @@
+There are not people. ||Contradiction
+There is not outdoors. ||Contradiction
+The people are not outsiders. ||Entailment

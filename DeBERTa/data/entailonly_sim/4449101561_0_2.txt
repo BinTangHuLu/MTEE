@@ -1,0 +1,3 @@
+There is a fowl. ||entailment
+There is a beam. ||entailment
+The fowl is standing on the pole. ||entailment

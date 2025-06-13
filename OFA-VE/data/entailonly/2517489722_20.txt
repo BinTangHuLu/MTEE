@@ -1,0 +1,4 @@
+There is a female. ||Entailment
+There is something. ||Entailment
+The female is young. ||Neutral
+The female is holding on to something. ||Entailment

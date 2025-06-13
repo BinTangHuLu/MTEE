@@ -1,0 +1,13 @@
+There is a lady. ||entailment
+There is a coat. ||entailment
+There are some boots. ||entailment
+There is a camera. ||entailment
+There is a bag. ||entailment
+The coat is leather. ||entailment
+The boots are black leather. ||entailment
+The bag is strapped. ||neutral
+The bag is on shoulders. ||contradiction
+The lady walks away from the camera. ||entailment
+The lady is in the coat. ||entailment
+The coat is with the boots. ||entailment
+The lady is with the bag. ||entailment

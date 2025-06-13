@@ -1,0 +1,5 @@
+there is not a woman ||contradiction
+there is not a dock ||contradiction
+there are not some coolers ||contradiction
+the woman is not on the dock ||entailment
+the woman is not with coolers ||contradiction

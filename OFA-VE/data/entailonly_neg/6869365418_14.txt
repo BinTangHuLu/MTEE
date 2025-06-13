@@ -1,0 +1,4 @@
+There are not children. ||Contradiction
+There is not a group. ||Contradiction
+The children do not laugh. ||Contradiction
+The children do not play. ||Contradiction

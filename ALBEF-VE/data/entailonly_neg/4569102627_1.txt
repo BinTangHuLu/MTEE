@@ -1,0 +1,5 @@
+there is not a girl ||contradiction
+there is not some juice ||contradiction
+the girl is not drinking ||contradiction
+the hair is not brown ||entailment
+the girl does not have brown hair ||contradiction

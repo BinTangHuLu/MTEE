@@ -1,0 +1,3 @@
+there is a children ||entailment
+the children are some ||entailment
+the children are playing ||entailment

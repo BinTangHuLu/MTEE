@@ -1,0 +1,3 @@
+there are people ||entailment
+there are instruments ||entailment
+people play instruments ||entailment

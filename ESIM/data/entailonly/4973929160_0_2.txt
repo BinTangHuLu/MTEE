@@ -1,0 +1,8 @@
+There are men. ||entailment
+There is garb. ||entailment
+There are drums. ||entailment
+There is a crowd. ||entailment
+The men are Two. ||entailment
+The men are in garb. ||entailment
+The men play drums. ||entailment
+The drums are for the crowd. ||entailment

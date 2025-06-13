@@ -1,0 +1,3 @@
+there are not people ||contradiction
+there is not rain ||contradiction
+the people are not walking in rain ||entailment

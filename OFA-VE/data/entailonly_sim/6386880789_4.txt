@@ -1,0 +1,4 @@
+There is a body. ||Entailment
+There is some conservation. ||Contradiction
+The conservation is eye. ||Contradiction
+The body is wearing protection. ||Entailment

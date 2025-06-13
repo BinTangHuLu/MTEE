@@ -1,0 +1,5 @@
+there is not a tree ||contradiction
+there is not a construction site ||contradiction
+there are not workers ||contradiction
+the tree does not stand by the construction site ||contradiction
+the tree does not stand by the workers ||contradiction

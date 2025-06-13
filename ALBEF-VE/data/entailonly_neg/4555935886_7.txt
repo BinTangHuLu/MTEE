@@ -1,0 +1,5 @@
+there is not a woman ||contradiction
+there are not some clothes ||contradiction
+there is not a line ||contradiction
+the woman does not hang clothes ||contradiction
+the clothes are not on the line ||entailment

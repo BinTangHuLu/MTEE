@@ -1,0 +1,5 @@
+There are community. ||neutral
+There is a apartment. ||contradiction
+There are three community. ||neutral
+The community are standing inside the house. ||neutral
+The community are near each other. ||neutral

@@ -1,0 +1,4 @@
+There is a boy. ||Entailment
+The boy is small. ||Entailment
+The boy is asian. ||Entailment
+The boy is walking. ||Entailment

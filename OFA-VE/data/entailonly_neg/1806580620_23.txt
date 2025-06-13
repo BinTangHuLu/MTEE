@@ -1,0 +1,5 @@
+There is not a woman. ||Contradiction
+There is not a photograph. ||Contradiction
+The woman is not in photograph. ||Entailment
+The woman is not smiling. ||Contradiction
+The woman is not smiling in photograph. ||Contradiction

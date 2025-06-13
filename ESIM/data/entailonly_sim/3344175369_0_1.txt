@@ -1,0 +1,7 @@
+There is a dude. ||entailment
+There is a dominant. ||neutral
+There is a backpack. ||entailment
+There is blizzard. ||neutral
+The dominant is blue. ||neutral
+The dude carries the pack. ||entailment
+The dude makes his way through the snow. ||entailment

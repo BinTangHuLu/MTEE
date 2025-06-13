@@ -1,0 +1,4 @@
+there is not a person ||contradiction
+there is not a ball ||contradiction
+the person is not blue ||contradiction
+the person is not holding the ball ||entailment

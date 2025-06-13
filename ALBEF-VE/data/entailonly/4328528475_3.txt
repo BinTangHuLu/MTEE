@@ -1,0 +1,6 @@
+there is a photograph ||entailment
+there is a girl ||entailment
+there is a game ||entailment
+the girl is playing ||entailment
+the photograph shows the girl ||entailment
+the girl is playing a game ||entailment

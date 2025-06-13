@@ -1,0 +1,5 @@
+there is not a dog ||contradiction
+there is not an eye ||contradiction
+the dog is not brown ||contradiction
+the eye is not missing ||entailment
+the dog is not missing eye ||entailment

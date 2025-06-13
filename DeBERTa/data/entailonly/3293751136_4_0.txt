@@ -1,0 +1,3 @@
+There are People. ||entailment
+The People have appreciation. ||neutral
+The People show another. ||entailment

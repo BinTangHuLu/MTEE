@@ -1,0 +1,4 @@
+There is not a person. ||contradiction
+There are not some sausages. ||contradiction
+There is not a market. ||contradiction
+The person is not hanging sausages. ||contradiction

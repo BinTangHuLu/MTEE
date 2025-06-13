@@ -1,0 +1,5 @@
+there is a man ||entailment
+there is a tent ||entailment
+there is a mountainside ||entailment
+the man is near the tent ||entailment
+the tent is on the mountainside ||entailment

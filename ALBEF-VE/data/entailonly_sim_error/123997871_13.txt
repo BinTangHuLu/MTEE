@@ -1,0 +1,4 @@
+A,playing
+RE2,on,teams
+A,in
+R,playing

@@ -1,0 +1,4 @@
+there are community ||entailment
+there is dirt ||neutral
+the community are staring at ground ||contradiction
+the community are walking ||entailment

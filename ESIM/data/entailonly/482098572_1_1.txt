@@ -1,0 +1,3 @@
+There is a person. ||entailment
+There is a river. ||entailment
+The person is on the river. ||entailment

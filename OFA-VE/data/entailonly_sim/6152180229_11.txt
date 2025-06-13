@@ -1,0 +1,3 @@
+There are community. ||Entailment
+There is a drink. ||Entailment
+The community are showing off the beverage. ||Neutral

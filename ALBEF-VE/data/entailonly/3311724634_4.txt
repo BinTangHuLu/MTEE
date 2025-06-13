@@ -1,0 +1,3 @@
+there is a person ||entailment
+there is a microphone ||entailment
+the person is speaking into the microphone ||entailment

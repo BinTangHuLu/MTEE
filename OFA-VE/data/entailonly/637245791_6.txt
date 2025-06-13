@@ -1,0 +1,4 @@
+There is a boy. ||Entailment
+There are some legos. ||Entailment
+The boy enjoys himself. ||Entailment
+The boy is playing with legos. ||Neutral

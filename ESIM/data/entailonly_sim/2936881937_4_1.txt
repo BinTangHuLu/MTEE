@@ -1,0 +1,5 @@
+There is a dude. ||entailment
+There is a pedal. ||neutral
+The dude watches. ||entailment
+The dude watches the bike. ||entailment
+The pedal repairs. ||entailment

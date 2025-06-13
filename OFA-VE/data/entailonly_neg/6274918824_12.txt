@@ -1,0 +1,3 @@
+There is not a person. ||Contradiction
+There is not a recipe. ||Contradiction
+The person does not prepare the recipe. ||Contradiction

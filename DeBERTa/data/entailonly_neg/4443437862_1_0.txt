@@ -1,0 +1,6 @@
+There is not a person. ||contradiction
+There is not a bag. ||contradiction
+There is not a girl. ||contradiction
+The person is not carrying. ||contradiction
+The bag is with a girl behind hernot . ||entailment
+The person is not carrying a bag. ||contradiction

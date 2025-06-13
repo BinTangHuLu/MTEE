@@ -1,0 +1,4 @@
+There is a cook. ||entailment
+The cook prepares. ||entailment
+The cook is food. ||entailment
+The cook prepares food. ||entailment

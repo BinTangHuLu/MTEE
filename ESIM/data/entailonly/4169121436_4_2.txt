@@ -1,0 +1,4 @@
+There are women. ||entailment
+There is a market. ||entailment
+The women are asian. ||entailment
+The women are at the market. ||entailment

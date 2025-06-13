@@ -1,0 +1,3 @@
+there is a store ||entailment
+there are some items ||entailment
+the store sells items ||entailment

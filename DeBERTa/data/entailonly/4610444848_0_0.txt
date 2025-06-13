@@ -1,0 +1,5 @@
+There are boys. ||entailment
+There is a couple. ||entailment
+The boys look on the couple. ||entailment
+The couple gets pictures taken. ||entailment
+The couple is married. ||entailment

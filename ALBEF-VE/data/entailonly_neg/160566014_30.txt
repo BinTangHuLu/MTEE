@@ -1,0 +1,4 @@
+there is not a car ||contradiction
+there are not some people ||contradiction
+the people are not sitting ||entailment
+the car is not with people ||contradiction

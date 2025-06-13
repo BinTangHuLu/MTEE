@@ -1,0 +1,14 @@
+There is a guy. ||entailment
+There is a shirt. ||entailment
+There are pants. ||entailment
+There is a bandanna. ||neutral
+There is a blaze. ||entailment
+There is a mouth. ||entailment
+The guy is wearing. ||entailment
+The guy starts. ||entailment
+The bandanna is over his mouth. ||contradiction
+The guy is wearing the shirt. ||entailment
+The guy is wearing the pants. ||entailment
+The guy is wearing the bandanna. ||contradiction
+The guy starts the blaze. ||entailment
+The blaze is going. ||entailment

@@ -1,0 +1,3 @@
+there is a ball player ||entailment
+there is a colleague ||entailment
+the ball player is eyeing the teammate ||entailment

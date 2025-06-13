@@ -1,0 +1,4 @@
+there is a childbearing ||entailment
+there is a conspiracy ||neutral
+the conspiracy is tennis ||contradiction
+the childbearing holds up the racket ||entailment

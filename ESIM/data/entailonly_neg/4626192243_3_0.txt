@@ -1,0 +1,6 @@
+There is not a man. ||contradiction
+There is not a street. ||contradiction
+There is not another man. ||contradiction
+The man is not prone. ||neutral
+The man is not on the street. ||contradiction
+Another man does not stand next to the man. ||contradiction

@@ -1,0 +1,4 @@
+There are People. ||Entailment
+There is a bike. ||Entailment
+The bike is riding. ||Entailment
+People are bike riding. ||Entailment

@@ -1,0 +1,3 @@
+there are boy ||entailment
+there is a architecture ||entailment
+the boy are going into the building ||neutral

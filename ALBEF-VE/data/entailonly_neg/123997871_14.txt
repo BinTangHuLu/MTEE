@@ -1,0 +1,6 @@
+there are not boys ||contradiction
+there is not a sport ||contradiction
+there are not uniforms ||contradiction
+the sport is not a team ||contradiction
+the boys do not play sport ||contradiction
+the sport is not in uniforms ||contradiction

@@ -1,0 +1,2 @@
+There is an apparatus. ||Entailment
+The someone is holding the apparatus. ||Contradiction

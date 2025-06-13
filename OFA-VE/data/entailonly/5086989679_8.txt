@@ -1,0 +1,4 @@
+There is a gymnast. ||Entailment
+There is a face. ||Entailment
+The face is painted. ||Entailment
+The gymnast has a face. ||Entailment

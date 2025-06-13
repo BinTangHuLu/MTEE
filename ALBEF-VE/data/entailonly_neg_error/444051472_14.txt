@@ -1,0 +1,4 @@
+A,elderly
+R,sitting on
+A,sitting
+R,reading

@@ -1,0 +1,3 @@
+there is a pup ||entailment
+there is a basin ||entailment
+the pup is in the pool ||entailment

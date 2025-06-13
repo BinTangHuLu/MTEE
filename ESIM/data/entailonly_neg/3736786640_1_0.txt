@@ -1,0 +1,5 @@
+There are not children. ||contradiction
+There are not trampolines. ||contradiction
+There are not outdoors. ||contradiction
+The children do not play on trampolines. ||contradiction
+The trampolines are not outdoors. ||contradiction

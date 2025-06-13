@@ -1,0 +1,7 @@
+there is a female ||entailment
+there is a child ||entailment
+there is a bed ||entailment
+the child is young ||neutral
+the bed is flowered ||entailment
+the female and boy are together ||entailment
+the child is sitting on the couch ||entailment

@@ -1,0 +1,4 @@
+There is a girl. ||entailment
+There is a father. ||entailment
+The girl is present. ||entailment
+The girl is present by father. ||entailment

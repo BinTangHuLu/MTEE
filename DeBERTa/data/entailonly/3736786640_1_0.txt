@@ -1,0 +1,5 @@
+There are children. ||entailment
+There are trampolines. ||entailment
+There are outdoors. ||entailment
+The children play on trampolines. ||entailment
+The trampolines are outdoors. ||neutral

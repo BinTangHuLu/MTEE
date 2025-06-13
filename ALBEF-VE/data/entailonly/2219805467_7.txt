@@ -1,0 +1,4 @@
+there is a dog ||entailment
+there is a ball ||entailment
+the ball is in its mouth ||neutral
+the dog carries the ball ||entailment

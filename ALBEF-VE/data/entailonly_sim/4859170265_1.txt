@@ -1,0 +1,4 @@
+there are community ||entailment
+there is advice ||entailment
+community are giving out balloons ||entailment
+community are giving out information ||entailment

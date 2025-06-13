@@ -1,0 +1,3 @@
+There is an animal. ||Entailment
+The animal is small. ||Neutral
+The animal is running. ||Entailment

@@ -1,0 +1,3 @@
+there are girls ||entailment
+there is a flag ||entailment
+the girls are standing on the flag ||contradiction

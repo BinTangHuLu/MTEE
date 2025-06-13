@@ -1,0 +1,3 @@
+R,and
+RE2,are standing,indoor
+RE2,are standing,indoor

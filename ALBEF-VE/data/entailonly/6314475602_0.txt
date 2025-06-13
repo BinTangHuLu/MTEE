@@ -1,0 +1,4 @@
+there are men ||entailment
+there are kilts ||entailment
+the kilts are in ||neutral
+the men are playing on bagpipes ||contradiction

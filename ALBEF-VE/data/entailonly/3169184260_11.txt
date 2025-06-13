@@ -1,0 +1,3 @@
+there is a boy ||entailment
+the pajamas are green ||entailment
+the boy plays ||entailment

@@ -1,0 +1,3 @@
+There is a body. ||entailment
+There is a forest. ||neutral
+The body is messing with the tree. ||entailment

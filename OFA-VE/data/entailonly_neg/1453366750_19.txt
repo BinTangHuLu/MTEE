@@ -1,0 +1,2 @@
+There are not children. ||Contradiction
+The children are not sitting upright. ||Entailment

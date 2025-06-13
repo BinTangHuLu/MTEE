@@ -1,0 +1,2 @@
+there are monks ||entailment
+the monks are going for a stroll ||entailment

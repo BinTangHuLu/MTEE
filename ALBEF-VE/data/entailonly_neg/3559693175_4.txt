@@ -1,0 +1,3 @@
+there are not people ||contradiction
+there is not a bike shop ||contradiction
+the people are not waiting at the bike shop ||contradiction

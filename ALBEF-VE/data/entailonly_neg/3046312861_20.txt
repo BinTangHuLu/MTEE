@@ -1,0 +1,6 @@
+there is not a girl ||contradiction
+there is not wrestling ||contradiction
+there is not florida ||entailment
+the girl is not training ||contradiction
+the girl is not wrestling ||contradiction
+the girl is not wrestling in florida ||entailment

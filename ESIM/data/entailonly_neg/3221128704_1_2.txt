@@ -1,0 +1,5 @@
+There is not a man. ||contradiction
+The man is not purple. ||contradiction
+The man is not green. ||contradiction
+The ball is not soccer. ||contradiction
+The man does not fall down after being hit by the ball. ||contradiction

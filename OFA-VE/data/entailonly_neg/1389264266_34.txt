@@ -1,0 +1,3 @@
+There are not girls. ||Contradiction
+The girls are not similar. ||Entailment
+The girls are not with styles. ||Contradiction

@@ -1,0 +1,5 @@
+there is a dude ||entailment
+there is a smoke ||entailment
+there is a chair ||entailment
+the dude is smoking the cigarette ||neutral
+the smoke is on the bench ||contradiction

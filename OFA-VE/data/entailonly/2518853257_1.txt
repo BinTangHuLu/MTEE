@@ -1,0 +1,6 @@
+There are people. ||Entailment
+There are chairs. ||Entailment
+There are flowers. ||Entailment
+The people are not blond. ||Entailment
+The people are sitting on chairs. ||Entailment
+The chairs are near flowers. ||Entailment

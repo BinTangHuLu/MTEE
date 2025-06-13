@@ -1,0 +1,6 @@
+There is not a man. ||contradiction
+There is not a jacket. ||contradiction
+There is not a comb. ||contradiction
+The man is not wearing. ||contradiction
+The jacket is not holding. ||contradiction
+The man is not while holding comb. ||contradiction

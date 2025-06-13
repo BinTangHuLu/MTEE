@@ -1,0 +1,3 @@
+there is an image ||entailment
+there is a link ||entailment
+the image is on the link ||entailment

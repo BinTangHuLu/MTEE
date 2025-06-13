@@ -1,0 +1,4 @@
+there is not a person ||contradiction
+there is not a batter ||contradiction
+the batter is not mixing ||contradiction
+the person is not mixing the batter ||contradiction

@@ -1,0 +1,5 @@
+there is a dude ||entailment
+there is a album ||entailment
+the dude is older ||entailment
+the dude reads the book ||neutral
+the album is next to the ducks ||entailment

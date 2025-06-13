@@ -1,0 +1,4 @@
+there is not a woman ||contradiction
+there is not a ball ||contradiction
+the ball is not bowling ||contradiction
+the woman does not prepare to throw the ball ||contradiction

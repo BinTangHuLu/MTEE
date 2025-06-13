@@ -1,0 +1,5 @@
+there is not a man ||contradiction
+there is not a rope ||contradiction
+there are not climbers ||contradiction
+the man is not securing rope ||contradiction
+the man is not for climbers ||contradiction

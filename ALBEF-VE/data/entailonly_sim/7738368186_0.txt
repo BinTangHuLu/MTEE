@@ -1,0 +1,4 @@
+there is a body ||entailment
+there are some glass ||entailment
+the glass are beer ||neutral
+the body collects bottles ||entailment

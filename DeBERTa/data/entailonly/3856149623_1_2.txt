@@ -1,0 +1,2 @@
+There is a doctor. ||entailment
+The doctor is studying. ||entailment

@@ -1,0 +1,4 @@
+there is a airplane ||entailment
+there are freight ||entailment
+the freight are two ||neutral
+the airplane has passengers ||neutral

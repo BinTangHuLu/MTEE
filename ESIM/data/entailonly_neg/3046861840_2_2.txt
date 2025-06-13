@@ -1,0 +1,4 @@
+There is not a man. ||contradiction
+There is not a mountain. ||contradiction
+The man is not rugged. ||contradiction
+The man does not sit atop mountain. ||contradiction

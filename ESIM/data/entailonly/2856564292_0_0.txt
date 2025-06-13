@@ -1,0 +1,4 @@
+There is a man. ||entailment
+There is another. ||entailment
+The man argues with another. ||entailment
+Another is making threatening gestures. ||entailment

@@ -1,0 +1,4 @@
+there is a person ||entailment
+there is some protection ||entailment
+the protection is eye ||neutral
+the person is wearing protection ||entailment

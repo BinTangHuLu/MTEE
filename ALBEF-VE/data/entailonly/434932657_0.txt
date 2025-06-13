@@ -1,0 +1,5 @@
+there is a man ||entailment
+there is a bull ||entailment
+there is a contest ||entailment
+the man is riding the bull ||contradiction
+the man is in the contest ||neutral

@@ -1,0 +1,3 @@
+there is a man ||entailment
+there is a jumpsuit ||entailment
+the man is in a jumpsuit ||entailment

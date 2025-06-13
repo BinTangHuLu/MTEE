@@ -1,0 +1,4 @@
+there is a artery ||neutral
+there is a arid ||entailment
+there is a body ||entailment
+the body walks on the road ||entailment

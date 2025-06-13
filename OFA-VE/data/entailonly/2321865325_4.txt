@@ -1,0 +1,3 @@
+There is a puppy. ||Entailment
+The puppy is running. ||Entailment
+The puppy is running. ||Entailment

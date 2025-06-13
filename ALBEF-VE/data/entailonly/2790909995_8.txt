@@ -1,0 +1,3 @@
+there is a dog ||entailment
+there is a beach ||entailment
+the dog is running on the beach ||neutral

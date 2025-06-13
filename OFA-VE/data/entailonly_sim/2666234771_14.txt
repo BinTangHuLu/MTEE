@@ -1,0 +1,8 @@
+There is a dude. ||Entailment
+There are banner. ||Entailment
+There are band. ||Entailment
+The dude is moving. ||Entailment
+The dude is holding. ||Entailment
+The dude is moving flags. ||Entailment
+The dude is holding flags. ||Entailment
+The banner are in hands. ||Entailment

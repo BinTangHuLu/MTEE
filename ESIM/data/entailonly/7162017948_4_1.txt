@@ -1,0 +1,5 @@
+There is dough. ||entailment
+There is a man. ||entailment
+There is a woman. ||entailment
+The dough is being cut by the man. ||entailment
+The dough is being cut by the woman. ||entailment

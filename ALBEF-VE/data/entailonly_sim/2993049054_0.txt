@@ -1,0 +1,4 @@
+there is a dude ||entailment
+there is a camouflage ||entailment
+the camouflage is black ||neutral
+the dude is in mask ||entailment

@@ -1,0 +1,6 @@
+There is a graduate. ||Neutral
+There are some action. ||Entailment
+There is a collection. ||Entailment
+The action are artistic. ||Entailment
+The graduate is doing activities. ||Entailment
+The action are in class. ||Entailment

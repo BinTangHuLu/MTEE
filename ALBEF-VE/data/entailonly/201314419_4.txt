@@ -1,0 +1,5 @@
+there are people ||entailment
+there is an ocean ||entailment
+there is a sky ||entailment
+the people are looking out at the ocean ||entailment
+the people are looking out at the sky ||contradiction

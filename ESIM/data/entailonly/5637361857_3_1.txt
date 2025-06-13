@@ -1,0 +1,5 @@
+There is a person. ||entailment
+There is a replica. ||neutral
+There is a creation. ||entailment
+The person is crafting a replica. ||neutral
+The replica is of creation. ||neutral

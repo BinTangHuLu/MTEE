@@ -1,0 +1,4 @@
+there is a body ||entailment
+there is an field ||entailment
+the body is trying to do tricks ||neutral
+the body is trying to do tricks in the area ||neutral

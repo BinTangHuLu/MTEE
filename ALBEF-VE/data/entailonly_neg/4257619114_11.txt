@@ -1,0 +1,6 @@
+there is not a woman ||contradiction
+there is not an outfit ||contradiction
+there is not a cookout ||contradiction
+the outfit is not ballerina ||entailment
+the woman is not in the outfit ||entailment
+the woman is not at the cookout ||entailment

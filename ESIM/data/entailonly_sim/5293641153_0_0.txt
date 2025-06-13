@@ -1,0 +1,5 @@
+There is a dude. ||entailment
+There are some sand. ||contradiction
+There are some enough. ||entailment
+The dude is jumping over rocks. ||entailment
+The sand are near mountains. ||contradiction

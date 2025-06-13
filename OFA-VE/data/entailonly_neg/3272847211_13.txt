@@ -1,0 +1,5 @@
+There is not a group. ||Contradiction
+There are not some people. ||Contradiction
+There is not a ball. ||Contradiction
+The people are not playing. ||Contradiction
+The people are not playing with the ball. ||Contradiction

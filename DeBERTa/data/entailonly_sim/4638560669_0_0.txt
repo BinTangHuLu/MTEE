@@ -1,0 +1,5 @@
+There are child. ||entailment
+There is a avenue. ||entailment
+There are two child. ||entailment
+The avenue is in the middle of. ||entailment
+The child are talking in the street. ||entailment

@@ -1,0 +1,7 @@
+there is a person ||entailment
+there is a stage ||entailment
+there is a microphone ||entailment
+there is a chalkboard ||entailment
+the person is on stage ||entailment
+the person is with a microphone ||entailment
+the microphone is next to the chalkboard ||entailment

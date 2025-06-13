@@ -1,0 +1,4 @@
+There is a woman. ||entailment
+The woman is standing. ||entailment
+The woman is waiting. ||entailment
+The woman is standing around waiting. ||entailment

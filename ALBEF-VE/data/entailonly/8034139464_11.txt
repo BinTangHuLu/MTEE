@@ -1,0 +1,3 @@
+there are men ||entailment
+there is golfing ||entailment
+the men are out golfing ||entailment

@@ -1,0 +1,5 @@
+there is not a man ||contradiction
+there is not a flip ||contradiction
+there is not water ||contradiction
+the man does not flip ||contradiction
+the flip is not into water ||contradiction

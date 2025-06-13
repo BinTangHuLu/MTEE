@@ -1,0 +1,4 @@
+There is not a woman. ||Contradiction
+There is not bread. ||Entailment
+The woman does not have. ||Contradiction
+The bread is not for sale. ||Contradiction

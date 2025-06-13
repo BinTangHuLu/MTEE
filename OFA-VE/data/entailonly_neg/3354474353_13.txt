@@ -1,0 +1,3 @@
+There are not animals. ||Contradiction
+There is not snow. ||Contradiction
+The animals are not in snow. ||Contradiction

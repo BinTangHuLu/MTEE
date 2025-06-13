@@ -1,0 +1,4 @@
+there are children ||entailment
+there is a picture ||entailment
+the picture is taken ||entailment
+the children are having a picture ||entailment

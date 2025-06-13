@@ -1,0 +1,5 @@
+there is a gentlewoman ||entailment
+there is a costume ||entailment
+there is a basin ||entailment
+the costume is dark colored ||entailment
+the gentlewoman is in pool ||entailment

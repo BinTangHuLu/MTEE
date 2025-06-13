@@ -1,0 +1,2 @@
+There are girls. ||Entailment
+The girls are all dressed the same. ||Entailment

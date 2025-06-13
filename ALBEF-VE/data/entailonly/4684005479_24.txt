@@ -1,0 +1,6 @@
+there is a man ||entailment
+there is a jersey ||entailment
+there is a street ||entailment
+the jersey is wearing ||entailment
+the man wears jersey ||entailment
+the man walks down street ||entailment

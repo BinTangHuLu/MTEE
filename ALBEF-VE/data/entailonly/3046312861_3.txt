@@ -1,0 +1,5 @@
+there is a gymnast ||entailment
+there is a poll ||entailment
+the gymnast is being helped ||entailment
+the gymnast is holding onto ||entailment
+the gymnast is holding onto the poll ||entailment

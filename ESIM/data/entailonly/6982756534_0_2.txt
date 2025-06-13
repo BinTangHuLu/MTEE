@@ -1,0 +1,9 @@
+There is a woman. ||entailment
+There is a basket. ||entailment
+There is a street. ||entailment
+There is Nepal. ||entailment
+The woman is carrying. ||entailment
+The basket is down. ||contradiction
+The woman is carrying the basket. ||entailment
+The woman is in the street. ||entailment
+The street is in Nepal. ||contradiction

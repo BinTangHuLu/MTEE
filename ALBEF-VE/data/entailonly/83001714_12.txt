@@ -1,0 +1,4 @@
+there are kids ||entailment
+there is a road ||entailment
+the kids are playing tug of war ||entailment
+the kids are on the road ||neutral

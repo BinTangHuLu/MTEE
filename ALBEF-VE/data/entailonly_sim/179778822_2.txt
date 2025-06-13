@@ -1,0 +1,5 @@
+there is a female ||entailment
+there is a baby ||entailment
+the female and child are standing indoor ||entailment
+the female is standing indoor ||entailment
+the baby is standing indoor ||entailment

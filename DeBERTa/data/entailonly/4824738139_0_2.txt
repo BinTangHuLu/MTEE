@@ -1,0 +1,3 @@
+There is a plane. ||entailment
+There is a fighter jet. ||entailment
+The plane is not moving. ||entailment

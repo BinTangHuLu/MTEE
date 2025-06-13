@@ -1,0 +1,5 @@
+There are community. ||entailment
+There is bread. ||contradiction
+There is a dealer. ||neutral
+community are buying food. ||entailment
+community are buying from the vendor. ||entailment

@@ -1,0 +1,3 @@
+there are not kayakers ||contradiction
+there is not outdoors ||contradiction
+the kayakers are not outdoors ||contradiction

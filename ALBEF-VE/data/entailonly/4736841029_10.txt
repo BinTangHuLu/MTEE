@@ -1,0 +1,8 @@
+there is a child ||entailment
+there is some hair ||entailment
+there is a skirt ||entailment
+there is a telescope ||entailment
+the hair is long ||entailment
+the child is with hair ||entailment
+the child is wearing a skirt ||neutral
+the child is looking through a telescope ||entailment

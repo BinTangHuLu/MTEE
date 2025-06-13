@@ -1,0 +1,4 @@
+there is a boy ||entailment
+there is a lady ||entailment
+the boy is small ||entailment
+the boy is looking at the lady ||entailment

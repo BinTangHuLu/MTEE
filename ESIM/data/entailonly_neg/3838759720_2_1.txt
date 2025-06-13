@@ -1,0 +1,6 @@
+There is not a gentleman. ||contradiction
+The gentleman is not older. ||contradiction
+The gentleman is not wearing a plaid shirt. ||contradiction
+The gentleman is not wearing blue pants. ||contradiction
+There is not a telescope. ||contradiction
+The gentleman does not look through the telescope. ||contradiction

@@ -1,0 +1,3 @@
+There is a child. ||Entailment
+There is a call up. ||Entailment
+The child is talking on the phone. ||Entailment

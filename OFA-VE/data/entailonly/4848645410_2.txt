@@ -1,0 +1,4 @@
+There is a man. ||Entailment
+The man is in white. ||Entailment
+The man is in blue. ||Neutral
+The man is outside the man. ||Entailment

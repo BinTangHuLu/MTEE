@@ -1,0 +1,5 @@
+There is not a soccer player. ||contradiction
+There is not a goal. ||contradiction
+There is not an opposing team. ||contradiction
+The soccer player does not try to score the goal. ||contradiction
+The opposing team does not stop it. ||contradiction

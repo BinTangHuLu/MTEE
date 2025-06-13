@@ -1,0 +1,6 @@
+There are men. ||entailment
+There are two men. ||entailment
+The men are complimenting each other. ||neutral
+The men are blue. ||neutral
+The shirts are blue. ||entailment
+The men are on shirts. ||entailment

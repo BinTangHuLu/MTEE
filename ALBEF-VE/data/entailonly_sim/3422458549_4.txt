@@ -1,0 +1,3 @@
+there is a athlete ||entailment
+there is a conspiracy ||contradiction
+the athlete has a racket ||entailment

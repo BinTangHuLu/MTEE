@@ -1,0 +1,6 @@
+There is a woman. ||Entailment
+There are arms. ||Entailment
+The woman is jumping. ||Entailment
+Her arms are her. ||Entailment
+The woman jumps in air. ||Entailment
+The woman extends arms. ||Entailment

@@ -1,0 +1,3 @@
+There are adolescent. ||entailment
+The adolescent are jumping. ||entailment
+Three adolescent are jumping. ||entailment

@@ -1,0 +1,3 @@
+There are not climbers. ||Contradiction
+The climbers do not use safety measures. ||Contradiction
+The climbers do not have safety measures. ||Neutral

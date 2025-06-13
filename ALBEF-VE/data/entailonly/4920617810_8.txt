@@ -1,0 +1,3 @@
+there is she ||contradiction
+there is a picture ||entailment
+she is taking a picture ||entailment

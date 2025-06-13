@@ -1,0 +1,3 @@
+There is a circle. ||contradiction
+There is a female. ||entailment
+The circle walks around the woman. ||contradiction

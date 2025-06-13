@@ -1,0 +1,3 @@
+there is a woman ||entailment
+there is a cart ||entailment
+the woman is standing by the cart ||contradiction

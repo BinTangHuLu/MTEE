@@ -1,0 +1,10 @@
+there is a man ||entailment
+there is a shirt ||entailment
+there is a hat ||entailment
+there is a concrete rise ||entailment
+the shirt is bright yellow ||neutral
+the hat is brimmed ||neutral
+the man is in the shirt ||entailment
+the man is in the hat ||entailment
+the man sits with another man ||entailment
+the man is on the concrete rise ||contradiction

@@ -1,0 +1,4 @@
+there is a child ||entailment
+there is a conspiracy ||neutral
+the child is asian ||neutral
+the child is using the racket ||neutral

@@ -1,0 +1,5 @@
+There are female. ||entailment
+There are Four female. ||entailment
+The female are enjoying. ||neutral
+The female are rollerskating. ||entailment
+The female are enjoying rollerskating. ||entailment

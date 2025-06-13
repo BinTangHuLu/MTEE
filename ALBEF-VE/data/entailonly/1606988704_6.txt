@@ -1,0 +1,3 @@
+there are children ||entailment
+there is straw ||entailment
+the children are throwing straw ||entailment

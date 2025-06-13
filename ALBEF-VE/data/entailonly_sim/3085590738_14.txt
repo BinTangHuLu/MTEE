@@ -1,0 +1,3 @@
+there is a body ||entailment
+there is a dais ||entailment
+the body is at podium ||entailment

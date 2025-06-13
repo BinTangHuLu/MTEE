@@ -1,0 +1,9 @@
+there is a any ||contradiction
+there is a marriage party ||entailment
+there is a bride to be ||entailment
+there is equipment ||entailment
+the any walks with the bride ||contradiction
+the any walks with the party ||contradiction
+the celebration walks with the bride ||entailment
+the bride to be is outside near stuff ||entailment
+the bride to be is near stuff ||entailment

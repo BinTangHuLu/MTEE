@@ -1,0 +1,9 @@
+there is not a human ||contradiction
+there are not some sunglasses ||contradiction
+there is not a direction ||contradiction
+there is not an expression ||contradiction
+there is not a face ||contradiction
+the sunglasses are not wearing ||neutral
+the expression is not on face ||entailment
+the human does not look in direction ||contradiction
+the human is not with expression ||entailment

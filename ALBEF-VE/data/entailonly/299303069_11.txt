@@ -1,0 +1,3 @@
+there is a boy ||entailment
+there are some toys ||entailment
+the boy plays with toys ||entailment

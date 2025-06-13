@@ -1,0 +1,4 @@
+there are not lines ||contradiction
+there are not people ||contradiction
+the lines are not multiple ||entailment
+the lines are not of people ||contradiction

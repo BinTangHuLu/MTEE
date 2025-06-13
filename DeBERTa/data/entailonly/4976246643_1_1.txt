@@ -1,0 +1,12 @@
+There is an artist. ||entailment
+There is a picture. ||entailment
+There is a man. ||entailment
+There is a flock. ||entailment
+There are birds. ||entailment
+The picture is painted. ||neutral
+The picture is of a man. ||entailment
+The man is being flown high in the sky. ||neutral
+The artist has painted the picture. ||neutral
+The picture is of the man. ||entailment
+The man is being flown by the flock. ||entailment
+The flock is by birds. ||entailment

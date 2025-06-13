@@ -1,0 +1,5 @@
+There is not a guy. ||contradiction
+There is not a pet. ||contradiction
+There is not a tree. ||contradiction
+The guy is not carrying the pet. ||entailment
+The guy is not near the tree. ||contradiction

@@ -1,0 +1,4 @@
+There are People. ||Entailment
+There is a stroll. ||Entailment
+There are outdoors. ||Entailment
+People take a stroll outdoors. ||Entailment

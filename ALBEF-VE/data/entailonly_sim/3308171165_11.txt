@@ -1,0 +1,4 @@
+there is a animal ||entailment
+there is a clue ||entailment
+the animal is standing ||contradiction
+the animal is standing with the sign ||contradiction

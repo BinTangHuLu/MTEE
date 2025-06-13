@@ -1,0 +1,5 @@
+there are not people ||contradiction
+there are not reflections ||contradiction
+there is not a mirror ||contradiction
+the people do not look at reflections ||contradiction
+the reflections are not in the mirror ||contradiction

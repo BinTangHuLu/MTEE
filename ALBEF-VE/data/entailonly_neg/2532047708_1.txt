@@ -1,0 +1,7 @@
+there is not a man ||contradiction
+there is not a guitar ||contradiction
+there is not a banjo ||contradiction
+the guitar is not playing ||neutral
+the man is not playing a guitar ||entailment
+the man is playing alongside anothernot ||contradiction
+the another is not on banjo ||entailment

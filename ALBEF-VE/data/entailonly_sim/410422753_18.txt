@@ -1,0 +1,3 @@
+there is a pup ||entailment
+there is some blizzard ||neutral
+the pup is playing in snow ||entailment

@@ -1,0 +1,3 @@
+there are clan ||entailment
+there are dose ||entailment
+the clan are eating peanuts ||entailment

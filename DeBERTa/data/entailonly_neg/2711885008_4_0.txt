@@ -1,0 +1,4 @@
+There is not a tree. ||contradiction
+There is not a child. ||contradiction
+The tree does not have a child. ||contradiction
+The child is not stuck up in the tree. ||contradiction

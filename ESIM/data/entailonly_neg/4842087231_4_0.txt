@@ -1,0 +1,5 @@
+There is not a woman. ||contradiction
+There is not a time. ||contradiction
+There is not a watch. ||contradiction
+The woman is not adjusting time. ||contradiction
+The woman is not adjusting the watch. ||contradiction

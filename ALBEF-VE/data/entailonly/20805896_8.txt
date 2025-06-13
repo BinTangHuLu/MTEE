@@ -1,0 +1,3 @@
+there are men ||entailment
+the men are both ||entailment
+the men are sitting indoors ||entailment

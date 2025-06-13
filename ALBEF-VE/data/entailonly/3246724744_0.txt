@@ -1,0 +1,3 @@
+there is a girl ||entailment
+there is an ocean ||entailment
+the girl jumps in front of the ocean ||entailment

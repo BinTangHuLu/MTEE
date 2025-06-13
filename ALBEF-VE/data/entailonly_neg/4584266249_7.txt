@@ -1,0 +1,2 @@
+there are not ladies ||contradiction
+the ladies are not standing ||entailment

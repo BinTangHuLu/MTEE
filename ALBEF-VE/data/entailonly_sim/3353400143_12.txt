@@ -1,0 +1,2 @@
+there is a oval ||entailment
+the motorcycle is on oval ||contradiction

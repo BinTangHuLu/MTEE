@@ -1,0 +1,4 @@
+There is a boy. ||entailment
+There is a field. ||entailment
+The boy is young. ||entailment
+The boy is playing in the field. ||entailment

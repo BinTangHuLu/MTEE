@@ -1,0 +1,4 @@
+There is a man. ||neutral
+The man is posed. ||entailment
+The man has both arms out. ||contradiction
+The man is at competition. ||entailment

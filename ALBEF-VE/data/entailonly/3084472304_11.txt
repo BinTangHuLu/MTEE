@@ -1,0 +1,2 @@
+there is a crew ||entailment
+the crew is clean up ||entailment

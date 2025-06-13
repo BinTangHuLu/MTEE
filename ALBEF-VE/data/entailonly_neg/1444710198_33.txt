@@ -1,0 +1,6 @@
+there are not boys ||contradiction
+there are not rocks ||contradiction
+there is not a sea ||contradiction
+the sea is not open ||contradiction
+the boys are not throwing rocks ||contradiction
+the rocks are not near the sea ||contradiction

@@ -1,0 +1,5 @@
+There is a pup. ||entailment
+There is some blizzard. ||neutral
+There is an article. ||entailment
+The pup is in the snow. ||entailment
+The pup is carrying the object. ||entailment

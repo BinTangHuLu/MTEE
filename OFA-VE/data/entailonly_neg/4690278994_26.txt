@@ -1,0 +1,5 @@
+There is not a runner. ||Contradiction
+There is not a shirt. ||Contradiction
+There are not pants. ||Entailment
+The runner is not in the shirt. ||Entailment
+The runner is not in the pants. ||Entailment

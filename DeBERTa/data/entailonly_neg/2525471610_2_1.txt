@@ -1,0 +1,5 @@
+There are not People. ||contradiction
+There are not ducks. ||contradiction
+There is not a pond. ||contradiction
+People do not watch ducks. ||contradiction
+People do not watch pond. ||contradiction

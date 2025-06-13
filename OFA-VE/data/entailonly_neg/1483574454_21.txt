@@ -1,0 +1,3 @@
+There are not bicycles. ||Entailment
+There is not a shop. ||Entailment
+The bicycles are not in the shop. ||Entailment

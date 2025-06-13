@@ -1,0 +1,5 @@
+There is not a snapshot. ||Contradiction
+There is not a birds-eye. ||Contradiction
+There is not a skier. ||Contradiction
+The skier is not competitive. ||Neutral
+The snapshot is not of the skier. ||Contradiction

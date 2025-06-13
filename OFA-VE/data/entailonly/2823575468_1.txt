@@ -1,0 +1,4 @@
+There is a male. ||Entailment
+There are some clothes. ||Entailment
+The male is young. ||Entailment
+The male has clothes. ||Entailment

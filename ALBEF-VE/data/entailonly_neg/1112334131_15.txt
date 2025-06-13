@@ -1,0 +1,5 @@
+there is not a child ||contradiction
+there is not ice cream ||contradiction
+there is not a lady ||contradiction
+the child is not eating ice cream ||contradiction
+the child is not in front of the lady ||contradiction

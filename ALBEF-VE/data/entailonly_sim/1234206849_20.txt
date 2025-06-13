@@ -1,0 +1,3 @@
+there are female ||entailment
+the female have their heads something ||entailment
+the female have on heads something ||entailment

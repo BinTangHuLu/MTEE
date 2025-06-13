@@ -1,0 +1,3 @@
+there are not janitors ||contradiction
+there is not a job ||contradiction
+the janitors are not doing the job ||contradiction

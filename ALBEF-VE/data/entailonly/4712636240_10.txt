@@ -1,0 +1,4 @@
+there is a man ||entailment
+there are some binoculars ||entailment
+the man is using binoculars ||neutral
+the man is using binoculars ||neutral

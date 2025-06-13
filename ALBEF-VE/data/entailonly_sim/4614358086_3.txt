@@ -1,0 +1,4 @@
+there is a constable ||entailment
+there is a defender ||entailment
+the constable is standing ||entailment
+the constable is standing by guard ||entailment

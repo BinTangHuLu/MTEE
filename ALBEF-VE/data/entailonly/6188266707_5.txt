@@ -1,0 +1,4 @@
+there is a person ||entailment
+there is a sport ||entailment
+the person is female ||entailment
+the person is playing sport ||entailment

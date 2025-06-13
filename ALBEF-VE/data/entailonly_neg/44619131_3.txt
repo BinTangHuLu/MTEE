@@ -1,0 +1,3 @@
+there are not computers ||contradiction
+there are not people ||contradiction
+the computers are not being used by people ||contradiction

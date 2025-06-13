@@ -1,0 +1,7 @@
+there is not a woman ||contradiction
+there is not a kid ||contradiction
+there is not a fruit ||contradiction
+the woman is not enjoying looking at ||neutral
+the kid is not eating ||contradiction
+the woman is not looking at kid ||contradiction
+the kid is not eating fruit ||contradiction

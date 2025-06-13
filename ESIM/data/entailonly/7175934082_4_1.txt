@@ -1,0 +1,4 @@
+There is a soldier. ||entailment
+The soldier is using binoculars. ||entailment
+The soldier is outside. ||entailment
+The soldier is in heat. ||entailment

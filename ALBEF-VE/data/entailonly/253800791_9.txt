@@ -1,0 +1,8 @@
+there is a man ||entailment
+there is a man ||entailment
+there is someone ||entailment
+there is a game ||entailment
+the game is outdoor ||entailment
+the man watched as the man ||entailment
+the man teaches someone ||entailment
+someone teaches how to play the game ||neutral

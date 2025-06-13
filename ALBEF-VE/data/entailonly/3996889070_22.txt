@@ -1,0 +1,3 @@
+there is a deer ||entailment
+there is a girl ||entailment
+the deer was near the girl ||entailment

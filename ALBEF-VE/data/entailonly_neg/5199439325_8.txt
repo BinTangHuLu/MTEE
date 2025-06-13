@@ -1,0 +1,2 @@
+there is not a student ||contradiction
+the student is not painting ||contradiction

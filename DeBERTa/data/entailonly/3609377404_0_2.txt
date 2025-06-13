@@ -1,0 +1,4 @@
+There is a man. ||entailment
+There is a boy. ||entailment
+The man is playing at the beach. ||entailment
+The boy is playing at the beach. ||entailment

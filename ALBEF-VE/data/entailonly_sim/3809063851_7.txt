@@ -1,0 +1,5 @@
+there are artist ||entailment
+there is barley ||neutral
+there is melody ||entailment
+the artist play music ||entailment
+the melody is on grass ||neutral

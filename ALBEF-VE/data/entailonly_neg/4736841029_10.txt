@@ -1,0 +1,8 @@
+there is not a child ||contradiction
+there is not some hair ||contradiction
+there is not a skirt ||contradiction
+there is not a telescope ||contradiction
+the hair is not long ||contradiction
+the child is not with hair ||contradiction
+the child is not wearing a skirt ||entailment
+the child is not looking through a telescope ||contradiction

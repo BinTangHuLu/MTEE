@@ -1,0 +1,8 @@
+there are not girls ||contradiction
+there are not uniforms ||contradiction
+there is not protection ||contradiction
+there is not a match ||contradiction
+the uniforms are not sports ||contradiction
+the girls are not wearing uniforms ||contradiction
+the girls are not wearing protection ||contradiction
+the girls are not at match ||contradiction

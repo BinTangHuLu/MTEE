@@ -1,0 +1,6 @@
+there are ladies ||entailment
+there is a boy ||entailment
+there is a camera ||entailment
+the ladies are watching the boy ||entailment
+the boy is sticking out tongue ||neutral
+the boy is at camera ||entailment

@@ -1,0 +1,6 @@
+there is a man ||entailment
+there is a horse ||entailment
+there is a road ||entailment
+the man is leading ||entailment
+the man is leading the horse ||entailment
+the horse is down the road ||contradiction

@@ -1,0 +1,6 @@
+there is a magician ||entailment
+there is a show ||entailment
+there is fire ||entailment
+the magician is doing a show ||entailment
+the magician is doing a show ||entailment
+the show is with fire ||entailment

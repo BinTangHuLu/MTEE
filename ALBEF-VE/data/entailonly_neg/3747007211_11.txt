@@ -1,0 +1,4 @@
+there is not a man ||contradiction
+there is not a mountain ||contradiction
+the mountain is not snowy ||contradiction
+the man is not skiing down the mountain ||entailment

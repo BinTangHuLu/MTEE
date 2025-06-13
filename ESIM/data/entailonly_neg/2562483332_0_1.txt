@@ -1,0 +1,5 @@
+There is not a child. ||contradiction
+There is not a woman. ||contradiction
+The child does not watch. ||contradiction
+The woman is not playing with equipment. ||contradiction
+The child does not watch the woman. ||contradiction

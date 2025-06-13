@@ -1,0 +1,3 @@
+there are women ||entailment
+there is a shirt ||entailment
+the shirt is yellow ||entailment

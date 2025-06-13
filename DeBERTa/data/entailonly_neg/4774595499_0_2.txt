@@ -1,0 +1,6 @@
+There is not a man. ||contradiction
+There is not an ear. ||contradiction
+There is not a shirt. ||contradiction
+The shirt is not striped. ||contradiction
+The man is not pointing into the ear. ||contradiction
+The man is not wearing the shirt. ||contradiction

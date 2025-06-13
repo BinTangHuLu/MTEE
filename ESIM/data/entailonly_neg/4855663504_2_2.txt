@@ -1,0 +1,5 @@
+There is not a guy. ||contradiction
+There is not an afro. ||contradiction
+There is not a guitar. ||contradiction
+The guy is not playing on the guitar. ||contradiction
+The guy is not with afro. ||contradiction

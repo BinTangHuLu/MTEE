@@ -1,0 +1,6 @@
+there is a car ||entailment
+there is a man ||entailment
+there is a field ||entailment
+the car is blue ||neutral
+the car is approaching the man ||neutral
+the man is standing in the field ||entailment

@@ -1,0 +1,8 @@
+There is a female. ||entailment
+There is a baby. ||entailment
+There is a star. ||contradiction
+There is a achievement. ||entailment
+There is a architecture. ||entailment
+The female protects the child. ||entailment
+The female walks to the level. ||entailment
+The achievement is of the building. ||contradiction

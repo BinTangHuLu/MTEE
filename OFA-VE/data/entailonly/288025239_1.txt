@@ -1,0 +1,3 @@
+There is a person. ||Entailment
+There is a shelter. ||Entailment
+The person is in shelter. ||Entailment

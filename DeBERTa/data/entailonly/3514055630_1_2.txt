@@ -1,0 +1,4 @@
+There are boys. ||entailment
+There is a place. ||entailment
+The boys are in place. ||entailment
+The place is learning. ||entailment

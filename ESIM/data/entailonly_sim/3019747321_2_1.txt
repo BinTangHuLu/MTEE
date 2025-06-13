@@ -1,0 +1,5 @@
+There are automation. ||entailment
+There is a area. ||entailment
+There is a projector cover. ||entailment
+The automation are in the room. ||entailment
+The projector cover is in the room. ||entailment

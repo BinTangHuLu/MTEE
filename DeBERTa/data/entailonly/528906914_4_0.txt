@@ -1,0 +1,4 @@
+There is a female. ||entailment
+There is a machine. ||entailment
+The female is young. ||entailment
+The female is near the machine. ||entailment

@@ -1,0 +1,3 @@
+There are people. ||Entailment
+There is a checkout. ||Entailment
+The people are waiting in checkout. ||Entailment

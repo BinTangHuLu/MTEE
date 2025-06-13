@@ -1,0 +1,5 @@
+there are players ||entailment
+there is a ball ||entailment
+there is a field ||entailment
+the players are grabbing the ball ||neutral
+the ball is on the field ||entailment

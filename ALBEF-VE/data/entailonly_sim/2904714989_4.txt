@@ -1,0 +1,3 @@
+there is a club ||entailment
+there is some apparatus ||entailment
+the club is with equipment ||entailment

@@ -1,0 +1,3 @@
+There are band. ||Contradiction
+There is a crack. ||Entailment
+The band take a break. ||Neutral

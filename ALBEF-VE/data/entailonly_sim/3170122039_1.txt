@@ -1,0 +1,3 @@
+there are female ||entailment
+there is a artery ||neutral
+the female bike down the road ||neutral

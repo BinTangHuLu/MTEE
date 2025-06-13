@@ -1,0 +1,3 @@
+there is a pair ||entailment
+the pair is happy ||entailment
+the pair gets intimate ||entailment

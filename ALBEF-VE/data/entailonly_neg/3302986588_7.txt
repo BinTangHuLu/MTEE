@@ -1,0 +1,2 @@
+there is not a shirt ||contradiction
+the shirt is not green ||contradiction

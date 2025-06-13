@@ -1,0 +1,4 @@
+There is a boy. ||Contradiction
+There is an bodily. ||Entailment
+The boy has an animal. ||Entailment
+The bodily is next to the male. ||Entailment

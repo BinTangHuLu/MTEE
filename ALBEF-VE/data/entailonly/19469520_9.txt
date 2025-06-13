@@ -1,0 +1,3 @@
+there are competitors ||entailment
+there is a competition ||entailment
+the competitors are after competition ||contradiction

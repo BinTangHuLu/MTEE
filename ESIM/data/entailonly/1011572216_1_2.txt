@@ -1,0 +1,4 @@
+There is a couple. ||entailment
+There is outdoors. ||entailment
+The couple walks outdoors. ||entailment
+The couple walks together. ||entailment

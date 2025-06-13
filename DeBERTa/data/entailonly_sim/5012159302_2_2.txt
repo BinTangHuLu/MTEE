@@ -1,0 +1,3 @@
+There are community. ||entailment
+The community are Overall wearing. ||entailment
+The community are working to fix the tractor. ||entailment

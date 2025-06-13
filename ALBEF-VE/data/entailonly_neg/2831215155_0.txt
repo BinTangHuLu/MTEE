@@ -1,0 +1,9 @@
+there is not a person ||contradiction
+there is not a field ||contradiction
+there is not a telescope ||contradiction
+there is not a car ||contradiction
+the car is not blue ||entailment
+the car is not approaching ||contradiction
+the person is not standing in the field ||entailment
+the person is not looking through the telescope ||entailment
+the telescope is not at the car ||entailment

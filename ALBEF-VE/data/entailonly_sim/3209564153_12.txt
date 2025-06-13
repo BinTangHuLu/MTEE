@@ -1,0 +1,2 @@
+there is a bluff ||entailment
+the skier is going down the bluff ||contradiction

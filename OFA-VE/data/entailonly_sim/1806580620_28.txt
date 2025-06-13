@@ -1,0 +1,9 @@
+There is a animal. ||Contradiction
+There are some specs. ||Entailment
+There is a control. ||Contradiction
+There is an definition. ||Entailment
+There is a air. ||Contradiction
+The specs are wearing. ||Neutral
+The definition is on face. ||Entailment
+The human character in direction. ||Entailment
+The animal is with expression. ||Contradiction

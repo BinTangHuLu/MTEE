@@ -1,0 +1,4 @@
+there is not a cafe ||contradiction
+there are not men ||contradiction
+there are not two men ||contradiction
+the men do not sit alone ||entailment

@@ -1,0 +1,2 @@
+A,clear
+R,is outside on

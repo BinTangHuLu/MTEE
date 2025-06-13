@@ -1,0 +1,3 @@
+There is a child. ||entailment
+There is a dress. ||entailment
+The child holds the dress. ||entailment

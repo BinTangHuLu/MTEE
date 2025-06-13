@@ -1,0 +1,4 @@
+there is not a woman ||contradiction
+there is not a photo ||entailment
+the photo is not taken ||contradiction
+the woman is not walking behind the photo ||entailment

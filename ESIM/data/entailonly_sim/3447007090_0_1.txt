@@ -1,0 +1,5 @@
+There is a association. ||neutral
+There is a avenue. ||entailment
+There is a cinder block wall. ||entailment
+The association stands on the street. ||entailment
+The association is in front of the brick wall. ||entailment

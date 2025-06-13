@@ -1,0 +1,6 @@
+there is not a woman ||contradiction
+there is not a picture ||contradiction
+the woman is not two ||entailment
+the woman is not in the picture ||neutral
+there is not music ||contradiction
+the woman is not playing music ||contradiction

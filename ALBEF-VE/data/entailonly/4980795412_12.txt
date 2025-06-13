@@ -1,0 +1,4 @@
+there is a boy ||entailment
+there is a girl ||entailment
+the girl is wearing a skirt ||neutral
+the boy is hugged by the girl ||entailment

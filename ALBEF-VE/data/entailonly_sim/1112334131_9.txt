@@ -1,0 +1,3 @@
+there is a baby ||entailment
+there is bling cream ||entailment
+the baby is eating ice cream ||entailment

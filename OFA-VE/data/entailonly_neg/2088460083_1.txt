@@ -1,0 +1,3 @@
+There is not it. ||Contradiction
+It is not being driven. ||Entailment
+It is not being driven away. ||Entailment

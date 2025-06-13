@@ -1,0 +1,3 @@
+there are female ||entailment
+there is a coast ||entailment
+the female are in the beach ||entailment

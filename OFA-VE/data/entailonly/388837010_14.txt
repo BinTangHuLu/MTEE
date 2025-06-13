@@ -1,0 +1,4 @@
+There are children. ||Entailment
+There are animals. ||Entailment
+The animals have needs. ||Entailment
+The children are attending to animals. ||Entailment

@@ -1,0 +1,2 @@
+E1RE2,dog,and,cow
+E1RE2,dog,are outside,cow

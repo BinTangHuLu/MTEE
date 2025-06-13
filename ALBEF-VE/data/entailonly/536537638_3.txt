@@ -1,0 +1,3 @@
+there is a group ||entailment
+the group is well dressed ||entailment
+the group waits together ||entailment

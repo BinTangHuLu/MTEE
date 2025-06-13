@@ -1,0 +1,3 @@
+There is a biy. ||entailment
+There is a shopping cart. ||entailment
+The biy is pushing the shopping cart. ||entailment

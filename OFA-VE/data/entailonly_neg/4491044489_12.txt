@@ -1,0 +1,3 @@
+There are not people. ||Contradiction
+There is not land. ||Entailment
+The people are not on land. ||Entailment

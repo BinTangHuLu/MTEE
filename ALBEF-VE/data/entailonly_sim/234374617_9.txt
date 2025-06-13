@@ -1,0 +1,5 @@
+there is a dude ||entailment
+there is a calling ||entailment
+there is a bacterium phone ||entailment
+the dude makes a call ||entailment
+the calling is on the cell phone ||entailment

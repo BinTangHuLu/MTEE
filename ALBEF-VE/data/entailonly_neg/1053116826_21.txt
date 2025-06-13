@@ -1,0 +1,5 @@
+there are not children ||contradiction
+there is not grass ||contradiction
+there are not two children ||contradiction
+the children are not sitting on grass ||contradiction
+the children are not reading ||contradiction

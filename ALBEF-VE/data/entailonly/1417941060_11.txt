@@ -1,0 +1,4 @@
+there is a baby toddler ||entailment
+there is a face ||entailment
+there is a boy ||entailment
+the baby toddler is touching the face ||entailment

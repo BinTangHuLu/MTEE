@@ -1,0 +1,3 @@
+There is not a male. ||contradiction
+The male does not have a prosthetic leg. ||contradiction
+The leg is not prosthetic. ||contradiction

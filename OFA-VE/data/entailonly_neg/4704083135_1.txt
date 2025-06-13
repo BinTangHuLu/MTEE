@@ -1,0 +1,6 @@
+There is not a person. ||Contradiction
+There is not some hair. ||Contradiction
+There is not some clothing. ||Contradiction
+The hair is not contrasting. ||Entailment
+The clothing is not contrasting. ||Entailment
+The person is not moving around clothing. ||Contradiction

@@ -1,0 +1,3 @@
+there are not men ||contradiction
+there is not an atm ||contradiction
+the men are not using the atm ||entailment

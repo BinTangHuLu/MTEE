@@ -1,0 +1,5 @@
+there is a cowboy ||entailment
+there is a horse ||entailment
+there are things ||entailment
+the cowboy is wearing things ||entailment
+the horse is wearing things ||entailment

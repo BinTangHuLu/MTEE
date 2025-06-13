@@ -1,0 +1,3 @@
+there is a man ||entailment
+there is something blue ||entailment
+the man is wearing blue ||entailment

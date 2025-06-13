@@ -1,0 +1,9 @@
+There is not a male. ||contradiction
+There are not human beings. ||contradiction
+There is not a snake. ||contradiction
+The male is not surrounded. ||contradiction
+The human beings are not other. ||entailment
+The snake is not large. ||contradiction
+The male is not surrounded with human beings. ||contradiction
+The human beings are not having a snake. ||contradiction
+The snake is not around the chest. ||contradiction

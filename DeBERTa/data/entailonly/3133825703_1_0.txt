@@ -1,0 +1,5 @@
+There is a boy. ||entailment
+There is a father. ||entailment
+There is Santa Claus. ||entailment
+The boy speaks to Santa Claus. ||entailment
+The father speaks to Santa Claus. ||entailment

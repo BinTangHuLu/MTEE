@@ -1,0 +1,3 @@
+there is music ||entailment
+there is a stage ||entailment
+the music is being performed on stage ||entailment

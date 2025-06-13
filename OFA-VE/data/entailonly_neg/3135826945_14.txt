@@ -1,0 +1,5 @@
+There is not a person. ||Contradiction
+There is not a child. ||Contradiction
+There is not a book. ||Contradiction
+The child is not small. ||Entailment
+The person does not have the book. ||Contradiction

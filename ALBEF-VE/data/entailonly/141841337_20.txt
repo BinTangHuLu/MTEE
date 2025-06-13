@@ -1,0 +1,4 @@
+there is a boy ||entailment
+there is a leg ||entailment
+the leg needs some assistance ||entailment
+the boy stretches out leg ||neutral

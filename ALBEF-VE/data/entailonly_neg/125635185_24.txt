@@ -1,0 +1,3 @@
+there are not children ||contradiction
+there is not a swing ||contradiction
+the children are not playing on the swing ||contradiction

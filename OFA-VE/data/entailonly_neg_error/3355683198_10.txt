@@ -1,0 +1,2 @@
+A,sliding
+R,sliding down

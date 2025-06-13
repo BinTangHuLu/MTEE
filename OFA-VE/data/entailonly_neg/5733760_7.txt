@@ -1,0 +1,4 @@
+There is not a man. ||Contradiction
+There is not a song. ||Contradiction
+The man is not signing. ||Entailment
+The man is not signing a song. ||Neutral

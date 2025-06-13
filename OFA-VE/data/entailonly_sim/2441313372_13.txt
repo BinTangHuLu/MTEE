@@ -1,0 +1,4 @@
+There is a child. ||Entailment
+There is a bunk. ||Entailment
+The child is laying. ||Entailment
+The child is in bed. ||Entailment

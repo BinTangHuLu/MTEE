@@ -1,0 +1,6 @@
+There is a guy. ||entailment
+There is a uniform. ||entailment
+There is a bottle. ||entailment
+The uniform is racing. ||entailment
+The guy is wearing the uniform. ||entailment
+The guy is holding the bottle. ||entailment

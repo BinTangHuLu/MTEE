@@ -1,0 +1,3 @@
+there is a person ||entailment
+there is a sweater ||entailment
+the person is wearing the sweater ||entailment

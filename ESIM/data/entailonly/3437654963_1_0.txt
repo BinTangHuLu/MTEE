@@ -1,0 +1,4 @@
+There are bears. ||entailment
+There are two bears. ||entailment
+The bears are looking at each other. ||entailment
+The bears have mouths open. ||entailment

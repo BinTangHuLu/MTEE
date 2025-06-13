@@ -1,0 +1,4 @@
+There is not a child. ||contradiction
+There are not some animals. ||contradiction
+There are not some animals. ||contradiction
+The child is not with two animals. ||contradiction

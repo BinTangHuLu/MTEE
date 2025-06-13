@@ -1,0 +1,4 @@
+There is a man. ||Entailment
+There are some legs. ||Entailment
+The legs are crossed. ||Entailment
+The man has legs. ||Entailment

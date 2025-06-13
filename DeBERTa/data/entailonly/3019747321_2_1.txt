@@ -1,0 +1,5 @@
+There are computers. ||entailment
+There is a room. ||entailment
+There is a projector screen. ||entailment
+The computers are in the room. ||entailment
+The projector screen is in the room. ||entailment

@@ -1,0 +1,6 @@
+There is a person. ||entailment
+There are numbers. ||entailment
+There is a vehicle. ||entailment
+The person is wearing numbers. ||entailment
+The vehicle is nonmotorized. ||contradiction
+The person is using a nonmotorized vehicle. ||entailment

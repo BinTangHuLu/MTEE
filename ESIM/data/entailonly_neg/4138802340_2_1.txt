@@ -1,0 +1,4 @@
+There is not a referee. ||contradiction
+There are not some players. ||contradiction
+The referee is not getting ready to face-off. ||contradiction
+The referee is not getting ready to face-off with players. ||contradiction

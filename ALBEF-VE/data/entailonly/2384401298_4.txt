@@ -1,0 +1,3 @@
+there are animals ||entailment
+the animals are running ||entailment
+the animals are running outdoors ||entailment

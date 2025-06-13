@@ -1,0 +1,3 @@
+There are children. ||entailment
+There are ten children total. ||entailment
+The children are playing. ||entailment

@@ -1,0 +1,6 @@
+there is a crowd ||entailment
+there is a skateboarder ||entailment
+there is air ||entailment
+the crowd watches the skateboarder ||entailment
+the skateboarder performs a trick ||entailment
+the trick is performed in the air ||entailment

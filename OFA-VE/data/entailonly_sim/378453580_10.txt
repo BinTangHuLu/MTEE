@@ -1,0 +1,5 @@
+There is a pup. ||Entailment
+There is a chunk. ||Entailment
+There is a chunk. ||Entailment
+The pup jumps over the log. ||Neutral
+The pup is carrying the log. ||Entailment

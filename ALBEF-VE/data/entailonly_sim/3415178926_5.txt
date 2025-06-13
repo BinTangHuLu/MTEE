@@ -1,0 +1,5 @@
+there is a dude ||entailment
+there is a bar ||entailment
+there is a pup ||entailment
+the dude is tugging ||entailment
+the dude is tugging the stick ||entailment

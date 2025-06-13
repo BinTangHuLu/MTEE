@@ -1,0 +1,3 @@
+there is a dude ||entailment
+the dude is outside the cellphone ||entailment
+the dude is talking on the cellphone ||neutral

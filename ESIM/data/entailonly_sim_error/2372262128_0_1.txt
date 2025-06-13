@@ -1,0 +1,2 @@
+EA,people,hanging outside
+E1RE2,people,by,water

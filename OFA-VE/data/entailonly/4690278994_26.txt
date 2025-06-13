@@ -1,0 +1,5 @@
+There is a runner. ||Entailment
+There is a shirt. ||Entailment
+There are pants. ||Entailment
+The runner is in the shirt. ||Entailment
+The runner is in the pants. ||Neutral

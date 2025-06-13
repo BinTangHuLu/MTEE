@@ -1,0 +1,2 @@
+There is a party. ||Neutral
+There is a bridal. ||Entailment

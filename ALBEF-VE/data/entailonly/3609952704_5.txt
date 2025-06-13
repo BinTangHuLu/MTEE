@@ -1,0 +1,6 @@
+there is a kid ||entailment
+there is a uniform ||entailment
+there is a ball ||entailment
+the kid is young ||entailment
+the kid is in uniform ||neutral
+the kid holds the ball ||entailment

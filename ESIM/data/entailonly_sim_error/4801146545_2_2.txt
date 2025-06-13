@@ -1,0 +1,2 @@
+EA,people,large number
+E1R,people,walking on

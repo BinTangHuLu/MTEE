@@ -1,0 +1,5 @@
+there is not a cheerleader ||contradiction
+there is not a girl ||contradiction
+there is not air ||entailment
+the cheerleader does not hold the girl ||contradiction
+the cheerleader does not hold in the air ||contradiction

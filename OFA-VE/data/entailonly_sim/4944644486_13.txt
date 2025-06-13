@@ -1,0 +1,4 @@
+There is a boundary. ||Entailment
+There is a bronze. ||Contradiction
+There is a animal. ||Contradiction
+The boundary is near the statue. ||Entailment

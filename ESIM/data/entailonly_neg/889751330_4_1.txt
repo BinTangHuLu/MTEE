@@ -1,0 +1,3 @@
+There is not a man. ||contradiction
+There is not some wood. ||contradiction
+The man is not cutting wood. ||contradiction

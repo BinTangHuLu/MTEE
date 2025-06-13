@@ -1,0 +1,9 @@
+there is a child ||entailment
+there is a seat ||entailment
+there is a tree ||entailment
+there is a sky ||entailment
+the child is young ||neutral
+the sky is blue ||neutral
+the child jumps in the seat ||contradiction
+the seat is in front of the tree ||contradiction
+the tree is under the sky ||entailment

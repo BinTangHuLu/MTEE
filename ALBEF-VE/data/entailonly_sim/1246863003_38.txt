@@ -1,0 +1,3 @@
+there is a bar ||entailment
+there are business ||entailment
+the bar is filled with customers ||entailment

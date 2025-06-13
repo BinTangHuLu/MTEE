@@ -1,0 +1,5 @@
+there are not people ||contradiction
+there are not things ||contradiction
+the things are not old ||entailment
+the things are not preserved ||contradiction
+the people are not looking at things ||contradiction

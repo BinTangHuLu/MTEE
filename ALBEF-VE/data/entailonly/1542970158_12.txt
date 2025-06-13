@@ -1,0 +1,3 @@
+there is a person ||entailment
+there is another ||entailment
+the person is standing atop another ||entailment

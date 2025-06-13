@@ -1,0 +1,4 @@
+There is a man. ||Entailment
+There is a woman. ||Contradiction
+The man is costume. ||Entailment
+The woman is costume. ||Neutral

@@ -1,0 +1,5 @@
+There is not a person. ||Contradiction
+There is not a podium. ||Contradiction
+The person is not moving. ||Entailment
+The person is not at the podium. ||Contradiction
+The person is not moving the person. ||Contradiction

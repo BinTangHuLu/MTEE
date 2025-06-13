@@ -1,0 +1,4 @@
+there is a line ||entailment
+there are some people ||entailment
+there is a road ||entailment
+the people are biking down the road ||entailment

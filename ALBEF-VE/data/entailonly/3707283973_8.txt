@@ -1,0 +1,3 @@
+there is a trio ||entailment
+there is outdoors ||entailment
+the trio are enjoying outdoors ||entailment

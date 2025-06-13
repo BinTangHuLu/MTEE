@@ -1,0 +1,4 @@
+there is a statue ||entailment
+there are some steps ||entailment
+the statue is located ||neutral
+the statue is located above steps ||entailment

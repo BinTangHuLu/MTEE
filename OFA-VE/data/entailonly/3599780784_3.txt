@@ -1,0 +1,4 @@
+There is them. ||Entailment
+There is a head. ||Entailment
+The head is shaved. ||Entailment
+Them is having head. ||Entailment

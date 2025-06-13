@@ -1,0 +1,5 @@
+There are not children. ||contradiction
+There are not pajamas. ||contradiction
+The children are not couple of. ||contradiction
+The pajamas are not wearing. ||contradiction
+The children are not wearing pajamas. ||contradiction

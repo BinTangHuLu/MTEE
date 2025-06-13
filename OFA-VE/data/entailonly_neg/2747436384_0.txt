@@ -1,0 +1,3 @@
+There are not boys. ||Entailment
+There is not an ocean. ||Contradiction
+The boys are not in the ocean. ||Entailment

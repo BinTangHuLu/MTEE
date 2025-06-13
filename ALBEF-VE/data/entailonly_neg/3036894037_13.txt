@@ -1,0 +1,3 @@
+there are not soldiers ||contradiction
+there are not weapons ||contradiction
+the soldiers do not carry weapons ||contradiction

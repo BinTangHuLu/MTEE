@@ -1,0 +1,4 @@
+there is not a man ||contradiction
+there is not a brush ||contradiction
+there is not a toilet brush ||contradiction
+the man is not holding the brush ||contradiction

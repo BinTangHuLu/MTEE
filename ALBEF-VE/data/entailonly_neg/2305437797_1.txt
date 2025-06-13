@@ -1,0 +1,5 @@
+there is not a dog ||contradiction
+there is not some water ||contradiction
+there is not a stick ||contradiction
+the dog is not floating on water ||contradiction
+the dog is not with a stick ||contradiction

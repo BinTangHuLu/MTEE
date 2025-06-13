@@ -1,0 +1,2 @@
+there is a person ||entailment
+the person is clapping ||contradiction

@@ -1,0 +1,7 @@
+A,slacks
+A,holding paper
+RE2,in,slacks
+RE2,holding,paper
+RE2,in,school bus
+A,pink
+RE2,in,pink

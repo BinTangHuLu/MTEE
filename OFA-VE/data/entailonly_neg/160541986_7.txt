@@ -1,0 +1,3 @@
+There is not She. ||Contradiction
+There is not jewelry. ||Contradiction
+She is not wearing jewelry. ||Contradiction

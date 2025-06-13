@@ -1,0 +1,4 @@
+there is a corridor ||entailment
+there is some fiber ||entailment
+the corridor is full ||contradiction
+the corridor is during construction ||entailment

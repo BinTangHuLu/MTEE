@@ -1,0 +1,4 @@
+there is a woman ||entailment
+there is an event ||entailment
+the event is santa ||neutral
+the woman is at the event ||entailment

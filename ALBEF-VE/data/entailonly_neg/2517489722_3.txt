@@ -1,0 +1,6 @@
+there is not a man ||contradiction
+there are not woods ||contradiction
+there is not a girl ||contradiction
+the girl is not young ||entailment
+the man does not walk in woods ||contradiction
+the girl does not climb ||contradiction

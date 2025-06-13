@@ -1,0 +1,5 @@
+there is a female ||entailment
+there is a coast ||entailment
+there are boot ||entailment
+the female is walking on the beach ||entailment
+the coast is with shoes ||contradiction

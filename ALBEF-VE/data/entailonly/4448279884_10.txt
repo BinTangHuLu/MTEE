@@ -1,0 +1,3 @@
+there is fire ||entailment
+there is outdoor ||entailment
+the fire is outdoor ||entailment

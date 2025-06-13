@@ -1,0 +1,7 @@
+There is a girl. ||entailment
+There is some water. ||entailment
+There is some skin. ||entailment
+There is a snake. ||entailment
+The water is dirty. ||entailment
+The girl is sitting in water. ||entailment
+The girl is with skin. ||entailment

@@ -1,0 +1,3 @@
+there are men ||entailment
+there is an object ||entailment
+the men are moving the object ||entailment

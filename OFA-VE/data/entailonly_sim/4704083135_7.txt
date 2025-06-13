@@ -1,0 +1,7 @@
+There is a female. ||Entailment
+There is age. ||Entailment
+There is act. ||Entailment
+The female is enjoying. ||Entailment
+The age is out. ||Entailment
+The female is enjoying time. ||Entailment
+The female is expressing motion. ||Entailment

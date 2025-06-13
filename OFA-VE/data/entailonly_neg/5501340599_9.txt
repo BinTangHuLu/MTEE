@@ -1,0 +1,5 @@
+There is not a girl. ||Contradiction
+There are not some clothes. ||Contradiction
+The clothes are not wet. ||Contradiction
+The girl is not washing clothes. ||Neutral
+The clothes are not washed by the girl. ||Contradiction

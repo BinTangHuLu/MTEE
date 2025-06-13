@@ -1,0 +1,3 @@
+There are girls. ||Entailment
+There is a game. ||Entailment
+The game is volleyball. ||Neutral

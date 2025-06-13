@@ -1,0 +1,5 @@
+There is a gentlewoman. ||entailment
+There is a carton. ||entailment
+There is a call up. ||entailment
+The gentlewoman looks at the box. ||entailment
+The gentlewoman looks at the phone. ||entailment

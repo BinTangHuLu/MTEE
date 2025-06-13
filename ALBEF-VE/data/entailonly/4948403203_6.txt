@@ -1,0 +1,5 @@
+there is a man ||entailment
+there is a newspaper ||entailment
+there is a beach ||entailment
+the man reads the newspaper ||entailment
+the newspaper is at the beach ||entailment

@@ -1,0 +1,8 @@
+there is a fellow ||entailment
+there is nature ||entailment
+there are colours ||entailment
+there are shops ||entailment
+there is food ||entailment
+the fellow is in nature ||contradiction
+the fellow colours shops ||neutral
+the shops are for food ||neutral

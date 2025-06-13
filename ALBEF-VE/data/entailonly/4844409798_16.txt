@@ -1,0 +1,7 @@
+there is a boy ||entailment
+there is someone ||entailment
+the boy is young ||entailment
+the shirt is red ||entailment
+the shirt is red ||entailment
+the boy is walking next to someone ||entailment
+the boy is wearing a red shirt ||entailment

@@ -1,0 +1,3 @@
+there is a barge ||entailment
+there is drink ||entailment
+the barge is in water ||entailment

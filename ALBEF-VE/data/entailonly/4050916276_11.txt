@@ -1,0 +1,3 @@
+there is a stick ||entailment
+the stick is wet ||entailment
+the stick is wet ||entailment

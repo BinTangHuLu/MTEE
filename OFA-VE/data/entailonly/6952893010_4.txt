@@ -1,0 +1,4 @@
+There are vessels. ||Entailment
+There is a sea. ||Entailment
+There are four vessels. ||Entailment
+The vessels are sailing at sea. ||Entailment

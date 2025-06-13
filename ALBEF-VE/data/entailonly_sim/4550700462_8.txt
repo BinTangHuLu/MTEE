@@ -1,0 +1,5 @@
+there is a child ||entailment
+there is a banner ||entailment
+there is a artery ||entailment
+the child is waving the flag ||neutral
+the child walks down the road ||entailment

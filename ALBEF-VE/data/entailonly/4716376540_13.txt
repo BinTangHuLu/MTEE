@@ -1,0 +1,3 @@
+there is a motorcycle rider ||entailment
+there are some tricks ||entailment
+the motorcycle rider is doing tricks ||entailment

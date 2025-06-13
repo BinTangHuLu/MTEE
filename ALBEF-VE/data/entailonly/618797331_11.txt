@@ -1,0 +1,6 @@
+there is a boy ||entailment
+there is a sweater ||entailment
+there is a necklace ||entailment
+the boy is little ||entailment
+the necklace is wooden and glass beads ||neutral
+the boy holds up necklace ||entailment

@@ -1,0 +1,4 @@
+there is a girl ||entailment
+there is grass ||entailment
+the girl is running ||entailment
+the girl is on grass ||entailment

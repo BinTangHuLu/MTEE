@@ -1,0 +1,4 @@
+there is a boy ||entailment
+there is an instrument ||entailment
+the instrument is musical ||neutral
+the boy is playing the instrument ||entailment

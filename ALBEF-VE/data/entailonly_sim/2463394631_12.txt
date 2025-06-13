@@ -1,0 +1,5 @@
+there is a dude ||entailment
+there is a basement ||contradiction
+there is a apparel ||entailment
+the apparel is camouflage ||neutral
+the dude is kneeling on the floor ||entailment

@@ -1,0 +1,5 @@
+there is a pup ||entailment
+there is drink ||entailment
+there is a doll ||entailment
+the pup leaps into water ||entailment
+the pup leaps into water to retrieve the toy ||entailment

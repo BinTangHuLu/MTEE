@@ -1,0 +1,3 @@
+There is a male. ||Entailment
+There is a bike. ||Entailment
+The male knows how to ride the bike. ||Entailment

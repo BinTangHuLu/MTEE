@@ -1,0 +1,5 @@
+there are girls ||entailment
+there is a point ||entailment
+there is a game ||entailment
+the girls are celebrating a point ||entailment
+a point is in the game ||entailment

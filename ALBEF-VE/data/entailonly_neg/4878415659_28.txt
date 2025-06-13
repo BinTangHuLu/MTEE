@@ -1,0 +1,4 @@
+there is not a boy ||contradiction
+there is not a baloon ||contradiction
+the boy is not blowing up ||entailment
+the boy is not blowing up the baloon ||contradiction

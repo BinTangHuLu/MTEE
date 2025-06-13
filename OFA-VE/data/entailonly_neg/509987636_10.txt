@@ -1,0 +1,3 @@
+There is not a person. ||Contradiction
+There is not some art. ||Contradiction
+The person is not looking at art. ||Neutral

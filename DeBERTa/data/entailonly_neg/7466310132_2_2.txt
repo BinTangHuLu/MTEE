@@ -1,0 +1,5 @@
+There is not a man. ||contradiction
+There are not women. ||contradiction
+The man and women are not shopping. ||contradiction
+The man is not shopping. ||contradiction
+The women are not shopping. ||contradiction

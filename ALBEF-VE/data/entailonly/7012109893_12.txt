@@ -1,0 +1,5 @@
+there is a man ||entailment
+there is a mop ||entailment
+there is a roof ||entailment
+the man is holding the mop ||entailment
+the mop is on the roof ||entailment

@@ -1,0 +1,5 @@
+There are female. ||entailment
+There is a camcorder. ||entailment
+The female are Smiling. ||entailment
+The female wore red. ||entailment
+The female are Smiling at the camera. ||entailment

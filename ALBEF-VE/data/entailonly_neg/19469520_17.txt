@@ -1,0 +1,5 @@
+there are not people ||contradiction
+there are not bikes ||contradiction
+the bikes are not with ||neutral
+there is not a race ||contradiction
+people are not waiting for race ||contradiction

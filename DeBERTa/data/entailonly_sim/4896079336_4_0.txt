@@ -1,0 +1,3 @@
+There is a dude. ||entailment
+There is a auto. ||entailment
+The dude secures surfboards. ||entailment

@@ -1,0 +1,5 @@
+There is not someone. ||contradiction
+There is not a picture. ||contradiction
+There is not a child. ||contradiction
+Someone is not taking a picture. ||contradiction
+Someone is not taking a child. ||contradiction

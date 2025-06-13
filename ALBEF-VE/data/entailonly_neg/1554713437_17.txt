@@ -1,0 +1,3 @@
+there are not dogs ||contradiction
+there is not a tree ||contradiction
+the dogs do not walk on the tree ||contradiction

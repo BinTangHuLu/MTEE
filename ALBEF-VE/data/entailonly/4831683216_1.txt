@@ -1,0 +1,5 @@
+there is a girl ||entailment
+there is a swimsuit ||entailment
+there is a bottle ||entailment
+the swimsuit is in ||neutral
+the girl is drinking out of bottle ||entailment

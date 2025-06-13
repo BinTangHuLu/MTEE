@@ -1,0 +1,3 @@
+There is not a vehicle. ||contradiction
+There is not an operator. ||contradiction
+The vehicle is not being operated by the operator. ||neutral

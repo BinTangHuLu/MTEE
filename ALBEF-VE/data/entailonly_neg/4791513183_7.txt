@@ -1,0 +1,4 @@
+there is not a girl ||contradiction
+there is not a door ||contradiction
+the girl is not waiting ||contradiction
+the girl is not waiting by door ||contradiction

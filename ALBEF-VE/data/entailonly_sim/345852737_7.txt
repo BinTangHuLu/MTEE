@@ -1,0 +1,6 @@
+there is a female ||entailment
+there is a rickshaw ||entailment
+there is a embracing ||entailment
+the rickshaw is for shopping ||neutral
+the female is holding the cart ||entailment
+the female is pushing the cart into the parking ||entailment

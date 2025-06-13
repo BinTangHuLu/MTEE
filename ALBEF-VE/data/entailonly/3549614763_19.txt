@@ -1,0 +1,3 @@
+there are women ||entailment
+there are menus ||entailment
+the women look at menus ||entailment

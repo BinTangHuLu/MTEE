@@ -1,0 +1,3 @@
+there is a couple ||entailment
+there is some wine ||entailment
+the couple has wine ||entailment

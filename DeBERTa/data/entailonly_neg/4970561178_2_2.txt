@@ -1,0 +1,4 @@
+There are not women. ||contradiction
+There is not a motorcycle. ||contradiction
+The women are not talking. ||contradiction
+The woman is not on the motorcycle. ||contradiction

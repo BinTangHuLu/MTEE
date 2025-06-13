@@ -1,0 +1,5 @@
+There are community. ||Entailment
+There is a border. ||Neutral
+There is a avenue. ||Entailment
+The community are trying to get to the side. ||Neutral
+The border is of the street. ||Entailment

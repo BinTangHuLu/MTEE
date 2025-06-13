@@ -1,0 +1,3 @@
+there is a child ||entailment
+there are footwear ||entailment
+the child is splashing around in waters ||entailment

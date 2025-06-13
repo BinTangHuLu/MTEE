@@ -1,0 +1,4 @@
+There is a female. ||Entailment
+There is a fedora. ||Neutral
+The fedora is fuzzy. ||Neutral
+The female wears the hat. ||Entailment

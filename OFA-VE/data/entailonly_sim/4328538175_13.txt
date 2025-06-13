@@ -1,0 +1,3 @@
+There are admission. ||Entailment
+There are appliance. ||Entailment
+The admission are using tools. ||Entailment

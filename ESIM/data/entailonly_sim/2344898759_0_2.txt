@@ -1,0 +1,5 @@
+There is a chat. ||entailment
+There is a call up. ||entailment
+She has a chat. ||entailment
+The chat is on the phone. ||entailment
+She has the call up. ||neutral

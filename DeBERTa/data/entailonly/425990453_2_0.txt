@@ -1,0 +1,5 @@
+There is a woman. ||entailment
+There is a picture. ||entailment
+The woman is taking. ||entailment
+The picture is cold weather. ||entailment
+The woman is taking a picture. ||entailment

@@ -1,0 +1,4 @@
+there are not girls ||contradiction
+there is not clothing ||contradiction
+the clothing is not casual ||entailment
+the girls are not playing a sport ||contradiction

@@ -1,0 +1,6 @@
+There is not a child. ||contradiction
+There is not a picture. ||contradiction
+The child is not one. ||contradiction
+The picture is thisnot . ||entailment
+The child is not in the picture. ||contradiction
+The child is not outside. ||contradiction

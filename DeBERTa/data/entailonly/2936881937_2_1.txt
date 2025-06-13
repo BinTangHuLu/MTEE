@@ -1,0 +1,4 @@
+There is a man. ||entailment
+The shirt is black. ||entailment
+The shirt is black. ||entailment
+The man is in the shirt. ||entailment

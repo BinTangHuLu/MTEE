@@ -1,0 +1,3 @@
+there are workers ||entailment
+there is food ||entailment
+the workers are getting food ||entailment

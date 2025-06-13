@@ -1,0 +1,4 @@
+There is a dude. ||Entailment
+There is a loaf. ||Entailment
+The dude is blue. ||Neutral
+The dude is by cake. ||Entailment

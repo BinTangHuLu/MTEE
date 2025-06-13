@@ -1,0 +1,5 @@
+There is not someone. ||contradiction
+There is not a road. ||contradiction
+Someone is not about to cross the road. ||contradiction
+There is not someone else. ||contradiction
+Someone else does not watch. ||neutral

@@ -1,0 +1,5 @@
+There is a guy. ||entailment
+There is a building. ||entailment
+There are men. ||entailment
+The guy is near the building. ||entailment
+The guy stands by men. ||entailment

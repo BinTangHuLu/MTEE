@@ -1,0 +1,4 @@
+There is not a person. ||contradiction
+There is not a hat. ||contradiction
+The hat is not dark. ||contradiction
+The person is not wearing a hat. ||contradiction

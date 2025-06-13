@@ -1,0 +1,5 @@
+There are children. ||entailment
+There is water. ||entailment
+The children are playing near water. ||entailment
+The children are some. ||neutral
+The children are outside. ||entailment

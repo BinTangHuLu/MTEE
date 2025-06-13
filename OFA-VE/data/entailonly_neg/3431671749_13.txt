@@ -1,0 +1,6 @@
+There is not Flames. ||Contradiction
+There is not front. ||Contradiction
+There is not a car. ||Contradiction
+The car is not race. ||Entailment
+Flames are not shooting from front. ||Entailment
+Front is not of car. ||Contradiction

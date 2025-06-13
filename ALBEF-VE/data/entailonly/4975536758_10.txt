@@ -1,0 +1,6 @@
+there is a child ||entailment
+there is a bike ||entailment
+there is a road ||entailment
+the road is unpaved ||contradiction
+the child is standing near the bike ||entailment
+the bike is on the road ||entailment

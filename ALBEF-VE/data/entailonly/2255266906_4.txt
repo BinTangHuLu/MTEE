@@ -1,0 +1,3 @@
+there is a bird ||entailment
+there is a tree ||entailment
+the bird is in the tree ||entailment

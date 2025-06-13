@@ -1,0 +1,7 @@
+There is a man. ||entailment
+There is a go kart. ||entailment
+There is a road. ||entailment
+The go kart is numbered 65. ||entailment
+The road is narrow. ||entailment
+The man is driving the go kart. ||entailment
+The man is on the road. ||entailment

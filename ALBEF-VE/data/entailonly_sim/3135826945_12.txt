@@ -1,0 +1,5 @@
+there is a grandmother ||entailment
+there is a baby ||entailment
+the baby is small ||neutral
+the grandmother has a book ||entailment
+the baby has a book ||entailment

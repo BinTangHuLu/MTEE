@@ -1,0 +1,4 @@
+There is a girl. ||entailment
+There is a suit. ||contradiction
+The girl is bathing. ||entailment
+The girl is in suit. ||contradiction

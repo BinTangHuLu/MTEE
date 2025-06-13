@@ -1,0 +1,7 @@
+there is a dude ||entailment
+there is a bar ||entailment
+there is a album ||entailment
+the dude is reading ||entailment
+the dude is at table ||entailment
+the dude is reading book ||neutral
+the ducks are at appearance ||entailment

@@ -1,0 +1,4 @@
+There is a pedal. ||entailment
+There is a aisle. ||entailment
+Somebody is riding the pedal. ||entailment
+The pedal is on the trail. ||entailment

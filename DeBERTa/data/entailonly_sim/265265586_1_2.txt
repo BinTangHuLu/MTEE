@@ -1,0 +1,6 @@
+There is a body. ||entailment
+There is a blouse. ||entailment
+There is a pedestal. ||entailment
+The blouse is blue. ||entailment
+The body is wearing the shirt. ||entailment
+The body is chiseling on the pillar. ||entailment

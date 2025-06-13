@@ -1,0 +1,4 @@
+There is a girl. ||entailment
+There is a toy. ||entailment
+The girl is young. ||entailment
+The girl is playing with the toy. ||entailment

@@ -1,0 +1,4 @@
+there is not a man ||contradiction
+there is not a cap ||contradiction
+the cap is not blue ||contradiction
+the man is not wearing a cap ||contradiction

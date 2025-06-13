@@ -1,0 +1,3 @@
+there is not an ice cream cake ||contradiction
+there is not a table ||contradiction
+the ice cream cake is not on the table ||entailment

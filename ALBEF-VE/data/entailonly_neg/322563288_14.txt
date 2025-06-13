@@ -1,0 +1,7 @@
+there is not a girl ||contradiction
+there is not a log ||contradiction
+there is not a day ||contradiction
+the girl is not young ||entailment
+the day is not nice ||entailment
+the girl is not playing on the log ||contradiction
+the log is not on the day ||entailment

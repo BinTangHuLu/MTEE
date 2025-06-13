@@ -1,0 +1,4 @@
+There is a association. ||neutral
+There are band. ||neutral
+There is development. ||neutral
+The band are taking the group. ||contradiction

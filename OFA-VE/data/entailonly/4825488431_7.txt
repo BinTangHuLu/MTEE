@@ -1,0 +1,3 @@
+There are People. ||Entailment
+There is an airport. ||Entailment
+People are at the airport. ||Entailment

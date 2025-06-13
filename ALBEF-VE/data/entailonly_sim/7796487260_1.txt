@@ -1,0 +1,4 @@
+there are boot ||entailment
+there is a basin ||entailment
+she is wearing boot ||neutral
+she is dancing in the basin ||entailment

@@ -1,0 +1,4 @@
+there is not a man ||contradiction
+there is not a drum ||contradiction
+the drum is not premier brand ||neutral
+the man is not holding the drum ||contradiction

@@ -1,0 +1,3 @@
+there is a apparel ||entailment
+the apparel is wearing ||neutral
+someone is standing on the avenue ||entailment

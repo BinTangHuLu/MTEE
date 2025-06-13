@@ -1,0 +1,4 @@
+there is not a kid ||contradiction
+there is not a shirt ||contradiction
+the shirt is not sesame street ||contradiction
+the kid is not with shirt ||contradiction

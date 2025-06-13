@@ -1,0 +1,4 @@
+there is a child ||entailment
+there is a bicycle ||entailment
+the child is small ||entailment
+the child points at the bicycle ||entailment

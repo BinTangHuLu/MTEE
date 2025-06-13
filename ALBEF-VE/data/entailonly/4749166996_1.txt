@@ -1,0 +1,5 @@
+there is an executive ||entailment
+there is a speech ||entailment
+there is a building ||entailment
+the executive is holding the speech ||neutral
+the speech is inside the building ||neutral

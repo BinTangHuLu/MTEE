@@ -1,0 +1,5 @@
+there is a dude ||entailment
+there is a baby ||entailment
+there is a pole ||entailment
+the pole is plastic ||neutral
+the dude looks at the child ||entailment

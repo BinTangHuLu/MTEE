@@ -1,0 +1,4 @@
+there is not a photographer ||contradiction
+there is not a woman ||contradiction
+the woman is not cutting ||contradiction
+the photographer does not capture the woman ||contradiction

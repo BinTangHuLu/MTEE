@@ -1,0 +1,2 @@
+A,group
+RE2,are waiting for,transportation

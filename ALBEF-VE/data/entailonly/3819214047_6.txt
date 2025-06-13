@@ -1,0 +1,3 @@
+there is a teen ||entailment
+there is a skateboard ||entailment
+the teen sits on the skateboard ||entailment

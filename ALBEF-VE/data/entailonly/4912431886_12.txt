@@ -1,0 +1,3 @@
+there is a worker ||entailment
+there are some windows ||entailment
+the worker is washing windows ||entailment

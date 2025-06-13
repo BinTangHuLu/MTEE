@@ -1,0 +1,3 @@
+there is a bluff ||entailment
+the bluff is snowy ||entailment
+the snowboarder is leaping from the bluff ||entailment

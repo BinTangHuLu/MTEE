@@ -1,0 +1,7 @@
+there are men ||entailment
+there is a center ||entailment
+there is a town ||entailment
+there is an evening ||entailment
+men socialize at center ||entailment
+the center is of town ||entailment
+men socialize at center of town ||entailment

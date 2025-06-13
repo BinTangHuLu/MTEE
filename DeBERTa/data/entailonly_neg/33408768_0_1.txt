@@ -1,0 +1,3 @@
+There is not a guy. ||contradiction
+There is not a tent. ||contradiction
+The guy is not transporting tent. ||contradiction

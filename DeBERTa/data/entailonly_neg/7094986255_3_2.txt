@@ -1,0 +1,5 @@
+There is not a man. ||contradiction
+The man is not young. ||contradiction
+The man is not in swimming attire. ||contradiction
+There is not water. ||contradiction
+The man does not enter water. ||contradiction

@@ -1,0 +1,5 @@
+there is not a man ||contradiction
+there is not a cigar ||contradiction
+there is not a cello ||contradiction
+the man is not with a cigar ||entailment
+the man is not playing the cello ||entailment

@@ -1,0 +1,4 @@
+There is a boy. ||Entailment
+There is a skateboard. ||Entailment
+The boy is with a skateboard. ||Entailment
+The boy rests. ||Entailment

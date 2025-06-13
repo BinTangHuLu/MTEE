@@ -1,0 +1,5 @@
+there is a researcher ||entailment
+there are some tools ||entailment
+the tools are proper ||neutral
+the researcher has tools ||entailment
+the tools are for analysis work ||neutral

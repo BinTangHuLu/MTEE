@@ -1,0 +1,4 @@
+There are people. ||entailment
+There is a house. ||entailment
+The house is taking pictures. ||neutral
+The people are in the house. ||entailment

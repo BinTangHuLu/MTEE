@@ -1,0 +1,3 @@
+there are flaggers ||entailment
+there is traffic ||neutral
+the flaggers are waiting for traffic ||neutral

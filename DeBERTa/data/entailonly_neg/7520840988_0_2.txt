@@ -1,0 +1,5 @@
+There are not people. ||contradiction
+There are not bicycles. ||contradiction
+There is not grass. ||contradiction
+The people are not hanging outside grass. ||contradiction
+The people are not with bicycles. ||contradiction

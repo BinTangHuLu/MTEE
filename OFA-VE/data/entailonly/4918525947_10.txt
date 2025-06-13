@@ -1,0 +1,4 @@
+There is a woman. ||Entailment
+There is some clothing. ||Entailment
+The clothing is traditional Japanese. ||Entailment
+The woman stands outside clothing. ||Entailment

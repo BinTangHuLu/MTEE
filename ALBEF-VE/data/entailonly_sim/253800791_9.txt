@@ -1,0 +1,7 @@
+there is a dude ||entailment
+there is a dude ||entailment
+there is a agreeable ||entailment
+the agreeable is outdoor ||entailment
+the dude watched as the man ||entailment
+the dude teaches someone ||entailment
+someone teaches how to play the agreeable ||neutral

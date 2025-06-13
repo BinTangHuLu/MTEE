@@ -1,0 +1,4 @@
+There are dude. ||Entailment
+There are automation. ||Entailment
+The dude are using computers. ||Entailment
+The dude are using computers. ||Entailment

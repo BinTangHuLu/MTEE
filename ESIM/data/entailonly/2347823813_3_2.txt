@@ -1,0 +1,2 @@
+There is a crowd. ||entailment
+The crowd is watching talent show. ||neutral

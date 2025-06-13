@@ -1,0 +1,5 @@
+there is not a man ||contradiction
+there is not a girl ||contradiction
+the girl is not little ||contradiction
+the man does not sit on shoulders ||contradiction
+the shoulders are not of the girl ||entailment

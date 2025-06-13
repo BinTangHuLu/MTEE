@@ -1,0 +1,5 @@
+There is not a dog. ||contradiction
+There is not a pond. ||contradiction
+There is not a duck. ||contradiction
+The dog is not swimming through the pond. ||neutral
+The dog is not in pursuit of the duck. ||contradiction

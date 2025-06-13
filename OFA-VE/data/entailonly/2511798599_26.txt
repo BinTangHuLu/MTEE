@@ -1,0 +1,3 @@
+There are People. ||Entailment
+The People are blue. ||Entailment
+The People are wearing blue. ||Entailment

@@ -1,0 +1,3 @@
+there is a boy ||entailment
+there is a helmet ||entailment
+the boy is with helmet ||entailment

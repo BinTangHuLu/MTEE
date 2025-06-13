@@ -1,0 +1,4 @@
+there is a crowd ||entailment
+there are people ||entailment
+there is a ceremony ||entailment
+the crowd watches the ceremony ||neutral

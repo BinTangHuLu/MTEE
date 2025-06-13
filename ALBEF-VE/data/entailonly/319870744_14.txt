@@ -1,0 +1,5 @@
+there is she ||contradiction
+there is a hill ||entailment
+there is a mountain ||entailment
+she is sitting on the hill ||entailment
+the hill is overlooking the mountain ||entailment

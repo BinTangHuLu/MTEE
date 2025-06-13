@@ -1,0 +1,5 @@
+There is a female. ||entailment
+There is a age. ||entailment
+There is a timepiece. ||entailment
+The female is adjusting time. ||entailment
+The female is adjusting the watch. ||entailment

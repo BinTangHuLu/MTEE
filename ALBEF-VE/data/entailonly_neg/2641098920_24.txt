@@ -1,0 +1,8 @@
+there are not women ||contradiction
+there is not a sofa ||contradiction
+there is not a snack ||contradiction
+there is not a house ||contradiction
+the women do not sit on the sofa ||contradiction
+the women do not sit together ||contradiction
+one does not eat the snack ||entailment
+the snack is not in the house ||entailment

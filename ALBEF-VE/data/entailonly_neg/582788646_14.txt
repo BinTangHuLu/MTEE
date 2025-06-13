@@ -1,0 +1,6 @@
+there is not a child ||contradiction
+there are not some floaties ||contradiction
+there is not a beach ||contradiction
+the floaties are not blue ||contradiction
+the child is not wearing floaties ||neutral
+the child is not leaning over at beach ||contradiction

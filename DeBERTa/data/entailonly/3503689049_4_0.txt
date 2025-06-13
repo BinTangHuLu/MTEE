@@ -1,0 +1,4 @@
+There is a guy. ||entailment
+There are some sunglasses. ||entailment
+The sunglasses are wearing. ||entailment
+The guy is wearing sunglasses. ||entailment

@@ -1,0 +1,4 @@
+there are players ||entailment
+there is a baseball ||entailment
+there is a ball ||entailment
+the players are trying to get the ball ||entailment

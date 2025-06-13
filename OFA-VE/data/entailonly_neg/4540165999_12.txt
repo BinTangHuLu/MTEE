@@ -1,0 +1,5 @@
+There is not someone. ||Entailment
+There is not an umbrella. ||Contradiction
+There is not a walk. ||Entailment
+Someone is not carrying an umbrella. ||Entailment
+Someone is not on a walk. ||Entailment

@@ -1,0 +1,4 @@
+there is not a child ||contradiction
+there is not a cap ||contradiction
+the cap is not yankees ||entailment
+the child does not wear cap ||contradiction

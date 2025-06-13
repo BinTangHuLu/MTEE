@@ -1,0 +1,4 @@
+there is a dude ||entailment
+there is some molding ||entailment
+the dude is doing woodwork ||entailment
+the dude is doing woodwork ||entailment

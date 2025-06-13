@@ -1,0 +1,4 @@
+There is someone. ||Entailment
+There is a car. ||Entailment
+The car is red. ||Entailment
+Someone sits inside the car. ||Entailment

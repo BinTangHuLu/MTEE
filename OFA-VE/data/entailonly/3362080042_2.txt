@@ -1,0 +1,4 @@
+There is a human. ||Entailment
+There is a baseball. ||Entailment
+The human is playing. ||Entailment
+The human is playing baseball. ||Entailment

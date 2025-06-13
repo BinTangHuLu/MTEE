@@ -1,0 +1,4 @@
+there is a dog ||entailment
+there is a hurdle ||entailment
+the dog is small ||neutral
+the dog is jumping over the hurdle ||entailment

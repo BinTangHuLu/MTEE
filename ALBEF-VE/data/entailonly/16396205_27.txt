@@ -1,0 +1,6 @@
+there are men ||entailment
+there is a barbecue ||entailment
+there is food ||entailment
+there is a grill ||entailment
+the men are huddled around the barbecue ||entailment
+the food is tended to on the grill ||entailment

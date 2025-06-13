@@ -1,0 +1,2 @@
+There is a chapel. ||Entailment
+The chapel is not simple. ||Entailment

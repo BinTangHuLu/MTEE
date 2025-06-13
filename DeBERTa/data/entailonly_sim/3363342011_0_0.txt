@@ -1,0 +1,5 @@
+There is a body. ||entailment
+There is a circle. ||entailment
+The body stands in the middle. ||entailment
+The body stands in the crowd. ||entailment
+The circle is of teenagers. ||entailment

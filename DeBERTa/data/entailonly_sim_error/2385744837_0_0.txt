@@ -1,0 +1,2 @@
+E,child
+EA,child,playing

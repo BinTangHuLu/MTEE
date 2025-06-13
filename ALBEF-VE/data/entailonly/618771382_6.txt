@@ -1,0 +1,3 @@
+there are girls ||entailment
+there is a flag ||entailment
+the girls are near the flag ||entailment

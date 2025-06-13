@@ -1,0 +1,5 @@
+there are paddlers ||entailment
+there is a rock ||entailment
+there is a river ||entailment
+the paddlers are avoiding the rock ||entailment
+the paddlers are at the river ||entailment

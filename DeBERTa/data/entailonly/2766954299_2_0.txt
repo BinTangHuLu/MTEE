@@ -1,0 +1,5 @@
+There are women. ||entailment
+There is a field. ||entailment
+There is rice. ||entailment
+The women are Asian. ||entailment
+The women are walking in the field. ||entailment

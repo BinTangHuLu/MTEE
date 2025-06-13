@@ -1,0 +1,4 @@
+there is a amount area ||entailment
+there are community ||entailment
+the community are working ||entailment
+the amount area is with people ||neutral

@@ -1,0 +1,5 @@
+there are community ||entailment
+there is a avenue ||entailment
+there is a architecture ||entailment
+the community are on the street ||entailment
+the community are by the building ||entailment

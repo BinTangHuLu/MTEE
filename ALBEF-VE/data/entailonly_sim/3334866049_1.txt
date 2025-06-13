@@ -1,0 +1,3 @@
+there is a baby ||entailment
+there is some blizzard ||neutral
+the baby is in snow ||entailment

@@ -1,0 +1,4 @@
+there is a table ||entailment
+there are females ||entailment
+the females are three ||neutral
+the females are standing around the table ||contradiction

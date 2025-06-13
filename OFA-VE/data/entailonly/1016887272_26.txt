@@ -1,0 +1,3 @@
+There are people. ||Entailment
+There is a rock. ||Entailment
+The people were on the rock. ||Entailment

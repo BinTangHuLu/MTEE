@@ -1,0 +1,5 @@
+there is a association ||entailment
+there are some community ||entailment
+there is a area ||entailment
+the community are casually dressed ||entailment
+the community stand in room ||contradiction

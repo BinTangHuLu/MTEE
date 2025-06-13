@@ -1,0 +1,3 @@
+there are not workers ||contradiction
+there is not machinery ||contradiction
+the workers are not unloading machinery ||contradiction

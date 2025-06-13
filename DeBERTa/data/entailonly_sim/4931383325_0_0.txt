@@ -1,0 +1,4 @@
+There are community. ||entailment
+There are two community. ||entailment
+The community are outside. ||entailment
+The community are walking together. ||entailment

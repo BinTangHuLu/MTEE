@@ -1,0 +1,3 @@
+There is a child. ||entailment
+The child is little. ||entailment
+The child wants the ball. ||entailment

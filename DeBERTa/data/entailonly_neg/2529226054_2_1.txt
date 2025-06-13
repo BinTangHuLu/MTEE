@@ -1,0 +1,3 @@
+There is not a man. ||contradiction
+There is not a vest. ||contradiction
+The man is not wearing a vest. ||contradiction

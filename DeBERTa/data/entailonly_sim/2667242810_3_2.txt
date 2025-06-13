@@ -1,0 +1,5 @@
+There are community. ||entailment
+There is a bar. ||contradiction
+The community are total. ||contradiction
+The community are near the table. ||entailment
+The bar is with objects. ||entailment

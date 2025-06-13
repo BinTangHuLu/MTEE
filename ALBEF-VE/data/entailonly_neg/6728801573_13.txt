@@ -1,0 +1,4 @@
+there is not a lady ||contradiction
+there is not a bike ||contradiction
+there are not tires ||contradiction
+the lady is not putting air ||entailment

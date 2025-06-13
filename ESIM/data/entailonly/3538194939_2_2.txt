@@ -1,0 +1,4 @@
+There is a person. ||entailment
+There is a fish. ||entailment
+The person is slicing up fish. ||entailment
+The fish is to sell. ||entailment

@@ -1,0 +1,4 @@
+there is a stair area ||entailment
+there are people ||entailment
+the people are working ||entailment
+the stair area is with people ||contradiction

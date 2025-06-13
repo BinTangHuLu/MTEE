@@ -1,0 +1,3 @@
+There are not boys. ||contradiction
+There is not a bed. ||contradiction
+The boys are not in bed. ||contradiction

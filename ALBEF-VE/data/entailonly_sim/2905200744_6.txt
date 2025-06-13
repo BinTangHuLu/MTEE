@@ -1,0 +1,3 @@
+there are community ||neutral
+the community are outdoors ||entailment
+the community are riding ||entailment

@@ -1,0 +1,3 @@
+there is a dude ||entailment
+there is a deluge ||neutral
+the dude is cleaning the shower ||entailment

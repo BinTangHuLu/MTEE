@@ -1,0 +1,5 @@
+There is not a child. ||contradiction
+There are not some hands. ||contradiction
+There is not a man. ||contradiction
+There is not a head. ||contradiction
+The hands are not on the head. ||contradiction

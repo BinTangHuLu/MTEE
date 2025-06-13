@@ -1,0 +1,4 @@
+There is Grant's. ||Entailment
+There is a caddy. ||Contradiction
+There is a shot. ||Entailment
+The caddy hit the shot. ||Entailment

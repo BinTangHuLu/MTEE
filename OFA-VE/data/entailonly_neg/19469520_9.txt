@@ -1,0 +1,3 @@
+There are not Competitors. ||Entailment
+There is not a competition. ||Contradiction
+The Competitors are not after competition. ||Neutral

@@ -1,0 +1,4 @@
+There are ladies. ||Entailment
+There is an instrument. ||Entailment
+The ladies are young. ||Neutral
+The ladies are playing the instrument. ||Neutral

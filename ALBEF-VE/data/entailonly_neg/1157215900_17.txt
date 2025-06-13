@@ -1,0 +1,5 @@
+there is not a lady ||contradiction
+there are not baskets ||contradiction
+there is not a hat ||contradiction
+the lady is not standing behind baskets ||contradiction
+the lady is not wearing a hat ||contradiction

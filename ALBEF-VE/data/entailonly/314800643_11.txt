@@ -1,0 +1,5 @@
+there is a tent ||entailment
+there is a man ||entailment
+there is a woman ||contradiction
+the tent is being set up by the man ||entailment
+the woman is there with the man ||entailment

@@ -1,0 +1,3 @@
+there are players ||entailment
+there is a rink ||entailment
+the players play on the rink ||entailment

@@ -1,0 +1,2 @@
+There is Times Square. ||entailment
+There is a place. ||entailment

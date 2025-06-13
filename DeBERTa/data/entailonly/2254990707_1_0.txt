@@ -1,0 +1,4 @@
+There are men. ||entailment
+There is a car. ||entailment
+There is snow. ||entailment
+The men are trying to push the car. ||entailment

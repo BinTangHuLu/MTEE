@@ -1,0 +1,4 @@
+There is a dude. ||entailment
+There is a browsing cart. ||entailment
+The dude is by the shopping cart. ||entailment
+The browsing cart is full. ||entailment

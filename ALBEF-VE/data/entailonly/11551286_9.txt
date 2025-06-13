@@ -1,0 +1,3 @@
+there is a baby ||entailment
+the baby is crying ||contradiction
+the baby is crying ||contradiction

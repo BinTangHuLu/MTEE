@@ -1,0 +1,3 @@
+there is a field ||entailment
+the field is grassy ||neutral
+the field is springtime ||neutral

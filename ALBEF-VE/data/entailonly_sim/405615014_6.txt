@@ -1,0 +1,3 @@
+there is a constable ||entailment
+there is some freight ||entailment
+the constable is directing traffic ||entailment

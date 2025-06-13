@@ -1,0 +1,4 @@
+There is not a man. ||Contradiction
+There is not a tool. ||Contradiction
+The tool is not power. ||Entailment
+The man is not with tool. ||Entailment

@@ -1,0 +1,5 @@
+there is a woman ||entailment
+there is a microscope ||entailment
+there are others ||entailment
+the woman works on the microscope ||entailment
+others take pictures ||entailment

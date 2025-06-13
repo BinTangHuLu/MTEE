@@ -1,0 +1,8 @@
+there is a sign ||entailment
+there is a finderspot ||entailment
+there is a man ||entailment
+there is a ball ||entailment
+the man is swinging at the ball ||entailment
+the ball is tennis ||neutral
+the sign says finderspot ||contradiction
+the finderspot is by the man ||entailment

@@ -1,0 +1,5 @@
+There are not musicians. ||Entailment
+There is not music. ||Contradiction
+There is not a park. ||Contradiction
+The musicians do not play music. ||Contradiction
+The musicians are not at the park. ||Contradiction

@@ -1,0 +1,5 @@
+there is not a tent ||contradiction
+there is not a man ||contradiction
+there is not a woman ||contradiction
+the tent is not being set up by the man ||contradiction
+the woman is not there with the man ||entailment

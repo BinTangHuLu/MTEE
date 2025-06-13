@@ -1,0 +1,3 @@
+There are community. ||entailment
+There is a geyser. ||entailment
+The community are in front of the fountain. ||entailment

@@ -1,0 +1,6 @@
+There is not a bride. ||Contradiction
+There is not a groom. ||Contradiction
+The bride is not getting married. ||Contradiction
+The groom is not getting married. ||Contradiction
+The bride is not getting married outdoors. ||Contradiction
+The groom is not getting married outdoors. ||Contradiction

@@ -1,0 +1,4 @@
+There is not a man. ||contradiction
+There is not a woman. ||contradiction
+The man is not standing. ||contradiction
+The man is not standing by the woman. ||contradiction

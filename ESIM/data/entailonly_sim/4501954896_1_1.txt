@@ -1,0 +1,5 @@
+There is a dude. ||entailment
+There is a area. ||entailment
+The area has wood floor. ||entailment
+The dude is in the room. ||entailment
+The dude jumps up in the room. ||entailment

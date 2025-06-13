@@ -1,0 +1,4 @@
+There is not a Person. ||Contradiction
+There is not a bicycle. ||Contradiction
+The bicycle is not riding. ||Entailment
+The Person is not riding the bicycle. ||Entailment

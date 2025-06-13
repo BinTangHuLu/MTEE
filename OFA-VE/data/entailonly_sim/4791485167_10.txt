@@ -1,0 +1,5 @@
+There is a dude. ||Entailment
+There is a dredge. ||Entailment
+There are band. ||Contradiction
+The dude is holding a shovel. ||Entailment
+The dredge is in hands. ||Neutral

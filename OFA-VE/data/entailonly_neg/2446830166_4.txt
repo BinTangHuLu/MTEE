@@ -1,0 +1,4 @@
+There are not performers. ||Contradiction
+There is not a street. ||Contradiction
+The performers are not a pair. ||Contradiction
+The performers are not outsides the street. ||Entailment

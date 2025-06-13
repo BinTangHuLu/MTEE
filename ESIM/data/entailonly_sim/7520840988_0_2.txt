@@ -1,0 +1,4 @@
+There are community. ||neutral
+There is barley. ||neutral
+The community are hanging outside grass. ||entailment
+The community are with bicycles. ||neutral

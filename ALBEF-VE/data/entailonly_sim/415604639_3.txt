@@ -1,0 +1,7 @@
+there is a child ||entailment
+there is a scene ||entailment
+the child is little ||neutral
+the blouse is black ||entailment
+the child is walking into doors ||entailment
+the dude exits doors ||entailment
+the scene is of doors ||entailment

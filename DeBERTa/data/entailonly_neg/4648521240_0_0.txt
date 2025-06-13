@@ -1,0 +1,6 @@
+There are not women. ||contradiction
+There is not a magazine. ||contradiction
+There is not a book. ||contradiction
+The women are not Two. ||contradiction
+One does not have a magazine. ||contradiction
+The other does not have a book. ||contradiction

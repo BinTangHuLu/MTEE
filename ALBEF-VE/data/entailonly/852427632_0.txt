@@ -1,0 +1,3 @@
+there is a horse ||entailment
+the horse is jumping ||entailment
+the horse is jumping ||entailment

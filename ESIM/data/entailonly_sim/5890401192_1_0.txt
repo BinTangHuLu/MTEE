@@ -1,0 +1,4 @@
+There is a juvenile. ||entailment
+The juvenile is practicing. ||neutral
+The juvenile is his. ||neutral
+The juvenile is practicing skateboard skills. ||entailment

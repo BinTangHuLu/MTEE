@@ -1,0 +1,7 @@
+There is not a man. ||contradiction
+There is not a jacket. ||contradiction
+The jacket is not red. ||contradiction
+There is not a door. ||contradiction
+The man is not opening the door. ||contradiction
+There are not keys. ||contradiction
+The man is not holding keys. ||contradiction

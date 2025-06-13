@@ -1,0 +1,7 @@
+there is not a man ||contradiction
+there is not a hat ||contradiction
+there is not a sash ||contradiction
+the hat is not white ||entailment
+the sash is not cheetah printed ||entailment
+the man is not wearing a hat ||contradiction
+the man is not wearing a sash ||contradiction

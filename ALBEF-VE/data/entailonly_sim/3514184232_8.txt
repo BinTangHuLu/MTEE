@@ -1,0 +1,3 @@
+there is a female ||entailment
+the female is trying to catch ||entailment
+the female is trying to catch the ball ||entailment

@@ -1,0 +1,3 @@
+there are men ||entailment
+there are skateboards ||entailment
+the men have skateboards ||entailment

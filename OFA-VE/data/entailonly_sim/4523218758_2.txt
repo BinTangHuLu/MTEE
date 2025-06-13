@@ -1,0 +1,2 @@
+There are female. ||Entailment
+female are walking out doors. ||Entailment

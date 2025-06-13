@@ -1,0 +1,5 @@
+There is not a person. ||contradiction
+There is not some air. ||contradiction
+There is not a ride. ||contradiction
+The person is not thrown into air. ||contradiction
+The person is not thrown into air by ride. ||contradiction

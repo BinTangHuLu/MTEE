@@ -1,0 +1,4 @@
+there is not a dog ||contradiction
+there is not a bull ||contradiction
+the dog is not larger ||entailment
+the dog is not larger than the bull ||entailment

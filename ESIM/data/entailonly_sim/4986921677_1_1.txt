@@ -1,0 +1,4 @@
+There is a association. ||neutral
+There are some community. ||neutral
+There is drink. ||neutral
+The association is playing in water. ||entailment

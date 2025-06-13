@@ -1,0 +1,3 @@
+There are community. ||Entailment
+There are stuff. ||Entailment
+The community are carrying things. ||Entailment

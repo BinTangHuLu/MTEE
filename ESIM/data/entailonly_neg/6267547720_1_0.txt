@@ -1,0 +1,4 @@
+There are not children. ||contradiction
+There is not a man. ||contradiction
+The children are not watching the man. ||contradiction
+The man is not blowing up balloons. ||contradiction

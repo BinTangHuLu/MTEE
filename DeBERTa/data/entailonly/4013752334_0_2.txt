@@ -1,0 +1,6 @@
+There is a man. ||entailment
+The man is smiling. ||entailment
+The man is with a drill. ||entailment
+The lantern is red. ||entailment
+The lantern is yellow. ||entailment
+The man holds the lantern. ||entailment

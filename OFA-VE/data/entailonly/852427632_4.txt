@@ -1,0 +1,5 @@
+There is a woman. ||Entailment
+There is a hat. ||Entailment
+There is a cowboy. ||Entailment
+There is a horse. ||Entailment
+The woman is riding the horse. ||Entailment

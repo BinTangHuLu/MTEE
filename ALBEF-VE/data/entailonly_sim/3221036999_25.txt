@@ -1,0 +1,5 @@
+there is a soccer athlete ||entailment
+there is a slope ||entailment
+the soccer athlete is flying ||entailment
+the soccer athlete is flying over the ramp ||entailment
+the aerial is outside ||entailment

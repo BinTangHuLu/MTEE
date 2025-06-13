@@ -1,0 +1,3 @@
+there is a group ||entailment
+there are some boys ||entailment
+the group is of boys ||entailment

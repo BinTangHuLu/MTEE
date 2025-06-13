@@ -1,0 +1,3 @@
+There are women. ||entailment
+There is cotton candy. ||entailment
+The women are Two. ||entailment

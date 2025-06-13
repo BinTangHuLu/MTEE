@@ -1,0 +1,4 @@
+there is wood ||entailment
+there is a frame ||entailment
+the wood is visible ||entailment
+the wood is visible in the frame ||entailment

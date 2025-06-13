@@ -1,0 +1,4 @@
+There is a building. ||Entailment
+There is a word. ||Entailment
+The building is big. ||Neutral
+The building has word. ||Entailment

@@ -1,0 +1,5 @@
+there is a guy ||entailment
+there is some stuff ||entailment
+there is a street ||entailment
+the guy sells stuff ||entailment
+the stuff is sold by street ||entailment

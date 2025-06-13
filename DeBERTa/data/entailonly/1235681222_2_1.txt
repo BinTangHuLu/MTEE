@@ -1,0 +1,4 @@
+There are people. ||entailment
+There are benches. ||entailment
+The benches are outdoors. ||entailment
+The people are sitting on benches. ||entailment

@@ -1,0 +1,4 @@
+there are not females ||contradiction
+there is not a road ||contradiction
+the females are not blonde ||entailment
+the females are not walking down road ||entailment

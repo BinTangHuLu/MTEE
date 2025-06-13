@@ -1,0 +1,6 @@
+There is a child. ||entailment
+The child practices guitar. ||entailment
+The child practices indoors. ||entailment
+There is a guitar. ||entailment
+There is indoors. ||entailment
+The child practices guitar. ||entailment

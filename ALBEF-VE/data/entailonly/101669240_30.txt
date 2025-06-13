@@ -1,0 +1,3 @@
+there is a man ||entailment
+there are skis ||entailment
+the man is on skis ||entailment

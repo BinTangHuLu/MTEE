@@ -1,0 +1,9 @@
+there is an african american ||entailment
+there is a top ||entailment
+the top is red ||entailment
+there is a skirt ||entailment
+the skirt is white and brown ||contradiction
+there is a man ||entailment
+there is a shirt ||contradiction
+the shirt is blue ||contradiction
+the african american walks in front of the man ||entailment

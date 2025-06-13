@@ -1,0 +1,3 @@
+There is a hole. ||entailment
+There is a yard. ||entailment
+The hole is in yard. ||entailment

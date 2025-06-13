@@ -1,0 +1,3 @@
+There are women. ||Entailment
+The women are Two. ||Neutral
+The women are weaving. ||Entailment

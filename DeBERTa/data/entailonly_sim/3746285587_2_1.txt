@@ -1,0 +1,4 @@
+There is a female. ||entailment
+There is a dirt. ||neutral
+The female is on the ground. ||entailment
+The dirt is outside. ||entailment

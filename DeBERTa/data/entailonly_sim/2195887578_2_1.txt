@@ -1,0 +1,5 @@
+There are dude. ||entailment
+There is a automobile. ||entailment
+There are two dude. ||entailment
+The automobile is large. ||neutral
+The dude are standing in front of the vehicle. ||entailment

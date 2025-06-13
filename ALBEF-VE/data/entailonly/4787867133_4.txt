@@ -1,0 +1,7 @@
+there is a man ||entailment
+there is a hat ||entailment
+there is a food stand ||entailment
+there is a cooler ||entailment
+the hat is wearing ||neutral
+the man is standing at food stand ||contradiction
+the food stand is propped against cooler ||entailment

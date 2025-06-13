@@ -1,0 +1,3 @@
+there are dude ||entailment
+the dude are outside ||entailment
+the dude are cooking ||entailment

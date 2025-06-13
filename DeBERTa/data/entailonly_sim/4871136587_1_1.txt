@@ -1,0 +1,5 @@
+There is a dude. ||entailment
+There is a bandana. ||neutral
+There is a box. ||contradiction
+The dude wears a turban. ||entailment
+The dude stands in front of the basket. ||entailment

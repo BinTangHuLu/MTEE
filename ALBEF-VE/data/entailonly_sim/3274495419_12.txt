@@ -1,0 +1,3 @@
+there are community ||entailment
+there is a expression ||entailment
+the community are watching the demonstration ||entailment

@@ -1,0 +1,4 @@
+there is not a child ||contradiction
+there are not adults ||entailment
+the child is not one ||neutral
+the adults are not two ||entailment

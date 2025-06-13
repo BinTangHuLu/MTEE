@@ -1,0 +1,4 @@
+there are not people ||contradiction
+there is not a hillside ||contradiction
+the hillside is not grassy ||contradiction
+the people do not stand on the hillside ||contradiction

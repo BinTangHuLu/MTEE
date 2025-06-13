@@ -1,0 +1,4 @@
+There are years. ||Entailment
+There is eve. ||Entailment
+There is a city. ||Entailment
+Eve is in the city. ||Entailment

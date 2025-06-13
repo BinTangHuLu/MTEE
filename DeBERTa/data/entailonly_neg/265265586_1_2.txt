@@ -1,0 +1,6 @@
+There is not a person. ||contradiction
+There is not a shirt. ||contradiction
+There is not a pillar. ||contradiction
+The shirt is not blue. ||contradiction
+The person is not wearing the shirt. ||contradiction
+The person is not chiseling on the pillar. ||contradiction

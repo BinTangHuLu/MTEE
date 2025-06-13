@@ -1,0 +1,3 @@
+there are community ||entailment
+there are two community ||entailment
+the community are talking to people ||entailment

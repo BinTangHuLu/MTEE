@@ -1,0 +1,2 @@
+there is a man ||entailment
+the man is doing gymnastics ||entailment

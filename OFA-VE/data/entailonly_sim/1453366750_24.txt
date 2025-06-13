@@ -1,0 +1,4 @@
+There are adolescent. ||Entailment
+There are community. ||Entailment
+The community are where their feet should be. ||Entailment
+The adolescent have heads. ||Entailment

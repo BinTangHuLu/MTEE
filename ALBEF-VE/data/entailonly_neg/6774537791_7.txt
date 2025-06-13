@@ -1,0 +1,5 @@
+there is not an athlete ||contradiction
+there is not air ||contradiction
+there is not a machine ||contradiction
+the athlete does not hang in air ||contradiction
+the athlete is not next to the machine ||entailment

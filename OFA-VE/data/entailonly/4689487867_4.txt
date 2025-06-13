@@ -1,0 +1,5 @@
+There is a person. ||Entailment
+There are some things. ||Entailment
+There are some docks. ||Neutral
+The person is examining things. ||Entailment
+The person is at docks. ||Entailment

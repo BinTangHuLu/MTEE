@@ -1,0 +1,4 @@
+there is a boy ||entailment
+there are some tricks ||entailment
+the boy is doing skateboard ||entailment
+the boy is doing tricks ||neutral

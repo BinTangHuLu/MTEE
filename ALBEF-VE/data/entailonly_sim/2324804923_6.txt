@@ -1,0 +1,4 @@
+there is a body ||entailment
+there is a clue ||neutral
+the body sits near the mic ||entailment
+the mic is with the clue ||neutral

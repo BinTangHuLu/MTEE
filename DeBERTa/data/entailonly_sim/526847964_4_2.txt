@@ -1,0 +1,2 @@
+There is a conversation show. ||entailment
+John McCain is on the conversation show. ||entailment

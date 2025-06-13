@@ -1,0 +1,3 @@
+there is a chevrolet ||neutral
+there is a woman ||entailment
+the chevrolet is being presented by woman ||entailment

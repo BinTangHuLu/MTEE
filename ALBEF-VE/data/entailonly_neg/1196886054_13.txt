@@ -1,0 +1,6 @@
+there is not a bride ||contradiction
+there is not a groom ||contradiction
+there is not a path ||contradiction
+the path is not outdoor ||contradiction
+the bride is not walking down the path ||entailment
+the groom is not walking down the path ||entailment

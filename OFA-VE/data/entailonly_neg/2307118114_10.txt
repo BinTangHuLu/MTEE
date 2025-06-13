@@ -1,0 +1,5 @@
+There is not a man. ||Contradiction
+There is not a smile. ||Contradiction
+There is not a face. ||Contradiction
+The man does not have a smile. ||Contradiction
+The smile is not on the face. ||Entailment

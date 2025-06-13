@@ -1,0 +1,6 @@
+there is not a vendor ||contradiction
+there is not a stand ||contradiction
+there is not a marketplace ||contradiction
+the vendor is not male ||entailment
+the vendor does not stand behind the stand ||contradiction
+the stand is not at the marketplace ||contradiction

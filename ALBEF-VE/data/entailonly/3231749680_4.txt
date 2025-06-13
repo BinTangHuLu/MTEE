@@ -1,0 +1,4 @@
+there are children ||entailment
+there are sleeping bags ||entailment
+the sleeping bags are bright colored ||neutral
+the children are sleeping in sleeping bags ||entailment

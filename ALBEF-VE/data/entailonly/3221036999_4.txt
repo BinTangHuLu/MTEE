@@ -1,0 +1,4 @@
+there is a motocross rider ||entailment
+there is a ramp ||entailment
+the motocross rider is jumping ||entailment
+the motocross rider is jumping from ramp ||entailment

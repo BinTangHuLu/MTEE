@@ -1,0 +1,7 @@
+There are community. ||entailment
+The community have blue hard hats. ||entailment
+There is a dude. ||entailment
+The dude is wearing a white shirt. ||entailment
+The dude is wearing shorts. ||entailment
+The People watch as the dude. ||neutral
+The dude rock climbs. ||entailment

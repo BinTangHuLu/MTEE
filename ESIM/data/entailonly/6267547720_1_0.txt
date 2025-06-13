@@ -1,0 +1,4 @@
+There are children. ||entailment
+There is a man. ||entailment
+The children are watching the man. ||entailment
+The man is blowing up balloons. ||entailment

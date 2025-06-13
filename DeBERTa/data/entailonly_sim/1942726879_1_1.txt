@@ -1,0 +1,5 @@
+There are child. ||entailment
+There is a backpack. ||neutral
+The child are walking together with the bag. ||entailment
+The child are Two. ||entailment
+The backpack is carrying. ||neutral

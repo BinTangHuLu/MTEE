@@ -1,0 +1,3 @@
+there are workers ||entailment
+there are tools ||entailment
+the workers dig tools ||entailment

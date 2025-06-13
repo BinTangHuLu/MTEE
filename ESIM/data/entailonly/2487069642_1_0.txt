@@ -1,0 +1,3 @@
+There is a flight attendant. ||entailment
+There are passengers. ||entailment
+The flight attendant is standing in front of passengers. ||neutral

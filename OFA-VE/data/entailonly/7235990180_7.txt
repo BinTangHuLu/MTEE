@@ -1,0 +1,4 @@
+There are People. ||Entailment
+There are kids. ||Entailment
+The kids are entertained. ||Entailment
+People watch kids. ||Entailment

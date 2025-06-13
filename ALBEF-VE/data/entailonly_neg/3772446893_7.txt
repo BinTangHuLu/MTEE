@@ -1,0 +1,6 @@
+there is not a girl ||contradiction
+there is not a dress ||contradiction
+there is not some furniture ||contradiction
+the dress is not in ||entailment
+the girl is not sitting ||contradiction
+the girl is not on furniture ||contradiction

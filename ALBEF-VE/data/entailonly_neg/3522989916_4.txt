@@ -1,0 +1,3 @@
+there are not mammals ||contradiction
+there is not grass ||contradiction
+the mammals are not in grass ||contradiction

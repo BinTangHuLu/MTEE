@@ -1,0 +1,6 @@
+There is a man. ||Entailment
+There is a smile. ||Entailment
+There is a face. ||Entailment
+The man is young. ||Entailment
+The man has a smile. ||Entailment
+The smile is upon the face. ||Entailment

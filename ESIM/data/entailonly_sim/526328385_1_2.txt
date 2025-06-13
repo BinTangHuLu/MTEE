@@ -1,0 +1,5 @@
+There is a account. ||contradiction
+There are some community. ||neutral
+There is an delight park. ||neutral
+The account is of people enjoying themselves. ||neutral
+The community are at the amusement park. ||neutral

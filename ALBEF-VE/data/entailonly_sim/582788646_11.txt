@@ -1,0 +1,4 @@
+there is a baby ||entailment
+there is a coast ||entailment
+the baby is small ||neutral
+the baby is playing on the beach ||entailment

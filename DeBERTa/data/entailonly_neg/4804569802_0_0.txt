@@ -1,0 +1,5 @@
+There is not something. ||contradiction
+There is not a shot. ||contradiction
+The something is not shown. ||entailment
+The something is not made of paper. ||entailment
+The something is not shown in shot. ||entailment

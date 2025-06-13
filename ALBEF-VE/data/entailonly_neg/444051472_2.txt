@@ -1,0 +1,8 @@
+there is not a man ||contradiction
+there are not some glasses ||contradiction
+there is not a book ||contradiction
+there is not a bench ||contradiction
+the glasses are not wearing ||neutral
+the book is not outdoor ||entailment
+the man does not read the book ||entailment
+the book is not on the bench ||contradiction

@@ -1,0 +1,4 @@
+There are children. ||entailment
+There is a group. ||entailment
+There is a stage. ||entailment
+The children are on stage. ||entailment

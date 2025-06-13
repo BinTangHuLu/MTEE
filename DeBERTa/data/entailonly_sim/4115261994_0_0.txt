@@ -1,0 +1,5 @@
+There is a association. ||entailment
+There are community. ||entailment
+There is a conformist. ||neutral
+The association is of. ||entailment
+The association walks in square. ||neutral

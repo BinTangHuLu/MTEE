@@ -1,0 +1,5 @@
+There is a dude. ||Entailment
+There is a homogeneous. ||Contradiction
+There is a colt. ||Entailment
+The homogeneous is in. ||Contradiction
+The dude rides on top of the horse. ||Entailment

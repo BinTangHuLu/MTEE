@@ -1,0 +1,2 @@
+There are musicians. ||entailment
+The musicians are care free. ||entailment

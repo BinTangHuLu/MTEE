@@ -1,0 +1,5 @@
+there is a pup ||entailment
+there is a pup wife ||neutral
+the pup is black ||entailment
+the pup wife is white ||neutral
+the pup is running with the dog wife ||neutral

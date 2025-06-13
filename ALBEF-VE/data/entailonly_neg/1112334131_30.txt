@@ -1,0 +1,5 @@
+there is not a boy ||contradiction
+there is not a face ||contradiction
+there is not a snack ||contradiction
+the boy is not making a face ||contradiction
+the boy does not have a snack ||contradiction

@@ -1,0 +1,3 @@
+there are girls ||entailment
+there are cheerleaders ||entailment
+the girls are cheerleaders ||entailment

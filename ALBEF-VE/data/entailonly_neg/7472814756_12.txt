@@ -1,0 +1,3 @@
+there are not sailboats ||contradiction
+there is not a race ||contradiction
+the sailboats are not in the race ||contradiction

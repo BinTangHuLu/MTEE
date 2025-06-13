@@ -1,0 +1,6 @@
+there are community ||entailment
+there is a rickshaw ||entailment
+there are flora ||entailment
+the community are dressed differently ||entailment
+the community are standing near the cart ||entailment
+the community are looking at the vegetables ||entailment

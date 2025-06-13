@@ -1,0 +1,5 @@
+There are dude. ||entailment
+The dude are kiled. ||entailment
+The dude are two. ||entailment
+The dude hold. ||entailment
+The dude hold bagpipes. ||entailment

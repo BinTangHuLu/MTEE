@@ -1,0 +1,3 @@
+there are not people ||contradiction
+there is not a moment ||entailment
+the people do not share the moment ||contradiction

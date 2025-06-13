@@ -1,0 +1,5 @@
+There is a girl. ||entailment
+There is a phone. ||entailment
+There is a boat. ||entailment
+The girl checks the phone. ||entailment
+The girl is on the boat. ||entailment

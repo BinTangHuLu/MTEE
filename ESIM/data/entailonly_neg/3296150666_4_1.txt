@@ -1,0 +1,4 @@
+There is not an Suv. ||contradiction
+The Suv is not travelling. ||contradiction
+The Suv is not mud. ||contradiction
+The Suv is not travelling through mud. ||contradiction

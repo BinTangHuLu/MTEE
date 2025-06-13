@@ -1,0 +1,4 @@
+There are girls. ||entailment
+The girls are Two. ||entailment
+The girls are taking pictures. ||neutral
+The girls are outside. ||entailment

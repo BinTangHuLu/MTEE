@@ -1,0 +1,3 @@
+there is a bike rider ||entailment
+there is air ||entailment
+the bike rider jumps through air ||entailment

@@ -1,0 +1,3 @@
+there are boy ||entailment
+there are capability lines ||entailment
+the boy fix power lines ||neutral

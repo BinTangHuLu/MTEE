@@ -1,0 +1,3 @@
+There is a bridge. ||entailment
+There are some train tracks. ||entailment
+The bridge had train tracks. ||entailment

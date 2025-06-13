@@ -1,0 +1,5 @@
+There is not a female. ||Entailment
+There is not a hat. ||Entailment
+The female is not wearing. ||Entailment
+The female is not traveling by foot. ||Entailment
+The female is not traveling by foot outside. ||Entailment

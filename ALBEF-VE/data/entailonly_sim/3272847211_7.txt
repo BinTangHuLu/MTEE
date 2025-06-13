@@ -1,0 +1,5 @@
+there is a club ||neutral
+there is a athlete ||entailment
+the club is green ||neutral
+the athlete is offensive ||neutral
+the club has a player ||entailment

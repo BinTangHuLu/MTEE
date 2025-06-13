@@ -1,0 +1,8 @@
+there is a girl ||entailment
+there are some doors ||entailment
+there is a set ||entailment
+the girl is little ||entailment
+the shirt is black ||entailment
+the girl is walking into doors ||entailment
+the man exits doors ||entailment
+the set is of doors ||entailment

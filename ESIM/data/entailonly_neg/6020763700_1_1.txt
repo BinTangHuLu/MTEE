@@ -1,0 +1,6 @@
+There is not a lady. ||contradiction
+There is not a product. ||contradiction
+There is not a phone. ||contradiction
+The lady does not look at the product. ||contradiction
+The lady does not look up the product. ||contradiction
+The lady does not look up the phone. ||contradiction

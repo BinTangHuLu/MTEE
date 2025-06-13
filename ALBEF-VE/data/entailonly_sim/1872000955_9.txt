@@ -1,0 +1,3 @@
+there are band ||entailment
+there is a break ||entailment
+the band are digging the hole ||contradiction

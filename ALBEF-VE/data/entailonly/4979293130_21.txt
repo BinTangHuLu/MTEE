@@ -1,0 +1,5 @@
+there is a child ||entailment
+there is a seat ||entailment
+there is a motorcycle ||entailment
+the child is sitting on the seat ||contradiction
+the seat is of the motorcycle ||entailment

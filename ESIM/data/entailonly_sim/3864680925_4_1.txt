@@ -1,0 +1,5 @@
+There are dude. ||entailment
+There are two dude. ||entailment
+The dude are complimenting each other. ||neutral
+The dude are blue. ||neutral
+The dude are on shirts. ||entailment

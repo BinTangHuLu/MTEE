@@ -1,0 +1,5 @@
+There is not a building. ||contradiction
+There are not some doors. ||contradiction
+The building is not brick. ||contradiction
+The doors are not glass. ||contradiction
+The building did not have doors. ||contradiction

@@ -1,0 +1,4 @@
+there is a person ||entailment
+there is an apron ||entailment
+the apron is yellow ||entailment
+the person has an apron ||entailment

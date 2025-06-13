@@ -1,0 +1,3 @@
+there is a boat rider ||entailment
+there is water ||entailment
+the boat rider is splashed with water ||entailment

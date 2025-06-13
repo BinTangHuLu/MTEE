@@ -1,0 +1,5 @@
+There is a woman. ||entailment
+There is a phone call. ||entailment
+There is an office environment. ||entailment
+The woman is making a phone call. ||entailment
+The woman is in an office environment. ||entailment

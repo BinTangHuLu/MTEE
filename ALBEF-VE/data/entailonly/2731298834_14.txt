@@ -1,0 +1,6 @@
+there is a woman ||entailment
+there are kids ||entailment
+the woman is in ||entailment
+the woman is playing ||neutral
+the kids are playing ||entailment
+the playing is in water ||entailment

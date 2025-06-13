@@ -1,0 +1,3 @@
+there are clan ||entailment
+there are gemstone ||neutral
+the clan are throwing stones ||contradiction

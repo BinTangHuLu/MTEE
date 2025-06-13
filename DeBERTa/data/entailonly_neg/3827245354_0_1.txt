@@ -1,0 +1,3 @@
+There is not a man. ||contradiction
+There is not outdoors. ||contradiction
+The man is not outdoors. ||contradiction

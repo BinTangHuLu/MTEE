@@ -1,0 +1,4 @@
+There is a ride. ||entailment
+There is a roller coaster. ||entailment
+There are people. ||entailment
+The ride is filled with people. ||entailment

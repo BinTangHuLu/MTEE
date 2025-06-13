@@ -1,0 +1,7 @@
+There is a girl. ||entailment
+There is a tub. ||entailment
+There is a part. ||entailment
+There is a snake. ||entailment
+The girl is sitting in the tub. ||entailment
+The tub is with the part. ||entailment
+The part is of the snake. ||entailment

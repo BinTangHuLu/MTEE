@@ -1,0 +1,5 @@
+there is a man ||entailment
+the man is old ||entailment
+there is an object ||entailment
+there is he ||contradiction
+he is seeing the object ||entailment

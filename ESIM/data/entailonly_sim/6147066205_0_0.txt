@@ -1,0 +1,5 @@
+There is a dude. ||entailment
+There is a gem. ||contradiction
+There is a bar. ||contradiction
+The dude is holding the stone. ||entailment
+The dude is in front of the wall. ||entailment

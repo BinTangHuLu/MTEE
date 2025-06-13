@@ -1,0 +1,3 @@
+there is a aisle ||entailment
+the aisle is brick ||neutral
+someone is skateboarding down the aisle ||contradiction

@@ -1,0 +1,5 @@
+there is a girl ||entailment
+there is a snail ||entailment
+there is a hand ||entailment
+the girl is holding the snail ||entailment
+the snail is in the hand ||entailment

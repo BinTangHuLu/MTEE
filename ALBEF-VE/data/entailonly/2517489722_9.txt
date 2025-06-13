@@ -1,0 +1,8 @@
+there is a girl ||entailment
+there are some boards ||entailment
+there is a man ||entailment
+there is a trail ||entailment
+the girl is climbing ||entailment
+the man walks past the trail ||contradiction
+the girl is climbing the boards ||entailment
+the man is walking past the girl ||entailment

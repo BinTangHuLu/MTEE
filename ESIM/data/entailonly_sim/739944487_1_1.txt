@@ -1,0 +1,6 @@
+There are community. ||neutral
+There is an article. ||neutral
+There is drink. ||contradiction
+The article is wooden. ||neutral
+The community are in the object. ||neutral
+The article is on water. ||entailment

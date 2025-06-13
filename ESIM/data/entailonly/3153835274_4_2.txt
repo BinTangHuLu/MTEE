@@ -1,0 +1,4 @@
+There is a woman. ||entailment
+There is a hammer. ||entailment
+The woman is using the hammer. ||entailment
+The woman is using the hammer to make something. ||entailment

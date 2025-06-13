@@ -1,0 +1,5 @@
+There are people. ||entailment
+There is a kid. ||entailment
+There is a forest. ||entailment
+The people are walking in the kid. ||entailment
+The people are walking in the forest. ||entailment

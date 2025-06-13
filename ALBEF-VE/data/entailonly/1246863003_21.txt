@@ -1,0 +1,3 @@
+there are chefs ||entailment
+there is work ||entailment
+the chefs are at work ||entailment

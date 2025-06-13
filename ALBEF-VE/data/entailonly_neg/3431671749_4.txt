@@ -1,0 +1,5 @@
+there is not a race car ||contradiction
+there is not fire ||contradiction
+there is not an exhaust pipe ||contradiction
+the race car does not have fire ||contradiction
+the fire is not coming from the exhaust pipe ||contradiction

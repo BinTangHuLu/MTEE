@@ -1,0 +1,7 @@
+there is a female ||entailment
+there is a avenue ||entailment
+the female is walking ||entailment
+the female is walking down the street ||entailment
+there is drink ||entailment
+the drink is bottled ||neutral
+the female is carrying water ||entailment

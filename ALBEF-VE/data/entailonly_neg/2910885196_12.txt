@@ -1,0 +1,5 @@
+there is not a man ||contradiction
+there is not a knife ||contradiction
+there are not hands ||contradiction
+the man does not have a knife ||contradiction
+the knife is not in hands ||contradiction

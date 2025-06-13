@@ -1,0 +1,5 @@
+there is a person ||entailment
+there is a skateboard ||entailment
+there is a ramp ||entailment
+the person is riding the skateboard ||entailment
+the skateboard is on the ramp ||entailment

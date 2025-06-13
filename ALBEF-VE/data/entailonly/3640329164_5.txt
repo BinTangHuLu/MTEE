@@ -1,0 +1,6 @@
+there is a man ||entailment
+there is a suit ||entailment
+there is a dog ||entailment
+the suit is green striped ||neutral
+the man is surfing man ||neutral
+the suit is with dog ||contradiction

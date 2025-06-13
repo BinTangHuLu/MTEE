@@ -1,0 +1,5 @@
+There are women. ||entailment
+There is a group. ||entailment
+The women are alike. ||neutral
+The group is dressed. ||entailment
+The group is dressed by women. ||entailment

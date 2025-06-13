@@ -1,0 +1,4 @@
+there are not flowers ||contradiction
+there is not a hallway ||contradiction
+the flowers are not pretty ||contradiction
+the flowers are not covered in the hallway ||contradiction

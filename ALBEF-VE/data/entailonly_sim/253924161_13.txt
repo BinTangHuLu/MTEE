@@ -1,0 +1,6 @@
+there is a dude ||entailment
+there is a female ||entailment
+there is a bar ||entailment
+the dude sits side by side with the woman ||entailment
+the dude is at the table ||entailment
+the female is at the table ||entailment

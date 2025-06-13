@@ -1,0 +1,4 @@
+There is a dude. ||Entailment
+There is some drink. ||Contradiction
+The dude is water-skiing. ||Entailment
+The dude is on water. ||Entailment

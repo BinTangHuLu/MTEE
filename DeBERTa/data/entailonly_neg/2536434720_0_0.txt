@@ -1,0 +1,5 @@
+There is not a Horse rider. ||contradiction
+There is not wear. ||contradiction
+There is not a horse. ||contradiction
+The wear is not traditional. ||neutral
+The Horse rider does not ride with the horse. ||contradiction

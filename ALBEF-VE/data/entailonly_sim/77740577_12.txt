@@ -1,0 +1,5 @@
+there is a dude ||entailment
+there is a female ||entailment
+there is a bed ||entailment
+the dude sits on the couch ||contradiction
+the female sits on the couch ||entailment

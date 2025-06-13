@@ -1,0 +1,2 @@
+There are teenagers. ||Entailment
+The teenagers are moving. ||Entailment

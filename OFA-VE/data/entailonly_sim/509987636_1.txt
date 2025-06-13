@@ -1,0 +1,3 @@
+There is a dude. ||Entailment
+The dude is older. ||Entailment
+The dude sits in front of paintings. ||Entailment

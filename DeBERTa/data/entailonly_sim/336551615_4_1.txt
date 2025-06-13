@@ -1,0 +1,6 @@
+There are community. ||entailment
+There is a hill. ||entailment
+The community are two. ||entailment
+The hill is snowy. ||entailment
+The community are hiking with backpacks. ||neutral
+The community are hiking up slope. ||neutral

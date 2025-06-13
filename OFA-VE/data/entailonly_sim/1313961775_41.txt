@@ -1,0 +1,5 @@
+There is a child. ||Entailment
+There is drink. ||Contradiction
+There is a coat. ||Contradiction
+The child floats in water. ||Entailment
+The child is with a jacket. ||Contradiction

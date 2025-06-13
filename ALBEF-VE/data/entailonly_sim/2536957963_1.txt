@@ -1,0 +1,3 @@
+there are community ||entailment
+there is a apparatus ||entailment
+the community are hauling the machine ||neutral

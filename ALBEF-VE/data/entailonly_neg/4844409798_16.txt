@@ -1,0 +1,7 @@
+there is not a boy ||contradiction
+there is not someone ||contradiction
+the boy is not young ||contradiction
+the shirt is not red ||contradiction
+the shirt is not red ||contradiction
+the boy is walking next to someonenot ||contradiction
+the boy is not wearing a red shirt ||contradiction

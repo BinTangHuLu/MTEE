@@ -1,0 +1,2 @@
+there is someone ||entailment
+someone is surfing ||entailment

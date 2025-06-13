@@ -1,0 +1,4 @@
+There is a association. ||Entailment
+There are community. ||Entailment
+The association is outdoors. ||Entailment
+The association are people. ||Entailment

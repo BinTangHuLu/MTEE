@@ -1,0 +1,4 @@
+There are men. ||entailment
+There is a roof. ||entailment
+There is a building. ||entailment
+The men are working on the roof. ||entailment

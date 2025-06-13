@@ -1,0 +1,4 @@
+There are not people. ||contradiction
+There is not a cap. ||contradiction
+The cap is not on. ||entailment
+The people does not have cap. ||contradiction

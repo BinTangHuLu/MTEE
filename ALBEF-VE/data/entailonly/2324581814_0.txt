@@ -1,0 +1,5 @@
+there are men ||entailment
+there are children ||entailment
+there are two men ||entailment
+the men are doing project ||entailment
+the project is together with men ||neutral

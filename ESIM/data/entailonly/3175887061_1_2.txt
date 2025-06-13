@@ -1,0 +1,7 @@
+There is He. ||entailment
+There is a photo. ||entailment
+There is a piece. ||entailment
+There is paper. ||entailment
+He takes a photo. ||neutral
+He takes a piece. ||neutral
+He takes paper. ||neutral

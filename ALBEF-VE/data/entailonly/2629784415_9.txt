@@ -1,0 +1,5 @@
+there is a man ||entailment
+there is a woman ||entailment
+the man and woman were talking ||entailment
+the man were talking ||entailment
+the woman were talking ||entailment

@@ -1,0 +1,4 @@
+there is a dude ||entailment
+there is a bus drive ||entailment
+the dude is well dressed ||entailment
+the dude is waiting for bus ride ||entailment

@@ -1,0 +1,3 @@
+There is a baby. ||entailment
+There is a blizzard drain. ||contradiction
+The baby sits next to the storm drain. ||entailment

@@ -1,0 +1,4 @@
+There are clan. ||Entailment
+There is a account. ||Contradiction
+The account is taken. ||Entailment
+The clan are having a picture. ||Neutral

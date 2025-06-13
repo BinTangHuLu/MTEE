@@ -1,0 +1,5 @@
+There is a child. ||entailment
+There is a woman. ||entailment
+The child watches. ||entailment
+The woman is playing with equipment. ||entailment
+The child watches the woman. ||entailment

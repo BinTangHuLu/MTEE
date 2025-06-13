@@ -1,0 +1,5 @@
+There is not a woman. ||Contradiction
+There is not a picture. ||Contradiction
+There is not a cow. ||Contradiction
+The woman is not with the picture. ||Entailment
+The picture is not of the cow. ||Entailment

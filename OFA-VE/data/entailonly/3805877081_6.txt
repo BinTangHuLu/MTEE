@@ -1,0 +1,3 @@
+There is a person. ||Entailment
+There is a shack. ||Entailment
+The person is standing in front of the shack. ||Entailment

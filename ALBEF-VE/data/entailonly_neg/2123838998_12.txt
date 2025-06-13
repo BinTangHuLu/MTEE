@@ -1,0 +1,4 @@
+there is not an ensemble ||contradiction
+there are not musicians ||contradiction
+the musicians are not dressed as santa ||contradiction
+the ensemble is not of musicians ||contradiction

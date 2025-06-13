@@ -1,0 +1,4 @@
+There are crack. ||Neutral
+There are appearance. ||Entailment
+Someone has crack. ||Neutral
+crack are in eyes. ||Neutral

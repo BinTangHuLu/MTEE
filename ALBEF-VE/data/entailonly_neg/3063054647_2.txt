@@ -1,0 +1,6 @@
+there are not kids ||contradiction
+there is not a path ||contradiction
+there is not an area ||contradiction
+the area is not wooded ||contradiction
+kids do not walk down the path ||contradiction
+the path is not in the area ||contradiction

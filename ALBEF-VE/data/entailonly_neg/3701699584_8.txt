@@ -1,0 +1,6 @@
+there is not a man ||contradiction
+there is not a ball ||contradiction
+there is not an object ||contradiction
+the object is not large ||neutral
+the man does not hit the ball ||contradiction
+the ball is not hit with the object ||entailment

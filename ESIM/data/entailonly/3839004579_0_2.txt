@@ -1,0 +1,11 @@
+There is a biker. ||entailment
+There is a rider. ||entailment
+There is a sky. ||entailment
+The biker is extreme. ||entailment
+The rider is mid-jump. ||entailment
+The rider is underneath. ||entailment
+The rider is showing. ||entailment
+The sky is clear. ||neutral
+The biker is in from. ||entailment
+The biker is in underneath. ||entailment
+The rider is showing the sky. ||entailment

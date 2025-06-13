@@ -1,0 +1,4 @@
+there is a jumper ||entailment
+the jumper is high ||neutral
+there is outdoors ||entailment
+the jumper is outdoors ||entailment

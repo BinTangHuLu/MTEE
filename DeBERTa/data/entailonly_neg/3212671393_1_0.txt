@@ -1,0 +1,5 @@
+There is not a man. ||contradiction
+There is not a house. ||contradiction
+The man is not single. ||contradiction
+The house is hisnot . ||neutral
+The man was not working on the house. ||contradiction

@@ -1,0 +1,5 @@
+there are not children ||contradiction
+there are not parents ||contradiction
+there is not a bounce house ||contradiction
+the children are not in front of the bounce house ||contradiction
+the parents are not in front of the bounce house ||contradiction

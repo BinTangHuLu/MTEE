@@ -1,0 +1,7 @@
+there is not a woman ||contradiction
+there is not a suit ||contradiction
+there is not an edge ||contradiction
+there is not a pool ||contradiction
+the pool is not in ground ||entailment
+the woman is not holding onto the edge ||contradiction
+the edge is not of the pool ||contradiction

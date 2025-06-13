@@ -1,0 +1,2 @@
+there are not adults ||entailment
+the adults do not want to see something ||entailment

@@ -1,0 +1,5 @@
+There is a scientist. ||Entailment
+There is a microscope. ||Entailment
+There is a lab. ||Entailment
+The scientist is looking closely in the microscope. ||Entailment
+The microscope is in the lab. ||Entailment

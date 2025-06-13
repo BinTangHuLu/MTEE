@@ -1,0 +1,3 @@
+There is Bruce Springsteen. ||entailment
+There is Florida. ||entailment
+Bruce Springsteen is from Florida. ||entailment

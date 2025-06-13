@@ -1,0 +1,5 @@
+There is a man. ||entailment
+There is a chunk. ||entailment
+There is a building. ||entailment
+The man washes off the chunk. ||neutral
+The chunk is of the building. ||entailment

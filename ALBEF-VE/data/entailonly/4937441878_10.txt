@@ -1,0 +1,8 @@
+there is a woman ||entailment
+there is a center ||entailment
+there is attention ||entailment
+the woman is blond ||entailment
+the group is large ||neutral
+the woman is in the center ||entailment
+the center is of attention ||entailment
+the group is of people ||neutral

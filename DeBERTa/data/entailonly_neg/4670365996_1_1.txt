@@ -1,0 +1,3 @@
+There are not women. ||contradiction
+There is not a scooter. ||contradiction
+The women do not ride the street. ||contradiction

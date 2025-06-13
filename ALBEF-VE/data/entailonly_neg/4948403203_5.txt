@@ -1,0 +1,4 @@
+there is not a male ||contradiction
+there is not a piece ||contradiction
+there is not a paper ||contradiction
+the male was not looking at the piece ||entailment

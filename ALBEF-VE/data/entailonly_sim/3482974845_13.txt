@@ -1,0 +1,2 @@
+there is a coast ||entailment
+the animals are on the coast ||entailment

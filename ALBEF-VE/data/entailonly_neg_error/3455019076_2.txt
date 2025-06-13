@@ -1,0 +1,3 @@
+EA,hair,long
+R,is standing over
+RE2,with,hair

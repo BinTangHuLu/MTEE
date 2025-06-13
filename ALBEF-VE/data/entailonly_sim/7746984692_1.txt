@@ -1,0 +1,3 @@
+there is a passerby ||entailment
+the passerby is walking ||entailment
+the passerby is walking ||entailment

@@ -1,0 +1,3 @@
+There are not fire fighters. ||Contradiction
+There is not a job. ||Contradiction
+The fire fighters have not done the job. ||Contradiction

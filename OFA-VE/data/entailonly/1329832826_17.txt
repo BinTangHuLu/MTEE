@@ -1,0 +1,3 @@
+There is a sign. ||Entailment
+There is neon. ||Entailment
+The sign is neon. ||Entailment

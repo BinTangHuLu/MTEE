@@ -1,0 +1,2 @@
+There are not animals. ||Contradiction
+The animals are not outside. ||Entailment

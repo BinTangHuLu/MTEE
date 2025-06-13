@@ -1,0 +1,5 @@
+there are not people ||contradiction
+there are not shirts ||contradiction
+the shirts are not black ||contradiction
+people are not in shirts ||contradiction
+people are not having a confrontation ||contradiction

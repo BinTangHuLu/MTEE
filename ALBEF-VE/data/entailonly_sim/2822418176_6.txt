@@ -1,0 +1,3 @@
+there is a dude ||entailment
+there are some appliance ||entailment
+the dude is using tools ||entailment

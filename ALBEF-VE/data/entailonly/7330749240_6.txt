@@ -1,0 +1,4 @@
+there are cars ||entailment
+there is a track ||entailment
+the cars are fast ||neutral
+the cars are going around track ||entailment

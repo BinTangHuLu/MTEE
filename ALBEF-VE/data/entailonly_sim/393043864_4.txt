@@ -1,0 +1,4 @@
+there is a choice ||entailment
+there is some crop ||entailment
+the choice is for sale ||neutral
+the choice is for sale by produce ||entailment

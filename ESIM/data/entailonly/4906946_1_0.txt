@@ -1,0 +1,4 @@
+There are men. ||entailment
+There are jackets. ||entailment
+The jackets are lime green. ||entailment
+The men are wearing jackets. ||entailment

@@ -1,0 +1,5 @@
+There is not a picture. ||Contradiction
+There is not a street. ||Contradiction
+There is not a city. ||Contradiction
+The picture is not of the street. ||Entailment
+The picture is not in the city. ||Entailment

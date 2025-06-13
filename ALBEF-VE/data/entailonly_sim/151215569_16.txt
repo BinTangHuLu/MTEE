@@ -1,0 +1,4 @@
+there is a baby ||entailment
+there is a dude ||entailment
+the dude is older ||neutral
+the baby is hoisted above the man ||entailment

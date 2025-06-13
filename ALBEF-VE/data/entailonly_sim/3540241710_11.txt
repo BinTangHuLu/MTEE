@@ -1,0 +1,8 @@
+there is a dude ||entailment
+there is a blouse ||entailment
+there is atmosphere ||entailment
+the blouse is white ||contradiction
+the dude is taking flight ||contradiction
+the dude is in the shirt ||entailment
+the dude is taking flight in the air ||entailment
+the dude is outside the air ||entailment

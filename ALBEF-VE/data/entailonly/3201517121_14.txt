@@ -1,0 +1,5 @@
+there are people ||entailment
+there are shirts ||entailment
+the shirts are black ||entailment
+people are in shirts ||entailment
+people are having a confrontation ||entailment

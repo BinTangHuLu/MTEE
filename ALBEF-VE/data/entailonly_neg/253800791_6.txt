@@ -1,0 +1,5 @@
+there are not guys ||contradiction
+there is not a game ||contradiction
+the guys are not playing the game ||contradiction
+the game is not in the lot ||neutral
+the lot is not public ||contradiction

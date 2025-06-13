@@ -1,0 +1,3 @@
+There are not men. ||Entailment
+There are not lambs. ||Entailment
+The men do not stand next to lambs. ||Contradiction

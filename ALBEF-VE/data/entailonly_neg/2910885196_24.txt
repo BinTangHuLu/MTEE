@@ -1,0 +1,5 @@
+there is not a human ||contradiction
+there is not an object ||contradiction
+there is not some food ||contradiction
+the human is not holding the object ||contradiction
+the object is not in front of the food ||contradiction

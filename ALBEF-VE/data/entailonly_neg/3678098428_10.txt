@@ -1,0 +1,6 @@
+there is not a man ||contradiction
+there is not a camera ||contradiction
+there is not another ||contradiction
+there is not him ||contradiction
+the man does not smile at the camera ||entailment
+another does not play behind him ||neutral

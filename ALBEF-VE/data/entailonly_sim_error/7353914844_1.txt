@@ -1,0 +1,3 @@
+E1R,kayakers,in
+E1RE2,kayakers,held in place by,oars
+RE2,apart,third

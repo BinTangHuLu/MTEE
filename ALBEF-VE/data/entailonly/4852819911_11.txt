@@ -1,0 +1,5 @@
+there is a guy ||entailment
+there is a broom ||entailment
+there is a wall ||entailment
+the guy uses the broom ||neutral
+the broom is in front of the wall ||entailment

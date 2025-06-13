@@ -1,0 +1,6 @@
+There is a dude. ||entailment
+There are some child. ||entailment
+There is a female. ||entailment
+The child are little. ||entailment
+The dude brings boys. ||contradiction
+The dude brings boys to buy the woman. ||entailment

@@ -1,0 +1,5 @@
+there is not a jacket ||contradiction
+there is not an umbrella ||contradiction
+the jacket is not the same color ||entailment
+the umbrella is not the same color ||entailment
+the jacket and umbrella are not the same color ||entailment

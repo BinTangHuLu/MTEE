@@ -1,0 +1,3 @@
+there are men ||entailment
+there is work ||entailment
+the men are at work ||entailment

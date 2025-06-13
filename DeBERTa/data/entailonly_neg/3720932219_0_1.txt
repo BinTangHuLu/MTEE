@@ -1,0 +1,8 @@
+There is not a blond. ||contradiction
+There is not a group. ||contradiction
+There is not a woman. ||contradiction
+There are not students. ||contradiction
+The blond is not blond. ||contradiction
+The woman is not young. ||entailment
+The woman is not dark-haired. ||entailment
+The blond does not speak with the group. ||contradiction

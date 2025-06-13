@@ -1,0 +1,5 @@
+There is a guy. ||entailment
+There is a bike. ||entailment
+There is a park. ||entailment
+The guy rides the bike. ||entailment
+The guy is in the park. ||entailment

@@ -1,0 +1,6 @@
+there is not a lady ||contradiction
+there are not some jeans ||contradiction
+there are not some sandals ||neutral
+there is not a tank top ||contradiction
+the lady is not standing outside ||entailment
+the lady is looking at somethingnot ||entailment

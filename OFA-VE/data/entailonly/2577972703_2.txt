@@ -1,0 +1,4 @@
+There are tears. ||Entailment
+There are eyes. ||Entailment
+Someone has tears. ||Entailment
+Tears are in eyes. ||Entailment

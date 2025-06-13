@@ -1,0 +1,4 @@
+there are not women ||entailment
+there is not a bus ||contradiction
+the women are not angry ||entailment
+the women are not on the bus ||contradiction

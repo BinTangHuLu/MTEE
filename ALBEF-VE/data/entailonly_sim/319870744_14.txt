@@ -1,0 +1,4 @@
+there is a bluff ||entailment
+there is a alp ||entailment
+she is sitting on the bluff ||contradiction
+the bluff is overlooking the mountain ||entailment

@@ -1,0 +1,4 @@
+there is a dude ||entailment
+there is a auto ||entailment
+the dude is jumping ||entailment
+the dude is next to the car ||entailment

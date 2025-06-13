@@ -1,0 +1,4 @@
+There is an bodily. ||entailment
+There is some barley. ||neutral
+The bodily is furry. ||entailment
+The bodily is in grass. ||entailment

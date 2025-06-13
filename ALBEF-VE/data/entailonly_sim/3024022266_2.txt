@@ -1,0 +1,3 @@
+there is a baby ||entailment
+there is a account ||entailment
+the baby is in the picture ||entailment

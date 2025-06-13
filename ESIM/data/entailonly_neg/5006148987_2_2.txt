@@ -1,0 +1,4 @@
+There is not a police officer. ||contradiction
+There is not a mouth. ||contradiction
+The police officer is not moving. ||contradiction
+The police officer is not moving mouth. ||contradiction

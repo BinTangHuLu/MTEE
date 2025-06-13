@@ -1,0 +1,14 @@
+there is a man ||entailment
+there is a shirt ||entailment
+there is some hair ||entailment
+there is a camera ||entailment
+there is a mountain ||entailment
+there is a background ||entailment
+the shirt is blue ||entailment
+the hair is gray colored ||neutral
+the man is wearing ||entailment
+the man is wearing the shirt ||entailment
+the man is looking through the camera ||entailment
+the camera is towards the mountain ||entailment
+the mountain is in the background ||entailment
+the background is outdoors ||entailment

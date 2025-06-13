@@ -1,0 +1,4 @@
+There is not a boy. ||contradiction
+There is not a pool. ||contradiction
+The boy is not playing. ||contradiction
+The boy is not playing in the pool. ||contradiction

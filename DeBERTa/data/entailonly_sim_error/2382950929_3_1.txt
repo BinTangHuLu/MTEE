@@ -1,0 +1,2 @@
+EA,sun,highest point
+E1RE2,sun,is at,point

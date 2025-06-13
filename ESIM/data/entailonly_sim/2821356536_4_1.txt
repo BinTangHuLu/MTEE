@@ -1,0 +1,2 @@
+There is a blaze pit. ||entailment
+The blaze pit has been put out. ||entailment

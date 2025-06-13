@@ -1,0 +1,7 @@
+there is not a boy ||contradiction
+there is not an outfit ||contradiction
+there are not colors ||contradiction
+there are not leaves ||contradiction
+the outfit does not have many light colors ||entailment
+the boy is not wearing ||contradiction
+the boy is not standing in a pile of leaves ||contradiction

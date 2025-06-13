@@ -1,0 +1,3 @@
+there is a dog ||entailment
+there is a camera case ||entailment
+the dog chews on the camera case ||entailment

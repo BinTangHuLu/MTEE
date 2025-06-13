@@ -1,0 +1,5 @@
+there are men ||entailment
+there is a uniform ||entailment
+there is a church ||entailment
+men are in uniform ||entailment
+men are outside of the church ||entailment

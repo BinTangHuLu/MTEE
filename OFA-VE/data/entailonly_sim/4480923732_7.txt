@@ -1,0 +1,5 @@
+There is a body. ||Entailment
+There is a call up. ||Entailment
+There is a baby. ||Entailment
+The body is on the phone. ||Neutral
+The body is holding the child. ||Contradiction

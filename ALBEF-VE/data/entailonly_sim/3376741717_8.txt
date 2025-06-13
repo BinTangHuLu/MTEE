@@ -1,0 +1,3 @@
+there is a artist ||entailment
+there is a gig ||entailment
+the artist is playing at concert ||neutral

@@ -1,0 +1,7 @@
+There is a gentlewoman. ||Entailment
+There is an shade. ||Entailment
+The shade is lucky. ||Neutral
+There is a period. ||Entailment
+The period is rainy. ||Entailment
+The shade is on the day. ||Entailment
+The gentlewoman is with the umbrella. ||Neutral

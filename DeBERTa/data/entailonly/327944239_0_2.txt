@@ -1,0 +1,4 @@
+There is a man. ||entailment
+The man is without a shirt. ||entailment
+There is a river. ||entailment
+The man is on the river. ||entailment

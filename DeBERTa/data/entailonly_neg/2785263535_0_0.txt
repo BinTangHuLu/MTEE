@@ -1,0 +1,5 @@
+There are not men. ||contradiction
+There is not a bull. ||contradiction
+There are not people. ||contradiction
+The men do not bother the bull. ||contradiction
+The people do not watch the men. ||contradiction

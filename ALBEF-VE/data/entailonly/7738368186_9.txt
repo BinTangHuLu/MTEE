@@ -1,0 +1,3 @@
+there is a person ||entailment
+there is some beer ||entailment
+the person is carrying beer ||entailment

@@ -1,0 +1,5 @@
+There is not a guy. ||contradiction
+There is not a hat. ||contradiction
+There is not a glass. ||contradiction
+The guy does not sit with the glass. ||contradiction
+The guy is not with a hat. ||contradiction

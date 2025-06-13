@@ -1,0 +1,4 @@
+There are association. ||Entailment
+There is a avenue. ||Entailment
+The association are a pair. ||Entailment
+The association are outsides the street. ||Entailment

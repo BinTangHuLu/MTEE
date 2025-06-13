@@ -1,0 +1,5 @@
+There are men. ||entailment
+There is a center. ||entailment
+There is a clearing. ||entailment
+The men are at the center. ||entailment
+The center is at the clearing. ||entailment

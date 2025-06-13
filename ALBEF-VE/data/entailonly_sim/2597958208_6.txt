@@ -1,0 +1,3 @@
+there are clan ||entailment
+there is a farmland ||neutral
+the clan play in the field ||entailment

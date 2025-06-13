@@ -1,0 +1,5 @@
+there is a man ||entailment
+there is a photo ||entailment
+there is a statue ||entailment
+the man is taking a photo ||entailment
+the photo is by the statue ||entailment

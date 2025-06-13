@@ -1,0 +1,7 @@
+there is a guy ||entailment
+there is a picture ||entailment
+there is someone ||entailment
+there is a hair cut ||entailment
+the guy is taking a picture ||entailment
+the picture is of someone ||entailment
+someone is getting a hair cut ||entailment

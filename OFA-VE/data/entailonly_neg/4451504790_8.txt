@@ -1,0 +1,4 @@
+There is not a child. ||Contradiction
+There is not a tractor. ||Contradiction
+The child is not sitting. ||Entailment
+The child is not outside on tractor. ||Entailment

@@ -1,0 +1,5 @@
+There is a man. ||entailment
+There are some headphones. ||entailment
+There is a sculpture. ||entailment
+The man is wearing headphones. ||entailment
+The man is working on sculpture. ||entailment

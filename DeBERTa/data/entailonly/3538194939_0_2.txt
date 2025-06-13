@@ -1,0 +1,7 @@
+There is a man. ||entailment
+There are some clothes. ||entailment
+There are some boots. ||entailment
+There is a flotation device. ||entailment
+The man is wearing work clothes. ||entailment
+The man is wearing boots. ||entailment
+The man is working on the flotation device. ||entailment

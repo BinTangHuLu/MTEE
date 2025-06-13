@@ -1,0 +1,4 @@
+There are People. ||entailment
+There is a firetruck. ||entailment
+The firetruck has all its lights on. ||entailment
+People stand outside of the firetruck. ||entailment

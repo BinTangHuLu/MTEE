@@ -1,0 +1,5 @@
+There is not a boy. ||contradiction
+There is not a Nintendo DS. ||contradiction
+There is not a sister. ||contradiction
+The boy is not playing Nintendo DS. ||contradiction
+The boy is not with sister. ||contradiction

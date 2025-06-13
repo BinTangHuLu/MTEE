@@ -1,0 +1,5 @@
+There is a female. ||Entailment
+There are some approach. ||Entailment
+The female is Indian. ||Entailment
+The approach are traditional. ||Entailment
+The female is wearing styles. ||Entailment

@@ -1,0 +1,5 @@
+There is a man. ||entailment
+There is a track. ||entailment
+The man is racing. ||entailment
+The track is dirt. ||entailment
+The man is racing on track. ||entailment

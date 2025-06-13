@@ -1,0 +1,8 @@
+there is a female ||entailment
+there is a blouse ||entailment
+there is a clue ||entailment
+there is a avenue ||entailment
+the blouse is white ||entailment
+the female is in the shirt ||entailment
+the female is standing next to the sign ||entailment
+the clue is outside on the street ||entailment

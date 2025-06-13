@@ -1,0 +1,5 @@
+there is not a dog ||contradiction
+there is not a boy ||contradiction
+the dog is not muscular ||contradiction
+the boy is not young ||entailment
+the dog is not looking at the boy ||entailment

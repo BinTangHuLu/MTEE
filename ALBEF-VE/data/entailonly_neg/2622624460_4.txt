@@ -1,0 +1,5 @@
+there is not an animal ||contradiction
+there is not some water ||contradiction
+there is not an object ||contradiction
+the animal is not splashing ||contradiction
+the animal is not running after the object ||contradiction

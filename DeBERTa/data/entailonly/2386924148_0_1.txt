@@ -1,0 +1,2 @@
+There are musicians. ||entailment
+The musicians are a group. ||entailment

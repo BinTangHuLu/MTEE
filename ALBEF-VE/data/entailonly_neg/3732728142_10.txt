@@ -1,0 +1,4 @@
+there is not a baby ||contradiction
+there is not a hat ||contradiction
+the baby is not wearing ||contradiction
+the baby is not wearing the hat ||contradiction

@@ -1,0 +1,3 @@
+there are friends ||entailment
+the friends are having fun ||neutral
+the friends are having fun together ||entailment

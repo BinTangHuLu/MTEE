@@ -1,0 +1,5 @@
+There are men. ||entailment
+There is karate. ||entailment
+There are two men. ||entailment
+The men are sparring with sticks. ||entailment
+The men are karate. ||entailment

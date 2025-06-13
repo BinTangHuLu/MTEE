@@ -1,0 +1,5 @@
+There are not workers. ||Contradiction
+There is not a boat. ||Contradiction
+There is not water. ||Contradiction
+The workers are not in the boat. ||Contradiction
+The boat is not on water. ||Contradiction

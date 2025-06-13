@@ -1,0 +1,4 @@
+There are hiker. ||entailment
+There is a avenue. ||entailment
+The hiker wait for the tram. ||contradiction
+The hiker are crossing the street. ||contradiction

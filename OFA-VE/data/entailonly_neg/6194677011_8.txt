@@ -1,0 +1,3 @@
+There is not a scientist. ||Contradiction
+There is not a lab. ||Contradiction
+The scientist does not work in lab. ||Contradiction

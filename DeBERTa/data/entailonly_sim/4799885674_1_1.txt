@@ -1,0 +1,7 @@
+There is a dude. ||entailment
+There is a blouse. ||entailment
+There is a camcorder. ||neutral
+The blouse is stripped. ||contradiction
+The dude is with the shirt. ||entailment
+The dude is carrying the camera. ||entailment
+The camcorder is on the body of the man. ||entailment

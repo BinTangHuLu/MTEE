@@ -1,0 +1,3 @@
+there are not children ||contradiction
+there are not woods ||contradiction
+the children are not in woods ||contradiction

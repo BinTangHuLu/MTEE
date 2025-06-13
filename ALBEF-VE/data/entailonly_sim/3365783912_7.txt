@@ -1,0 +1,4 @@
+there is a animal ||entailment
+there is a path ||entailment
+the animal is old ||neutral
+the animal is on sidewalk ||entailment

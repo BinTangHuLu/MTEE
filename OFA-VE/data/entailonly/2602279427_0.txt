@@ -1,0 +1,4 @@
+There is a person. ||Entailment
+There is an apron. ||Entailment
+The apron is yellow. ||Entailment
+The person has an apron. ||Entailment

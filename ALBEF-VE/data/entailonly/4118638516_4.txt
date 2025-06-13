@@ -1,0 +1,5 @@
+there is a man ||entailment
+there are some flowers ||entailment
+there is a market ||entailment
+the man is selling flowers ||entailment
+the flowers are at market ||entailment

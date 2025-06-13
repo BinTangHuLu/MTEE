@@ -1,0 +1,5 @@
+There is a man. ||Entailment
+There is a woman. ||Entailment
+The man is outdoors. ||Entailment
+The woman is outdoors. ||Entailment
+The man and woman are outdoors. ||Entailment

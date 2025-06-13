@@ -1,0 +1,3 @@
+there are boys ||entailment
+there is money ||entailment
+the boys are about to get money ||neutral

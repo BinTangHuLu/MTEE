@@ -1,0 +1,5 @@
+There is not a girl. ||contradiction
+There is not a shirt. ||contradiction
+The girl is not young. ||contradiction
+The shirt is not red. ||contradiction
+The girl is not wearing the shirt. ||contradiction

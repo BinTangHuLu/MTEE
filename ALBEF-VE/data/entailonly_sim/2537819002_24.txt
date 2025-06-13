@@ -1,0 +1,6 @@
+there is a body ||entailment
+there is some apparatus ||entailment
+there is a amount ||entailment
+the apparatus is heavy ||neutral
+the body is driving equipment ||entailment
+the body maneuvers the load ||entailment

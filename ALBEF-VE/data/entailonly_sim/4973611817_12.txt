@@ -1,0 +1,2 @@
+there is an agent ||entailment
+the agent is standing ||entailment

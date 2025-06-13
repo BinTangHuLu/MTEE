@@ -1,0 +1,8 @@
+there is a person ||entailment
+there is air ||entailment
+there are aromas ||entailment
+there are bakery items ||entailment
+the air is fresh ||neutral
+the person is enjoying air ||neutral
+the person is enjoying aromas ||entailment
+the aromas are of bakery items ||entailment

@@ -1,0 +1,5 @@
+There is not a man. ||contradiction
+There are not people. ||contradiction
+The man is not running. ||contradiction
+The man is not running. ||contradiction
+The people are not watching. ||contradiction

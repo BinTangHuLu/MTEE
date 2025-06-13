@@ -1,0 +1,4 @@
+There is a male. ||Entailment
+There is a piece. ||Entailment
+There is a paper. ||Entailment
+The male was looking at the piece. ||Neutral

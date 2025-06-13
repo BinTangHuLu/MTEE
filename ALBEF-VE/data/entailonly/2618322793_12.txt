@@ -1,0 +1,3 @@
+there is a boy ||entailment
+there is a movement ||entailment
+the boy is making movement ||entailment

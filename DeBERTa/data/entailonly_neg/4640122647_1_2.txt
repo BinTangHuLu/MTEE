@@ -1,0 +1,6 @@
+There is not a woman. ||contradiction
+There is not a court. ||contradiction
+The woman is not young. ||contradiction
+The woman does not skateboard on the court. ||contradiction
+The court is not outdoor. ||contradiction
+The court is not a basketball court. ||contradiction

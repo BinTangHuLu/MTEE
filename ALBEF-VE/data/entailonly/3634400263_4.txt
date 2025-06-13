@@ -1,0 +1,3 @@
+there is a person ||entailment
+there is a bike ||entailment
+the person is performing a trick on a bike ||entailment

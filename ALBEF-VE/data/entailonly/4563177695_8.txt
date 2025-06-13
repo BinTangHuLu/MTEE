@@ -1,0 +1,5 @@
+there are people ||entailment
+there are clothes ||entailment
+the clothes are matching ||neutral
+the people are in clothes ||entailment
+the people sit together ||entailment

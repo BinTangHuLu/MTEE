@@ -1,0 +1,3 @@
+There are community. ||Entailment
+There is an accident. ||Contradiction
+The community are convening for the event. ||Neutral

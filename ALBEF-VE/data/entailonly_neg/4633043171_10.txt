@@ -1,0 +1,3 @@
+there is not a man ||contradiction
+there is not a bus stop ||contradiction
+the man is not sitting by the bus stop ||entailment

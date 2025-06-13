@@ -1,0 +1,8 @@
+There is a woman. ||entailment
+There is a microphone. ||entailment
+There is a second woman. ||entailment
+The woman is One. ||neutral
+The woman is speaking. ||entailment
+The second woman writes. ||entailment
+The woman is speaking into the microphone. ||entailment
+The second woman writes beside her. ||entailment

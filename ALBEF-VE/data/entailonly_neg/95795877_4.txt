@@ -1,0 +1,6 @@
+there is not a man ||contradiction
+there is not a woman ||contradiction
+there is not a subway ||contradiction
+the man is not sleeping ||contradiction
+the man is not next to the woman ||contradiction
+the woman is not on the subway ||contradiction

@@ -1,0 +1,5 @@
+there is not a woman ||contradiction
+there is not a microscope ||contradiction
+there are not others ||entailment
+the woman does not work on the microscope ||contradiction
+others do not take pictures ||contradiction

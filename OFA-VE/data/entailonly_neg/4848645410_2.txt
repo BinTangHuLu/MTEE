@@ -1,0 +1,4 @@
+There is not a man. ||Contradiction
+The man is not in white. ||Entailment
+The man is not in blue. ||Entailment
+The man is not outside the man. ||Entailment

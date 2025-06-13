@@ -1,0 +1,4 @@
+There are dude. ||entailment
+There are two dude. ||entailment
+The skirts are hula barley. ||contradiction
+The dude are wearing skirts. ||entailment

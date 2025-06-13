@@ -1,0 +1,4 @@
+there is a female ||entailment
+there is a bistro ||entailment
+the female stares off at the cafe ||entailment
+the female sits at the cafe ||entailment

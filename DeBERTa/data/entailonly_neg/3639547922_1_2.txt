@@ -1,0 +1,6 @@
+There is not a girl. ||contradiction
+The girl is not happily. ||contradiction
+There is not equipment. ||contradiction
+There is not a playground. ||contradiction
+The girl does not use equipment. ||contradiction
+The equipment is not at the playground. ||contradiction

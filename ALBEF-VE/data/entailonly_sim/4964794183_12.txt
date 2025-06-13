@@ -1,0 +1,4 @@
+there is a dude ||contradiction
+there are female ||entailment
+there is a circle ||entailment
+the dude and women are in front of the crowd ||entailment

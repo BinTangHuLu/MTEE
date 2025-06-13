@@ -1,0 +1,5 @@
+There are not girls. ||Contradiction
+There are not heads. ||Contradiction
+There are not feet. ||Entailment
+The heads do not be where their feet should be. ||Entailment
+The girls do not have heads. ||Contradiction

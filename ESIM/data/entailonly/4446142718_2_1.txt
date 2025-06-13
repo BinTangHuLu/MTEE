@@ -1,0 +1,6 @@
+There is a boy. ||entailment
+There are some streets. ||entailment
+There is a car. ||entailment
+The boy is motorized. ||entailment
+The boy played in streets. ||entailment
+The boy played with a car. ||entailment

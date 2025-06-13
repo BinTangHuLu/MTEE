@@ -1,0 +1,6 @@
+There is a boy. ||Entailment
+There is a fedora. ||Neutral
+There is a brain. ||Contradiction
+The boy is male. ||Entailment
+The boy has a hat. ||Entailment
+The fedora is over the head. ||Neutral

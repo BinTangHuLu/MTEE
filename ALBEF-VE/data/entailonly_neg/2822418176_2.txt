@@ -1,0 +1,6 @@
+there is not a man ||contradiction
+there is not a statue ||contradiction
+there is not a chainsaw ||contradiction
+the man is not carving ||contradiction
+the man is not carving the statue ||contradiction
+the statue is not with chainsaw ||contradiction

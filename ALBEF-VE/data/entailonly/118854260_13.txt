@@ -1,0 +1,4 @@
+there is a woman ||entailment
+the woman is manicuring ||entailment
+the nails are her ||neutral
+the woman is manicuring nails ||entailment

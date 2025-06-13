@@ -1,0 +1,7 @@
+there is a man ||entailment
+there is a shirt ||entailment
+there are sunglasses ||entailment
+the shirt is white ||contradiction
+the shirt and sunglasses ||entailment
+the man is in the shirt ||entailment
+the man drink together ||entailment

@@ -1,0 +1,4 @@
+There is a Guy. ||Entailment
+There is a handrail. ||Entailment
+The Guy is sliding. ||Entailment
+The Guy is sliding down the handrail. ||Neutral

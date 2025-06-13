@@ -1,0 +1,4 @@
+There is a man. ||entailment
+The man is trying to get to something. ||entailment
+The man is digging. ||entailment
+There is something. ||entailment

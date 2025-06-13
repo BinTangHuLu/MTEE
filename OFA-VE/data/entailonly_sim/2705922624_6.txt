@@ -1,0 +1,4 @@
+There are clan. ||Entailment
+The clan are posing. ||Entailment
+There is a account. ||Entailment
+The clan are posing for the picture. ||Neutral

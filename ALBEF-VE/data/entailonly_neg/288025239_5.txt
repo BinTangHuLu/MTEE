@@ -1,0 +1,5 @@
+there is not a woman ||contradiction
+there is not a tent ||contradiction
+the tent is not red ||contradiction
+the tent is not microscopic ||entailment
+the woman does not smile from the tent ||contradiction

@@ -1,0 +1,3 @@
+there is a body ||entailment
+there is an article ||entailment
+the body is posing with the object ||entailment

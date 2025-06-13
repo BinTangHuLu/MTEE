@@ -1,0 +1,3 @@
+There is a chapel. ||contradiction
+The chapel is filled. ||entailment
+The chapel is filled with song. ||entailment

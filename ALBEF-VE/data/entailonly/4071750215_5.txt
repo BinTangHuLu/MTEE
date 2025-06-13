@@ -1,0 +1,7 @@
+there is a boy ||entailment
+there is an outfit ||entailment
+there are colors ||entailment
+there are leaves ||entailment
+the outfit has many light colors ||neutral
+the boy is wearing ||entailment
+the boy is standing in a pile of leaves ||entailment

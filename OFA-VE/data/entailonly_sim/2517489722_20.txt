@@ -1,0 +1,3 @@
+There is a childbearing. ||Entailment
+The childbearing is young. ||Neutral
+The childbearing is holding on to something. ||Entailment

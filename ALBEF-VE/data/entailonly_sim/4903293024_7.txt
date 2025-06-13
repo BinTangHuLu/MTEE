@@ -1,0 +1,4 @@
+there is a appearance ||entailment
+there are community ||entailment
+the entertainers put on the appearance ||entailment
+the appearance is for people ||entailment

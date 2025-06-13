@@ -1,0 +1,6 @@
+there is not a person ||contradiction
+there are not glasses ||contradiction
+there are not cameras ||contradiction
+the glasses are not wearing ||contradiction
+the cameras are not two ||entailment
+the person is not with cameras ||contradiction

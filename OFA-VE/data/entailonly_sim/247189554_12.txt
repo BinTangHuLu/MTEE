@@ -1,0 +1,3 @@
+There is a dude. ||Entailment
+There is a camcorder. ||Contradiction
+The dude sits towards the camera. ||Entailment

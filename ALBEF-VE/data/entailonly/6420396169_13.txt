@@ -1,0 +1,6 @@
+there is a boy ||entailment
+there is a head ||entailment
+the boy is small ||entailment
+the head is his ||contradiction
+the boy is getting his head ||entailment
+the head is shaved by the boy ||contradiction

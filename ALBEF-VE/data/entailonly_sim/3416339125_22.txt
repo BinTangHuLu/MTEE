@@ -1,0 +1,5 @@
+there are dude ||entailment
+there are specs ||entailment
+there are two dude ||entailment
+the dude are in sunglasses ||entailment
+the dude drink beer ||entailment

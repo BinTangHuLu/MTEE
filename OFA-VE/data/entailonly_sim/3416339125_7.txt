@@ -1,0 +1,3 @@
+There are dude. ||Entailment
+There is a bar. ||Entailment
+The dude are sitting at the table. ||Entailment

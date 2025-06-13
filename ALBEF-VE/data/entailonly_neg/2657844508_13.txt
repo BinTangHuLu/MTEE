@@ -1,0 +1,3 @@
+there are not people ||contradiction
+there is not alcohol ||contradiction
+the people are not ingesting alcohol ||contradiction

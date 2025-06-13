@@ -1,0 +1,5 @@
+there are not girls ||contradiction
+there are not sports ||contradiction
+there is not a field ||contradiction
+the girls are not playing sports ||contradiction
+the sports are not outdoor on the field ||entailment

@@ -1,0 +1,5 @@
+there is not a woman ||contradiction
+there is not bread ||contradiction
+the woman is not elderly ||entailment
+the woman is not oriental ||contradiction
+the woman is not selling bread ||contradiction

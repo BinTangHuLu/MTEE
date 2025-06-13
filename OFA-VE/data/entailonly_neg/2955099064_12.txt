@@ -1,0 +1,4 @@
+There are not people. ||Contradiction
+There is not a ball. ||Contradiction
+The ball is not flying. ||Contradiction
+The people do not attempt to catch the ball. ||Contradiction

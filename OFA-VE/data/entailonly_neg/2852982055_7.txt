@@ -1,0 +1,4 @@
+There is not a child. ||Contradiction
+There are not adults. ||Entailment
+The child is not one. ||Contradiction
+The adults are not two. ||Contradiction

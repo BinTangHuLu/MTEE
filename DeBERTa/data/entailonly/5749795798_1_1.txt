@@ -1,0 +1,5 @@
+There are People. ||entailment
+There is a frisbee. ||entailment
+People play. ||entailment
+The frisbee is outdoors. ||entailment
+People play frisbee. ||entailment

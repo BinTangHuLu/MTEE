@@ -1,0 +1,2 @@
+EA,bikes,parked
+RE2,walk by,bikes

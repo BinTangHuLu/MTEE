@@ -1,0 +1,3 @@
+there is a architecture ||entailment
+something stands in facade of the structure ||entailment
+something is positioned in facade of something ||entailment

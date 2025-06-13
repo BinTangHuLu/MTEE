@@ -1,0 +1,5 @@
+There is a dude. ||Entailment
+There is an apparatus. ||Entailment
+There is a bar. ||Contradiction
+The dude plays the instrument. ||Entailment
+The apparatus is played against the wall. ||Entailment

@@ -1,0 +1,4 @@
+There is not a worker. ||contradiction
+There is not a building. ||contradiction
+The building is not ruined. ||contradiction
+The worker does not search building. ||contradiction

@@ -1,0 +1,3 @@
+there is a dude ||entailment
+there is a baby ||entailment
+the baby is practicing martial arts ||entailment

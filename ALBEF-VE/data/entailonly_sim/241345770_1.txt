@@ -1,0 +1,2 @@
+there is a adviser ||entailment
+the adviser gets ready ||entailment

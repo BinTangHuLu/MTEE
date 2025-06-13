@@ -1,0 +1,3 @@
+there is a person ||entailment
+there is a river ||entailment
+the person is kayaking on the river ||entailment

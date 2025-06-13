@@ -1,0 +1,5 @@
+There is a child. ||entailment
+There are some knickers. ||neutral
+The knickers are blue. ||entailment
+There is a t-blouse. ||entailment
+The child is about to hit a tennis ball. ||entailment

@@ -1,0 +1,4 @@
+there are asians ||entailment
+there are several asians ||entailment
+the asians are dancing ||entailment
+the asians are dancing with asians ||neutral

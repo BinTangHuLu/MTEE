@@ -1,0 +1,4 @@
+There is a group. ||Entailment
+There are some people. ||Entailment
+There are some stairs. ||Entailment
+The people are walking down stairs. ||Entailment

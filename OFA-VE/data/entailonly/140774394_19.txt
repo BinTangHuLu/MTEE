@@ -1,0 +1,2 @@
+There are people. ||Entailment
+There are people outside. ||Entailment

@@ -1,0 +1,4 @@
+There is not a ball. ||contradiction
+The ball is not kicked. ||contradiction
+There are not players. ||contradiction
+The players do not mingle. ||contradiction

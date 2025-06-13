@@ -1,0 +1,4 @@
+there is a female ||entailment
+there is a blouse ||entailment
+the blouse is white ||entailment
+the female has a white shirt ||entailment

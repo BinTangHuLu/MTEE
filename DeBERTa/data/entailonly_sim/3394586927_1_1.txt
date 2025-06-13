@@ -1,0 +1,6 @@
+There is a body. ||entailment
+There is a dominant. ||entailment
+The dominant is dark. ||entailment
+The body is with top. ||entailment
+The body is outside. ||entailment
+The body is doing something active. ||entailment

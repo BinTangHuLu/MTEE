@@ -1,0 +1,4 @@
+there is an entertainer ||entailment
+there is a street ||entailment
+the entertainer is dancing ||entailment
+the entertainer is dancing on the street ||entailment

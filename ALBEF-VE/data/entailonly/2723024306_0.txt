@@ -1,0 +1,7 @@
+there is a man ||entailment
+there is a shirt ||entailment
+there is a sand castle ||entailment
+there is a beach ||entailment
+the shirt is blue ||entailment
+the man is building a sand castle ||entailment
+the sand castle is at the beach ||neutral

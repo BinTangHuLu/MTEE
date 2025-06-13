@@ -1,0 +1,2 @@
+There is a aim. ||Entailment
+The aim is getting shot at. ||Entailment

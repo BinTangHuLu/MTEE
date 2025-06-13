@@ -1,0 +1,6 @@
+there is a dog ||entailment
+there is a piece ||entailment
+there is a tree ||entailment
+the tree is fallen ||entailment
+the dog walks upon the piece ||entailment
+the piece is from the tree ||neutral

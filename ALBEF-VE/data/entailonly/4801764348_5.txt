@@ -1,0 +1,3 @@
+there are asians ||entailment
+there is a bench ||entailment
+the asians are sitting on the bench ||entailment

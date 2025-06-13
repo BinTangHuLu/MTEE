@@ -1,0 +1,6 @@
+there is a dog ||entailment
+there is a ball ||entailment
+there is a seashore ||entailment
+the ball is yellow ||entailment
+the dog is with the ball ||entailment
+the ball is at the seashore ||neutral

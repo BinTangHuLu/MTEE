@@ -1,0 +1,5 @@
+there is a man ||entailment
+there is a bike ||entailment
+there is a park ||entailment
+the man is on the bike ||entailment
+the man is in the park ||neutral

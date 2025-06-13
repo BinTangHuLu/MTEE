@@ -1,0 +1,3 @@
+there are children ||entailment
+the children are playing ||entailment
+the children are playing outdoors ||entailment

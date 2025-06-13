@@ -1,0 +1,9 @@
+There is a man. ||entailment
+There is a bear. ||entailment
+There is a backpack. ||entailment
+There is a tripod. ||entailment
+There is a creek. ||entailment
+The man held the tripod. ||entailment
+The man is with the bear. ||neutral
+The man is with the backpack. ||entailment
+The tripod is by the creek. ||entailment

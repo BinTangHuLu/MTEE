@@ -1,0 +1,11 @@
+There are dude. ||entailment
+There is a musical scene. ||entailment
+There are business. ||entailment
+There is apparatus. ||entailment
+There is a lap. ||entailment
+There are three dude. ||entailment
+The dude are doing the musical set. ||entailment
+The dude are holding instruments. ||entailment
+The musical scene is with wires. ||entailment
+The musical scene is with equipment. ||entailment
+The musical scene is all over the stage. ||entailment

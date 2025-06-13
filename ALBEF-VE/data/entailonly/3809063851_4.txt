@@ -1,0 +1,3 @@
+there is a band ||entailment
+there is a gazebo ||entailment
+the band plays under gazebo ||entailment

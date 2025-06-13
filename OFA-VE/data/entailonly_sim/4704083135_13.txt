@@ -1,0 +1,3 @@
+There is a gentlewoman. ||Entailment
+The gentlewoman is dancing. ||Neutral
+The gentlewoman is dancing. ||Neutral

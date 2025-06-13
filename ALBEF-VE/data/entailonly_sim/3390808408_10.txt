@@ -1,0 +1,2 @@
+there is a soccer athlete ||entailment
+the soccer athlete is kicking the ball ||entailment

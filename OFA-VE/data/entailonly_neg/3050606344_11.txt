@@ -1,0 +1,4 @@
+There is not a man. ||Contradiction
+There is not a kayak. ||Contradiction
+The man is not floating. ||Entailment
+The man is not floating in kayak. ||Entailment

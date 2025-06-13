@@ -1,0 +1,5 @@
+there is not a woman ||contradiction
+the woman is not fashionably dressed ||entailment
+the woman is not young ||entailment
+the woman does not peer at an object ||contradiction
+the object is not in her hand ||neutral

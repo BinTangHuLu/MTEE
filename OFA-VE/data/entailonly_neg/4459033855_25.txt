@@ -1,0 +1,4 @@
+There are not men. ||Entailment
+All men do not wear formal. ||Contradiction
+Men do not wear similar. ||Contradiction
+Men are not dress in wear. ||Entailment

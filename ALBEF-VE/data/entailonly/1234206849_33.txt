@@ -1,0 +1,4 @@
+there is a woman ||entailment
+there is a hat ||entailment
+the hat is floral ||neutral
+the woman is wearing a hat ||entailment

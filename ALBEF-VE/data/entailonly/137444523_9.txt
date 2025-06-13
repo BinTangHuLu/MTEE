@@ -1,0 +1,4 @@
+there is a group ||entailment
+there are people ||entailment
+the people are in a group ||entailment
+the people are waiting for transportation ||entailment

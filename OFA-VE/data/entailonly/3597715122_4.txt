@@ -1,0 +1,4 @@
+There are people. ||Entailment
+There is a store. ||Entailment
+There is ice cream. ||Entailment
+The people are outside the store. ||Entailment

@@ -1,0 +1,8 @@
+There is not a crowd. ||contradiction
+There is not a ground. ||contradiction
+There are not some people. ||contradiction
+There is not a roof. ||contradiction
+The crowd is not on the ground. ||entailment
+The people are not 3. ||contradiction
+The crowd is not watching people. ||contradiction
+The people are not on the edge of the roof. ||contradiction

@@ -1,0 +1,3 @@
+there are clan ||entailment
+there are business ||neutral
+the clan are playing with wires ||contradiction

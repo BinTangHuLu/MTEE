@@ -1,0 +1,5 @@
+there are not kids ||contradiction
+there is not a man ||entailment
+there is not a path ||contradiction
+the kids do not follow the man ||contradiction
+the man is not on the path ||entailment

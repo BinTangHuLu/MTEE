@@ -1,0 +1,4 @@
+There are child. ||entailment
+There is a apartment. ||contradiction
+The child are in place. ||entailment
+The apartment is learning. ||neutral

@@ -1,0 +1,2 @@
+there are sisters ||entailment
+the sisters get each other ||entailment

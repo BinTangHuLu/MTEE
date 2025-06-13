@@ -1,0 +1,5 @@
+There is not a man. ||contradiction
+There are not some shorts. ||contradiction
+The man is not in shorts. ||contradiction
+The man is wearing. ||entailment
+The footwear is wearing. ||contradiction

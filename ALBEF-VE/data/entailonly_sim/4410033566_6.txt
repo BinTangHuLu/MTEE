@@ -1,0 +1,3 @@
+there is a dude ||entailment
+there is a bar ||entailment
+the dude is leaning on the table ||entailment

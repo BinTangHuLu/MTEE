@@ -1,0 +1,2 @@
+There is a bunk. ||Entailment
+The kids are in bunk. ||Neutral

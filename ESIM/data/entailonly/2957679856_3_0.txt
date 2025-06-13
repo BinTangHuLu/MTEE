@@ -1,0 +1,3 @@
+There is a colonel. ||entailment
+There is a microphone. ||entailment
+The colonel speaks into the microphone. ||entailment

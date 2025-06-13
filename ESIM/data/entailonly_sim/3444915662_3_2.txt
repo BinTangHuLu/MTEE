@@ -1,0 +1,5 @@
+There is a child. ||entailment
+There is some debris. ||entailment
+The child is young. ||entailment
+The child is Asian. ||entailment
+The child is outside in rubble. ||entailment

@@ -1,0 +1,3 @@
+there is a airplane ||entailment
+the airplane is colorful ||entailment
+the airplane leaves trail ||entailment

@@ -1,0 +1,4 @@
+there is a dude ||entailment
+there is some eyebrow ||entailment
+the eyebrow is gray ||neutral
+the dude has gray hair ||entailment

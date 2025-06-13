@@ -1,0 +1,3 @@
+there are not men ||contradiction
+there are not two men ||entailment
+the men were not outdoors walking ||contradiction

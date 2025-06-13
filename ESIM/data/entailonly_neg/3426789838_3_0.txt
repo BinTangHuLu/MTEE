@@ -1,0 +1,5 @@
+There is not a child. ||contradiction
+There is not a man. ||contradiction
+There is not a pool. ||contradiction
+The child is not thrown by the man. ||contradiction
+The man is not in the pool. ||contradiction

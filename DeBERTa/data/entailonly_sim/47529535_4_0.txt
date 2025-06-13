@@ -1,0 +1,4 @@
+There is a child. ||entailment
+There is a relative. ||entailment
+The child is giving brother. ||entailment
+The child is giving ride. ||entailment

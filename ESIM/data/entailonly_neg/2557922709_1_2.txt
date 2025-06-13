@@ -1,0 +1,4 @@
+There is not a child. ||contradiction
+The child does not have poor vision. ||entailment
+There are not some objects. ||contradiction
+The child does not hold objects. ||contradiction

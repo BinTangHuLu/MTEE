@@ -1,0 +1,5 @@
+There is a gymnast. ||entailment
+There is a routine. ||entailment
+There are bars. ||entailment
+The gymnast is performing routine. ||neutral
+The routine is on bars. ||entailment

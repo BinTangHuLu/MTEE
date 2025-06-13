@@ -1,0 +1,7 @@
+there is a body ||entailment
+there is a fedora ||contradiction
+there is some blizzard ||neutral
+the fedora is blue ||contradiction
+the body is in the hat ||entailment
+the body goes snowshoeing ||entailment
+blizzardshoeing is in the snow ||entailment

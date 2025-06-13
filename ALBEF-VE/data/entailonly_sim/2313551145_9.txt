@@ -1,0 +1,7 @@
+there is a dude ||entailment
+there are some animal ||entailment
+there is a coca soda building ||entailment
+the dude delivers boxes ||entailment
+the dude carries boxes ||entailment
+the boxes are on animal ||contradiction
+the dude goes to coca cola building ||entailment

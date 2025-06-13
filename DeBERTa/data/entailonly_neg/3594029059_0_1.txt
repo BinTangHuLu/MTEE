@@ -1,0 +1,3 @@
+There is not a bird. ||contradiction
+The bird is not black and white. ||contradiction
+The bird is not flying. ||contradiction

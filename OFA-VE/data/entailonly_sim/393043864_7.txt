@@ -1,0 +1,2 @@
+There are flora. ||Entailment
+The flora are sitting. ||Entailment

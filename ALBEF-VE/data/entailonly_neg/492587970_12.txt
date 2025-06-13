@@ -1,0 +1,4 @@
+there are not men ||contradiction
+there are not women ||entailment
+men do not play with one another ||contradiction
+woman does not watch men ||contradiction

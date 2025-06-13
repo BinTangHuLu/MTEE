@@ -1,0 +1,4 @@
+there is not a man ||contradiction
+there is not a motorcycle ||contradiction
+the motorcycle is not small ||entailment
+the man is not on the motorcycle ||entailment

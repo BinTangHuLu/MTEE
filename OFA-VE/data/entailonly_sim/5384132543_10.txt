@@ -1,0 +1,4 @@
+There is a body. ||Entailment
+There is some drink. ||Contradiction
+The body is diving. ||Entailment
+The body is diving into water. ||Entailment

@@ -1,0 +1,3 @@
+there is a man ||entailment
+there are some instruments ||entailment
+the man is near instruments ||entailment

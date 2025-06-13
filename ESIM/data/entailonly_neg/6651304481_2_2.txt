@@ -1,0 +1,5 @@
+There are not Birds. ||contradiction
+The Birds are not flying. ||contradiction
+There is not a body. ||contradiction
+There is not water. ||contradiction
+The Birds are not above water. ||contradiction

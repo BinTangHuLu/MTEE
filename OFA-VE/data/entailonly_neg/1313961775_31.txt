@@ -1,0 +1,5 @@
+There is not a girl. ||Contradiction
+There is not a jacket. ||Contradiction
+The girl is not little. ||Contradiction
+The girl is not using jacket. ||Entailment
+The jacket is not to stay afloat in the water. ||Contradiction

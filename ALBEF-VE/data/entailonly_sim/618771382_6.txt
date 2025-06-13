@@ -1,0 +1,3 @@
+there are adolescent ||entailment
+there is a banner ||entailment
+the adolescent are near the flag ||entailment

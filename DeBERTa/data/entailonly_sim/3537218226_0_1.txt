@@ -1,0 +1,3 @@
+There is a body. ||entailment
+There is a armor. ||entailment
+The armor is yellow. ||neutral

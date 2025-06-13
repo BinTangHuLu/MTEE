@@ -1,0 +1,9 @@
+There is not a woman. ||contradiction
+The woman is not green. ||contradiction
+There is not a box. ||contradiction
+The woman is not opening the box. ||contradiction
+There is not a man. ||entailment
+The man is not half concealed. ||contradiction
+There is not a device. ||contradiction
+The device is not handheld. ||contradiction
+The man does not manipulate the device. ||contradiction

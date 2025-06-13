@@ -1,0 +1,4 @@
+There is a team. ||entailment
+There is a coach. ||entailment
+The team is female. ||entailment
+The team is listening to the coach. ||entailment

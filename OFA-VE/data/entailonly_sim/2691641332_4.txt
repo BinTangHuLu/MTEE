@@ -1,0 +1,4 @@
+There is a child. ||Entailment
+The child is little. ||Entailment
+The child is pink. ||Neutral
+The child is playing. ||Entailment

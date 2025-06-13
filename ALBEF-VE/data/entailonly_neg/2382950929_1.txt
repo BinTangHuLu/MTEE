@@ -1,0 +1,5 @@
+there are not people ||contradiction
+there is not a river ||contradiction
+there are not rocks ||contradiction
+people are not by the river ||contradiction
+people are not standing on rocks ||contradiction

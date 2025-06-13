@@ -1,0 +1,4 @@
+There are men. ||entailment
+The men are naked. ||entailment
+The men are practicing dance moves. ||entailment
+The men are practicing on street. ||entailment

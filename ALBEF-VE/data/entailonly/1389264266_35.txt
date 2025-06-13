@@ -1,0 +1,3 @@
+there are girls ||entailment
+the girls are young ||neutral
+the girls are wearing all black ||neutral

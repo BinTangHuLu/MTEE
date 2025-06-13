@@ -1,0 +1,4 @@
+there are people ||entailment
+there is a gate ||entailment
+the gate is closed ||neutral
+the people sit on the gate ||contradiction

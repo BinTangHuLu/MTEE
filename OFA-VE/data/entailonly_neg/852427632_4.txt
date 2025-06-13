@@ -1,0 +1,5 @@
+There is not a woman. ||Entailment
+There is not a hat. ||Entailment
+There is not a cowboy. ||Entailment
+There is not a horse. ||Entailment
+The woman is not riding the horse. ||Entailment

@@ -1,0 +1,3 @@
+there is a dog ||entailment
+there is a forest ||entailment
+the dog is walking in the forest ||entailment

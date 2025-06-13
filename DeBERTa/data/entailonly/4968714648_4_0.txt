@@ -1,0 +1,2 @@
+There is a human. ||entailment
+The human is in motion. ||entailment

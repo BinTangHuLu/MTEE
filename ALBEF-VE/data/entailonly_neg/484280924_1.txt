@@ -1,0 +1,5 @@
+there is not a man ||contradiction
+there are not some noodles ||contradiction
+there is not a container ||contradiction
+the man does not put noodles ||contradiction
+the man does not put noodles in a container ||contradiction

@@ -1,0 +1,4 @@
+there are dude ||entailment
+there is a goods ||entailment
+the dude are placed cones ||entailment
+the cones are in goods ||entailment

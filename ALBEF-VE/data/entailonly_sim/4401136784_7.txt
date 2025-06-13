@@ -1,0 +1,6 @@
+there is a circle ||entailment
+there are some meeting ||entailment
+there is a association ||entailment
+there is a drift ||contradiction
+the circle watches as members ||entailment
+the meeting stand next to float ||entailment

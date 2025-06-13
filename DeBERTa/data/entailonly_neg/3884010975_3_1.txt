@@ -1,0 +1,5 @@
+There is not a woman. ||contradiction
+There is not a kitchen. ||contradiction
+The woman is not young. ||contradiction
+The kitchen is not very good. ||contradiction
+The woman does not work in the kitchen. ||contradiction

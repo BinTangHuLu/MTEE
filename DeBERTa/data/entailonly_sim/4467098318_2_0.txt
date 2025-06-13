@@ -1,0 +1,2 @@
+There is a body. ||neutral
+The body is taking a photo. ||entailment

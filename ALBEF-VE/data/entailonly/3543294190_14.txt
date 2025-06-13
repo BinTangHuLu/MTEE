@@ -1,0 +1,5 @@
+there is a man ||entailment
+there is a bike ||entailment
+the bike is red ||neutral
+the man is doing a wheelie ||neutral
+the man is doing a wheelie on a bike ||entailment

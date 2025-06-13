@@ -1,0 +1,4 @@
+there is not a musician ||contradiction
+there is not an audience ||contradiction
+the musician is not playing ||contradiction
+the musician is not playing for the audience ||entailment

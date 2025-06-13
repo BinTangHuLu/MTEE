@@ -1,0 +1,2 @@
+there is not a skier ||contradiction
+the skier is not performing flip ||contradiction

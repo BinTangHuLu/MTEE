@@ -1,0 +1,5 @@
+There are not children. ||Contradiction
+There is not a face. ||Contradiction
+The children are not two. ||Entailment
+The face is not paint. ||Contradiction
+The children does not have face. ||Contradiction

@@ -1,0 +1,5 @@
+there are not girls ||contradiction
+the girls are not different ||entailment
+there are not outfits ||contradiction
+the outfits are not different ||entailment
+the girls are not facing each other ||entailment

@@ -1,0 +1,3 @@
+there is a airplane ||entailment
+there is some atmosphere ||entailment
+the airplane is in air ||entailment

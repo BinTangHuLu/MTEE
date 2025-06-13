@@ -1,0 +1,6 @@
+there is not a car ||contradiction
+there is not a man ||contradiction
+there is not a field ||contradiction
+the car is not blue ||entailment
+the car is not approaching the man ||entailment
+the man is not standing in the field ||entailment

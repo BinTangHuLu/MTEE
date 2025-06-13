@@ -1,0 +1,3 @@
+EA,people,Two
+E1RE2,people,with,advertising signs
+E1RE2,people,stand on,median

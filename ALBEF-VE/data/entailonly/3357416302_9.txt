@@ -1,0 +1,5 @@
+there is a snowboarder ||entailment
+there is a hill ||entailment
+the snowboarder is clothed in red ||entailment
+the hill is snowy ||entailment
+the snowboarder is leaping from the hill ||contradiction

@@ -1,0 +1,5 @@
+there is a person ||entailment
+there is a car ||entailment
+there is a street ||entailment
+the person goes by the car ||entailment
+the car is next to the street ||entailment

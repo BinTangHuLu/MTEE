@@ -1,0 +1,6 @@
+There is a dude. ||entailment
+There is a basement. ||neutral
+There are some image. ||entailment
+The dude is sitting. ||entailment
+The dude is on the floor. ||entailment
+The dude is around photographs. ||entailment

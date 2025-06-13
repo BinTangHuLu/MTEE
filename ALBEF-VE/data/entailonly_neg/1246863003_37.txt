@@ -1,0 +1,2 @@
+there is not a restaurant ||contradiction
+the restaurant is not getting ready to open ||contradiction

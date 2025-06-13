@@ -1,0 +1,9 @@
+there is not an african american ||contradiction
+there is not a top ||contradiction
+the top is not red ||contradiction
+there is not a skirt ||contradiction
+the skirt is not white and brown ||entailment
+there is not a man ||entailment
+there is not a shirt ||entailment
+the shirt is not blue ||entailment
+the african american does not walk in front of the man ||contradiction

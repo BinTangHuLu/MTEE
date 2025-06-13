@@ -1,0 +1,4 @@
+There is not a woman. ||Contradiction
+There is not gymnastics. ||Contradiction
+The woman is not doing gymnastics. ||Contradiction
+The woman is not doing gymnastics. ||Contradiction

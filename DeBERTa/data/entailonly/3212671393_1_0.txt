@@ -1,0 +1,5 @@
+There is a man. ||entailment
+There is a house. ||entailment
+The man is single. ||entailment
+The house is his. ||neutral
+The man was working on the house. ||entailment

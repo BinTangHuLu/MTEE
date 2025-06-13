@@ -1,0 +1,2 @@
+There are band. ||neutral
+The band are on scaffolding. ||contradiction

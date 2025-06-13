@@ -1,0 +1,2 @@
+There are not kids. ||Contradiction
+The kids are not upside down. ||Entailment

@@ -1,0 +1,5 @@
+There is a firefighter. ||entailment
+There is a hose. ||entailment
+The firefighter is holding. ||entailment
+The hose is water coming out. ||entailment
+The firefighter is holding hose. ||entailment

@@ -1,0 +1,4 @@
+there are not dancers ||contradiction
+there is not clothing ||contradiction
+the clothing is not bright ||contradiction
+the dancers were not clothed in bright clothing ||contradiction

@@ -1,0 +1,3 @@
+there is a body ||entailment
+there is some cookery ||entailment
+the body is cooking ||neutral

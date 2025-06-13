@@ -1,0 +1,4 @@
+there is a association ||entailment
+there is a chase ||entailment
+the chase is outdoors ||entailment
+the cyclists prepare for the chase ||neutral

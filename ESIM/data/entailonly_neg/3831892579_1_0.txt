@@ -1,0 +1,5 @@
+There is not a chef. ||contradiction
+There is not a fish. ||contradiction
+There is not a knife. ||contradiction
+The chef is not dicing fish. ||contradiction
+The chef is not with knife. ||contradiction

@@ -1,0 +1,3 @@
+there is a guy ||entailment
+there are some things ||entailment
+the guy looks at things ||entailment

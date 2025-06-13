@@ -1,0 +1,3 @@
+there is a girl ||entailment
+the girl is fishing ||entailment
+the girl is fishing ||entailment

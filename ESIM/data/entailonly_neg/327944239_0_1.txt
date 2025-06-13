@@ -1,0 +1,4 @@
+There is not a man. ||entailment
+The man is not without a shirt. ||entailment
+There is not water. ||contradiction
+The man is not on water. ||contradiction

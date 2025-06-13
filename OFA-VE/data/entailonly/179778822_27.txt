@@ -1,0 +1,4 @@
+There is a girl. ||Entailment
+There is a mirror. ||Entailment
+The girl is little. ||Entailment
+The girl looks at mirror. ||Entailment

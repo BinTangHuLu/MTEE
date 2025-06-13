@@ -1,0 +1,5 @@
+There are friends. ||Entailment
+There is a bicycle. ||Entailment
+There is a ride. ||Entailment
+The friends go for the bicycle. ||Entailment
+The bicycle ride. ||Entailment

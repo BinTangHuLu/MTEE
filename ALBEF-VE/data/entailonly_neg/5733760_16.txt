@@ -1,0 +1,6 @@
+there is not a man ||contradiction
+there is not a shirt ||contradiction
+there is not a glass ||contradiction
+there is not a microphone ||contradiction
+the shirt is not wearing ||contradiction
+the man does not speak through microphone ||contradiction

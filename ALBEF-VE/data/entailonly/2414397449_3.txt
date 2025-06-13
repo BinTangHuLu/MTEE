@@ -1,0 +1,5 @@
+there is a dog ||entailment
+there is a dog ||entailment
+the dog is large ||neutral
+the dog is small ||neutral
+the dog is beneath the dog ||entailment

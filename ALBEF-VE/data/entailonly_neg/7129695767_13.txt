@@ -1,0 +1,3 @@
+there is not outdoors ||contradiction
+there is not climber ||contradiction
+the outdoors does not challenge climber ||contradiction

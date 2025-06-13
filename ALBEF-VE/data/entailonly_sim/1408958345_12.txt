@@ -1,0 +1,5 @@
+there is a child ||entailment
+there is a frame ||entailment
+there is drink ||entailment
+the child runs by the body ||entailment
+the frame of water is by water ||entailment

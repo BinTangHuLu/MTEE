@@ -1,0 +1,8 @@
+there is a gentlewoman ||entailment
+there is a dominant ||entailment
+there is a camcorder ||neutral
+there is a circle ||entailment
+the dominant is blue ||entailment
+the gentlewoman is in top ||entailment
+the gentlewoman is facing away from camera ||neutral
+the circle is in distance ||entailment

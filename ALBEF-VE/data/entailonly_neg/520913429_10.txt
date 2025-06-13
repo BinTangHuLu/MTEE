@@ -1,0 +1,5 @@
+there is not a man ||contradiction
+there is not a blower ||contradiction
+there is not a street ||contradiction
+the man is not using the blower ||contradiction
+the blower is not used to clear the street ||contradiction

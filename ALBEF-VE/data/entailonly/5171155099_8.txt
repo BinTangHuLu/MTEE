@@ -1,0 +1,4 @@
+there is a horse ||entailment
+there is a street ||entailment
+the horse is being ridden ||entailment
+the horse is being ridden through the street ||entailment

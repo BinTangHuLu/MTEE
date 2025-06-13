@@ -1,0 +1,4 @@
+there are dude ||entailment
+there are apparel ||entailment
+the apparel are blue ||contradiction
+dude are wearing suits ||entailment

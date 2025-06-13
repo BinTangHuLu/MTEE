@@ -1,0 +1,5 @@
+there is not a woman ||contradiction
+there is not a boy ||contradiction
+there are not cookies ||contradiction
+the woman is not holding cookies ||contradiction
+the boy is not holding cookies ||contradiction

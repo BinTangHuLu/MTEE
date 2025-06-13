@@ -1,0 +1,5 @@
+There are female. ||entailment
+There is avenue. ||entailment
+The female are Two. ||entailment
+The female look like Police. ||entailment
+The Police are standing in avenue. ||contradiction

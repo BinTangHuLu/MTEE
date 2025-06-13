@@ -1,0 +1,6 @@
+There is a man. ||Contradiction
+There is a woman. ||Entailment
+There is a train. ||Entailment
+The man and woman are on the train. ||Entailment
+The man is on the train. ||Neutral
+The woman is on the train. ||Entailment

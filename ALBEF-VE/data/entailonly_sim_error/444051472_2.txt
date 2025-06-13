@@ -1,0 +1,3 @@
+A,outdoor
+R,on
+R,reads

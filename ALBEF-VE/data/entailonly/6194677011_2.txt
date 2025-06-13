@@ -1,0 +1,3 @@
+there is a talks ||entailment
+there is a patient ||entailment
+the talks talks with patient ||contradiction

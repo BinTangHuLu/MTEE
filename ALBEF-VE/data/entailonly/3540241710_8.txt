@@ -1,0 +1,5 @@
+there is a skateboarder ||entailment
+there is a skateboard ||entailment
+the skateboarder is riding ||entailment
+the skateboard is high in the air ||entailment
+the skateboarder is riding the skateboard ||entailment

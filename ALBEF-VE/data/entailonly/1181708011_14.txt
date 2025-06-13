@@ -1,0 +1,4 @@
+there is a person ||entailment
+there is a saber ||entailment
+the saber is light ||neutral
+the person is using saber ||contradiction

@@ -1,0 +1,5 @@
+There is a dude. ||entailment
+There is a rickshaw. ||neutral
+There is a artery. ||entailment
+The dude is pushing the cart. ||entailment
+The rickshaw is down the road. ||contradiction

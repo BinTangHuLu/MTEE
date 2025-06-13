@@ -1,0 +1,3 @@
+there are artillery ||entailment
+there are battery ||entailment
+the artillery carry weapons ||entailment

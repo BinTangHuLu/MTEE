@@ -1,0 +1,5 @@
+there is not a man ||contradiction
+there is not a flag ||contradiction
+the shirt is not without ||entailment
+the man is not waving ||contradiction
+the man is not waving the flag ||contradiction

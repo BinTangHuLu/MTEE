@@ -1,0 +1,4 @@
+there is a man ||entailment
+there are some objects ||entailment
+the man carries objects ||entailment
+the objects are in arms ||neutral

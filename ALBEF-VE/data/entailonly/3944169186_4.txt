@@ -1,0 +1,5 @@
+there are girls ||entailment
+there are sports ||entailment
+there is attire ||entailment
+the attire is basketball ||entailment
+the girls are playing sports ||entailment

@@ -1,0 +1,4 @@
+There is a performance. ||Entailment
+There is some music. ||Entailment
+The performance is underway. ||Entailment
+The performance is underway by music. ||Entailment

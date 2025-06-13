@@ -1,0 +1,3 @@
+there are not people ||contradiction
+there are not rafts ||contradiction
+the people do not stand on rafts ||contradiction

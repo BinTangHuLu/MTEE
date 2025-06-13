@@ -1,0 +1,2 @@
+They are not looking up. ||Entailment
+We are not wearing sunglasses. ||Contradiction

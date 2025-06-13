@@ -1,0 +1,5 @@
+There is a camera. ||entailment
+There is a track. ||entailment
+There is a girl. ||entailment
+The camera is being lowered onto the track. ||entailment
+The girl is in black pants. ||entailment

@@ -1,0 +1,5 @@
+there are friends ||entailment
+there is a gathering ||entailment
+there is a bonfire ||entailment
+the friends are having a gathering ||entailment
+the gathering is near bonfire ||entailment

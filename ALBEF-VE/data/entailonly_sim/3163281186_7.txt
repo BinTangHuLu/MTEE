@@ -1,0 +1,3 @@
+there is an boar ||contradiction
+the boar is petting ||contradiction
+the boar is being petted ||contradiction

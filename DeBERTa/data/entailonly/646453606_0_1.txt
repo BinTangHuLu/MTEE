@@ -1,0 +1,4 @@
+There are girls. ||entailment
+There is snow. ||entailment
+The girls are playing. ||entailment
+The girls are having a fight. ||entailment

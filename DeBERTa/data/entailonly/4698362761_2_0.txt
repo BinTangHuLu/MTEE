@@ -1,0 +1,4 @@
+There is a group. ||entailment
+There are some people. ||entailment
+There is a parade. ||entailment
+The group marches in the parade. ||entailment

@@ -1,0 +1,3 @@
+There are teams. ||entailment
+There are two teams. ||entailment
+The teams are playing sport. ||entailment

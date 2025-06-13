@@ -1,0 +1,3 @@
+There are boys. ||Entailment
+There is a lake. ||Entailment
+The boys are playing around the lake. ||Entailment

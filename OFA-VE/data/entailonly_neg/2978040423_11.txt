@@ -1,0 +1,6 @@
+There is not a woman. ||Entailment
+There is not a cart. ||Entailment
+There is not a vendor. ||Contradiction
+There are not drinks. ||Contradiction
+The woman is not near the cart. ||Contradiction
+The cart is not with drinks. ||Entailment

@@ -1,0 +1,5 @@
+there are dude ||entailment
+there is a extent ||entailment
+the dude are on the ladder ||entailment
+there are two dude ||entailment
+the dude are working together on the ladder ||neutral

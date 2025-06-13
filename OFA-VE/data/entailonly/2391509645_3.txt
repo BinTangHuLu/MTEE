@@ -1,0 +1,5 @@
+There is a person. ||Entailment
+There is a cow. ||Entailment
+The person is outdoors. ||Entailment
+The cow is outdoors. ||Entailment
+The person and cow are outdoors. ||Entailment

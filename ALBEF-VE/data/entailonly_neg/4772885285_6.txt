@@ -1,0 +1,5 @@
+there is not a lady ||contradiction
+there is not a bag ||contradiction
+the bag is not large black ||entailment
+the lady is not with the bag ||contradiction
+the lady is not walking in the rain ||contradiction

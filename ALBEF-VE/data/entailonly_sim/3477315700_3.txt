@@ -1,0 +1,7 @@
+there is a baby ||entailment
+there is a bench ||neutral
+there is a forest ||neutral
+the baby is young ||neutral
+the baby jumps in the seat ||contradiction
+the bench is in front of the tree ||contradiction
+the forest is under the sky ||entailment

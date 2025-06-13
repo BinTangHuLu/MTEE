@@ -1,0 +1,3 @@
+There is not a girl. ||contradiction
+There is not a vehicle. ||contradiction
+The girl is not inside the vehicle. ||contradiction

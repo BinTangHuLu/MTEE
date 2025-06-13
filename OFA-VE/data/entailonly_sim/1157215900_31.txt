@@ -1,0 +1,3 @@
+There is a body. ||Contradiction
+There is crop. ||Entailment
+The body is standing near produce. ||Entailment

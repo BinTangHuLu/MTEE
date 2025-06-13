@@ -1,0 +1,7 @@
+there are not boys ||contradiction
+there is not sand ||contradiction
+there is not a shovel ||contradiction
+the boys are not little ||contradiction
+the shovel is not yellow plastic ||neutral
+the boys are not playing in sand ||contradiction
+the boys are not playing with a shovel ||contradiction

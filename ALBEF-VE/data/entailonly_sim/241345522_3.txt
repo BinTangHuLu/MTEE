@@ -1,0 +1,5 @@
+there is a body ||entailment
+there is a business ||neutral
+the body is playing sports ||entailment
+the body is playing sports ||entailment
+the body is playing outdoors ||entailment

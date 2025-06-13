@@ -1,0 +1,5 @@
+There is not a man. ||contradiction
+The man does not have long hair. ||contradiction
+The man is acting like henot . ||neutral
+The man is not on stage. ||entailment
+The man is not talking into a microphone. ||contradiction

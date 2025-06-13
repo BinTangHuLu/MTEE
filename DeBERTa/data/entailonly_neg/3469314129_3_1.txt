@@ -1,0 +1,3 @@
+There are not men. ||contradiction
+There is not a garden. ||contradiction
+The men are not tending to the garden. ||contradiction

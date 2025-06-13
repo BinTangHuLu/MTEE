@@ -1,0 +1,5 @@
+there is not a researcher ||contradiction
+there are not some tools ||contradiction
+the tools are not proper ||contradiction
+the researcher does not have tools ||contradiction
+the tools are not for analysis work ||contradiction

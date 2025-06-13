@@ -1,0 +1,3 @@
+There is a field. ||entailment
+There is a parking lot. ||entailment
+The field is with parking lot. ||entailment

@@ -1,0 +1,5 @@
+There is a child. ||entailment
+The child is orange. ||neutral
+There is a pedal. ||entailment
+The pedal is dirt. ||entailment
+The child rides the bike. ||entailment

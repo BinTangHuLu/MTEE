@@ -1,0 +1,3 @@
+There are not People. ||contradiction
+There is not a station. ||contradiction
+People do not wait at station. ||contradiction

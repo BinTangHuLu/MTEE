@@ -1,0 +1,3 @@
+There is Hiking. ||entailment
+The terrain is rough. ||entailment
+The Hiking is along rough terrain. ||entailment

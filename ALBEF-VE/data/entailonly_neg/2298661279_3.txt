@@ -1,0 +1,3 @@
+there is not a child ||contradiction
+there is not some equipment ||contradiction
+the child is not on equipment ||contradiction

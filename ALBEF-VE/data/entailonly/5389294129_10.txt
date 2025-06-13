@@ -1,0 +1,4 @@
+there are men ||entailment
+there are flags ||entailment
+the flags are proudly ||neutral
+the men are waving flags ||entailment

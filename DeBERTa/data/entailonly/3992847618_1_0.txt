@@ -1,0 +1,7 @@
+There is a male. ||entailment
+There are some clothes. ||entailment
+There is a street. ||entailment
+The male is outside. ||entailment
+The male is walking. ||entailment
+The male has clothes. ||entailment
+The male is walking on the street. ||entailment

@@ -1,0 +1,4 @@
+there is not a man ||contradiction
+there is not a corner ||contradiction
+there is not a street ||contradiction
+the man is not at the corner ||contradiction

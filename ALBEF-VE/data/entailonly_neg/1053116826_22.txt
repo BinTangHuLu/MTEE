@@ -1,0 +1,5 @@
+there are not children ||contradiction
+there is not a company ||contradiction
+there is not grass ||contradiction
+the children are not enjoying company ||contradiction
+the children are not hanging out on grass ||contradiction

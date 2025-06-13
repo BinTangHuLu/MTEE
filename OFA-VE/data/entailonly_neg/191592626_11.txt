@@ -1,0 +1,4 @@
+There is not a mountain climber. ||Contradiction
+There is not a top. ||Entailment
+There is not a mountain. ||Contradiction
+The mountain climber did not reach the top. ||Neutral

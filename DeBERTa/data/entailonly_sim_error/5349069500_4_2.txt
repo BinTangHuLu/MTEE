@@ -1,0 +1,2 @@
+E1RE2,basket weaver,teaching,class
+E1RE2,class,at,fair

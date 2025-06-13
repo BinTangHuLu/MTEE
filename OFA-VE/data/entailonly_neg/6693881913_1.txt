@@ -1,0 +1,3 @@
+There are not players. ||Contradiction
+There is not hockey. ||Contradiction
+The players do not fight. ||Contradiction

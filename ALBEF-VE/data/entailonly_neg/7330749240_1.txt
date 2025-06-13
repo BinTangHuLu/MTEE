@@ -1,0 +1,2 @@
+there are not cars ||contradiction
+there are not some cars outside ||contradiction

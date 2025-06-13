@@ -1,0 +1,3 @@
+there are community ||entailment
+there is a architecture ||entailment
+the community are in front of the building ||entailment

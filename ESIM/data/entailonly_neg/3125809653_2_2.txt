@@ -1,0 +1,3 @@
+There is not a kid. ||contradiction
+There is not a toy. ||contradiction
+The kid is not interested in the toy. ||contradiction

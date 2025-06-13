@@ -1,0 +1,4 @@
+there are women ||entailment
+there are saris ||entailment
+the saris are colorful ||entailment
+women are wearing saris ||entailment

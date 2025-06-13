@@ -1,0 +1,5 @@
+there is a association ||entailment
+there are dude ||entailment
+there are female ||entailment
+the dude are in uniform ||neutral
+the female are in uniform ||entailment

@@ -1,0 +1,2 @@
+there are not vegetables ||contradiction
+the vegetables are not sitting ||entailment

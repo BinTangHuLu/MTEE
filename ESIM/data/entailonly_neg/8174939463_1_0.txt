@@ -1,0 +1,5 @@
+There is not a girl. ||contradiction
+There is not a phone. ||contradiction
+There is not another girl. ||contradiction
+The girl is not browsing the phone. ||contradiction
+The another girl does not watch the girl. ||neutral

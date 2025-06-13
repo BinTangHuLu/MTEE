@@ -1,0 +1,4 @@
+there are not people ||contradiction
+there are not jackets ||contradiction
+the jackets are not black ||contradiction
+the people are not wearing jackets ||contradiction

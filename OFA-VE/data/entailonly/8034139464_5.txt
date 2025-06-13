@@ -1,0 +1,3 @@
+There is a ball. ||Entailment
+There is a golf ball. ||Entailment
+The ball is green. ||Neutral

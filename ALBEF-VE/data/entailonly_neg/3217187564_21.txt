@@ -1,0 +1,6 @@
+there is not a greyhound ||contradiction
+there are not some dogs ||contradiction
+there are not some muzzles ||contradiction
+there is not a track ||contradiction
+the dogs do not wear muzzles ||contradiction
+the muzzles are not on the track ||contradiction

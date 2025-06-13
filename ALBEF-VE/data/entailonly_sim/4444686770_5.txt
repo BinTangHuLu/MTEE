@@ -1,0 +1,3 @@
+there is a barge ||entailment
+there are some community ||entailment
+the barge has people ||neutral

@@ -1,0 +1,4 @@
+There is a person. ||Entailment
+There is some snow. ||Entailment
+The person is skiing. ||Entailment
+The person is on snow. ||Entailment

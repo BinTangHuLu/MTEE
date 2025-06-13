@@ -1,0 +1,5 @@
+There is not a painter. ||contradiction
+There is not a painting. ||contradiction
+The painter is not doing. ||contradiction
+The painting is not watercolor. ||contradiction
+The painter is not doing the painting. ||contradiction

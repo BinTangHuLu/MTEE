@@ -1,0 +1,2 @@
+there is a barge ||entailment
+the barge passes by ||entailment

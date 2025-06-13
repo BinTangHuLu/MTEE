@@ -1,0 +1,3 @@
+there are community ||entailment
+the community are crowded ||entailment
+the community are crowded together ||entailment

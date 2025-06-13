@@ -1,0 +1,2 @@
+There are some auto. ||entailment
+The cyclist is traveling faster than auto. ||entailment

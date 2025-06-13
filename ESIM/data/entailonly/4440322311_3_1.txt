@@ -1,0 +1,2 @@
+There is a Women. ||entailment
+The Women walks through rain. ||entailment

@@ -1,0 +1,5 @@
+there are women ||entailment
+the women are elegant ||neutral
+there is clothing ||entailment
+the women are in clothing ||entailment
+the women are dancing together ||entailment

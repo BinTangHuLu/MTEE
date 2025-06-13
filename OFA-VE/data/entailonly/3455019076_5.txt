@@ -1,0 +1,4 @@
+There is a woman. ||Entailment
+There is some hair. ||Entailment
+The hair is long. ||Neutral
+The woman has long hair. ||Entailment

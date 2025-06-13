@@ -1,0 +1,4 @@
+There are not girls. ||Contradiction
+The girls are not uniformed. ||Entailment
+There is not a sport. ||Contradiction
+The girls do not play a sport. ||Contradiction

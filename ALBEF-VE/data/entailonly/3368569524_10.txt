@@ -1,0 +1,6 @@
+there is a girl ||entailment
+there is a basketball ||entailment
+the girl is attempting to shoot ||entailment
+the girl defends ||entailment
+the girl is attempting to shoot basketball ||entailment
+the girl defends the girl ||neutral

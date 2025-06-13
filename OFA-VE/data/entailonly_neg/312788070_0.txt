@@ -1,0 +1,4 @@
+There are not players. ||Entailment
+There is not a sport. ||Contradiction
+The players are not enjoying playing. ||Neutral
+The players are not enjoying the sport. ||Neutral

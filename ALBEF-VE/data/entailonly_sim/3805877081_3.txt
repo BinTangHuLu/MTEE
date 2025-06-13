@@ -1,0 +1,10 @@
+there is an article ||entailment
+there is a architecture ||entailment
+there is a cartoon ||neutral
+there are enough ||entailment
+there are crisis ||entailment
+there is a bar ||entailment
+the article stands in front of the structure ||entailment
+the cartoon is of mountains ||contradiction
+the cartoon is of clouds ||contradiction
+the cartoon is against the wall ||contradiction

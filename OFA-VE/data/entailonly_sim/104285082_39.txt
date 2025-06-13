@@ -1,0 +1,5 @@
+There is a dude. ||Entailment
+There is an article. ||Entailment
+There are band. ||Entailment
+The dude is holding the object. ||Entailment
+The article is in hands. ||Contradiction

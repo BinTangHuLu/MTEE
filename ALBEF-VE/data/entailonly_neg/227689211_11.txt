@@ -1,0 +1,8 @@
+there is not an officer ||contradiction
+there is not a shirt ||contradiction
+there is not a hat ||contradiction
+the shirt is not bright ||contradiction
+the hat is not black ||entailment
+the officer is not dressed in a shirt ||contradiction
+the officer is not dressed in a hat ||contradiction
+the officer does not wet his lips ||entailment

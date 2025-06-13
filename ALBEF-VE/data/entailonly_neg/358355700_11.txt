@@ -1,0 +1,6 @@
+there are not adults ||entailment
+there are not children ||contradiction
+there is not a castle ||contradiction
+the castle does not have a balloon ||contradiction
+adults are not watching children ||contradiction
+children are not playing in the castle ||contradiction

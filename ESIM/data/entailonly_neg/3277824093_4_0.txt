@@ -1,0 +1,5 @@
+There is not a guy. ||contradiction
+There is not a rock. ||contradiction
+There is not a skateboard. ||contradiction
+The guy is not on the rock. ||contradiction
+The rock is not with the skateboard. ||contradiction

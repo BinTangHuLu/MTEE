@@ -1,0 +1,4 @@
+There are community. ||Contradiction
+There is a agreeable. ||Contradiction
+The agreeable is a ball. ||Entailment
+community are playing the game. ||Neutral

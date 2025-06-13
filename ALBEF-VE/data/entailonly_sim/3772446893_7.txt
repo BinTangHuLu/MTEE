@@ -1,0 +1,6 @@
+there is a child ||entailment
+there is a apparel ||entailment
+there is some appliance ||entailment
+the apparel is in ||neutral
+the child is sitting ||entailment
+the child is on furniture ||entailment

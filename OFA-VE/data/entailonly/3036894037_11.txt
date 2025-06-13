@@ -1,0 +1,3 @@
+There are officers. ||Entailment
+There is duty. ||Entailment
+The officers are on duty. ||Entailment

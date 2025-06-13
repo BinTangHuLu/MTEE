@@ -1,0 +1,3 @@
+there are not men ||contradiction
+there are not cars ||contradiction
+men are not near cars ||contradiction

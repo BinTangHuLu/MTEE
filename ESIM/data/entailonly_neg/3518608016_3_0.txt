@@ -1,0 +1,4 @@
+There is not a person. ||contradiction
+There is not an animal. ||contradiction
+The person is not interacting with the animal. ||contradiction
+The interaction is not out of doors. ||contradiction

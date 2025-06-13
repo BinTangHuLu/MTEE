@@ -1,0 +1,4 @@
+There is a boy. ||entailment
+The boy is outside. ||entailment
+The boy is playing. ||entailment
+The boy is playing outside. ||entailment

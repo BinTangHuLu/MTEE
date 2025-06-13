@@ -1,0 +1,3 @@
+there is a female ||entailment
+there is a blaze ||entailment
+the female is by fire ||entailment

@@ -1,0 +1,4 @@
+There are not girls. ||Contradiction
+There are not youth. ||Contradiction
+The girls are not playing. ||Contradiction
+The girls are not playing basket ball. ||Neutral

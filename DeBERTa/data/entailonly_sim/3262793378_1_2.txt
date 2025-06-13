@@ -1,0 +1,6 @@
+There is a body. ||entailment
+There is a bike. ||entailment
+There is a pedal. ||entailment
+There is a cable. ||neutral
+The body is on the bicycle. ||entailment
+The pedal is situated on the wire. ||neutral

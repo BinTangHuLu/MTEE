@@ -1,0 +1,4 @@
+there are girls ||entailment
+there is clothing ||entailment
+the clothing is goth ||neutral
+the girls are in clothing ||entailment

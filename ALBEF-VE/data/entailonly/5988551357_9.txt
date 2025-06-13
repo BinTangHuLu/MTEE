@@ -1,0 +1,3 @@
+there is a clown ||entailment
+the clown is performing physical activity ||entailment
+the clown is performing physical activity ||entailment

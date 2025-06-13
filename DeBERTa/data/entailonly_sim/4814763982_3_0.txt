@@ -1,0 +1,5 @@
+There is a dude. ||entailment
+There are some stuff. ||entailment
+There is a cudgel. ||entailment
+The dude is doing things. ||entailment
+The dude is with a baton. ||entailment

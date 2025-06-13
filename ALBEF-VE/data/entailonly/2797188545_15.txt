@@ -1,0 +1,9 @@
+there is a canoe ||entailment
+there are some passengers ||entailment
+there is a river ||entailment
+there are some trees ||entailment
+the canoe is red ||neutral
+the river is choppy ||entailment
+the canoe is carrying passengers ||neutral
+the canoe wound its way down the river ||entailment
+the river is with trees ||entailment

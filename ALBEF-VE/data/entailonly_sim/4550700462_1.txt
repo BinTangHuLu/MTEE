@@ -1,0 +1,6 @@
+there is a banner ||entailment
+there is a child ||entailment
+there is a pocket size ||neutral
+the banner is mexican ||contradiction
+the banner is tucked in the pocket ||contradiction
+the child pocket ||entailment

@@ -1,0 +1,3 @@
+there are not teenagers ||contradiction
+the teenagers are not black and white ||entailment
+the teenagers are not performing ||contradiction

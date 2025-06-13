@@ -1,0 +1,3 @@
+there are people ||entailment
+the people are sitting ||entailment
+the people are waiting ||entailment

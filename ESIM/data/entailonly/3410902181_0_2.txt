@@ -1,0 +1,4 @@
+There is a girl. ||entailment
+There is a stage. ||entailment
+The girl is entertaining. ||neutral
+The girl is on stage. ||entailment

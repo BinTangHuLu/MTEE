@@ -1,0 +1,4 @@
+there are cameras ||entailment
+there is a barricade ||entailment
+the cameras are hidden ||contradiction
+the cameras are behind the barricade ||entailment

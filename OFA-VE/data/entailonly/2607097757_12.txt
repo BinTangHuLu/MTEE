@@ -1,0 +1,4 @@
+There is a worker. ||Entailment
+There are some eyes. ||Entailment
+The eyes are open. ||Entailment
+The worker has eyes. ||Entailment

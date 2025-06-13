@@ -1,0 +1,2 @@
+there is a group ||entailment
+there are people ||entailment

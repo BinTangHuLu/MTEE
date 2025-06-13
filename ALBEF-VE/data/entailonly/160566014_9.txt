@@ -1,0 +1,6 @@
+there is a couple ||entailment
+there is a view ||entailment
+there is a car ||entailment
+the car is parked ||neutral
+the couple is enjoying the view ||neutral
+the view is from the car ||entailment

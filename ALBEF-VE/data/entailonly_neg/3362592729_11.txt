@@ -1,0 +1,3 @@
+there are not dancers ||contradiction
+there are not battons ||contradiction
+the dancers are not holding battons ||contradiction

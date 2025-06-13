@@ -1,0 +1,4 @@
+There are women. ||entailment
+There is a motorcycle. ||entailment
+The women are talking. ||entailment
+The woman is on the motorcycle. ||entailment

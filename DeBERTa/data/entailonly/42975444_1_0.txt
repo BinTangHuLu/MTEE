@@ -1,0 +1,4 @@
+There is a woman. ||entailment
+There are some shorts. ||entailment
+The shorts are wearing. ||neutral
+The woman is wearing shorts. ||entailment

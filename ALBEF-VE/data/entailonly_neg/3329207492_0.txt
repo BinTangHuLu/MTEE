@@ -1,0 +1,3 @@
+there are not children ||contradiction
+there are not stones ||contradiction
+the children are not throwing stones ||contradiction

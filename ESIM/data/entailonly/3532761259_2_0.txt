@@ -1,0 +1,5 @@
+There are women. ||entailment
+There is a camera. ||entailment
+The women are Smiling. ||entailment
+The women wore red. ||entailment
+The women are Smiling at the camera. ||entailment

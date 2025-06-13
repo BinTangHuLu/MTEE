@@ -1,0 +1,3 @@
+there is a pup ||entailment
+there is a forest trunk ||entailment
+the pup walks on the tree trunk ||entailment

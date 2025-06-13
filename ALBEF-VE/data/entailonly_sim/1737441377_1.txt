@@ -1,0 +1,5 @@
+there are community ||entailment
+there is a rickshaw ||entailment
+there is crop ||entailment
+the community are inspecting the cart ||neutral
+the rickshaw is full of produce ||entailment

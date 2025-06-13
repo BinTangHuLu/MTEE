@@ -1,0 +1,4 @@
+there is not a fellow ||contradiction
+there is not a sidewalk ||contradiction
+the fellow is not older ||entailment
+the fellow does not walk on sidewalk ||contradiction

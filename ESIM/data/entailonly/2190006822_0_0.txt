@@ -1,0 +1,4 @@
+There are boats. ||entailment
+There is a rock. ||entailment
+The rock is shallow. ||entailment
+The boats jumped up from the rock. ||entailment

@@ -1,0 +1,4 @@
+There is a batter. ||neutral
+There is a pitch. ||entailment
+The batter is red shirted. ||entailment
+The batter hits the pitch. ||entailment

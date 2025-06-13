@@ -1,0 +1,8 @@
+there is a female ||entailment
+there is a blouse ||entailment
+there are knickers ||entailment
+there is a child ||entailment
+the blouse is yellow ||entailment
+the knickers are red ||neutral
+the child is young ||entailment
+the female is standing next to the girl ||entailment

@@ -1,0 +1,5 @@
+there is someone ||entailment
+there is a flip ||entailment
+there is water ||entailment
+someone does flip ||entailment
+the flip goes into water ||entailment

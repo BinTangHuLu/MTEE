@@ -1,0 +1,4 @@
+There is not a dog. ||Contradiction
+There is not a tree. ||Entailment
+The tree is not fallen. ||Entailment
+The dog cannot balance on the tree. ||Neutral

@@ -1,0 +1,4 @@
+there are kids ||entailment
+there are faces ||entailment
+the faces are painted ||entailment
+the kids had fun getting faces ||entailment

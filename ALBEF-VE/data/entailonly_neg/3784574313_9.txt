@@ -1,0 +1,4 @@
+there are not workers ||contradiction
+there is not a lawn ||contradiction
+the workers are not construction ||contradiction
+the workers are not working outside on lawn ||contradiction

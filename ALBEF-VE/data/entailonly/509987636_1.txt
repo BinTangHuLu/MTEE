@@ -1,0 +1,4 @@
+there is a man ||entailment
+there are some paintings ||entailment
+the man is older ||entailment
+the man sits in front of paintings ||entailment

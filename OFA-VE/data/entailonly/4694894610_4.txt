@@ -1,0 +1,4 @@
+There is a man. ||Entailment
+The man is old. ||Neutral
+There is a guitar. ||Entailment
+The man plays the guitar. ||Entailment

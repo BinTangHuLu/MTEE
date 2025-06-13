@@ -1,0 +1,3 @@
+there are dude ||entailment
+the dude are grooming ||entailment
+the dude are grooming selves ||contradiction

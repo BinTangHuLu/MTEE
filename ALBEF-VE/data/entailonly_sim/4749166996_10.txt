@@ -1,0 +1,5 @@
+there is a aristocrat ||entailment
+there is a costume ||entailment
+there is a lap ||neutral
+the aristocrat is bald ||neutral
+the aristocrat is standing on stage ||neutral

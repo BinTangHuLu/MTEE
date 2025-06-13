@@ -1,0 +1,2 @@
+there is an automobile ||entailment
+the automobile is being made suitable for capturing on camera ||entailment

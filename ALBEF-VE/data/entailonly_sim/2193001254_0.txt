@@ -1,0 +1,3 @@
+there are community ||entailment
+the community are sitting down ||entailment
+the community are eating ||neutral

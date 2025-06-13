@@ -1,0 +1,3 @@
+there is a couple ||entailment
+there is a mcdonalds ||entailment
+the couple is eating at mcdonalds ||entailment

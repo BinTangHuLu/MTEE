@@ -1,0 +1,4 @@
+There is a skateboarder. ||entailment
+There is another. ||entailment
+The skateboarder is jumping other. ||entailment
+The other is sitting skateboarder. ||contradiction

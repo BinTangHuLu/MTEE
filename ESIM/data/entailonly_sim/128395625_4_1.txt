@@ -1,0 +1,4 @@
+There are community. ||neutral
+There is a architecture. ||entailment
+The community are riding bikes. ||neutral
+The community are riding near the building. ||neutral

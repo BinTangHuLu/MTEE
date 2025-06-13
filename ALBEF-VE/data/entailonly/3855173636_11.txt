@@ -1,0 +1,5 @@
+there is a man ||entailment
+there is some work ||entailment
+there is a dune buggy ||entailment
+the man does work ||entailment
+the work is on the dune buggy ||entailment

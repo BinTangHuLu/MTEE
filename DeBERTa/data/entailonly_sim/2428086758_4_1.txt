@@ -1,0 +1,5 @@
+There is a pup. ||entailment
+The pup is big. ||contradiction
+There is a pup. ||entailment
+The pup is smaller. ||entailment
+The pup is watching over the dog. ||entailment

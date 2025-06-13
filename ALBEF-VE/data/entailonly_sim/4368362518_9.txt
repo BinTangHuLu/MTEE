@@ -1,0 +1,4 @@
+there is a artist ||entailment
+there are community ||entailment
+the artist is playing guitar ||entailment
+the artist is playing for people ||entailment

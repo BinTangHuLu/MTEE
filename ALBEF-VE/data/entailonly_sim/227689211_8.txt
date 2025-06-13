@@ -1,0 +1,5 @@
+there is an agent ||entailment
+there is a circle ||entailment
+there are community ||entailment
+the community are dressed as sailors ||entailment
+the agent is near the crowd ||entailment

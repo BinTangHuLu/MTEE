@@ -1,0 +1,5 @@
+There is not a girl. ||contradiction
+There are not some shorts. ||contradiction
+There is not a pond. ||contradiction
+The girl is not fishing in the pond. ||contradiction
+The girl is not wearing shorts. ||contradiction

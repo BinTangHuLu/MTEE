@@ -1,0 +1,5 @@
+There is not a workman. ||contradiction
+There is not a roof. ||contradiction
+There is not a house. ||contradiction
+The workman is not helping put the roof. ||contradiction
+The workman is not helping put the house. ||contradiction

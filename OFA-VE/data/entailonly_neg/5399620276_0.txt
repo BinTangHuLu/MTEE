@@ -1,0 +1,3 @@
+There is not a skater. ||Contradiction
+The skater is not skating. ||Contradiction
+The skater is not skating skater. ||Contradiction

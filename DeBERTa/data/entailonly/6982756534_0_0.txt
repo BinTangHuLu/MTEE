@@ -1,0 +1,8 @@
+There is a woman. ||entailment
+There is a basket. ||entailment
+There is a street. ||entailment
+The woman is. ||entailment
+The basket is. ||entailment
+The street is. ||entailment
+The woman is carrying the basket. ||entailment
+The basket is down the street. ||contradiction

@@ -1,0 +1,8 @@
+There is not a man. ||Contradiction
+There are not flags. ||Contradiction
+There are not hands. ||Contradiction
+The man is not moving. ||Contradiction
+The man is not holding. ||Entailment
+The man is not moving flags. ||Contradiction
+The man is not holding flags. ||Contradiction
+The flags are not in hands. ||Entailment

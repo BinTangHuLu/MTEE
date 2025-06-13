@@ -1,0 +1,4 @@
+There is he. ||entailment
+He is running group. ||neutral
+There is a group. ||neutral
+There are people. ||entailment

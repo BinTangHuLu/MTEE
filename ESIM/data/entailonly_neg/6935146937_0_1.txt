@@ -1,0 +1,5 @@
+There is not a crowd. ||contradiction
+There is not someone. ||contradiction
+There is not a basketball. ||contradiction
+The crowd is watching someonenot . ||contradiction
+Someone is not playing basketball. ||contradiction

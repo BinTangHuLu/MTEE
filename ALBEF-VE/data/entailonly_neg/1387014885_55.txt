@@ -1,0 +1,5 @@
+there is not a man ||contradiction
+there is not a woman ||contradiction
+there is not a concert ||contradiction
+the concert is not outdoor ||contradiction
+the man is not talking to the woman ||contradiction

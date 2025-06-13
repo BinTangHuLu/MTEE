@@ -1,0 +1,5 @@
+There is someone. ||Entailment
+There is a building. ||Contradiction
+There is an object. ||Entailment
+Someone is in the building. ||Entailment
+Someone is moving an object. ||Entailment

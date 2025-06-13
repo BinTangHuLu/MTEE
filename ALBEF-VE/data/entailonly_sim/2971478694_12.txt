@@ -1,0 +1,4 @@
+there is a apparel ||entailment
+there is a cartoon ||neutral
+the apparel has a color ||entailment
+the apparel vary in color ||entailment

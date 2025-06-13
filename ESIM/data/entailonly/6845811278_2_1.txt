@@ -1,0 +1,11 @@
+There is a man. ||entailment
+There is a bike. ||entailment
+There is a laundry hamper. ||entailment
+There are clothes. ||entailment
+The man is old. ||entailment
+The laundry hamper is blue. ||entailment
+The laundry hamper is full of clothes. ||entailment
+The man is riding the bike. ||entailment
+The bike is with the laundry hamper. ||entailment
+The laundry hamper is full of clothes. ||entailment
+The man is on the handlebars. ||entailment

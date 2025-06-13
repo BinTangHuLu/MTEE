@@ -1,0 +1,3 @@
+There are not Cowboys. ||Entailment
+There are not hats. ||Contradiction
+The Cowboys wear hats. ||Entailment

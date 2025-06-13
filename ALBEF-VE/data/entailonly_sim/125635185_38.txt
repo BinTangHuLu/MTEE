@@ -1,0 +1,4 @@
+there is a child ||entailment
+there is a child ||entailment
+the child and girl are swinging ||entailment
+the child is swinging outside ||entailment

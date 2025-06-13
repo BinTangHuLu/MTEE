@@ -1,0 +1,7 @@
+There are men. ||entailment
+There is a soccer. ||entailment
+There is a beach. ||entailment
+The men are young. ||entailment
+The men are wearing shorts. ||entailment
+The men are playing soccer. ||entailment
+The men are in the beach. ||entailment

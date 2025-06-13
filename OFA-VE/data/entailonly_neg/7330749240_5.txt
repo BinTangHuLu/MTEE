@@ -1,0 +1,3 @@
+There are not Cars. ||Contradiction
+There are not each other. ||Contradiction
+The Cars do not race each other. ||Contradiction

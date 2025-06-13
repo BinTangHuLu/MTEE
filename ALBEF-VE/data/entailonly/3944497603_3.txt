@@ -1,0 +1,5 @@
+there is a person ||entailment
+there is a hoodie ||entailment
+there is an entrance corridor ||entailment
+the hoodie is orange ||entailment
+the person lays on top of entrance corridor ||entailment

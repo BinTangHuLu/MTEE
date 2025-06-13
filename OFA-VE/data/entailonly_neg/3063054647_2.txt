@@ -1,0 +1,6 @@
+There are not Kids. ||Contradiction
+There is not a path. ||Contradiction
+There is not an area. ||Contradiction
+The area is not wooded. ||Contradiction
+Kids do not walk down the path. ||Contradiction
+The path is not in the area. ||Contradiction

@@ -1,0 +1,7 @@
+There is not a woman. ||contradiction
+There are not some clippers. ||contradiction
+The woman is not holding. ||contradiction
+The clippers are somenot . ||entailment
+The woman is hernot . ||entailment
+The woman is not holding clippers. ||contradiction
+The woman is not holding in hand. ||contradiction

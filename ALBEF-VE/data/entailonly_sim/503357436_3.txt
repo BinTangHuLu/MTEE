@@ -1,0 +1,4 @@
+there is a boy ||entailment
+there is a body ||entailment
+the boy is african american ||neutral
+the boy is with person ||entailment

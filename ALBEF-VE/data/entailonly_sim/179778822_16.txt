@@ -1,0 +1,4 @@
+there is a mom ||entailment
+there is a baby ||entailment
+there is a consideration ||entailment
+the mom gazes at the reflection ||entailment

@@ -1,0 +1,4 @@
+There is not a teen. ||contradiction
+There are not some skateboard skills. ||contradiction
+The teen is not practicing. ||contradiction
+The teen is not practicing skateboard skills. ||contradiction

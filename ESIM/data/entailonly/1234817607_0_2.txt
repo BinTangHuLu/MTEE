@@ -1,0 +1,4 @@
+There is a man. ||entailment
+The man is old. ||entailment
+The man smiles in front of soda cans. ||entailment
+There are soda cans. ||entailment

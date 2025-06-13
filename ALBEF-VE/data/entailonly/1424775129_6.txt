@@ -1,0 +1,6 @@
+there is a boy ||entailment
+there is a track ||entailment
+there is a stick ||entailment
+the boy is little ||entailment
+the boy is walking down the track ||entailment
+the track is with stick ||entailment

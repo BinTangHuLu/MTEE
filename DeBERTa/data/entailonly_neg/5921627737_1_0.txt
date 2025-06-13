@@ -1,0 +1,7 @@
+There is not a walkway. ||contradiction
+There is not a person. ||contradiction
+The person is not wearing a black windbreaker. ||contradiction
+The person does not take a picture of a fish statue. ||contradiction
+There is not a dog. ||contradiction
+The dog is not small white. ||contradiction
+The dog does not look on the walkway. ||contradiction

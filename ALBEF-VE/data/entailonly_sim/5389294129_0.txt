@@ -1,0 +1,3 @@
+there are community ||entailment
+there is a achievement ||entailment
+the community are celebrating victory ||entailment

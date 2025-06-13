@@ -1,0 +1,3 @@
+EA,men,two
+E1RE2,men,are sitting in,chairs
+E1RE2,men,in,chairs

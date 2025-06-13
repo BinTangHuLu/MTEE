@@ -1,0 +1,6 @@
+There is not a crowd. ||contradiction
+There are not people. ||contradiction
+There is not a street. ||contradiction
+It is not winter time. ||contradiction
+The crowd does not gather in the street. ||contradiction
+It is not n winter time. ||contradiction

@@ -1,0 +1,4 @@
+there is not a woman ||contradiction
+there is not an instrument ||contradiction
+the woman is not playing ||contradiction
+the woman is not playing a instrument ||contradiction

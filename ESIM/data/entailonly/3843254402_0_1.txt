@@ -1,0 +1,2 @@
+There is a hose. ||entailment
+The hose is being used. ||entailment

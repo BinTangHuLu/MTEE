@@ -1,0 +1,5 @@
+there is a person ||entailment
+there are some cats ||entailment
+the person is standing ||contradiction
+the person is next to cats ||entailment
+there is outdoors ||entailment

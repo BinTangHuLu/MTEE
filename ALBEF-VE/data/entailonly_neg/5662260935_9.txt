@@ -1,0 +1,4 @@
+there is not a man ||contradiction
+there is not an activity ||contradiction
+the activity is not physical ||entailment
+the man is not engaged in the physical activity ||contradiction

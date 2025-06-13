@@ -1,0 +1,3 @@
+there are not people ||contradiction
+there is not an airport ||contradiction
+the people are not sitting in the airport ||entailment

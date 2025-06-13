@@ -1,0 +1,5 @@
+There is a female. ||entailment
+There is a carpeting. ||entailment
+There is a child. ||entailment
+The female sits on the rug. ||entailment
+The child is looking at the gameboard. ||entailment

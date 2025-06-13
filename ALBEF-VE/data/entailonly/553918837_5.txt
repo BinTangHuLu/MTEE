@@ -1,0 +1,3 @@
+there is a kid ||entailment
+there is a playground ||entailment
+the kid is in the playground ||entailment

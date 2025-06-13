@@ -1,0 +1,3 @@
+there is a woman ||entailment
+there are groceries ||entailment
+the woman has groceries ||entailment

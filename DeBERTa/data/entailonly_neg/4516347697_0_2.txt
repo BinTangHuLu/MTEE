@@ -1,0 +1,4 @@
+There is not a man. ||contradiction
+There is not a hat. ||contradiction
+The hat is not black. ||contradiction
+The man is not swinging with children. ||contradiction

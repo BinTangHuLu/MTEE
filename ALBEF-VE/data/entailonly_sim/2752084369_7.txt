@@ -1,0 +1,7 @@
+there is a child ||entailment
+there is a apparel ||entailment
+there is a fedora ||contradiction
+there are carriage ||entailment
+the child is little ||entailment
+there are two carriage ||neutral
+the child is holding packages ||entailment

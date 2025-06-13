@@ -1,0 +1,5 @@
+there are girls ||entailment
+there is a game ||entailment
+there are two girls ||entailment
+the girls are battling against each other ||entailment
+the girls are in the game ||entailment

@@ -1,0 +1,10 @@
+There is a dude. ||entailment
+There is a t-blouse. ||entailment
+There is a beat. ||neutral
+There is a ceiling. ||entailment
+There is a apartment. ||contradiction
+The dude is single. ||entailment
+The t-blouse is blue. ||entailment
+The dude works on the roof. ||entailment
+The ceiling is laying shingles. ||entailment
+The dude wears the t-shirt. ||entailment

@@ -1,0 +1,3 @@
+There is not a man. ||Contradiction
+There is not an ATV. ||Contradiction
+The man does not drive the ATV. ||Contradiction

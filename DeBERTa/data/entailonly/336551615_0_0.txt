@@ -1,0 +1,4 @@
+There are mountaineers. ||entailment
+There is a mountain. ||entailment
+The mountaineers are Two. ||entailment
+The mountaineers are walking on mountain. ||entailment

@@ -1,0 +1,6 @@
+there is a dude ||entailment
+there is a association ||entailment
+there are community ||entailment
+the community are seated ||entailment
+the dude is gesturing towards the group ||entailment
+the association is behind the man ||entailment

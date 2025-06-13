@@ -1,0 +1,5 @@
+there is a woman ||entailment
+there is some clothing ||entailment
+the clothing is traditional ||neutral
+the clothing is ethnic ||entailment
+the woman is dressed in traditional clothing ||entailment

@@ -1,0 +1,5 @@
+there is a female ||entailment
+there is a dirt ||entailment
+there is an boar ||contradiction
+the female is on the ground ||entailment
+the female is looking at the elephant ||entailment

@@ -1,0 +1,8 @@
+there is not a person ||contradiction
+there is not a photo ||entailment
+there is not a thing ||contradiction
+there is not a stand ||contradiction
+there is not a cart ||contradiction
+the person is not in the photo ||neutral
+the thing is not for sale at the stand ||contradiction
+the thing is not for sale at the cart ||contradiction

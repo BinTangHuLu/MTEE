@@ -1,0 +1,3 @@
+there are kids ||entailment
+there are toys ||entailment
+kids play with toys ||entailment

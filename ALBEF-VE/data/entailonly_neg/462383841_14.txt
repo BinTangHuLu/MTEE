@@ -1,0 +1,3 @@
+there are not women ||entailment
+there is not water ||contradiction
+the women are not relaxing in water ||contradiction

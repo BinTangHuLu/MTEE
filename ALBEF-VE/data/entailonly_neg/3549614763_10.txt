@@ -1,0 +1,7 @@
+there is not a waiter ||contradiction
+there is not a table ||contradiction
+there is not a restaurant ||contradiction
+there are not women ||contradiction
+the restaurant is not occupied ||contradiction
+the waiter is not standing at the table ||entailment
+the table is not occupied by women ||contradiction

@@ -1,0 +1,4 @@
+there is a dude ||entailment
+there is a architecture ||entailment
+the architecture is brick ||neutral
+the dude is in front of the building ||entailment

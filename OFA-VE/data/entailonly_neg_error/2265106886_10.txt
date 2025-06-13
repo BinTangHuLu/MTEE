@@ -1,0 +1,2 @@
+EA,woman,is sitting
+E1RE2,woman,is sitting,outside

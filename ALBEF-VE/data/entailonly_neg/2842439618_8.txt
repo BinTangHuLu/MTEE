@@ -1,0 +1,2 @@
+there are not surfers ||contradiction
+the surfers are not out surfing ||entailment

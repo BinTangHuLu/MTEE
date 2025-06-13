@@ -1,0 +1,5 @@
+there is a body ||entailment
+there is a dais ||entailment
+the body is moving ||entailment
+the body is at the podium ||entailment
+the body is moving the person ||entailment

@@ -1,0 +1,4 @@
+there are clan ||entailment
+there are athletics ||entailment
+the athletics are childish ||neutral
+the clan are playing games ||entailment

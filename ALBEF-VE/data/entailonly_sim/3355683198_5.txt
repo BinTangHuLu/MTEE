@@ -1,0 +1,4 @@
+there is a body ||entailment
+there is a amount rail ||entailment
+the body is on the skateboard ||entailment
+the skateboard is on the amount rail ||entailment

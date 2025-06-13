@@ -1,0 +1,4 @@
+there is a male ||entailment
+there is a piece ||entailment
+there is a paper ||entailment
+the male was looking at the piece ||entailment

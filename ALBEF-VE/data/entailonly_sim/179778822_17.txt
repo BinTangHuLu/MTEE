@@ -1,0 +1,5 @@
+there is a gentlewoman ||entailment
+there is a child ||entailment
+there is a depict ||entailment
+the gentlewoman looks at the toddler ||entailment
+the child looks at the mirror ||entailment

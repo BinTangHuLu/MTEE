@@ -1,0 +1,2 @@
+There is a swimmer. ||entailment
+The swimmer is swimming. ||entailment

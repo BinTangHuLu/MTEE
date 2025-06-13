@@ -1,0 +1,5 @@
+There is a boy. ||contradiction
+There is a album. ||contradiction
+There is a chair. ||entailment
+The boy reads the book. ||contradiction
+The boy is seated on the bench. ||contradiction

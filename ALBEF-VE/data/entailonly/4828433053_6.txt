@@ -1,0 +1,3 @@
+there is a dog ||entailment
+there is a leash ||entailment
+the dog is on the leash ||entailment

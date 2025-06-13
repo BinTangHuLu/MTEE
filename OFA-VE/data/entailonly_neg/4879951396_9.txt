@@ -1,0 +1,3 @@
+There is not something. ||Contradiction
+There is not a face. ||Contradiction
+Something is not on face. ||Entailment

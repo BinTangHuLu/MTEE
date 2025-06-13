@@ -1,0 +1,6 @@
+there is a table ||entailment
+there is a woman ||entailment
+there is a stroller ||entailment
+the woman is sitting ||entailment
+the table is with the woman ||entailment
+the stroller is next to the table ||entailment

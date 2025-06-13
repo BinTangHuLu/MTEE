@@ -1,0 +1,3 @@
+There is a dude. ||Entailment
+There is a barge. ||Entailment
+The dude is on the boat. ||Entailment

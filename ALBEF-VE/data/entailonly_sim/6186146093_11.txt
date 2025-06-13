@@ -1,0 +1,4 @@
+there is a dude ||entailment
+there is a child ||entailment
+there is a bike ||entailment
+the dude is working on ||entailment

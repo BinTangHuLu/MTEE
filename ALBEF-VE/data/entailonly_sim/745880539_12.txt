@@ -1,0 +1,5 @@
+there is a pup ||entailment
+there is an act ||entailment
+there is a development ||entailment
+the pup is getting exercise ||entailment
+the act is at course ||neutral

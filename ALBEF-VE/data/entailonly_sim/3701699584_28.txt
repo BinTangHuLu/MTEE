@@ -1,0 +1,7 @@
+there is an lone ||entailment
+there is a cartoon ||neutral
+there is a blouse ||entailment
+there are knickers ||neutral
+the blouse is the same color ||contradiction
+the knickers are the same color ||contradiction
+the lone is in the photo ||entailment

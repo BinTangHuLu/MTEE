@@ -1,0 +1,3 @@
+there is a kid ||entailment
+there is some air ||entailment
+the kid is in air ||entailment

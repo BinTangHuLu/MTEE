@@ -1,0 +1,4 @@
+There is a band. ||entailment
+There is a school. ||entailment
+The band is high. ||entailment
+The band prepares themselves to put on performance. ||entailment

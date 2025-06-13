@@ -1,0 +1,3 @@
+there are clan ||entailment
+there is a basin ||entailment
+some clan are playing in the pool ||contradiction

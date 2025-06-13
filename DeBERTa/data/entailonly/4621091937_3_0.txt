@@ -1,0 +1,3 @@
+There is me. ||contradiction
+Me is sitting on side. ||entailment
+There is a road. ||entailment

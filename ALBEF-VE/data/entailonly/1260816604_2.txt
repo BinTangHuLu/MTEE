@@ -1,0 +1,6 @@
+there is a driver ||entailment
+there is a car ||entailment
+there is a bridge ||entailment
+the car is red ||entailment
+the driver is in the car ||entailment
+the car is on the bridge ||contradiction

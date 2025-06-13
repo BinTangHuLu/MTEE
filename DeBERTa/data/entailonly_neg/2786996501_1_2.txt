@@ -1,0 +1,7 @@
+There are not girls. ||contradiction
+The girls are not Two. ||contradiction
+The girls do not smile. ||contradiction
+The girls are not wearing sunglasses. ||contradiction
+The girls do not have sunglasses. ||contradiction
+The girls do not smile. ||contradiction
+The girls are not wearing sunglasses. ||contradiction

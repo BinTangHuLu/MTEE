@@ -1,0 +1,3 @@
+there is a tree ||entailment
+the tree is dead ||entailment
+the tree is dead ||entailment

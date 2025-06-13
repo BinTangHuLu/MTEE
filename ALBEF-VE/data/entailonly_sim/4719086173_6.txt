@@ -1,0 +1,4 @@
+there are girl ||entailment
+there are apparel ||entailment
+the apparel are wearing ||neutral
+the girl are wearing suits ||contradiction

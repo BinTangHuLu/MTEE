@@ -1,0 +1,4 @@
+There are dude. ||Entailment
+There is a homogeneous. ||Contradiction
+The homogeneous is martial arts. ||Entailment
+The dude are wearing uniform. ||Neutral

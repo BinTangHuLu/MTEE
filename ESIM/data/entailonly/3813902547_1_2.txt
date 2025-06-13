@@ -1,0 +1,6 @@
+There is a man. ||entailment
+There is a train. ||entailment
+The train is tiny. ||neutral
+The train is different. ||neutral
+The man is riding the train. ||entailment
+The man sees another man. ||entailment

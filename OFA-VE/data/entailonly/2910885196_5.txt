@@ -1,0 +1,15 @@
+There is a man. ||Entailment
+There is a shirt. ||Entailment
+There is a jack knife. ||Entailment
+There is a woman. ||Contradiction
+There is a cake. ||Entailment
+There is another man. ||Entailment
+The shirt is blue. ||Entailment
+The man is holding. ||Entailment
+The woman is in front of. ||Contradiction
+The cake is creamy chocolate. ||Neutral
+The man is of the same type. ||Entailment
+The man is in the shirt. ||Entailment
+The man is holding the jack knife. ||Neutral
+The man is standing in front of the cake. ||Entailment
+The man is standing behind the other man. ||Contradiction

@@ -1,0 +1,4 @@
+There is not a man. ||contradiction
+There are not some teammates. ||contradiction
+The man is not posed. ||contradiction
+The man is not with teammates. ||contradiction

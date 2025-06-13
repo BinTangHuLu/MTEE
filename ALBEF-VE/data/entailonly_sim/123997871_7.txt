@@ -1,0 +1,8 @@
+there are adolescent ||entailment
+there are attire ||entailment
+there is conservation ||entailment
+there is a bout ||entailment
+the attire are sports ||entailment
+the adolescent are wearing uniforms ||entailment
+the adolescent are wearing protection ||entailment
+the adolescent are at match ||entailment

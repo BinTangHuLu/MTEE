@@ -1,0 +1,5 @@
+there is a boy ||entailment
+there is a skateboard ||entailment
+there is a building ||entailment
+the boy rides the skateboard ||entailment
+the skateboard is near the building ||entailment

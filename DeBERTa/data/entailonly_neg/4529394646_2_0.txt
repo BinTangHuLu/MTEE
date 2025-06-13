@@ -1,0 +1,4 @@
+There is not a gymnast. ||contradiction
+There is not a jump. ||contradiction
+The gymnast is hernot . ||contradiction
+The gymnast is not completing jump. ||contradiction

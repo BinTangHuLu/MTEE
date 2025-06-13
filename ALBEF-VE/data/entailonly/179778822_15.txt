@@ -1,0 +1,5 @@
+there is a lady ||entailment
+there is a toddler ||entailment
+there is a mirror ||entailment
+the lady sits next to the toddler ||contradiction
+the toddler sits next to the mirror ||contradiction

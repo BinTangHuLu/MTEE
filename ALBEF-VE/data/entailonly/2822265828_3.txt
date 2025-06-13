@@ -1,0 +1,3 @@
+there are cheerleaders ||entailment
+there is a photo ||entailment
+the cheerleaders take a photo ||entailment

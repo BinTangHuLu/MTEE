@@ -1,0 +1,5 @@
+there is not a man ||contradiction
+there is not a shirt ||contradiction
+there is not a javelin ||contradiction
+the shirt is not black ||contradiction
+the man does not throw javelin ||contradiction

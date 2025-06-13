@@ -1,0 +1,4 @@
+There is a pup. ||Entailment
+There are composure. ||Entailment
+The composure are 3. ||Entailment
+The pup has 3 legs. ||Entailment

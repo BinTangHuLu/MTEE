@@ -1,0 +1,6 @@
+There is a Horse rider. ||entailment
+There is wear. ||entailment
+There is a horse. ||entailment
+The wear is traditional. ||entailment
+The horse is ceremonial. ||entailment
+The Horse rider rides with the horse. ||entailment

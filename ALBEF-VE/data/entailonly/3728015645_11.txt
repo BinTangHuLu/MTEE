@@ -1,0 +1,5 @@
+there is a man ||entailment
+there is gymnastics ||entailment
+there is a lake ||entailment
+the man is performing gymnastics ||entailment
+the man is performing gymnastics by the lake ||entailment

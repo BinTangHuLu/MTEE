@@ -1,0 +1,3 @@
+there is a dog ||entailment
+the dog is black and white ||entailment
+the dog is outdoors ||entailment

@@ -1,0 +1,5 @@
+there is someone ||entailment
+there is a building ||entailment
+there is an object ||entailment
+someone is in the building ||entailment
+someone is moving an object ||entailment

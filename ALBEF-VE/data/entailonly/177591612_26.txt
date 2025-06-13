@@ -1,0 +1,3 @@
+there are guys ||entailment
+there is outside ||entailment
+the guys are outside ||entailment

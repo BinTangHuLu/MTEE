@@ -1,0 +1,4 @@
+There is a childbearing. ||contradiction
+There is a apparatus. ||entailment
+The childbearing is young. ||entailment
+The childbearing is near the machine. ||contradiction

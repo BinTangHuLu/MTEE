@@ -1,0 +1,3 @@
+there are not people ||contradiction
+there is not electronics equipment ||contradiction
+the people are not holding electronics equipment ||contradiction

@@ -1,0 +1,3 @@
+There are People. ||entailment
+There is a drum. ||entailment
+People are playing drum. ||neutral

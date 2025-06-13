@@ -1,0 +1,6 @@
+There is not a girl. ||contradiction
+There is not some confetti. ||contradiction
+There is not a lady. ||contradiction
+The girl is not young. ||contradiction
+The girl is not putting in the lady. ||contradiction
+The girl is not putting in the hair. ||contradiction

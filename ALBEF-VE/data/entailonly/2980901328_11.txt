@@ -1,0 +1,3 @@
+there is a repairman ||entailment
+there is an outside ||entailment
+the repairman works outside ||entailment

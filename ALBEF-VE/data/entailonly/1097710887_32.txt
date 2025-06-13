@@ -1,0 +1,5 @@
+there is a girl ||entailment
+the girl is walking ||contradiction
+the girl is carrying ||entailment
+the wand is bubble blowing ||neutral
+the girl is carrying a wand ||neutral

@@ -1,0 +1,3 @@
+there is a motorcycle ||entailment
+there is a racetrack ||entailment
+the motorcycle is on racetrack ||entailment

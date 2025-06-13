@@ -1,0 +1,4 @@
+There are band. ||neutral
+There is a gallery. ||neutral
+The gallery is slippery. ||neutral
+The band are outside on walkway. ||entailment

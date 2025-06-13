@@ -1,0 +1,4 @@
+there is a dude ||entailment
+there is a cable ||entailment
+the cable is oversized ||neutral
+the dude is standing near the rope ||entailment

@@ -1,0 +1,4 @@
+There is a dude. ||Entailment
+There is a female. ||Entailment
+The dude is costume. ||Entailment
+The female is costume. ||Neutral

@@ -1,0 +1,4 @@
+there is a group ||entailment
+there are men ||entailment
+the men are outdoors ||entailment
+the group is of men ||neutral

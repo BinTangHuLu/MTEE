@@ -1,0 +1,3 @@
+There are men. ||entailment
+There is a storage unit. ||entailment
+The men are watching the storage unit. ||entailment

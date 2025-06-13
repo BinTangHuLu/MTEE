@@ -1,0 +1,4 @@
+there are community ||entailment
+there is a avenue ||entailment
+the community are black ||neutral
+the community traverse down the street ||entailment

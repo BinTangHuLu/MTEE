@@ -1,0 +1,7 @@
+there is a woman ||entailment
+there is some hair ||entailment
+there are some spectacles ||entailment
+the woman is old ||entailment
+the hair is white ||entailment
+the woman is with hair ||entailment
+the woman peers through spectacles ||entailment

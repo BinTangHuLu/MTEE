@@ -1,0 +1,4 @@
+there is a man ||entailment
+there are some tricks ||entailment
+the tricks are ski ||neutral
+the man is doing tricks ||neutral

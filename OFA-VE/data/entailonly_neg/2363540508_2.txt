@@ -1,0 +1,3 @@
+There is not a girl. ||Contradiction
+There is not a tunnel. ||Contradiction
+The girl is not going through the tunnel. ||Entailment

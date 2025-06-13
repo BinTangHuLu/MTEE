@@ -1,0 +1,3 @@
+there is a person ||entailment
+there is an animal ||entailment
+the person pets the animal ||entailment

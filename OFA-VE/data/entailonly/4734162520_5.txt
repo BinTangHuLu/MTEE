@@ -1,0 +1,3 @@
+There is an officer. ||Entailment
+There is a motorcycle. ||Entailment
+The officer is on the motorcycle. ||Entailment

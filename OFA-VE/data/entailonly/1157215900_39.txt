@@ -1,0 +1,4 @@
+There is a woman. ||Entailment
+There is bread. ||Entailment
+The woman is old. ||Neutral
+The woman is displaying bread. ||Entailment

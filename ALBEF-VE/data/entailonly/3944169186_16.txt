@@ -1,0 +1,4 @@
+there are people ||entailment
+there is a match ||entailment
+the match is competitive ||neutral
+the people are facing each other in the match ||neutral

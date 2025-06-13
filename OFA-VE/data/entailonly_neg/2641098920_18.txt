@@ -1,0 +1,5 @@
+There is not a Woman. ||Contradiction
+There is not a female. ||Entailment
+There is not a couch. ||Entailment
+The Woman is not next to the female. ||Entailment
+The female is not on the couch. ||Entailment

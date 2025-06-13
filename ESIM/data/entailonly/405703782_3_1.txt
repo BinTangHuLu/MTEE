@@ -1,0 +1,4 @@
+There is a gymnast. ||entailment
+The gymnast is her. ||entailment
+The exercise is complete. ||neutral
+The gymnast completes exercise. ||entailment

@@ -1,0 +1,7 @@
+there are not men ||contradiction
+there is not a center ||contradiction
+there is not a town ||contradiction
+there is not an evening ||contradiction
+men do not socialize at center ||contradiction
+the center is not of town ||contradiction
+men do not socialize at center of town ||contradiction

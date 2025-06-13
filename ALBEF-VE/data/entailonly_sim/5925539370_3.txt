@@ -1,0 +1,5 @@
+there is a ace ||entailment
+the ace is young ||neutral
+the ace is overweight ||neutral
+the ace is throwing ||entailment
+the ace is throwing pitch ||entailment

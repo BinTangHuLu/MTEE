@@ -1,0 +1,3 @@
+There is not a girl. ||contradiction
+There is not a dress. ||contradiction
+The girl is not wearing. ||contradiction

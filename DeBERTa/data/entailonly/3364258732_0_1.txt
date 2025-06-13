@@ -1,0 +1,3 @@
+There are people. ||entailment
+There is a court. ||entailment
+The people exercise on the court. ||entailment

@@ -1,0 +1,3 @@
+There is a motorcyclist. ||Entailment
+There is something yellow. ||Entailment
+The motorcyclist is wearing yellow. ||Entailment

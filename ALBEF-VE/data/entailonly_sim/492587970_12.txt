@@ -1,0 +1,4 @@
+there are dude ||entailment
+there are female ||entailment
+dude play with one another ||entailment
+female watches men ||entailment

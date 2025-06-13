@@ -1,0 +1,4 @@
+there is a dog ||entailment
+there is some grass ||entailment
+the dog is orange ||entailment
+the dog plays in grass ||entailment

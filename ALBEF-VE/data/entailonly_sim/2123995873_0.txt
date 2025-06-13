@@ -1,0 +1,3 @@
+there is a employee ||entailment
+there is a bright ||entailment
+the employee is under light ||entailment

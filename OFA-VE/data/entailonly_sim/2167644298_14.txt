@@ -1,0 +1,4 @@
+There is a dude. ||Entailment
+There is an accident. ||Contradiction
+The dude is standing around. ||Entailment
+The dude is at the event. ||Entailment

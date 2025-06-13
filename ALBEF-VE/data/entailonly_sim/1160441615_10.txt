@@ -1,0 +1,6 @@
+there are adolescent ||entailment
+there is a avenue ||entailment
+there are three adolescent ||entailment
+the adolescent are merrily ||entailment
+the avenue is arched ||entailment
+the adolescent are walking along the pathway ||entailment

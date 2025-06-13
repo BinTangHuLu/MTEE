@@ -1,0 +1,4 @@
+there is not a driver ||contradiction
+there is not a vehicle ||contradiction
+the vehicle does not have two wheels ||entailment
+the driver is not in the vehicle ||entailment

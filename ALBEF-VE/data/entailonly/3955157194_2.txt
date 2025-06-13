@@ -1,0 +1,4 @@
+there is a girl ||entailment
+there is a machine ||entailment
+the girl is young ||entailment
+the girl sits behind the machine ||entailment

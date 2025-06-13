@@ -1,0 +1,5 @@
+there is a circle ||contradiction
+there is atmosphere ||entailment
+the circle watches the skateboarder ||neutral
+the skateboarder performs a conspiracy ||neutral
+the conspiracy is performed in the air ||neutral

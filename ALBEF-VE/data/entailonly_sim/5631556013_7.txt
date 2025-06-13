@@ -1,0 +1,3 @@
+there is a child ||entailment
+there is drink ||neutral
+the child jumps into water ||entailment

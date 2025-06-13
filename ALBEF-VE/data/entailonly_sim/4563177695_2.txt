@@ -1,0 +1,3 @@
+there are defender ||entailment
+the defender are standing ||entailment
+the defender are watching ||entailment

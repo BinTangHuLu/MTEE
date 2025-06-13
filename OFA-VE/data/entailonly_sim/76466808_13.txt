@@ -1,0 +1,3 @@
+There is a airplane. ||Entailment
+There is an airfield. ||Entailment
+The airplane is in the airport. ||Entailment

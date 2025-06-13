@@ -1,0 +1,3 @@
+There is not someone. ||contradiction
+There is not a computer. ||contradiction
+Someone is not sitting in front of the computer. ||contradiction

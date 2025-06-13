@@ -1,0 +1,5 @@
+There is a worker. ||entailment
+There is a truck. ||entailment
+The truck is writing. ||entailment
+The worker is standing in front of the truck. ||entailment
+The truck has writing. ||entailment

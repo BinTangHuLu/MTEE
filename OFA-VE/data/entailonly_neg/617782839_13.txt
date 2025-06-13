@@ -1,0 +1,3 @@
+There is not a man. ||Entailment
+There is not archery. ||Contradiction
+The man does not perform archery. ||Contradiction

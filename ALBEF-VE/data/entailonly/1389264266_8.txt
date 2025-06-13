@@ -1,0 +1,3 @@
+there are girls ||entailment
+there are two girls ||entailment
+the girls are looking at each other ||entailment

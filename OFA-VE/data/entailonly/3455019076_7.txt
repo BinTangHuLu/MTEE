@@ -1,0 +1,4 @@
+There is a lady. ||Entailment
+There are some bikes. ||Entailment
+The lady is blonde. ||Entailment
+The lady hangs out near bikes. ||Entailment

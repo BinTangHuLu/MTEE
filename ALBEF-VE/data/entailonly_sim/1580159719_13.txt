@@ -1,0 +1,5 @@
+there is a association ||entailment
+there are some community ||entailment
+there is some barley ||neutral
+the community are young ||entailment
+the community are in grass ||entailment

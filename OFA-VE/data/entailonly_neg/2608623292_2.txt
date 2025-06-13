@@ -1,0 +1,6 @@
+There is not a man. ||Entailment
+There is not a bench. ||Entailment
+There is not a view. ||Entailment
+The man is not sitting. ||Entailment
+The man is not sitting on the bench. ||Entailment
+The man does not enjoy the view. ||Neutral

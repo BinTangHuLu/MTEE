@@ -1,0 +1,3 @@
+There are individuals. ||entailment
+There is a building. ||entailment
+The individuals are near the building. ||entailment

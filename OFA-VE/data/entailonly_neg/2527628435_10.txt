@@ -1,0 +1,3 @@
+There is not a guy. ||Entailment
+There is not a space. ||Entailment
+The space is not disorganized. ||Entailment

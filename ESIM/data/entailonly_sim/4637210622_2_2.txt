@@ -1,0 +1,5 @@
+There is a dude. ||entailment
+There is a bottle. ||entailment
+There is some gossip. ||neutral
+The dude is pouring glass. ||entailment
+The bottle is of tea. ||entailment

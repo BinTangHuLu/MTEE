@@ -1,0 +1,6 @@
+there are not people ||contradiction
+there is not a church ||contradiction
+there is not a man ||contradiction
+the man is not in robe ||contradiction
+people do not sit in the church ||contradiction
+people do not listen to the man ||contradiction

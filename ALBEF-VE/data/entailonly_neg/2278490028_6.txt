@@ -1,0 +1,5 @@
+there are not people ||contradiction
+there are not rafts ||contradiction
+there is not a waterfall ||contradiction
+people do not play in rafts ||contradiction
+rafts are not under waterfall ||contradiction

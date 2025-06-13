@@ -1,0 +1,3 @@
+There is not a woman. ||contradiction
+The woman is not happy. ||contradiction
+The woman is not holding a rope. ||contradiction

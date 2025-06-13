@@ -1,0 +1,4 @@
+There is a child. ||Entailment
+There is a tractor. ||Entailment
+The child is sitting. ||Entailment
+The child is outside on tractor. ||Entailment

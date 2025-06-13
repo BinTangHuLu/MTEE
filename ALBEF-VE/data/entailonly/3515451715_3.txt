@@ -1,0 +1,5 @@
+there is a mom ||entailment
+there are some kids ||entailment
+there is a park ||entailment
+the mom and kids are together ||entailment
+the kids are at the park ||entailment

@@ -1,0 +1,3 @@
+there is a woman ||entailment
+there are some feet ||entailment
+the woman is on feet ||entailment

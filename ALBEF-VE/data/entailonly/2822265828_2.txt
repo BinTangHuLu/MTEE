@@ -1,0 +1,3 @@
+there are girls ||entailment
+there is a team ||entailment
+the girls are on the team ||entailment

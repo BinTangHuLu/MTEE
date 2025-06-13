@@ -1,0 +1,5 @@
+There is a child. ||Entailment
+The child is young. ||Entailment
+The child is using something. ||Entailment
+There is something. ||Entailment
+The something is to float in water. ||Entailment

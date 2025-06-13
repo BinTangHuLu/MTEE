@@ -1,0 +1,6 @@
+There is not a woman. ||contradiction
+There is not a tunnel. ||contradiction
+There is not a hallway. ||contradiction
+The woman is not darkened. ||contradiction
+The woman is not in the tunnel. ||contradiction
+The woman is not in the hallway. ||contradiction

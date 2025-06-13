@@ -1,0 +1,3 @@
+There is not a golfer. ||contradiction
+There is not a ball. ||contradiction
+The golfer does not ready to putt the ball. ||contradiction

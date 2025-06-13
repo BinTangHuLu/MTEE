@@ -1,0 +1,3 @@
+there is a pup ||entailment
+there is a doll ||entailment
+the pup jumps after the toy ||entailment

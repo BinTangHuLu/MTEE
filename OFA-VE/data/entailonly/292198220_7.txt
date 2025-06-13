@@ -1,0 +1,4 @@
+There is a female. ||Entailment
+There is a doll. ||Entailment
+The female is young. ||Entailment
+The female is looking at the doll. ||Entailment

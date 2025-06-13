@@ -1,0 +1,3 @@
+There are community. ||entailment
+The community are in the medical field. ||entailment
+The community work in the field. ||contradiction

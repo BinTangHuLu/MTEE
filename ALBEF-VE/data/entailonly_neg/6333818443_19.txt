@@ -1,0 +1,5 @@
+there is not someone ||contradiction
+there is not a building ||contradiction
+there is not an object ||contradiction
+someone is not in the building ||contradiction
+someone is not moving an object ||contradiction

@@ -1,0 +1,7 @@
+there is a girl ||entailment
+there is a bikini ||entailment
+there are some goggles ||entailment
+there is a cap ||entailment
+the girl is wearing bikini ||neutral
+the girl is wearing goggles ||entailment
+the girl is wearing cap ||entailment

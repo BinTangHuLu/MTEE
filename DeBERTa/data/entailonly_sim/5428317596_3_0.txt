@@ -1,0 +1,2 @@
+There is a workshop tech. ||contradiction
+The workshop tech is using microscope. ||entailment

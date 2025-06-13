@@ -1,0 +1,2 @@
+bread is being prepared. ||neutral
+bread is being served. ||contradiction

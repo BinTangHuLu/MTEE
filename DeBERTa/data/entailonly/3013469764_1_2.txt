@@ -1,0 +1,4 @@
+There is a person. ||entailment
+There is a wheel. ||entailment
+The wheel is big. ||neutral
+The person is riding the wheel. ||entailment

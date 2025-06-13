@@ -1,0 +1,5 @@
+There is a club. ||entailment
+There are congregation. ||entailment
+The club is popular. ||neutral
+The club is in California. ||entailment
+The club has fans. ||entailment

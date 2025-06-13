@@ -1,0 +1,4 @@
+there is a woman ||entailment
+there is an ocean ||entailment
+the woman is barefoot ||entailment
+the woman walks by the ocean ||entailment

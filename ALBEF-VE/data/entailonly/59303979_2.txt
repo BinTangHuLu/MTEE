@@ -1,0 +1,3 @@
+there is he ||contradiction
+there are clothes ||entailment
+he is wearing clothes ||entailment

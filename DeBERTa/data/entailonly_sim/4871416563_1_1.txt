@@ -1,0 +1,7 @@
+There is a female. ||entailment
+There is a circle. ||entailment
+There is an shade. ||entailment
+The female is raven haired. ||entailment
+The shade is white opened. ||entailment
+The female is seen by the crowd. ||entailment
+The female is holding the umbrella. ||entailment

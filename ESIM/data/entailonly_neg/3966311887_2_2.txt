@@ -1,0 +1,2 @@
+There are not Kids. ||contradiction
+Kids share water. ||entailment

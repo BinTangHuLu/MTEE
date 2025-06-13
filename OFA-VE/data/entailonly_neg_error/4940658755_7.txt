@@ -1,0 +1,3 @@
+EA,person,older
+R,of
+E1R,person,stand outside of

@@ -1,0 +1,2 @@
+There are attire. ||Entailment
+The attire are her. ||Neutral

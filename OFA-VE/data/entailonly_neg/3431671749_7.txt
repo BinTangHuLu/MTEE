@@ -1,0 +1,4 @@
+There is not a race car. ||Contradiction
+There is not fire. ||Contradiction
+The race car is not shooting. ||Contradiction
+The race car is not shooting fire. ||Contradiction

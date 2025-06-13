@@ -1,0 +1,4 @@
+there is a female ||entailment
+there are some regalia ||entailment
+the female is hanging ||entailment
+the female is hanging whites ||contradiction

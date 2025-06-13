@@ -1,0 +1,2 @@
+There are Men. ||Entailment
+There are some outside. ||Entailment

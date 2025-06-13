@@ -1,0 +1,3 @@
+EA,vest,in
+E1R,cards,at
+E1RE2,buttons,on,hat

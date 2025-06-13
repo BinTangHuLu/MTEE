@@ -1,0 +1,5 @@
+there is a agreeable ||entailment
+there is a ball ||entailment
+there are club ||neutral
+the club are college ||neutral
+the agreeable is being played by teams ||entailment

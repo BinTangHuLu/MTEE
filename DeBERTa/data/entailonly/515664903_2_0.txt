@@ -1,0 +1,3 @@
+There is a man. ||entailment
+There are some flowers. ||entailment
+The man is standing in front of flowers. ||entailment

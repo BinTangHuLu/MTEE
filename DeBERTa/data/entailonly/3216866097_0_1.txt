@@ -1,0 +1,4 @@
+There are people. ||entailment
+The people are old. ||entailment
+The people perform onstage. ||entailment
+The people perform onstage on stage. ||entailment

@@ -1,0 +1,6 @@
+there is a dude ||entailment
+there is a t blouse ||entailment
+there is a association ||entailment
+there are community ||entailment
+the dude waits with the group ||neutral
+the association is of people ||entailment

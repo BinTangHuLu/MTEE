@@ -1,0 +1,3 @@
+There are workers. ||Entailment
+There is a city. ||Entailment
+The workers are working outside. ||Entailment

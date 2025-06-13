@@ -1,0 +1,4 @@
+there is a man ||entailment
+there is a ball ||entailment
+the ball is bowling ||entailment
+the man throws ball ||contradiction

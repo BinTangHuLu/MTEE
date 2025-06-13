@@ -1,0 +1,4 @@
+there are men ||entailment
+there are beverages ||entailment
+the beverages are alcoholic ||neutral
+men have beverages ||entailment

@@ -1,0 +1,5 @@
+there is a picture ||entailment
+there are some people ||entailment
+there is a building ||entailment
+the picture is of people ||entailment
+the picture is taken near the building ||entailment

@@ -1,0 +1,7 @@
+there are female ||entailment
+there are accommodation ||neutral
+there is a baby ||entailment
+the baby is obese ||neutral
+the female sit in chairs ||entailment
+the baby gets attention ||entailment
+the consideration is of the camera ||entailment

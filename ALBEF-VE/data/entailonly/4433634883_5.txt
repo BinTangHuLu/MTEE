@@ -1,0 +1,3 @@
+there is a man ||entailment
+there is a street ||entailment
+the man is wanting to cross the street ||entailment

@@ -1,0 +1,4 @@
+There is not a woman. ||contradiction
+There is not a ground. ||entailment
+The woman is not on the ground. ||entailment
+The ground is not outside. ||contradiction

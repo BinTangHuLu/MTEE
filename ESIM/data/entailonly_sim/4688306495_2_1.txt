@@ -1,0 +1,3 @@
+There is a dude. ||neutral
+There is a expert. ||neutral
+The dude is at the doctor. ||entailment

@@ -1,0 +1,5 @@
+There is a body. ||Entailment
+There are some stuff. ||Entailment
+There are some harbor. ||Entailment
+The body is examining things. ||Entailment
+The body is at docks. ||Neutral

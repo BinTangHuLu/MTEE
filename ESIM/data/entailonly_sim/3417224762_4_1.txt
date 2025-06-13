@@ -1,0 +1,4 @@
+There is a child. ||entailment
+There is a activity. ||entailment
+The child is school. ||entailment
+The activity is for activity. ||entailment

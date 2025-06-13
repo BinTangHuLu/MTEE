@@ -1,0 +1,3 @@
+there is someone ||entailment
+there are bagpipes ||entailment
+someone is playing bagpipes ||entailment

@@ -1,0 +1,3 @@
+there are clan ||entailment
+the clan are fun ||neutral
+the clan are having fun ||neutral

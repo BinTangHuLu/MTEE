@@ -1,0 +1,5 @@
+There is not a player. ||contradiction
+There is not a basketball. ||contradiction
+The player is not trying to make a shot. ||contradiction
+There are not players. ||contradiction
+The players do not try to block it. ||contradiction

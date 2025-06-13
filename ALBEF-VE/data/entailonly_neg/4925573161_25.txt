@@ -1,0 +1,5 @@
+there is not a person ||contradiction
+there is not a bike ||contradiction
+there is not a building ||contradiction
+the person does not ride the bike ||entailment
+the bike is not near the building ||contradiction

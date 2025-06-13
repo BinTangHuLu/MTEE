@@ -1,0 +1,4 @@
+There is a choice. ||Entailment
+There is some crop. ||Entailment
+The choice is for sale. ||Entailment
+The choice is for sale by produce. ||Entailment

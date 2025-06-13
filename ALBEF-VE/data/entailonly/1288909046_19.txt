@@ -1,0 +1,5 @@
+there is a dog ||entailment
+there is a toy ||entailment
+there is a pool ||entailment
+the dog is chasing the toy ||entailment
+the toy is into the pool ||entailment

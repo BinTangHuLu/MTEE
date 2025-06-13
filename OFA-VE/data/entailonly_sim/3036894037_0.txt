@@ -1,0 +1,6 @@
+There is a body. ||Contradiction
+There are force men. ||Entailment
+There are staircase. ||Entailment
+The body is old. ||Neutral
+The body is next to police men. ||Neutral
+The force men are on steps. ||Entailment

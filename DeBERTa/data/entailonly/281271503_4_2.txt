@@ -1,0 +1,6 @@
+There is a man. ||entailment
+There is an act. ||entailment
+There is a unicycle. ||entailment
+The man performs act. ||entailment
+The man is on unicycle. ||entailment
+The act is juggling. ||entailment

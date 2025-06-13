@@ -1,0 +1,3 @@
+there is a performance ||entailment
+there is a musical ||entailment
+the performance is occurring ||entailment

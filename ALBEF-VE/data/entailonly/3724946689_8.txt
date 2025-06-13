@@ -1,0 +1,5 @@
+there is a group ||entailment
+there are some people ||entailment
+there is a ride ||entailment
+the people are young ||neutral
+the people are having fun on ride ||neutral

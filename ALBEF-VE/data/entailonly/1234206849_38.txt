@@ -1,0 +1,3 @@
+there are women ||entailment
+there is a camera ||entailment
+the women are near the camera ||entailment

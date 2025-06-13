@@ -1,0 +1,3 @@
+there is a boy ||entailment
+there is a phone ||entailment
+the boy is on the phone ||entailment

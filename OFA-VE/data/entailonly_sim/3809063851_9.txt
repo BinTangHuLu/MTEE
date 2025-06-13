@@ -1,0 +1,2 @@
+There are artist. ||Entailment
+The artist are singing. ||Neutral

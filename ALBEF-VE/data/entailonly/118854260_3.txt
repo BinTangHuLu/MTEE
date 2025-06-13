@@ -1,0 +1,4 @@
+there is a photographer ||entailment
+there is a woman ||entailment
+the woman is cutting ||entailment
+the photographer captures the woman ||entailment

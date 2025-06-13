@@ -1,0 +1,3 @@
+there are boy ||entailment
+there is a avenue ||entailment
+the boy are on the street ||entailment

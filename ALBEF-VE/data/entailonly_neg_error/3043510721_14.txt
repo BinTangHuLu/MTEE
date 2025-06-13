@@ -1,0 +1,2 @@
+EA,hair,little
+RE2,has,hair

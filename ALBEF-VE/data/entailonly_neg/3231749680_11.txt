@@ -1,0 +1,5 @@
+there are not children ||contradiction
+there are not mats ||contradiction
+there is not a floor ||contradiction
+the children are not taking a nap on mats ||contradiction
+the mats are not on the floor ||contradiction

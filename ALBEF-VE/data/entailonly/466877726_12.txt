@@ -1,0 +1,3 @@
+there is a man ||entailment
+there are some bricks ||entailment
+the man is moving bricks ||contradiction

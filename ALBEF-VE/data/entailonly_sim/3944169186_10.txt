@@ -1,0 +1,4 @@
+there is a childbearing ||entailment
+there is a ball ||entailment
+the childbearing is young ||neutral
+the childbearing is playing basketball ||entailment

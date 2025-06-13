@@ -1,0 +1,3 @@
+There are not people. ||contradiction
+There is not a game. ||contradiction
+The people are not playing the game. ||contradiction

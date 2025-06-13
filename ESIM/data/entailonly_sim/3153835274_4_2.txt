@@ -1,0 +1,4 @@
+There is a female. ||entailment
+There is a create. ||entailment
+The female is using the hammer. ||entailment
+The female is using the hammer to make something. ||entailment

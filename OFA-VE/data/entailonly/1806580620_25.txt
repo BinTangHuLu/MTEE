@@ -1,0 +1,3 @@
+There is a woman. ||Entailment
+There is a camera. ||Contradiction
+The woman is posing for the camera. ||Entailment

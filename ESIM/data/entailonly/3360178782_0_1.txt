@@ -1,0 +1,6 @@
+There are shoppers. ||entailment
+There are vegetables. ||entailment
+There is a market. ||entailment
+The market is busy. ||entailment
+The shoppers are purchasing vegetables. ||entailment
+The shoppers are purchasing at the market. ||entailment

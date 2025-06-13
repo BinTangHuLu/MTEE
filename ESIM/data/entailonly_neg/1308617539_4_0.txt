@@ -1,0 +1,3 @@
+There is not a boy. ||contradiction
+There is not a beach. ||entailment
+The boy is not at the beach. ||contradiction

@@ -1,0 +1,5 @@
+there is not a man ||contradiction
+there are not spectators ||contradiction
+there is not a street ||contradiction
+the man is not being watched by spectators ||contradiction
+the spectators are not in the street ||contradiction

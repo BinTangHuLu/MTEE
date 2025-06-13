@@ -1,0 +1,4 @@
+there is a baby ||entailment
+there are some development ||entailment
+the development are variety ||neutral
+the baby is dressed in items ||entailment

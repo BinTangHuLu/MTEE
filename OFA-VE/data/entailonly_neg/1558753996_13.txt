@@ -1,0 +1,6 @@
+There is not a gentleman. ||Entailment
+There is not some music. ||Contradiction
+There is not a guitar. ||Contradiction
+The gentleman is not bearded. ||Entailment
+The gentleman does not create music. ||Contradiction
+The gentleman is not with guitar. ||Entailment

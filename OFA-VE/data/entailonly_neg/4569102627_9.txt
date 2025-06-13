@@ -1,0 +1,2 @@
+There are not cups. ||Contradiction
+The cups are not good. ||Entailment

@@ -1,0 +1,3 @@
+There is a soldier. ||Entailment
+There is a comrade. ||Entailment
+The soldier helps comrade. ||Entailment

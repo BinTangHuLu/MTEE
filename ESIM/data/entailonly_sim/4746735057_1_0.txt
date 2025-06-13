@@ -1,0 +1,3 @@
+There are man. ||neutral
+There is a back yard. ||neutral
+The man are outside in the garden. ||entailment

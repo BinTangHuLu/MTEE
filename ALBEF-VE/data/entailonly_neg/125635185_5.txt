@@ -1,0 +1,3 @@
+there are not children ||contradiction
+the children are not playing ||contradiction
+the children are not playing outdoors ||contradiction

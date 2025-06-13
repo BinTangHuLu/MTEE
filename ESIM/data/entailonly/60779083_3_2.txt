@@ -1,0 +1,3 @@
+There are customers. ||entailment
+There is a cafe. ||entailment
+The customers are eating at the cafe. ||entailment

@@ -1,0 +1,5 @@
+there is not scaffolding ||contradiction
+there is not a path ||contradiction
+there are not painters ||contradiction
+the scaffolding is not on the path ||entailment
+the path is not for painters ||contradiction

@@ -1,0 +1,3 @@
+there is a car ||entailment
+the car is racing ||neutral
+the car is racing along ||entailment

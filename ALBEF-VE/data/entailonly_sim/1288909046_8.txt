@@ -1,0 +1,7 @@
+there is a pup ||entailment
+there is a basin ||entailment
+there is drink ||entailment
+there is a doll ||entailment
+the pup jumps into the pool ||entailment
+the basin is of water ||entailment
+the pup jumps into the pool to get the toy ||neutral

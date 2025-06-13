@@ -1,0 +1,6 @@
+there is not a man ||contradiction
+there is not a shirt ||contradiction
+there are not sunglasses ||contradiction
+the shirt is not white ||entailment
+the man is not in the shirt ||entailment
+the man do not drink together ||contradiction

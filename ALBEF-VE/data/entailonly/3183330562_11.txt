@@ -1,0 +1,2 @@
+there are children ||entailment
+the children are walking ||entailment

@@ -1,0 +1,3 @@
+There is not a girl. ||Contradiction
+There is not some liquid. ||Entailment
+The girl is not ingesting liquid. ||Entailment

@@ -1,0 +1,3 @@
+there is sand ||entailment
+there is ground ||entailment
+the sand is on ground ||entailment

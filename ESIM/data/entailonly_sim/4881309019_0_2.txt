@@ -1,0 +1,4 @@
+There is a acrobat. ||entailment
+There is a complication. ||entailment
+The acrobat is long. ||entailment
+The acrobat is jumping hurdle. ||contradiction

@@ -1,0 +1,4 @@
+There is a man. ||entailment
+There is a sweatshirt. ||entailment
+The sweatshirt is football. ||contradiction
+The man is wearing the sweatshirt. ||entailment

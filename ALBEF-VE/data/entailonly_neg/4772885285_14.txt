@@ -1,0 +1,4 @@
+there is not a woman ||contradiction
+there is not rain ||contradiction
+the woman is not alone ||entailment
+the woman is not in rain ||contradiction

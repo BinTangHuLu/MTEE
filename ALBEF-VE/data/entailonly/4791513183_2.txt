@@ -1,0 +1,3 @@
+there is a girl ||entailment
+there are some steps ||entailment
+the girl waits at steps ||entailment

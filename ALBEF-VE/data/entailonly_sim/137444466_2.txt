@@ -1,0 +1,5 @@
+there are community ||entailment
+there is a lawn ||contradiction
+there is a park ||entailment
+the community are gathered in courtyard ||entailment
+the lawn is in plaza ||contradiction

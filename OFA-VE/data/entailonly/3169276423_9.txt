@@ -1,0 +1,2 @@
+There is a couple. ||Entailment
+The couple is looking silly. ||Entailment

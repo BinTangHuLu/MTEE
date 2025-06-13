@@ -1,0 +1,9 @@
+there is a dude ||entailment
+there are some stuff ||entailment
+there are car ||neutral
+there is a rickshaw ||entailment
+the stuff are selling ||entailment
+the dude is selling things ||entailment
+the stuff are for kids ||neutral
+the dude is wheels cart ||entailment
+the rickshaw is around streets ||entailment

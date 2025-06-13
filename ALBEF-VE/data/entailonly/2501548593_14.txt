@@ -1,0 +1,3 @@
+there are ladies ||entailment
+there is a sport ||entailment
+the ladies are playing a sport ||entailment

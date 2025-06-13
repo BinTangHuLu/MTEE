@@ -1,0 +1,7 @@
+there are clan ||entailment
+the clan are wearing coats ||neutral
+there is a period ||entailment
+the period is cloudy ||entailment
+there is a alp ||entailment
+there is a scenery ||entailment
+the period is with mountain ||contradiction

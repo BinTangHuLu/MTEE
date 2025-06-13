@@ -1,0 +1,7 @@
+there is not a man ||contradiction
+there is not a woman ||contradiction
+there is not some toast ||contradiction
+there is not a tree ||contradiction
+the man is not making toast ||entailment
+the woman is not making toast ||entailment
+the toast is not in front of the tree ||contradiction

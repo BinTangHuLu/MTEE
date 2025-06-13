@@ -1,0 +1,5 @@
+There is a analyst. ||Entailment
+There are some appliance. ||Entailment
+The appliance are proper. ||Contradiction
+The analyst has tools. ||Entailment
+The appliance are for analysis work. ||Neutral

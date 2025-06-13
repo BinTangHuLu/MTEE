@@ -1,0 +1,5 @@
+there are not people ||contradiction
+there is not an ocean ||contradiction
+there is not a sky ||contradiction
+the people are not looking out at the ocean ||contradiction
+the people are not looking out at the sky ||contradiction

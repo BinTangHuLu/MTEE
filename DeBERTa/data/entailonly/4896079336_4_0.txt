@@ -1,0 +1,4 @@
+There is a man. ||entailment
+There are some surfboards. ||entailment
+There is a car. ||entailment
+The man secures surfboards. ||entailment

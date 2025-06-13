@@ -1,0 +1,3 @@
+there are band ||entailment
+there is a artery ||entailment
+the band are cleaning the road ||neutral

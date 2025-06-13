@@ -1,0 +1,3 @@
+there is a worker ||entailment
+there are duties ||entailment
+the worker performs duties ||entailment

@@ -1,0 +1,4 @@
+There are people. ||entailment
+There is a covering. ||entailment
+The people are talking. ||entailment
+The people are talking covering. ||entailment

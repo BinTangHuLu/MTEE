@@ -1,0 +1,2 @@
+There is a bicycle. ||entailment
+The bicycle is being ridden. ||entailment

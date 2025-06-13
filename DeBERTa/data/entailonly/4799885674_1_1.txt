@@ -1,0 +1,7 @@
+There is a man. ||entailment
+There is a shirt. ||entailment
+There is a camera. ||entailment
+The shirt is stripped. ||contradiction
+The man is with the shirt. ||entailment
+The man is carrying the camera. ||entailment
+The camera is on the body of the man. ||contradiction

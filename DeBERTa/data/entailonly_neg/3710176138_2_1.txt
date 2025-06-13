@@ -1,0 +1,4 @@
+There is not a boy. ||contradiction
+The boy is not little. ||contradiction
+The boy is not wet. ||contradiction
+The boy is not outside. ||contradiction

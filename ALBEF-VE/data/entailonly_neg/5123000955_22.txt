@@ -1,0 +1,9 @@
+there are not children ||contradiction
+there are not coats ||contradiction
+the coats are not all the colors ||entailment
+the children are not wearing coats ||contradiction
+there is not a day ||contradiction
+the day is not cloudy ||contradiction
+there is not a mountain ||contradiction
+there is not a backdrop ||contradiction
+the day is not with mountain ||contradiction

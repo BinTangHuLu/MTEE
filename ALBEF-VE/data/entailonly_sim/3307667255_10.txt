@@ -1,0 +1,4 @@
+there is a circle ||neutral
+there is a arena ||neutral
+there is a chapel ||entailment
+the arena is in front of the crowd ||neutral

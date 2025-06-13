@@ -1,0 +1,7 @@
+there is a man ||entailment
+there is some snow ||entailment
+there are mountains ||entailment
+the man is tubing ||neutral
+the man is on snow ||entailment
+the man is with mountains ||entailment
+the mountains are in the background ||entailment

@@ -1,0 +1,4 @@
+There is a dude. ||neutral
+There is a camcorder. ||entailment
+The dude has a camera. ||entailment
+The camcorder is in the woods. ||neutral

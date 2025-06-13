@@ -1,0 +1,5 @@
+there are not people ||contradiction
+there is not equipment ||contradiction
+there are not fish ||contradiction
+the people are not using equipment ||contradiction
+the equipment is not used to catch fish ||contradiction

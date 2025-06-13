@@ -1,0 +1,3 @@
+there are sheeps ||entailment
+there is a man ||entailment
+the sheeps are checked by man ||entailment

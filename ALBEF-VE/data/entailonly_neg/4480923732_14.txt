@@ -1,0 +1,5 @@
+there is not a man ||contradiction
+there is not a baby ||contradiction
+there is not a phone ||contradiction
+the baby is not with a phone ||contradiction
+the man is not with baby ||contradiction

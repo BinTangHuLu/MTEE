@@ -1,0 +1,7 @@
+There are people. ||entailment
+There is a slope. ||entailment
+There are backpacks. ||entailment
+The people are two. ||entailment
+The slope is snowy. ||entailment
+The people are hiking with backpacks. ||entailment
+The people are hiking up slope. ||entailment

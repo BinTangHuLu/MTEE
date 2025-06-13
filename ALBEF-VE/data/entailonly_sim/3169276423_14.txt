@@ -1,0 +1,5 @@
+there are community ||entailment
+there is a air ||entailment
+the community are few ||neutral
+the community are displaying something ||entailment
+something is on the air ||entailment

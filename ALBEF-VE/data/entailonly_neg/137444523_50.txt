@@ -1,0 +1,8 @@
+there is not a man ||contradiction
+there is not a woman ||contradiction
+there is not a shade ||contradiction
+the man and woman are not together ||neutral
+the man is not under the shade ||entailment
+the woman is not under the shade ||entailment
+the man is not taking pictures ||contradiction
+the woman is not taking pictures ||contradiction

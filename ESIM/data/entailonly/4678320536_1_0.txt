@@ -1,0 +1,12 @@
+There is a woman. ||entailment
+There is some wood. ||entailment
+There is a hand. ||entailment
+There is a smile. ||entailment
+There is a face. ||entailment
+The woman is standing. ||entailment
+The woman is with smile. ||entailment
+The woman is with wood. ||entailment
+The hand is in her. ||entailment
+The woman is standing with smile. ||entailment
+The woman is with wood. ||entailment
+The woman is with hand. ||entailment

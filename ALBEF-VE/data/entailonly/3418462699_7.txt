@@ -1,0 +1,4 @@
+there is a body ||entailment
+there is a tree ||entailment
+the tree is very large ||neutral
+the body is push over tree ||entailment

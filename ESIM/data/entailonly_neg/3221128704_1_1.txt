@@ -1,0 +1,7 @@
+There is not a man. ||contradiction
+There is not a soccer ball. ||contradiction
+There is not an outfit. ||contradiction
+The man is not green. ||contradiction
+The outfit is not purple and white. ||contradiction
+The man is not wearing kicks. ||contradiction
+The man is wearing does not fall down. ||contradiction

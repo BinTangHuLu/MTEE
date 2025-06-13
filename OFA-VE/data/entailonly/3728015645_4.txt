@@ -1,0 +1,4 @@
+There is a kid. ||Entailment
+There is a skateboard. ||Entailment
+The kid is doing tricks. ||Entailment
+The kid is doing tricks on the skateboard. ||Entailment

@@ -1,0 +1,3 @@
+there is drink ||entailment
+there is a account ||entailment
+the drink is in the picture ||entailment

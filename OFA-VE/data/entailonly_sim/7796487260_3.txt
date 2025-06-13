@@ -1,0 +1,4 @@
+There is a child. ||Entailment
+There is a act. ||Entailment
+The act is gymnastic. ||Entailment
+The child is doing moves. ||Entailment

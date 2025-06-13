@@ -1,0 +1,5 @@
+There is not a man. ||contradiction
+There is not a desk. ||contradiction
+There is not a computer. ||contradiction
+The man is not near the desk. ||contradiction
+The man is not near the computer. ||contradiction

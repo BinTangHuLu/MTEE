@@ -1,0 +1,2 @@
+there is drink ||entailment
+the dogs are by drink ||entailment

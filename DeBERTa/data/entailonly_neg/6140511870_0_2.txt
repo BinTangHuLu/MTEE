@@ -1,0 +1,14 @@
+There is not a guy. ||contradiction
+There is not a shirt. ||contradiction
+There are not pants. ||contradiction
+There is not a bandanna. ||entailment
+There is not a blaze. ||contradiction
+There is not a mouth. ||contradiction
+The guy is not wearing. ||contradiction
+The guy does not start. ||contradiction
+The bandanna is not over his mouth. ||contradiction
+The guy is not wearing the shirt. ||contradiction
+The guy is not wearing the pants. ||contradiction
+The guy is not wearing the bandanna. ||entailment
+The guy does not start the blaze. ||contradiction
+The blaze is not going. ||contradiction

@@ -1,0 +1,4 @@
+There is a barrier. ||entailment
+There is a fedora. ||neutral
+The fedora is green. ||entailment
+The snowboarder is while wearing fedora. ||contradiction

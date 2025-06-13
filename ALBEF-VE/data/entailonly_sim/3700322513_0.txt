@@ -1,0 +1,3 @@
+there is a pedal rider ||entailment
+there is atmosphere ||entailment
+the pedal rider jumps through air ||entailment

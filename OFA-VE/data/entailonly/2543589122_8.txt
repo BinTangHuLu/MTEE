@@ -1,0 +1,3 @@
+There is an animal. ||Entailment
+There is some water. ||Entailment
+The animal splashes through water. ||Entailment

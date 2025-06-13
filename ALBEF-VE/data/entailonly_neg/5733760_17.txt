@@ -1,0 +1,4 @@
+there is not a man ||contradiction
+there is not a phone ||contradiction
+the man is talking to someone not else ||neutral
+the man is not talking to the phone ||contradiction

@@ -1,0 +1,3 @@
+there is a person ||entailment
+there is a cord ||entailment
+the person is dangling from cord ||entailment

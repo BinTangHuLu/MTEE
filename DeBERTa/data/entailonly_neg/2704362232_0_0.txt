@@ -1,0 +1,6 @@
+There is not a man. ||contradiction
+There is not a dog. ||contradiction
+The dog is not small. ||contradiction
+The dog is not multicolored. ||contradiction
+The man is not in water. ||entailment
+The dog is not in water. ||contradiction

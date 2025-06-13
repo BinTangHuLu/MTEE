@@ -1,0 +1,3 @@
+there is a colt ||entailment
+there is an aircraft ||entailment
+the colt jumps over the airplane ||neutral

@@ -1,0 +1,2 @@
+EA,rifle,his
+RE2,is aiming,rifle

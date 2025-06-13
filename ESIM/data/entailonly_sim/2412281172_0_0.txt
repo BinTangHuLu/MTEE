@@ -1,0 +1,5 @@
+There are community. ||neutral
+There is a baby. ||entailment
+There is a jungle. ||neutral
+The community are walking in the kid. ||neutral
+The community are walking in the forest. ||neutral

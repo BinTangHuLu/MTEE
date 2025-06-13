@@ -1,0 +1,2 @@
+They are looking up. ||Entailment
+We are wearing sunglasses. ||Entailment

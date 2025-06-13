@@ -1,0 +1,5 @@
+There is a set. ||entailment
+There is an feeling. ||entailment
+There is a embracing lot. ||entailment
+The cops keep an feeling. ||entailment
+The cops keep a embracing lot. ||entailment

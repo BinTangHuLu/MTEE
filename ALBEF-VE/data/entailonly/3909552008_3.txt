@@ -1,0 +1,3 @@
+there are workers ||entailment
+there is a phone line ||entailment
+the workers are fixing the phone line ||entailment

@@ -1,0 +1,3 @@
+There is not an officer. ||Contradiction
+There are not some people. ||Contradiction
+The officer does not observe people. ||Contradiction

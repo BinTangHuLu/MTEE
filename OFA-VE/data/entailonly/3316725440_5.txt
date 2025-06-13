@@ -1,0 +1,4 @@
+There is someone. ||Entailment
+There is a bike. ||Entailment
+The bike is for a ride. ||Entailment
+Someone is taking the bike. ||Entailment

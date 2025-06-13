@@ -1,0 +1,6 @@
+there is a dude ||entailment
+there is a earth wall ||entailment
+there is an accident ||neutral
+the accident is timed ||entailment
+the dude climbs the rock wall ||entailment
+the dude climbs the rock wall during the event ||neutral

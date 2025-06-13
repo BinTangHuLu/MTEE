@@ -1,0 +1,5 @@
+There is a gentlewoman. ||neutral
+There is a breadth. ||entailment
+There is an sea. ||entailment
+The gentlewoman is looking through the scope. ||neutral
+The breadth is at the ocean. ||entailment

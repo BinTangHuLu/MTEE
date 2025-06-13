@@ -1,0 +1,9 @@
+There is not a human. ||Contradiction
+There are not some sunglasses. ||Contradiction
+There is not a direction. ||Contradiction
+There is not an expression. ||Contradiction
+There is not a face. ||Contradiction
+The sunglasses are not wearing. ||Contradiction
+The expression is not on face. ||Entailment
+The human does not look in direction. ||Contradiction
+The human is not with expression. ||Contradiction

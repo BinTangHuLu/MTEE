@@ -1,0 +1,6 @@
+There are not Cars. ||contradiction
+There are not tents. ||contradiction
+There is not a mountain. ||contradiction
+The Cars are not at foot. ||contradiction
+The tents are not at foot. ||contradiction
+The foot is not of mountain. ||contradiction

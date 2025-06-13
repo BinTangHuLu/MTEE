@@ -1,0 +1,5 @@
+there is a woman ||entailment
+there are shoes ||entailment
+there are tracks ||entailment
+the woman carries shoes ||contradiction
+the woman threw shoes to tracks ||contradiction

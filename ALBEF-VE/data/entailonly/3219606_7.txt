@@ -1,0 +1,4 @@
+there is a choir ||entailment
+there are decorations ||entailment
+the decorations are pimp themed ||entailment
+the choir is singing with decorations ||entailment

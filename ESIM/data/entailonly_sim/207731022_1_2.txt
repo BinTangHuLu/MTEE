@@ -1,0 +1,5 @@
+There is a kayak. ||entailment
+There is a berth. ||entailment
+The kayak is untied. ||neutral
+The kayak has come untied. ||entailment
+The kayak is drifting. ||entailment

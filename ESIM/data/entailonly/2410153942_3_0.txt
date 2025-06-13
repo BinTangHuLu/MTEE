@@ -1,0 +1,2 @@
+There is a truck. ||entailment
+The truck is on it's side. ||neutral

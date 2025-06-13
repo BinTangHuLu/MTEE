@@ -1,0 +1,3 @@
+there is an aircraft ||entailment
+there are congregation ||entailment
+the aircraft soars over spectators ||entailment

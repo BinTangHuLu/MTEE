@@ -1,0 +1,4 @@
+there is a girl ||entailment
+there is water ||entailment
+the girl is young ||neutral
+the girl is in water ||entailment

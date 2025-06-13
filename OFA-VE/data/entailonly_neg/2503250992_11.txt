@@ -1,0 +1,3 @@
+There is not a person. ||Contradiction
+There is not some food. ||Contradiction
+The person is not with food. ||Entailment

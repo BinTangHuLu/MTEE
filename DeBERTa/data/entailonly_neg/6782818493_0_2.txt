@@ -1,0 +1,5 @@
+There are not players. ||contradiction
+There is not a rink. ||contradiction
+There is not Hockey. ||contradiction
+The players are not standing on the rink. ||contradiction
+The players are not standing on the ice. ||contradiction

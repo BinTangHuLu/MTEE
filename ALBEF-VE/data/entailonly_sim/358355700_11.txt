@@ -1,0 +1,5 @@
+there are man ||entailment
+there are clan ||entailment
+the castle has a enlarge ||neutral
+man are watching children ||entailment
+clan are playing in the castle ||entailment

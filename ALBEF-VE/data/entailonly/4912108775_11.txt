@@ -1,0 +1,4 @@
+there is a man ||entailment
+there is a building ||entailment
+the building is brick ||entailment
+the man is in front of the building ||entailment

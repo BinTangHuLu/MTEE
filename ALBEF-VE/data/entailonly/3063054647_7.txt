@@ -1,0 +1,3 @@
+there are kids ||entailment
+there are woods ||entailment
+the kids are walking through woods ||entailment

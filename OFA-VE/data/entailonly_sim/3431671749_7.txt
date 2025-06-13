@@ -1,0 +1,4 @@
+There is a chase car. ||Entailment
+There is blaze. ||Entailment
+The chase car is shooting. ||Neutral
+The chase car is shooting fire. ||Entailment

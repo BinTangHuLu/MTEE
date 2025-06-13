@@ -1,0 +1,5 @@
+There is a dude. ||entailment
+There are clan. ||neutral
+The dude is encouraging. ||entailment
+The dude is to have fun with children. ||entailment
+The clan look on one another. ||neutral

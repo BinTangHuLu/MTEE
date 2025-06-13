@@ -1,0 +1,5 @@
+There is not a woman. ||contradiction
+There are not some clothes. ||contradiction
+There is not hiking. ||contradiction
+The woman is not outdoor. ||contradiction
+The woman is not hiking. ||contradiction

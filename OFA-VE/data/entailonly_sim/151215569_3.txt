@@ -1,0 +1,4 @@
+There is a child. ||Entailment
+There is a action. ||Entailment
+The child is little. ||Entailment
+The child makes gesture. ||Entailment

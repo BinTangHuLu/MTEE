@@ -1,0 +1,6 @@
+there is a dude ||entailment
+there is a coat ||entailment
+there is a colt ||neutral
+the coat is green ||entailment
+the colt is black ||neutral
+the dude takes care of the horse ||entailment

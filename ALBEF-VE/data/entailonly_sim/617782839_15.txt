@@ -1,0 +1,3 @@
+there is a dude ||entailment
+there is a nose ||entailment
+the dude is using the bow ||entailment

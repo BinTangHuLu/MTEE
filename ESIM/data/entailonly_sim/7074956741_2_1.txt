@@ -1,0 +1,4 @@
+There is a association. ||neutral
+There are some community. ||neutral
+There is a lap. ||neutral
+The association are on stage. ||entailment

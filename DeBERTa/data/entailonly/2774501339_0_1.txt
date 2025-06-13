@@ -1,0 +1,4 @@
+There is a man. ||entailment
+There is a wall. ||entailment
+The man is young. ||entailment
+The man is jumping against the wall. ||entailment

@@ -1,0 +1,3 @@
+there is a band ||entailment
+there are some effects ||entailment
+the band is performing in front of effects ||entailment

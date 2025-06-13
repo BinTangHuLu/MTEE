@@ -1,0 +1,2 @@
+there is not an airplane ||contradiction
+the airplane is not heavy ||entailment

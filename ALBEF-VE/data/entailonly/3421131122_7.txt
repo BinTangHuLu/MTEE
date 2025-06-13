@@ -1,0 +1,3 @@
+there is a kayaker ||entailment
+there is an oar ||entailment
+the kayaker is holding the oar ||entailment

@@ -1,0 +1,4 @@
+There is not a man. ||contradiction
+There is not a girl. ||contradiction
+The man does not swim. ||contradiction
+The girl does not swim. ||contradiction

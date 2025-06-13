@@ -1,0 +1,7 @@
+There is a female. ||entailment
+There is a call up. ||entailment
+There is a path. ||entailment
+The female is talking. ||entailment
+The female is walking. ||entailment
+The female is talking on the phone. ||entailment
+The female is walking down the sidewalk. ||entailment

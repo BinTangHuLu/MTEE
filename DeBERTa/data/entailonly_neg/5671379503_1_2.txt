@@ -1,0 +1,3 @@
+There are not workers. ||contradiction
+There is not a building. ||contradiction
+The workers are not climbing the building. ||contradiction

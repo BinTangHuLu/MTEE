@@ -1,0 +1,2 @@
+EA,worker,indoors
+E1RE2,worker,is,indoors

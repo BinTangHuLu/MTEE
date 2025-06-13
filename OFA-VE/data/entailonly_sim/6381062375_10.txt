@@ -1,0 +1,2 @@
+There is a animal. ||Contradiction
+The animal is performing. ||Contradiction

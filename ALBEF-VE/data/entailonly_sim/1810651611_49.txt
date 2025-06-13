@@ -1,0 +1,4 @@
+there is a child ||entailment
+there is a apparel ||entailment
+the apparel has flowers ||entailment
+the child is in the dress ||entailment

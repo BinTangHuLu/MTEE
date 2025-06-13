@@ -1,0 +1,5 @@
+there is a dude ||entailment
+there are some detritus ||neutral
+there is some craft ||entailment
+the dude is looking at pieces ||entailment
+the detritus are of art ||contradiction

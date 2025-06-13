@@ -1,0 +1,3 @@
+There is a man. ||entailment
+The man has eyesight deficiency. ||entailment
+The man has This. ||entailment

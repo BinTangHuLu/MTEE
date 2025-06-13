@@ -1,0 +1,4 @@
+There are children. ||Entailment
+There is a picture. ||Entailment
+The children are two. ||Entailment
+The children are in the picture. ||Entailment

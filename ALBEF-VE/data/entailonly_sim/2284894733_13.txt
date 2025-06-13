@@ -1,0 +1,3 @@
+there is a pup ||entailment
+there is a achievement ||entailment
+the pup is in the performance ||entailment

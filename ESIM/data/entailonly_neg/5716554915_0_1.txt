@@ -1,0 +1,3 @@
+There is not a person. ||contradiction
+There is not a room. ||entailment
+The person is not in the room. ||entailment

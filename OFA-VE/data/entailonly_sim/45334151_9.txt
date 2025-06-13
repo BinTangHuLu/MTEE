@@ -1,0 +1,4 @@
+There is a dude. ||Entailment
+There is a washing. ||Entailment
+The dude is young. ||Entailment
+The dude is waiting at laundry. ||Neutral

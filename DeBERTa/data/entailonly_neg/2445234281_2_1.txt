@@ -1,0 +1,3 @@
+There is not a woman. ||contradiction
+There is not a book. ||contradiction
+The woman is not looking at the book. ||contradiction

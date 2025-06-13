@@ -1,0 +1,5 @@
+there are not paddlers ||contradiction
+there is not a rock ||contradiction
+there is not a river ||contradiction
+the paddlers are not avoiding the rock ||entailment
+the paddlers are not at the river ||entailment

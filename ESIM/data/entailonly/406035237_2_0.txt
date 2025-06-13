@@ -1,0 +1,5 @@
+There is a boy. ||entailment
+There is a window. ||entailment
+There is a train station. ||entailment
+The boy is looking through the window. ||entailment
+The boy is at the train station. ||entailment

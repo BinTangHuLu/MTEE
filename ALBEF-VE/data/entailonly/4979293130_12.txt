@@ -1,0 +1,4 @@
+there is a child ||entailment
+there is a moped ||entailment
+the child is small ||entailment
+the child wants moped ||entailment

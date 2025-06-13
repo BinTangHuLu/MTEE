@@ -1,0 +1,5 @@
+There is a guy. ||entailment
+There is a marshmallow. ||entailment
+There is someone else. ||entailment
+The guy bites into the marshmallow. ||entailment
+Someone else desires a bite of the marshmallow. ||entailment

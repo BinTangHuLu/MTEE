@@ -1,0 +1,4 @@
+There is not a woman. ||contradiction
+The woman is not elderly. ||contradiction
+The woman is balancing somethingnot . ||neutral
+The woman is not having a conversation. ||contradiction

@@ -1,0 +1,4 @@
+There is not a bowl. ||Entailment
+There is not a kiln. ||Contradiction
+The bowl is not spun. ||Entailment
+It will not transfer to the kiln. ||Neutral

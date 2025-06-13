@@ -1,0 +1,4 @@
+There is not a girl. ||contradiction
+There is not a photographer. ||contradiction
+The girl is not dancing. ||contradiction
+The photographer is not taking a photo. ||contradiction

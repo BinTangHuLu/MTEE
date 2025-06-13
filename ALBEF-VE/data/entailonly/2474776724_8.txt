@@ -1,0 +1,4 @@
+there are players ||entailment
+there is soccer ||entailment
+the players are female ||neutral
+the players are playing against players ||neutral

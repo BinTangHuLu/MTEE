@@ -1,0 +1,4 @@
+There are boys. ||entailment
+There is a ball. ||entailment
+The boys are young. ||entailment
+The boys are kicking around the ball. ||entailment

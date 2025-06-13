@@ -1,0 +1,6 @@
+there is a person ||entailment
+there is a sports ||entailment
+there is an outdoors ||entailment
+the person is playing sports ||entailment
+the person is playing sports ||entailment
+the person is playing outdoors ||entailment

@@ -1,0 +1,3 @@
+there is a girl ||entailment
+there is a game ||entailment
+the girl is playing the game ||entailment

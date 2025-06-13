@@ -1,0 +1,2 @@
+there is a family ||entailment
+the family is eating together ||entailment

@@ -1,0 +1,5 @@
+there are female ||entailment
+there is a account ||entailment
+there is a forest ||entailment
+the female are posing for the picture ||entailment
+the account is in front of the tree ||entailment

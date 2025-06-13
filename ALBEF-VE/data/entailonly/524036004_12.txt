@@ -1,0 +1,3 @@
+there is a boy ||entailment
+there is a pool ||entailment
+the boy is jumping into the pool ||entailment

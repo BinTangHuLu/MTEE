@@ -1,0 +1,4 @@
+There is a blouse. ||neutral
+There is a carton. ||entailment
+The blouse is plaid. ||entailment
+Someone sits on the carton. ||entailment

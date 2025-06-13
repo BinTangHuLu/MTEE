@@ -1,0 +1,4 @@
+There is not a kid. ||Contradiction
+There is not a GameCube. ||Contradiction
+The kid is not little. ||Contradiction
+The kid is not playing GameCube. ||Entailment

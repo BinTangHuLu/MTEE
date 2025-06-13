@@ -1,0 +1,4 @@
+there is a contest ||entailment
+there are others ||entailment
+the contest took place ||neutral
+the contest is to win others ||neutral

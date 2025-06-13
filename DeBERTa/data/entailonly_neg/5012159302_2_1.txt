@@ -1,0 +1,5 @@
+There are not Men. ||contradiction
+There are not overalls. ||contradiction
+There is not a tractor. ||contradiction
+The Men are not in overalls. ||contradiction
+The Men do not work to fix the tractor. ||contradiction

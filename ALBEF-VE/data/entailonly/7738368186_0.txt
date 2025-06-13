@@ -1,0 +1,4 @@
+there is a person ||entailment
+there are some bottles ||entailment
+the bottles are beer ||neutral
+the person collects bottles ||entailment

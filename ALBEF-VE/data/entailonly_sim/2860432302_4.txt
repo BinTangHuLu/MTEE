@@ -1,0 +1,3 @@
+there is an business ||entailment
+there is a card ||entailment
+the business is on the menu ||entailment

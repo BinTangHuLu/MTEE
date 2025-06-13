@@ -1,0 +1,5 @@
+there is a dude ||entailment
+the dude is red haired ||contradiction
+the dude is showing ||entailment
+there are habit ||neutral
+the dude is showing muscles ||entailment

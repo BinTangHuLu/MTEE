@@ -1,0 +1,5 @@
+there are not boys ||contradiction
+there is not a boy ||contradiction
+there is not water ||contradiction
+the boys do not stand next to the boy ||contradiction
+the boy is not sitting by water ||contradiction

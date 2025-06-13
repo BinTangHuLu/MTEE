@@ -1,0 +1,6 @@
+There is not a lady. ||contradiction
+There is not an axe. ||contradiction
+There are not woods. ||contradiction
+The lady is not posing. ||contradiction
+The lady is not with an axe. ||contradiction
+The lady is not posing in woods. ||contradiction

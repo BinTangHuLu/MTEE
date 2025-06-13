@@ -1,0 +1,6 @@
+there is not a man ||contradiction
+there are not women ||contradiction
+there is not furniture ||contradiction
+the man and women are not together ||contradiction
+the man is not sitting on furniture ||contradiction
+the women are not sitting on furniture ||contradiction

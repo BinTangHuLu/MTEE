@@ -1,0 +1,4 @@
+there are players ||entailment
+there is a football ||entailment
+the players are opposing ||entailment
+players tackle players ||entailment

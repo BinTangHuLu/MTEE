@@ -1,0 +1,3 @@
+There is a vendor. ||Entailment
+There are people. ||Entailment
+The vendor is outside people. ||Entailment

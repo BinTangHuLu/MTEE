@@ -1,0 +1,3 @@
+there are not teenagers ||contradiction
+there are not outdoors ||contradiction
+the teenagers are not outdoors ||contradiction

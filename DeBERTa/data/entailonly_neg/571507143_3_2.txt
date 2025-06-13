@@ -1,0 +1,5 @@
+There are not children. ||contradiction
+There is not water. ||contradiction
+The children are not playing near water. ||contradiction
+The children are somenot . ||contradiction
+The children are not outside. ||contradiction

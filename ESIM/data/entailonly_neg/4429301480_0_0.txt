@@ -1,0 +1,4 @@
+There are not women. ||contradiction
+There are not plants. ||contradiction
+The plants are not green. ||entailment
+The women are not sitting near to plants. ||contradiction

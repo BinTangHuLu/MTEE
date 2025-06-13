@@ -1,0 +1,3 @@
+there is a man ||entailment
+there is a table ||entailment
+the man is close to a table ||entailment

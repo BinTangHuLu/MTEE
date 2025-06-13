@@ -1,0 +1,2 @@
+EA,male,young
+E1R,male,has

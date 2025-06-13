@@ -1,0 +1,4 @@
+There are adolescent. ||entailment
+There is a child. ||entailment
+The adolescent are standing next to the girl. ||entailment
+The child is sitting. ||entailment

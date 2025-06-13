@@ -1,0 +1,4 @@
+there is a person ||entailment
+there is a horse ||entailment
+the person is outdoors ||entailment
+the person is on the horse ||entailment

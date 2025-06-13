@@ -1,0 +1,4 @@
+There is a baby. ||Entailment
+There is a dude. ||Contradiction
+The dude is older. ||Contradiction
+The baby is hoisted above the man. ||Entailment

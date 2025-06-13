@@ -1,0 +1,5 @@
+there is a baby ||entailment
+there is a doll ||entailment
+the baby is small ||neutral
+the baby is male ||neutral
+the baby engages with toy ||entailment

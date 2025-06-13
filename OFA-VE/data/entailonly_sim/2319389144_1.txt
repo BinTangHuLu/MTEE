@@ -1,0 +1,3 @@
+There are community. ||Entailment
+There is a avenue. ||Entailment
+community walk down street. ||Entailment

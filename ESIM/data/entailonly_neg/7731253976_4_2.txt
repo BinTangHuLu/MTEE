@@ -1,0 +1,2 @@
+There is not a bathroom. ||contradiction
+Someone is not fooling around in the bathroom. ||contradiction

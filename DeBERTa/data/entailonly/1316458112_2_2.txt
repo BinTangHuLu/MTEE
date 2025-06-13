@@ -1,0 +1,4 @@
+There are men. ||entailment
+The men are wearing dark clothing. ||entailment
+There is a bag. ||entailment
+The men is reaching into the bag. ||entailment

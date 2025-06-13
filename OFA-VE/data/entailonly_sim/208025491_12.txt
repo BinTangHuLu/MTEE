@@ -1,0 +1,4 @@
+There are community. ||Entailment
+There is a estate. ||Neutral
+community talk to one another. ||Entailment
+community are at park. ||Entailment

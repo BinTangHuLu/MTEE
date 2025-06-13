@@ -1,0 +1,4 @@
+there is not a man ||contradiction
+there is not a jacket ||contradiction
+the jacket is not wearing ||contradiction
+the man is not wearing jacket ||contradiction

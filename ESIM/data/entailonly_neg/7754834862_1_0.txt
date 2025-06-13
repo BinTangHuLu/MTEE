@@ -1,0 +1,4 @@
+There are not riders. ||contradiction
+There is not a bike. ||contradiction
+The bike is not dirt. ||contradiction
+The riders are not outside. ||contradiction

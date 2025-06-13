@@ -1,0 +1,3 @@
+there are community ||entailment
+there is a bed ||entailment
+the community are on the couch ||entailment

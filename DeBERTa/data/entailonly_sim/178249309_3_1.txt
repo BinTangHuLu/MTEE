@@ -1,0 +1,3 @@
+There is a dude. ||entailment
+There is a artery. ||entailment
+The dude is near the road. ||entailment

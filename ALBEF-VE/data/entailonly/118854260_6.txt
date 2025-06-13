@@ -1,0 +1,3 @@
+there is a woman ||entailment
+there are scissors ||entailment
+the woman is holding scissors ||entailment

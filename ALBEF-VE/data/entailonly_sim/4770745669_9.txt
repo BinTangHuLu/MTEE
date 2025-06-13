@@ -1,0 +1,7 @@
+there is a dude ||entailment
+there is a blouse ||entailment
+there are some knickers ||neutral
+there is a access ||entailment
+the blouse is black ||contradiction
+the knickers are blue ||neutral
+the dude stands in the doorway ||entailment

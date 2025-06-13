@@ -1,0 +1,2 @@
+There is a WNBA agreeable. ||Entailment
+The WNBA agreeable is in progress. ||Entailment

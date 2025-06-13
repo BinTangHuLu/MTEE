@@ -1,0 +1,10 @@
+there is a gem ||entailment
+there is a basin ||entailment
+there is a child ||entailment
+the child is sitting ||contradiction
+the child is wearing jeans ||neutral
+there are female ||entailment
+the female are older ||neutral
+the female are wearing a red top ||entailment
+there is a fedora ||contradiction
+the child is next to the stone ||entailment

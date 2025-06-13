@@ -1,0 +1,5 @@
+there is a dude ||entailment
+there is a child ||entailment
+there is a basin ||neutral
+the dude is holding the girl ||entailment
+the dude is in the pool ||entailment

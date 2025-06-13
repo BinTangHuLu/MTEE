@@ -1,0 +1,4 @@
+There are people. ||Entailment
+There is grass. ||Entailment
+The people are younger. ||Entailment
+The people are outside on grass. ||Entailment

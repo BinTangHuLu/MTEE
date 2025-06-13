@@ -1,0 +1,5 @@
+there is a man ||entailment
+there is a woman ||entailment
+there are some shorts ||entailment
+the man is wearing shorts ||neutral
+the woman is wearing shorts ||neutral

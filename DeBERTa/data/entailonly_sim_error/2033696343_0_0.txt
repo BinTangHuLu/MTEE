@@ -1,0 +1,3 @@
+A,standing nearby
+E1R,store,with
+E1R,computer,with

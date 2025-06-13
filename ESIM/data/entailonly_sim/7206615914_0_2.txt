@@ -1,0 +1,2 @@
+There is a gig. ||entailment
+The gig is being held at night. ||entailment

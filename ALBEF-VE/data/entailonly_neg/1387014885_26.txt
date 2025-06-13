@@ -1,0 +1,3 @@
+there are not people ||contradiction
+there is not an event ||contradiction
+the people together are not speaking at the event ||contradiction

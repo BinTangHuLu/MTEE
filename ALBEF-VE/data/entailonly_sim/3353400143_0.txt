@@ -1,0 +1,4 @@
+there is a chauffeur ||entailment
+there is a automobile ||entailment
+the automobile has two wheels ||entailment
+the chauffeur is in the vehicle ||entailment

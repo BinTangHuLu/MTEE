@@ -1,0 +1,3 @@
+there is a man ||entailment
+there is a boy ||entailment
+the man and boy are singing ||neutral

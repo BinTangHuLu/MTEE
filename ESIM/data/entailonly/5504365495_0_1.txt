@@ -1,0 +1,6 @@
+There is a woman. ||entailment
+There is a baby. ||entailment
+There is a pajamas. ||entailment
+The woman has baby's pajamas. ||entailment
+The woman buttons the baby. ||entailment
+The baby cries. ||entailment

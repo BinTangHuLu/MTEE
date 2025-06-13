@@ -1,0 +1,5 @@
+there are not people ||contradiction
+there are not shirts ||contradiction
+the people are not young ||entailment
+the shirts are not blue ||contradiction
+the people do not have shirts ||contradiction

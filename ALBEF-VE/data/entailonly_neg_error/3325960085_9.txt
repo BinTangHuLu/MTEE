@@ -1,0 +1,2 @@
+A,seated
+RE2,are,seated

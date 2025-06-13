@@ -1,0 +1,4 @@
+there is not water ||contradiction
+there is not a sunset ||contradiction
+the water is not turbulent ||entailment
+the water is not at sunset ||contradiction

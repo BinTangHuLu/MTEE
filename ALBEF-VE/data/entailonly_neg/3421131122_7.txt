@@ -1,0 +1,3 @@
+there is not a kayaker ||contradiction
+there is not an oar ||contradiction
+the kayaker is not holding the oar ||contradiction

@@ -1,0 +1,4 @@
+there is a drum ||entailment
+there is a man ||entailment
+the man is scantily dressed ||neutral
+the drum has been placed atop the man ||contradiction

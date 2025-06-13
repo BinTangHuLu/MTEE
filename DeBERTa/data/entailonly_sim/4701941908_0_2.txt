@@ -1,0 +1,4 @@
+There is a child. ||entailment
+There is a chair. ||entailment
+The child eats on the bench. ||entailment
+The chair is near the stroller. ||contradiction

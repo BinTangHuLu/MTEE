@@ -1,0 +1,5 @@
+There is not a Child. ||Contradiction
+There is not water. ||Contradiction
+The Child is not looking at. ||Entailment
+The Child is not wearing flotational devices. ||Entailment
+The Child is not looking at water. ||Entailment

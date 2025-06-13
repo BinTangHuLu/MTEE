@@ -1,0 +1,5 @@
+There is not a dog. ||contradiction
+The dog is not running. ||contradiction
+There is not an area. ||contradiction
+The area is not marshy. ||contradiction
+The dog is not running in the area. ||contradiction

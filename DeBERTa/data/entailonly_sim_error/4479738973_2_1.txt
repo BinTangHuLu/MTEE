@@ -1,0 +1,2 @@
+E1RE2,vehicles,are going down,street
+E1RE2,vehicles,are going down,Thailand

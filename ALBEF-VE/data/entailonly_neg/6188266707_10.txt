@@ -1,0 +1,4 @@
+there is not a woman ||contradiction
+there is not a uniform ||contradiction
+the uniform is not volleyball ||contradiction
+the woman is not wearing uniform ||contradiction

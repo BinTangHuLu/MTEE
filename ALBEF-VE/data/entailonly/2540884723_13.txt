@@ -1,0 +1,5 @@
+there is a man ||entailment
+there is a woman ||entailment
+there is a staircase ||entailment
+the man is sitting on the staircase ||entailment
+the woman is sitting on the staircase ||entailment

@@ -1,0 +1,6 @@
+there are not women ||contradiction
+there are not bikes ||contradiction
+the women are not two ||entailment
+the women are not riding their bikes ||contradiction
+the bikes are not next to the women ||entailment
+the women are not outside ||entailment

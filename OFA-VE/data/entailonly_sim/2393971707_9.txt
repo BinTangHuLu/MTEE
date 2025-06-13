@@ -1,0 +1,3 @@
+There are community. ||Entailment
+There are staircase. ||Entailment
+community walk down steps. ||Neutral

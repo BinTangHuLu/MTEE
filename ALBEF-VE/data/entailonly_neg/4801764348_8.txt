@@ -1,0 +1,2 @@
+there are not men ||entailment
+the men are not sitting ||entailment

@@ -1,0 +1,5 @@
+there is a dude ||entailment
+there is an branch ||entailment
+there is a armchair ||entailment
+the dude has one arm ||entailment
+the dude sits in the chair ||entailment

@@ -1,0 +1,3 @@
+there is a father ||entailment
+there are some photos ||entailment
+the father has taken photos ||entailment

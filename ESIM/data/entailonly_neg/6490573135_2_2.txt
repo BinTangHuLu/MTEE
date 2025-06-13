@@ -1,0 +1,5 @@
+There is not a photographer. ||contradiction
+There are not x-rays. ||neutral
+There is not a hockey game. ||contradiction
+The photographer is not taking x-rays. ||contradiction
+The photographer is not taking the hockey game. ||contradiction

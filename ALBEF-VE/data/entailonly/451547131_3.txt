@@ -1,0 +1,3 @@
+there is a surfer ||entailment
+there is a walk ||entailment
+the surfer is taking a walk ||entailment

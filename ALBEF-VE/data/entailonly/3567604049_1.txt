@@ -1,0 +1,4 @@
+there is a boy ||entailment
+there is a picture ||entailment
+the boy is in the picture ||entailment
+the boy is outside ||entailment

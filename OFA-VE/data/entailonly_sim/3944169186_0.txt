@@ -1,0 +1,4 @@
+There are adolescent. ||Entailment
+There are minority. ||Neutral
+The adolescent are playing. ||Entailment
+The adolescent are playing basket ball. ||Entailment

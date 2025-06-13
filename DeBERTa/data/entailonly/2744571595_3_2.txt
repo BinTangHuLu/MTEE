@@ -1,0 +1,3 @@
+There is a group. ||entailment
+There are men. ||entailment
+The group and men are talking to each other. ||entailment

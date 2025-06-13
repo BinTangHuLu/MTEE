@@ -1,0 +1,5 @@
+there is not a boy ||contradiction
+there is not a ball ||contradiction
+there is not a track ||contradiction
+the boy is not holding the ball ||contradiction
+the ball is not next to the track ||contradiction

@@ -1,0 +1,4 @@
+There is not a girl. ||contradiction
+There is not a father. ||contradiction
+The girl is not present. ||contradiction
+The girl is not present by father. ||contradiction

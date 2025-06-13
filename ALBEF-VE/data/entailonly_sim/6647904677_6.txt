@@ -1,0 +1,7 @@
+there is a association ||entailment
+there are some community ||entailment
+there are some apparel ||entailment
+the apparel are blue ||entailment
+the community are in robes ||entailment
+the community are in headdresses ||entailment
+the community are on bikes ||entailment

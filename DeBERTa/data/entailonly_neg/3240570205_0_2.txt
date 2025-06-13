@@ -1,0 +1,5 @@
+There is not an adult. ||contradiction
+There is not a camera. ||contradiction
+The adult is not using. ||contradiction
+The camera is not video. ||contradiction
+The adult is not using camera. ||contradiction

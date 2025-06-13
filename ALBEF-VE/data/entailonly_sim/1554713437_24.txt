@@ -1,0 +1,3 @@
+there is a pup ||entailment
+there is a jungle ||entailment
+the pup is walking in the forest ||entailment

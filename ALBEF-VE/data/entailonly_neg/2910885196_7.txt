@@ -1,0 +1,3 @@
+there is not a family ||contradiction
+there is not a birthday ||contradiction
+the family is not celebrating birthday ||contradiction

@@ -1,0 +1,6 @@
+there is a person ||entailment
+there is some clothing ||entailment
+there are some objects ||entailment
+the clothing is dark ||entailment
+the person is in clothing ||entailment
+the objects are meant to convey some kind of information or message ||entailment

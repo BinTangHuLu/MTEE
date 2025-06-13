@@ -1,0 +1,2 @@
+There is a animal. ||entailment
+The animal is jumping. ||entailment

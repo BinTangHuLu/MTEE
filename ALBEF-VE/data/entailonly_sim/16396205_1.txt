@@ -1,0 +1,5 @@
+there are boy ||entailment
+there is barley ||neutral
+the boy are some ||neutral
+the barley is some ||neutral
+the boy are having a good time ||entailment

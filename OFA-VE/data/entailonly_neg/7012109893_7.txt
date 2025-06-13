@@ -1,0 +1,2 @@
+There is not a child. ||Contradiction
+The child was not there. ||Contradiction

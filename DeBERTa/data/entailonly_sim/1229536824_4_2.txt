@@ -1,0 +1,2 @@
+There are community. ||entailment
+The community are dancing. ||entailment

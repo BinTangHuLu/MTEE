@@ -1,0 +1,4 @@
+There is a human. ||Entailment
+There is some clothing. ||Neutral
+The clothing is head. ||Contradiction
+The human is wearing clothing. ||Entailment

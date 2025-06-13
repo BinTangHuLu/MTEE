@@ -1,0 +1,3 @@
+There is not a man. ||contradiction
+There is not a cliff. ||contradiction
+The man is not climbing the cliff. ||contradiction

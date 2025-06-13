@@ -1,0 +1,2 @@
+there is not a car ||contradiction
+he is not in front of the car ||contradiction

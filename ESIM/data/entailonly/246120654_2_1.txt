@@ -1,0 +1,4 @@
+There are children. ||entailment
+There is a room. ||entailment
+The children are clothed. ||entailment
+The children are relaxing in the room. ||entailment

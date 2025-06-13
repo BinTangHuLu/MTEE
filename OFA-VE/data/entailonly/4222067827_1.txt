@@ -1,0 +1,6 @@
+There is a Child. ||Entailment
+There is a helmet. ||Entailment
+There is a cow. ||Entailment
+There is a vest. ||Entailment
+The helmet is viking. ||Neutral
+The vest is cow. ||Neutral

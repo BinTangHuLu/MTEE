@@ -1,0 +1,5 @@
+there are mom ||entailment
+there is a baby ||entailment
+there is a avenue ||entailment
+the mom watch their child ||entailment
+the baby is playing in the street ||entailment

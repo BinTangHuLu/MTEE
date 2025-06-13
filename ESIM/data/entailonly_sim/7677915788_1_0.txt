@@ -1,0 +1,5 @@
+There is a soccer athlete. ||entailment
+There is a ambition. ||entailment
+There is an opposing club. ||neutral
+The soccer athlete tries to score the goal. ||entailment
+The opposing club stops it. ||neutral

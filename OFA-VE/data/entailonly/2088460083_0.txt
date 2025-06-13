@@ -1,0 +1,2 @@
+There is a vehicle. ||Entailment
+The vehicle has not been taken care of. ||Entailment

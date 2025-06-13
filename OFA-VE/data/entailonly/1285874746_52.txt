@@ -1,0 +1,3 @@
+There is a crowd. ||Entailment
+There is a woman. ||Entailment
+The crowd surrounds the woman. ||Entailment

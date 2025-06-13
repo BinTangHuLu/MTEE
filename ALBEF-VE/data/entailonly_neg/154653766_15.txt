@@ -1,0 +1,3 @@
+there are not people ||contradiction
+there is not a bank ||contradiction
+people are not outside bank ||contradiction

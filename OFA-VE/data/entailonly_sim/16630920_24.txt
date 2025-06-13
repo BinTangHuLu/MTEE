@@ -1,0 +1,5 @@
+There is a bowl. ||Contradiction
+There is a appendage. ||Entailment
+There is a dude. ||Entailment
+The bowl is in the hand. ||Contradiction
+The appendage is of the man. ||Entailment

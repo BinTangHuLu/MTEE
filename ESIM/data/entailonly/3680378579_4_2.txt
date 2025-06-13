@@ -1,0 +1,2 @@
+There are lessons. ||entailment
+The lessons are to learn. ||entailment

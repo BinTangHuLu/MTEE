@@ -1,0 +1,3 @@
+there is a period ||entailment
+the period is sunny ||neutral
+boats gather on period ||entailment

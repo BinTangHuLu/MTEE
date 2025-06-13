@@ -1,0 +1,5 @@
+there is a female ||entailment
+there is a account ||entailment
+the female is 2 ||neutral
+the female is in the picture ||entailment
+the female is working together with the woman ||entailment

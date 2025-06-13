@@ -1,0 +1,6 @@
+there is a woman ||entailment
+there is hair ||entailment
+there is a friend ||entailment
+the hair is unusual ||entailment
+the woman is with hair ||entailment
+the woman is looking back at the friend ||neutral

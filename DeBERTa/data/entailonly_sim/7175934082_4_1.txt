@@ -1,0 +1,4 @@
+There is a commando. ||neutral
+The commando is using binoculars. ||neutral
+The commando is outside. ||entailment
+The commando is in heat. ||neutral

@@ -1,0 +1,5 @@
+there is a assemblage ||entailment
+there is an band ||entailment
+there are some apparatus ||entailment
+the assemblage sings orchestra ||neutral
+the band plays instruments ||entailment

@@ -1,0 +1,3 @@
+He is running association. ||neutral
+There is a association. ||entailment
+There are community. ||entailment

@@ -1,0 +1,6 @@
+There are not people. ||contradiction
+There is not a building. ||contradiction
+The building is not brick. ||contradiction
+The mural is not colorful. ||contradiction
+The people are not walking toward the building. ||contradiction
+The building is not with mural. ||contradiction

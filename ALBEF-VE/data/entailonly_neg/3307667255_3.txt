@@ -1,0 +1,4 @@
+there is not a marketplace ||contradiction
+there are not people ||contradiction
+the marketplace is not full ||entailment
+the marketplace is not full of people ||contradiction

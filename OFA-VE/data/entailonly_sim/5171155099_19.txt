@@ -1,0 +1,3 @@
+There is a dude. ||Entailment
+There is a colt. ||Entailment
+The dude sits on the horse. ||Entailment

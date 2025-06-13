@@ -1,0 +1,4 @@
+there are dude ||entailment
+there is a lap ||entailment
+dude sing and play guitars ||entailment
+guitars are on lap ||entailment

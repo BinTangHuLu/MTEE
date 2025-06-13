@@ -1,0 +1,3 @@
+there are not people ||contradiction
+there is not ground ||entailment
+the people are on ground ||contradiction

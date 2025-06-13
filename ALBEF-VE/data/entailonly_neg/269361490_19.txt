@@ -1,0 +1,3 @@
+there are not people ||contradiction
+there are not houses ||contradiction
+the people are not hanging outside near houses ||contradiction

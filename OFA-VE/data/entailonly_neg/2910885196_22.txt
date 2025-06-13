@@ -1,0 +1,4 @@
+There is not a man. ||Contradiction
+There is not a cake. ||Contradiction
+The man is not blue. ||Entailment
+The man is not by cake. ||Contradiction

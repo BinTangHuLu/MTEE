@@ -1,0 +1,4 @@
+There is not a girl. ||contradiction
+There is not a car. ||contradiction
+The girl does not have a toy. ||contradiction
+The girl is not riding in the car. ||contradiction

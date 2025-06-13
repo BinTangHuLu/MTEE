@@ -1,0 +1,4 @@
+there is a association ||entailment
+there are some community ||entailment
+there is a apartment ||contradiction
+the association is next to the house ||entailment

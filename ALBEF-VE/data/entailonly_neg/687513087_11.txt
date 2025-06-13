@@ -1,0 +1,3 @@
+there are not animals ||contradiction
+there are not mouths ||contradiction
+the animals are not showing their mouths ||entailment

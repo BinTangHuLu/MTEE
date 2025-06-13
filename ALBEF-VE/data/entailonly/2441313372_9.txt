@@ -1,0 +1,4 @@
+there is a boy ||entailment
+there is a hospital ||entailment
+the boy is young ||entailment
+the boy rests in hospital ||entailment

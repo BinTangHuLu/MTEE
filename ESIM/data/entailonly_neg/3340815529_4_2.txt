@@ -1,0 +1,5 @@
+There is not a man. ||contradiction
+The man is not elderly. ||contradiction
+The man did not give up blowing air. ||contradiction
+The man did not give up an object. ||contradiction
+The man is not blowing air into the object. ||contradiction

@@ -1,0 +1,3 @@
+There are community. ||Entailment
+There is a farmland. ||Neutral
+The community have gathered in the field. ||Entailment

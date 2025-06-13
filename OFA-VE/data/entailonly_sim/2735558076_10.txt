@@ -1,0 +1,5 @@
+There are community. ||Entailment
+There are bounce. ||Entailment
+The bounce are matching. ||Contradiction
+The bounce are heeled. ||Entailment
+The community are wearing boots. ||Entailment

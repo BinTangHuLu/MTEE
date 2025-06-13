@@ -1,0 +1,4 @@
+there is a man ||entailment
+there is a road ||entailment
+there is a desert ||entailment
+the man walks down the road ||entailment

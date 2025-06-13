@@ -1,0 +1,4 @@
+There are community. ||entailment
+There is drink. ||neutral
+The community are standing outside. ||entailment
+The community are near water. ||entailment

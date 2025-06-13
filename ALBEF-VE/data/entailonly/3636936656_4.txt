@@ -1,0 +1,3 @@
+there is a woman ||entailment
+there are some shoes ||entailment
+the woman is attending to shoes ||entailment

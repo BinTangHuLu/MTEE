@@ -1,0 +1,2 @@
+there is bracelet ||entailment
+she is wearing bracelet ||neutral

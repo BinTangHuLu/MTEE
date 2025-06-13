@@ -1,0 +1,5 @@
+there are dude ||entailment
+there are female ||entailment
+there are two dude ||entailment
+dude are improving hygiene ||entailment
+female watch men ||entailment

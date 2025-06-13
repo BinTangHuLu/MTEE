@@ -1,0 +1,4 @@
+there are auto ||entailment
+there is a path ||entailment
+the auto are fast ||neutral
+the auto are going around track ||entailment

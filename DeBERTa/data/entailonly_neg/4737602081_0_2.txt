@@ -1,0 +1,8 @@
+There is not a woman. ||contradiction
+There is not a child. ||contradiction
+There is not a sun. ||contradiction
+There is not a level. ||contradiction
+There is not a building. ||contradiction
+The woman does not protect the child. ||contradiction
+The woman does not walk to the level. ||contradiction
+The level is not of the building. ||entailment

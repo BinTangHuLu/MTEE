@@ -1,0 +1,5 @@
+There is a group. ||Entailment
+There are some people. ||Entailment
+There are some vehicles. ||Entailment
+The group is large. ||Neutral
+The people are in vehicles. ||Entailment

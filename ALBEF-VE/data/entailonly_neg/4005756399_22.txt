@@ -1,0 +1,3 @@
+there is not a vendor ||contradiction
+there is not a stand ||contradiction
+the vendor does not tend stand ||contradiction

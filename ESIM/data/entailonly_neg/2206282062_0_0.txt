@@ -1,0 +1,8 @@
+There is not a player. ||contradiction
+There is not a team. ||contradiction
+There is not a ball. ||contradiction
+There is not a teammate. ||contradiction
+The player is not One. ||contradiction
+The team is not women's beach volleyball. ||contradiction
+The player does not jump to spike the ball. ||contradiction
+The player does not look on the teammate. ||contradiction

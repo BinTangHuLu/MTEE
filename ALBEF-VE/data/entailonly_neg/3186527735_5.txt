@@ -1,0 +1,4 @@
+there are not people ||contradiction
+there is not ground ||entailment
+the people are not staring at ground ||entailment
+the people are not walking ||entailment

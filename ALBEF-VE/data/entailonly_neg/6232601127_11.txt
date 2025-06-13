@@ -1,0 +1,5 @@
+there is not a potters wheel ||contradiction
+there is not a potter ||contradiction
+the potter is not his craft ||contradiction
+the potters wheel does not spin ||neutral
+the potter does not work his craft ||contradiction

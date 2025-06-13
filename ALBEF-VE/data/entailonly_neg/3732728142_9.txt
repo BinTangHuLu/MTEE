@@ -1,0 +1,5 @@
+there is not a baby ||contradiction
+there is not a hat ||contradiction
+the hat is not red ||contradiction
+the baby is not smiling ||neutral
+the baby is not wearing a hat ||contradiction

@@ -1,0 +1,4 @@
+there is a man ||entailment
+there are some rocks ||entailment
+the man is bald ||contradiction
+the man stands next to rocks ||entailment

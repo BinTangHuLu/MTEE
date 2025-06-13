@@ -1,0 +1,3 @@
+there is a man ||entailment
+there are some tools ||entailment
+the man is using tools ||entailment

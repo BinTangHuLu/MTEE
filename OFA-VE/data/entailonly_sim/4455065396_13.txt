@@ -1,0 +1,3 @@
+There is a baby. ||Entailment
+There is a basement. ||Entailment
+The baby lays on the floor. ||Neutral

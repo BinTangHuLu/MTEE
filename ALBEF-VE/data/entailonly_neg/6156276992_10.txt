@@ -1,0 +1,4 @@
+there are not women ||entailment
+there is not a camera ||contradiction
+the women are not two ||entailment
+the women are not using the camera ||contradiction

@@ -1,0 +1,5 @@
+There is a man. ||Entailment
+There is a gun. ||Entailment
+There is a shoulder. ||Entailment
+The man is with the gun. ||Entailment
+The gun is over the shoulder. ||Entailment

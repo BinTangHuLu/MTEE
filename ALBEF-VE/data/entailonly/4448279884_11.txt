@@ -1,0 +1,4 @@
+there is a bonfire ||entailment
+there is a celebration ||entailment
+the bonfire is burning ||entailment
+the bonfire is burning at the celebration ||entailment

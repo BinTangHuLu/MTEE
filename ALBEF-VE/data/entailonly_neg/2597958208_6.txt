@@ -1,0 +1,3 @@
+there are not children ||contradiction
+there is not a field ||contradiction
+the children do not play in the field ||contradiction

@@ -1,0 +1,3 @@
+there is a female ||entailment
+the appendage is one ||neutral
+the female is enjoying beer ||entailment

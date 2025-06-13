@@ -1,0 +1,3 @@
+there are not women ||entailment
+there is not rain ||contradiction
+the women are not outside in rain ||contradiction

@@ -1,0 +1,3 @@
+there is a female ||entailment
+the female works on the microscope ||entailment
+others take film ||entailment

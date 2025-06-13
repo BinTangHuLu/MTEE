@@ -1,0 +1,3 @@
+there is not a lady ||contradiction
+there is not some food ||contradiction
+the lady did not get food ||contradiction

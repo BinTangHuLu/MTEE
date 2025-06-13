@@ -1,0 +1,6 @@
+there are not people ||contradiction
+there is not a costume ||contradiction
+there are not glasses ||contradiction
+the costume is not holiday ||contradiction
+the people do not have glasses ||contradiction
+the people are not one in costume ||contradiction

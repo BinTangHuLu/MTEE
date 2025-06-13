@@ -1,0 +1,3 @@
+there are community ||entailment
+the community are young ||neutral
+the community have shirts ||entailment

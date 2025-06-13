@@ -1,0 +1,4 @@
+There are not People. ||Contradiction
+There is not a festival. ||Contradiction
+The festival is not outdoor. ||Entailment
+People are not attending festival. ||Contradiction

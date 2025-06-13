@@ -1,0 +1,4 @@
+There is a child. ||Entailment
+There is a architecture. ||Entailment
+The architecture is famous. ||Entailment
+The child lays down in front of the structure. ||Entailment

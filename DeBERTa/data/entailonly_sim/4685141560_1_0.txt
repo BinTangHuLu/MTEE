@@ -1,0 +1,5 @@
+There is a child. ||entailment
+There is a call up. ||neutral
+There is a barge. ||neutral
+The child checks the phone. ||entailment
+The child is on the boat. ||entailment

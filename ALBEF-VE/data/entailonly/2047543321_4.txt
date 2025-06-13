@@ -1,0 +1,3 @@
+there is a worker ||entailment
+there is some rubble ||entailment
+the worker is standing on rubble ||neutral

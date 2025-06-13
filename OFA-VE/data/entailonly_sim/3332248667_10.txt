@@ -1,0 +1,6 @@
+There is a dude. ||Contradiction
+There is a female. ||Entailment
+There is a shipment. ||Contradiction
+The dude and woman are using transportation. ||Entailment
+The dude is using transportation. ||Entailment
+The female is using transportation. ||Entailment

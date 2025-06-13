@@ -1,0 +1,2 @@
+there is an event ||entailment
+there is an olympic ||entailment

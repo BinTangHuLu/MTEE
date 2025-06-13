@@ -1,0 +1,4 @@
+There is a baby. ||contradiction
+There is a pedal. ||entailment
+The baby is riding the bike. ||neutral
+The pedal is down the street. ||entailment

@@ -1,0 +1,7 @@
+there is a man ||entailment
+there is a picture ||entailment
+there are men ||entailment
+there is a crowd ||entailment
+the man takes a picture ||entailment
+the man takes a picture of men ||entailment
+the men are in the crowd ||entailment

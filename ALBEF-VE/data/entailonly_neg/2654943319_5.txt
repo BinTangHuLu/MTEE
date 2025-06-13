@@ -1,0 +1,4 @@
+there is not a child ||contradiction
+there is not a skateboard trick ||contradiction
+the child is not doing ||contradiction
+the child is not doing a skateboard trick ||contradiction

@@ -1,0 +1,3 @@
+there are not children ||contradiction
+there is not a location ||contradiction
+the children are not in the location ||entailment

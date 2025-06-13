@@ -1,0 +1,6 @@
+There is a machine. ||entailment
+There is an architecture. ||entailment
+There is a man. ||entailment
+There is water. ||entailment
+The machine takes down architecture. ||entailment
+The man sprays on water. ||entailment

@@ -1,0 +1,4 @@
+There is a female. ||entailment
+There are some specs. ||neutral
+The female is not smiling. ||entailment
+The female is wearing sunglasses. ||entailment

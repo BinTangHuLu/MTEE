@@ -1,0 +1,5 @@
+There is not a woman. ||contradiction
+There is not a stage. ||contradiction
+There is not a microphone. ||contradiction
+The woman is not on stage. ||contradiction
+The woman is not holding a microphone. ||contradiction

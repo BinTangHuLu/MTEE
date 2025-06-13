@@ -1,0 +1,6 @@
+There is a frame. ||entailment
+There is drink. ||neutral
+There are child. ||entailment
+The child are two. ||entailment
+Pebbles are being thrown into the frame of water. ||entailment
+The child are being thrown by Pebbles. ||entailment

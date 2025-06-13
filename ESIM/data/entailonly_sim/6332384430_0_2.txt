@@ -1,0 +1,4 @@
+There is a dude. ||entailment
+There is a ribbon. ||entailment
+The ribbon is red. ||contradiction
+The dude is wearing a belt. ||entailment

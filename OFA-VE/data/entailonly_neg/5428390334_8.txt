@@ -1,0 +1,4 @@
+There is not a man. ||Contradiction
+There is not a coat. ||Contradiction
+The coat is not lab. ||Contradiction
+The man is looking at somethingnot . ||Entailment

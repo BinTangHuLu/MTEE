@@ -1,0 +1,4 @@
+there is not a boy ||contradiction
+there is not a vendor ||contradiction
+the vendor is not street ||contradiction
+the boy is not a vendor ||contradiction

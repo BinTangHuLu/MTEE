@@ -1,0 +1,7 @@
+There is a dog. ||Entailment
+There is a cow. ||Entailment
+There is an area. ||Entailment
+The area is fenced. ||Entailment
+The dog and cow are together. ||Entailment
+The dog is outside of the area. ||Entailment
+The cow is outside of the area. ||Entailment

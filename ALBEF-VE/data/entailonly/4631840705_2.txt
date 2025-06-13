@@ -1,0 +1,6 @@
+there is a man ||entailment
+there is a rock wall ||entailment
+there is an event ||entailment
+the event is timed ||neutral
+the man climbs the rock wall ||entailment
+the man climbs the rock wall during the event ||neutral

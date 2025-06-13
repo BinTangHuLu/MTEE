@@ -1,0 +1,8 @@
+there is a biker ||entailment
+there is a stunt ||entailment
+there are onlookers ||entailment
+there is a corner ||entailment
+the biker is doing a stunt ||entailment
+the onlookers watch in biker ||neutral
+the biker is doing a stunt ||entailment
+the onlookers watch in corner ||entailment

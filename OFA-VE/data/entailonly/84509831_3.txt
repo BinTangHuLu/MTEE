@@ -1,0 +1,2 @@
+There is a beach. ||Entailment
+The beach is populated. ||Entailment

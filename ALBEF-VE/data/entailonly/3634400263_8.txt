@@ -1,0 +1,3 @@
+there is a bicycle ||entailment
+the bicycle is airborne ||entailment
+the bicycle is airborne ||entailment

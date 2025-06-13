@@ -1,0 +1,3 @@
+There is a bird. ||entailment
+The bird is black and white. ||entailment
+The bird is flying. ||entailment

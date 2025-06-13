@@ -1,0 +1,6 @@
+There are dude. ||entailment
+There is drink. ||entailment
+There are headphone. ||entailment
+The dude are some. ||neutral
+The dude are looking out over water. ||entailment
+The dude have earphones. ||entailment

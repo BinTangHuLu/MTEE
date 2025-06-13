@@ -1,0 +1,3 @@
+there is a tune ||entailment
+there is a war ||neutral
+the tune is on war ||neutral

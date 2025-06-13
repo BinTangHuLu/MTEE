@@ -1,0 +1,3 @@
+there are not people ||contradiction
+there is not a beverage ||contradiction
+the people are not showing off the beverage ||contradiction

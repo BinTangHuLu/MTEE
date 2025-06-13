@@ -1,0 +1,4 @@
+there is a body ||entailment
+there is a blare ||entailment
+the body is playing ||contradiction
+the body is playing whistle ||contradiction

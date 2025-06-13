@@ -1,0 +1,2 @@
+there is not a soccer match ||contradiction
+the soccer match is not being held ||contradiction

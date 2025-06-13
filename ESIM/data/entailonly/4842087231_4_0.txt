@@ -1,0 +1,5 @@
+There is a woman. ||entailment
+There is a time. ||entailment
+There is a watch. ||entailment
+The woman is adjusting time. ||entailment
+The woman is adjusting the watch. ||neutral

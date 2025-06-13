@@ -1,0 +1,3 @@
+there is a biker ||entailment
+the biker is red ||neutral
+the biker is wearing red ||neutral

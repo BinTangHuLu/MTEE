@@ -1,0 +1,5 @@
+there is a person ||entailment
+there is a tool ||entailment
+the person is using the tool ||entailment
+there are people ||entailment
+the person is teaching people ||neutral

@@ -1,0 +1,2 @@
+There is a smoke. ||entailment
+The smoke is lit. ||entailment

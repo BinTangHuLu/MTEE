@@ -1,0 +1,4 @@
+there is not an adult ||contradiction
+there is not a cup ||contradiction
+the cup is not paper ||contradiction
+the adult does not have a cup ||contradiction

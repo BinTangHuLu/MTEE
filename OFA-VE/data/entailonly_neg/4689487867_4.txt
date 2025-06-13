@@ -1,0 +1,5 @@
+There is not a person. ||Contradiction
+There are not some things. ||Contradiction
+There are not some docks. ||Contradiction
+The person is not examining things. ||Contradiction
+The person is not at docks. ||Entailment

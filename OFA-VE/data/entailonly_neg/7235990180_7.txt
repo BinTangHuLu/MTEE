@@ -1,0 +1,4 @@
+There are not People. ||Contradiction
+There are not kids. ||Contradiction
+The kids are not entertained. ||Contradiction
+People do not watch kids. ||Contradiction

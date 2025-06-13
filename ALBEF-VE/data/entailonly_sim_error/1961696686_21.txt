@@ -1,0 +1,2 @@
+E1R,ball,down
+E1RE2,lady,prepares to throw,ball

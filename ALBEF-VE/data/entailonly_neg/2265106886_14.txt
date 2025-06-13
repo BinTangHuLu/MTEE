@@ -1,0 +1,5 @@
+there are not women ||contradiction
+there are not vegetables ||contradiction
+there is not a market ||contradiction
+the women do not sell vegetables ||contradiction
+the vegetables are not at the market ||contradiction

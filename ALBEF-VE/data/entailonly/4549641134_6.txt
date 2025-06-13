@@ -1,0 +1,6 @@
+there is a crowd ||entailment
+there are some people ||entailment
+there is an event ||entailment
+the crowd is large ||entailment
+the crowd waits at the event ||entailment
+the event is in folding chairs ||neutral

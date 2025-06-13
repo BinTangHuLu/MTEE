@@ -1,0 +1,3 @@
+there is a baby ||entailment
+the baby is playing ||entailment
+the baby is playing outside ||entailment

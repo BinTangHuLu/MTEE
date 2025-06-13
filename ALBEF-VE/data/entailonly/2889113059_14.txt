@@ -1,0 +1,2 @@
+there are musicians ||entailment
+the musicians have gathered together ||entailment

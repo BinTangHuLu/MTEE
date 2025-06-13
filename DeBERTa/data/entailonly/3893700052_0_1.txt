@@ -1,0 +1,4 @@
+There is a couple. ||entailment
+There is a statue. ||entailment
+The couple is standing. ||neutral
+The couple are having their picture. ||entailment

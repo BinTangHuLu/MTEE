@@ -1,0 +1,4 @@
+There is a dude. ||Entailment
+There is a fur. ||Contradiction
+The fur is lab. ||Contradiction
+The dude is looking at something. ||Entailment

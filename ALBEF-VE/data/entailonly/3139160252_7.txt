@@ -1,0 +1,5 @@
+there are women ||entailment
+there is a picture ||entailment
+there is a tree ||entailment
+the women are posing for the picture ||entailment
+the picture is in front of the tree ||entailment

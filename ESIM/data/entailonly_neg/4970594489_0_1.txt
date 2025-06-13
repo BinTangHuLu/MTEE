@@ -1,0 +1,5 @@
+There is not a man. ||contradiction
+There is not a cart. ||contradiction
+The man is not Asian. ||contradiction
+The man is not pushing the cart. ||contradiction
+The cart is not up the street. ||contradiction

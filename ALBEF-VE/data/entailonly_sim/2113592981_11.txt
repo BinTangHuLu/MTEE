@@ -1,0 +1,4 @@
+there is a female ||entailment
+the female is jumping ||entailment
+the female jumps in air ||entailment
+the female extends arms ||entailment

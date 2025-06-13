@@ -1,0 +1,6 @@
+there is a dude ||entailment
+there is a colt ||neutral
+there are community ||entailment
+the colt is gray ||neutral
+the dude rides on the horse ||entailment
+the community look on the horse ||neutral

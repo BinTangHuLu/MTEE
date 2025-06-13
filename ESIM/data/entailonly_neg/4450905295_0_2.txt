@@ -1,0 +1,6 @@
+There is not a player. ||contradiction
+There is not an accordion. ||contradiction
+The player is not lean. ||contradiction
+The player is not against. ||contradiction
+The fence is hisnot . ||entailment
+The player does not lean against fence. ||contradiction

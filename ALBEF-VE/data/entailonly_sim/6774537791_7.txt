@@ -1,0 +1,5 @@
+there is an animal ||entailment
+there is atmosphere ||entailment
+there is a apparatus ||entailment
+the animal hangs in air ||entailment
+the animal is next to the machine ||entailment

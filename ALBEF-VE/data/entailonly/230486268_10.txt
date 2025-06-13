@@ -1,0 +1,6 @@
+there is a boy ||entailment
+there is a shovel ||entailment
+there is some sand ||entailment
+the boy is little ||entailment
+the boy is holding a shovel ||entailment
+the boy crouches in sand ||entailment

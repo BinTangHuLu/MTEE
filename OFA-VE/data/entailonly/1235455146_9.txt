@@ -1,0 +1,5 @@
+There is weather. ||Entailment
+There is a beach. ||Entailment
+The weather is warm. ||Entailment
+The weather is sunny. ||Entailment
+The weather is at the beach. ||Entailment

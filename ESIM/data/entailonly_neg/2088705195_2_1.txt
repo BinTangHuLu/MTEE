@@ -1,0 +1,5 @@
+There are not people. ||contradiction
+There is not a boat. ||contradiction
+There is not an ocean. ||contradiction
+The people do not paddle the boat. ||contradiction
+The boat is not on the ocean. ||contradiction

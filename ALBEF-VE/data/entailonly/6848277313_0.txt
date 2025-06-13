@@ -1,0 +1,2 @@
+there is a shirt ||entailment
+the shirt is plaid ||entailment

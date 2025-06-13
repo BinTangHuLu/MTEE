@@ -1,0 +1,4 @@
+there is a man ||entailment
+there is a dog ||entailment
+the man is playing ||entailment
+the man is playing with the dog ||entailment

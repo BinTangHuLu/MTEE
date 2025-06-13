@@ -1,0 +1,5 @@
+there is a boy ||entailment
+there is a racket ||entailment
+there is a ball ||entailment
+the boy swings the racket ||entailment
+the racket is at the ball ||neutral

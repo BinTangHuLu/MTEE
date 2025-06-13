@@ -1,0 +1,5 @@
+There is not a man. ||Contradiction
+There is not a hat. ||Entailment
+There is not some art. ||Contradiction
+The man does not wear the hat. ||Neutral
+The man is not near the art. ||Contradiction

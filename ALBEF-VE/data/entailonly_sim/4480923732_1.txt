@@ -1,0 +1,2 @@
+there is a coat ||entailment
+the coat is green ||entailment

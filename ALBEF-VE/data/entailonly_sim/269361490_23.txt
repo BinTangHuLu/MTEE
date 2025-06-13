@@ -1,0 +1,4 @@
+there are adolescent ||entailment
+there is a avenue ||entailment
+the adolescent are walking down the street ||entailment
+the dogs are walking down the avenue ||contradiction

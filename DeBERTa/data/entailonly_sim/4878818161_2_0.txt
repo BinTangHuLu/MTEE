@@ -1,0 +1,5 @@
+There is a female. ||entailment
+There is a avenue. ||entailment
+There is a little. ||entailment
+The female crosses the street. ||entailment
+The female is carrying the baby. ||entailment

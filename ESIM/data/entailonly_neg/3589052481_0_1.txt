@@ -1,0 +1,7 @@
+There is not a man. ||contradiction
+There is not a camera. ||contradiction
+There is not a photo. ||contradiction
+There is not an arm. ||contradiction
+There is not a lady. ||contradiction
+The man is not looking at the camera. ||contradiction
+The arm is not around the lady. ||entailment

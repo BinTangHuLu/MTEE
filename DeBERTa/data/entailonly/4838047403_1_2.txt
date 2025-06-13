@@ -1,0 +1,2 @@
+There is a tank. ||entailment
+The tank has an opening. ||entailment

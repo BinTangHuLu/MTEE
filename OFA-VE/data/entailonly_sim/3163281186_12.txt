@@ -1,0 +1,4 @@
+There is a body. ||Entailment
+There is an bodily. ||Entailment
+The bodily is large. ||Entailment
+The body is riding an animal. ||Entailment

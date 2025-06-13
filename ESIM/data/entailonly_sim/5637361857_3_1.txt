@@ -1,0 +1,5 @@
+There is a body. ||entailment
+There is a clone. ||contradiction
+There is a establishment. ||entailment
+The body is crafting a replica. ||neutral
+The clone is of creation. ||contradiction

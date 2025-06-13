@@ -1,0 +1,7 @@
+there are children ||entailment
+there is a woman ||entailment
+there is a fountain ||entailment
+the children and woman are enjoying time ||neutral
+the woman is enjoying time ||neutral
+the children are enjoying time ||neutral
+the time is in the fountain ||neutral

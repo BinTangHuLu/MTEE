@@ -1,0 +1,3 @@
+There is not a crowd. ||contradiction
+There is not a woman. ||contradiction
+The crowd does not walk around the woman. ||contradiction

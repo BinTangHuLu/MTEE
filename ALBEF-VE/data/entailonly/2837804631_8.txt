@@ -1,0 +1,6 @@
+there is a boy ||entailment
+there is a shirt ||entailment
+there is a fountain ||entailment
+the shirt is red ||entailment
+the boy is in the shirt ||entailment
+the boy is leaning away from the fountain ||contradiction

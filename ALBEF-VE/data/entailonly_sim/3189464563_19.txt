@@ -1,0 +1,3 @@
+there is an bling cream cake ||contradiction
+there is a bar ||entailment
+the bling cream cake is on the table ||neutral

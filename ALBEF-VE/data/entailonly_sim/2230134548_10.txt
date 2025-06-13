@@ -1,0 +1,4 @@
+there is a gallery ||entailment
+the gallery is hot ||neutral
+the gallery is stuffy ||neutral
+the chef is working in the gallery ||contradiction

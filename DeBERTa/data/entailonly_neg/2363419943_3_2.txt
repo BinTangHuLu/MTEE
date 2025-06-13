@@ -1,0 +1,5 @@
+There are not people. ||contradiction
+There are not outfits. ||contradiction
+The outfits are not red. ||contradiction
+The people are not wearing outfits. ||contradiction
+The people are not walking on the street. ||contradiction

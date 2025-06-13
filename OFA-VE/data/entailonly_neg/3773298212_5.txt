@@ -1,0 +1,4 @@
+There is not a man. ||Contradiction
+There is not a machine. ||Contradiction
+The man is not standing up. ||Entailment
+The man is not next to the machine. ||Entailment

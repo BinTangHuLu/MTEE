@@ -1,0 +1,3 @@
+There is a child. ||entailment
+There are some sand. ||neutral
+The child is playing on rocks. ||entailment

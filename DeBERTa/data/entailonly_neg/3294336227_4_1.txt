@@ -1,0 +1,7 @@
+There is not a man. ||contradiction
+There is not a coat. ||contradiction
+There is not a stroll. ||contradiction
+There are not outdoors. ||contradiction
+The man is not in a coat. ||contradiction
+The man does not take a stroll. ||contradiction
+The stroll is not outdoors. ||contradiction

@@ -1,0 +1,3 @@
+there is a produce stand ||entailment
+there is a stand ||entailment
+the produce stand is fresh ||neutral

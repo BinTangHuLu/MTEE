@@ -1,0 +1,4 @@
+There is a box weaver. ||entailment
+There is a collection. ||entailment
+The box weaver is teaching the class. ||neutral
+The collection is at the fair. ||entailment

@@ -1,0 +1,6 @@
+there are not ladies ||contradiction
+there is not a boy ||contradiction
+there is not a camera ||contradiction
+the ladies are not watching the boy ||neutral
+the boy is not sticking out tongue ||contradiction
+the boy is not at camera ||entailment

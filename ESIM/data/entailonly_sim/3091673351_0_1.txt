@@ -1,0 +1,8 @@
+There is a female. ||entailment
+The female is green. ||neutral
+There is a carton. ||entailment
+The female is opening the box. ||entailment
+The dude is half concealed. ||contradiction
+There is a accessory. ||entailment
+The accessory is handheld. ||entailment
+The dude manipulates the device. ||contradiction

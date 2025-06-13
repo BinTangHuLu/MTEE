@@ -1,0 +1,3 @@
+there are not chefs ||contradiction
+there is not work ||contradiction
+the chefs are not at work ||contradiction

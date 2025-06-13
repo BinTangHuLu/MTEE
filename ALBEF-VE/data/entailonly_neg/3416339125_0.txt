@@ -1,0 +1,4 @@
+there are not men ||contradiction
+there are not beverages ||contradiction
+the beverages are not alcoholic ||neutral
+men do not have beverages ||contradiction

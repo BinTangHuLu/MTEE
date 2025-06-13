@@ -1,0 +1,5 @@
+There is not a group. ||contradiction
+There are not people. ||contradiction
+There is not a square. ||contradiction
+The group is not of. ||neutral
+The group does not walk in square. ||contradiction

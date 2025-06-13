@@ -1,0 +1,3 @@
+There is a game. ||entailment
+There are women. ||entailment
+The women play soccer. ||entailment

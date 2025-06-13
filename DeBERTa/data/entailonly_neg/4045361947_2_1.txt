@@ -1,0 +1,4 @@
+There is not a guy. ||contradiction
+The guy is not working. ||contradiction
+The guy does not have his instrument. ||contradiction
+The guy is not working on his instrument. ||contradiction

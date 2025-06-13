@@ -1,0 +1,5 @@
+there are not wares ||contradiction
+there is not a man ||contradiction
+there is not a shop ||contradiction
+the wares are not colorful ||contradiction
+the wares are not hanging in the shop ||contradiction

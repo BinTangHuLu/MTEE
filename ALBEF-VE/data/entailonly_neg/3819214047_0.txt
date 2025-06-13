@@ -1,0 +1,6 @@
+there is not a teen ||contradiction
+there are not arms ||contradiction
+there are not knees ||contradiction
+the teen is not teen ||entailment
+the teen does not sit with arms ||contradiction
+the arms are not resting on knees ||contradiction

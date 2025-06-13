@@ -1,0 +1,5 @@
+there are not women ||contradiction
+the women are not elegant ||contradiction
+there is not clothing ||contradiction
+the women are not in clothing ||contradiction
+the women are not dancing together ||contradiction

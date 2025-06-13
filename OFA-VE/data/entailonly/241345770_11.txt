@@ -1,0 +1,4 @@
+There is a game. ||Entailment
+There is a football. ||Entailment
+The game is in progress. ||Entailment
+The game is in progress. ||Entailment

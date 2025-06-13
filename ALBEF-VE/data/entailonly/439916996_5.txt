@@ -1,0 +1,5 @@
+there is a woman ||entailment
+there is a dog ||entailment
+the woman is white ||neutral
+the dog is brown ||entailment
+the woman watches dog ||entailment

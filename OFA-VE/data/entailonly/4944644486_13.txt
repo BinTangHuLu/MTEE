@@ -1,0 +1,4 @@
+There is a line. ||Entailment
+There is a statue. ||Neutral
+There is a gorilla. ||Contradiction
+The line is near the statue. ||Neutral

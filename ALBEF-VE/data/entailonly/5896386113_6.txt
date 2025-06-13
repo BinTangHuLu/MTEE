@@ -1,0 +1,3 @@
+there is a woman ||entailment
+there are some clothes ||entailment
+the woman is hanging up clothes ||entailment

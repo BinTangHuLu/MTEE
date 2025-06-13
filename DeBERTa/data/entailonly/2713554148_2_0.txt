@@ -1,0 +1,6 @@
+There are kids. ||entailment
+There is a game. ||entailment
+There is a pole. ||entailment
+The kids are young. ||entailment
+The kids play the game. ||entailment
+The game requires running around the pole. ||entailment

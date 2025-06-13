@@ -1,0 +1,4 @@
+There is a body. ||entailment
+There is a circle. ||neutral
+The body is doing tricks. ||entailment
+The body is in front of the crowd. ||entailment

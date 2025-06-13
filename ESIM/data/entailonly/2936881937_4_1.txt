@@ -1,0 +1,5 @@
+There is a man. ||entailment
+There is a bike. ||entailment
+The man watches. ||entailment
+The man watches the bike. ||entailment
+The bike repairs. ||entailment

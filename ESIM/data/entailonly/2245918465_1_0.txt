@@ -1,0 +1,5 @@
+There is a man. ||entailment
+There is something. ||entailment
+There is a head. ||entailment
+The man puts on the head. ||entailment
+The man puts on something. ||entailment

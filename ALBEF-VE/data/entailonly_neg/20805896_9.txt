@@ -1,0 +1,4 @@
+there is not a covers ||contradiction
+there is not a chair ||contradiction
+there is not a papsan ||contradiction
+the covers is not on chair ||neutral

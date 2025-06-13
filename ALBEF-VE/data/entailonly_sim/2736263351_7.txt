@@ -1,0 +1,3 @@
+there is a dude ||entailment
+the dude is gardening ||entailment
+the dude is gardening man ||neutral

@@ -1,0 +1,6 @@
+there is a car ||entailment
+there is a seat ||entailment
+there is a couple ||entailment
+the couple is away facing ||contradiction
+the car serves as a seat ||entailment
+the seat is for the couple ||neutral

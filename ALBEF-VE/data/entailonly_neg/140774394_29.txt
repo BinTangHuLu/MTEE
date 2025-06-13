@@ -1,0 +1,9 @@
+there is not a group ||contradiction
+there are not people ||contradiction
+there is not a lawn ||contradiction
+there is not a man ||contradiction
+there is not equipment ||contradiction
+the man is not working on mechanical ||contradiction
+the people are not walking on lawn ||entailment
+the man is not working on equipment ||contradiction
+the lawn is not beside the man ||contradiction

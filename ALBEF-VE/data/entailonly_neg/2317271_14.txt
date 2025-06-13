@@ -1,0 +1,3 @@
+there are not people ||contradiction
+there is not a wedding ||contradiction
+the people are not at the wedding ||contradiction

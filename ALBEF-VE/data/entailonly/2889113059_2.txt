@@ -1,0 +1,3 @@
+there is a group ||entailment
+the group is large ||contradiction
+the group is playing music ||entailment

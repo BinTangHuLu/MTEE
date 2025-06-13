@@ -1,0 +1,3 @@
+There are not guys. ||Entailment
+There are not outdoors. ||Contradiction
+The guys are not outdoors. ||Contradiction

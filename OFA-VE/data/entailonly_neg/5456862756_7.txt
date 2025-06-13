@@ -1,0 +1,4 @@
+There is not a woman. ||Contradiction
+There are not some feet. ||Entailment
+The woman is not soaking. ||Entailment
+The woman is not soaking feet. ||Entailment

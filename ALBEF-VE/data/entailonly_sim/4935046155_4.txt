@@ -1,0 +1,3 @@
+there is a female ||entailment
+there are some freight ||entailment
+the female is watching vehicles ||entailment

@@ -1,0 +1,5 @@
+There is not a mountain. ||Contradiction
+There is not a climber. ||Contradiction
+There is not an edge. ||Entailment
+The mountain does not have a climber. ||Contradiction
+The climber is not walking along the edge. ||Entailment

@@ -1,0 +1,5 @@
+there is not a woman ||contradiction
+there is not a jacket ||contradiction
+there is not a rock ||contradiction
+the jacket is not blue ||contradiction
+the woman is not climbing rock ||contradiction

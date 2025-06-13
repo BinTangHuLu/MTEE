@@ -1,0 +1,4 @@
+there is a dude ||entailment
+there is a bar ||contradiction
+there is a earth ||entailment
+the dude climbs the wall ||entailment

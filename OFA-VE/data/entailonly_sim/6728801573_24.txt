@@ -1,0 +1,4 @@
+There is a female. ||Entailment
+There is a bike. ||Entailment
+The female is working. ||Entailment
+The female is working on the bicycle. ||Entailment

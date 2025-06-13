@@ -1,0 +1,9 @@
+There is a couple. ||neutral
+There are angel costumes. ||entailment
+There are leaflets. ||entailment
+There is a sidewalk. ||entailment
+The couple is dressed in angel costumes. ||entailment
+The leaflets are handing out. ||entailment
+The couple are handing out leaflets. ||entailment
+The couple are dressed in angel costumes. ||entailment
+The couple are handing out on sidewalk. ||entailment

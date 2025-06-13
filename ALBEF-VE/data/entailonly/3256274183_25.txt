@@ -1,0 +1,3 @@
+there are men ||entailment
+there are cars ||entailment
+men are near cars ||entailment

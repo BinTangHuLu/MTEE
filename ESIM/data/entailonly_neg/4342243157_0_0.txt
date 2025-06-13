@@ -1,0 +1,13 @@
+There is not a man. ||contradiction
+There is not a beer. ||contradiction
+There is not a glass. ||contradiction
+There are not pieces. ||contradiction
+There is not a beard. ||contradiction
+The man is not holding. ||contradiction
+The glass does not have beer. ||contradiction
+The pieces are not green. ||contradiction
+The man does not manage to pull pieces. ||contradiction
+The man is not holding beer. ||contradiction
+The man is not holding glass. ||contradiction
+The man is not holding pieces. ||entailment
+The man is not holding a beard. ||contradiction

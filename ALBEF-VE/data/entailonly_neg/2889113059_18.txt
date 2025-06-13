@@ -1,0 +1,8 @@
+there is not a man ||contradiction
+there is not a microphone ||contradiction
+there is not a group ||contradiction
+there are not people ||contradiction
+the microphone is not with ||neutral
+the people are not seated ||entailment
+the man is not gesturing towards the group ||contradiction
+the group is not behind the man ||contradiction

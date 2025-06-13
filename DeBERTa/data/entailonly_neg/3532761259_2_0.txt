@@ -1,0 +1,6 @@
+There are not women. ||contradiction
+There is not a camera. ||contradiction
+The women are not Smiling. ||contradiction
+The women are not red. ||contradiction
+The women did not wear red. ||contradiction
+The women are not Smiling at the camera. ||contradiction

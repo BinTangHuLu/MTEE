@@ -1,0 +1,3 @@
+there is a body ||entailment
+there are some flora ||entailment
+the body is in the vicinity of trees ||entailment

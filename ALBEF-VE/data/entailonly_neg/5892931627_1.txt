@@ -1,0 +1,10 @@
+there is not a player ||contradiction
+there is not a ball ||contradiction
+there is not a team ||contradiction
+there is not a catcher ||contradiction
+there is not a play ||contradiction
+the player is not uniformed ||contradiction
+the player did not take a swing at the ball ||contradiction
+the team does not look on the player ||contradiction
+the catcher is not behind the player ||contradiction
+the catcher is not ready for the play ||contradiction

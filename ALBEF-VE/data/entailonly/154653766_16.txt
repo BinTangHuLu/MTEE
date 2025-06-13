@@ -1,0 +1,3 @@
+there are teenagers ||entailment
+there is a bank ||entailment
+the teenagers stand near the bank ||entailment

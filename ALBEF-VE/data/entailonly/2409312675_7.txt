@@ -1,0 +1,2 @@
+there is an atv ||entailment
+the atv is stuck ||entailment

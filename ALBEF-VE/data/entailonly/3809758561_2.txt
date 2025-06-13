@@ -1,0 +1,2 @@
+there is a vendor ||entailment
+the vendor is standing ||entailment

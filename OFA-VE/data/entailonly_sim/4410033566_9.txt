@@ -1,0 +1,4 @@
+There is a body. ||Contradiction
+There is an article. ||Entailment
+The body is resting. ||Contradiction
+The body is resting against the object. ||Contradiction

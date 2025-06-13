@@ -1,0 +1,3 @@
+there is a female ||entailment
+there is a circus ||contradiction
+the female is at zoo ||neutral

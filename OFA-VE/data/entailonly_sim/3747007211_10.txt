@@ -1,0 +1,4 @@
+There is a body. ||Entailment
+There is some blizzard. ||Neutral
+The body is skiing. ||Entailment
+The body is on snow. ||Entailment

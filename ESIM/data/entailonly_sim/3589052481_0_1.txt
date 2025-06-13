@@ -1,0 +1,7 @@
+There is a dude. ||entailment
+There is a camcorder. ||entailment
+There is a cartoon. ||neutral
+There is an branch. ||neutral
+There is a gentlewoman. ||contradiction
+The dude is looking at the camera. ||entailment
+The branch is around the lady. ||contradiction

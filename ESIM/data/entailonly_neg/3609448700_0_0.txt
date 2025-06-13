@@ -1,0 +1,3 @@
+There is not a rollerskater. ||contradiction
+There is not a pack. ||entailment
+The rollerskater is not behind the pack. ||entailment

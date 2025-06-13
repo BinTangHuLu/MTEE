@@ -1,0 +1,4 @@
+there is a child ||entailment
+there is some eyebrow ||entailment
+the eyebrow is dark ||neutral
+the child has dark hair ||entailment

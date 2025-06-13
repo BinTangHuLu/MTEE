@@ -1,0 +1,3 @@
+there is a truck ||entailment
+the truck is traveling ||contradiction
+the truck is traveling at night ||entailment

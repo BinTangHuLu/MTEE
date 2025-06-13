@@ -1,0 +1,4 @@
+There is a man. ||Entailment
+The man is bearded. ||Entailment
+There is a guitar. ||Entailment
+The man plays guitar. ||Entailment

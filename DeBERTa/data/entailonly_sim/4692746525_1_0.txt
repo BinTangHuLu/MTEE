@@ -1,0 +1,4 @@
+There is a association. ||entailment
+There are some community. ||entailment
+The association is standing outside. ||entailment
+The association are standing by people. ||entailment

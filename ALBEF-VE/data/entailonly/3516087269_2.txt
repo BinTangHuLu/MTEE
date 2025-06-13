@@ -1,0 +1,4 @@
+there is a man ||entailment
+there is a girl ||entailment
+the man is young ||entailment
+the man is kneeling in front of the girl ||entailment

@@ -1,0 +1,4 @@
+There is a girl. ||entailment
+There is an omelet. ||entailment
+The girl is young. ||entailment
+The girl flips omelet. ||entailment

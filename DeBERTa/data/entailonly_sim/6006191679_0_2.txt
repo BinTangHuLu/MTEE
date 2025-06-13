@@ -1,0 +1,4 @@
+There is a circle. ||entailment
+There is a body. ||entailment
+The circle is admiring the person. ||neutral
+The body is water-skiing. ||entailment

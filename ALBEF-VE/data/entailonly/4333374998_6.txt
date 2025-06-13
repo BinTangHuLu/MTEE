@@ -1,0 +1,4 @@
+there is a child ||entailment
+there is a door ||entailment
+the child is young ||entailment
+the child looks out of the door ||entailment

@@ -1,0 +1,2 @@
+There is a four wheeler. ||entailment
+The four wheeler is passing. ||entailment

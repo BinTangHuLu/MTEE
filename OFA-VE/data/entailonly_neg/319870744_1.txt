@@ -1,0 +1,2 @@
+There is not Someone. ||Entailment
+Someone is not sitting. ||Entailment

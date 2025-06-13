@@ -1,0 +1,2 @@
+There is a bridge. ||entailment
+The bridge is wood. ||entailment

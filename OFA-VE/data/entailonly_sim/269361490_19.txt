@@ -1,0 +1,3 @@
+There are community. ||Entailment
+There are apartment. ||Contradiction
+The community are hanging outside near houses. ||Entailment

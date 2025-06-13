@@ -1,0 +1,3 @@
+there are not friends ||contradiction
+there is not a race ||contradiction
+friends are not running in a race ||contradiction

@@ -1,0 +1,3 @@
+there is an individual ||entailment
+there is outdoors ||entailment
+the individual walks outdoors ||entailment

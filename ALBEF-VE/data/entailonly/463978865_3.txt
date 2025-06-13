@@ -1,0 +1,5 @@
+there is a man ||entailment
+there is a guy ||entailment
+there is a street ||entailment
+the man is walking by the guy ||contradiction
+the guy is on the street ||entailment

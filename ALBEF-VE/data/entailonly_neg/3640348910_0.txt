@@ -1,0 +1,6 @@
+there is not a guy ||contradiction
+there is not a skateboard ||contradiction
+the skateboard is hisnot ||neutral
+the guy is not riding ||entailment
+the guy is not riding the skateboard ||entailment
+the skateboard is not in the air ||entailment

@@ -1,0 +1,3 @@
+there are not children ||contradiction
+there is not a classroom ||contradiction
+the children are not sitting in the classroom ||contradiction

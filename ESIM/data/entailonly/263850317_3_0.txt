@@ -1,0 +1,6 @@
+There is a woman. ||entailment
+There is a skirt. ||entailment
+There are shops. ||entailment
+The woman is young. ||entailment
+The skirt is black. ||entailment
+The woman is walking next to shops. ||entailment

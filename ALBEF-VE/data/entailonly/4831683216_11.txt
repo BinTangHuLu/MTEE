@@ -1,0 +1,8 @@
+there is a girl ||entailment
+there is a drink ||entailment
+there is a day ||entailment
+the girl is young ||neutral
+the day is beautiful ||entailment
+the girl took a sip ||entailment
+the sip is of the drink ||entailment
+the sip is on the day ||neutral

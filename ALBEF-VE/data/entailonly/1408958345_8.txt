@@ -1,0 +1,9 @@
+there is a girl ||entailment
+there is a background ||entailment
+there is a beach ||entailment
+there is a swimsuit ||entailment
+the girl is little ||entailment
+the girl is in a swimsuit ||entailment
+the girl waves in the background ||entailment
+the girl is at the beach ||entailment
+the girl is running in a swimsuit ||entailment

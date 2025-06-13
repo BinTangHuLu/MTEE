@@ -1,0 +1,4 @@
+there are not cyclists ||contradiction
+there are not bikes ||contradiction
+the bikes are not road ||neutral
+the cyclists are not riding bikes ||contradiction

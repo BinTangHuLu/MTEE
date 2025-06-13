@@ -1,0 +1,3 @@
+There is a kid. ||entailment
+There is a hospital. ||entailment
+The kid is at hospital. ||entailment

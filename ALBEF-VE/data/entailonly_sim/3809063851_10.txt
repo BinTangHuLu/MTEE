@@ -1,0 +1,3 @@
+there are artist ||entailment
+there is blast ||neutral
+the artist are making noise ||entailment

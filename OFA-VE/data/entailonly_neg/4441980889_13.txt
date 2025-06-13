@@ -1,0 +1,3 @@
+There is not a woman. ||Contradiction
+There are not groceries. ||Contradiction
+The woman does not have groceries. ||Contradiction

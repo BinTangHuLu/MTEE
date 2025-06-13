@@ -1,0 +1,6 @@
+There is a child. ||entailment
+There is a dude. ||entailment
+There is a lap. ||contradiction
+The child is happily. ||entailment
+The child watches the man. ||contradiction
+The dude is jumping on the stage. ||entailment

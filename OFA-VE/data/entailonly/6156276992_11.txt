@@ -1,0 +1,4 @@
+There is a person. ||Entailment
+There is a camera. ||Entailment
+The person is using. ||Entailment
+The person is using the camera. ||Entailment

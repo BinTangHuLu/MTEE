@@ -1,0 +1,3 @@
+There is not someone. ||contradiction
+Someone does not play game. ||contradiction
+There is not a game. ||contradiction

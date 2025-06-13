@@ -1,0 +1,3 @@
+There are girls. ||Entailment
+There are four young girls. ||Entailment
+The girls are active. ||Entailment

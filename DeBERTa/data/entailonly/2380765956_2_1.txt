@@ -1,0 +1,4 @@
+There is a road. ||entailment
+There is a walker. ||entailment
+The walker is green. ||neutral
+The road has a walker. ||contradiction

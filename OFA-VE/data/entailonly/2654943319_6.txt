@@ -1,0 +1,4 @@
+There is a person. ||Entailment
+There is an area. ||Entailment
+The person is trying to do tricks. ||Neutral
+The person is trying to do tricks in the area. ||Entailment

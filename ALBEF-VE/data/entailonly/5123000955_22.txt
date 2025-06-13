@@ -1,0 +1,9 @@
+there are children ||entailment
+there are coats ||neutral
+the coats are all the colors ||neutral
+the children are wearing coats ||neutral
+there is a day ||entailment
+the day is cloudy ||entailment
+there is a mountain ||entailment
+there is a backdrop ||entailment
+the day is with mountain ||entailment

@@ -1,0 +1,5 @@
+There are people. ||Entailment
+There are reflections. ||Entailment
+There is a mirror. ||Entailment
+The people look at reflections. ||Entailment
+The reflections are in the mirror. ||Entailment

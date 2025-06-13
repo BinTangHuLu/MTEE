@@ -1,0 +1,4 @@
+There is a dog. ||entailment
+There is a ball. ||entailment
+The dog is outside. ||entailment
+The dog is with the ball. ||entailment

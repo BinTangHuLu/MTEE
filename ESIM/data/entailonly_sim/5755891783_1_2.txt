@@ -1,0 +1,4 @@
+There is a area. ||entailment
+There is a bread collection. ||neutral
+The area is as a donation. ||entailment
+The area is as a donation to the food collection. ||entailment

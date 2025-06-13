@@ -1,0 +1,7 @@
+there is a person ||entailment
+there is a t shirt ||entailment
+there is a piece of paper ||entailment
+there is ground ||entailment
+the piece of paper is large ||neutral
+the person paints on the piece of paper ||entailment
+the piece of paper is on ground ||entailment

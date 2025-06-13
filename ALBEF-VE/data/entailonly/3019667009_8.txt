@@ -1,0 +1,4 @@
+there are boys ||entailment
+there are structures ||entailment
+the structures are old ||neutral
+the boys are playing on structures ||entailment

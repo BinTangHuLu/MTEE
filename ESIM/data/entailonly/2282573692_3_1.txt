@@ -1,0 +1,4 @@
+There are women. ||entailment
+There is a tub. ||entailment
+The tub is hot. ||entailment
+The women are in the tub. ||entailment

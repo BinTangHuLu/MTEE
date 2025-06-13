@@ -1,0 +1,3 @@
+there is a family ||entailment
+there is time ||entailment
+the family is having time ||entailment

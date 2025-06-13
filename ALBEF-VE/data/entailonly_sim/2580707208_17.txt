@@ -1,0 +1,7 @@
+there is a dude ||entailment
+there is some eyebrow ||entailment
+there is a air ||entailment
+the eyebrow is long ||neutral
+the dude is with hair ||entailment
+the dude makes face ||entailment
+the dude is wearing hats ||entailment

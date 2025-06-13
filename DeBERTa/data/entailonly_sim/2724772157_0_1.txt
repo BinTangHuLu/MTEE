@@ -1,0 +1,4 @@
+There is a child. ||entailment
+The child is pink. ||entailment
+The child is holding. ||entailment
+The child is umbrella. ||entailment

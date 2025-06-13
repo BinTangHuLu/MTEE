@@ -1,0 +1,4 @@
+there is a person ||entailment
+there is a face ||entailment
+the face is decorated ||entailment
+the person is with face ||entailment

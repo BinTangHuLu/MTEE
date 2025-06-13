@@ -1,0 +1,3 @@
+There is a cheerleader. ||entailment
+There are some team shirts. ||entailment
+The cheerleader passes out team shirts. ||entailment

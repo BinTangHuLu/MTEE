@@ -1,0 +1,4 @@
+there is a female ||entailment
+there is a bike ||entailment
+the female is looking ||entailment
+the female is looking at the bicycle ||entailment

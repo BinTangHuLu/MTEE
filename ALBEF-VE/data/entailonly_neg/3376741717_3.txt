@@ -1,0 +1,5 @@
+there are not crowds ||contradiction
+there is not a man ||contradiction
+there are not floors ||contradiction
+the crowds have not left the man ||entailment
+the man does not have to sweep the floors ||entailment

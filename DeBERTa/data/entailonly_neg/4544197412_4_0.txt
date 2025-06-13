@@ -1,0 +1,4 @@
+There is not a woman. ||contradiction
+There is not indoors. ||contradiction
+There is not outside. ||entailment
+The woman was not indoors before walking outside. ||entailment

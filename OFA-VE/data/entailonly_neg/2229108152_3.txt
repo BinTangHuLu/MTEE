@@ -1,0 +1,4 @@
+There is not a guy. ||Entailment
+There is not a horse. ||Entailment
+The guy is not walking. ||Entailment
+The guy is not walking the horse. ||Entailment

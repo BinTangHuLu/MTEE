@@ -1,0 +1,5 @@
+there are friends ||entailment
+there is a way ||entailment
+there is a subway ||entailment
+friends make way ||entailment
+the way is toward subway ||neutral

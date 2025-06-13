@@ -1,0 +1,6 @@
+there is a person ||entailment
+there are glasses ||entailment
+there are cameras ||entailment
+the glasses are wearing ||entailment
+the cameras are two ||neutral
+the person is with cameras ||entailment

@@ -1,0 +1,6 @@
+there are not boys ||contradiction
+there are not uniforms ||contradiction
+there is not a field ||contradiction
+the uniforms are not red and white striped ||contradiction
+the boys are not in uniforms ||contradiction
+the boys are not standing in the field ||contradiction

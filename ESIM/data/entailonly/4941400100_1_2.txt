@@ -1,0 +1,8 @@
+There is a redhead. ||entailment
+There is a bracelet. ||entailment
+There is a woman. ||entailment
+The redhead is putting. ||entailment
+The woman is old. ||contradiction
+The redhead is putting on woman. ||entailment
+The redhead is putting bracelet. ||entailment
+The bracelet is on woman. ||entailment

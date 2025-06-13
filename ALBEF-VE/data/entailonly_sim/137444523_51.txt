@@ -1,0 +1,4 @@
+there is a dude ||entailment
+there is a knapsack ||entailment
+there is a female ||entailment
+the dude is in front of the woman ||entailment

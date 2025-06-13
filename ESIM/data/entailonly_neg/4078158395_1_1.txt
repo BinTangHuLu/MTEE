@@ -1,0 +1,4 @@
+There is not a man. ||contradiction
+The man is not able. ||contradiction
+The man does not have his legs. ||contradiction
+The man cannot use legs. ||entailment

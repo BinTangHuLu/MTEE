@@ -1,0 +1,4 @@
+There are people. ||Entailment
+There are two people. ||Entailment
+The people are kissing. ||Entailment
+The people are kissing outdoors. ||Entailment

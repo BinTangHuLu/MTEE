@@ -1,0 +1,3 @@
+There is a pup. ||entailment
+There is a bar. ||entailment
+The pup is pulling the stick. ||entailment

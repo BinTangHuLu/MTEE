@@ -1,0 +1,3 @@
+There are community. ||entailment
+There are sand. ||contradiction
+The community are taking from rocks. ||entailment

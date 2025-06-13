@@ -1,0 +1,4 @@
+there is a band ||entailment
+there is a backdrop ||entailment
+the backdrop is beautiful ||neutral
+the band plays in front of the backdrop ||entailment

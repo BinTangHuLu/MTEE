@@ -1,0 +1,3 @@
+there are dogs ||entailment
+the dogs are brown ||neutral
+the dogs are outside ||entailment

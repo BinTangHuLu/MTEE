@@ -1,0 +1,3 @@
+there is a player ||entailment
+there is a ball ||entailment
+the player is going for the ball ||entailment

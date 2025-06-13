@@ -1,0 +1,4 @@
+There is a member. ||entailment
+There is an army. ||entailment
+There is a dog. ||entailment
+The member walks the dog. ||entailment

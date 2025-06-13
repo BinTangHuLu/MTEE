@@ -1,0 +1,4 @@
+There are community. ||neutral
+There is a bank. ||neutral
+There are two community. ||neutral
+The community are near the store. ||neutral

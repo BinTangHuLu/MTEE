@@ -1,0 +1,4 @@
+There is not a jumper. ||contradiction
+There is not a hurdle. ||contradiction
+The jumper is not long. ||contradiction
+The jumper is not jumping hurdle. ||contradiction

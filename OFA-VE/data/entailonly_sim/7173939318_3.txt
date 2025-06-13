@@ -1,0 +1,4 @@
+There are community. ||Entailment
+There is a arena. ||Contradiction
+The community are enjoying. ||Neutral
+The community are outside the scene. ||Entailment

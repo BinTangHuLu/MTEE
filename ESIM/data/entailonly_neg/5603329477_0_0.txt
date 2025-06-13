@@ -1,0 +1,5 @@
+There is not a sky. ||contradiction
+The sky is not blue. ||contradiction
+There is not a cloud. ||contradiction
+The cloud is not single puffy. ||entailment
+The sky is not with cloud. ||contradiction

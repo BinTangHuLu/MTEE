@@ -1,0 +1,6 @@
+there is not a girl ||contradiction
+there is not a volleyball ||contradiction
+there is not a sign ||contradiction
+there is not a background ||contradiction
+the girl does not play volleyball ||entailment
+the sign is not in the background ||neutral

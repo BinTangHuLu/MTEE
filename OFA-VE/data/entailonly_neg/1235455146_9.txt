@@ -1,0 +1,5 @@
+There is not weather. ||Contradiction
+There is not a beach. ||Contradiction
+The weather is not warm. ||Entailment
+The weather is not sunny. ||Entailment
+The weather is not at the beach. ||Entailment

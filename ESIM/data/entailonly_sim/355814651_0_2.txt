@@ -1,0 +1,4 @@
+There are child. ||neutral
+There are two child. ||neutral
+The child are walking. ||entailment
+The child are outdoors. ||entailment

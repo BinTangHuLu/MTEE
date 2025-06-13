@@ -1,0 +1,3 @@
+there is a woman ||entailment
+there is a kitchen ||entailment
+the woman is standing inside of the kitchen ||entailment

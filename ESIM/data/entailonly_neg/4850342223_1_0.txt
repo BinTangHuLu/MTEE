@@ -1,0 +1,5 @@
+There is not a woman. ||contradiction
+There is not a face. ||contradiction
+The woman is hernot . ||neutral
+The face is not part. ||contradiction
+The woman does not cover face. ||contradiction

@@ -1,0 +1,4 @@
+There is a female. ||entailment
+There is a baby. ||entailment
+The female takes a picture. ||entailment
+The baby takes a picture. ||entailment

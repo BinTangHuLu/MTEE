@@ -1,0 +1,3 @@
+there is a establishment ||entailment
+there is drink ||entailment
+the establishment is near water ||entailment

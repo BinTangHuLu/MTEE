@@ -1,0 +1,4 @@
+there is a man ||entailment
+there is a maneuver ||entailment
+the maneuver is tricky ||entailment
+the man is doing maneuver ||entailment

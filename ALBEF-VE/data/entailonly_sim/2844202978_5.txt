@@ -1,0 +1,5 @@
+there is a female ||entailment
+there are equipment ||entailment
+the equipment are perishable ||entailment
+the female is presenting goods ||entailment
+the equipment are a variety of goods ||neutral

@@ -1,0 +1,4 @@
+There is a body. ||Contradiction
+There is cabbage. ||Contradiction
+The cabbage is fresh. ||Contradiction
+The body is selling bread. ||Neutral

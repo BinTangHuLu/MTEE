@@ -1,0 +1,6 @@
+There are males. ||entailment
+There are clothes. ||entailment
+The males are socializing. ||entailment
+The clothes are casual. ||entailment
+The males are socializing with each other. ||entailment
+The males are wearing casual clothes. ||entailment

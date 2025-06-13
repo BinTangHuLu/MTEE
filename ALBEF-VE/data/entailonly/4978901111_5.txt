@@ -1,0 +1,7 @@
+there is a woman ||entailment
+there is a kid ||entailment
+there is a fruit ||entailment
+the woman is enjoying looking at ||neutral
+the kid is eating ||entailment
+the woman is looking at kid ||entailment
+the kid is eating fruit ||entailment

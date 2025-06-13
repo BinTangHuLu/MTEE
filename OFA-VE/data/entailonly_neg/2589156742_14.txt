@@ -1,0 +1,3 @@
+There is not a man. ||Contradiction
+There is not a drink. ||Contradiction
+The man is not holding drink. ||Entailment

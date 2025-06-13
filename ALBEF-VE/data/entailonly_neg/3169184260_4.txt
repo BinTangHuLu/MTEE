@@ -1,0 +1,6 @@
+there is not a boy ||contradiction
+there are not some legos ||contradiction
+there is not a tree ||contradiction
+the boy is not little ||contradiction
+the boy was not playing with legos ||contradiction
+the legos are not by the tree ||contradiction

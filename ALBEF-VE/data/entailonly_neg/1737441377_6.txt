@@ -1,0 +1,6 @@
+there are not people ||contradiction
+there is not a cart ||contradiction
+there are not vegetables ||contradiction
+the people are not dressed differently ||contradiction
+the people are not standing near the cart ||contradiction
+the people are not looking at the vegetables ||entailment

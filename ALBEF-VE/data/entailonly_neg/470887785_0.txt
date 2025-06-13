@@ -1,0 +1,5 @@
+there are not women ||entailment
+there are not words ||contradiction
+there is not a crowd ||contradiction
+the women are not speaking words ||contradiction
+the words are not in front of the crowd ||contradiction

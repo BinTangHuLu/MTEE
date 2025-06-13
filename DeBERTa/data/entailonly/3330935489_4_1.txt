@@ -1,0 +1,3 @@
+There is a dog. ||entailment
+There is a stick. ||entailment
+The dog is pulling the stick. ||entailment

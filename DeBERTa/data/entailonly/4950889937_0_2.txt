@@ -1,0 +1,4 @@
+There is a woman. ||entailment
+There is a street. ||entailment
+The woman is busy. ||neutral
+The woman is walking down the street. ||entailment

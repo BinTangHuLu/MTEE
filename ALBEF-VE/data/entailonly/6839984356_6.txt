@@ -1,0 +1,3 @@
+there is an asian ||entailment
+there is a young ||entailment
+the asian is sitting young ||entailment

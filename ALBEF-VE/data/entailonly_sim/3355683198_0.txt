@@ -1,0 +1,4 @@
+there is a child ||entailment
+there is a architecture ||entailment
+the child rides the skateboard ||entailment
+the skateboard is near the architecture ||entailment

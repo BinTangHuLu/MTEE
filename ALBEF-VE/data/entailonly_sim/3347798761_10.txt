@@ -1,0 +1,5 @@
+there is a body ||entailment
+there is a pedal ||entailment
+there is some excrement ||entailment
+there is a cylinder cross ||entailment
+the body rides the bike ||entailment

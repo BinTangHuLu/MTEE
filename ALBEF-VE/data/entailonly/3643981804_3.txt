@@ -1,0 +1,4 @@
+there is a human ||entailment
+there is some clothing ||entailment
+the clothing is head ||contradiction
+the human is wearing clothing ||entailment

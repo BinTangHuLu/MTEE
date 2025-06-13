@@ -1,0 +1,4 @@
+there is a line ||entailment
+there is a scenery ||entailment
+the scenery is beautiful ||neutral
+the line plays in front of the backdrop ||entailment

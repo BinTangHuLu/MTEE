@@ -1,0 +1,2 @@
+There is a line. ||entailment
+The line is playing. ||entailment

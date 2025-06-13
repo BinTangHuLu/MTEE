@@ -1,0 +1,4 @@
+There is a dude. ||Entailment
+The dude is older. ||Entailment
+There is melody. ||Entailment
+The dude plays music. ||Entailment

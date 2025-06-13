@@ -1,0 +1,3 @@
+there are girls ||entailment
+there is a girl ||entailment
+the girls are lifting another girl ||entailment

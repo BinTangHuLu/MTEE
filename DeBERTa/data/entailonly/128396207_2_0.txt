@@ -1,0 +1,3 @@
+There is a cyclist. ||entailment
+There are some cars. ||entailment
+The cyclist is traveling faster than cars. ||entailment

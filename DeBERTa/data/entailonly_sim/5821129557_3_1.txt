@@ -1,0 +1,2 @@
+There is a baby. ||entailment
+There is a celebration. ||entailment

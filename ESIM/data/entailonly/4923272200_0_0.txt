@@ -1,0 +1,7 @@
+There is a man. ||entailment
+There is an instrument. ||entailment
+There is a street. ||entailment
+There are some people. ||entailment
+The man is playing the instrument. ||entailment
+The man is on the street. ||entailment
+The street is near the people. ||entailment

@@ -1,0 +1,6 @@
+there is not an athlete ||contradiction
+there is not a photoshoot ||contradiction
+there is not a fan ||contradiction
+the athlete is not female ||entailment
+the athlete is not doing a photoshoot ||contradiction
+the fan does not watch the athlete ||contradiction

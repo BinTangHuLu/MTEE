@@ -1,0 +1,5 @@
+there is a girl ||entailment
+there is a field ||entailment
+the girl is ||contradiction
+the girl is in the field ||entailment
+the girl blew bubbles ||entailment

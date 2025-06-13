@@ -1,0 +1,6 @@
+there is a dude ||entailment
+there is a album ||entailment
+there is a chair ||entailment
+the album is outdoor ||neutral
+the dude reads the book ||neutral
+the album is on the bench ||neutral

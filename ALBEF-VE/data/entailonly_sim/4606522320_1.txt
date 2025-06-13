@@ -1,0 +1,6 @@
+there is a association ||entailment
+there are community ||entailment
+there is a dude ||entailment
+the dude is gray haired ||entailment
+the association is being led by the man ||entailment
+the community are being led by the man ||entailment

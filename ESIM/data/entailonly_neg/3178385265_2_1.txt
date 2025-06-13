@@ -1,0 +1,5 @@
+There is not a child. ||contradiction
+There is not a tree. ||contradiction
+The child is not outside. ||contradiction
+The tree is not christmas. ||contradiction
+The child does not play next to the tree. ||contradiction

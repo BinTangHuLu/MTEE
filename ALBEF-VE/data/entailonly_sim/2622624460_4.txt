@@ -1,0 +1,5 @@
+there is an bodily ||entailment
+there is some drink ||neutral
+there is an article ||neutral
+the bodily is splashing ||entailment
+the bodily is running after the object ||entailment

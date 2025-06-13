@@ -1,0 +1,3 @@
+there is a boy ||entailment
+the boy is jumping up ||entailment
+the boy is jumping up into air ||entailment

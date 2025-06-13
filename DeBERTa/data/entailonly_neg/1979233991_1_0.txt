@@ -1,0 +1,4 @@
+There is not a woman. ||contradiction
+There is not a dog. ||contradiction
+The woman is not holding. ||contradiction
+The dog is not scruffy. ||contradiction

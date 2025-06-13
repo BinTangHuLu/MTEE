@@ -1,0 +1,4 @@
+There is not a man. ||contradiction
+There is not a woman. ||contradiction
+The woman is not costume. ||contradiction
+The man does not dance with woman. ||contradiction

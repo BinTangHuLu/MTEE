@@ -1,0 +1,3 @@
+There is a boy. ||entailment
+There is a building. ||entailment
+The boy is running in front of the building. ||entailment

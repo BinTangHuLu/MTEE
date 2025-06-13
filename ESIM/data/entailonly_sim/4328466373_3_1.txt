@@ -1,0 +1,4 @@
+There are adolescent. ||entailment
+There is a appearance. ||neutral
+The adolescent are watching the presentation. ||neutral
+The adolescent are watching the classroom. ||neutral

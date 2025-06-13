@@ -1,0 +1,3 @@
+there is not a puppy ||contradiction
+the puppy is not running ||entailment
+the puppy is not running ||entailment

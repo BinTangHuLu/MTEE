@@ -1,0 +1,4 @@
+There is a woman. ||entailment
+There is a road. ||entailment
+The woman runs quickly. ||neutral
+The woman runs down the road. ||entailment

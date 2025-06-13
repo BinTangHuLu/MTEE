@@ -1,0 +1,4 @@
+There are not children. ||Contradiction
+There are not adults. ||Entailment
+The children are not shorter. ||Entailment
+The children are not shorter than adults. ||Entailment

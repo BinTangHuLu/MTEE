@@ -1,0 +1,5 @@
+There is a body. ||entailment
+There is a account. ||entailment
+The snowman is an ||neutral
+The body poses for the picture. ||neutral
+The body is with the snowman. ||entailment

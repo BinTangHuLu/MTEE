@@ -1,0 +1,6 @@
+There is not a woman. ||contradiction
+There are not some tricks. ||contradiction
+There is not a park. ||contradiction
+The woman is not young. ||contradiction
+The woman is not performing tricks. ||contradiction
+The woman is not at park. ||contradiction

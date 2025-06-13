@@ -1,0 +1,5 @@
+There are people. ||entailment
+There is a seventh. ||neutral
+There is a seventh. ||neutral
+The seventh is injured. ||neutral
+The people act to save the seventh. ||entailment

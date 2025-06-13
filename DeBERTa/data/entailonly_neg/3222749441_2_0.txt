@@ -1,0 +1,4 @@
+There are not people. ||contradiction
+There are not 3 people. ||contradiction
+The people do not have blindfolds. ||contradiction
+The people are not with blindfolds. ||contradiction

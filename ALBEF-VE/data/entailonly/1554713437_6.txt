@@ -1,0 +1,3 @@
+there is a dog ||entailment
+there is some ground ||entailment
+the dog is sniffing the ground ||entailment

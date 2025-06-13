@@ -1,0 +1,3 @@
+There is a body. ||Contradiction
+There is a auto. ||Entailment
+The body goes by car. ||Contradiction

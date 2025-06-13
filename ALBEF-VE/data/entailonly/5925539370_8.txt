@@ -1,0 +1,5 @@
+there are children ||entailment
+there is a baseball ||entailment
+there is a field ||entailment
+the children play baseball ||entailment
+they play in the field ||entailment

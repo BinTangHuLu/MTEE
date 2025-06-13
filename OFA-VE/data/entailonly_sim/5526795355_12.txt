@@ -1,0 +1,2 @@
+There is melody. ||Entailment
+Someone is playing melody. ||Entailment

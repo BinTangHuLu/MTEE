@@ -1,0 +1,4 @@
+There is someone. ||Entailment
+There is a station. ||Entailment
+The station is metro. ||Neutral
+Someone is standing near the station. ||Entailment

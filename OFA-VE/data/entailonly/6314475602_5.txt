@@ -1,0 +1,4 @@
+There is a group. ||Entailment
+There are men. ||Entailment
+There are sticks. ||Entailment
+The men are throwing sticks. ||Entailment

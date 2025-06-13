@@ -1,0 +1,6 @@
+There is not a player. ||contradiction
+The player is not American. ||contradiction
+The player is not yellow. ||contradiction
+The ball does not catch. ||contradiction
+The player does not catch the ball. ||contradiction
+The player is not under pressure from another player. ||contradiction

@@ -1,0 +1,6 @@
+there is not a kid ||contradiction
+there is not a uniform ||contradiction
+there is not a ball ||contradiction
+the kid is not young ||contradiction
+the kid is not in uniform ||contradiction
+the kid does not hold the ball ||contradiction

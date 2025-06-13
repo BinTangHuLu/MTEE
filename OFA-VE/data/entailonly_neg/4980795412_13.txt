@@ -1,0 +1,3 @@
+There is not a couple. ||Entailment
+There is not a road. ||Contradiction
+The couple is not on road. ||Entailment

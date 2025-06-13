@@ -1,0 +1,3 @@
+There is a association. ||Entailment
+There is a child. ||Entailment
+The association is playing with the girl. ||Neutral

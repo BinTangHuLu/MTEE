@@ -1,0 +1,3 @@
+There is a woman. ||entailment
+The woman is older. ||entailment
+The woman is walking. ||entailment

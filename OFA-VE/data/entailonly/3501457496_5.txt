@@ -1,0 +1,5 @@
+There are friends. ||Entailment
+There is a park. ||Entailment
+There is a gathering. ||Entailment
+The friends are together at the park. ||Entailment
+The gathering is outside the park. ||Entailment

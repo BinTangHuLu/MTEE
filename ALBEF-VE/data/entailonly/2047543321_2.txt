@@ -1,0 +1,3 @@
+there is a man ||entailment
+there is a pile ||entailment
+the man stands on the pile ||entailment

@@ -1,0 +1,5 @@
+There is not a woman. ||contradiction
+There is not a portrait. ||contradiction
+There is not a person. ||contradiction
+The woman does not paint the portrait. ||contradiction
+The portrait is not of the person. ||contradiction

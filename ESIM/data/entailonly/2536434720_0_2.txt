@@ -1,0 +1,5 @@
+There is a rider. ||entailment
+There is a horse. ||entailment
+The rider is covered in gear. ||entailment
+The horse is covered in gear. ||entailment
+The rider is covered in gear are covered in horse. ||entailment

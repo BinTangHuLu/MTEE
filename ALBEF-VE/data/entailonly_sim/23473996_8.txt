@@ -1,0 +1,3 @@
+there is a development ||entailment
+there is a capital ||entailment
+the development is happening in the city ||entailment

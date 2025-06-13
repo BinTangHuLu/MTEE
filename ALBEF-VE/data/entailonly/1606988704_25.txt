@@ -1,0 +1,4 @@
+there are children ||entailment
+there is some hay ||entailment
+the children are young ||entailment
+the children play in hay ||entailment

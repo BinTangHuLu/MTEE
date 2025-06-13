@@ -1,0 +1,2 @@
+EA,floor,wood
+E1RE2,floor,is made of,wood

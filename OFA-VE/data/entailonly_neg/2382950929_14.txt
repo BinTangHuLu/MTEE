@@ -1,0 +1,4 @@
+There is not a facing. ||Entailment
+There are not people. ||Contradiction
+The faces are not visible. ||Contradiction
+The faces are not of people. ||Contradiction

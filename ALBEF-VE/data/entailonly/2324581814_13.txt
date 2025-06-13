@@ -1,0 +1,3 @@
+there are men ||entailment
+there is a hole ||entailment
+the men peer at the hole ||neutral

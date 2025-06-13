@@ -1,0 +1,9 @@
+There is not a woman. ||contradiction
+There is not a tank top. ||contradiction
+There are not pants. ||contradiction
+There is not a glass. ||contradiction
+The woman is not wearing. ||contradiction
+The woman does not look through. ||contradiction
+The woman is not wearing a tank top. ||contradiction
+The woman is not wearing pants. ||contradiction
+The woman does not look through glass. ||contradiction

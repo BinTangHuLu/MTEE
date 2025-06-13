@@ -1,0 +1,5 @@
+there are not people ||contradiction
+there is not a street ||contradiction
+there are not four people ||contradiction
+the people are not dressed in black ||contradiction
+the people are not walking down street ||contradiction

@@ -1,0 +1,6 @@
+There is not a child. ||contradiction
+There are not some brooms. ||contradiction
+The child does not play. ||contradiction
+There are not two brooms. ||contradiction
+The child does not play with brooms. ||contradiction
+The child does not play outside. ||contradiction

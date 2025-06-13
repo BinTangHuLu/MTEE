@@ -1,0 +1,5 @@
+there is a dude ||entailment
+there is a jungle ||contradiction
+there is a basin ||entailment
+the dude is looking past the forest ||entailment
+the dude is looking past the lake ||entailment

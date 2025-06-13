@@ -1,0 +1,3 @@
+there are boy ||entailment
+there are 2 boy ||contradiction
+the boy are sitting on the skateboard ||entailment

@@ -1,0 +1,4 @@
+There is a arbiter. ||entailment
+There are some list. ||entailment
+The arbiter is getting ready to face-off. ||contradiction
+The arbiter is getting ready to face-off with players. ||contradiction

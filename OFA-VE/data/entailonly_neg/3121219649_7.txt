@@ -1,0 +1,2 @@
+There are not men. ||Entailment
+There are not two men. ||Entailment

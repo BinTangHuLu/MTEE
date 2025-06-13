@@ -1,0 +1,2 @@
+E1R,snow,in
+E1R,hikers,sitting on

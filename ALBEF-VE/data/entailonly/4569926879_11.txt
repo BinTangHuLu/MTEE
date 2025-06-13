@@ -1,0 +1,5 @@
+there is a group ||entailment
+there are some people ||entailment
+there are some hats ||entailment
+the people are wearing ||entailment
+the people are wearing hats ||entailment

@@ -1,0 +1,6 @@
+There is a squirrel. ||entailment
+There is a position. ||entailment
+There is a road. ||entailment
+The squirrel is upright. ||entailment
+The squirrel is situated in position. ||entailment
+The squirrel is near road. ||entailment

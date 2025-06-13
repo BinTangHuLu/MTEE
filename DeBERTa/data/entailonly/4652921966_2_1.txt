@@ -1,0 +1,4 @@
+There is a woman. ||entailment
+There is a shirt. ||entailment
+The shirt is gray. ||entailment
+The woman is looking onward. ||entailment

@@ -1,0 +1,4 @@
+there is a child ||entailment
+there are some community ||entailment
+the child is energetic ||entailment
+the child runs around people ||entailment

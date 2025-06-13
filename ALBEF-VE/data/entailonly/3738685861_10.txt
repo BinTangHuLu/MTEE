@@ -1,0 +1,4 @@
+there is a child ||entailment
+there are some toys ||entailment
+the child is playing ||entailment
+the child is playing with toys ||contradiction

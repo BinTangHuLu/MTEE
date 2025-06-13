@@ -1,0 +1,5 @@
+There are people. ||Entailment
+There is a restaurant. ||Entailment
+There is decoration. ||Entailment
+The people are at the restaurant. ||Entailment
+The restaurant is near decoration. ||Entailment

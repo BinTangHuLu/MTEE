@@ -1,0 +1,3 @@
+there are rugs ||entailment
+there are patterns ||entailment
+the rugs have patterns ||entailment

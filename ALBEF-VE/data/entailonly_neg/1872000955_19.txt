@@ -1,0 +1,3 @@
+there are not workers ||contradiction
+there is not a hole ||contradiction
+the workers are not trying to get deeper into the hole ||contradiction

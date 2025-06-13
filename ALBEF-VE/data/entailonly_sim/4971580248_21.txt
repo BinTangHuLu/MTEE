@@ -1,0 +1,5 @@
+there is a female ||entailment
+there is a avenue ||entailment
+there is a sandwich cabinet ||entailment
+the female stands in the street ||entailment
+the female is in front of the sandwich board ||entailment

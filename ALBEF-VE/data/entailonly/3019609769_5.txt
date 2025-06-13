@@ -1,0 +1,4 @@
+there are people ||entailment
+there is a surface ||entailment
+the surface is brown ||entailment
+the people are walking on the surface ||entailment

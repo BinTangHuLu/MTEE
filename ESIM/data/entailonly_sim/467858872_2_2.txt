@@ -1,0 +1,2 @@
+There is a earth. ||entailment
+The dogs are digging under the earth. ||contradiction

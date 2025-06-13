@@ -1,0 +1,3 @@
+there is a child ||entailment
+there is an instrument ||entailment
+the child is holding the instrument ||entailment

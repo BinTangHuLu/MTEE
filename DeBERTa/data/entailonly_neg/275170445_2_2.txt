@@ -1,0 +1,3 @@
+There are not people. ||contradiction
+The people are not Asian. ||contradiction
+The people are not sitting next to each other. ||entailment

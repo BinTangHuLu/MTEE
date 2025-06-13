@@ -1,0 +1,5 @@
+there is a coat ||entailment
+there is an shade ||entailment
+the coat is the same color ||neutral
+the shade is the same color ||neutral
+the coat and umbrella are the same color ||entailment

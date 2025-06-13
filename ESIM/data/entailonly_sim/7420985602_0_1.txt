@@ -1,0 +1,7 @@
+There are dude. ||entailment
+There is a dispatch. ||entailment
+There are two dude. ||entailment
+The dude are workers gear. ||entailment
+The dispatch is large. ||neutral
+The dude are on the ship. ||entailment
+The dispatch is with machinery. ||entailment

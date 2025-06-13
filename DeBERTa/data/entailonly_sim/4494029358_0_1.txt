@@ -1,0 +1,2 @@
+The Lady reaches to a dude. ||entailment
+The dude is sitting beside the Lady. ||entailment

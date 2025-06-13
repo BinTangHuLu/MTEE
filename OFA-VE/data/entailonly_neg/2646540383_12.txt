@@ -1,0 +1,3 @@
+There is not a boy. ||Contradiction
+There is not a suit. ||Contradiction
+The boy is not wearing the suit. ||Entailment

@@ -1,0 +1,3 @@
+there is a female ||entailment
+the female is loaded ||entailment
+the female is loaded by dishwasher ||entailment

@@ -1,0 +1,5 @@
+there is not a man ||contradiction
+there is not a microphone ||contradiction
+there are not musicians ||contradiction
+the man is not taking care of the microphone ||contradiction
+the microphone is not for musicians ||contradiction

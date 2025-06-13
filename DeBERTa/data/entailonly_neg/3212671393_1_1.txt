@@ -1,0 +1,12 @@
+There is not a man. ||contradiction
+There is not a t-shirt. ||contradiction
+There are not jeans. ||contradiction
+There is not a cap. ||contradiction
+There is not a roof. ||contradiction
+There is not a house. ||contradiction
+There are not shingles. ||contradiction
+The man is not single. ||contradiction
+The t-shirt is not blue. ||contradiction
+The man does not work on the roof. ||contradiction
+The roof is not laying shingles. ||contradiction
+The man does not wear the t-shirt. ||contradiction

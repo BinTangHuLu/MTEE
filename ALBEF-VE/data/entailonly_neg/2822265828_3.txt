@@ -1,0 +1,3 @@
+there are not cheerleaders ||contradiction
+there is not a photo ||entailment
+the cheerleaders do not take a photo ||contradiction

@@ -1,0 +1,8 @@
+there is a childbearing ||entailment
+there are claw ||entailment
+there is a ability ||entailment
+there is a brain piece ||entailment
+the childbearing is very colorfully robed ||entailment
+the claw are painted red ||neutral
+the childbearing is with fingers ||entailment
+the childbearing has on head piece ||entailment

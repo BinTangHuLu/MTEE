@@ -1,0 +1,4 @@
+There is a child. ||Entailment
+There is a choker. ||Entailment
+The choker is make of bead. ||Entailment
+The child is holding the necklace. ||Entailment

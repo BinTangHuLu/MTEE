@@ -1,0 +1,6 @@
+There is a dude. ||entailment
+There is a coat. ||entailment
+There is a examine. ||entailment
+The dude is wearing. ||entailment
+The coat is holding. ||entailment
+The dude is while holding comb. ||entailment

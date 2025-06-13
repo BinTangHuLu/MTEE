@@ -1,0 +1,3 @@
+there is a bar ||entailment
+there is a gem ||entailment
+the bar is being worked on ||entailment

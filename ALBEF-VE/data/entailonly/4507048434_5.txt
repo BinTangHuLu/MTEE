@@ -1,0 +1,6 @@
+there is a man ||entailment
+there is a hat ||entailment
+there is a coat ||entailment
+the man is talking on the phone ||entailment
+the man is in the hat ||entailment
+the man is in the coat ||entailment

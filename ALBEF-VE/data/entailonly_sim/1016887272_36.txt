@@ -1,0 +1,3 @@
+there is a association ||entailment
+there are community ||entailment
+the association are rock climbing ||entailment

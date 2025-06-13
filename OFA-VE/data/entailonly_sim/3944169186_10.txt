@@ -1,0 +1,4 @@
+There is a childbearing. ||Entailment
+There is a ball. ||Entailment
+The childbearing is young. ||Entailment
+The childbearing is playing basketball. ||Neutral

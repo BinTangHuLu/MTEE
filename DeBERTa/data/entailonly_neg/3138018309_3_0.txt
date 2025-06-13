@@ -1,0 +1,3 @@
+There is not a kid. ||contradiction
+There is not a tree. ||contradiction
+The kid is not in front of the tree. ||contradiction

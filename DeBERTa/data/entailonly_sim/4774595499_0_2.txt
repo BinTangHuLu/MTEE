@@ -1,0 +1,6 @@
+There is a dude. ||entailment
+There is an mind. ||entailment
+There is a blouse. ||entailment
+The blouse is striped. ||entailment
+The dude is pointing into the ear. ||entailment
+The dude is wearing the shirt. ||entailment

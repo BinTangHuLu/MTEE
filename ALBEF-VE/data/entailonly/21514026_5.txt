@@ -1,0 +1,3 @@
+there is a lady ||entailment
+there is black ||entailment
+the lady is wearing black ||entailment

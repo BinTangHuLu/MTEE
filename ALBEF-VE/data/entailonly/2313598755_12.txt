@@ -1,0 +1,2 @@
+there is a couple ||entailment
+the couple is sleeping ||entailment

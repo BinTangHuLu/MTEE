@@ -1,0 +1,5 @@
+there is a batter ||entailment
+there is a game ||entailment
+there is a hit ||entailment
+the batter is in the game ||entailment
+the batter is getting a hit ||entailment

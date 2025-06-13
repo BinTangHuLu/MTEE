@@ -1,0 +1,4 @@
+There is not a person. ||contradiction
+The person is not red. ||contradiction
+The person is not cutting grass. ||contradiction
+The person is not cutting on riding mower. ||contradiction

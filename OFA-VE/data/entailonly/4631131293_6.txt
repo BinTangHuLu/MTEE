@@ -1,0 +1,4 @@
+There are girls. ||Entailment
+There is a skirt. ||Entailment
+The skirt is same. ||Neutral
+The girls are wearing skirt. ||Entailment

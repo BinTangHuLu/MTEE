@@ -1,0 +1,7 @@
+there are girls ||entailment
+there is a picture ||entailment
+there is a dresser ||entailment
+there is a christmas tree ||entailment
+the girls pose for the picture ||entailment
+the picture is near the dresser ||entailment
+the picture is near the christmas tree ||entailment

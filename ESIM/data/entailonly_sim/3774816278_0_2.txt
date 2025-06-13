@@ -1,0 +1,5 @@
+There is a association. ||neutral
+There are some community. ||neutral
+The association is standing. ||entailment
+The community are smiling. ||neutral
+The association is standing around people. ||entailment

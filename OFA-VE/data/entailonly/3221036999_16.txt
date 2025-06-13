@@ -1,0 +1,3 @@
+There is a man. ||Entailment
+The man is skateboarding. ||Entailment
+The man is skateboarding. ||Entailment

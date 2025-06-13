@@ -1,0 +1,5 @@
+There is not a girl. ||Contradiction
+There is not a body. ||Contradiction
+There is not water. ||Contradiction
+The girl does not run by the body. ||Contradiction
+The body of water is not by water. ||Contradiction

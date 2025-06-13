@@ -1,0 +1,5 @@
+There are community. ||entailment
+The community are two. ||entailment
+The community are occupied. ||entailment
+The community have different content. ||entailment
+The community are occupied with different content. ||entailment

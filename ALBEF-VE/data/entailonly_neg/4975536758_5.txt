@@ -1,0 +1,4 @@
+there is not a child ||contradiction
+there is not a picture ||entailment
+the child is not young ||contradiction
+the child is not outside in picture ||entailment

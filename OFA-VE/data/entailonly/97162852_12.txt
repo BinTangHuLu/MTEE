@@ -1,0 +1,5 @@
+There is a woman. ||Entailment
+There is a needle. ||Entailment
+There is a hand. ||Entailment
+The woman holds the needle. ||Entailment
+The needle is in the hand. ||Contradiction

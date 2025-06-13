@@ -1,0 +1,3 @@
+there are bill ||contradiction
+there is a circle ||entailment
+the bill took place in front of the crowd ||neutral

@@ -1,0 +1,4 @@
+there is a circle ||entailment
+there are community ||entailment
+there is a commemoration ||entailment
+the circle watches the ceremony ||neutral

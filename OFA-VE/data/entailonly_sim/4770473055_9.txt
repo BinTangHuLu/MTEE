@@ -1,0 +1,5 @@
+There is a dude. ||Entailment
+There is an apparel. ||Entailment
+There is a strum. ||Entailment
+The apparel is fancy. ||Entailment
+The dude holds the drum. ||Entailment

@@ -1,0 +1,7 @@
+There is a man. ||entailment
+There is a car. ||entailment
+There is a cellphone. ||entailment
+The man is getting gas. ||entailment
+The car is his. ||entailment
+The man talks on the cellphone. ||entailment
+The man is getting the car. ||entailment

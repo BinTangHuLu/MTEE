@@ -1,0 +1,7 @@
+there is a man ||entailment
+there is linen ||entailment
+there is a base ||entailment
+there is a wall ||entailment
+the man is wearing linen ||neutral
+the man plays base ||contradiction
+the base is against the wall ||entailment

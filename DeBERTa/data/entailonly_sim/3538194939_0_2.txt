@@ -1,0 +1,7 @@
+There is a dude. ||entailment
+There are some attire. ||entailment
+There are some bounce. ||neutral
+There is a backing device. ||entailment
+The dude is wearing work clothes. ||entailment
+The dude is wearing boots. ||entailment
+The dude is working on the flotation device. ||entailment

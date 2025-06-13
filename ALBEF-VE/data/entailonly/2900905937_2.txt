@@ -1,0 +1,3 @@
+there is a man ||entailment
+there is a truck ||entailment
+the man is working on the truck ||entailment

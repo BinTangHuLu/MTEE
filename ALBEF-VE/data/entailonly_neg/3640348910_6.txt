@@ -1,0 +1,5 @@
+there is not a skateboarder ||contradiction
+there is not a ramp ||contradiction
+there is not a painting ||contradiction
+the skateboarder is not on ramp ||contradiction
+the ramp is not near painting ||contradiction

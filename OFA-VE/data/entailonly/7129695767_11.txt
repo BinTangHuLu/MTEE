@@ -1,0 +1,3 @@
+There is someone. ||Entailment
+There is a cliff. ||Entailment
+Someone is on cliff. ||Entailment

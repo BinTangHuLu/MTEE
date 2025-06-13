@@ -1,0 +1,4 @@
+There is not a snowboarder. ||contradiction
+There is not a field. ||contradiction
+There is not snow. ||contradiction
+The snowboarder is not gliding over the field. ||contradiction

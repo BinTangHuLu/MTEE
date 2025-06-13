@@ -1,0 +1,3 @@
+there are african americans ||entailment
+there is a woman ||entailment
+the african americans surround the woman ||contradiction

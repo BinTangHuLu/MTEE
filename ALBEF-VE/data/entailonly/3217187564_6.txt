@@ -1,0 +1,2 @@
+there are animals ||entailment
+the animals are running ||entailment

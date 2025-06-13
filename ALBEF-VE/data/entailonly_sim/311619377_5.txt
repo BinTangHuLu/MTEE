@@ -1,0 +1,3 @@
+there is a female ||entailment
+there are some backcountry ||neutral
+the female looks at sticks ||entailment

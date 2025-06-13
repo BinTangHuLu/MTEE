@@ -1,0 +1,4 @@
+there is a man ||entailment
+there is a horn ||entailment
+the horn is air ||entailment
+the man is holding horn ||entailment

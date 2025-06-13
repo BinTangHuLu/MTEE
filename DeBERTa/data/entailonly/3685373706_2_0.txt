@@ -1,0 +1,4 @@
+There is a man. ||entailment
+The man has no shirt. ||entailment
+There is a stick. ||entailment
+The man holds the stick. ||entailment

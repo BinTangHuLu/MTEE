@@ -1,0 +1,4 @@
+There is a man. ||entailment
+There is a stage. ||entailment
+The man is black. ||entailment
+The man is standing on stage. ||entailment

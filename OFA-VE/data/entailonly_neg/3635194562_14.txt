@@ -1,0 +1,4 @@
+There is not a child. ||Contradiction
+There are not colors. ||Contradiction
+The colors are not many. ||Neutral
+The child is not using colors. ||Neutral

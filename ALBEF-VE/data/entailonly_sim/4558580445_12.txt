@@ -1,0 +1,2 @@
+there are appliance ||entailment
+the appliance are multiple ||entailment

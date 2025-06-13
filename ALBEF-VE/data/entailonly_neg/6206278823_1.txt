@@ -1,0 +1,3 @@
+there are not people ||contradiction
+there is not hockey ||contradiction
+people are not playing hockey ||contradiction

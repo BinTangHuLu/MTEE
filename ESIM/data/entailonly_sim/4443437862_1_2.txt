@@ -1,0 +1,7 @@
+There is a female. ||entailment
+There is a child. ||entailment
+There is a backpack. ||neutral
+The female is carrying. ||entailment
+The backpack is behind. ||entailment
+The female is carrying the girl. ||contradiction
+The female is with the bag. ||entailment

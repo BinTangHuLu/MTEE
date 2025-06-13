@@ -1,0 +1,4 @@
+There is a group. ||entailment
+There are some people. ||neutral
+There is an ocean. ||entailment
+The group plays in the ocean. ||entailment

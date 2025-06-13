@@ -1,0 +1,3 @@
+There is not a microphone. ||contradiction
+There is not a stage. ||contradiction
+The microphone is not near stage. ||contradiction

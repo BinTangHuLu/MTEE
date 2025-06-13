@@ -1,0 +1,3 @@
+There is a person. ||Entailment
+There are some trees. ||Entailment
+The person is surrounded by trees. ||Entailment

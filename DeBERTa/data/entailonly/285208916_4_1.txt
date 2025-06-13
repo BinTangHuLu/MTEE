@@ -1,0 +1,3 @@
+There is a man. ||entailment
+The man is young. ||entailment
+The man is at bowling alley. ||entailment

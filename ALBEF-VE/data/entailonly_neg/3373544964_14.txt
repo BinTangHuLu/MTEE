@@ -1,0 +1,4 @@
+there is not a man ||contradiction
+there is not a bulldog ||contradiction
+the man is not outdoors ||entailment
+the man is not petting the bulldog ||entailment

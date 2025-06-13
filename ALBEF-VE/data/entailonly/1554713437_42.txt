@@ -1,0 +1,3 @@
+there is an animal ||entailment
+there is some wood ||entailment
+the animal is walking across wood ||entailment

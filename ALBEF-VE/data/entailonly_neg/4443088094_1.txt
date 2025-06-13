@@ -1,0 +1,4 @@
+there are not people ||contradiction
+there are not bikes ||contradiction
+the bikes are not parked ||contradiction
+people do not walk by bikes ||contradiction

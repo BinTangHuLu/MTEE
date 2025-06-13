@@ -1,0 +1,3 @@
+there is a animal ||entailment
+the animal is three ||neutral
+the animal are standing outside ||contradiction

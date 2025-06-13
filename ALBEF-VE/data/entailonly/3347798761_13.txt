@@ -1,0 +1,5 @@
+there is a snowboarder ||entailment
+there is a stunt ||entailment
+there is a hill ||entailment
+the snowboarder performs stunt ||entailment
+the stunt is over hill ||neutral

@@ -1,0 +1,2 @@
+There is an field. ||Contradiction
+The Firefighters check the field. ||Neutral

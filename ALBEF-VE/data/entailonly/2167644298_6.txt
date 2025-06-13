@@ -1,0 +1,6 @@
+there is a man ||entailment
+there is a hat ||entailment
+there is a wall ||entailment
+the hat is black ||entailment
+the man is with the hat ||entailment
+the man is standing next to the wall ||entailment

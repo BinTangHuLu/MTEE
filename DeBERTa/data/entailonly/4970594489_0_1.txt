@@ -1,0 +1,5 @@
+There is a man. ||entailment
+There is a cart. ||entailment
+The man is Asian. ||entailment
+The man is pushing the cart. ||entailment
+The cart is up the street. ||entailment

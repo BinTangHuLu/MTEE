@@ -1,0 +1,3 @@
+there is a body ||entailment
+there is a basin ||entailment
+the body is about to emerge from the pool ||entailment

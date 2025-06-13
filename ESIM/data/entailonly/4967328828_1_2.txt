@@ -1,0 +1,5 @@
+There is a woman. ||entailment
+There is a bikini. ||entailment
+There is water. ||entailment
+The woman is wearing a bikini. ||entailment
+The woman lays near water. ||entailment

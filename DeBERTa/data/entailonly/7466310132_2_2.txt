@@ -1,0 +1,5 @@
+There is a man. ||entailment
+There are women. ||neutral
+The man and women are shopping. ||entailment
+The man is shopping. ||entailment
+The women are shopping. ||neutral

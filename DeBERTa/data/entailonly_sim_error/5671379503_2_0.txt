@@ -1,0 +1,5 @@
+E,workers
+EA,workers,safety
+RE2,with,workers
+A,outdoor
+E1RE2,workers,working on,scaffolding

@@ -1,0 +1,5 @@
+There is a person. ||entailment
+There is a street. ||entailment
+The person is wearing. ||entailment
+The person is sweating. ||neutral
+The person is wearing in street. ||entailment

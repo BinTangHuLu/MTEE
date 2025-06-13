@@ -1,0 +1,4 @@
+There is a child. ||Entailment
+There is a exit. ||Entailment
+The child is waiting. ||Entailment
+The child is waiting by door. ||Entailment

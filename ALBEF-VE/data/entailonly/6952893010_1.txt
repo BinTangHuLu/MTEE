@@ -1,0 +1,3 @@
+there are sailboats ||entailment
+there is water ||entailment
+the sailboats are on water ||entailment

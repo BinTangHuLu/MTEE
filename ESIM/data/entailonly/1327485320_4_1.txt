@@ -1,0 +1,3 @@
+There is a woman. ||entailment
+There is some meat. ||entailment
+The woman is preparing meat. ||entailment

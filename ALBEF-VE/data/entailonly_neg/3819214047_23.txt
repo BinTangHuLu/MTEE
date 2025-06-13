@@ -1,0 +1,4 @@
+there are not guys ||contradiction
+there is not a skateboard ||contradiction
+there are not 2 guys ||entailment
+the guys are not sitting on the skateboard ||entailment

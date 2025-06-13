@@ -1,0 +1,5 @@
+There is a soccer player. ||entailment
+There is a goal. ||entailment
+There is an opposing team. ||entailment
+The soccer player tries to score the goal. ||entailment
+The opposing team stops it. ||entailment

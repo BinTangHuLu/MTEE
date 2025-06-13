@@ -1,0 +1,4 @@
+there is a child ||entailment
+there is a coaching ||entailment
+the child is in the middle ||entailment
+the child is in training ||entailment

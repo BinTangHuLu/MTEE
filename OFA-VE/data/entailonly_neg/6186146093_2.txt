@@ -1,0 +1,2 @@
+There is not a bike. ||Contradiction
+The bike does not need repair. ||Contradiction

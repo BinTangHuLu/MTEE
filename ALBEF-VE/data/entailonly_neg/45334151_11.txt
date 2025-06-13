@@ -1,0 +1,5 @@
+there is not a lady ||contradiction
+there is not a laundromat ||contradiction
+the lady is not young ||entailment
+the lady is waiting for somethingnot ||neutral
+the lady is not at the laundromat ||entailment

@@ -1,0 +1,5 @@
+there is not a bicycle ||contradiction
+there is not a shop ||contradiction
+there is not a worker ||contradiction
+the worker is not at work ||contradiction
+the worker is not at the bicycle ||entailment

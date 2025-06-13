@@ -1,0 +1,3 @@
+there is a childbearing ||entailment
+there is a clue ||entailment
+the childbearing is standing next to the sign ||entailment

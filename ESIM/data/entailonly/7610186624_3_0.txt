@@ -1,0 +1,4 @@
+There is a lady. ||entailment
+There is a table. ||entailment
+There is a sandwich. ||entailment
+The lady is cutting the sandwich. ||entailment

@@ -1,0 +1,4 @@
+there is a person ||entailment
+there is a ball ||entailment
+the person is blue ||entailment
+the person is holding the ball ||entailment

@@ -1,0 +1,6 @@
+there is a circle ||entailment
+there are some community ||entailment
+there is an accident ||neutral
+the circle is large ||neutral
+the circle waits at the event ||entailment
+the accident is in folding chairs ||neutral

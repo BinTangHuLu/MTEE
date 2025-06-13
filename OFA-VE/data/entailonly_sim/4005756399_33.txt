@@ -1,0 +1,3 @@
+There is a dude. ||Entailment
+There are some development. ||Contradiction
+The dude is in front of items. ||Entailment

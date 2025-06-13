@@ -1,0 +1,5 @@
+There are not people. ||contradiction
+There are not bikes. ||contradiction
+There are not two people. ||contradiction
+The bikes are not outside. ||contradiction
+People are not riding on bikes. ||entailment

@@ -1,0 +1,3 @@
+there is a kid ||entailment
+there is an orange ||entailment
+the kid is wearing orange ||entailment

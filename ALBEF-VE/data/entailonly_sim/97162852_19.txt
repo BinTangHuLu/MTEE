@@ -1,0 +1,3 @@
+there is a female ||entailment
+the female is doing hobby ||entailment
+the female is outside doing hobby ||entailment

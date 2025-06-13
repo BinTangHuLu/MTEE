@@ -1,0 +1,3 @@
+there is a guy ||entailment
+there is a laundry mat ||entailment
+the guy is in the laundry mat ||entailment

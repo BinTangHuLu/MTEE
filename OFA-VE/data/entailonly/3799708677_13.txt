@@ -1,0 +1,2 @@
+There are men. ||Entailment
+The men were walking. ||Entailment

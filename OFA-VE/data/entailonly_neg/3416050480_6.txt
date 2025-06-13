@@ -1,0 +1,5 @@
+There is not a person. ||Contradiction
+There is not a horse. ||Contradiction
+There is not a plane. ||Entailment
+The person does not ride the horse. ||Contradiction
+The horse is not over the plane. ||Entailment

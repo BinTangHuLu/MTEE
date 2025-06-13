@@ -1,0 +1,4 @@
+There are men. ||Entailment
+There are computers. ||Entailment
+The men are using computers. ||Entailment
+The men are using computers. ||Entailment

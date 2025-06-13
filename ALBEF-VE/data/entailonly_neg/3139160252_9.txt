@@ -1,0 +1,6 @@
+there are not girls ||contradiction
+there is not a dresser ||contradiction
+there is not a tree ||contradiction
+the girls are not three ||entailment
+the girls do not pose beside the dresser ||contradiction
+the dresser is not with the tree ||contradiction

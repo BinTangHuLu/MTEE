@@ -1,0 +1,3 @@
+there is not a woman ||contradiction
+there is not a kid ||contradiction
+the woman is not near the kid ||contradiction

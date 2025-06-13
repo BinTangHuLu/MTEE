@@ -1,0 +1,8 @@
+There are men. ||entailment
+There are jackets. ||entailment
+There is water. ||entailment
+There are earphones. ||entailment
+The men are some. ||entailment
+The jackets are wearing. ||entailment
+The men are looking out over water. ||entailment
+The men have earphones. ||entailment

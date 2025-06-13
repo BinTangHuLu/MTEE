@@ -1,0 +1,3 @@
+There is not a guy. ||contradiction
+There is not a roof. ||contradiction
+The guy is not fixing the roof. ||contradiction

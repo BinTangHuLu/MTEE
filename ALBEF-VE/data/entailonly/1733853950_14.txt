@@ -1,0 +1,3 @@
+there are guys ||entailment
+there is a building ||entailment
+the guys are going into the building ||neutral

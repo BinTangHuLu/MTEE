@@ -1,0 +1,3 @@
+There are freight. ||neutral
+freight are moving. ||neutral
+freight are moving vehicles. ||neutral

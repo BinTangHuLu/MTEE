@@ -1,0 +1,4 @@
+There is a baby. ||Entailment
+There is a air. ||Entailment
+The air is painted. ||Entailment
+The baby is face. ||Entailment

@@ -1,0 +1,4 @@
+there are girls ||entailment
+there is a group ||entailment
+the girls are jumping ||entailment
+the girls are jumping over one another ||entailment

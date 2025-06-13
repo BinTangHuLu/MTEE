@@ -1,0 +1,2 @@
+there are not horses ||contradiction
+the horses are not multiple ||entailment

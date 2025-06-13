@@ -1,0 +1,2 @@
+there is a body ||entailment
+the body is trying to hit the ball ||entailment

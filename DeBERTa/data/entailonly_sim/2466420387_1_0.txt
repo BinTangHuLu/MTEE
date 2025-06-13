@@ -1,0 +1,4 @@
+There is a gentlewoman. ||neutral
+There is a bikini. ||entailment
+The gentlewoman is checking things out. ||neutral
+The gentlewoman is in swimsuit. ||neutral

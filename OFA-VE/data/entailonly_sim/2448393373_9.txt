@@ -1,0 +1,5 @@
+There is a baby. ||Entailment
+There is a sock. ||Entailment
+The baby is playing. ||Neutral
+The baby is playing with the bat. ||Neutral
+The baby is playing with the ball. ||Neutral

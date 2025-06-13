@@ -1,0 +1,3 @@
+There is a guy. ||entailment
+There is a roof. ||entailment
+The guy is fixing the roof. ||entailment

@@ -1,0 +1,3 @@
+there is someone ||entailment
+there is a restaurant ||entailment
+the someone is at the restaurant ||entailment

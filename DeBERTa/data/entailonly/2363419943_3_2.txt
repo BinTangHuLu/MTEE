@@ -1,0 +1,5 @@
+There are people. ||entailment
+There are outfits. ||entailment
+The outfits are red. ||entailment
+The people are wearing outfits. ||entailment
+The people are walking on the street. ||entailment

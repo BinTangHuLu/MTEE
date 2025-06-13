@@ -1,0 +1,6 @@
+there is a dog ||entailment
+there is some sand ||entailment
+there is some grass ||entailment
+there is a background ||entailment
+the dog runs into the sand ||entailment
+the grass is in the background ||entailment

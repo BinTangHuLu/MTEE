@@ -1,0 +1,9 @@
+there is not a part ||contradiction
+there is not a wedding party ||contradiction
+there is not a bride ||contradiction
+there is not stuff ||contradiction
+the part does not walk with the bride ||entailment
+the part does not walk with the party ||entailment
+the party does not walk with the bride ||contradiction
+the bride is not outside near stuff ||contradiction
+the bride is not near stuff ||contradiction

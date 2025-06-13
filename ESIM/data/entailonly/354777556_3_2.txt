@@ -1,0 +1,3 @@
+There are workers. ||entailment
+There is scaffolding. ||entailment
+The workers are on scaffolding. ||entailment

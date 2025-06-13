@@ -1,0 +1,4 @@
+There are adolescent. ||entailment
+There are apparel. ||entailment
+The apparel are different colored. ||contradiction
+The adolescent are wearing dresses. ||entailment

@@ -1,0 +1,3 @@
+there is a boy ||entailment
+there is a pair of jeans ||entailment
+the boy is wearing jeans ||entailment

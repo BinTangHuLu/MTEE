@@ -1,0 +1,5 @@
+there is not a woman ||contradiction
+there are not some trees ||contradiction
+the woman does not have good oral hygiene ||entailment
+the woman does not practice good oral hygiene ||entailment
+the woman is not near trees ||contradiction

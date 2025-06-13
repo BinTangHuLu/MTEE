@@ -1,0 +1,2 @@
+EA,workers,busy
+E1RE2,workers,in handling,orders

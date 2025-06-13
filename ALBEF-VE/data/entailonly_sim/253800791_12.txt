@@ -1,0 +1,7 @@
+there are boy ||entailment
+there are approach ||entailment
+there is a agreeable ||entailment
+there is a estate ||entailment
+the boy are watching techniques ||entailment
+the approach are for playing game ||entailment
+the agreeable is at park ||entailment

@@ -1,0 +1,5 @@
+There is not a boy. ||Contradiction
+There is not a skateboard. ||Contradiction
+There is not a building. ||Contradiction
+The boy does not ride the skateboard. ||Contradiction
+The skateboard is not near the building. ||Contradiction

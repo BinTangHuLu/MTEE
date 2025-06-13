@@ -1,0 +1,5 @@
+There is a dude. ||entailment
+There is a connection. ||entailment
+There is a data processor. ||neutral
+The dude adjusts the tie. ||entailment
+The dude is looking at the laptop. ||entailment

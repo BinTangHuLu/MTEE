@@ -1,0 +1,7 @@
+there is a antic ||entailment
+there are congregation ||neutral
+there is a edge ||entailment
+the biker is doing a antic ||neutral
+the congregation watch in biker ||neutral
+the biker is doing a antic ||neutral
+the congregation watch in corner ||entailment

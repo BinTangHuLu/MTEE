@@ -1,0 +1,3 @@
+there is a man ||entailment
+the man is dark skinned ||contradiction
+the man is moving ||entailment

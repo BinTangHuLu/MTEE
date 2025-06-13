@@ -1,0 +1,4 @@
+there is not a girl ||contradiction
+there is not a bathtime ||contradiction
+the girl is not playing ||contradiction
+the girl is not playing during bathtime ||contradiction

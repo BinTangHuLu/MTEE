@@ -1,0 +1,5 @@
+there is not a man ||contradiction
+there is not a shirt ||entailment
+there is not a river ||contradiction
+the man did not take off the shirt ||entailment
+the man is not near the river ||contradiction

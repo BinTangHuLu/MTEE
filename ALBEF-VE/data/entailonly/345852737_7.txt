@@ -1,0 +1,6 @@
+there is a woman ||entailment
+there is a cart ||entailment
+there is a parking ||entailment
+the cart is for shopping ||neutral
+the woman is holding the cart ||entailment
+the woman is pushing the cart into the parking ||entailment

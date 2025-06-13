@@ -1,0 +1,11 @@
+There is a boy. ||entailment
+There are attire. ||entailment
+There is a appendage. ||entailment
+There is a art. ||entailment
+There is a young boy. ||entailment
+The boy is male. ||entailment
+The young boy is another young. ||neutral
+The boy has clothes. ||entailment
+The boy is holding another young male. ||contradiction
+The appendage is holding another young male. ||neutral
+The appendage is in front of the painting. ||entailment

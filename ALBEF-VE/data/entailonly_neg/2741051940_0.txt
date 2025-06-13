@@ -1,0 +1,5 @@
+there is not a dog ||contradiction
+there is not a bag ||contradiction
+the dog is not white ||entailment
+the bag is not plastic ||contradiction
+the dog is not chewing the bag ||entailment

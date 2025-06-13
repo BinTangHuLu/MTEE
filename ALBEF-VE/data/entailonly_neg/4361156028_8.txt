@@ -1,0 +1,2 @@
+there is not a sweater ||contradiction
+the sweater is not dark blue ||entailment

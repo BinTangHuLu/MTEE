@@ -1,0 +1,5 @@
+there is a man ||entailment
+there is a piece ||entailment
+there is some pottery ||entailment
+the man is making a piece ||neutral
+the piece is of pottery ||entailment

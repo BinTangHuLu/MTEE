@@ -1,0 +1,4 @@
+There is not a bride. ||contradiction
+There is not a boy. ||contradiction
+The bride is not behind the boy. ||entailment
+The groom is not behind the boy. ||entailment

@@ -1,0 +1,4 @@
+There are flora. ||entailment
+There is a canvas. ||entailment
+The canvas is white. ||entailment
+flora are being sold under tent. ||entailment

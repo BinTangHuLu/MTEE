@@ -1,0 +1,2 @@
+There is an accident. ||Contradiction
+The cheerleaders are at the accident. ||Contradiction

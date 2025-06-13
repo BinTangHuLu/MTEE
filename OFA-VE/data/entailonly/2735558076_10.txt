@@ -1,0 +1,5 @@
+There are people. ||Entailment
+There are boots. ||Entailment
+The boots are matching. ||Entailment
+The boots are heeled. ||Entailment
+The people are wearing boots. ||Entailment

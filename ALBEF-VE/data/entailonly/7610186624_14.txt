@@ -1,0 +1,7 @@
+there is a lady ||entailment
+there is a table ||entailment
+there is a sandwich ||entailment
+there is a cellphone ||entailment
+the lady is on the table ||entailment
+the sandwich is on the cellphone ||contradiction
+the lady is cutting the sandwich ||entailment

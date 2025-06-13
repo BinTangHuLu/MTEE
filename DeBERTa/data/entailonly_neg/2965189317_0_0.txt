@@ -1,0 +1,6 @@
+There is not a person. ||contradiction
+There is not an object. ||contradiction
+There is not a wall. ||contradiction
+There is not a balloon. ||contradiction
+The person does not stand on the side of the wall. ||entailment
+The balloon does not float on the side. ||neutral

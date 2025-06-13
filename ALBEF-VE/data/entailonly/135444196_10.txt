@@ -1,0 +1,6 @@
+there is an african american ||entailment
+there is a top ||entailment
+there is a skirt ||entailment
+the top is red ||entailment
+the skirt is white and brown ||contradiction
+the african american is walking outside ||entailment

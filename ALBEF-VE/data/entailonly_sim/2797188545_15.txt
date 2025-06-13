@@ -1,0 +1,9 @@
+there is a kayak ||entailment
+there are some freight ||neutral
+there is a estuary ||neutral
+there are some flora ||entailment
+the kayak is red ||entailment
+the estuary is choppy ||neutral
+the kayak is carrying passengers ||entailment
+the kayak wound its way down the river ||entailment
+the estuary is with trees ||entailment

@@ -1,0 +1,5 @@
+There is a male. ||entailment
+The sign is horizontal. ||entailment
+The sign is made. ||entailment
+The male uses paint. ||entailment
+The male stencils words on the sign. ||entailment

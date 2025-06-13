@@ -1,0 +1,6 @@
+there is not a girl ||contradiction
+there is not a suit ||contradiction
+there is not some gear ||contradiction
+the girl is not smiling ||entailment
+the girl is not wearing a suit ||entailment
+the girl is not wearing gear ||contradiction

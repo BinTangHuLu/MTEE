@@ -1,0 +1,4 @@
+there is a man ||entailment
+there is a carnival game ||entailment
+there is a baby ||entailment
+the man is showing carnival game ||entailment

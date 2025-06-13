@@ -1,0 +1,5 @@
+there is a dude ||entailment
+there is a appearance ||entailment
+there are artwork ||entailment
+the dude is giving a presentation ||entailment
+the appearance is with visuals ||entailment

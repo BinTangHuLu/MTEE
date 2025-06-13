@@ -1,0 +1,4 @@
+There is not a team. ||contradiction
+There is not a coach. ||contradiction
+The team is not female. ||contradiction
+The team is not listening to the coach. ||contradiction

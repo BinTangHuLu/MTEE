@@ -1,0 +1,3 @@
+there are dogs ||entailment
+there are two dogs ||entailment
+the dogs are outside ||entailment

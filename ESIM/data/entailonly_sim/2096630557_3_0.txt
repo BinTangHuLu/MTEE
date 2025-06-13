@@ -1,0 +1,4 @@
+There are animal. ||entailment
+There is ball. ||entailment
+The animal are professional. ||neutral
+The animal are playing basketball. ||contradiction

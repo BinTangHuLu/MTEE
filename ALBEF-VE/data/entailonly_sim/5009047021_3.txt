@@ -1,0 +1,5 @@
+there is a athlete ||entailment
+there is a soccer ||contradiction
+there are adversary ||entailment
+the athlete is running with the football ||entailment
+the adversary chase after the player ||neutral

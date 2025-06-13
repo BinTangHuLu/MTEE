@@ -1,0 +1,4 @@
+There is a child. ||Entailment
+There are banner. ||Entailment
+The banner are two. ||Entailment
+The child has flags. ||Entailment

@@ -1,0 +1,2 @@
+there is a restaurant ||entailment
+the restaurant is getting ready to open ||entailment

@@ -1,0 +1,3 @@
+There are Men. ||entailment
+Men are getting wet with rain. ||entailment
+There is rain. ||entailment

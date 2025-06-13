@@ -1,0 +1,4 @@
+There are not children. ||contradiction
+There is not a picture. ||contradiction
+The children are not two. ||contradiction
+The children are not in the picture. ||contradiction

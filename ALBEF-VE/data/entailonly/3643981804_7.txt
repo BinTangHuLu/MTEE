@@ -1,0 +1,3 @@
+there is a man ||entailment
+there are some feet ||entailment
+the man is on feet ||entailment

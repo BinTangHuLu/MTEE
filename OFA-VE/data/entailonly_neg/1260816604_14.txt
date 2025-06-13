@@ -1,0 +1,4 @@
+There is not a person. ||Contradiction
+There is not a car. ||Contradiction
+The car is not moving. ||Contradiction
+The person is not in the car. ||Entailment

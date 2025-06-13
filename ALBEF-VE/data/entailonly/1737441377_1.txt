@@ -1,0 +1,5 @@
+there are people ||entailment
+there is a cart ||entailment
+there is produce ||entailment
+the people are inspecting the cart ||entailment
+the cart is full of produce ||entailment

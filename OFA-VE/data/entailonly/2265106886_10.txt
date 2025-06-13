@@ -1,0 +1,3 @@
+There is a woman. ||Entailment
+The woman is sitting. ||Entailment
+The woman is outside. ||Entailment

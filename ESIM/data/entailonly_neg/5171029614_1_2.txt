@@ -1,0 +1,5 @@
+There is not a man. ||contradiction
+There is not a basket. ||contradiction
+There is not a laundromat. ||contradiction
+The man does not reach into the basket. ||contradiction
+The man does not reach into the laundromat. ||contradiction

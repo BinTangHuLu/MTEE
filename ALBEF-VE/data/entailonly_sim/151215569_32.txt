@@ -1,0 +1,5 @@
+there is a child ||entailment
+there is a dude ||entailment
+there are animal ||entailment
+the child rides on shoulders ||entailment
+the dude possesses the girl ||entailment

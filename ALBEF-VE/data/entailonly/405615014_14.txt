@@ -1,0 +1,4 @@
+there is a policeman ||entailment
+there are some arms ||entailment
+the policeman is gesturing ||entailment
+the policeman is gesturing with arms ||entailment

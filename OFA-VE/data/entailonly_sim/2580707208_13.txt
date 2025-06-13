@@ -1,0 +1,4 @@
+There is a circle. ||Contradiction
+There is a dude. ||Entailment
+The circle is watching the man. ||Contradiction
+The dude is with hats. ||Entailment

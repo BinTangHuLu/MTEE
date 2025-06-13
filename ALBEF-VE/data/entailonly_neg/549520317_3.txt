@@ -1,0 +1,8 @@
+there is not a toddler ||contradiction
+there is not a hoodie ||contradiction
+there are not some pants ||contradiction
+there is not a slide ||contradiction
+the hoodie is not red ||contradiction
+the pants are not tan ||entailment
+the toddler is not in the hoodie ||contradiction
+the toddler is not on the slide ||contradiction

@@ -1,0 +1,3 @@
+there is a club ||entailment
+there is a barge ||entailment
+the club is helping boat ||entailment

@@ -1,0 +1,5 @@
+there is not a dog ||contradiction
+there is not a toy ||contradiction
+the dog is not white ||contradiction
+the toy is not green ||entailment
+the dog is not catching the toy ||contradiction

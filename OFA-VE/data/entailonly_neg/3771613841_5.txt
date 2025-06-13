@@ -1,0 +1,3 @@
+There are not People. ||Contradiction
+There is not water. ||Entailment
+The People are not looking across water. ||Entailment

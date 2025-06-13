@@ -1,0 +1,2 @@
+There are firemen. ||Entailment
+The firemen gather. ||Entailment

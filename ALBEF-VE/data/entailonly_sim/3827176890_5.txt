@@ -1,0 +1,3 @@
+there are clan ||entailment
+there are band ||entailment
+the clan are moving their hands ||entailment

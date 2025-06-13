@@ -1,0 +1,5 @@
+There are not men. ||contradiction
+There is not a vehicle. ||contradiction
+There are not two men. ||contradiction
+The vehicle is not large. ||entailment
+The men are not standing in front of the vehicle. ||contradiction

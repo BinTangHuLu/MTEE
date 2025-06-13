@@ -1,0 +1,4 @@
+There is a group. ||Entailment
+There are some people. ||Entailment
+The people are outdoors. ||Entailment
+The group are people. ||Entailment

@@ -1,0 +1,2 @@
+There are association. ||entailment
+The dogs are in association. ||neutral

@@ -1,0 +1,5 @@
+there is a association ||entailment
+there are some community ||neutral
+there is a drive ||entailment
+the community are young ||neutral
+the community are having fun on ride ||entailment

@@ -1,0 +1,5 @@
+there is not a dog ||contradiction
+there is not a cow ||contradiction
+there is not some hay ||contradiction
+the dog is not playing with the cow ||entailment
+the cow is not playing with the hay ||entailment

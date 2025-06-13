@@ -1,0 +1,5 @@
+there is not someone ||contradiction
+there is not a flip ||contradiction
+there is not water ||contradiction
+someone does not flip ||contradiction
+the flip does not go into water ||contradiction

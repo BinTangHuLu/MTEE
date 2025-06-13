@@ -1,0 +1,4 @@
+there is an artist ||entailment
+there is a avenue ||entailment
+the artist is dancing ||entailment
+the artist is dancing on the street ||entailment

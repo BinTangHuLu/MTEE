@@ -1,0 +1,5 @@
+There are not People. ||contradiction
+There is not produce. ||contradiction
+There is not a market. ||contradiction
+People are not viewing produce. ||contradiction
+People are not viewing the market. ||contradiction

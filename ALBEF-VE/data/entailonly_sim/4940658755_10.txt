@@ -1,0 +1,4 @@
+there is an patriarch ||entailment
+there is a apartment ||entailment
+the patriarch is elder ||entailment
+the patriarch is near place ||entailment

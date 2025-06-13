@@ -1,0 +1,4 @@
+There are not kids. ||contradiction
+There is not something. ||contradiction
+There is not a table. ||contradiction
+The kids are not staring at the table. ||contradiction

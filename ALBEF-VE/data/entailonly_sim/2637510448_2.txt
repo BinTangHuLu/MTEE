@@ -1,0 +1,3 @@
+there is a bluff ||entailment
+the bluff is snowy ||entailment
+the skier is skiing down the bluff ||contradiction

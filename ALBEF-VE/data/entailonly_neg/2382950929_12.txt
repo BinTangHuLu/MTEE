@@ -1,0 +1,4 @@
+there is not a surface ||contradiction
+there is not the earth ||entailment
+the surface is not visible ||contradiction
+the surface is not of the earth ||entailment

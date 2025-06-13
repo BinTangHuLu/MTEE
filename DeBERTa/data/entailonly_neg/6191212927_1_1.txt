@@ -1,0 +1,4 @@
+There are not People. ||contradiction
+There is not a man. ||contradiction
+The People do not watch the man. ||contradiction
+The man does not jog. ||contradiction

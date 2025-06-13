@@ -1,0 +1,5 @@
+there is a female ||entailment
+there is a dude ||contradiction
+there are specs ||entailment
+the female embraces the man ||entailment
+the female is wearing sunglasses while embracing the man ||entailment

@@ -1,0 +1,3 @@
+There is a human. ||Entailment
+The human is three. ||Entailment
+The human are standing outside. ||Entailment

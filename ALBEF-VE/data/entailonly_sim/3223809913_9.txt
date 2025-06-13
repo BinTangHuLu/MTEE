@@ -1,0 +1,6 @@
+there is a dude ||entailment
+there is a act ||entailment
+there is a circle ||contradiction
+the act is skating ||entailment
+the dude is demonstrating move ||neutral
+the act is for crowd ||entailment

@@ -1,0 +1,10 @@
+there is not a stone ||contradiction
+there is not a lake ||contradiction
+there is not a boy ||contradiction
+the boy is not sitting ||entailment
+the boy is not wearing jeans ||neutral
+there are not women ||contradiction
+the women are not older ||entailment
+the women are not wearing a red top ||contradiction
+there is not a hat ||contradiction
+the boy is not next to the stone ||contradiction

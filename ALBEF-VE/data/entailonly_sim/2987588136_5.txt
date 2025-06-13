@@ -1,0 +1,3 @@
+there are community ||entailment
+there is a bit ||entailment
+the community share the moment ||entailment

@@ -1,0 +1,3 @@
+there are not men ||entailment
+there is not a chess ||contradiction
+the men are not playing chess ||contradiction

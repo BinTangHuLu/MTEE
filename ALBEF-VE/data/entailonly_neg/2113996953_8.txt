@@ -1,0 +1,3 @@
+there is not a lady ||contradiction
+there are not some bananas ||contradiction
+the lady is not with bananas ||contradiction

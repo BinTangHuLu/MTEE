@@ -1,0 +1,6 @@
+There is not a man. ||contradiction
+There is not a line. ||contradiction
+There are not vehicles. ||contradiction
+The man is not military. ||contradiction
+The line is not military. ||contradiction
+The man is not walking away from vehicles. ||contradiction

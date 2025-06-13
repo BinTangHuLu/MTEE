@@ -1,0 +1,3 @@
+there is a shot ||entailment
+there is someone ||entailment
+the someone is dressed relatively fancily ||entailment

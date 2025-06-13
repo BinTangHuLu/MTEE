@@ -1,0 +1,3 @@
+there is a woman ||entailment
+there are some sunglasses ||entailment
+the woman wears sunglasses ||entailment

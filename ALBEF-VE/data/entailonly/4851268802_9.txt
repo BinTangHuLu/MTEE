@@ -1,0 +1,3 @@
+there is a man ||entailment
+the man is speaking ||entailment
+the man is speaking ||entailment

@@ -1,0 +1,5 @@
+there is not a woman ||contradiction
+there are not some clothes ||contradiction
+the woman is not blue and black ||contradiction
+the clothes are not blue and black ||contradiction
+the woman is not outside clothes ||entailment

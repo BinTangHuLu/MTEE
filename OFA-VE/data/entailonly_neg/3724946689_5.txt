@@ -1,0 +1,5 @@
+There are not riders. ||Entailment
+There is not a park. ||Contradiction
+There is not a coaster. ||Entailment
+The park is not amusement. ||Contradiction
+The riders are not on coaster. ||Entailment

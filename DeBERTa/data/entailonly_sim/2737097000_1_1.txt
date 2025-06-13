@@ -1,0 +1,2 @@
+There are man. ||entailment
+The man are young. ||entailment

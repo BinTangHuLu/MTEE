@@ -1,0 +1,5 @@
+there are men ||entailment
+the men are young ||neutral
+the men are happy ||entailment
+there is a chair ||neutral
+the men are lying down in the chair ||neutral

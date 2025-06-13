@@ -1,0 +1,6 @@
+there is a man ||entailment
+there is a chair ||entailment
+there is a camera ||entailment
+the man is two armed ||neutral
+the man is in the chair ||entailment
+the man is facing the camera ||entailment

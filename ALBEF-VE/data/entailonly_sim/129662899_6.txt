@@ -1,0 +1,4 @@
+there is a dude ||entailment
+there is a fedora ||contradiction
+the fedora is wearing ||contradiction
+the dude is touching rope ||entailment

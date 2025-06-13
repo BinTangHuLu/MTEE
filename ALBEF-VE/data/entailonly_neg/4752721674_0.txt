@@ -1,0 +1,4 @@
+there are not cameras ||contradiction
+there is not a barricade ||contradiction
+the cameras are not hidden ||contradiction
+the cameras are not behind the barricade ||contradiction

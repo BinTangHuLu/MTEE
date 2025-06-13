@@ -1,0 +1,4 @@
+there is a man ||entailment
+there is a woman ||entailment
+the man is talking ||entailment
+the man is standing next to the woman ||entailment

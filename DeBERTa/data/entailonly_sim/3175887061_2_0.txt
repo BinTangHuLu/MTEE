@@ -1,0 +1,3 @@
+There are dude. ||entailment
+There is a clue. ||neutral
+The dude display to camera. ||entailment

@@ -1,0 +1,3 @@
+There is not a person. ||Entailment
+There is not a hike. ||Entailment
+The person is not on hike. ||Entailment

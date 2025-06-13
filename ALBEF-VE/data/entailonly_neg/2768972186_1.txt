@@ -1,0 +1,5 @@
+there is not an animal ||contradiction
+there is not an animal ||contradiction
+the animal is not large ||entailment
+the animal is not small white ||entailment
+the animal is not running with an animal ||entailment

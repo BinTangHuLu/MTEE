@@ -1,0 +1,3 @@
+There are contestants. ||entailment
+There is a turn. ||entailment
+The contestants wait for the turn. ||entailment

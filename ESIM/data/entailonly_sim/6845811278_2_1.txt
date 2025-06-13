@@ -1,0 +1,11 @@
+There is a dude. ||entailment
+There is a pedal. ||entailment
+There is a laundry block. ||entailment
+There are attire. ||entailment
+The dude is old. ||entailment
+The laundry block is blue. ||entailment
+The laundry block is full of clothes. ||entailment
+The dude is riding the bike. ||entailment
+The pedal is with the laundry hamper. ||entailment
+The laundry block is full of clothes. ||entailment
+The dude is on the handlebars. ||entailment

@@ -1,0 +1,4 @@
+There are not kids. ||Contradiction
+There is not gear. ||Contradiction
+The gear is not safety. ||Contradiction
+The kids are not wearing gear. ||Contradiction

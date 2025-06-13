@@ -1,0 +1,3 @@
+there is a person ||entailment
+there is a picture ||entailment
+the person poses for the picture ||entailment

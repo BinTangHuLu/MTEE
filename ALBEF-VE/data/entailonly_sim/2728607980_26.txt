@@ -1,0 +1,4 @@
+there are community ||entailment
+there is a architecture ||entailment
+the architecture is old ||neutral
+community are at the old building ||entailment

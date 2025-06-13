@@ -1,0 +1,3 @@
+there is a boundary ||entailment
+there are business ||entailment
+the boundary is of customers ||entailment

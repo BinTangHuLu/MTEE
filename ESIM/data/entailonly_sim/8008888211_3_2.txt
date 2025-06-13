@@ -1,0 +1,2 @@
+There are some club shirts. ||entailment
+The cheerleader passes out club shirts. ||entailment

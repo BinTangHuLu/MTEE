@@ -1,0 +1,8 @@
+There is a dude. ||entailment
+The dude is young. ||entailment
+There is a path. ||entailment
+There is an field. ||contradiction
+The field is metropolitan. ||entailment
+The dude is performing a good skill. ||neutral
+The dude is on a skateboard. ||entailment
+The skateboard is on a path. ||entailment

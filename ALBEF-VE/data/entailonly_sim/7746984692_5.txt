@@ -1,0 +1,6 @@
+there is a passerby ||entailment
+there is a beam ||entailment
+there is a alp ||entailment
+the beam is nordic ||neutral
+the passerby is using pole ||neutral
+the beam is used to walk up mountain ||neutral

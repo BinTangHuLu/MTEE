@@ -1,0 +1,3 @@
+There are adolescent. ||entailment
+The adolescent are little. ||entailment
+The adolescent blow bubbles. ||entailment

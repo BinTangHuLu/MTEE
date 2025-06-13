@@ -1,0 +1,2 @@
+EA,scarf,orange
+EA,boots,brown

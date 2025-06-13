@@ -1,0 +1,4 @@
+There is a association. ||neutral
+There are some community. ||neutral
+There is a coast. ||entailment
+The association is on the beach. ||entailment

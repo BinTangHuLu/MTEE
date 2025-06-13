@@ -1,0 +1,4 @@
+There is a boy. ||entailment
+There is a jacket. ||entailment
+The boy is wearing. ||entailment
+The jacket is a. ||entailment

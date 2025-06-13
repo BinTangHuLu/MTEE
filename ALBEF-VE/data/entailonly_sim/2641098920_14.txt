@@ -1,0 +1,3 @@
+there are female ||entailment
+there is a bed ||entailment
+the female sit on the couch ||entailment

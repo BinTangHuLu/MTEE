@@ -1,0 +1,6 @@
+there is a man ||entailment
+there is a vest ||entailment
+there is a bull ||entailment
+the vest is in ||entailment
+the man rides the bull ||contradiction
+the bull is in front of another ||entailment

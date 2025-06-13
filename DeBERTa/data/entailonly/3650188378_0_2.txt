@@ -1,0 +1,3 @@
+There are people. ||entailment
+The people are uniformed. ||entailment
+The people are outside. ||entailment

@@ -1,0 +1,3 @@
+there are not people ||contradiction
+there are not horses ||contradiction
+people do not ride horses ||contradiction

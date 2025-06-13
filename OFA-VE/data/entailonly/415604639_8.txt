@@ -1,0 +1,4 @@
+There is a Day. ||Entailment
+There is a St. Patrick's Day. ||Entailment
+There is an officer. ||Entailment
+The officer is inside Day. ||Entailment

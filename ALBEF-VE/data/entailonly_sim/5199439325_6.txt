@@ -1,0 +1,4 @@
+there is a graduate ||entailment
+there is a activity ||entailment
+the activity is art ||neutral
+the graduate is working on the project ||neutral

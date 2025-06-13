@@ -1,0 +1,5 @@
+there are people ||entailment
+there is a man ||entailment
+there are drums ||neutral
+the people dance by the man ||entailment
+the man is playing drums ||contradiction

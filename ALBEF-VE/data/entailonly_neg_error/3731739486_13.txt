@@ -1,0 +1,6 @@
+A,blue shirt
+A,pink
+R,in
+A,slacks
+RE2,in,pink
+R,in

@@ -1,0 +1,2 @@
+EA,people,total
+E1RE2,people,are near,table

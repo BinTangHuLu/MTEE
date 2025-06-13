@@ -1,0 +1,4 @@
+There are gymnasts. ||Entailment
+There is some stuff. ||Entailment
+The stuff is gym. ||Entailment
+The gymnasts are doing stuff. ||Entailment

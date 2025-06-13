@@ -1,0 +1,5 @@
+There is a man. ||entailment
+There is a pear. ||entailment
+There are some boxes. ||entailment
+The man is pushing the pear. ||entailment
+The man is picking up the boxes. ||entailment

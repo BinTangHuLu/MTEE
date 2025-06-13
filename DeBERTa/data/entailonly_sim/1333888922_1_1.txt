@@ -1,0 +1,4 @@
+There is a baby. ||neutral
+There is a fluctuation. ||entailment
+The baby rides the swing. ||neutral
+The fluctuation is daytime. ||entailment

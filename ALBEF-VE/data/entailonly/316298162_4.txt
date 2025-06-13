@@ -1,0 +1,5 @@
+there are men ||entailment
+there are suits ||entailment
+there is a park ||entailment
+the men are in the park ||entailment
+the suits are in ||contradiction

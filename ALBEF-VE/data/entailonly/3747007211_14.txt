@@ -1,0 +1,6 @@
+there is sandy ||contradiction
+there is a jacket ||entailment
+there is a slope ||entailment
+the jacket is yellow ||entailment
+sandy went skiing down the slope ||neutral
+sandy is wearing the jacket ||neutral

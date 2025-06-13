@@ -1,0 +1,3 @@
+There is not a woman. ||Entailment
+There is not a pier. ||Contradiction
+The woman does not walk on the pier. ||Entailment

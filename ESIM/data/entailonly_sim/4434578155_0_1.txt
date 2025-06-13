@@ -1,0 +1,5 @@
+There are image. ||entailment
+There is a bar. ||contradiction
+The image are old. ||entailment
+The Octogenarians are admiring image. ||entailment
+The image decorated the wall. ||entailment

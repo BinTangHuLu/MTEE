@@ -1,0 +1,3 @@
+There are not people. ||Contradiction
+There is not a church. ||Contradiction
+The people are not inside the church. ||Entailment

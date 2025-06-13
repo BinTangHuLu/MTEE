@@ -1,0 +1,4 @@
+There is a boy. ||Entailment
+There is a guitar. ||Entailment
+The boy is little. ||Entailment
+The boy sits next to guitar. ||Entailment

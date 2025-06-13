@@ -1,0 +1,5 @@
+there are females ||entailment
+there is a tree ||entailment
+the females are pink ||entailment
+the females are wearing ||entailment
+the females are slanted against the tree ||entailment

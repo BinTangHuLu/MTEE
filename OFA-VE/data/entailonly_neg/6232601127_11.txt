@@ -1,0 +1,5 @@
+There is not a potters wheel. ||Contradiction
+There is not a potter. ||Contradiction
+The potter is not his craft. ||Contradiction
+The potters wheel does not spin. ||Contradiction
+The potter does not work his craft. ||Contradiction

@@ -1,0 +1,3 @@
+there are community ||entailment
+the community are three ||neutral
+the community are jumping up in air ||contradiction

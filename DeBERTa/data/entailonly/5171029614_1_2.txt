@@ -1,0 +1,5 @@
+There is a man. ||entailment
+There is a basket. ||entailment
+There is a laundromat. ||entailment
+The man reaches into the basket. ||entailment
+The man reaches into the laundromat. ||entailment

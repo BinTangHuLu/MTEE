@@ -1,0 +1,3 @@
+there is a person ||entailment
+there is an entrance corridor ||entailment
+the person is on the entrance corridor ||entailment

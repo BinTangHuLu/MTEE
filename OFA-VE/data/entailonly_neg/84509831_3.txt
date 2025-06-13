@@ -1,0 +1,2 @@
+There is not a beach. ||Contradiction
+The beach is not populated. ||Entailment

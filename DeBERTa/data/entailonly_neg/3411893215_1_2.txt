@@ -1,0 +1,4 @@
+There is not a girl. ||contradiction
+There is not a kiss. ||contradiction
+The girl does not blow a kiss. ||contradiction
+The girl does not see another girl. ||contradiction

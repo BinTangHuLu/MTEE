@@ -1,0 +1,4 @@
+there are association ||entailment
+there is a avenue ||entailment
+the association are a pair ||neutral
+the association are outsides the street ||entailment

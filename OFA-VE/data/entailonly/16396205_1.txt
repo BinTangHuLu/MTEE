@@ -1,0 +1,5 @@
+There are guys. ||Entailment
+There is grass. ||Entailment
+The guys are some. ||Entailment
+The grass is some. ||Entailment
+The guys are having a good time. ||Entailment

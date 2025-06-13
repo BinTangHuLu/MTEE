@@ -1,0 +1,5 @@
+there is a man ||entailment
+there is a cigar ||entailment
+there is a cello ||entailment
+the man is with a cigar ||neutral
+the man is playing the cello ||entailment

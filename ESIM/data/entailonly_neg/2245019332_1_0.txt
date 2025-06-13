@@ -1,0 +1,4 @@
+There is not a girl. ||contradiction
+There are not some pancakes. ||contradiction
+The girl is not young. ||contradiction
+The girl does not cook pancakes. ||contradiction

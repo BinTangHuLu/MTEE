@@ -1,0 +1,9 @@
+There is a woman. ||entailment
+There is a tank top. ||entailment
+There are pants. ||entailment
+There is a glass. ||entailment
+The woman is wearing. ||entailment
+The woman looks through. ||entailment
+The woman is wearing a tank top. ||entailment
+The woman is wearing pants. ||entailment
+The woman looks through glass. ||entailment

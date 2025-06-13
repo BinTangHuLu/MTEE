@@ -1,0 +1,3 @@
+there is not a child ||contradiction
+there is not a dog ||contradiction
+the child and dog are not together ||contradiction

@@ -1,0 +1,4 @@
+There is a crowd. ||neutral
+There is a building. ||entailment
+The building is large red. ||entailment
+The crowd relaxes in front of the building. ||entailment

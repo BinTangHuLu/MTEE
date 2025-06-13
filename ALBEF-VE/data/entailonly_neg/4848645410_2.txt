@@ -1,0 +1,4 @@
+there is not a man ||contradiction
+the man is not in white ||contradiction
+the man is not in blue ||contradiction
+the man is not outside the man ||entailment

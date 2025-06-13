@@ -1,0 +1,4 @@
+There is a ball player. ||Entailment
+There is an antagonistic. ||Contradiction
+The ball player is opposing. ||Entailment
+The ball player is attempting to score player. ||Entailment

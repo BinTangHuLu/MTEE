@@ -1,0 +1,3 @@
+there is a girl ||entailment
+there is a rope swing ||entailment
+the girl plays on rope swing ||entailment

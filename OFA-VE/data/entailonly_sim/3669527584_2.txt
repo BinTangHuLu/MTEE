@@ -1,0 +1,2 @@
+There is a gentlewoman. ||Entailment
+The gentlewoman is wearing the beautiful outfit. ||Entailment

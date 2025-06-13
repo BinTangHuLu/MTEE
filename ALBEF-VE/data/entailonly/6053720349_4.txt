@@ -1,0 +1,4 @@
+there is a kid ||entailment
+there is a container ||entailment
+the container is open ||entailment
+the kid is inside of the container ||entailment

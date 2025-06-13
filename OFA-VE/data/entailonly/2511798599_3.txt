@@ -1,0 +1,5 @@
+There are people. ||Entailment
+There are shirts. ||Entailment
+The people are young. ||Entailment
+The shirts are blue. ||Entailment
+The people have shirts. ||Entailment

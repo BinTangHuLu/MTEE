@@ -1,0 +1,4 @@
+there is a baby ||entailment
+there is a geyser ||entailment
+the geyser is large ||entailment
+the baby sits at the fountain ||contradiction

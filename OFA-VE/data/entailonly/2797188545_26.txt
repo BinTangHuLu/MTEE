@@ -1,0 +1,5 @@
+There are people. ||Entailment
+There is a canoe. ||Entailment
+There is a river. ||Entailment
+The people are in the canoe. ||Entailment
+The canoe is in the river. ||Entailment

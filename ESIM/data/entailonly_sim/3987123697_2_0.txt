@@ -1,0 +1,6 @@
+There are community. ||neutral
+There is a drive. ||contradiction
+There is a bike. ||entailment
+The community are taking a ride. ||neutral
+The community are on a bicycle. ||neutral
+The drive is together with the bicycle. ||contradiction

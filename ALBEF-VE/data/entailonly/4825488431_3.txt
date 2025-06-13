@@ -1,0 +1,2 @@
+there is a plane ||entailment
+the plane is descending ||entailment

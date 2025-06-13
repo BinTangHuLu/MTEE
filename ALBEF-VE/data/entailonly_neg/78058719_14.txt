@@ -1,0 +1,5 @@
+there is not a man ||contradiction
+there is not a woman ||contradiction
+there are not some dishes ||contradiction
+the man does not watch while the woman ||contradiction
+the woman does not do dishes ||contradiction

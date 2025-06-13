@@ -1,0 +1,5 @@
+there is not a man ||contradiction
+there is not a girl ||contradiction
+there are not shoulders ||contradiction
+the man is not holding the girl ||contradiction
+the girl is not on the shoulders ||contradiction

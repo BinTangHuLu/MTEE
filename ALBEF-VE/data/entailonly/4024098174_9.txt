@@ -1,0 +1,4 @@
+there is a snowboarder ||entailment
+there is a mountain ||entailment
+the snowboarder is going down ||entailment
+the snowboarder is going down the mountain ||entailment

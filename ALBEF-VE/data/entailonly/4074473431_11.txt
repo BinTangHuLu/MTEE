@@ -1,0 +1,2 @@
+there are people ||entailment
+the people are running ||entailment

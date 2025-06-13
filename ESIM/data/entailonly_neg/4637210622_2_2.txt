@@ -1,0 +1,5 @@
+There is not a man. ||contradiction
+There is not a glass. ||contradiction
+There is not some tea. ||contradiction
+The man is not pouring glass. ||contradiction
+The glass is not of tea. ||contradiction

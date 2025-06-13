@@ -1,0 +1,6 @@
+There are women. ||entailment
+There are headscarves. ||entailment
+There is a courtyard. ||entailment
+The women are wearing headscarves. ||entailment
+The courtyard is cobbled. ||entailment
+The women stand in the courtyard. ||entailment

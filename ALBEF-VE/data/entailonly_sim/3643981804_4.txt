@@ -1,0 +1,4 @@
+there is a hand ||entailment
+there is a clue ||entailment
+the hand is removing ||entailment
+the hand is removing the sign ||entailment

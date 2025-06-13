@@ -1,0 +1,3 @@
+there is a female ||entailment
+there is a geyser ||entailment
+the female sits next to the fountain ||entailment

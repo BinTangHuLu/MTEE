@@ -1,0 +1,4 @@
+There is a child. ||Entailment
+There is a fedora. ||Neutral
+The fedora is New York. ||Neutral
+The child has a hat. ||Entailment

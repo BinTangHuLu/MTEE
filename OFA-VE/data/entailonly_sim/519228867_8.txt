@@ -1,0 +1,3 @@
+There is a child. ||Entailment
+There is some drink. ||Contradiction
+The child is in water. ||Entailment

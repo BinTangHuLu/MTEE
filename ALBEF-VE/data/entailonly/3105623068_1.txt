@@ -1,0 +1,3 @@
+there is a girl ||entailment
+the girl is outside ||neutral
+the girl is climbing ||entailment

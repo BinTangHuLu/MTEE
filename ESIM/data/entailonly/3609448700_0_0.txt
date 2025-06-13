@@ -1,0 +1,3 @@
+There is a rollerskater. ||entailment
+There is a pack. ||entailment
+The rollerskater is behind the pack. ||entailment

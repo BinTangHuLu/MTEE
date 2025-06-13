@@ -1,0 +1,6 @@
+there is a bride to be ||entailment
+there is a bridegroom ||entailment
+there is a aisle ||entailment
+the aisle is outdoor ||entailment
+the bride to be is walking down the path ||entailment
+the bridegroom is walking down the path ||entailment

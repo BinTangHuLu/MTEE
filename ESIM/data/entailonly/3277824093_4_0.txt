@@ -1,0 +1,5 @@
+There is a guy. ||entailment
+There is a rock. ||entailment
+There is a skateboard. ||entailment
+The guy is on the rock. ||entailment
+The rock is with the skateboard. ||entailment

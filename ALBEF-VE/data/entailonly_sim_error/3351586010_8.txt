@@ -1,0 +1,4 @@
+A,male
+R,is at
+A,outdoor
+R,skating

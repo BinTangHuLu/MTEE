@@ -1,0 +1,4 @@
+there are people ||entailment
+there is someone ||entailment
+the people are listening ||entailment
+the people are listening to someone ||entailment

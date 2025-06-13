@@ -1,0 +1,6 @@
+there is not a boy ||contradiction
+there is not a tub ||contradiction
+there is not water ||contradiction
+the boy is not little ||contradiction
+the boy is not sitting in tub ||contradiction
+the tub is not of water ||contradiction

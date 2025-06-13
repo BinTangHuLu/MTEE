@@ -1,0 +1,6 @@
+There is not a sunset. ||contradiction
+The sunset is not beautiful. ||neutral
+There are not shapes. ||contradiction
+There are not four figures. ||contradiction
+The sunset does not show shapes. ||contradiction
+The figures are not silhouetted against backdrop. ||contradiction

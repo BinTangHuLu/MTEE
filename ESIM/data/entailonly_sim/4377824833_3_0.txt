@@ -1,0 +1,5 @@
+There is a association. ||entailment
+The association is cute. ||entailment
+The clan are Asian. ||entailment
+There are clan. ||contradiction
+The clan are playing tambourines. ||neutral

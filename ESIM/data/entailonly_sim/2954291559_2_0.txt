@@ -1,0 +1,3 @@
+There is a body. ||entailment
+There is a architecture. ||entailment
+The body is atop of the building. ||entailment

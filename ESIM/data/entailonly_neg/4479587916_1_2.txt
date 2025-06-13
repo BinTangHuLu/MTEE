@@ -1,0 +1,4 @@
+There is not a person. ||contradiction
+The person is not walking. ||contradiction
+The person is not outside. ||contradiction
+The person is not walking outside. ||contradiction

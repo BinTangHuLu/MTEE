@@ -1,0 +1,3 @@
+there is a person ||entailment
+there is outdoors ||entailment
+the person is standing outdoors ||entailment

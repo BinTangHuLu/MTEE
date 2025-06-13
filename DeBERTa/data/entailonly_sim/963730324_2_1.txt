@@ -1,0 +1,2 @@
+There is a browsing cart. ||entailment
+The biy is pushing the browsing cart. ||entailment

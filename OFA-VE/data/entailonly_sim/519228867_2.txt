@@ -1,0 +1,5 @@
+There is a child. ||Entailment
+There is drink. ||Contradiction
+The child is little. ||Entailment
+The child is sitting in tub. ||Entailment
+The tub is of drink. ||Contradiction

@@ -1,0 +1,4 @@
+there is not a truck ||contradiction
+there is not a hill ||contradiction
+the hill is not muddy ||contradiction
+the truck does not drive up the hill ||entailment

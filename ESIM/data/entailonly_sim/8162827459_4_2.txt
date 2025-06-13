@@ -1,0 +1,4 @@
+There is a female. ||entailment
+There is a estate. ||neutral
+The female is jogging. ||entailment
+The female is in the park. ||entailment

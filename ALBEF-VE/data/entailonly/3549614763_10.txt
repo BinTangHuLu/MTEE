@@ -1,0 +1,7 @@
+there is a waiter ||entailment
+there is a table ||entailment
+there is a restaurant ||entailment
+there are women ||entailment
+the restaurant is occupied ||entailment
+the waiter is standing at the table ||contradiction
+the table is occupied by women ||entailment

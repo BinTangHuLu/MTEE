@@ -1,0 +1,6 @@
+There is not a man. ||contradiction
+There is not London. ||contradiction
+There is not a bench. ||contradiction
+The man is not young. ||contradiction
+The man does not wait outdoors in London. ||contradiction
+The man does not wait on the bench. ||contradiction

@@ -1,0 +1,3 @@
+there is a association ||entailment
+there are some community ||entailment
+the association is waiting outside ||entailment

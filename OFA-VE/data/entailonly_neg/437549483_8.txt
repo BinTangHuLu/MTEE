@@ -1,0 +1,4 @@
+There is not a woman. ||Contradiction
+There is not arts. ||Contradiction
+The arts is not martial. ||Contradiction
+The woman does not do arts. ||Contradiction

@@ -1,0 +1,5 @@
+There are not men. ||contradiction
+There are not skirts. ||contradiction
+There are not two men. ||contradiction
+The skirts are not hula grass. ||contradiction
+The men are not wearing skirts. ||contradiction

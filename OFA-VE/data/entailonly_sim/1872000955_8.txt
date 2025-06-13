@@ -1,0 +1,4 @@
+There is a break. ||Contradiction
+There are some community. ||Entailment
+The break is large. ||Neutral
+The break is being dug by people. ||Entailment

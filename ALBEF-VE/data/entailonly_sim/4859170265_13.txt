@@ -1,0 +1,4 @@
+there are female ||entailment
+the female are blonde ||entailment
+the female are standing together ||entailment
+the female are in public ||entailment

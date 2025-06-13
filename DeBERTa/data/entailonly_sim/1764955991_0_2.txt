@@ -1,0 +1,8 @@
+There is a pup. ||entailment
+There is a artery. ||entailment
+The pup is running. ||entailment
+The artery is leaf covered. ||entailment
+The pup is carrying. ||entailment
+The ball is in its box. ||contradiction
+The pup is running down the road. ||entailment
+The pup is carrying the ball. ||entailment

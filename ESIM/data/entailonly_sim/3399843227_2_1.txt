@@ -1,0 +1,2 @@
+There is a set. ||neutral
+The set poses together. ||entailment

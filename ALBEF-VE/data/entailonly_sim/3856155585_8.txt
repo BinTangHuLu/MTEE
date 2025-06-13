@@ -1,0 +1,5 @@
+there are girl ||entailment
+there is a bar ||entailment
+there are dossier ||entailment
+the girl are gathering materials ||entailment
+the dossier are on the table ||entailment

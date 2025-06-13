@@ -1,0 +1,6 @@
+There is a female. ||Entailment
+There is a association. ||Entailment
+There are community. ||Entailment
+The female is speaking. ||Entailment
+The female is speaking to the group. ||Neutral
+The association is of people. ||Entailment

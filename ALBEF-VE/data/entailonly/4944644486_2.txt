@@ -1,0 +1,3 @@
+there is a group ||entailment
+there are some people ||entailment
+the people are waiting to be seated ||neutral

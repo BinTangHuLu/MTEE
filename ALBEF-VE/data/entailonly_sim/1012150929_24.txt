@@ -1,0 +1,3 @@
+there is a baby ||entailment
+the baby is enjoying video games ||entailment
+the baby is standing up ||neutral

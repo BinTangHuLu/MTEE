@@ -1,0 +1,4 @@
+there is not a janitor ||contradiction
+there is not a day ||entailment
+the day is not outdoors ||entailment
+the janitor is not seen working in day ||entailment

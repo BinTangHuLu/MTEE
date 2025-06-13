@@ -1,0 +1,5 @@
+there is not a boy ||contradiction
+there is not a toy ||contradiction
+there is not a tool ||contradiction
+the boy is not little ||contradiction
+the boy does not have a toy ||contradiction

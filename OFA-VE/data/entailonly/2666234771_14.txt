@@ -1,0 +1,8 @@
+There is a man. ||Entailment
+There are flags. ||Entailment
+There are hands. ||Entailment
+The man is moving. ||Entailment
+The man is holding. ||Entailment
+The man is moving flags. ||Entailment
+The man is holding flags. ||Entailment
+The flags are in hands. ||Entailment

@@ -1,0 +1,4 @@
+there is fodder ||entailment
+there are clan ||entailment
+the clan are three ||neutral
+the fodder is filled with children ||entailment

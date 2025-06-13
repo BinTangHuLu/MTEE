@@ -1,0 +1,4 @@
+There is not a woman. ||contradiction
+There is not a stove. ||contradiction
+The woman is not young. ||contradiction
+The woman does not stand near stove. ||contradiction

@@ -1,0 +1,4 @@
+there is a child ||entailment
+there is a dredge ||entailment
+the dredge is tiny ||neutral
+the child has a shovel ||entailment

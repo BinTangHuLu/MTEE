@@ -1,0 +1,5 @@
+There is a man. ||contradiction
+There is a woman. ||entailment
+The man is talking. ||entailment
+The man is wearing pants. ||entailment
+The woman is wearing pants. ||entailment

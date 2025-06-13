@@ -1,0 +1,2 @@
+there is not an animal ||contradiction
+the animal is not running ||contradiction

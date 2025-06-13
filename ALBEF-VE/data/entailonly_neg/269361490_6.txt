@@ -1,0 +1,7 @@
+there are not people ||contradiction
+there is not a street ||contradiction
+there are not trees ||contradiction
+the people are not dressed in goth ||contradiction
+the people do not walk down the street ||contradiction
+the street is not with trees ||contradiction
+the trees are not in the background ||neutral

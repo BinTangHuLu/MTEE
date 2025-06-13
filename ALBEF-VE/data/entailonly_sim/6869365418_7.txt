@@ -1,0 +1,4 @@
+there are clan ||entailment
+the clan are 3 ||neutral
+the clan are chasing bubbles ||entailment
+the clan are blowing bubbles ||entailment

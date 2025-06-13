@@ -1,0 +1,9 @@
+There is a person. ||entailment
+There is a coat. ||entailment
+There is a briefcase. ||entailment
+There is a street. ||entailment
+There is a bus lane. ||entailment
+The person is in a coat. ||entailment
+The person is with a briefcase. ||entailment
+The person walks down the street. ||entailment
+The street is next to the bus lane. ||entailment

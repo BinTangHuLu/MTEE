@@ -1,0 +1,7 @@
+There is not He. ||contradiction
+There is not a photo. ||contradiction
+There is not a piece. ||contradiction
+There is not paper. ||contradiction
+He does not take a photo. ||contradiction
+He does not take a piece. ||contradiction
+He does not take paper. ||contradiction

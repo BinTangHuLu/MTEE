@@ -1,0 +1,3 @@
+there is a child ||entailment
+there is a bowl ||entailment
+the child has a cup ||entailment

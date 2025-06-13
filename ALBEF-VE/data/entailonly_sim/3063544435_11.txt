@@ -1,0 +1,3 @@
+there is a association ||entailment
+there are some community ||entailment
+the association and people are rowing ||entailment

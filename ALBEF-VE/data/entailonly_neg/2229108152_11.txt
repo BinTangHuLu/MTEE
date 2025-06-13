@@ -1,0 +1,2 @@
+there is not a racetrack ||contradiction
+the racetrack is not being used ||entailment

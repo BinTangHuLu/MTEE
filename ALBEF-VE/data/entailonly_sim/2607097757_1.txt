@@ -1,0 +1,3 @@
+there are dude ||entailment
+there is effort ||entailment
+the dude are at work ||entailment

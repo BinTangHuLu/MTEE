@@ -1,0 +1,4 @@
+there is a covering ||entailment
+there is a woman ||entailment
+the woman is brightly colored ||entailment
+the covering is being worn by the woman ||entailment

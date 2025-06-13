@@ -1,0 +1,2 @@
+There are not firemen. ||Contradiction
+The firemen do not gather. ||Contradiction

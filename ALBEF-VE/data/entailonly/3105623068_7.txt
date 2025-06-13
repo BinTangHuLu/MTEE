@@ -1,0 +1,3 @@
+there is a girl ||entailment
+there is a female ||entailment
+the girl is a female ||entailment

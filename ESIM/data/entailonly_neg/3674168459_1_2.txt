@@ -1,0 +1,4 @@
+There are not martial artists. ||contradiction
+There are not moves. ||contradiction
+There is not an audience. ||contradiction
+The martial artists do not demonstrate moves to the audience. ||contradiction

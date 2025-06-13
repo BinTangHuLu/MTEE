@@ -1,0 +1,4 @@
+there are not players ||contradiction
+there is not hockey ||contradiction
+there is not a fight ||contradiction
+the players do not get into fight ||contradiction

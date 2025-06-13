@@ -1,0 +1,4 @@
+there is not a dog ||contradiction
+there is not a branch ||contradiction
+the dog is not brown ||contradiction
+the dog is not walking on top of the branch ||entailment

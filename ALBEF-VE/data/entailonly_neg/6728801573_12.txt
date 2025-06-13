@@ -1,0 +1,3 @@
+there is not a lady ||contradiction
+there is not a bike ||contradiction
+the lady is not fixing the bike ||contradiction

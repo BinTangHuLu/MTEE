@@ -1,0 +1,3 @@
+there is a family ||entailment
+there is a pet ||entailment
+the family is with the pet ||entailment

@@ -1,0 +1,3 @@
+there is a dog ||entailment
+there is some snow ||entailment
+the dog is in snow ||entailment

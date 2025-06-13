@@ -1,0 +1,4 @@
+There is not a woman. ||contradiction
+There is not a dinner. ||contradiction
+There are not guests. ||contradiction
+The woman is not cooking for guests. ||contradiction

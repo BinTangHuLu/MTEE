@@ -1,0 +1,6 @@
+There is a man. ||entailment
+There are some boxes. ||entailment
+There is a dumpster. ||contradiction
+The man stands. ||entailment
+The boxes are near the dumpster. ||entailment
+The man stands by the boxes. ||entailment

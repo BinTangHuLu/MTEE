@@ -1,0 +1,4 @@
+There is not a man. ||contradiction
+There is not a Park. ||contradiction
+The man is not walking. ||contradiction
+The man is not in Park. ||contradiction

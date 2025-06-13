@@ -1,0 +1,6 @@
+There is a gentlewoman. ||Entailment
+There is a brew. ||Contradiction
+There are development. ||Contradiction
+The development are unfinished. ||Contradiction
+The gentlewoman sits under the loom. ||Neutral
+Another works on the development. ||Contradiction

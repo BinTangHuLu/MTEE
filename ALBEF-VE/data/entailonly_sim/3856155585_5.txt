@@ -1,0 +1,4 @@
+there are female ||entailment
+there is craft ||entailment
+the female are older ||entailment
+the female are reading and enjoying art ||entailment

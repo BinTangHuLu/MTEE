@@ -1,0 +1,4 @@
+There are not people. ||Contradiction
+There is not inside. ||Entailment
+The people are not many. ||Entailment
+The people are not together inside. ||Entailment

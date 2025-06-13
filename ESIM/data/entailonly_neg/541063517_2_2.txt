@@ -1,0 +1,4 @@
+There is not a man. ||contradiction
+There are not mountains. ||contradiction
+The man cannot see mountains. ||entailment
+The man does not stand at where. ||contradiction

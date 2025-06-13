@@ -1,0 +1,2 @@
+there is a fountain ||entailment
+they are near the fountain ||entailment

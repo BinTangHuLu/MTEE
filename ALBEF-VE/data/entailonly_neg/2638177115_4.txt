@@ -1,0 +1,3 @@
+there are not soldiers ||contradiction
+there is not a discussion ||contradiction
+the soldiers do not have a discussion ||contradiction

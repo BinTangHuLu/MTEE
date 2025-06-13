@@ -1,0 +1,3 @@
+There is not a man. ||Contradiction
+There is not a pole. ||Contradiction
+The man is not holding onto the pole. ||Entailment

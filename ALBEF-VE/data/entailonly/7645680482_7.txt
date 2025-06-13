@@ -1,0 +1,3 @@
+there is a crowd ||entailment
+there are some cyclists ||entailment
+the crowd is watching cyclists ||entailment

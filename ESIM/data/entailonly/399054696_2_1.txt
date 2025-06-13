@@ -1,0 +1,4 @@
+There are people. ||entailment
+There is boating. ||entailment
+There are 3 people. ||entailment
+The people are being video taped boating. ||neutral

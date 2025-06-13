@@ -1,0 +1,6 @@
+there is not a girl ||contradiction
+there is not a basketball ||contradiction
+the girl is not attempting to shoot ||contradiction
+the girl does not defend ||contradiction
+the girl is not attempting to shoot basketball ||contradiction
+the girl does not defend the girl ||contradiction

@@ -1,0 +1,5 @@
+There are riders. ||Entailment
+There is a park. ||Entailment
+There is a coaster. ||Entailment
+The park is amusement. ||Entailment
+The riders are on coaster. ||Entailment

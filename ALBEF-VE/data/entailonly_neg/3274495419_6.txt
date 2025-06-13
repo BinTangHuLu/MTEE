@@ -1,0 +1,3 @@
+there are not people ||contradiction
+the people are not standing ||entailment
+the people are not standing around people ||entailment

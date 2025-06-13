@@ -1,0 +1,2 @@
+there is a estate ||entailment
+the skateboarder is in the estate ||contradiction

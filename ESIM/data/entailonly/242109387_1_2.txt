@@ -1,0 +1,5 @@
+There is a boy. ||entailment
+There is an environment. ||entailment
+The boy is wild. ||neutral
+The boy is natural. ||neutral
+The environment is his. ||entailment

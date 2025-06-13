@@ -1,0 +1,5 @@
+There is a female. ||Entailment
+There is a badger. ||Contradiction
+There is a appendage. ||Entailment
+The female holds the needle. ||Entailment
+The badger is in the hand. ||Contradiction

@@ -1,0 +1,3 @@
+there is a outrigger ||entailment
+the outrigger is floating ||contradiction
+the outrigger is floating ||contradiction

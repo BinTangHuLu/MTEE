@@ -1,0 +1,3 @@
+there is a dark drummer ||entailment
+there is a arrangement ||entailment
+the dark drummer is in the formation ||entailment

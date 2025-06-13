@@ -1,0 +1,2 @@
+there is a athlete ||entailment
+the athlete swung at the ball ||entailment

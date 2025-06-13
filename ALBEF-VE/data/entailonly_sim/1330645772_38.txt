@@ -1,0 +1,4 @@
+there is a pup ||entailment
+there is a farmland ||entailment
+the pup is black ||neutral
+the pup is running through the field ||neutral

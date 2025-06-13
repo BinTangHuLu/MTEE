@@ -1,0 +1,4 @@
+there is a lady ||entailment
+there is a day ||entailment
+the day is clear ||neutral
+the lady is outside on the day ||entailment

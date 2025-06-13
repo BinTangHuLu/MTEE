@@ -1,0 +1,5 @@
+There are men. ||entailment
+There are six men. ||entailment
+The men are black and yellow. ||neutral
+The men are dressed in black and yellow. ||entailment
+The men are lifting two. ||neutral

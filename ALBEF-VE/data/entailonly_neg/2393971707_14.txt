@@ -1,0 +1,4 @@
+there are not people ||contradiction
+the people are not in red ||contradiction
+the people are not pink ||entailment
+the people are not walking up steps ||entailment

@@ -1,0 +1,5 @@
+there is a dude ||entailment
+there is a appearance ||entailment
+there is a accelerate show ||entailment
+the dude is speaking in the presentation ||entailment
+the others are watching the accelerate show ||entailment

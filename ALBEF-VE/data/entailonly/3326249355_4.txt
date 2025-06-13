@@ -1,0 +1,10 @@
+there are people ||entailment
+there is a hillside ||entailment
+there is a sun ||entailment
+there is a cross ||entailment
+the hillside is grassy ||entailment
+the cross is large ||neutral
+the cross is wooden ||entailment
+the people stand on the hillside ||entailment
+the people are in front of the cross ||entailment
+the hillside is in the sun ||entailment

@@ -1,0 +1,3 @@
+there is a animal ||entailment
+there is a kitten ||entailment
+the animal is with cat ||entailment

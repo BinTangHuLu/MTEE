@@ -1,0 +1,2 @@
+There are teenagers. ||entailment
+The teenagers are hiking in cold. ||entailment

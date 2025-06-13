@@ -1,0 +1,5 @@
+There is not a man. ||contradiction
+There is not a raft. ||contradiction
+There are not some boats. ||contradiction
+The man does not sit in the raft. ||contradiction
+The raft is not by boats. ||contradiction

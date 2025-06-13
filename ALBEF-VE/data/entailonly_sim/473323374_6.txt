@@ -1,0 +1,3 @@
+there is a little ||entailment
+the little has curly hair ||entailment
+the eyebrow is curly ||entailment

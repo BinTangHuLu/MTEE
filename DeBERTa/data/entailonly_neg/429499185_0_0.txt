@@ -1,0 +1,5 @@
+There are not people. ||contradiction
+There is not a person. ||contradiction
+There is not a table. ||contradiction
+The people are not listening to the person. ||contradiction
+The person does not speak to the table. ||contradiction

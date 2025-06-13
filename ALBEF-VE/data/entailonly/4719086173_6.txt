@@ -1,0 +1,4 @@
+there are females ||entailment
+there are suits ||entailment
+the suits are wearing ||neutral
+the females are wearing suits ||contradiction

@@ -1,0 +1,4 @@
+There is not a lady. ||Contradiction
+There are not some bikes. ||Contradiction
+The lady is not blonde. ||Entailment
+The lady does not hang out near bikes. ||Contradiction

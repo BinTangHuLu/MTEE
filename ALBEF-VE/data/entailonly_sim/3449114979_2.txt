@@ -1,0 +1,3 @@
+there is a clan ||entailment
+the clan are three ||neutral
+the clan are seated ||entailment

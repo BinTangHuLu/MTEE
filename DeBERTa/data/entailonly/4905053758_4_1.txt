@@ -1,0 +1,6 @@
+There is a group. ||entailment
+There are some people. ||entailment
+There is a beach. ||entailment
+The group is standing. ||entailment
+The beach is filled with cameras. ||entailment
+The group is standing at the beach. ||entailment

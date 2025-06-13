@@ -1,0 +1,5 @@
+There is not a man. ||contradiction
+The man is not wearing a black suit. ||contradiction
+The man is not standing. ||contradiction
+There is not an outfit. ||contradiction
+The man is not standing next to the man. ||contradiction

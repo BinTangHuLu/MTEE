@@ -1,0 +1,4 @@
+There are not boys. ||contradiction
+There is not a place. ||contradiction
+The boys are not in place. ||contradiction
+The place is not learning. ||contradiction

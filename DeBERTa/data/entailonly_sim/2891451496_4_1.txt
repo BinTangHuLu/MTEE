@@ -1,0 +1,3 @@
+There is a female. ||entailment
+There is an apparatus. ||entailment
+The female is playing the instrument. ||entailment

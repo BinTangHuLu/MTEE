@@ -1,0 +1,7 @@
+there are not guys ||contradiction
+there is not a cherry picker ||contradiction
+there are not wires ||contradiction
+there are not trees ||contradiction
+the guys do not stand in the cherry picker ||contradiction
+the cherry picker is not near wires ||contradiction
+the cherry picker is not near trees ||contradiction

@@ -1,0 +1,4 @@
+there are groups ||entailment
+there is a concert ||neutral
+the groups are musical ||neutral
+the groups are in concert ||contradiction

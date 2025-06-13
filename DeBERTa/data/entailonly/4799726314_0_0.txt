@@ -1,0 +1,4 @@
+There is a child. ||entailment
+There are some animals. ||entailment
+There are some animals. ||entailment
+The child is with two animals. ||entailment

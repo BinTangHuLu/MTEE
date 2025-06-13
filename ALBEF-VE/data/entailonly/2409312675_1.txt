@@ -1,0 +1,4 @@
+there is a truck ||entailment
+there is a hill ||entailment
+the hill is muddy ||entailment
+the truck drives up the hill ||entailment

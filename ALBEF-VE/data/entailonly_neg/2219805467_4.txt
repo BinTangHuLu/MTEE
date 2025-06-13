@@ -1,0 +1,5 @@
+there is not a dog ||contradiction
+there is not some water ||contradiction
+there is not a ball ||contradiction
+the dog is not by water ||contradiction
+the dog is not with a ball ||contradiction

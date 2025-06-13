@@ -1,0 +1,4 @@
+there is a desert ||entailment
+there is a road ||entailment
+there is someone ||entailment
+someone is walking on the road ||entailment

@@ -1,0 +1,4 @@
+there is a person ||entailment
+there is a bench ||entailment
+the bench is in the park ||neutral
+the person is sprawled on the bench ||entailment

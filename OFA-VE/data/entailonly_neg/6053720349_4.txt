@@ -1,0 +1,4 @@
+There is not a kid. ||Contradiction
+There is not a container. ||Entailment
+The container is not open. ||Entailment
+The kid is not inside of the container. ||Entailment

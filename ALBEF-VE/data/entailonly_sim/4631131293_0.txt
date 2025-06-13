@@ -1,0 +1,3 @@
+there is a circle ||entailment
+the circle is large ||neutral
+the circle is congregating ||entailment

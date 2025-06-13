@@ -1,0 +1,4 @@
+There is a boy. ||Entailment
+There is a ball. ||Entailment
+The ball is soccer. ||Entailment
+The boy is holding the ball. ||Entailment

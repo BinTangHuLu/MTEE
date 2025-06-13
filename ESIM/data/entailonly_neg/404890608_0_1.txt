@@ -1,0 +1,6 @@
+There are not boys. ||contradiction
+There is not paper. ||contradiction
+There is not a boy. ||contradiction
+There is not a bag. ||contradiction
+The boys do not have paper. ||contradiction
+The boy is not grabbing the bag. ||contradiction

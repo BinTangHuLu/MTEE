@@ -1,0 +1,6 @@
+There is a man. ||entailment
+There is a bench. ||entailment
+There is a store. ||entailment
+The man is reading. ||entailment
+The man is reading on the bench. ||entailment
+The bench is outside of the store. ||entailment

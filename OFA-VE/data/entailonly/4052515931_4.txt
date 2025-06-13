@@ -1,0 +1,4 @@
+There is a man. ||Entailment
+There is a jacket. ||Entailment
+The jacket is wearing. ||Entailment
+The man is wearing jacket. ||Entailment

@@ -1,0 +1,3 @@
+there is a gentlewoman ||entailment
+there is a baby ||entailment
+the gentlewoman and child are sitting together ||entailment

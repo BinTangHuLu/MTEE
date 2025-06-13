@@ -1,0 +1,6 @@
+there is a girl ||entailment
+there is a volleyball ||entailment
+there is a sign ||entailment
+there is a background ||entailment
+the girl plays volleyball ||contradiction
+the sign is in the background ||entailment

@@ -1,0 +1,4 @@
+there is a pup ||entailment
+the pup is large ||neutral
+the pup is black and white ||entailment
+the pup is running outside ||entailment

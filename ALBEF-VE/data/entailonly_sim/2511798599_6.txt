@@ -1,0 +1,4 @@
+there are dude ||contradiction
+there is a cry ||contradiction
+the cry is loud ||contradiction
+the dude are helping to create the voice ||entailment

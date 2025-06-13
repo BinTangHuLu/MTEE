@@ -1,0 +1,3 @@
+there is a boy ||entailment
+the boy is stretching ||entailment
+the boy is stretching ||entailment

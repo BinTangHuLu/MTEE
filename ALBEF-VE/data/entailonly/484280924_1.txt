@@ -1,0 +1,5 @@
+there is a man ||entailment
+there are some noodles ||neutral
+there is a container ||entailment
+the man puts noodles ||entailment
+the man puts noodles in a container ||entailment

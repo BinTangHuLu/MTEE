@@ -1,0 +1,4 @@
+there are not people ||contradiction
+there is not a street ||contradiction
+the people are not asian ||contradiction
+the people are not on street ||contradiction

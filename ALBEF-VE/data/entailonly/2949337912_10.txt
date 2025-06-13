@@ -1,0 +1,4 @@
+there is a surfer ||entailment
+there is a wave ||entailment
+the wave is green ||entailment
+the surfer was riding the wave ||entailment

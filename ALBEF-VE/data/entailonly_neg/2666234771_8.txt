@@ -1,0 +1,4 @@
+there is not a man ||contradiction
+there is not a car ||contradiction
+the man is not jumping ||contradiction
+the man is not next to the car ||contradiction

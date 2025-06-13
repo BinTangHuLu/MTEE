@@ -1,0 +1,4 @@
+there are female ||entailment
+there is a architecture ||entailment
+the female are in front of the building ||entailment
+the female are getting their picture taken ||entailment

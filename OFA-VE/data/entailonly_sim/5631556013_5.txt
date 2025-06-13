@@ -1,0 +1,4 @@
+There is a child. ||Entailment
+There are some knickers. ||Entailment
+The knickers are wearing. ||Contradiction
+The child is wearing shorts. ||Entailment

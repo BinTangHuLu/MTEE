@@ -1,0 +1,4 @@
+There is not a woman. ||contradiction
+The woman is not exploring. ||neutral
+There are not containers. ||contradiction
+The woman is exploring somethingnot . ||neutral

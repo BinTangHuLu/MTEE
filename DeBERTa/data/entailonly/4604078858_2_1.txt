@@ -1,0 +1,3 @@
+There is a person. ||entailment
+There is a tree. ||entailment
+The person is messing with the tree. ||neutral

@@ -1,0 +1,2 @@
+There is a period. ||contradiction
+The period is sunny. ||entailment

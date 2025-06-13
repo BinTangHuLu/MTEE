@@ -1,0 +1,10 @@
+there are women ||entailment
+there is a paper cup ||entailment
+there is a tree ||entailment
+there is a christmas tree ||entailment
+the paper cup is holding ||entailment
+the tree is christmas ||entailment
+the tree is christmas tree ||neutral
+the women are holding a paper cup ||entailment
+the women are posing in front of christmas tree ||entailment
+the women are making funny faces ||neutral

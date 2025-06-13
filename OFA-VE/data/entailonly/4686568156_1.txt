@@ -1,0 +1,4 @@
+There are people. ||Entailment
+There is outside. ||Entailment
+There are two people. ||Entailment
+The people are outside. ||Entailment

@@ -1,0 +1,3 @@
+there is a body ||entailment
+there is some shipment ||neutral
+the body is paying for transportation ||entailment

@@ -1,0 +1,5 @@
+There is a dude. ||entailment
+There is a conspiracy. ||contradiction
+There is a pedal. ||entailment
+The dude does jump trick. ||entailment
+The dude does on bike. ||entailment

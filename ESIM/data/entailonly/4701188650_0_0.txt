@@ -1,0 +1,6 @@
+There is a man. ||entailment
+There is London. ||entailment
+There is a bench. ||entailment
+The man is young. ||entailment
+The man waits outdoors in London. ||entailment
+The man waits on the bench. ||entailment

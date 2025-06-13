@@ -1,0 +1,4 @@
+there is a female ||entailment
+there is a auto ||entailment
+the female is posing ||entailment
+the female is in front of the car ||entailment

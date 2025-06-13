@@ -1,0 +1,4 @@
+there is not a girl ||contradiction
+there is not a sweater ||contradiction
+the sweater is not white ||entailment
+the girl is not in sweater ||contradiction

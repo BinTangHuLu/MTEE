@@ -1,0 +1,3 @@
+There are Competitors. ||Entailment
+There is a competition. ||Entailment
+The Competitors are after competition. ||Entailment

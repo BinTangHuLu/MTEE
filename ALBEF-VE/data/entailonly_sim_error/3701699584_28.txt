@@ -1,0 +1,2 @@
+A,same color
+EA,pants,same color

@@ -1,0 +1,4 @@
+There are riders. ||entailment
+There is a bike. ||entailment
+The bike is dirt. ||neutral
+The riders are outside. ||entailment

@@ -1,0 +1,2 @@
+there are female ||entailment
+the female sat outside ||entailment

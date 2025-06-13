@@ -1,0 +1,5 @@
+there is not a man ||contradiction
+there is not a shirt ||contradiction
+the shirt is not black ||entailment
+the man is not in the shirt ||neutral
+the man is not touching the man ||contradiction

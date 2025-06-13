@@ -1,0 +1,4 @@
+there is food ||entailment
+there is drink ||entailment
+there is a photo ||entailment
+the food and drink are in the photo ||entailment

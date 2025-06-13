@@ -1,0 +1,2 @@
+there is not an athlete ||contradiction
+the athlete is not female ||entailment

@@ -1,0 +1,3 @@
+there are adults ||entailment
+there is a cafe ||entailment
+the adults are in the cafe ||entailment

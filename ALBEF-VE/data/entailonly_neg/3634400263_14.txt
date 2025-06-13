@@ -1,0 +1,5 @@
+there is not a man ||contradiction
+there is not a bike ||contradiction
+there is not a park ||contradiction
+the man is not on the bike ||entailment
+the man is not in the park ||contradiction

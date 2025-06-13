@@ -1,0 +1,6 @@
+there is a female ||entailment
+there is a apparel ||entailment
+there is a celebration ||entailment
+the apparel is unusual ||entailment
+the female wears the costume ||entailment
+the apparel goes to the party ||entailment

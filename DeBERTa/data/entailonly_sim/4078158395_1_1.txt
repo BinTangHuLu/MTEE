@@ -1,0 +1,4 @@
+There is a dude. ||entailment
+The dude is able. ||entailment
+The dude has his legs. ||entailment
+The dude can use legs. ||entailment

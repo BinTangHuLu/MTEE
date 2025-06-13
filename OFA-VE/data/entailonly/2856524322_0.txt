@@ -1,0 +1,5 @@
+There is a man. ||Entailment
+There is a bicycle. ||Entailment
+There are tricks. ||Entailment
+The tricks are doing. ||Entailment
+The man is doing tricks. ||Neutral

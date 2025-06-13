@@ -1,0 +1,5 @@
+There is a child. ||entailment
+There is a fluctuation. ||entailment
+The child is rather high. ||entailment
+The fluctuation has blue ropes. ||entailment
+The child is swinging with the swing. ||entailment

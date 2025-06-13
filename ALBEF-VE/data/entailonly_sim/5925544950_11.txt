@@ -1,0 +1,4 @@
+there is a female ||entailment
+there is a beam ||entailment
+the beam is for fishing ||entailment
+the female has a pole ||entailment

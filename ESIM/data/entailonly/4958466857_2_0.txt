@@ -1,0 +1,6 @@
+There are men. ||entailment
+There is a wall. ||entailment
+There is a dog. ||entailment
+The men are homeless. ||entailment
+The men lean against the wall. ||entailment
+The men are with the dog. ||entailment

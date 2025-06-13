@@ -1,0 +1,4 @@
+There is not a kid. ||contradiction
+There is not some clothing. ||contradiction
+The clothing is not colorful. ||contradiction
+The kid is not wearing clothing. ||contradiction

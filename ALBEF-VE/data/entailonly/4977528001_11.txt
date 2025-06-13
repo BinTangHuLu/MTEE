@@ -1,0 +1,4 @@
+there is a child ||entailment
+there is a cap ||entailment
+the cap is yankees ||neutral
+the child wears cap ||entailment

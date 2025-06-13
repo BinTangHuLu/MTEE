@@ -1,0 +1,3 @@
+There is a kid. ||entailment
+There is a wagon. ||entailment
+The kid is in the wagon. ||entailment

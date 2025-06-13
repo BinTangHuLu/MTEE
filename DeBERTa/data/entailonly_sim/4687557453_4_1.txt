@@ -1,0 +1,2 @@
+There are community. ||entailment
+community are seated at tables. ||entailment

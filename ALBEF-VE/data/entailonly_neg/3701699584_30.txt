@@ -1,0 +1,4 @@
+there is not a player ||contradiction
+there is not a tennis ||contradiction
+the player is not ready ||contradiction
+the player is not ready to play tennis ||contradiction

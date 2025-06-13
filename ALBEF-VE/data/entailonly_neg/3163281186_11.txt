@@ -1,0 +1,5 @@
+there is not a woman ||contradiction
+there is not a ground ||entailment
+there is not an elephant ||contradiction
+the woman is not on the ground ||entailment
+the woman is not looking at the elephant ||entailment

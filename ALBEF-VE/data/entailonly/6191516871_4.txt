@@ -1,0 +1,3 @@
+there are monks ||entailment
+there is a floor ||entailment
+the monks are kneeling on the floor ||entailment

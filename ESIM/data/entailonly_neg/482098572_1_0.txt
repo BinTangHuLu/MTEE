@@ -1,0 +1,3 @@
+There is not a person. ||contradiction
+There is not a waterfall. ||contradiction
+The person is not going to the waterfall. ||contradiction

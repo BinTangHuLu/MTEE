@@ -1,0 +1,5 @@
+there is not a woman ||contradiction
+there is not a dress ||contradiction
+the woman is not young ||entailment
+the woman is not in a dress ||contradiction
+the woman does not walk in street ||contradiction

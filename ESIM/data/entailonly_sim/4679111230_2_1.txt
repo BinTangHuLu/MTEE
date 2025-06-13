@@ -1,0 +1,2 @@
+There is a metro station. ||entailment
+The firefighters are coming up from the metro station. ||entailment

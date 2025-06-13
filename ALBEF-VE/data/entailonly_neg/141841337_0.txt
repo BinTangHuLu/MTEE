@@ -1,0 +1,6 @@
+there are not women ||contradiction
+there are not hands ||contradiction
+there is not a man ||contradiction
+there is not a foot ||entailment
+the women does not have her hands ||contradiction
+the hands are not on the foot ||entailment

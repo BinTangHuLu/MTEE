@@ -1,0 +1,4 @@
+There are ballet dancer. ||neutral
+There is a lap. ||neutral
+The ballet dancer are barefoot. ||neutral
+The ballet dancer are performing on stage. ||neutral

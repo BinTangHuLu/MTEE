@@ -1,0 +1,5 @@
+there is a band ||entailment
+there is some music ||entailment
+the band is small ||neutral
+the band plays music ||entailment
+the band is dressed in costume ||entailment

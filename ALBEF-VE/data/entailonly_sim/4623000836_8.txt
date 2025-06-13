@@ -1,0 +1,2 @@
+there is a avenue ||entailment
+the kids are walking down the avenue ||contradiction

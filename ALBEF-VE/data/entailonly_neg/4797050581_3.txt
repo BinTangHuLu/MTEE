@@ -1,0 +1,3 @@
+there are not people ||contradiction
+there are not phones ||contradiction
+the people are not on phones ||contradiction

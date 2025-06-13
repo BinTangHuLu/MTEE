@@ -1,0 +1,5 @@
+There is a man. ||Entailment
+There is a cat. ||Entailment
+There is a body. ||Entailment
+The man keeps the cat. ||Neutral
+The cat is close to the body. ||Entailment

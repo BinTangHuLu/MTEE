@@ -1,0 +1,2 @@
+There is a body. ||Contradiction
+The body does skateboard. ||Entailment

@@ -1,0 +1,3 @@
+there are soldiers ||entailment
+there are weapons ||entailment
+the soldiers carry weapons ||entailment

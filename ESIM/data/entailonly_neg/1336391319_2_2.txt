@@ -1,0 +1,5 @@
+There is not a man. ||contradiction
+There is not a pear. ||contradiction
+There are not some boxes. ||contradiction
+The man is not pushing the pear. ||contradiction
+The man is not picking up the boxes. ||contradiction

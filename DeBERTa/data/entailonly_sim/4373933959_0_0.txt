@@ -1,0 +1,6 @@
+There is a circle. ||entailment
+There are community. ||entailment
+There is a avenue. ||entailment
+It is cold time. ||entailment
+The circle gathers in the street. ||neutral
+It is n cold time. ||entailment

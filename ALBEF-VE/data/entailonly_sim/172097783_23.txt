@@ -1,0 +1,5 @@
+there is a dude ||entailment
+there is a coat ||contradiction
+there are some bikini ||neutral
+the dude is waterskiing in the jacket ||entailment
+the dude is waterskiing in the trunks ||entailment

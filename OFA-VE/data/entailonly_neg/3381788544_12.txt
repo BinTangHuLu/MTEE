@@ -1,0 +1,2 @@
+There are not boys. ||Entailment
+The boys are not standing together. ||Entailment

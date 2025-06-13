@@ -1,0 +1,7 @@
+there is a dude ||entailment
+there is bedding ||contradiction
+there is a ground ||entailment
+there is a bar ||entailment
+the dude is wearing linen ||entailment
+the dude plays base ||contradiction
+the ground is against the wall ||entailment

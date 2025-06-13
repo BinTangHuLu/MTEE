@@ -1,0 +1,3 @@
+There is a crest. ||Entailment
+The crest is large. ||Neutral
+The surfer is riding down the crest. ||Entailment

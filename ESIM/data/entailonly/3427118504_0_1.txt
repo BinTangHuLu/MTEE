@@ -1,0 +1,11 @@
+There is a male. ||entailment
+There are clothes. ||entailment
+There is a hand. ||entailment
+There is a painting. ||entailment
+There is a young male. ||entailment
+The male is male. ||entailment
+The young male is another young. ||neutral
+The male has clothes. ||entailment
+The male is holding another young male. ||neutral
+The hand is holding another young male. ||neutral
+The hand is in front of the painting. ||entailment

@@ -1,0 +1,2 @@
+There are not cars. ||contradiction
+The cars were not in an accident. ||contradiction

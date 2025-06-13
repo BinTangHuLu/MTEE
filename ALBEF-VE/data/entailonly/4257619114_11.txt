@@ -1,0 +1,6 @@
+there is a woman ||entailment
+there is an outfit ||entailment
+there is a cookout ||entailment
+the outfit is ballerina ||neutral
+the woman is in the outfit ||entailment
+the woman is at the cookout ||neutral

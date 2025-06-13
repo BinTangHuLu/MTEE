@@ -1,0 +1,3 @@
+there is not a female ||contradiction
+there are not woods ||contradiction
+the female is not in woods ||contradiction

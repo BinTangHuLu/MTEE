@@ -1,0 +1,9 @@
+there is a association ||entailment
+there are community ||entailment
+there is a backyard ||entailment
+there is a dude ||entailment
+there is apparatus ||entailment
+the dude is working on mechanical ||entailment
+the community are walking on lawn ||contradiction
+the dude is working on equipment ||entailment
+the backyard is beside the man ||entailment

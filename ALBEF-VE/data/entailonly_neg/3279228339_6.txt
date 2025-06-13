@@ -1,0 +1,3 @@
+there are not adults ||entailment
+there is not a cafe ||contradiction
+the adults are not in the cafe ||contradiction

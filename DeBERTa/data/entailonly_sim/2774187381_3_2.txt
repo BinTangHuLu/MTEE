@@ -1,0 +1,6 @@
+There is a dude. ||entailment
+There is a back. ||entailment
+There is an auto. ||entailment
+The dude is sleeping. ||entailment
+The dude is sleeping in the automobile. ||entailment
+The dude is in the rear. ||entailment

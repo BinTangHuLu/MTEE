@@ -1,0 +1,6 @@
+there is a baby ||entailment
+there is a accelerate ||entailment
+there is a coat ||entailment
+the coat is red ||entailment
+the baby is sitting on the slide ||entailment
+the baby is wearing the jacket ||entailment

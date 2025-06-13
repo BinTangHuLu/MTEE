@@ -1,0 +1,3 @@
+there is a athlete ||entailment
+the athlete is running ||entailment
+the athlete is running player ||contradiction

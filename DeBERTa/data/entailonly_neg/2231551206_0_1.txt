@@ -1,0 +1,9 @@
+There is not a man. ||contradiction
+There is not some clothing. ||contradiction
+There is not a chair. ||contradiction
+There is not a TV. ||contradiction
+The man is not relaxed. ||contradiction
+The clothing is not relaxed. ||entailment
+The man is not lounging. ||contradiction
+The man is not in the chair. ||contradiction
+The man is not watching TV. ||contradiction

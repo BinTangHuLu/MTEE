@@ -1,0 +1,4 @@
+there are not players ||contradiction
+there is not a football ||contradiction
+the players are not opposing ||contradiction
+players do not tackle players ||contradiction

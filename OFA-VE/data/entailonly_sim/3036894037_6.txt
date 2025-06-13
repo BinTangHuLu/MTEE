@@ -1,0 +1,2 @@
+There are board. ||Contradiction
+The board are on streets. ||Entailment

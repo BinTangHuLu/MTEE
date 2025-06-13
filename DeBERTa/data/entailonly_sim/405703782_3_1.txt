@@ -1,0 +1,4 @@
+There is a acrobat. ||entailment
+The acrobat is her. ||contradiction
+The act is complete. ||neutral
+The acrobat completes exercise. ||entailment

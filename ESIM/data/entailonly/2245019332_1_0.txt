@@ -1,0 +1,4 @@
+There is a girl. ||entailment
+There are some pancakes. ||entailment
+The girl is young. ||entailment
+The girl cooks pancakes. ||entailment

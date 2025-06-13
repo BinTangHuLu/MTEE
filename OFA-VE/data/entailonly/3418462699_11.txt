@@ -1,0 +1,4 @@
+There is a man. ||Entailment
+There is a tree. ||Entailment
+The man is leaning. ||Entailment
+The man is leaning on the tree. ||Entailment

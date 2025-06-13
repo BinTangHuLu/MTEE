@@ -1,0 +1,5 @@
+There is a dude. ||entailment
+There is a pedal. ||entailment
+There is a block. ||entailment
+The dude is on the bike. ||entailment
+The dude is with the hamper. ||entailment

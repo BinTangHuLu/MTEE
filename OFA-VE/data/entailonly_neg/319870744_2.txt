@@ -1,0 +1,2 @@
+There is not land. ||Entailment
+The land is not flat. ||Entailment

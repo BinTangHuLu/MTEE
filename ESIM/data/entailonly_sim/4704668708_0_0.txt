@@ -1,0 +1,6 @@
+There is a baby. ||entailment
+There is some cotton paper. ||neutral
+There is a carton. ||entailment
+The baby is colorful. ||entailment
+The carton is fancy. ||neutral
+The baby pulls from the box. ||entailment

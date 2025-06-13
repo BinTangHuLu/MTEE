@@ -1,0 +1,7 @@
+There is a dude. ||entailment
+There is a armor. ||entailment
+There is clown lipstick. ||neutral
+There is a blouse. ||entailment
+Someone is in a armor. ||entailment
+Someone is in buffoon makeup. ||entailment
+Someone is talking to a dude. ||entailment

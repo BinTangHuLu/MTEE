@@ -1,0 +1,3 @@
+there are dude ||entailment
+there is dirt ||neutral
+the dude are not standing on ground ||entailment

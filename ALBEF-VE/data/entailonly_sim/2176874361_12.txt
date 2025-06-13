@@ -1,0 +1,5 @@
+there is a pup ||entailment
+there is a bludgeon ||entailment
+there is some fodder ||entailment
+the pup is playing with the cow ||entailment
+the bludgeon is playing with the hay ||contradiction

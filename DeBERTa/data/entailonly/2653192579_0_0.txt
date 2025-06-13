@@ -1,0 +1,6 @@
+There is a woman. ||entailment
+There is a rug. ||entailment
+There is a boy. ||entailment
+There is a gameboard. ||entailment
+The woman sits on the rug. ||entailment
+The boy is looking at the gameboard. ||entailment

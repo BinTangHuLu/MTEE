@@ -1,0 +1,4 @@
+There is a dude. ||Entailment
+There is a frame. ||Entailment
+The frame is his. ||Contradiction
+The dude is contorting his body. ||Entailment

@@ -1,0 +1,3 @@
+there is a butcher ||entailment
+there is a fish ||entailment
+the butcher is working with fish ||entailment

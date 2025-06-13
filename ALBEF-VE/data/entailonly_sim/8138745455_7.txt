@@ -1,0 +1,5 @@
+there are community ||entailment
+there is a agreeable ||entailment
+there is a architecture ||entailment
+the community are playing the game ||entailment
+the agreeable is outside the building ||entailment

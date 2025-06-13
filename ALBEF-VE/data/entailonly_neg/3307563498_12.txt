@@ -1,0 +1,5 @@
+there is not a boy ||contradiction
+there are not some ropes ||contradiction
+there is not a beach ||contradiction
+the boy is not climbing ropes ||contradiction
+the ropes are not on the beach ||contradiction

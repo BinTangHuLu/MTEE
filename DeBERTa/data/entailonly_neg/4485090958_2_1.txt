@@ -1,0 +1,5 @@
+There is not a person. ||contradiction
+There is not a child. ||contradiction
+There is not another person. ||contradiction
+The person is not talking to the child. ||contradiction
+Another person does not watch. ||neutral

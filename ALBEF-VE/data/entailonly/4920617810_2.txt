@@ -1,0 +1,4 @@
+there is a man ||entailment
+there is something ||entailment
+the man is photographing ||entailment
+the man is photographing something ||entailment

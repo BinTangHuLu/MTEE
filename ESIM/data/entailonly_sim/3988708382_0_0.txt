@@ -1,0 +1,3 @@
+There are dude. ||entailment
+There is a estuary. ||neutral
+The dude are by the river. ||entailment

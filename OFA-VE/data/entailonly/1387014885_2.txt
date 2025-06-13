@@ -1,0 +1,4 @@
+There are people. ||Entailment
+There is an outing. ||Entailment
+The people talk with people. ||Entailment
+The people are on outing. ||Entailment

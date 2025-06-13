@@ -1,0 +1,5 @@
+there is not an animal ||contradiction
+there is not some dust ||contradiction
+the dust is not kicking up ||contradiction
+the animal is not playing ||contradiction
+the animal is not kicking up dust ||contradiction

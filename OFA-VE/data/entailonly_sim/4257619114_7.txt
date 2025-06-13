@@ -1,0 +1,4 @@
+There is a female. ||Entailment
+There is an bodily. ||Entailment
+The female is dressed like. ||Entailment
+The female is dressed like an animal. ||Entailment

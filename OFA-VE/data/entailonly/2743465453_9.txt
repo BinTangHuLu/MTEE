@@ -1,0 +1,3 @@
+There is a man. ||Entailment
+There is a house. ||Entailment
+The man is in the house. ||Entailment

@@ -1,0 +1,6 @@
+there is not a man ||contradiction
+there are not sunglasses ||contradiction
+there is not a spool ||contradiction
+the spool is not large ||entailment
+the man is not wearing sunglasses ||contradiction
+the man is not standing near the spool ||contradiction

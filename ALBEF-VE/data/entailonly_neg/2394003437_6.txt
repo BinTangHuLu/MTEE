@@ -1,0 +1,3 @@
+there is not a person ||contradiction
+there is not a machine ||contradiction
+the person is not using the machine ||contradiction

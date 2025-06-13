@@ -1,0 +1,5 @@
+There are not men. ||contradiction
+There are not three men. ||contradiction
+The men do not have red uniforms. ||contradiction
+The men are not celebrating a goal. ||contradiction
+The men are not at a soccer game. ||contradiction

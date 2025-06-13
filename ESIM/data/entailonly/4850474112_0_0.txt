@@ -1,0 +1,5 @@
+There are visitors. ||entailment
+The visitors are Many. ||entailment
+The visitors have fun at celebration. ||entailment
+There is a celebration. ||entailment
+The celebration is Latin. ||entailment

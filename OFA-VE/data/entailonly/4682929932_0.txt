@@ -1,0 +1,2 @@
+There is merchandise. ||Entailment
+The merchandise is for sale. ||Entailment

@@ -1,0 +1,5 @@
+there is a person ||entailment
+there is a podium ||entailment
+the person is moving ||entailment
+the person is at the podium ||entailment
+the person is moving the person ||entailment

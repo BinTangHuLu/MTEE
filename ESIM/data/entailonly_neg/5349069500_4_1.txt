@@ -1,0 +1,4 @@
+There is not an instructor. ||contradiction
+There is not a basket. ||contradiction
+The instructor is not at fair. ||contradiction
+The instructor is not weaving. ||contradiction

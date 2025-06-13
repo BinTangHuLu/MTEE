@@ -1,0 +1,3 @@
+There is drink. ||entailment
+There is a child. ||entailment
+The drink sprays on the boy. ||neutral

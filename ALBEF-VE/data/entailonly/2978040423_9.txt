@@ -1,0 +1,3 @@
+there is a woman ||entailment
+there are some beverages ||entailment
+the woman is near beverages ||entailment

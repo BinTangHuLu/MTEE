@@ -1,0 +1,4 @@
+there is not a man ||contradiction
+there is not a painter ||contradiction
+the painter is not painting ||contradiction
+the painter is not painting outside ||contradiction

@@ -1,0 +1,7 @@
+There are People. ||entailment
+There are bikes. ||entailment
+There are directions. ||entailment
+There is a road. ||entailment
+People are riding bikes. ||entailment
+People are riding directions. ||entailment
+People are riding road. ||entailment

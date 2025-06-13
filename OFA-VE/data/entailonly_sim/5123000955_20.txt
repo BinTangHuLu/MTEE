@@ -1,0 +1,4 @@
+There are clan. ||Entailment
+There is a association. ||Entailment
+The clan are outdoors. ||Entailment
+The association is of children. ||Entailment

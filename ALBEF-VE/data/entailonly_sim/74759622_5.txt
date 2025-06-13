@@ -1,0 +1,3 @@
+there is a body ||entailment
+the supplies are lavatory cleaning ||neutral
+the body holds supplies ||entailment

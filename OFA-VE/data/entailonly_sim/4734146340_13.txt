@@ -1,0 +1,2 @@
+There is a employee. ||Entailment
+There is a dude. ||Entailment

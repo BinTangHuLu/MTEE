@@ -1,0 +1,5 @@
+there is a dude ||entailment
+there are congregation ||entailment
+there is a avenue ||entailment
+the dude is being watched by spectators ||entailment
+the congregation are in the street ||entailment

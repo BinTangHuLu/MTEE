@@ -1,0 +1,3 @@
+there is a person ||entailment
+there is a rock wall ||entailment
+the person climbs up the rock wall ||entailment

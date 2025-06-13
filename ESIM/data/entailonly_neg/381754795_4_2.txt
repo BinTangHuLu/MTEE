@@ -1,0 +1,4 @@
+There is not a band. ||contradiction
+There is not a school. ||contradiction
+The band is not high. ||contradiction
+The band does not prepare themselves to put on performance. ||contradiction

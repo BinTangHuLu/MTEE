@@ -1,0 +1,2 @@
+There is a martial artist. ||Entailment
+The martial artist is competing. ||Entailment

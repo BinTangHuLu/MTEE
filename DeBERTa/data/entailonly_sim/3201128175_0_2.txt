@@ -1,0 +1,4 @@
+There is a body. ||entailment
+The body is holding. ||entailment
+There are equipment. ||entailment
+The body is holding objects. ||entailment

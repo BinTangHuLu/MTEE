@@ -1,0 +1,5 @@
+There are clan. ||Entailment
+There is a air. ||Entailment
+The clan are two. ||Neutral
+The air is paint. ||Entailment
+The clan has face. ||Neutral

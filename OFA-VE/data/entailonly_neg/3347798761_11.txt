@@ -1,0 +1,5 @@
+There is not a person. ||Contradiction
+There is not a bicycle. ||Contradiction
+There is not air. ||Contradiction
+The person is not on the bicycle. ||Entailment
+The person does not soar through the air. ||Contradiction

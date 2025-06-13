@@ -1,0 +1,7 @@
+there is a lady ||entailment
+there is a face ||entailment
+there is a girl ||entailment
+the face is funny ||neutral
+the girl is little ||entailment
+the lady makes face ||entailment
+the face is at girl ||entailment

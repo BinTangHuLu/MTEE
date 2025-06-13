@@ -1,0 +1,2 @@
+The climbers use freedom measures. ||Entailment
+The climbers have freedom measures. ||Entailment

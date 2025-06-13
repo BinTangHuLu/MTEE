@@ -1,0 +1,5 @@
+there is a man ||entailment
+there is a tent ||entailment
+there is snow ||entailment
+the man peeks out of the tent ||entailment
+the tent is in snow ||entailment

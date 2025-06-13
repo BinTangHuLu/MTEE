@@ -1,0 +1,4 @@
+there is a group ||entailment
+there are some people ||entailment
+the group is of people ||neutral
+the people are building ||neutral

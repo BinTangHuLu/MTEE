@@ -1,0 +1,7 @@
+There is a man. ||entailment
+The man is old. ||entailment
+The man has a pink polo. ||entailment
+The man looks through a telescope. ||entailment
+There is a child. ||entailment
+The child is small. ||entailment
+The man is standing next to the child. ||entailment

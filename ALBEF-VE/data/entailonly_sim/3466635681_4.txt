@@ -1,0 +1,4 @@
+there is a attendant ||entailment
+there is a activity ||entailment
+the attendant does the job ||entailment
+the activity is in thailand ||entailment

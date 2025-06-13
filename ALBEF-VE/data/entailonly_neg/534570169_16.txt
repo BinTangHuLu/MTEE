@@ -1,0 +1,4 @@
+there is not a person ||contradiction
+there is not a tux ||contradiction
+the tux is not blue ||entailment
+the person is not in tux ||contradiction

@@ -1,0 +1,4 @@
+A,on shirt
+R,rides
+R,with
+R,with

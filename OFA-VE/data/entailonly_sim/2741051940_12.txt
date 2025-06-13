@@ -1,0 +1,3 @@
+There is a cartoon. ||Contradiction
+There is a pup. ||Entailment
+The cartoon has a dog. ||Entailment

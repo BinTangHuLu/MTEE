@@ -1,0 +1,4 @@
+there is a lady ||entailment
+there is an outfit ||entailment
+the outfit is beautiful ||neutral
+the lady is wearing the beautiful outfit ||entailment

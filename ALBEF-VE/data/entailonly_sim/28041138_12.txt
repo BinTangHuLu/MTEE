@@ -1,0 +1,6 @@
+there is a dude ||entailment
+there is a dark ||entailment
+the dark is playing ||entailment
+the dark is singing ||contradiction
+the dude is playing bass ||entailment
+the dude is singing bass ||neutral

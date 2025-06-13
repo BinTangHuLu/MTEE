@@ -1,0 +1,4 @@
+there is not a boy ||contradiction
+there are not women ||contradiction
+there is not a street ||contradiction
+the women are not on the street ||contradiction

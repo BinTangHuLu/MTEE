@@ -1,0 +1,3 @@
+there is a baby ||entailment
+the baby is brown haired ||neutral
+the baby is resting on the generator ||contradiction

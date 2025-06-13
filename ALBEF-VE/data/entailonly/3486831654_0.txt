@@ -1,0 +1,3 @@
+there is a game ||entailment
+there is a baseball ||entailment
+the game is in progress ||entailment

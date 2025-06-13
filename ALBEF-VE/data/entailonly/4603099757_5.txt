@@ -1,0 +1,4 @@
+there is a woman ||entailment
+there is an expression ||entailment
+the expression is happy ||contradiction
+the woman is making the happy expression ||contradiction

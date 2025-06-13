@@ -1,0 +1,4 @@
+there is a child ||entailment
+there is a fedora ||contradiction
+the fedora is nike ||contradiction
+the child is squinting ||contradiction

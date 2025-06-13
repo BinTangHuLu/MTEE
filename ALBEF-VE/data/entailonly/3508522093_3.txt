@@ -1,0 +1,3 @@
+there is a human ||entailment
+there is outdoors ||entailment
+the human is young ||neutral

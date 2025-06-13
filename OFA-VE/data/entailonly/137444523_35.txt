@@ -1,0 +1,4 @@
+There are people. ||Entailment
+There is a sidewalk. ||Entailment
+There are many people. ||Entailment
+The people are out on sidewalk. ||Entailment

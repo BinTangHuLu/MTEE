@@ -1,0 +1,4 @@
+there are not women ||contradiction
+the women are not blonde ||contradiction
+the women are not standing together ||entailment
+the women are not in public ||contradiction

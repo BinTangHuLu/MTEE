@@ -1,0 +1,5 @@
+there is not a lady ||contradiction
+there is not a suit ||contradiction
+there is not a pool ||contradiction
+the suit is not dark colored ||entailment
+the lady is not in pool ||contradiction

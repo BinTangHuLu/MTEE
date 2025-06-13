@@ -1,0 +1,3 @@
+There is not a girl. ||contradiction
+There is not an instrument. ||contradiction
+The girl is not near the instrument. ||contradiction

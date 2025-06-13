@@ -1,0 +1,4 @@
+There are gymnasts. ||entailment
+There are leotards. ||entailment
+The leotards are matching. ||entailment
+The gymnasts are practicing. ||neutral

@@ -1,0 +1,4 @@
+There are soccer players. ||entailment
+There are two soccer players. ||entailment
+The soccer players run around. ||entailment
+The soccer players are chasing each other. ||entailment

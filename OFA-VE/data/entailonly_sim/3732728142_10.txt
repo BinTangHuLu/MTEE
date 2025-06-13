@@ -1,0 +1,4 @@
+There is a little. ||Entailment
+There is a fedora. ||Contradiction
+The little is wearing. ||Entailment
+The little is wearing the hat. ||Entailment

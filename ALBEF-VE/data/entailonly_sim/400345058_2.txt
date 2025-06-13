@@ -1,0 +1,4 @@
+there is a baby ||entailment
+there is a dusk ||entailment
+the baby is jumping ||entailment
+the baby is in sunset ||entailment

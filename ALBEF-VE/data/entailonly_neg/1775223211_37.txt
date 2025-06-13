@@ -1,0 +1,6 @@
+there is not a lady ||contradiction
+there is not a loom ||contradiction
+there are not items ||contradiction
+the items are not unfinished ||contradiction
+the lady does not sit under the loom ||contradiction
+another does not work on the items ||neutral

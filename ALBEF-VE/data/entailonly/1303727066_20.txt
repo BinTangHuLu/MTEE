@@ -1,0 +1,7 @@
+there is a man ||entailment
+there is a shirt ||entailment
+there is a pot ||entailment
+the shirt is wearing ||entailment
+the pot is smoking ||entailment
+the man is wearing a shirt ||entailment
+the man is smoking a pot ||contradiction

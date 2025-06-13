@@ -1,0 +1,5 @@
+there is a dude ||entailment
+there are some specs ||entailment
+there is a artery ||neutral
+the specs are wearing ||entailment
+the dude sits in road ||entailment

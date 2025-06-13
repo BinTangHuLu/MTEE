@@ -1,0 +1,2 @@
+There is a little. ||entailment
+The little is running. ||entailment

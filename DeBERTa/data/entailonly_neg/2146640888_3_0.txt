@@ -1,0 +1,3 @@
+There is not a person. ||contradiction
+There is not someone. ||contradiction
+The person does not watch someone. ||contradiction

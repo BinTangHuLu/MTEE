@@ -1,0 +1,4 @@
+there are not girls ||contradiction
+there is not a picture ||entailment
+there are not two girls ||contradiction
+the girls are not in the picture ||entailment

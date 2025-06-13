@@ -1,0 +1,5 @@
+there is a race car ||entailment
+there is fire ||entailment
+there is an exhaust pipe ||entailment
+the race car has fire ||entailment
+the fire is coming from the exhaust pipe ||entailment

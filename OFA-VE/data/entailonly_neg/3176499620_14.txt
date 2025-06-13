@@ -1,0 +1,6 @@
+There is not a man. ||Contradiction
+There is not a body. ||Contradiction
+The body is hisnot . ||Contradiction
+The man is not moving. ||Contradiction
+The man is not moving very rapidly. ||Entailment
+The man is not moving the body. ||Contradiction

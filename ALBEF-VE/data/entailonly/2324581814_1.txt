@@ -1,0 +1,5 @@
+there are men ||entailment
+there is a dog ||entailment
+there is a room ||entailment
+the men are in the room ||entailment
+the dog is in the room ||entailment

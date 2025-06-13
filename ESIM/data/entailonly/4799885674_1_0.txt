@@ -1,0 +1,4 @@
+There is a photographer. ||entailment
+The photographer is well dressed. ||neutral
+The photographer carries. ||entailment
+The photographer carries a camera. ||entailment

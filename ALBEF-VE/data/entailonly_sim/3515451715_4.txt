@@ -1,0 +1,2 @@
+there is a grandmother ||entailment
+the grandmother is with kids ||entailment

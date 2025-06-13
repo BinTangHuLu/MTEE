@@ -1,0 +1,3 @@
+There is a female. ||Entailment
+There is a blaze. ||Entailment
+The female is sitting near fire. ||Entailment

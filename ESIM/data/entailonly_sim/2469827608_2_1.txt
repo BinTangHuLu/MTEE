@@ -1,0 +1,4 @@
+There are inquiry. ||entailment
+There is a bar. ||neutral
+She answers inquiry. ||entailment
+She is sitting at the bar. ||contradiction

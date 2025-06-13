@@ -1,0 +1,5 @@
+There is a child. ||Entailment
+There is a glass cap. ||Entailment
+There is a glass. ||Entailment
+The child is holding the bottle cap. ||Neutral
+The child is holding the bottle. ||Entailment

@@ -1,0 +1,7 @@
+There is a baby. ||neutral
+There is a forest. ||neutral
+The baby is female. ||entailment
+The baby has no shoes. ||entailment
+The baby has a helmet on. ||contradiction
+The forest has fallen down. ||neutral
+The baby walks on top of the tree. ||contradiction

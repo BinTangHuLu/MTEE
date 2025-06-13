@@ -1,0 +1,3 @@
+there are dude ||entailment
+there are auto ||entailment
+dude are near cars ||entailment

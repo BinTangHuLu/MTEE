@@ -1,0 +1,4 @@
+there are not people ||contradiction
+there is not a sidewalk ||contradiction
+the clothing is not bright ||contradiction
+people do not stand on the sidewalk ||contradiction

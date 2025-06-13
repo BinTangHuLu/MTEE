@@ -1,0 +1,2 @@
+There are players. ||entailment
+The players compete in game. ||entailment

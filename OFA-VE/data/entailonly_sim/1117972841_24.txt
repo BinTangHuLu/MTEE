@@ -1,0 +1,3 @@
+There is an bodily. ||Entailment
+The bodily is swiftly. ||Entailment
+The bodily is moving swiftly. ||Entailment

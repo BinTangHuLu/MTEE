@@ -1,0 +1,3 @@
+there are not friends ||contradiction
+there is not a celebration ||contradiction
+the friends are not enjoying the celebration ||contradiction

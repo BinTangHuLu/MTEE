@@ -1,0 +1,3 @@
+There is not a guy. ||Contradiction
+There are not some hands. ||Contradiction
+The guy is not working with hands. ||Contradiction

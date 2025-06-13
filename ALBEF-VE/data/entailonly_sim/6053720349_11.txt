@@ -1,0 +1,3 @@
+there is a little ||entailment
+there is a bag ||entailment
+the little ends up in the suitcase ||neutral

@@ -1,0 +1,3 @@
+there is a vehicle ||entailment
+there is a road ||entailment
+the vehicle is on road ||entailment

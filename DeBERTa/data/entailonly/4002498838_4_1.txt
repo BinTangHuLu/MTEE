@@ -1,0 +1,5 @@
+There is a man. ||entailment
+There are some shorts. ||entailment
+The man is in shorts. ||entailment
+The man is not wearing. ||entailment
+The footwear is not wearing. ||entailment

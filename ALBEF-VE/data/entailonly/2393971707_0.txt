@@ -1,0 +1,4 @@
+there are railings ||entailment
+there are designs ||entailment
+the railings had ||entailment
+the railings had designs ||entailment

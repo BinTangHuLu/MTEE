@@ -1,0 +1,9 @@
+There is a person. ||entailment
+There is rain. ||neutral
+There is damage. ||neutral
+The person is standing. ||neutral
+The person is looking at. ||entailment
+The rain is outside. ||entailment
+The damage is flood. ||entailment
+The person is standing outside rain. ||entailment
+The person is looking at damage. ||entailment

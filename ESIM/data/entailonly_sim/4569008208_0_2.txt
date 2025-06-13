@@ -1,0 +1,2 @@
+There is a activity. ||entailment
+The firefighters have finished the activity. ||entailment

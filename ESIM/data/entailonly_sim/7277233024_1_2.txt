@@ -1,0 +1,2 @@
+There is a extent. ||entailment
+The firefighter is going up the extent. ||neutral

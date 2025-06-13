@@ -1,0 +1,3 @@
+There is an animal. ||Entailment
+The animal is laying down. ||Entailment
+The animal is laying down outside. ||Entailment

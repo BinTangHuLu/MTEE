@@ -1,0 +1,5 @@
+There are child. ||entailment
+There is a set. ||entailment
+The child look on the couple. ||entailment
+The set gets pictures taken. ||entailment
+The set is married. ||entailment

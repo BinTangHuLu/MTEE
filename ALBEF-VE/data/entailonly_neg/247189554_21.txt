@@ -1,0 +1,4 @@
+there is not a man ||contradiction
+there is not a chair ||contradiction
+the man is not one armed ||contradiction
+the man does not sit in chair ||contradiction

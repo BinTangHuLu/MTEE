@@ -1,0 +1,7 @@
+there is a man ||entailment
+there is a woman ||entailment
+there is a sofa ||entailment
+the man is resting ||entailment
+the woman is resting ||entailment
+the man and woman are together ||entailment
+the man is resting on the sofa ||entailment

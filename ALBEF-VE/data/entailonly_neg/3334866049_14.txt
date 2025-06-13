@@ -1,0 +1,3 @@
+there is not an adult ||contradiction
+there is not some snow ||contradiction
+the adult is not in snow ||contradiction

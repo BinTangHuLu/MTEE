@@ -1,0 +1,3 @@
+there is a person ||entailment
+there is some food ||entailment
+the person is with food ||entailment

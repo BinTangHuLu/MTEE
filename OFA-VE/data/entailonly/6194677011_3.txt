@@ -1,0 +1,5 @@
+There is a researcher. ||Entailment
+There are some tools. ||Entailment
+The tools are proper. ||Entailment
+The researcher has tools. ||Entailment
+The tools are for analysis work. ||Entailment

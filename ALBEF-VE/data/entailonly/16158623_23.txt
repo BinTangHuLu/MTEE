@@ -1,0 +1,3 @@
+there are carriers ||entailment
+the carriers are mail ||neutral
+the carriers are doing job ||entailment

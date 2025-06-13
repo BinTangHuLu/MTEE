@@ -1,0 +1,7 @@
+There is a boy. ||entailment
+There is a serpent. ||entailment
+The boy is surrounded. ||entailment
+The serpent is large. ||neutral
+The boy is surrounded with human beings. ||entailment
+The human beings are having a serpent. ||entailment
+The serpent is around the chest. ||entailment

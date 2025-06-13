@@ -1,0 +1,3 @@
+There are dude. ||Entailment
+The action is complicated. ||Entailment
+The dude are engaged in activity. ||Entailment

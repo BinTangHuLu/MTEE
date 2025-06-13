@@ -1,0 +1,4 @@
+there are dogs ||entailment
+the dogs are currently ||entailment
+there is outdoors ||entailment
+the dogs are outdoors ||neutral

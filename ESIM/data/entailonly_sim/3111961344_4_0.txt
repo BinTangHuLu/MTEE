@@ -1,0 +1,5 @@
+There is a body. ||entailment
+The body is young. ||entailment
+The body is bored. ||entailment
+There is a bar. ||entailment
+The body appears in the restaurant. ||entailment

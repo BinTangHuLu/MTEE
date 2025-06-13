@@ -1,0 +1,4 @@
+There is not a man. ||contradiction
+There is not a case. ||contradiction
+The man is not standing. ||contradiction
+The man is not in front of the case. ||contradiction

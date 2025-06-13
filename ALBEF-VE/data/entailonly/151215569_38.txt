@@ -1,0 +1,2 @@
+there is somebody ||entailment
+somebody has facial hair ||entailment

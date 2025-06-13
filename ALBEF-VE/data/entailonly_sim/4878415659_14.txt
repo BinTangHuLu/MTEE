@@ -1,0 +1,5 @@
+there is a child ||entailment
+there is a gentlewoman ||entailment
+the child is small ||entailment
+the gentlewoman is heels ||entailment
+the child doesnt see the lady ||neutral

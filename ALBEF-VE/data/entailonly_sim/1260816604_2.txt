@@ -1,0 +1,6 @@
+there is a chauffeur ||entailment
+there is a auto ||entailment
+there is a link ||entailment
+the auto is red ||entailment
+the chauffeur is in the car ||entailment
+the auto is on the bridge ||contradiction

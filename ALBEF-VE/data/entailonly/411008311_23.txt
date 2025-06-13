@@ -1,0 +1,3 @@
+there is a man ||entailment
+the man is jumping around ||entailment
+the man is jumping around outside ||entailment

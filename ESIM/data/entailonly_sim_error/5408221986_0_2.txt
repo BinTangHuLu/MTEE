@@ -1,0 +1,3 @@
+EA,people,four
+E1RE2,people,pose for,photo
+E,photo

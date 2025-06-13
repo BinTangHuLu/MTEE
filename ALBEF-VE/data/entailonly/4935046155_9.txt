@@ -1,0 +1,3 @@
+there is a city ||entailment
+there is a freeway ||entailment
+the city is busy ||entailment

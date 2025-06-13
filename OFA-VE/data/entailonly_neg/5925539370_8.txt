@@ -1,0 +1,5 @@
+There are not children. ||Contradiction
+There is not a baseball. ||Entailment
+There is not a field. ||Contradiction
+The children do not play baseball. ||Contradiction
+They do not play in the field. ||Contradiction

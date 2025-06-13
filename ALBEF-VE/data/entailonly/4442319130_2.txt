@@ -1,0 +1,3 @@
+there is a cat ||entailment
+there is a nest ||neutral
+the cat nestles against someone ||entailment

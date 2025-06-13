@@ -1,0 +1,5 @@
+there are not people ||contradiction
+there are not balloons ||contradiction
+there is not information ||entailment
+people are not giving out balloons ||contradiction
+people are not giving out information ||contradiction

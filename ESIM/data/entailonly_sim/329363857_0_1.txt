@@ -1,0 +1,4 @@
+There is a dude. ||entailment
+There is a female. ||entailment
+The dude is outside in snow. ||entailment
+The dude is outside in snow with the woman. ||entailment

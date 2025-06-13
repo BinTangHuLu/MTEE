@@ -1,0 +1,3 @@
+There are not planes. ||Contradiction
+The planes are somenot . ||Entailment
+The planes are not flying around planes. ||Contradiction

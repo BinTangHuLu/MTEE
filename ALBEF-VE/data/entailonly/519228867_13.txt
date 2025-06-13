@@ -1,0 +1,4 @@
+there is a girl ||entailment
+there is a bathtime ||entailment
+the girl is playing ||entailment
+the girl is playing during bathtime ||neutral

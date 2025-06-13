@@ -1,0 +1,4 @@
+there is a baby ||entailment
+there is a blouse ||entailment
+the blouse is sesame street ||neutral
+the baby is with shirt ||entailment

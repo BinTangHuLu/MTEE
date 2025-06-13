@@ -1,0 +1,4 @@
+there is a child ||entailment
+there is barley ||neutral
+the child is running ||entailment
+the child is on grass ||entailment

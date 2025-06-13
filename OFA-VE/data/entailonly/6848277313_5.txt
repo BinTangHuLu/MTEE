@@ -1,0 +1,5 @@
+There is a man. ||Entailment
+There is a presentation. ||Entailment
+There are visuals. ||Entailment
+The man is giving a presentation. ||Neutral
+The presentation is with visuals. ||Entailment

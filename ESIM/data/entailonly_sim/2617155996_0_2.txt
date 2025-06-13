@@ -1,0 +1,5 @@
+There are dude. ||entailment
+There is a apparatus. ||entailment
+There is a bar. ||contradiction
+The dude work on the machine. ||entailment
+The apparatus is on the wall. ||entailment

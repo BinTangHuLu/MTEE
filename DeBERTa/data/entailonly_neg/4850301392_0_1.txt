@@ -1,0 +1,4 @@
+There is not a woman. ||contradiction
+There is not a device. ||contradiction
+The device does not have magnification. ||contradiction
+The woman is not using the device. ||contradiction

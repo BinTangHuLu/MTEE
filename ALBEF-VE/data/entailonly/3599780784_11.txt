@@ -1,0 +1,3 @@
+there is a man ||entailment
+there is a haircut ||entailment
+the man is getting a haircut ||entailment

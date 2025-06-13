@@ -1,0 +1,4 @@
+there is a person ||entailment
+there are some windows ||entailment
+the person is washing ||entailment
+the person is washing windows ||entailment

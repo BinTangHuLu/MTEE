@@ -1,0 +1,3 @@
+There is a barge. ||Entailment
+There is drink. ||Entailment
+The barge is floating on water. ||Entailment

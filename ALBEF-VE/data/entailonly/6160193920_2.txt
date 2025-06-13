@@ -1,0 +1,4 @@
+there is a woman ||entailment
+the woman is middle aged ||entailment
+the woman is oriental ||entailment
+the woman is happy ||entailment

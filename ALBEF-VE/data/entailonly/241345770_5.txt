@@ -1,0 +1,3 @@
+there is a game ||entailment
+there is a football ||entailment
+the game is happening football ||entailment

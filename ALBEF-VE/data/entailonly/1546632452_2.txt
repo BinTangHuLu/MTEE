@@ -1,0 +1,3 @@
+there is a boy ||entailment
+there is a trampoline ||entailment
+the boy jumps on the trampoline ||entailment

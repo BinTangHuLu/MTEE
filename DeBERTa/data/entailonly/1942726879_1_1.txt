@@ -1,0 +1,5 @@
+There are boys. ||entailment
+There is a bag. ||entailment
+The boys are walking together with the bag. ||entailment
+The boys are Two. ||entailment
+The bag is carrying. ||entailment

@@ -1,0 +1,4 @@
+There is a circle. ||Entailment
+There are some community. ||Entailment
+There is a backdrop. ||Entailment
+The circle stands in the background. ||Contradiction

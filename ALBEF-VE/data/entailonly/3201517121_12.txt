@@ -1,0 +1,4 @@
+there are twins ||entailment
+there are shirts ||entailment
+the shirts are long ||neutral
+the twins are having a confrontation ||neutral

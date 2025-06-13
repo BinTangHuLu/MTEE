@@ -1,0 +1,6 @@
+There is not a man. ||contradiction
+There is not an attire. ||contradiction
+There is not a job. ||contradiction
+The attire is not work. ||contradiction
+The man is not wearing the attire. ||contradiction
+The man is not walking to the job. ||contradiction

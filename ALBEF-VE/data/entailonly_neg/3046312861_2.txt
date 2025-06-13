@@ -1,0 +1,3 @@
+there are not people ||contradiction
+there is not gymnastics ||contradiction
+the people are not training gymnastics ||contradiction

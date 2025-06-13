@@ -1,0 +1,2 @@
+There is some camel. ||contradiction
+The collie is standing in camel. ||neutral

@@ -1,0 +1,4 @@
+there is not a skier ||contradiction
+there is not a ski suit ||contradiction
+the ski suit is not pink ||contradiction
+the skier is not wearing ski suit ||contradiction

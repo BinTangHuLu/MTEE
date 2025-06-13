@@ -1,0 +1,5 @@
+There is a guy. ||entailment
+There is a man. ||entailment
+The guy is cutting. ||entailment
+The guy is cutting hair. ||entailment
+The guy is cutting the man. ||neutral

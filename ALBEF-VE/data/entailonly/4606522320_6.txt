@@ -1,0 +1,4 @@
+there are men ||entailment
+there are suits ||entailment
+the suits are blue ||neutral
+men are wearing suits ||entailment

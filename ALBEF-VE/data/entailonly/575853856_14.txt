@@ -1,0 +1,4 @@
+there is a guy ||entailment
+there is a whistle ||entailment
+the guy is gray ||entailment
+the guy uses whistle ||entailment

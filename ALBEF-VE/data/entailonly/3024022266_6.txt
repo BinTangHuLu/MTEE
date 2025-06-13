@@ -1,0 +1,5 @@
+there is a kid ||entailment
+there are waves ||entailment
+there is a day ||entailment
+the day is nice ||entailment
+the kid rides waves ||entailment

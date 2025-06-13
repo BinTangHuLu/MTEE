@@ -1,0 +1,3 @@
+there is a woman ||entailment
+there are woods ||entailment
+the woman is in woods ||entailment

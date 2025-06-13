@@ -1,0 +1,5 @@
+there is a man ||entailment
+there is a shirt ||entailment
+there is an audience ||entailment
+the shirt is red ||contradiction
+the man is performing for the audience ||neutral

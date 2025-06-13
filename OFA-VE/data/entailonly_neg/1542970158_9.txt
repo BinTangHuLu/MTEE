@@ -1,0 +1,3 @@
+There is not a Man. ||Contradiction
+The Man is not working. ||Entailment
+The Man is not working outside. ||Entailment

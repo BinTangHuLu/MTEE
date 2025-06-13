@@ -1,0 +1,5 @@
+there is a female ||entailment
+there is a dais ||entailment
+there is a conversation ||entailment
+the female is at the podium ||entailment
+the female is giving the speech ||entailment

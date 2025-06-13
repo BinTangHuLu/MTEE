@@ -1,0 +1,5 @@
+There is a man. ||entailment
+There is a woman. ||entailment
+There is a statue. ||entailment
+The man is sitting near the statue. ||entailment
+The woman is sitting near the statue. ||contradiction

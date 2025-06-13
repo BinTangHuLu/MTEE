@@ -1,0 +1,4 @@
+There is an congregation. ||entailment
+There is a gig. ||entailment
+The congregation is dark. ||entailment
+The congregation is listening to the concert. ||entailment

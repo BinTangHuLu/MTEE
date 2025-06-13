@@ -1,0 +1,6 @@
+there is a man ||entailment
+there is a body ||entailment
+there is a beach ||entailment
+the body is his ||neutral
+the man is showing off his body ||neutral
+the body is by the beach ||entailment

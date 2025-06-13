@@ -1,0 +1,4 @@
+There is a pup. ||entailment
+The pup is yawning. ||entailment
+The pup is tired. ||entailment
+The pup is sleepy. ||entailment

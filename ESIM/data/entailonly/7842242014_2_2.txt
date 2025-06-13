@@ -1,0 +1,2 @@
+There is a car. ||entailment
+The car has no tires. ||entailment

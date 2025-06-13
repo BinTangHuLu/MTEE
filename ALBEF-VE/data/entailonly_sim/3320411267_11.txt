@@ -1,0 +1,5 @@
+there is a female ||entailment
+there is a coat ||entailment
+there is a earth ||entailment
+the coat is blue ||entailment
+the female is climbing rock ||entailment

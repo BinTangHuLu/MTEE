@@ -1,0 +1,5 @@
+there is not a girl ||contradiction
+there is not a t shirt ||contradiction
+there is not an excavator ||contradiction
+the t shirt is not white ||entailment
+the girl does not play on the excavator ||contradiction

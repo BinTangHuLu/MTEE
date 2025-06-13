@@ -1,0 +1,7 @@
+there are not girls ||contradiction
+there is not a picture ||entailment
+there is not a dresser ||contradiction
+there is not a christmas tree ||contradiction
+the girls do not pose for the picture ||contradiction
+the picture is not near the dresser ||contradiction
+the picture is not near the christmas tree ||contradiction

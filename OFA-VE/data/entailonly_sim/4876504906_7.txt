@@ -1,0 +1,3 @@
+There is a dude. ||Entailment
+There is a smoke. ||Entailment
+The Man is with smoke. ||Entailment

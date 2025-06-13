@@ -1,0 +1,4 @@
+there is a gentlewoman ||entailment
+there is a period ||entailment
+the period is clear ||contradiction
+the gentlewoman is outside on the day ||entailment

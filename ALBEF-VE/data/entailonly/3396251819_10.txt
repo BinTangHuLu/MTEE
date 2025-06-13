@@ -1,0 +1,3 @@
+there is a person ||entailment
+there is a hat ||entailment
+the person has a hat ||entailment

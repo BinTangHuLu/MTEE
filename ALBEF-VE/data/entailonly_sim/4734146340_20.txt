@@ -1,0 +1,9 @@
+there are dude ||entailment
+there is freedom gear ||entailment
+there is a beam ||entailment
+there are attire ||entailment
+the freedom gear is orange ||neutral
+the dude are dressed in orange safety gear ||entailment
+the dude are holding a pole ||entailment
+the dude are wearing stripes ||entailment
+the dude stand together ||entailment

@@ -1,0 +1,4 @@
+There is a lady. ||entailment
+There are dogs. ||entailment
+The lady is two. ||neutral
+The lady has dogs. ||entailment

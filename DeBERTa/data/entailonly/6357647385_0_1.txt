@@ -1,0 +1,2 @@
+There is a person. ||entailment
+The person is running. ||entailment

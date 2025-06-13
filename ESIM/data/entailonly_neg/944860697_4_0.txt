@@ -1,0 +1,7 @@
+There is not a man. ||contradiction
+The man does not have concealed features. ||contradiction
+There is not a mode. ||contradiction
+The mode is not transportation. ||contradiction
+The transportation is not a service. ||contradiction
+The man is not in the mode. ||contradiction
+The mode is not used in transportation. ||contradiction

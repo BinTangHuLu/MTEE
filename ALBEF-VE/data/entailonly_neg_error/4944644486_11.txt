@@ -1,0 +1,3 @@
+E1R,adults,travel through
+R,travel through
+RE2,along side,statue

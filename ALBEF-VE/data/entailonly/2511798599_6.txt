@@ -1,0 +1,4 @@
+there are men ||contradiction
+there is a voice ||entailment
+the voice is loud ||entailment
+the men are helping to create the voice ||entailment

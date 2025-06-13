@@ -1,0 +1,3 @@
+There are students. ||Entailment
+There are tools. ||Entailment
+The students are using tools. ||Entailment

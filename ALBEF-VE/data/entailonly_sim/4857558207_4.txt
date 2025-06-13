@@ -1,0 +1,5 @@
+there is a female ||entailment
+there is a little ||entailment
+there is a clinic ||entailment
+the female has had a baby ||entailment
+the little is in the hospital ||entailment

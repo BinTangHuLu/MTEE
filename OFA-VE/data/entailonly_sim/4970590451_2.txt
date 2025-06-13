@@ -1,0 +1,4 @@
+There is a body. ||Entailment
+There is a armor. ||Entailment
+The armor is colorful. ||Neutral
+The body is wearing a colorful helmet. ||Neutral

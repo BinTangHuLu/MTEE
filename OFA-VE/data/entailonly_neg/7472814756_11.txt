@@ -1,0 +1,4 @@
+There is not a photo. ||Contradiction
+There are not some yachts. ||Contradiction
+The yachts are not sailing. ||Contradiction
+The photo is not of yachts. ||Contradiction

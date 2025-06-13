@@ -1,0 +1,2 @@
+EA,truck,attached
+E1R,truck,with

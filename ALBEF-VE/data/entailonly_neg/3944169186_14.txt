@@ -1,0 +1,5 @@
+there is not a girl ||contradiction
+there is not a team ||contradiction
+there is not a game ||contradiction
+the team is not basketball ||contradiction
+the team is not playing the game ||contradiction

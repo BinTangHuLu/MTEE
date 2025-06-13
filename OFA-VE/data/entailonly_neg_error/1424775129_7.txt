@@ -1,0 +1,2 @@
+A,is walking
+RE2,is walking,outside

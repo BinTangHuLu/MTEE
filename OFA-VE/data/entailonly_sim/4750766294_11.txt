@@ -1,0 +1,4 @@
+There is a baby. ||Entailment
+There is a area. ||Entailment
+The baby is one. ||Entailment
+The baby is in the room. ||Entailment

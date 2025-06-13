@@ -1,0 +1,5 @@
+there are not people ||contradiction
+there is not a bicycle ||contradiction
+there is not a corner ||contradiction
+the people do not stand next a bicycle ||contradiction
+the bicycle is not on corner ||contradiction

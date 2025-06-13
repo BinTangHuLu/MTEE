@@ -1,0 +1,4 @@
+there is a female ||entailment
+there is some washing ||entailment
+the female is doing laundry ||entailment
+the female is doing laundry ||entailment

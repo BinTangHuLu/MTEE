@@ -1,0 +1,5 @@
+there is a pup ||entailment
+there is a data processor ||entailment
+the pup is white ||entailment
+the pup is using ||neutral
+the pup is using computer ||entailment

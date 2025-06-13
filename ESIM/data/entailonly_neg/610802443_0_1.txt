@@ -1,0 +1,3 @@
+There is not a man. ||contradiction
+There is not a flag. ||contradiction
+The man does not hold the flag. ||contradiction

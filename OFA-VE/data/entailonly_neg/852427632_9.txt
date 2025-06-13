@@ -1,0 +1,5 @@
+There is not a woman. ||Entailment
+There is not a horse. ||Entailment
+There is not a calf. ||Entailment
+The woman is not on the horse. ||Entailment
+The woman is not chasing the calf. ||Entailment

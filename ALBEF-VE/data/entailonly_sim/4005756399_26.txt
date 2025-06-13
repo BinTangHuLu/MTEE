@@ -1,0 +1,3 @@
+there is a dealer ||entailment
+there is a avenue ||entailment
+the dealer is working on the street ||entailment

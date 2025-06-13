@@ -1,0 +1,4 @@
+there is a boy ||entailment
+there is a toy ||entailment
+the boy is sitting down ||contradiction
+the boy is looking at the toy ||entailment

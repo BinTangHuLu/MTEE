@@ -1,0 +1,6 @@
+there is a man ||entailment
+there is a vest ||entailment
+there are tracks ||entailment
+the vest is orange ||entailment
+the man is with the vest ||entailment
+the man was working on tracks ||entailment

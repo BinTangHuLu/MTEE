@@ -1,0 +1,5 @@
+there is a dog ||entailment
+there is an exercise ||entailment
+there is a course ||entailment
+the dog is getting exercise ||entailment
+the exercise is at course ||neutral

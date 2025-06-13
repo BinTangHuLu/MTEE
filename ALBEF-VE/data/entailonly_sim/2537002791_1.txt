@@ -1,0 +1,4 @@
+there is a dude ||entailment
+there is a brain ||entailment
+the brain is covered ||entailment
+the dude is covered by head ||entailment

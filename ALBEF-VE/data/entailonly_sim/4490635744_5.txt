@@ -1,0 +1,3 @@
+there are constable ||entailment
+there is a barrier ||entailment
+the constable stand behind the barricade ||entailment

@@ -1,0 +1,6 @@
+there is a business ||entailment
+there is a female ||entailment
+there is a clue ||entailment
+the golfer raises the business ||neutral
+the female is holding the sign ||contradiction
+the business is next to the woman ||entailment

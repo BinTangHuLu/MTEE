@@ -1,0 +1,8 @@
+There is a woman. ||entailment
+There is a ball. ||entailment
+There is a rope. ||entailment
+The woman is young. ||entailment
+The ball is red-orange. ||entailment
+The rope is blue. ||contradiction
+The woman is playing on the ball. ||entailment
+The ball is attached to the rope. ||entailment

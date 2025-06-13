@@ -1,0 +1,5 @@
+there is a child ||entailment
+there is a child ||entailment
+there is a metro ||entailment
+the child is standing with the girl ||entailment
+the child is in the subway ||entailment

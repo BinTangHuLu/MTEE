@@ -1,0 +1,3 @@
+there is a person ||entailment
+there is surfing ||entailment
+the person is surfing ||entailment

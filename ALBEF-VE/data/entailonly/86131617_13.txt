@@ -1,0 +1,3 @@
+there are men ||entailment
+there is a billboard ||entailment
+men are putting up the billboard ||neutral

@@ -1,0 +1,7 @@
+there is a dude ||entailment
+there is a dais ||entailment
+there is a blouse ||entailment
+there is a dude ||entailment
+the dude is speaking at podium ||entailment
+the dais is in shirt ||entailment
+the blouse is by man ||entailment

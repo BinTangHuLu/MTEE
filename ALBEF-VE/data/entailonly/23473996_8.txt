@@ -1,0 +1,3 @@
+there is a construction ||entailment
+there is a city ||entailment
+the construction is happening in the city ||entailment

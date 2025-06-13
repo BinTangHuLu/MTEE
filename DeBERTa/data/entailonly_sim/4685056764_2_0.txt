@@ -1,0 +1,4 @@
+There are artillery. ||neutral
+There is a architecture. ||entailment
+The Soldiers are packing fever. ||contradiction
+The Soldiers are near the architecture. ||entailment

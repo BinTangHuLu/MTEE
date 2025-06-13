@@ -1,0 +1,3 @@
+there are not people ||contradiction
+there are not lines ||contradiction
+the people are not outside the lines ||entailment

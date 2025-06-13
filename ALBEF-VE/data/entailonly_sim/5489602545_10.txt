@@ -1,0 +1,4 @@
+there is a attendant ||entailment
+there is a period ||entailment
+the period is outdoors ||entailment
+the attendant is seen working in day ||entailment

@@ -1,0 +1,4 @@
+There are not boys. ||Entailment
+There is not water. ||Contradiction
+The boys are not young. ||Entailment
+The boys are not near water. ||Entailment

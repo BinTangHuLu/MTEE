@@ -1,0 +1,4 @@
+There is a man. ||Entailment
+There is a phone. ||Entailment
+There is an outside. ||Entailment
+The man is on phone. ||Entailment

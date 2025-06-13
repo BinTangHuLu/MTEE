@@ -1,0 +1,4 @@
+there are not people ||contradiction
+there is not a tire ||contradiction
+there is not a bicycle ||contradiction
+the people are not looking at the tire ||entailment

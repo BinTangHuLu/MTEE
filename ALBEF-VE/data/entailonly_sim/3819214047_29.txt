@@ -1,0 +1,4 @@
+there are boy ||entailment
+there are community ||entailment
+the boy are sitting on the skateboard ||entailment
+the boy are watching people ||entailment

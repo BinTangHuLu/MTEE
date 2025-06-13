@@ -1,0 +1,4 @@
+there is a boy ||entailment
+there is a hat ||entailment
+the boy is wearing ||entailment
+the boy is making a funny face ||entailment

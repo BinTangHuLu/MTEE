@@ -1,0 +1,5 @@
+there is a female ||entailment
+there are some attire ||entailment
+the female is blue and black ||contradiction
+the attire are blue and black ||contradiction
+the female is outside clothes ||entailment

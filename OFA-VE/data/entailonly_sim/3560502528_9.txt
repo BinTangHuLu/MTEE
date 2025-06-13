@@ -1,0 +1,5 @@
+There are community. ||Entailment
+There is a annoy. ||Neutral
+There is a pedal. ||Entailment
+The community are looking at the tire. ||Entailment
+The annoy is of the bike. ||Neutral

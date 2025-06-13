@@ -1,0 +1,4 @@
+There are competition. ||neutral
+There are equity. ||entailment
+The equity are large. ||neutral
+The competition are running towards buildings. ||neutral

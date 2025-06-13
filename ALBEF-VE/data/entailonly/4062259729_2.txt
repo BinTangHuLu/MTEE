@@ -1,0 +1,3 @@
+there is a man ||entailment
+there is a sailboat ||entailment
+the man is riding on the sailboat ||entailment

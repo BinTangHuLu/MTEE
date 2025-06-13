@@ -1,0 +1,5 @@
+there is a dude ||entailment
+there is a banner ||entailment
+the blouse is without ||entailment
+the dude is waving ||entailment
+the dude is waving the flag ||entailment

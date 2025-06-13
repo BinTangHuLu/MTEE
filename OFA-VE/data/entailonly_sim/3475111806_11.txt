@@ -1,0 +1,3 @@
+There is a body. ||Entailment
+There is a account. ||Contradiction
+The body is taking a picture. ||Contradiction

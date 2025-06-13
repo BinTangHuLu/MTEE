@@ -1,0 +1,3 @@
+There are not men. ||contradiction
+There are not woods. ||contradiction
+The men are not in woods. ||contradiction

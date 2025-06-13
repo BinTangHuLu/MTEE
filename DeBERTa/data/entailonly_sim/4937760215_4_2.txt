@@ -1,0 +1,3 @@
+There is a gentlewoman. ||neutral
+The gentlewoman is old. ||neutral
+The gentlewoman was walking up stairs. ||neutral

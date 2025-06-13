@@ -1,0 +1,3 @@
+There are dude. ||neutral
+The jackets are blue-green green. ||neutral
+The dude are wearing jackets. ||entailment

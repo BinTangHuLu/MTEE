@@ -1,0 +1,6 @@
+There is a kid. ||entailment
+There is a helmet. ||entailment
+There is a bike. ||entailment
+The kid is in a helmet. ||entailment
+The kid rides the bike. ||entailment
+The bike has training wheels. ||entailment

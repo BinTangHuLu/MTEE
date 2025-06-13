@@ -1,0 +1,5 @@
+there is a child ||entailment
+there is a air ||entailment
+there is a lunch ||neutral
+the child is making a face ||entailment
+the child has a snack ||entailment

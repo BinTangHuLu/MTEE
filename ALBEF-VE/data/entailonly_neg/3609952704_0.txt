@@ -1,0 +1,3 @@
+there is not a kid ||contradiction
+there is not a soccer ball ||contradiction
+the kid is not with a soccer ball ||contradiction

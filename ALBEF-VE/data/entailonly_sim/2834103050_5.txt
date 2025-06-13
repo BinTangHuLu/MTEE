@@ -1,0 +1,5 @@
+there is a childbearing ||entailment
+there is a fedora ||contradiction
+the childbearing is wearing ||entailment
+the childbearing is traveling by foot ||entailment
+the childbearing is traveling by foot outside ||entailment

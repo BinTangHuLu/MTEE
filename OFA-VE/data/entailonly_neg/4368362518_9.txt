@@ -1,0 +1,5 @@
+There is not a Musician. ||Contradiction
+There is not a guitar. ||Contradiction
+There are not people. ||Contradiction
+The Musician is not playing guitar. ||Contradiction
+The Musician is not playing for people. ||Contradiction

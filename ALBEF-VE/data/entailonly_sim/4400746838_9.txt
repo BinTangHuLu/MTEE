@@ -1,0 +1,6 @@
+there is a child ||entailment
+there is a appendage ||entailment
+there are appearance ||entailment
+the child is blonde ||entailment
+the child has a hand ||entailment
+the appendage is over eyes ||entailment

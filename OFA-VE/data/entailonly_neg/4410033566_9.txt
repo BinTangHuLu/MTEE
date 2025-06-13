@@ -1,0 +1,4 @@
+There is not a person. ||Contradiction
+There is not an object. ||Contradiction
+The person is not resting. ||Entailment
+The person is not resting against the object. ||Entailment

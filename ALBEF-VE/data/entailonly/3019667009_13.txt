@@ -1,0 +1,5 @@
+there are men ||entailment
+there is an arch ||entailment
+there is a doorway ||entailment
+the men are standing under the arch ||entailment
+the arch is in the doorway ||entailment

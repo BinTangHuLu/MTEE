@@ -1,0 +1,5 @@
+There is a man. ||entailment
+There are some glasses. ||entailment
+The man is with glasses. ||entailment
+The man is looking at glasses. ||entailment
+The man is looking at drinking glasses. ||entailment

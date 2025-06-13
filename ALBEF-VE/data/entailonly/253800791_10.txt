@@ -1,0 +1,4 @@
+there is a man ||entailment
+there is a game ||entailment
+the man is watching the man ||entailment
+the man is playing the game ||entailment

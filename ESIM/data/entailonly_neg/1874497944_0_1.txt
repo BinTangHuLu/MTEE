@@ -1,0 +1,4 @@
+There are not workers. ||contradiction
+There is not some gear. ||contradiction
+The gear is not safety. ||contradiction
+The workers were not wearing gear. ||contradiction

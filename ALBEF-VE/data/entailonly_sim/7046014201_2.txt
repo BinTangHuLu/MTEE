@@ -1,0 +1,3 @@
+there is a avenue ||entailment
+the operating is dancing ||contradiction
+the operating is dancing on street ||contradiction

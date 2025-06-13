@@ -1,0 +1,5 @@
+There is a athlete. ||neutral
+The athlete is lean. ||entailment
+The athlete is against. ||entailment
+The bar is his. ||contradiction
+The athlete leans against fence. ||entailment

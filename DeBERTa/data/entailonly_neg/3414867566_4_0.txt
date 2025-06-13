@@ -1,0 +1,2 @@
+There are not Gymnasts. ||contradiction
+The Gymnasts do not get ready for competition. ||contradiction

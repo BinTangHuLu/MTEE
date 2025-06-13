@@ -1,0 +1,5 @@
+There is not a guy. ||Contradiction
+There is not a gun. ||Contradiction
+There is not an animal. ||Contradiction
+The guy is not shooting a gun. ||Contradiction
+The shooting is not near the animal. ||Contradiction

@@ -1,0 +1,3 @@
+there is a male ||entailment
+there is something ||entailment
+the male is reading ||entailment

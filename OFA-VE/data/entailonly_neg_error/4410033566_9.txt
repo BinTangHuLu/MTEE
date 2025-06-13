@@ -1,0 +1,2 @@
+A,resting
+R,resting against

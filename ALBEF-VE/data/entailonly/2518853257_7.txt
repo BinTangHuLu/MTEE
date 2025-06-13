@@ -1,0 +1,8 @@
+there is a man ||entailment
+there is a woman ||entailment
+there are some lawn chairs ||entailment
+there are some books ||entailment
+the man is in lawn chairs ||entailment
+the woman is in lawn chairs ||entailment
+the man is reading books ||contradiction
+the woman is reading books ||contradiction

@@ -1,0 +1,6 @@
+there is a female ||entailment
+there is eyebrow ||entailment
+there is a acquaintance ||entailment
+the eyebrow is unusual ||entailment
+the female is with hair ||entailment
+the female is looking back at the friend ||neutral

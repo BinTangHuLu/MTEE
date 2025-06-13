@@ -1,0 +1,4 @@
+There is not someone. ||Contradiction
+There is not a shot. ||Contradiction
+There is not a football. ||Contradiction
+The someone is not holding the football. ||Entailment

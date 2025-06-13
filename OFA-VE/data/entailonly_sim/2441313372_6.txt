@@ -1,0 +1,5 @@
+There is a child. ||Entailment
+There is an branch. ||Contradiction
+The child is young. ||Entailment
+The branch is injured. ||Contradiction
+The child is with arm. ||Entailment

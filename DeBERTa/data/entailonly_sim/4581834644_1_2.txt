@@ -1,0 +1,4 @@
+There are community. ||entailment
+There is a bar. ||neutral
+The bar is outside. ||contradiction
+The community are eating at the table. ||entailment

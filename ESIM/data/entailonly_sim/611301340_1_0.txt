@@ -1,0 +1,3 @@
+There are community. ||entailment
+The community are orange. ||entailment
+The community are wearing orange. ||entailment

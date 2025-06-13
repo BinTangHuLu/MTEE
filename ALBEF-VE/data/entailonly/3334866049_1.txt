@@ -1,0 +1,3 @@
+there is a child ||entailment
+there is some snow ||entailment
+the child is in snow ||entailment

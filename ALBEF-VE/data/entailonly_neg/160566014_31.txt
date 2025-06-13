@@ -1,0 +1,6 @@
+there is not a man ||contradiction
+there is not a hand ||contradiction
+there is not a woman ||contradiction
+there is not a back ||contradiction
+the man does not have a hand ||contradiction
+the hand is not on the back ||entailment

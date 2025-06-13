@@ -1,0 +1,4 @@
+There is a girl. ||entailment
+There is a field. ||entailment
+The field is grassy. ||entailment
+The girl jumps in the field. ||entailment

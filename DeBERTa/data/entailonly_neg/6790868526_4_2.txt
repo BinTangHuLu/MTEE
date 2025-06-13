@@ -1,0 +1,4 @@
+There is not a woman. ||contradiction
+There is not a mouse. ||contradiction
+There is not a desk. ||contradiction
+The woman is not clicking on the mouse. ||contradiction

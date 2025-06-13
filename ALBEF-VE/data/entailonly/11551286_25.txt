@@ -1,0 +1,2 @@
+there is a toddler ||entailment
+the toddler is laughing ||entailment

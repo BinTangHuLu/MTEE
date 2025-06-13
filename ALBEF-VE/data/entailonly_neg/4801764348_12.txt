@@ -1,0 +1,3 @@
+there are not people ||contradiction
+the people are not sitting ||entailment
+the people are not waiting ||contradiction

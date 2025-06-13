@@ -1,0 +1,3 @@
+There is a Coca-Cola sign. ||Entailment
+There is a building. ||Entailment
+The Coca-Cola sign is on the building. ||Entailment

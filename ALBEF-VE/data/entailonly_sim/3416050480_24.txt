@@ -1,0 +1,5 @@
+there is a female ||entailment
+there is a colt ||entailment
+the colt is jumping ||entailment
+the female rides the horse ||entailment
+the colt jumps over the object ||entailment

@@ -1,0 +1,3 @@
+there is a pup ||entailment
+there is a bend ||entailment
+the pup takes chase after the duck ||neutral

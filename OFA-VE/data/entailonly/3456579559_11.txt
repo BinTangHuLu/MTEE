@@ -1,0 +1,3 @@
+There is a skateboarder. ||Entailment
+The skateboarder is airborne. ||Entailment
+The skateboarder goes airborne. ||Entailment

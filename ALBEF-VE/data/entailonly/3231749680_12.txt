@@ -1,0 +1,3 @@
+there are toddlers ||entailment
+there is a floor ||entailment
+the toddlers nap on the floor ||entailment

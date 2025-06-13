@@ -1,0 +1,3 @@
+A,colorful
+RE2,shop,market
+RE2,shop,market

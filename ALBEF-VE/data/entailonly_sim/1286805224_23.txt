@@ -1,0 +1,3 @@
+there is a female ||entailment
+the female is smiling ||entailment
+the female is smiling smiling ||entailment

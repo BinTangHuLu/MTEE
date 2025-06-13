@@ -1,0 +1,3 @@
+There is a man. ||entailment
+The man is older. ||entailment
+The man leans outside building. ||entailment

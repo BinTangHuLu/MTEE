@@ -1,0 +1,7 @@
+there is an officer ||entailment
+there is a motorcycle ||entailment
+there is a man ||entailment
+the man is in leather ||entailment
+the officer stands next to the motorcycle ||entailment
+the man is in leather ||entailment
+the officer is with the man ||entailment

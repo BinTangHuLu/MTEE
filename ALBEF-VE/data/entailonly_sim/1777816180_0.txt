@@ -1,0 +1,3 @@
+there is a child ||entailment
+there is a earth ||entailment
+the child balances on the rock ||neutral

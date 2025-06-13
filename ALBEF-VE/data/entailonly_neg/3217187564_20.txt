@@ -1,0 +1,3 @@
+there are not dogs ||contradiction
+there is not a dograce ||contradiction
+the dogs are not in dograce ||contradiction

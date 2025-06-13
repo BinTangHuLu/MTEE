@@ -1,0 +1,6 @@
+There is not a person. ||Contradiction
+There is not a sports. ||Contradiction
+There is not an outdoors. ||Contradiction
+The person is not playing sports. ||Contradiction
+The person is not playing sports. ||Contradiction
+The person is not playing outdoors. ||Contradiction

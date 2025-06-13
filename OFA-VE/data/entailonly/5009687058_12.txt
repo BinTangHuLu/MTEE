@@ -1,0 +1,4 @@
+There is a player. ||Entailment
+There is a football. ||Entailment
+There is a ball. ||Entailment
+The player blocks the ball. ||Entailment

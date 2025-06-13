@@ -1,0 +1,3 @@
+there are people ||entailment
+the people are fun ||neutral
+the people are having fun ||neutral

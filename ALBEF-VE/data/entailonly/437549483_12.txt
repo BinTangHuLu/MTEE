@@ -1,0 +1,3 @@
+there is a female ||entailment
+the female is practicing ||entailment
+the female is wearing no shoes ||entailment

@@ -1,0 +1,4 @@
+there is a dog ||entailment
+there is something ||entailment
+the something is in its mouth ||entailment
+the dog is running around with something ||entailment

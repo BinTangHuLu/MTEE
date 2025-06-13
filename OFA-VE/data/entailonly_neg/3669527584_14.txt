@@ -1,0 +1,5 @@
+There is not a woman. ||Contradiction
+There is not an attire. ||Contradiction
+The woman is not Indian. ||Entailment
+The attire is not cultural. ||Contradiction
+The woman is not wearing attire. ||Contradiction

@@ -1,0 +1,3 @@
+There is not a woman. ||Contradiction
+The woman is not two. ||Entailment
+The woman is not looking. ||Entailment

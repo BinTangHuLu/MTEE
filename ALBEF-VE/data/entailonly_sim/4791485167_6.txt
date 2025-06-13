@@ -1,0 +1,3 @@
+there is a dude ||entailment
+there is some drilling ||entailment
+the dude is digging ||entailment

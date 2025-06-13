@@ -1,0 +1,2 @@
+there is a chair ||entailment
+the asians are sitting on the chair ||entailment

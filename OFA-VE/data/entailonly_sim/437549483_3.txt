@@ -1,0 +1,4 @@
+There is a childbearing. ||Contradiction
+There is a mannerism. ||Entailment
+The childbearing is dark-skinned. ||Neutral
+The childbearing is in pose. ||Neutral

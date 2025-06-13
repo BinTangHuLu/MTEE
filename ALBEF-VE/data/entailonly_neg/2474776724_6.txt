@@ -1,0 +1,3 @@
+there are not players ||contradiction
+there are not female ||contradiction
+the players are not interacting with female ||contradiction

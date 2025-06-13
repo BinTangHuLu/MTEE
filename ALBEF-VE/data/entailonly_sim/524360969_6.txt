@@ -1,0 +1,6 @@
+there are band ||contradiction
+there is a artery ||entailment
+there are documentation ||entailment
+the documentation are stop ||neutral
+the band are in road ||contradiction
+the band are holding signs ||contradiction

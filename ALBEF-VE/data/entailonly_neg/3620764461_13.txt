@@ -1,0 +1,3 @@
+there are not children ||contradiction
+there is not a floor ||contradiction
+the children are not on the floor ||entailment

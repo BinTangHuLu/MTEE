@@ -1,0 +1,3 @@
+There is a performer. ||entailment
+There is an apprentice. ||entailment
+The performer is working with the apprentice. ||entailment

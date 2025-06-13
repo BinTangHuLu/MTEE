@@ -1,0 +1,3 @@
+there are women ||entailment
+the women are standing ||entailment
+the women are looking at something ||entailment

@@ -1,0 +1,2 @@
+There is not a dog. ||Contradiction
+The dog does not jump. ||Contradiction

@@ -1,0 +1,5 @@
+there are kids ||entailment
+there are bubbles ||entailment
+there is a beach ||entailment
+the kids are blowing bubbles ||entailment
+the bubbles are at the beach ||neutral

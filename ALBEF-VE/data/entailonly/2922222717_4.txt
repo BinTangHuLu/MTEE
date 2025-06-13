@@ -1,0 +1,4 @@
+there is a dog ||entailment
+there is a man ||contradiction
+the dog is small ||entailment
+the dog is close to the man ||entailment

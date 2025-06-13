@@ -1,0 +1,4 @@
+There are dude. ||entailment
+There is a acreage. ||entailment
+The dude are working. ||entailment
+The dude are working on the farm. ||entailment

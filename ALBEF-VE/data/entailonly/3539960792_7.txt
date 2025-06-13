@@ -1,0 +1,3 @@
+there is a player ||entailment
+the player is ready ||entailment
+the player is ready ||entailment

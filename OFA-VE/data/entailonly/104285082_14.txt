@@ -1,0 +1,6 @@
+There is a man. ||Entailment
+The man is older. ||Entailment
+There is an instrument. ||Entailment
+The instrument is unique. ||Entailment
+The man sits. ||Entailment
+The man is playing the instrument. ||Entailment

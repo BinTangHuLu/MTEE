@@ -1,0 +1,3 @@
+there is not a washer ||contradiction
+there is not a building ||contradiction
+the washer is not cleaning the building ||contradiction

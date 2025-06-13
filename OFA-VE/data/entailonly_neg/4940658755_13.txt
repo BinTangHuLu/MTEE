@@ -1,0 +1,4 @@
+There is not a person. ||Entailment
+There is not a store. ||Entailment
+The person is not elderly. ||Entailment
+The person is not in front of the store. ||Entailment

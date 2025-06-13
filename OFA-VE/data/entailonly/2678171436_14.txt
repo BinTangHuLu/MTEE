@@ -1,0 +1,5 @@
+There is a human. ||Entailment
+There is a tree. ||Entailment
+There is a piece. ||Entailment
+The human holds the piece. ||Entailment
+The piece is of the tree. ||Neutral

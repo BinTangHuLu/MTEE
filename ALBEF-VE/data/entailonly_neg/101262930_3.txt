@@ -1,0 +1,7 @@
+there is not a man ||contradiction
+there is not an arm ||contradiction
+there is not a woman ||contradiction
+there are not sunglasses ||contradiction
+the man does not put arm ||contradiction
+the arm is not around woman ||contradiction
+the sunglasses are not wearing ||neutral

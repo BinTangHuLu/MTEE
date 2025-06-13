@@ -1,0 +1,3 @@
+there is a girl ||entailment
+there is a swing ||entailment
+the girl is sitting on the swing ||entailment

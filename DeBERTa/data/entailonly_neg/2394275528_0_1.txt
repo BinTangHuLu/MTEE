@@ -1,0 +1,5 @@
+There is not a girl. ||contradiction
+There is not a swing. ||contradiction
+The girl is not rather high. ||contradiction
+The swing does not have blue ropes. ||contradiction
+The girl is not swinging with the swing. ||contradiction

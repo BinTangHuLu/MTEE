@@ -1,0 +1,7 @@
+There is a circle. ||entailment
+There are some community. ||entailment
+The circle is taking a picture. ||neutral
+The community are taking a picture. ||entailment
+The people are taking a account. ||contradiction
+The community are taking a picture. ||entailment
+The community are taking a picture. ||entailment

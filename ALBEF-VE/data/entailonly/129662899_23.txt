@@ -1,0 +1,10 @@
+there is a man ||entailment
+there are sunglasses ||entailment
+there are coveralls ||entailment
+there is a hat ||entailment
+there is a rope ||entailment
+there is a spool ||entailment
+the coveralls are peach ||contradiction
+the hat is red ||neutral
+the man stands by the rope ||entailment
+the rope is on the spool ||entailment

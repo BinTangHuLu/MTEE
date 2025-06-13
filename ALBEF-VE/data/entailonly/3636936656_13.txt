@@ -1,0 +1,4 @@
+there is a woman ||entailment
+there is a hat ||entailment
+the hat is fuzzy ||entailment
+the woman wears the hat ||entailment

@@ -1,0 +1,5 @@
+There is not a woman. ||contradiction
+There is not a wrap. ||contradiction
+The wrap is not striped. ||contradiction
+The woman is not wearing the wrap. ||contradiction
+The woman is not looking at the camera. ||contradiction

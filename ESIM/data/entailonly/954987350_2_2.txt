@@ -1,0 +1,7 @@
+There is a woman. ||entailment
+There is a tank top. ||entailment
+There is a mug. ||entailment
+The woman is pink. ||neutral
+The woman is holding. ||entailment
+The tank top is pink. ||entailment
+The mug is holding. ||entailment

@@ -1,0 +1,5 @@
+There are not boys. ||contradiction
+There is not a bag. ||contradiction
+The boys are not walking together with the bag. ||contradiction
+The boys are not Two. ||contradiction
+The bag is not carrying. ||contradiction

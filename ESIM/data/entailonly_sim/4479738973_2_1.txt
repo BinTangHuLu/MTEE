@@ -1,0 +1,4 @@
+There are freight. ||entailment
+There is a avenue. ||entailment
+The freight are going down the street. ||neutral
+The freight are going down Thailand. ||neutral

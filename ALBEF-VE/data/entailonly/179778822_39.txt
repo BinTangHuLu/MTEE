@@ -1,0 +1,8 @@
+there is a woman ||entailment
+there is a shirt ||entailment
+there are shorts ||entailment
+there is a girl ||entailment
+the shirt is yellow ||entailment
+the shorts are red ||entailment
+the girl is young ||entailment
+the woman is standing next to the girl ||entailment

@@ -1,0 +1,2 @@
+There is a group. ||entailment
+The group is hiking. ||neutral

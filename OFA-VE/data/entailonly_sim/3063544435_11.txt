@@ -1,0 +1,3 @@
+There is a association. ||Entailment
+There are some community. ||Neutral
+The association and people are rowing. ||Neutral

@@ -1,0 +1,3 @@
+There is a animal. ||Entailment
+There is a bluff. ||Entailment
+The animal goes off hill. ||Contradiction

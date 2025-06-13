@@ -1,0 +1,5 @@
+there is a woman ||entailment
+there is an attire ||entailment
+the woman is indian ||entailment
+the attire is cultural ||entailment
+the woman is wearing attire ||entailment

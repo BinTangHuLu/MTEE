@@ -1,0 +1,6 @@
+There is a girl. ||entailment
+The girl is happily. ||entailment
+There is equipment. ||entailment
+There is a playground. ||entailment
+The girl uses equipment. ||entailment
+The equipment is at the playground. ||neutral

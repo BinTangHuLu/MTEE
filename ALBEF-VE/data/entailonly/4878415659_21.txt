@@ -1,0 +1,8 @@
+there is a toddler ||entailment
+there are boots ||entailment
+there is a hat ||entailment
+there is a coat ||entailment
+the coat is orange sashed blue ||entailment
+the toddler is wearing boots ||entailment
+the toddler is wearing a hat ||entailment
+the toddler is wearing a coat ||entailment

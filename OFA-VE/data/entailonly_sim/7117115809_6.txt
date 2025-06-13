@@ -1,0 +1,2 @@
+There is a beat. ||Contradiction
+Someone is wearing a beat. ||Entailment

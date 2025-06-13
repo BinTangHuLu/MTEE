@@ -1,0 +1,3 @@
+there is a mechanic ||entailment
+there is a truck ||entailment
+the mechanic is under the truck ||entailment

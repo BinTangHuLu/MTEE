@@ -1,0 +1,4 @@
+There is not a child. ||Contradiction
+There is not a moped. ||Contradiction
+The child does not know what. ||Neutral
+The moped is not called. ||Contradiction

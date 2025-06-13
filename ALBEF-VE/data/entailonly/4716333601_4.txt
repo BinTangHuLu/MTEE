@@ -1,0 +1,6 @@
+there is a woman ||entailment
+there is a shirt ||entailment
+there are glasses ||neutral
+the shirt is striped ||entailment
+the woman is in the shirt ||contradiction
+the woman is in the glasses ||contradiction

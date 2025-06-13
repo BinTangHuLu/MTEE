@@ -1,0 +1,3 @@
+RE2,is wearing,sunglasses
+A,yellow
+R,is driving

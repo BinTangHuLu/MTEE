@@ -1,0 +1,2 @@
+There are men. ||entailment
+There are outdoors. ||entailment

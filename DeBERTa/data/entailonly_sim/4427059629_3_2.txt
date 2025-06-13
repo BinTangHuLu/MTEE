@@ -1,0 +1,4 @@
+There is a bronco. ||entailment
+There is a colt. ||entailment
+The bronco is riding the bronco. ||contradiction
+The bronco is riding outside. ||entailment

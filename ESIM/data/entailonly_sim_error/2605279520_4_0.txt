@@ -1,0 +1,3 @@
+EA,dance floor,decorated with bamboo
+RE2,on,dance floor
+A,group

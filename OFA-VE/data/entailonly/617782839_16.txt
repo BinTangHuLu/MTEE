@@ -1,0 +1,4 @@
+There is a person. ||Entailment
+There is a projectile. ||Entailment
+There is a place. ||Entailment
+The person is trying to move the projectile. ||Entailment

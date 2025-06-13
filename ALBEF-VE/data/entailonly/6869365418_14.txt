@@ -1,0 +1,4 @@
+there are children ||entailment
+there is a group ||entailment
+the children laugh ||entailment
+the children play ||entailment

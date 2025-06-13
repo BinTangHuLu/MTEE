@@ -1,0 +1,5 @@
+There is a boy. ||entailment
+There is an age. ||entailment
+The boy is younger. ||neutral
+The age is ten. ||neutral
+The boy is younger than age. ||entailment

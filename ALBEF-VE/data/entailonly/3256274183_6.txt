@@ -1,0 +1,5 @@
+there is a man ||entailment
+there are some clothes ||entailment
+the clothes are military ||entailment
+the man is dressed in clothes ||entailment
+the man is helping a man ||entailment

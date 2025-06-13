@@ -1,0 +1,4 @@
+there is a man ||entailment
+there is a group ||entailment
+there are people ||entailment
+the man works outside in front of the group ||entailment

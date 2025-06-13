@@ -1,0 +1,3 @@
+There is a baby. ||entailment
+The baby is having a good time. ||entailment
+The baby is cracking up. ||neutral

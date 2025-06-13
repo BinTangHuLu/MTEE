@@ -1,0 +1,4 @@
+There is a group. ||Entailment
+There are some people. ||Entailment
+There are some boats. ||Entailment
+The group is near boats. ||Entailment

@@ -1,0 +1,8 @@
+there is a golfer ||entailment
+there is a jacket ||entailment
+there are pants ||entailment
+there is a club ||entailment
+the jacket wears ||entailment
+the golfer wears the jacket ||entailment
+the golfer wears the pants ||neutral
+the golfer is swinging the club ||entailment

@@ -1,0 +1,3 @@
+There is not a group. ||contradiction
+There is not something. ||contradiction
+The group is doing something not together. ||contradiction

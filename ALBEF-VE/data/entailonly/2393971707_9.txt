@@ -1,0 +1,3 @@
+there are people ||entailment
+there are steps ||entailment
+people walk down steps ||entailment

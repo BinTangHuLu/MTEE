@@ -1,0 +1,2 @@
+There is a bar. ||neutral
+The kids are staring at the bar. ||contradiction

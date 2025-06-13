@@ -1,0 +1,3 @@
+there is a employee ||entailment
+the employee is construction ||neutral
+the employee is posing worker ||neutral

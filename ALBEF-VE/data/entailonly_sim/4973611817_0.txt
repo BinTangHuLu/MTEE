@@ -1,0 +1,3 @@
+there is a constable ||entailment
+there is a activity ||entailment
+the constable is on job ||entailment

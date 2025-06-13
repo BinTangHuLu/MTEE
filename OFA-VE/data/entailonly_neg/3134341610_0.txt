@@ -1,0 +1,4 @@
+There is not a woman. ||Contradiction
+There is not an event. ||Contradiction
+The event is not Santa. ||Contradiction
+The woman is not at the event. ||Contradiction

@@ -1,0 +1,5 @@
+There are boy. ||Entailment
+There is barley. ||Contradiction
+The boy are some. ||Entailment
+The barley is some. ||Contradiction
+The boy are having a good time. ||Entailment

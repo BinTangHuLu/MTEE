@@ -1,0 +1,4 @@
+There is a rock. ||Entailment
+There are people. ||Entailment
+The rock is big. ||Entailment
+The people are climbing the rock. ||Entailment

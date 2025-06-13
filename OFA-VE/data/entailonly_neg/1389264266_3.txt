@@ -1,0 +1,5 @@
+There are not girls. ||Contradiction
+The girls are not different. ||Entailment
+There are not outfits. ||Contradiction
+The outfits are not different. ||Entailment
+The girls are not facing each other. ||Entailment

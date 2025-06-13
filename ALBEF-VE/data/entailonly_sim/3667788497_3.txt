@@ -1,0 +1,5 @@
+there are community ||neutral
+there is a child ||entailment
+there is an aircraft ||entailment
+the community watch the boy ||neutral
+the child touches the airplane ||entailment

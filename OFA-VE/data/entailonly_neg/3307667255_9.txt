@@ -1,0 +1,5 @@
+There is not a crowd. ||Entailment
+There is not a scene. ||Contradiction
+There is not a building. ||Contradiction
+The building is not religious. ||Contradiction
+The scene is not in front of the building. ||Entailment

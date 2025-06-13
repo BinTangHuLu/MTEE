@@ -1,0 +1,5 @@
+The Musicians have their apparatus. ||entailment
+The apparatus are their. ||entailment
+There is a locale. ||entailment
+The Musicians are playing their apparatus. ||entailment
+The Musicians are playing at the locale. ||entailment

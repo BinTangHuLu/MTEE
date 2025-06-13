@@ -1,0 +1,5 @@
+there are community ||entailment
+there is a agreeable ||entailment
+the agreeable is playing ||entailment
+community are playing the game ||entailment
+the agreeable is outside ||entailment

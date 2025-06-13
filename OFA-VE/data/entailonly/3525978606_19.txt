@@ -1,0 +1,3 @@
+There is a girl. ||Entailment
+There is a dress. ||Entailment
+The dress is red. ||Entailment

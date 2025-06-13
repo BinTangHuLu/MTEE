@@ -1,0 +1,4 @@
+there is a woman ||entailment
+there is a couch ||entailment
+the woman is reading ||entailment
+the woman is on the couch ||entailment

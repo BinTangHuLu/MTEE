@@ -1,0 +1,9 @@
+there are not men ||contradiction
+there is not safety gear ||contradiction
+there is not a pole ||contradiction
+there are not stripes ||contradiction
+the safety gear is not orange ||contradiction
+the men are not dressed in orange safety gear ||contradiction
+the men are not holding a pole ||contradiction
+the men are not wearing stripes ||contradiction
+the men do not stand together ||contradiction

@@ -1,0 +1,3 @@
+there are automation ||entailment
+there are community ||entailment
+the automation are being used by people ||entailment

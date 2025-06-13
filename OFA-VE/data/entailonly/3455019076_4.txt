@@ -1,0 +1,4 @@
+There is a woman. ||Entailment
+There is a bike. ||Entailment
+The woman is getting ready. ||Neutral
+The woman is getting ready for the bike. ||Entailment

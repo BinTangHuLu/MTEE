@@ -1,0 +1,3 @@
+there are not people ||contradiction
+there is not a duet ||contradiction
+the people are not singing a duet ||contradiction

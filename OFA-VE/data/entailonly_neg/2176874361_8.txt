@@ -1,0 +1,3 @@
+There are not Animals. ||Contradiction
+There is not a fence. ||Contradiction
+The Animals are not inside of the fence. ||Entailment

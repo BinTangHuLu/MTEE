@@ -1,0 +1,7 @@
+There is a woman. ||entailment
+There are some clippers. ||entailment
+The woman is holding. ||entailment
+The clippers are some. ||entailment
+The woman is her. ||neutral
+The woman is holding clippers. ||entailment
+The woman is holding in hand. ||neutral

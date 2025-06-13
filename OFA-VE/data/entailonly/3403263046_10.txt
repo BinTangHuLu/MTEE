@@ -1,0 +1,6 @@
+There is an athlete. ||Entailment
+There is a uniform. ||Entailment
+There is a ball. ||Entailment
+The uniform is red. ||Entailment
+The athlete is in uniform. ||Entailment
+The athlete handles the ball. ||Entailment

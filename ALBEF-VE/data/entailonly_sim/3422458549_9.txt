@@ -1,0 +1,4 @@
+there is a female ||entailment
+the female is black ||entailment
+the female is wearing orange ||entailment
+the female is playing tennis ||entailment

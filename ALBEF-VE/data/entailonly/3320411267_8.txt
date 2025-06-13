@@ -1,0 +1,4 @@
+there is a woman ||entailment
+there is some equipment ||entailment
+the equipment is safety ||neutral
+the woman is wearing equipment ||entailment

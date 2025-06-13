@@ -1,0 +1,5 @@
+there is a man ||entailment
+there is a beard ||entailment
+the man is young ||contradiction
+the beard is white ||entailment
+the man is with beard ||entailment

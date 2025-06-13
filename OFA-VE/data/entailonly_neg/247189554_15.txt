@@ -1,0 +1,5 @@
+There is not a man. ||Contradiction
+There is not an arm. ||Entailment
+There is not a chair. ||Entailment
+The man does not have one arm. ||Entailment
+The man does not sit in the chair. ||Contradiction

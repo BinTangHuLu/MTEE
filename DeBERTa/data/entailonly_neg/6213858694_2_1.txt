@@ -1,0 +1,5 @@
+There are not competitors. ||contradiction
+There are not teammates. ||contradiction
+There is not a referee. ||contradiction
+The competitors are not near teammates. ||contradiction
+The competitors are not near the referee. ||contradiction

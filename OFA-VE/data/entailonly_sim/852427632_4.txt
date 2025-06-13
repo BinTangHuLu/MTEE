@@ -1,0 +1,5 @@
+There is a female. ||Entailment
+There is a fedora. ||Neutral
+There is a bronco. ||Entailment
+There is a colt. ||Entailment
+The female is riding the horse. ||Entailment

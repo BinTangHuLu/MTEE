@@ -1,0 +1,3 @@
+There are dude. ||entailment
+There is daily. ||entailment
+The dude read paper. ||entailment

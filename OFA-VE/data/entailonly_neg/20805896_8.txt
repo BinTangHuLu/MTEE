@@ -1,0 +1,3 @@
+There are not men. ||Contradiction
+The men are bothnot . ||Contradiction
+The men are not sitting indoors. ||Entailment

@@ -1,0 +1,6 @@
+there are dude ||entailment
+there is a breakfast ||neutral
+the dude are two ||neutral
+the dude cook the meal ||contradiction
+the breakfast is for others ||neutral
+the breakfast is outside in winter ||entailment

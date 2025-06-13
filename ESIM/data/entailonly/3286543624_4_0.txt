@@ -1,0 +1,4 @@
+There is something. ||entailment
+There is a woman. ||entailment
+Something happened to the woman. ||entailment
+Something surprised the woman. ||entailment

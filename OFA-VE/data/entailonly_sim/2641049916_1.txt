@@ -1,0 +1,4 @@
+There is a child. ||Entailment
+There is some acrylic. ||Contradiction
+The acrylic is on the face. ||Neutral
+The child has paint. ||Entailment

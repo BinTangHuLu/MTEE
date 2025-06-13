@@ -1,0 +1,3 @@
+There is a family. ||entailment
+There is a house. ||entailment
+The family is sitting together in the house. ||neutral

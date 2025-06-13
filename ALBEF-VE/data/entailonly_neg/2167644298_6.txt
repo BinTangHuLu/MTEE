@@ -1,0 +1,6 @@
+there is not a man ||contradiction
+there is not a hat ||contradiction
+there is not a wall ||contradiction
+the hat is not black ||contradiction
+the man is not with the hat ||contradiction
+the man is not standing next to the wall ||contradiction

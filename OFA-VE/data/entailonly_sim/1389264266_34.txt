@@ -1,0 +1,3 @@
+There are adolescent. ||Entailment
+The adolescent are similar. ||Entailment
+The adolescent are with styles. ||Entailment

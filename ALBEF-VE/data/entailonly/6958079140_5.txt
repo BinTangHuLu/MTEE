@@ -1,0 +1,3 @@
+there is a man ||entailment
+there is a gun ||entailment
+the man is preparing to shoot the gun ||entailment

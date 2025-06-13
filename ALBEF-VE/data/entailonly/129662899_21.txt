@@ -1,0 +1,6 @@
+there is a man ||entailment
+there are sunglasses ||entailment
+there is a spool ||entailment
+the spool is large ||neutral
+the man is wearing sunglasses ||neutral
+the man is standing near the spool ||entailment

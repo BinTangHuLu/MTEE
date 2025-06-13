@@ -1,0 +1,6 @@
+there is a gentleman ||entailment
+there is some music ||entailment
+there is a guitar ||entailment
+the gentleman is bearded ||entailment
+the gentleman creates music ||entailment
+the gentleman is with guitar ||entailment

@@ -1,0 +1,4 @@
+there is a boy ||entailment
+there is a statue ||entailment
+the boy is little ||entailment
+the boy is looking at the statue ||entailment

@@ -1,0 +1,4 @@
+There is a man. ||Entailment
+There is some woodwork. ||Entailment
+The man is doing woodwork. ||Entailment
+The man is doing woodwork. ||Entailment

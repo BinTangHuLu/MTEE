@@ -1,0 +1,4 @@
+there is a dude ||contradiction
+there is a female ||entailment
+the female is nice looking ||entailment
+the dude is hanging out with the woman ||entailment

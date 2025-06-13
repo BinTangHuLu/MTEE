@@ -1,0 +1,5 @@
+there is a boy ||entailment
+there are some trunks ||entailment
+there is a pool ||entailment
+the boy is in trunks ||entailment
+the boy jumps into the pool ||entailment

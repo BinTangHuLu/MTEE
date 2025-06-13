@@ -1,0 +1,4 @@
+there is a janitor ||entailment
+there is a day ||entailment
+the day is outdoors ||entailment
+the janitor is seen working in day ||entailment

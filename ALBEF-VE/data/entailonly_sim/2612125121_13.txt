@@ -1,0 +1,3 @@
+there is a baby ||entailment
+there is a account ||entailment
+the baby sits for portrait ||neutral

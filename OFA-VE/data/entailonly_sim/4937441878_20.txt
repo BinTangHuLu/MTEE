@@ -1,0 +1,3 @@
+There is a body. ||Entailment
+There is a automobile. ||Entailment
+The body is in the vehicle. ||Entailment

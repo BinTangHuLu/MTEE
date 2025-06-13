@@ -1,0 +1,4 @@
+There is not a male. ||contradiction
+The sign is not horizontal. ||entailment
+The sign is not made. ||contradiction
+The male does not use paint. ||contradiction

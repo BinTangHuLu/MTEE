@@ -1,0 +1,4 @@
+there is drink ||entailment
+there is a dusk ||entailment
+the drink is turbulent ||neutral
+the drink is at sunset ||entailment

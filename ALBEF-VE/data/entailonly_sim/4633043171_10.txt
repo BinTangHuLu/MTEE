@@ -1,0 +1,3 @@
+there is a dude ||entailment
+there is a bus bar ||entailment
+the dude is sitting by the bus stop ||entailment

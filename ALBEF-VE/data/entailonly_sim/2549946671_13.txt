@@ -1,0 +1,4 @@
+there is a child ||entailment
+there is a call up ||neutral
+the child is young ||entailment
+the child holds the phone ||entailment

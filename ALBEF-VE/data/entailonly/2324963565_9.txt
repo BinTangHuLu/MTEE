@@ -1,0 +1,3 @@
+there are candy bars ||entailment
+there is a womans head ||entailment
+the candy bars are above the womans head ||entailment

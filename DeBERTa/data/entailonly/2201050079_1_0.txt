@@ -1,0 +1,7 @@
+There is an employee. ||entailment
+There is a construction. ||entailment
+There is a road. ||entailment
+The employee is in the city. ||neutral
+The road is public. ||entailment
+The employee inspects construction. ||neutral
+The employee inspects the road. ||neutral

@@ -1,0 +1,3 @@
+there are teenagers ||entailment
+there is a porch ||entailment
+the teenagers sit on the porch ||contradiction

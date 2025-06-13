@@ -1,0 +1,7 @@
+there is a man ||entailment
+there are people ||entailment
+there is something ||entailment
+the people are two ||neutral
+the man is with people ||neutral
+the man hangs something ||entailment
+something is inside ||entailment

@@ -1,0 +1,5 @@
+There is a dude. ||entailment
+The dude is smiling. ||entailment
+The dude is with a drill. ||entailment
+The beacon is red. ||contradiction
+The dude holds the lantern. ||entailment

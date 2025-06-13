@@ -1,0 +1,2 @@
+There is a camcorder. ||Contradiction
+Someone is using the camcorder. ||Contradiction

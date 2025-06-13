@@ -1,0 +1,5 @@
+there is a player ||entailment
+there is a football ||entailment
+there are opponents ||entailment
+the player is running with the football ||neutral
+the opponents chase after the player ||entailment

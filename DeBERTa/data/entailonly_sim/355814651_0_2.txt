@@ -1,0 +1,4 @@
+There are child. ||entailment
+There are two child. ||contradiction
+The child are walking. ||contradiction
+The child are outdoors. ||entailment

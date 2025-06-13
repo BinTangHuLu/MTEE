@@ -1,0 +1,4 @@
+There is a dude. ||entailment
+There is a alp. ||entailment
+The dude is rugged. ||neutral
+The dude sits atop mountain. ||entailment

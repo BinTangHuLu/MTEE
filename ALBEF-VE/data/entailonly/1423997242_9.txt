@@ -1,0 +1,4 @@
+there is a man ||entailment
+there is a backpack ||entailment
+the backpack is with ||neutral
+the man takes a rest ||entailment

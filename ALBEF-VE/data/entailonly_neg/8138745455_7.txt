@@ -1,0 +1,5 @@
+there are not people ||contradiction
+there is not a game ||contradiction
+there is not a building ||contradiction
+the people are not playing the game ||contradiction
+the game is not outside the building ||entailment

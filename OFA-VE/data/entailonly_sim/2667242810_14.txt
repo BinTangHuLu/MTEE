@@ -1,0 +1,4 @@
+There are community. ||Entailment
+There is a bar. ||Entailment
+The community are total. ||Entailment
+The community are near the table. ||Entailment

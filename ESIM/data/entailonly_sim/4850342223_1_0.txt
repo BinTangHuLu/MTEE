@@ -1,0 +1,5 @@
+There is a female. ||entailment
+There is a air. ||entailment
+The female is her. ||entailment
+The air is part. ||neutral
+The female covers face. ||neutral

@@ -1,0 +1,7 @@
+there is a female ||entailment
+there is a costume ||entailment
+there is an boundary ||entailment
+there is a basin ||entailment
+the basin is in ground ||neutral
+the female is holding onto the edge ||entailment
+the boundary is of the pool ||entailment

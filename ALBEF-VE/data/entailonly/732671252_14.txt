@@ -1,0 +1,3 @@
+there are boys ||entailment
+there is a trampoline ||entailment
+the boys are talking on the trampoline ||neutral

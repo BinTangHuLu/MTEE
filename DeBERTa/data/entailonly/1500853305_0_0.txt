@@ -1,0 +1,3 @@
+There are children. ||entailment
+There are woods. ||entailment
+The children hug in the woods. ||entailment

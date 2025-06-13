@@ -1,0 +1,4 @@
+there is a girl ||entailment
+there is a racket ||entailment
+the girl is asian ||entailment
+the girl is using the racket ||entailment

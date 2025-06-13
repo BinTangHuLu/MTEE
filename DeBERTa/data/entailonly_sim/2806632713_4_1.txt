@@ -1,0 +1,5 @@
+There is a body. ||entailment
+There is some atmosphere. ||entailment
+There is a drive. ||contradiction
+The body is thrown into air. ||entailment
+The body is thrown into air by ride. ||entailment

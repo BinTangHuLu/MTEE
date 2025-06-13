@@ -1,0 +1,3 @@
+there is a woman ||entailment
+there are hats ||entailment
+the woman is carrying hats ||neutral

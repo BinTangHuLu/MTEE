@@ -1,0 +1,6 @@
+there is someone ||entailment
+there is ground ||entailment
+there is a soccer match ||entailment
+someone is hurt ||neutral
+someone is hurt on ground ||neutral
+someone is in the middle of soccer match ||entailment

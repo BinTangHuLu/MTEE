@@ -1,0 +1,4 @@
+there is a lady ||entailment
+there is a cat ||entailment
+the lady is elderly ||neutral
+the lady has a cat ||entailment

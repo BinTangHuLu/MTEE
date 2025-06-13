@@ -1,0 +1,3 @@
+EA,bag,pink
+E1R,Lady,with
+E1RE2,Lady,with,bag

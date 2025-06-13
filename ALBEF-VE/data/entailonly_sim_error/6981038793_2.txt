@@ -1,0 +1,2 @@
+EA,pants,orange
+RE2,in,pants

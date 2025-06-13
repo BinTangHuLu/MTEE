@@ -1,0 +1,4 @@
+there is a teen ||entailment
+there is a skateboard ||entailment
+the teen is teen ||neutral
+the teen waits skateboard ||entailment

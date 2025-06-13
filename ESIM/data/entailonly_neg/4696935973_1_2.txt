@@ -1,0 +1,5 @@
+There is not a camera. ||contradiction
+There is not a track. ||contradiction
+There is not a girl. ||contradiction
+The camera is not being lowered onto the track. ||contradiction
+The girl is not in black pants. ||contradiction

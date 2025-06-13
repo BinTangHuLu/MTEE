@@ -1,0 +1,6 @@
+there is a boy ||entailment
+there is a shirt ||entailment
+there is a bow ||entailment
+the shirt is red ||neutral
+the boy is with the shirt ||neutral
+the boy wields the bow ||entailment

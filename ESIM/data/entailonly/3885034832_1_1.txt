@@ -1,0 +1,4 @@
+There is a photographer. ||entailment
+There is a rider. ||entailment
+There is a bike. ||entailment
+The photographer has angered the rider. ||entailment

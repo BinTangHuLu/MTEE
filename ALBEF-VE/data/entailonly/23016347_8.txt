@@ -1,0 +1,3 @@
+there is a player ||entailment
+there is a racket ||entailment
+the player is holding the racket ||entailment

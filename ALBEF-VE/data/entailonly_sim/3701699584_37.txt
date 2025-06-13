@@ -1,0 +1,3 @@
+there is a athlete ||entailment
+the athlete is tennis ||entailment
+the athlete is playing tennis ||entailment

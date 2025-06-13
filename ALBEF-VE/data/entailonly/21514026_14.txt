@@ -1,0 +1,4 @@
+there is a woman ||entailment
+there is a cafe ||entailment
+there is coffee ||entailment
+the woman stands with the coffee ||entailment

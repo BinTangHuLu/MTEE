@@ -1,0 +1,6 @@
+there is a dude ||entailment
+there is a female ||entailment
+there is a caravan ||neutral
+the dude and woman are on the train ||entailment
+the dude is on the train ||entailment
+the female is on the train ||entailment

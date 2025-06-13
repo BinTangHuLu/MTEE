@@ -1,0 +1,3 @@
+there are adolescent ||entailment
+there is a agreeable ||entailment
+the agreeable is volleyball ||entailment

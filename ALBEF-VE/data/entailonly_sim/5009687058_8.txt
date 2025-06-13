@@ -1,0 +1,6 @@
+there are list ||neutral
+there is a soccer ||contradiction
+there is a begin ||entailment
+there is a agreeable ||entailment
+the list make a tackle ||entailment
+the begin is during the game ||entailment

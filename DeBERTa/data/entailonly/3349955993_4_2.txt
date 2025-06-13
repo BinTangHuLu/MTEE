@@ -1,0 +1,6 @@
+There is a group. ||entailment
+There are boys. ||entailment
+There is soccer. ||entailment
+There is a street. ||entailment
+The boys are playing soccer. ||entailment
+The boys are in the street. ||entailment

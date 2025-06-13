@@ -1,0 +1,3 @@
+There are dude. ||entailment
+There is apparatus. ||entailment
+The dude are near equipment. ||entailment

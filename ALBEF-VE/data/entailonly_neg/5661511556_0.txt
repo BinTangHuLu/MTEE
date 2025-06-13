@@ -1,0 +1,4 @@
+there is not a boy ||contradiction
+there is not a board ||contradiction
+the board is not wooden ||contradiction
+the boy is not being over board ||contradiction

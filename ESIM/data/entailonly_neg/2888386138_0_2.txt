@@ -1,0 +1,3 @@
+There is not a kid. ||contradiction
+The kid is not young. ||neutral
+The kid is not smiling. ||contradiction

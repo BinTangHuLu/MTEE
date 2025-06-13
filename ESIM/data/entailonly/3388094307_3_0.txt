@@ -1,0 +1,4 @@
+There is an outfit. ||entailment
+The outfit is white. ||entailment
+There are women. ||entailment
+The women are playing tennis. ||entailment

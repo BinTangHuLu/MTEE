@@ -1,0 +1,4 @@
+there is a auto ||entailment
+there is a avenue ||entailment
+the auto is red ||entailment
+the auto traveled down street ||entailment

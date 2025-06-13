@@ -1,0 +1,7 @@
+there is not a male ||contradiction
+there are not some males ||contradiction
+the male is not two other ||entailment
+the males are not young ||entailment
+the male does not have males ||contradiction
+the males are not with male ||contradiction
+the male is not looking at male ||contradiction

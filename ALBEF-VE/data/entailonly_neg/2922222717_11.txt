@@ -1,0 +1,2 @@
+there is not a dog ||contradiction
+the dog is not small ||contradiction

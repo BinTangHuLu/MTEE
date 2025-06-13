@@ -1,0 +1,7 @@
+there is a trampoline ||entailment
+there is a boy ||entailment
+there is a dog ||entailment
+the boy looks at the dog ||entailment
+the boy is standing ||entailment
+the boy is standing on the trampoline ||entailment
+the trampoline is outside ||neutral

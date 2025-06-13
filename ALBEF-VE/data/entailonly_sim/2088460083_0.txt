@@ -1,0 +1,2 @@
+there is a automobile ||entailment
+the automobile has not been taken care of ||contradiction

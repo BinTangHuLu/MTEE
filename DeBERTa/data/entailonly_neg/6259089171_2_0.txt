@@ -1,0 +1,3 @@
+There is not a gentleman. ||contradiction
+The gentleman does not have no chest hair. ||entailment
+The gentleman does not wrangle his way through toilet seat. ||contradiction

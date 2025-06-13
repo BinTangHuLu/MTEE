@@ -1,0 +1,5 @@
+There is a woman. ||entailment
+There is a portrait. ||entailment
+There is a person. ||entailment
+The woman paints the portrait. ||entailment
+The portrait is of the person. ||entailment

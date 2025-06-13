@@ -1,0 +1,4 @@
+There is not a dog. ||Contradiction
+There is not a ball. ||Entailment
+The ball is not moving. ||Contradiction
+The dog does not run after the ball. ||Entailment

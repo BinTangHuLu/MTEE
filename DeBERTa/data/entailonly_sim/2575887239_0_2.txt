@@ -1,0 +1,5 @@
+There is a child. ||contradiction
+There is a conspiracy. ||contradiction
+There is drink. ||entailment
+The child is doing a trick. ||contradiction
+The conspiracy is by water. ||contradiction

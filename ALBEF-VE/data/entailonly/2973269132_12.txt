@@ -1,0 +1,2 @@
+there is a lioness ||entailment
+the lioness is preying ||neutral

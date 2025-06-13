@@ -1,0 +1,2 @@
+There is a church. ||Entailment
+The church is not simple. ||Entailment

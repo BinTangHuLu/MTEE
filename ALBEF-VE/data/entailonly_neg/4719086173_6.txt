@@ -1,0 +1,4 @@
+there are not females ||contradiction
+there are not suits ||contradiction
+the suits are not wearing ||neutral
+the females are not wearing suits ||contradiction

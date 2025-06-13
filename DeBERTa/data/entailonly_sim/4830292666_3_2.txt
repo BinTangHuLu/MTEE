@@ -1,0 +1,4 @@
+There is a animal. ||contradiction
+There is a architecture. ||entailment
+The animal is single. ||contradiction
+The animal is outside in front of the building. ||contradiction

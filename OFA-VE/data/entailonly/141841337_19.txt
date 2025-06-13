@@ -1,0 +1,4 @@
+There is a boy. ||Entailment
+There is a shirt. ||Entailment
+The shirt is grey. ||Neutral
+The boy is flexible. ||Entailment

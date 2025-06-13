@@ -1,0 +1,3 @@
+There is a old man. ||neutral
+There is a baby. ||entailment
+The old man is with the child. ||neutral

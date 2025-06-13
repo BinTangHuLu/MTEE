@@ -1,0 +1,3 @@
+EA,hat,wearing
+R,sitting against
+A,food

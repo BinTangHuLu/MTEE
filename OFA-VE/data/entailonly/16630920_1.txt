@@ -1,0 +1,4 @@
+There is a man. ||Entailment
+The man is sitting. ||Entailment
+There is outdoors. ||Entailment
+The man is sitting outdoors. ||Entailment

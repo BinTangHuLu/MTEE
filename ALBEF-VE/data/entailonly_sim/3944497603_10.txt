@@ -1,0 +1,4 @@
+there is a body ||entailment
+there is a rail line station ||entailment
+the body is standing ||entailment
+the body is standing nearby metro station ||entailment

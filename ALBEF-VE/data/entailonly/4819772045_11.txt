@@ -1,0 +1,4 @@
+there is a human ||entailment
+there is a street ||entailment
+the human is in the street ||entailment
+the human are seated ||entailment

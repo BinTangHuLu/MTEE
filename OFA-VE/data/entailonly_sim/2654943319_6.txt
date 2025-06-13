@@ -1,0 +1,4 @@
+There is a body. ||Entailment
+There is an field. ||Contradiction
+The body is trying to do tricks. ||Neutral
+The body is trying to do tricks in the area. ||Entailment

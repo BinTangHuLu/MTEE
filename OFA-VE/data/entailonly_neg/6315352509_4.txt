@@ -1,0 +1,5 @@
+There is not a car. ||Contradiction
+There is not a road. ||Contradiction
+The car is not red. ||Contradiction
+The car is not going very fast. ||Neutral
+The car is not on road. ||Contradiction

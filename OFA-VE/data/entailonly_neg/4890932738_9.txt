@@ -1,0 +1,3 @@
+There is not a human. ||Contradiction
+There is not indoors. ||Entailment
+The human is not indoors. ||Entailment

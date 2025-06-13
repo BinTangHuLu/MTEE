@@ -1,0 +1,4 @@
+There is a female. ||entailment
+There is a avenue. ||entailment
+The female is busy. ||entailment
+The female is walking down the street. ||entailment

@@ -1,0 +1,4 @@
+There are not Team members. ||contradiction
+There is not a sport. ||contradiction
+The sport is not relaxing. ||contradiction
+The Team members are not after practice. ||contradiction

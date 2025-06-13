@@ -1,0 +1,5 @@
+there are men ||entailment
+there are women ||neutral
+there is a building ||entailment
+the men stand in front of the building ||entailment
+the women stand in front of the building ||contradiction

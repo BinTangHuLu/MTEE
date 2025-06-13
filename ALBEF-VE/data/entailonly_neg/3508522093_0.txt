@@ -1,0 +1,4 @@
+there is not a skateboarder ||contradiction
+the skateboarder is not young ||entailment
+the skateboarder is not smiling ||entailment
+the skateboarder is not outside ||contradiction

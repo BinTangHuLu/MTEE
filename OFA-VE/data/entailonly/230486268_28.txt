@@ -1,0 +1,4 @@
+There is a boy. ||Entailment
+There is a toy. ||Entailment
+There is a tool. ||Entailment
+The boy plays with the toy. ||Entailment

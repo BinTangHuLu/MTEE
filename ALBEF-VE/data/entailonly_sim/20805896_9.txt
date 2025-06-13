@@ -1,0 +1,3 @@
+there is a canvas ||entailment
+there is a armchair ||neutral
+the canvas is on chair ||neutral

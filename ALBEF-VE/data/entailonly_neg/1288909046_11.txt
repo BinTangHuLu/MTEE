@@ -1,0 +1,5 @@
+there is not a dog ||contradiction
+there is not water ||contradiction
+there is not a toy ||contradiction
+the dog does not leap into water ||contradiction
+the dog does not leap into water to retrieve the toy ||contradiction

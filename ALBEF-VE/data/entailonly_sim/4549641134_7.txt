@@ -1,0 +1,6 @@
+there is a circle ||entailment
+there are some community ||entailment
+the circle is large ||neutral
+there are some accommodation ||entailment
+the accommodation are folding ||entailment
+the circle is sitting in chairs ||neutral

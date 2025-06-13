@@ -1,0 +1,5 @@
+There are boys. ||Entailment
+There is a boy. ||Entailment
+There are two boys. ||Neutral
+The boys raise the boy. ||Contradiction
+The boy is in the air. ||Entailment

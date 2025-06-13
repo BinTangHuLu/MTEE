@@ -1,0 +1,5 @@
+There is a pup. ||entailment
+There is a basin. ||neutral
+There is a bend. ||neutral
+The pup is swimming through the pond. ||neutral
+The pup is in pursuit of the duck. ||neutral

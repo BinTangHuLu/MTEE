@@ -1,0 +1,3 @@
+There is a bludgeon. ||Contradiction
+There is a art. ||Entailment
+Someone is in facade of the cow. ||Entailment

@@ -1,0 +1,2 @@
+there is a dealer ||entailment
+the dealer is selling robots ||neutral

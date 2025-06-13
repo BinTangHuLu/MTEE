@@ -1,0 +1,5 @@
+there is a female ||entailment
+there is cabbage ||neutral
+the female is elderly ||neutral
+the female is oriental ||entailment
+the female is selling bread ||entailment

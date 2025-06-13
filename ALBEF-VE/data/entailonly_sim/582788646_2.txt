@@ -1,0 +1,5 @@
+there is a baby ||entailment
+there is drink ||entailment
+the baby is looking at ||entailment
+the baby is wearing flotational devices ||entailment
+the baby is looking at water ||entailment

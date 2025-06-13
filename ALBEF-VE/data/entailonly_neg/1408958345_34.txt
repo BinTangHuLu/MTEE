@@ -1,0 +1,4 @@
+there is not a girl ||contradiction
+there is not a beach ||contradiction
+the girl is not happy ||neutral
+the girl is not at the beach ||contradiction

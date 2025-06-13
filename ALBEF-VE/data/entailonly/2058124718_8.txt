@@ -1,0 +1,3 @@
+there are dogs ||entailment
+there is outside ||entailment
+the dogs are outside ||entailment

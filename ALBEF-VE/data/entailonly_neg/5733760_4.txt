@@ -1,0 +1,7 @@
+there is not a person ||contradiction
+there is not a stage ||contradiction
+there is not a microphone ||contradiction
+there is not a chalkboard ||contradiction
+the person is not on stage ||contradiction
+the person is not with a microphone ||contradiction
+the microphone is not next to the chalkboard ||entailment

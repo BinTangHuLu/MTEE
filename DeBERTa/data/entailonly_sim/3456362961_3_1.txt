@@ -1,0 +1,5 @@
+There is a baby. ||entailment
+There is a forest gym. ||neutral
+The baby is playing. ||entailment
+The baby is outside. ||entailment
+The baby is playing on jungle gym. ||entailment

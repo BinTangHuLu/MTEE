@@ -1,0 +1,5 @@
+There is not someone. ||Entailment
+There is not a building. ||Contradiction
+There is not an object. ||Contradiction
+Someone is not in the building. ||Entailment
+Someone is not moving an object. ||Entailment

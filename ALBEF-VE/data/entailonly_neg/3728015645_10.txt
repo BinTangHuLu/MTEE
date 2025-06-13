@@ -1,0 +1,6 @@
+there is not a man ||contradiction
+there is not an arm ||contradiction
+there is not a water body ||contradiction
+there is not a background ||contradiction
+the man is not standing on the arm ||entailment
+the water body is not in the background ||entailment

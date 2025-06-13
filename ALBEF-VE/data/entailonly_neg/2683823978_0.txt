@@ -1,0 +1,4 @@
+there are not humans ||contradiction
+there are not bikes ||contradiction
+the humans are not female ||entailment
+the humans are not near bikes ||contradiction

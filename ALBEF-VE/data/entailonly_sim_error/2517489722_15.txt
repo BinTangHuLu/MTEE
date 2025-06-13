@@ -1,0 +1,3 @@
+EA,path,same time
+R,is trying to go up
+A,teenage

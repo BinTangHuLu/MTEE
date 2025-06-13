@@ -1,0 +1,5 @@
+There is a dog. ||Entailment
+The dog is little. ||Entailment
+The dog is chewing. ||Entailment
+There are fingers. ||Entailment
+The dog is chewing fingers. ||Neutral

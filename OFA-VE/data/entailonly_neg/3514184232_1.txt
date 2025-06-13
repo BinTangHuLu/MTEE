@@ -1,0 +1,5 @@
+There is not a person. ||Contradiction
+There is not a ball. ||Contradiction
+The person is not playing. ||Contradiction
+The person is not trying to catch. ||Neutral
+The person is not trying to catch the ball. ||Neutral

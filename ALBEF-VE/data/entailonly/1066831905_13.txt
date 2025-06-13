@@ -1,0 +1,3 @@
+there is a man ||entailment
+the man is older ||entailment
+the man is getting assistance to bend down plants ||entailment

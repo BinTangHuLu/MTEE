@@ -1,0 +1,4 @@
+There is a man. ||Entailment
+There is a brush. ||Entailment
+There is a toilet brush. ||Entailment
+The man is holding the brush. ||Entailment

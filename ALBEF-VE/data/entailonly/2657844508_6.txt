@@ -1,0 +1,4 @@
+there is a couple ||entailment
+there is some wine ||entailment
+the couple is drinking ||entailment
+the couple is drinking wine ||neutral

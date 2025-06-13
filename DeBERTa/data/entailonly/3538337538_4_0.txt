@@ -1,0 +1,2 @@
+There is a buss. ||entailment
+There is a picture. ||entailment

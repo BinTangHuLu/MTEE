@@ -1,0 +1,5 @@
+there is a runner ||entailment
+there is a shirt ||entailment
+there are pants ||contradiction
+the runner is in the shirt ||entailment
+the runner is in the pants ||contradiction

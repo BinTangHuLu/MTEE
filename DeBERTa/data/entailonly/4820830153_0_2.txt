@@ -1,0 +1,8 @@
+There is a market. ||entailment
+There are soft drinks. ||entailment
+There is a country. ||entailment
+The market is selling. ||entailment
+The soft drinks are soft. ||neutral
+The country is Arabic. ||entailment
+The market is selling drinks. ||entailment
+The market is in country. ||entailment

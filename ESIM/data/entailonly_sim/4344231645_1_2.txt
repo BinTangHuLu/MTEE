@@ -1,0 +1,5 @@
+There is a baby. ||entailment
+The baby is talented. ||neutral
+There is an apparatus. ||entailment
+The baby sings into the mic. ||entailment
+The baby plays the instrument. ||contradiction

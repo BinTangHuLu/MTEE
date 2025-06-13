@@ -1,0 +1,3 @@
+there is a baby ||entailment
+there are boot ||entailment
+the baby is wearing shoes ||contradiction

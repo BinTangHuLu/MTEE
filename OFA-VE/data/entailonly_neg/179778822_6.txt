@@ -1,0 +1,5 @@
+There are not people. ||Contradiction
+There are not reflections. ||Contradiction
+There is not a mirror. ||Contradiction
+The people do not look at reflections. ||Contradiction
+The reflections are not in the mirror. ||Entailment

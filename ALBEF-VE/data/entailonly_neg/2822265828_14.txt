@@ -1,0 +1,5 @@
+there are not leaders ||contradiction
+there is not a side ||contradiction
+there is not a field ||contradiction
+the leaders do not sit on the side ||contradiction
+the side is not of the field ||entailment

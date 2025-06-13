@@ -1,0 +1,5 @@
+There are people. ||entailment
+There are bikes. ||entailment
+There are two people. ||entailment
+The bikes are outside. ||entailment
+People are riding on bikes. ||entailment

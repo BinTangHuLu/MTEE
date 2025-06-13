@@ -1,0 +1,9 @@
+there is not a man ||contradiction
+there is not a hat ||contradiction
+there is not a hoodie ||contradiction
+there is not a building ||contradiction
+there is not a cat ||contradiction
+the man is not standing ||entailment
+the man is not standing near the building ||entailment
+the cat is not on the man ||entailment
+the man is not with the cat ||entailment

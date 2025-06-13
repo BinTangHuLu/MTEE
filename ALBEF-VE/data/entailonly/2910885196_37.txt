@@ -1,0 +1,4 @@
+there is a man ||entailment
+there is a cake ||entailment
+the cake is birthday ||neutral
+the man is cutting cake ||entailment

@@ -1,0 +1,5 @@
+there is a man ||entailment
+there is a flip ||entailment
+there is water ||entailment
+the man does flip ||entailment
+the flip is into water ||entailment

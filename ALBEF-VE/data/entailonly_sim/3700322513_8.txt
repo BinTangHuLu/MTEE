@@ -1,0 +1,6 @@
+there is a dude ||entailment
+there is atmosphere ||entailment
+there is a bmx pedal ||entailment
+there is a account ||entailment
+the dude is in air ||entailment
+someone takes the account ||neutral

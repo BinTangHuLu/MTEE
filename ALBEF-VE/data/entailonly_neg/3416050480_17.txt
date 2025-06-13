@@ -1,0 +1,5 @@
+there is not a woman ||contradiction
+there is not a horse ||contradiction
+there is not an object ||contradiction
+the woman does not jump the horse ||contradiction
+the horse is not over the object ||contradiction

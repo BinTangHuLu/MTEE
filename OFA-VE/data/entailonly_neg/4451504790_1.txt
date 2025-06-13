@@ -1,0 +1,5 @@
+There is not a child. ||Contradiction
+There is not a steering. ||Contradiction
+There is not a car. ||Contradiction
+The child is not holding the steering. ||Entailment
+The steering is not of the car. ||Entailment

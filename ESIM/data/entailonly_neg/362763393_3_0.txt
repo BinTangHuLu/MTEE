@@ -1,0 +1,5 @@
+There are not men. ||contradiction
+There is not a center. ||contradiction
+There is not a clearing. ||contradiction
+The men are not at the center. ||contradiction
+The center is not at the clearing. ||entailment

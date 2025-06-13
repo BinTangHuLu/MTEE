@@ -1,0 +1,4 @@
+there are community ||entailment
+there are two community ||entailment
+the community are eating ||entailment
+the community are eating outdoors ||entailment

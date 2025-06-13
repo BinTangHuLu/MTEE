@@ -1,0 +1,5 @@
+there is a dog ||entailment
+there is a strap ||entailment
+there is a camera ||entailment
+the strap is gnawing ||entailment
+the dog is gnawing on strap ||entailment

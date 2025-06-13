@@ -1,0 +1,4 @@
+there is a dude ||entailment
+there is a fluctuation ||entailment
+the dude is golfing ||entailment
+the others watch the fluctuation ||neutral

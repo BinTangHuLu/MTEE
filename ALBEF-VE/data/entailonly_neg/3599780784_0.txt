@@ -1,0 +1,7 @@
+there is not a guy ||contradiction
+there is not a picture ||entailment
+there is not someone ||contradiction
+there is not a hair cut ||contradiction
+the guy is not taking a picture ||entailment
+the picture is of someonenot ||entailment
+someone is not getting a hair cut ||entailment

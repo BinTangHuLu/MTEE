@@ -1,0 +1,4 @@
+There is a pup. ||entailment
+The pup is running. ||entailment
+The pup is being chased by another dog. ||entailment
+There is another pup. ||entailment

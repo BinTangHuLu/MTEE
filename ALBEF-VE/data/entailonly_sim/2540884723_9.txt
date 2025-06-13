@@ -1,0 +1,10 @@
+there is a female ||entailment
+there is an apparel ||entailment
+the apparel is red business ||neutral
+the apparel is wearing ||neutral
+there is a act ||entailment
+there is a dude ||entailment
+the dude is in leather jacket ||entailment
+the female is sitting on the step ||entailment
+the act is with the man ||entailment
+the dude is eating ||entailment

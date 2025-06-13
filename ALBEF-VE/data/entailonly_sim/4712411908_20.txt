@@ -1,0 +1,8 @@
+there is a gentlewoman ||contradiction
+there is a circle ||entailment
+there is a architecture ||entailment
+the architecture is 18th century ||neutral
+the circle is concrete ||entailment
+the gentlewoman does exercises ||contradiction
+the exercises are on dominant of sphere ||neutral
+the architecture is surrounding sphere ||entailment

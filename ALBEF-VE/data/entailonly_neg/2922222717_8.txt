@@ -1,0 +1,5 @@
+there is not a dog ||contradiction
+there is not a rifle ||contradiction
+the dog is not small ||contradiction
+the rifle is not aimed ||entailment
+the dog does not aim a rifle ||entailment

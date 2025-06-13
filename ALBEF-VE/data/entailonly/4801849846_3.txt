@@ -1,0 +1,3 @@
+there is a man ||entailment
+there are buildings ||entailment
+the man is walking near buildings ||entailment

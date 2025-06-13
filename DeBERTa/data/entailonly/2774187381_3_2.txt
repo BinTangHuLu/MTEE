@@ -1,0 +1,6 @@
+There is a man. ||entailment
+There is a rear. ||entailment
+There is an automobile. ||entailment
+The man is sleeping. ||entailment
+The man is sleeping in the automobile. ||entailment
+The man is in the rear. ||entailment

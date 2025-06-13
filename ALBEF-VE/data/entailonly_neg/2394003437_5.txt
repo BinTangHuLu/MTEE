@@ -1,0 +1,4 @@
+there is not a boy ||contradiction
+there is not a scooter ||contradiction
+the scooter is not motor ||neutral
+the boy is not riding on the scooter ||contradiction

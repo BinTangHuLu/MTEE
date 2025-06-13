@@ -1,0 +1,7 @@
+There is not a woman. ||contradiction
+There is not a microphone. ||contradiction
+There is not a second woman. ||contradiction
+The woman is not speaking. ||contradiction
+The second woman does not write. ||neutral
+The woman is not speaking into the microphone. ||contradiction
+The second woman does not write beside her. ||neutral

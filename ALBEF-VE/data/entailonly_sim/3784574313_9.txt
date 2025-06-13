@@ -1,0 +1,4 @@
+there are band ||entailment
+there is a backyard ||entailment
+the band are construction ||neutral
+the band are working outside on lawn ||entailment

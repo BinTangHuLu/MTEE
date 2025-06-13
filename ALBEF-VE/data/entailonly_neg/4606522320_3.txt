@@ -1,0 +1,4 @@
+there are not men ||contradiction
+there is not headwear ||contradiction
+the headwear is not wearing ||contradiction
+men are not wearing headwear ||contradiction

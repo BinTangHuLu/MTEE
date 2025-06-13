@@ -1,0 +1,3 @@
+there are dancers ||entailment
+there are battons ||entailment
+the dancers are holding battons ||contradiction

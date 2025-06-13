@@ -1,0 +1,3 @@
+there is a boy ||entailment
+the boy is barefoot ||contradiction
+the boy runs barefoot ||entailment

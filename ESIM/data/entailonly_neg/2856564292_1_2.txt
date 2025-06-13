@@ -1,0 +1,4 @@
+There is not a man. ||contradiction
+The man is not older. ||contradiction
+The man does not have a green jacket. ||contradiction
+The man is not conversing with another man. ||contradiction

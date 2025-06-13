@@ -1,0 +1,3 @@
+A,lower
+RE2,separates,lower
+RE2,separates,upper

@@ -1,0 +1,10 @@
+There is not a group. ||contradiction
+There are not men. ||contradiction
+There is not clothing. ||contradiction
+There is not a beach. ||contradiction
+There is not a palm tree. ||contradiction
+The group is not small. ||neutral
+The men are not clad in summery. ||entailment
+The beach is not sandy. ||contradiction
+The beach is not palm tree lined. ||contradiction
+The group is not standing on the beach. ||contradiction

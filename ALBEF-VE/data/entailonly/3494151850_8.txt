@@ -1,0 +1,4 @@
+there is a boat ||entailment
+there are some guys ||entailment
+the boat is full ||neutral
+the boat makes a turn ||entailment

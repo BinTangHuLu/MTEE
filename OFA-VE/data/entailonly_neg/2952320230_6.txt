@@ -1,0 +1,2 @@
+There is not grass. ||Contradiction
+The grass is not green. ||Contradiction

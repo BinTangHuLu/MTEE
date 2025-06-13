@@ -1,0 +1,4 @@
+there is a dude ||entailment
+there is a blouse ||entailment
+the blouse is white ||entailment
+the dude is having fun in shirt ||entailment

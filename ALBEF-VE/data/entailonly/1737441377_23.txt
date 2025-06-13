@@ -1,0 +1,4 @@
+there is a child ||entailment
+there is a street ||entailment
+the child is indonesian ||neutral
+the child is on street ||entailment

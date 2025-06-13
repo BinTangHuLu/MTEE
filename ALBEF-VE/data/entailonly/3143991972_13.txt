@@ -1,0 +1,6 @@
+there is a man ||entailment
+there is a baby ||entailment
+there is some luggage ||entailment
+the baby plays ||entailment
+the baby plays with luggage ||entailment
+the man is monitoring the baby ||entailment

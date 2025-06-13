@@ -1,0 +1,3 @@
+There is a art. ||Entailment
+The art has been around. ||Entailment
+The art has been around for many years. ||Entailment

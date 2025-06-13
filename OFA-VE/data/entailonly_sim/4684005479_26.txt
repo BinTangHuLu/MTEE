@@ -1,0 +1,4 @@
+There is a body. ||Entailment
+There is a blouse. ||Contradiction
+The blouse is numbered. ||Neutral
+The body is wearing the shirt. ||Entailment

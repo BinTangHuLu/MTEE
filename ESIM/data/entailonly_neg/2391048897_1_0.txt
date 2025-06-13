@@ -1,0 +1,4 @@
+There are not people. ||contradiction
+There is not a trail. ||contradiction
+There is not a mountain. ||contradiction
+The people are not walking along the trail. ||contradiction

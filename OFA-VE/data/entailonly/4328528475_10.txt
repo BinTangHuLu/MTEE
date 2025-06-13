@@ -1,0 +1,4 @@
+There is a Female. ||Entailment
+There is a racket. ||Entailment
+The racket is tennis. ||Entailment
+The Female holds up the racket. ||Entailment

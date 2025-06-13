@@ -1,0 +1,5 @@
+there is a body ||entailment
+there is a camcorder ||neutral
+there is a set ||neutral
+the body is pointing a camera ||entailment
+the camcorder is at the couple ||entailment

@@ -1,0 +1,5 @@
+there are not cops ||contradiction
+there is not a child ||contradiction
+there is not a sidewalk ||contradiction
+the cops are not on the sidewalk ||contradiction
+the child is not on the sidewalk ||entailment

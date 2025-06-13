@@ -1,0 +1,9 @@
+There is a Lady. ||entailment
+There is a bag. ||entailment
+There is a blouse. ||entailment
+There is a man. ||contradiction
+The bag is pink. ||entailment
+The blouse is pink. ||entailment
+The Lady is with the bag. ||entailment
+The Lady is with the blouse. ||entailment
+The Lady reaches toward the man. ||entailment

@@ -1,0 +1,4 @@
+there is a boy ||entailment
+there is a scooter ||entailment
+the scooter is motor ||neutral
+the boy is riding on the scooter ||entailment

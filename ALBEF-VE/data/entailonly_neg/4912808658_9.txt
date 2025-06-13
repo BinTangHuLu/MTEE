@@ -1,0 +1,6 @@
+there is not a man ||contradiction
+there is not an income ||entailment
+there is not a performance ||contradiction
+the income is not primary ||entailment
+the performance is not street ||contradiction
+the man is not in performance ||contradiction

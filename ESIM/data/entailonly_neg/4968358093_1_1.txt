@@ -1,0 +1,4 @@
+There is not an announcement. ||contradiction
+There is not a beach. ||contradiction
+The announcement is not a warning. ||contradiction
+The announcement is not for the beach. ||contradiction

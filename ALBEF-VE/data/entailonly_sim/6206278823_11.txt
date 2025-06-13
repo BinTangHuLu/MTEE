@@ -1,0 +1,2 @@
+there is a bar ||entailment
+the goalie prepares to make bar ||neutral

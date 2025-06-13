@@ -1,0 +1,3 @@
+there is a boy ||entailment
+there is a necklace ||entailment
+the boy shows off necklace ||entailment

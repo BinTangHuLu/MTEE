@@ -1,0 +1,4 @@
+There is a female. ||entailment
+There is a bestow. ||entailment
+The bestow is wearing. ||neutral
+The female is wearing the vest. ||entailment

@@ -1,0 +1,2 @@
+A,red
+RE2,is wearing,red

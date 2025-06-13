@@ -1,0 +1,4 @@
+there is not a bike rider ||contradiction
+there is not a shirt ||contradiction
+the shirt is not yellow ||contradiction
+the bike rider is not wearing a yellow shirt ||contradiction

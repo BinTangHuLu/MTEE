@@ -1,0 +1,3 @@
+There is a female. ||Entailment
+There is a album. ||Contradiction
+The female is reading the book. ||Entailment

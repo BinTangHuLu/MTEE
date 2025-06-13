@@ -1,0 +1,5 @@
+There is not a girl. ||Contradiction
+There is not a bottle cap. ||Entailment
+There is not a bottle. ||Entailment
+The girl is not holding the bottle cap. ||Entailment
+The girl is not holding the bottle. ||Entailment

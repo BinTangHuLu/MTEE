@@ -1,0 +1,4 @@
+there is a child ||entailment
+there is a path ||entailment
+the child is playing with the ball ||neutral
+the ball is on the path ||entailment

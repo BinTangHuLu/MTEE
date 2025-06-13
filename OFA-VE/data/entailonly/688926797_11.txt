@@ -1,0 +1,4 @@
+There is a woman. ||Entailment
+There is a dress. ||Entailment
+The dress is blue. ||Entailment
+The woman poses in the dress. ||Entailment

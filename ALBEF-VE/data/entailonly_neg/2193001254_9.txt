@@ -1,0 +1,5 @@
+there is not a man ||contradiction
+there is not a beer ||contradiction
+there are not people ||contradiction
+the man is not sipping on beer ||contradiction
+the people are not around the man ||contradiction

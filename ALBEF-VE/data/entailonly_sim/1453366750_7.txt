@@ -1,0 +1,3 @@
+there are clan ||entailment
+there is a bunk ||neutral
+the clan are laying in the bed ||contradiction

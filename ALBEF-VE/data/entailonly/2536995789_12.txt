@@ -1,0 +1,5 @@
+there is scaffolding ||entailment
+there is a path ||entailment
+there are painters ||entailment
+the scaffolding is on the path ||entailment
+the path is for painters ||neutral

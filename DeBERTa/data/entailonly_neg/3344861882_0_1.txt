@@ -1,0 +1,8 @@
+There is not a woman. ||contradiction
+There is not a jacket. ||contradiction
+There are not sunglasses. ||contradiction
+There is not a camera. ||contradiction
+The woman is not red. ||contradiction
+The jacket is not red. ||contradiction
+The jacket is not red. ||contradiction
+The woman does not smile at the camera. ||contradiction

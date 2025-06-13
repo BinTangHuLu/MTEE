@@ -1,0 +1,5 @@
+there is not a child ||contradiction
+there are not some tracks ||contradiction
+there is not a stick ||contradiction
+the child is not stepping on tracks ||contradiction
+the child is not with a stick ||contradiction

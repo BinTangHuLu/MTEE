@@ -1,0 +1,5 @@
+There is a man. ||Entailment
+There is a leg. ||Entailment
+There is a head. ||Entailment
+The man has a leg. ||Entailment
+The leg is over the head. ||Entailment

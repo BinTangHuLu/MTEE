@@ -1,0 +1,4 @@
+There is not a male. ||Entailment
+There is not an animal. ||Contradiction
+The male does not have an animal. ||Contradiction
+The animal is not next to the male. ||Entailment

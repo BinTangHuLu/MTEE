@@ -1,0 +1,3 @@
+There are not children. ||contradiction
+The children do not have uniforms. ||contradiction
+The children do not climb tower. ||contradiction

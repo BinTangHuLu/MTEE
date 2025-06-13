@@ -1,0 +1,5 @@
+There is not a man. ||contradiction
+There are not some steps. ||contradiction
+There is not a girl. ||contradiction
+The man is not being photographed by the girl. ||contradiction
+The man is not on the steps. ||contradiction

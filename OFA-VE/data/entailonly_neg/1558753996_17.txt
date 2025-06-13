@@ -1,0 +1,4 @@
+There is not a man. ||Contradiction
+There is not a guitar. ||Contradiction
+The man is not older. ||Entailment
+The man is not holding the guitar. ||Entailment

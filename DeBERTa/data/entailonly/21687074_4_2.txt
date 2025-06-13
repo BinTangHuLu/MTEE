@@ -1,0 +1,4 @@
+There is a path. ||entailment
+There is a shore. ||entailment
+The path is wooden. ||entailment
+The path is towards shore. ||entailment

@@ -1,0 +1,4 @@
+There is a woman. ||entailment
+There is a park. ||entailment
+The woman is jogging. ||entailment
+The woman is in the park. ||entailment

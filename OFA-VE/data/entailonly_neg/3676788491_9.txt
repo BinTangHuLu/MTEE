@@ -1,0 +1,4 @@
+There is not a man. ||Entailment
+There is not a building. ||Contradiction
+The building is not yellow. ||Entailment
+The man is not by the building. ||Entailment

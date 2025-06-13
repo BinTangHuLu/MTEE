@@ -1,0 +1,4 @@
+There are not girls. ||contradiction
+There is not an amusement park. ||contradiction
+There is not a ride. ||contradiction
+The girls do not ride the ride. ||contradiction

@@ -1,0 +1,4 @@
+there are community ||neutral
+there is accessory ||entailment
+the accessory is protective ||neutral
+the community are wearing gear ||entailment

@@ -1,0 +1,2 @@
+there is a slope ||entailment
+the snowboarder went off slope ||contradiction

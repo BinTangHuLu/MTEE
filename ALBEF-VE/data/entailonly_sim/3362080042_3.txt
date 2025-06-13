@@ -1,0 +1,3 @@
+there is figure 16 ||entailment
+there is a ground ||entailment
+figure 16 tries to tag base ||entailment

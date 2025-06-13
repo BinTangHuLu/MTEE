@@ -1,0 +1,5 @@
+There is not a man. ||contradiction
+There is not a turban. ||contradiction
+There is not a basket. ||contradiction
+The man does not wear a turban. ||contradiction
+The man does not stand in front of the basket. ||contradiction

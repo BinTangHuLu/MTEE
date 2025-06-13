@@ -1,0 +1,4 @@
+There is a girl. ||entailment
+There are some flowers. ||entailment
+The girl is giving flowers. ||neutral
+The flowers are getting some water. ||entailment

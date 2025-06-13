@@ -1,0 +1,4 @@
+there is a man ||entailment
+there is a screen ||entailment
+there is a projector ||entailment
+the man is with the screen ||entailment

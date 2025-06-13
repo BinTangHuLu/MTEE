@@ -1,0 +1,5 @@
+there is a girl ||entailment
+there is a sign ||entailment
+the girl is pink ||entailment
+the sign is the horns ||neutral
+the girl is rocking the sign ||neutral

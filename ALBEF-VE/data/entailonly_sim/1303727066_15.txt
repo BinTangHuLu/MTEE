@@ -1,0 +1,4 @@
+there is a dude ||entailment
+there is a blouse ||entailment
+the dude is wearing a shirt ||entailment
+the blouse is with a peace sign ||entailment

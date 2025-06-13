@@ -1,0 +1,5 @@
+There is not a woman. ||contradiction
+There is not a bikini. ||contradiction
+There is not water. ||contradiction
+The woman is not wearing a bikini. ||contradiction
+The woman does not lay near water. ||contradiction

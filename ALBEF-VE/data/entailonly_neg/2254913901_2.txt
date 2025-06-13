@@ -1,0 +1,5 @@
+there is not a woman ||contradiction
+there is not a shop ||contradiction
+there is not a window ||contradiction
+the woman is not standing outside ||contradiction
+the shops window does not belong to the shop ||neutral

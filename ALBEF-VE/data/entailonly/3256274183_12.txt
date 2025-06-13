@@ -1,0 +1,3 @@
+there is a human ||entailment
+there is another ||entailment
+the human is assisting another ||entailment

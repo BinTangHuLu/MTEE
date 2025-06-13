@@ -1,0 +1,3 @@
+there are girl ||entailment
+there is a bit ||entailment
+the girl are sharing the moment ||entailment

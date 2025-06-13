@@ -1,0 +1,4 @@
+There is a boy. ||Entailment
+The boy is little. ||Entailment
+There is a red. ||Entailment
+The boy is wearing red. ||Entailment

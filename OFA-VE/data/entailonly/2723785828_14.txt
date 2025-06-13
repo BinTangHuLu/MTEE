@@ -1,0 +1,4 @@
+There is paint. ||Entailment
+There are faces. ||Entailment
+The faces are children's. ||Entailment
+The paint is on faces. ||Entailment

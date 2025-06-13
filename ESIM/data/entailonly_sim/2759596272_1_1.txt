@@ -1,0 +1,3 @@
+There are adolescent. ||entailment
+There is a fluctuation. ||entailment
+The adolescent jump off the swing. ||entailment

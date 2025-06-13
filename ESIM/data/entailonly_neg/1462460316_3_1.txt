@@ -1,0 +1,4 @@
+There is not a woman. ||contradiction
+There is not a stage. ||contradiction
+The woman is not singing. ||contradiction
+The woman is not on stage. ||contradiction

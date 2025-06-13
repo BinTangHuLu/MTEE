@@ -1,0 +1,5 @@
+There are not people. ||contradiction
+There are not teams. ||contradiction
+There are not Two people. ||contradiction
+The teams are not opposite. ||contradiction
+The people do not play flag football. ||contradiction

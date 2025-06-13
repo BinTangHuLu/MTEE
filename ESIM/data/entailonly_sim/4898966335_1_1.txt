@@ -1,0 +1,4 @@
+There is a child. ||entailment
+The child is far away. ||neutral
+The child is looking. ||entailment
+The child is looking at the sky. ||neutral

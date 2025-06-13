@@ -1,0 +1,3 @@
+there is a man ||entailment
+there is knitting ||entailment
+the man is knitting ||entailment

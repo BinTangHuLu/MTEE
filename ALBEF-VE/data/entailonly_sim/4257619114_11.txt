@@ -1,0 +1,4 @@
+there is a female ||entailment
+there is a picnic ||neutral
+the female is in the outfit ||entailment
+the female is at the cookout ||entailment

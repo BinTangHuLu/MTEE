@@ -1,0 +1,3 @@
+There are community. ||Entailment
+There is a dusk. ||Entailment
+The community watch the sunset. ||Neutral

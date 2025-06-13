@@ -1,0 +1,3 @@
+There is not a man. ||Contradiction
+The man is not digging. ||Contradiction
+The man is not digging by man. ||Contradiction

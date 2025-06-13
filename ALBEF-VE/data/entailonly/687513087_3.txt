@@ -1,0 +1,2 @@
+there are dogs ||entailment
+the dogs are inside ||entailment

@@ -1,0 +1,8 @@
+There are not men. ||contradiction
+There is not clothing. ||contradiction
+There is not a bike. ||contradiction
+There is not a moped. ||contradiction
+The men are not Two. ||contradiction
+The clothing is not different types of. ||contradiction
+The men are not comparing bike. ||contradiction
+The men are not comparing moped. ||contradiction

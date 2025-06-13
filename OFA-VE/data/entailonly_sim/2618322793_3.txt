@@ -1,0 +1,3 @@
+There is a child. ||Entailment
+There is atmosphere. ||Entailment
+The child is moving through air. ||Entailment

@@ -1,0 +1,5 @@
+There is a fresh. ||neutral
+There is a circle. ||neutral
+The fresh is putt. ||neutral
+The golfer is getting ready to putt with the fresh. ||neutral
+The golfer is with the circle. ||neutral

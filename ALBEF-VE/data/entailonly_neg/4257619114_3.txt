@@ -1,0 +1,6 @@
+there is not a woman ||contradiction
+there is not a costume ||contradiction
+there is not a party ||contradiction
+the costume is not unusual ||contradiction
+the woman does not wear the costume ||contradiction
+the costume does not go to the party ||entailment

@@ -1,0 +1,5 @@
+there is not a man ||contradiction
+there is not a street ||contradiction
+the man is not oriental ||contradiction
+the street is not busy ||contradiction
+the man does not walk down street ||contradiction

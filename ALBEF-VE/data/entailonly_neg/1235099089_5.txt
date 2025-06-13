@@ -1,0 +1,7 @@
+there is not a girl ||contradiction
+there are not clothes ||contradiction
+there are not markers ||contradiction
+the girl is not young ||entailment
+the clothes are not summer ||contradiction
+the girl is not running outside ||contradiction
+the girl is not near markers ||contradiction

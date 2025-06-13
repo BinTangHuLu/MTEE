@@ -1,0 +1,11 @@
+there is a association ||entailment
+there are community ||entailment
+there is an accident ||neutral
+there is a female ||entailment
+there is a dude ||entailment
+the female is talking ||entailment
+the community are wearing ||entailment
+the shirts are different brand ||neutral
+the community are at event ||entailment
+the female is talking to man ||entailment
+the community are wearing shirts ||entailment

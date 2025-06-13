@@ -1,0 +1,3 @@
+there is a loaf ||entailment
+there is a bar ||entailment
+the loaf is on the table ||contradiction

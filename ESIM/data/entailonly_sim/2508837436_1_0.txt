@@ -1,0 +1,4 @@
+There is a circle. ||neutral
+There are some community. ||neutral
+There is a avenue. ||entailment
+The circle stands in the street. ||neutral

@@ -1,0 +1,5 @@
+there is not a man ||contradiction
+there are not others ||entailment
+there is not a swing ||contradiction
+the man is not golfing ||contradiction
+the others do not watch the swing ||entailment

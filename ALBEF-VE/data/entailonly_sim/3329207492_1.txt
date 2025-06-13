@@ -1,0 +1,3 @@
+there are clan ||entailment
+there are auto ||entailment
+the clan are playing in front of cars ||entailment

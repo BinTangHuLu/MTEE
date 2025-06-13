@@ -1,0 +1,3 @@
+There are not couples. ||contradiction
+There are not surfboards. ||contradiction
+The couples are not rowing on surfboards. ||contradiction

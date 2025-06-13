@@ -1,0 +1,5 @@
+there are female ||entailment
+there are band ||entailment
+there is a dude ||entailment
+the female has her hands ||entailment
+the band are on the foot ||contradiction

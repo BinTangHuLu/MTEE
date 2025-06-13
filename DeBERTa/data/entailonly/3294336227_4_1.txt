@@ -1,0 +1,7 @@
+There is a man. ||neutral
+There is a coat. ||entailment
+There is a stroll. ||entailment
+There are outdoors. ||entailment
+The man is in a coat. ||neutral
+The man takes a stroll. ||entailment
+The stroll is outdoors. ||entailment

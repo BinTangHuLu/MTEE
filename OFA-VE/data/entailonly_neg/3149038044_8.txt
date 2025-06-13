@@ -1,0 +1,4 @@
+There are not kids. ||Contradiction
+There is not a sport. ||Contradiction
+The kids are not playing. ||Contradiction
+The kids are not playing a sport. ||Contradiction

@@ -1,0 +1,5 @@
+There is a child. ||entailment
+There is a hosiery. ||entailment
+The child is young. ||entailment
+The hosiery is black. ||entailment
+The child is wearing a leotard. ||entailment

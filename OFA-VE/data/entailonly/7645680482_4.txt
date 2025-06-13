@@ -1,0 +1,2 @@
+There are cyclists. ||Entailment
+The cyclists are racing. ||Entailment

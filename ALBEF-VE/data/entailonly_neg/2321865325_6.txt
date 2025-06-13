@@ -1,0 +1,4 @@
+there are not dogs ||contradiction
+the dogs are not currently ||entailment
+there is not outdoors ||entailment
+the dogs are not outdoors ||entailment

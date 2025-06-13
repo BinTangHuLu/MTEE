@@ -1,0 +1,4 @@
+there is a person ||entailment
+there is bread ||entailment
+the bread is fresh ||neutral
+the person is selling bread ||entailment

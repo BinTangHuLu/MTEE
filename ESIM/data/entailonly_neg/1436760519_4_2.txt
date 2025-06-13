@@ -1,0 +1,2 @@
+There are not dogs. ||contradiction
+The dogs are not playing together. ||contradiction

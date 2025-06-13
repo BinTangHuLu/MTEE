@@ -1,0 +1,4 @@
+there is not a man ||contradiction
+there is not a shoe ||entailment
+the man is not elderly ||entailment
+the man is not looking at the shoe ||entailment

@@ -1,0 +1,5 @@
+There is not a skier. ||contradiction
+There is not a photographer. ||contradiction
+The skier is not showing off. ||contradiction
+The photographer is not doing a trick. ||contradiction
+The skier is not by the photographer. ||contradiction

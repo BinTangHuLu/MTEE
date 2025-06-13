@@ -1,0 +1,5 @@
+There is not a girl. ||contradiction
+There is not a guitar. ||contradiction
+There is not a stage. ||contradiction
+The girl does not play guitar. ||contradiction
+The girl does not sing on stage. ||contradiction

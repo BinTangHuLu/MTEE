@@ -1,0 +1,8 @@
+There is a gentlewoman. ||entailment
+There is a baby. ||entailment
+There is a barge. ||entailment
+There is an sea. ||entailment
+There is a breadth. ||entailment
+The gentlewoman is on the boat. ||entailment
+The gentlewoman is looking out into the ocean. ||entailment
+The gentlewoman is looking out into the scope. ||entailment

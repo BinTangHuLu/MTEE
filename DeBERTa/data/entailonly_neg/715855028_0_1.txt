@@ -1,0 +1,5 @@
+There is not a man. ||contradiction
+There is not a car. ||contradiction
+The man is not casually dressed. ||contradiction
+The car is not antique. ||contradiction
+The man is not admiring the car. ||contradiction

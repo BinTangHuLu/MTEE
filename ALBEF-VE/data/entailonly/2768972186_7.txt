@@ -1,0 +1,3 @@
+there is a dog ||entailment
+there is a dog ||entailment
+the dog bites the dog ||contradiction

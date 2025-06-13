@@ -1,0 +1,5 @@
+There is a minority. ||entailment
+There is a painting. ||entailment
+The minority is skateboarding. ||entailment
+The painting is vandalised. ||contradiction
+The minority skateboards by the mural. ||entailment

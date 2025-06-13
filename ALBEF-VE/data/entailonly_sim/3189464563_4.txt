@@ -1,0 +1,3 @@
+there are female ||entailment
+there is bracelet ||entailment
+the female wear jewelry ||entailment

@@ -1,0 +1,5 @@
+There is not a guy. ||contradiction
+There is not a bike. ||contradiction
+There is not a park. ||contradiction
+The guy does not ride the bike. ||contradiction
+The guy is not in the park. ||contradiction

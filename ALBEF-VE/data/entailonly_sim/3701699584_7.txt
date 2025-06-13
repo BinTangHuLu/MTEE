@@ -1,0 +1,5 @@
+there is a dude ||entailment
+there is a clue ||entailment
+the clue is green ||entailment
+the dude swings at the ball ||entailment
+the ball is with the clue ||neutral

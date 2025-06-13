@@ -1,0 +1,6 @@
+there is a man ||entailment
+there is an instrument ||entailment
+the instrument is bamboo ||entailment
+the man is older ||entailment
+the man has gray hair ||entailment
+the man is playing the instrument ||entailment

@@ -1,0 +1,3 @@
+there are women ||entailment
+there is a tournament ||entailment
+the women are at the tournament ||entailment

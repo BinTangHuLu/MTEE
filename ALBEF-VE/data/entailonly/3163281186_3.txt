@@ -1,0 +1,6 @@
+there is a woman ||entailment
+there is an animal ||entailment
+there is a transportation ||entailment
+the animal is big ||entailment
+the woman pats the animal ||entailment
+the animal is used for transportation ||entailment

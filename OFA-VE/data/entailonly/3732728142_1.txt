@@ -1,0 +1,5 @@
+There is a Baby. ||Entailment
+There is a hat. ||Entailment
+There is a car seat. ||Entailment
+The hat is wearing. ||Entailment
+The Baby is in car seat. ||Entailment

@@ -1,0 +1,4 @@
+there is a man ||entailment
+there is a saxophone ||entailment
+the saxophone is using ||neutral
+the man is performing using ||entailment

@@ -1,0 +1,3 @@
+there is not a window ||contradiction
+there is not a vehicle ||contradiction
+the window is not in vehicle ||contradiction

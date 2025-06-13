@@ -1,0 +1,4 @@
+there is a dude ||entailment
+the dude is bending down ||entailment
+the dude is reaching ||entailment
+the dude is bending down and reaching towards something ||entailment

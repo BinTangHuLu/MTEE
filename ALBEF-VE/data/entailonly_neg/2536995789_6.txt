@@ -1,0 +1,8 @@
+there is not a man ||contradiction
+there is not a hat ||contradiction
+there is not a vest ||contradiction
+there is not a project ||contradiction
+the vest is not orange ||contradiction
+the project is not major ||entailment
+the project is not indoor ||entailment
+the man does not stand near the project ||contradiction

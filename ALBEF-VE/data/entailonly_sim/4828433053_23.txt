@@ -1,0 +1,5 @@
+there is a body ||entailment
+there is a pup ||entailment
+there is a cord ||entailment
+the body holds the dog ||entailment
+the pup is on the leash ||entailment

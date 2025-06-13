@@ -1,0 +1,4 @@
+there is a group ||entailment
+there are some people ||entailment
+there is a boat ||entailment
+the group is on boat ||entailment

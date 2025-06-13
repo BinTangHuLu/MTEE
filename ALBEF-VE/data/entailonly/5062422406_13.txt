@@ -1,0 +1,2 @@
+there is a golfer ||entailment
+the golfer is preparing to swing ||entailment

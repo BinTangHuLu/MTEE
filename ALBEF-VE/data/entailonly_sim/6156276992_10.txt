@@ -1,0 +1,4 @@
+there are female ||contradiction
+there is a camcorder ||entailment
+the female are two ||neutral
+the female are using the camera ||entailment

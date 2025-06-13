@@ -1,0 +1,4 @@
+there are not people ||contradiction
+there are not 2 people ||contradiction
+the people are not female ||contradiction
+the people are not walking ||entailment

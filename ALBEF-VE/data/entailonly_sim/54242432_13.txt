@@ -1,0 +1,3 @@
+there is a dude ||entailment
+there is a beam ||entailment
+the dude is holding onto the pole ||entailment

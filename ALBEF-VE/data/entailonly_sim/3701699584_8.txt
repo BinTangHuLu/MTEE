@@ -1,0 +1,5 @@
+there is a dude ||entailment
+there is an article ||neutral
+the article is large ||neutral
+the dude hits the ball ||entailment
+the ball is hit with the article ||neutral

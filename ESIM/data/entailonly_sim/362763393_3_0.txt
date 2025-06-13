@@ -1,0 +1,5 @@
+There are dude. ||entailment
+There is a heart. ||neutral
+There is a clearance. ||neutral
+The dude are at the center. ||entailment
+The heart is at the clearing. ||entailment

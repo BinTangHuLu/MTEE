@@ -1,0 +1,4 @@
+There is a dude. ||entailment
+The dude has his arms. ||entailment
+The dude spreads his arms. ||entailment
+The dude is standing in front of railing. ||entailment

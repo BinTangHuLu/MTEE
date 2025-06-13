@@ -1,0 +1,2 @@
+There is Somebody. ||Entailment
+Somebody has facial hair. ||Entailment

@@ -1,0 +1,3 @@
+There are women. ||Entailment
+There is a volleyball. ||Entailment
+The women play volleyball. ||Entailment

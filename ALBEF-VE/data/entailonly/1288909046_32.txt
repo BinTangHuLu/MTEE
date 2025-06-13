@@ -1,0 +1,4 @@
+there is a dog ||entailment
+there is a pool ||entailment
+the dog cools off ||neutral
+the dog is in the pool ||entailment

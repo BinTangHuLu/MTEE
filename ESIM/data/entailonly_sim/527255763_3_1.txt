@@ -1,0 +1,3 @@
+There is a child. ||entailment
+There is a estate. ||neutral
+The child is at park. ||entailment

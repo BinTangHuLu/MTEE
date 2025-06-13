@@ -1,0 +1,7 @@
+there is a avenue ||entailment
+there are some community ||entailment
+the avenue is crowded ||entailment
+the community are a few ||neutral
+the community are wearing shirts ||neutral
+the community are wearing skirts ||neutral
+the community are walking in a line ||neutral

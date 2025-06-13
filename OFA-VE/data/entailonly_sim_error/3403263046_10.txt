@@ -1,0 +1,2 @@
+E1RE2,athlete,handles,ball
+E1RE2,athlete,in,uniform

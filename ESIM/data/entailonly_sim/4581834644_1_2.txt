@@ -1,0 +1,4 @@
+There are community. ||neutral
+There is a bar. ||neutral
+The bar is outside. ||neutral
+The community are eating at the table. ||neutral

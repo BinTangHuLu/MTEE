@@ -1,0 +1,5 @@
+There are not people. ||Contradiction
+There is not a canoe. ||Contradiction
+There is not a river. ||Contradiction
+The people are not in the canoe. ||Entailment
+The canoe is not in the river. ||Entailment

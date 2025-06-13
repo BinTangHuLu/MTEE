@@ -1,0 +1,4 @@
+There are men. ||entailment
+There are two men. ||entailment
+The men are engaging in activity. ||entailment
+The activity is sporting. ||entailment

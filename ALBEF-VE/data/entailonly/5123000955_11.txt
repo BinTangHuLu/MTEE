@@ -1,0 +1,10 @@
+there is a sign ||entailment
+there are kids ||entailment
+there is water ||entailment
+the sign shows ||neutral
+the sign shows kids ||entailment
+the sign shows mountains ||entailment
+the sign shows water ||entailment
+the kids are in image ||entailment
+the mountains are in image ||entailment
+the water is in image ||entailment

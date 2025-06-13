@@ -1,0 +1,5 @@
+There is a person. ||Entailment
+There is a bicycle. ||Entailment
+There is air. ||Entailment
+The person is on the bicycle. ||Entailment
+The person soars through the air. ||Entailment

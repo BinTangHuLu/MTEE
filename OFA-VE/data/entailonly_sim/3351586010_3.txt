@@ -1,0 +1,4 @@
+There is a child. ||Entailment
+There is an rustic. ||Contradiction
+The child is young. ||Entailment
+The child is in outdoor. ||Entailment

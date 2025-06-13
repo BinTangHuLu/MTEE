@@ -1,0 +1,6 @@
+there is not a woman ||contradiction
+there is not a cart ||contradiction
+there is not a vendor ||contradiction
+there are not drinks ||contradiction
+the woman is not near the cart ||contradiction
+the cart is not with drinks ||contradiction

@@ -1,0 +1,3 @@
+There is a surfboarder. ||Entailment
+There is water. ||Entailment
+The surfboarder is in water. ||Entailment

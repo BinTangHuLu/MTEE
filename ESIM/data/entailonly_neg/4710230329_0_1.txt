@@ -1,0 +1,4 @@
+There are not pedestrians. ||contradiction
+There is not a tram. ||contradiction
+There is not a street. ||contradiction
+The pedestrians do not wait for the tram. ||contradiction

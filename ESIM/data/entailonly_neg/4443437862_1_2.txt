@@ -1,0 +1,7 @@
+There is not a woman. ||contradiction
+There is not a girl. ||contradiction
+There is not a bag. ||contradiction
+The woman is not carrying. ||contradiction
+The bag is not behind. ||contradiction
+The woman is not carrying the girl. ||contradiction
+The woman is not with the bag. ||contradiction

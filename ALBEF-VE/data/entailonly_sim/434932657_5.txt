@@ -1,0 +1,5 @@
+there is a dude ||entailment
+there is a bestow ||neutral
+the bestow is in ||neutral
+the dude rides the bull ||contradiction
+the bull is in facade of another ||entailment

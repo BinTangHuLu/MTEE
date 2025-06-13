@@ -1,0 +1,5 @@
+There is not a girl. ||contradiction
+There is not a phone. ||contradiction
+There is not a boat. ||contradiction
+The girl does not check the phone. ||contradiction
+The girl is not on the boat. ||contradiction

@@ -1,0 +1,3 @@
+there is a person ||entailment
+there is a machine ||entailment
+the person is using the machine ||entailment

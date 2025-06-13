@@ -1,0 +1,5 @@
+There are community. ||entailment
+There is drink. ||entailment
+There are enough. ||neutral
+The community enjoy water. ||entailment
+The drink is near mountains. ||entailment

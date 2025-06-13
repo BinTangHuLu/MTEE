@@ -1,0 +1,3 @@
+there is a girl ||entailment
+the girl is young ||neutral
+the girl floats on her back ||entailment

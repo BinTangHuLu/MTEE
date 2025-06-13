@@ -1,0 +1,3 @@
+there is a child ||entailment
+there is atmosphere ||entailment
+the child jumps in air ||entailment

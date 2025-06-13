@@ -1,0 +1,3 @@
+There is a female. ||entailment
+There is a bank. ||contradiction
+The female is in the store. ||entailment

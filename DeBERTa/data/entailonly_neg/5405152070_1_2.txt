@@ -1,0 +1,7 @@
+There are not boys. ||contradiction
+There are not jackets. ||contradiction
+There is not a gym. ||contradiction
+There are not legs. ||contradiction
+The jackets are not track. ||contradiction
+The boys are not in gym. ||contradiction
+The boys do not stretch legs. ||contradiction

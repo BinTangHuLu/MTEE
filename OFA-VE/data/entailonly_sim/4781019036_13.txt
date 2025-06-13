@@ -1,0 +1,5 @@
+There are driver. ||Entailment
+There is a estate. ||Contradiction
+There is a drive. ||Entailment
+The Riders are riding the drive. ||Entailment
+The drive is on the park. ||Contradiction

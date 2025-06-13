@@ -1,0 +1,6 @@
+there is a person ||entailment
+there are some notes ||entailment
+there is a wall ||entailment
+the person is uniformed ||entailment
+the person looks at notes ||entailment
+the person is leaning against the wall ||contradiction

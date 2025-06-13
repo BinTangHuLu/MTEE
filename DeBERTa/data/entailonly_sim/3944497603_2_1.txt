@@ -1,0 +1,2 @@
+There is a rail line station. ||entailment
+Someone is standing near the metro depot. ||entailment

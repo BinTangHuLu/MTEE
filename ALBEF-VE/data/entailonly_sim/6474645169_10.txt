@@ -1,0 +1,3 @@
+there are list ||neutral
+there is a ball ||entailment
+the list are playing basketball ||entailment

@@ -1,0 +1,4 @@
+There is a dude. ||entailment
+There is a fedora. ||neutral
+The fedora is black. ||neutral
+The dude is swinging with children. ||entailment

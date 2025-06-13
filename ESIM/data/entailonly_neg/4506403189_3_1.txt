@@ -1,0 +1,5 @@
+There is not a man. ||contradiction
+There is not a bus. ||contradiction
+There is not Iraq. ||contradiction
+The man is not waiting for the bus. ||contradiction
+The man is not in Iraq. ||entailment

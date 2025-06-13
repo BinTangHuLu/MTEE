@@ -1,0 +1,3 @@
+there are boys ||entailment
+there are rocks ||entailment
+the boys are throwing rocks ||entailment

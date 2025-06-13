@@ -1,0 +1,5 @@
+There is a body. ||Entailment
+There is a baby. ||Entailment
+There is a album. ||Neutral
+The baby is small. ||Entailment
+The body has the book. ||Contradiction

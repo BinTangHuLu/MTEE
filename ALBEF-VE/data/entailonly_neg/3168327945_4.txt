@@ -1,0 +1,5 @@
+there is not a man ||contradiction
+there is not a child ||contradiction
+there is not a cane ||contradiction
+the cane is not plastic ||neutral
+the man does not look at the child ||contradiction

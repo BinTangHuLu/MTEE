@@ -1,0 +1,3 @@
+there is a man ||entailment
+there is a cart ||entailment
+the man is pulling the cart ||entailment

@@ -1,0 +1,3 @@
+there is a crowd ||entailment
+there is a station ||entailment
+the crowd waits at the station ||entailment

@@ -1,0 +1,9 @@
+There is not a woman. ||contradiction
+There is not a street corner. ||contradiction
+There are not some stores. ||contradiction
+The stores are not different. ||entailment
+The stores are not three. ||contradiction
+The stores do not have beautiful artwork. ||contradiction
+The stores are not Largo. ||contradiction
+The woman is not standing on the street corner. ||contradiction
+The woman is not beside the stores. ||contradiction

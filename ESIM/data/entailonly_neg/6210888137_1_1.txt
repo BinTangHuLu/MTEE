@@ -1,0 +1,7 @@
+There is not a guy. ||contradiction
+There is not a collision. ||contradiction
+There are not Hondas. ||contradiction
+There is not a Schwinn. ||contradiction
+The guy does not look upon the collision. ||contradiction
+The collision is not between Hondas. ||contradiction
+The collision is not between Schwinn. ||contradiction

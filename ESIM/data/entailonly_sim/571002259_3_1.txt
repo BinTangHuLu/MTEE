@@ -1,0 +1,4 @@
+There is a dude. ||neutral
+There is a brain. ||contradiction
+The dude is safety gear. ||entailment
+The dude is wearing head. ||contradiction

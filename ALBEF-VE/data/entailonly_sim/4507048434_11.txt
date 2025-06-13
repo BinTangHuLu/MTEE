@@ -1,0 +1,8 @@
+there is a dude ||entailment
+there is a fedora ||entailment
+there is a fur ||entailment
+there is a community ||entailment
+the dude is reading ||entailment
+the dude is in hat ||entailment
+the dude is in coat ||entailment
+the dude is reading newspaper ||entailment

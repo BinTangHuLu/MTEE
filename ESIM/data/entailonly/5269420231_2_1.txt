@@ -1,0 +1,4 @@
+There is a girl. ||entailment
+The girl is young. ||entailment
+The girl is in the middle of jumping. ||entailment
+The girl is in the middle of a dance routine. ||entailment

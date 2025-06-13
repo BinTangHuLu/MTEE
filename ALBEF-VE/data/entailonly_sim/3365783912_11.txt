@@ -1,0 +1,3 @@
+there are dude ||entailment
+the dude are wearing suits ||entailment
+the dude are walking ||entailment

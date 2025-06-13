@@ -1,0 +1,4 @@
+There is a can. ||entailment
+There are some flora. ||entailment
+There is a female. ||entailment
+The can is carried by the woman. ||entailment

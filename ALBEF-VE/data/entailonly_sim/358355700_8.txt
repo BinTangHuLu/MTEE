@@ -1,0 +1,6 @@
+there are clan ||entailment
+there are man ||entailment
+there is a bound house ||entailment
+the clan and adults are outside ||entailment
+the clan are outside the bounce house ||entailment
+the man are outside the bounce house ||entailment

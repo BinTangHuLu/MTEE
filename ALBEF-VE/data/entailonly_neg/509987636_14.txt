@@ -1,0 +1,6 @@
+there is not a man ||contradiction
+there is not a hat ||contradiction
+there are not some photos ||contradiction
+the hat is not white ||entailment
+the man is not wearing the hat ||contradiction
+the man is not close to the photos ||contradiction

@@ -1,0 +1,3 @@
+There is not a guy. ||contradiction
+There is not a football. ||contradiction
+The guy is not holding the football. ||contradiction

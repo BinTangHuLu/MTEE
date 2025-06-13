@@ -1,0 +1,5 @@
+There is a dude. ||entailment
+There is a walking bar. ||entailment
+There is a avenue. ||entailment
+The dude is with a walking stick. ||neutral
+The dude is next to street. ||entailment

@@ -1,0 +1,4 @@
+there is not a girl ||contradiction
+there is not a telescope ||contradiction
+the girl is not little ||entailment
+the girl is not looking through telescope ||contradiction

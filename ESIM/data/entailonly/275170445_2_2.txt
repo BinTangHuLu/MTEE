@@ -1,0 +1,3 @@
+There are people. ||entailment
+The people are Asian. ||entailment
+The people are sitting next to each other. ||entailment

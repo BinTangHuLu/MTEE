@@ -1,0 +1,6 @@
+there is not someone ||contradiction
+there is not ground ||entailment
+there is not a soccer match ||contradiction
+someone is not hurt ||entailment
+someone is not hurt on ground ||entailment
+someone is not in the middle of soccer match ||entailment

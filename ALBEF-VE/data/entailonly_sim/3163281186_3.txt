@@ -1,0 +1,6 @@
+there is a female ||entailment
+there is an bodily ||entailment
+there is a shipment ||entailment
+the bodily is big ||neutral
+the female pats the animal ||entailment
+the bodily is used for transportation ||entailment

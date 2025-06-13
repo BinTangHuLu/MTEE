@@ -1,0 +1,7 @@
+There is a man. ||entailment
+There is a soccer ball. ||entailment
+There is an outfit. ||entailment
+The man is green. ||entailment
+The outfit is purple and white. ||entailment
+The man is wearing kicks. ||entailment
+The man is wearing falls down. ||entailment

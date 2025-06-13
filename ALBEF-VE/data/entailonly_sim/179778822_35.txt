@@ -1,0 +1,7 @@
+there is a female ||entailment
+there is a baby ||entailment
+there is a depict ||entailment
+the female looks at the child ||entailment
+the baby looks at the woman ||entailment
+the female is in the mirror ||entailment
+the baby is in the mirror ||entailment

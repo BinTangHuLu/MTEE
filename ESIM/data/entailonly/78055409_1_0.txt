@@ -1,0 +1,5 @@
+There is a mixer. ||entailment
+There is a couple. ||entailment
+The mixer is new. ||entailment
+The couple is new. ||entailment
+The mixer is necessary for the couple. ||entailment

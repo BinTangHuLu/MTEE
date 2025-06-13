@@ -1,0 +1,3 @@
+There is a boy. ||entailment
+There is a bike. ||entailment
+The boy is learning ride. ||entailment

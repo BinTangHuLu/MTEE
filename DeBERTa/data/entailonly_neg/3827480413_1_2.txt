@@ -1,0 +1,3 @@
+There is not an attraction. ||contradiction
+There are not tourists. ||contradiction
+The attraction did not draw the attention of tourists. ||contradiction

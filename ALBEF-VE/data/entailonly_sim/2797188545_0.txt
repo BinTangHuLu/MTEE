@@ -1,0 +1,3 @@
+there are community ||entailment
+there is a kayak ||entailment
+the community are in the canoe ||entailment

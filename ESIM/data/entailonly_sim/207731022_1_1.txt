@@ -1,0 +1,2 @@
+There is a kayak. ||entailment
+The kayak goes over waterfall. ||contradiction

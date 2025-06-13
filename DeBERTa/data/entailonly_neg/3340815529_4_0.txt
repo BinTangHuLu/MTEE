@@ -1,0 +1,4 @@
+There is not a male. ||contradiction
+The male is not elderly. ||contradiction
+The male is not blowing air. ||contradiction
+The male is not blowing into object. ||contradiction

@@ -1,0 +1,5 @@
+there is not a lady ||contradiction
+there is not an ocean ||contradiction
+the lady is not outside ||contradiction
+the lady is not walking ||contradiction
+the lady is not walking above the ocean ||entailment

@@ -1,0 +1,3 @@
+There is a man. ||Entailment
+There are some cats. ||Entailment
+The man is surrounded by cats. ||Entailment

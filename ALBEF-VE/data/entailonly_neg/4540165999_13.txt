@@ -1,0 +1,4 @@
+there is not a woman ||contradiction
+there is not a coat ||contradiction
+the coat is not black fur ||entailment
+the woman is wearing the coat ||entailment

@@ -1,0 +1,5 @@
+there is a man ||entailment
+there is a presentation ||entailment
+there are visuals ||entailment
+the man is giving a presentation ||entailment
+the presentation is with visuals ||entailment

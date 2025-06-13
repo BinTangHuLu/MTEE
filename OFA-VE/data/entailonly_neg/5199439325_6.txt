@@ -1,0 +1,4 @@
+There is not a Student. ||Contradiction
+There is not a project. ||Contradiction
+The project is not art. ||Contradiction
+The Student is not working on the project. ||Contradiction

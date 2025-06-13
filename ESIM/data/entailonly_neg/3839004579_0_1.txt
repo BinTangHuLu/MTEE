@@ -1,0 +1,10 @@
+There is not a biker. ||contradiction
+There is not a rider. ||contradiction
+There is not a sky. ||contradiction
+The biker is not extreme. ||contradiction
+The rider is not mid-jump. ||contradiction
+The rider is not underneath. ||contradiction
+The rider is not showing. ||contradiction
+The sky is not blue. ||contradiction
+The biker is not in mid-jump. ||contradiction
+The rider is not showing the sky. ||contradiction

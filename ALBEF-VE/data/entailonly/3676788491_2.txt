@@ -1,0 +1,4 @@
+there is a man ||entailment
+there is a building ||entailment
+the building is yellow ||entailment
+the man is standing in front of the building ||entailment

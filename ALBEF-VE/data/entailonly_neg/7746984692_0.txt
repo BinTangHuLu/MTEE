@@ -1,0 +1,3 @@
+there is not a hiker ||contradiction
+there is not a road ||contradiction
+the hiker is not walking along the road ||contradiction

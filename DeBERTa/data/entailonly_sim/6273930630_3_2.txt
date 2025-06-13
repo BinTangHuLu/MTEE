@@ -1,0 +1,5 @@
+There are dude. ||entailment
+There are three dude. ||entailment
+The dude have red uniforms. ||entailment
+The dude are celebrating a goal. ||entailment
+The dude are at a soccer game. ||entailment

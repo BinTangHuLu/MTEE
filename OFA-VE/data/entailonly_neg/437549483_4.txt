@@ -1,0 +1,4 @@
+There is not a female. ||Entailment
+There is not an arts. ||Contradiction
+The female is not performing. ||Contradiction
+The female is not performing arts. ||Contradiction

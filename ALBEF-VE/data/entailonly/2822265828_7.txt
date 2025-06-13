@@ -1,0 +1,3 @@
+there is a cheer squad ||entailment
+there is a picture ||entailment
+the cheer squad gets a picture ||entailment

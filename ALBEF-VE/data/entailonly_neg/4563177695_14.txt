@@ -1,0 +1,5 @@
+there are not workers ||contradiction
+there are not feet ||entailment
+there is not ground ||entailment
+the workers do not have feet ||entailment
+the feet are not on ground ||entailment

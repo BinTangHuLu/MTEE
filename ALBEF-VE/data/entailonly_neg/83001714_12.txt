@@ -1,0 +1,4 @@
+there are not kids ||contradiction
+there is not a road ||contradiction
+the kids are not playing tug of war ||contradiction
+the kids are not on the road ||entailment

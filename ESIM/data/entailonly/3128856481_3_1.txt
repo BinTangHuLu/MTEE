@@ -1,0 +1,3 @@
+There is an animal. ||entailment
+There is a picture. ||entailment
+The animal is in the picture. ||entailment

@@ -1,0 +1,4 @@
+there is a dude ||entailment
+there is a pedal race ||entailment
+there is a pedal ||entailment
+the dude jumps bike ||entailment

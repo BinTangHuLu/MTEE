@@ -1,0 +1,3 @@
+there is a forest ||entailment
+there is some dirt ||neutral
+the forest is on the ground ||contradiction

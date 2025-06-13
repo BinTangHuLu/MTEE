@@ -1,0 +1,5 @@
+There is not a person. ||Contradiction
+There is not a car. ||Contradiction
+There is not a street. ||Contradiction
+The person does not go by the car. ||Contradiction
+The car is not next to the street. ||Contradiction

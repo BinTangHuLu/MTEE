@@ -1,0 +1,6 @@
+There is not a man. ||Contradiction
+The man is not older. ||Entailment
+There is not an instrument. ||Contradiction
+The instrument is not unique. ||Entailment
+The man does not sit. ||Contradiction
+The man is not playing the instrument. ||Contradiction

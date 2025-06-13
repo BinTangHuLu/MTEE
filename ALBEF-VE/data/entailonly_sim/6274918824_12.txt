@@ -1,0 +1,3 @@
+there is a body ||entailment
+there is a method ||entailment
+the body prepares the recipe ||entailment

@@ -1,0 +1,4 @@
+there is not a girl ||contradiction
+there are not teeth ||contradiction
+the girl is not brushing teeth ||contradiction
+the girl is not outside teeth ||entailment

@@ -1,0 +1,4 @@
+there is not a boy ||contradiction
+there is not a phone ||contradiction
+the boy is not young ||contradiction
+the boy does not hold the phone ||contradiction

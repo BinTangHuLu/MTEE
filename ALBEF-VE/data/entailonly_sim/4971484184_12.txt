@@ -1,0 +1,5 @@
+there is a female ||entailment
+there is a auto ||entailment
+the female is fully clothed ||entailment
+the auto is blue ||entailment
+the female poses next to the car ||entailment

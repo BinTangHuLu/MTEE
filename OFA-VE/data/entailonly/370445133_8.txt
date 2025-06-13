@@ -1,0 +1,2 @@
+There is a cowboy. ||Entailment
+There is a hat. ||Entailment

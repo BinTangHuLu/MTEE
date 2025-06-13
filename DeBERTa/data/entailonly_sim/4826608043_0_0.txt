@@ -1,0 +1,3 @@
+There are community. ||entailment
+The community are caring. ||neutral
+The community are caring for lawns. ||entailment

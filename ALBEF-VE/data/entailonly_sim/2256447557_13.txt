@@ -1,0 +1,3 @@
+there is a coast ||entailment
+the kids and man are on the beach ||entailment
+the kids are on the coast ||entailment

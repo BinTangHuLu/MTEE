@@ -1,0 +1,5 @@
+There is a guy. ||entailment
+There is a sweatshirt. ||entailment
+There is a power saw. ||entailment
+The guy is wearing a sweatshirt. ||entailment
+The guy uses a power saw. ||entailment

@@ -1,0 +1,2 @@
+There are not children. ||contradiction
+The children are not together. ||contradiction

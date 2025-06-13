@@ -1,0 +1,5 @@
+There is a attempt. ||Entailment
+There are some community. ||Entailment
+There is a avenue. ||Entailment
+The attempt is of people. ||Entailment
+The community are on the street. ||Entailment

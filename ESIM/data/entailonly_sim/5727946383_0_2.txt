@@ -1,0 +1,7 @@
+There is a female. ||entailment
+There is a dude. ||entailment
+There is a set. ||neutral
+The female dances. ||entailment
+The female dances with the man. ||entailment
+The dude is next to the couple. ||entailment
+The set is dancing. ||entailment

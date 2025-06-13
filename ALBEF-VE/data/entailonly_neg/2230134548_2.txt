@@ -1,0 +1,5 @@
+there is not food ||contradiction
+there is not a chef ||contradiction
+the food is not being prepared ||contradiction
+the food is not being prepared by the chef ||contradiction
+the chef is not seeing outside ||contradiction

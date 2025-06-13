@@ -1,0 +1,3 @@
+There are Men. ||entailment
+Men are talking. ||entailment
+Men are catching fish. ||entailment

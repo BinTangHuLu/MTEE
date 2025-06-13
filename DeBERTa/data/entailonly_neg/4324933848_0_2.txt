@@ -1,0 +1,4 @@
+There is not a boy. ||contradiction
+The boy is not looking at. ||contradiction
+There are not pastries. ||contradiction
+The boy is not looking at pastries. ||contradiction

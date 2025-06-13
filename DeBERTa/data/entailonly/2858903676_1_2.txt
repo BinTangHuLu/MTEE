@@ -1,0 +1,4 @@
+There are women. ||entailment
+There are pictures. ||entailment
+The women are taking. ||entailment
+The pictures are of each other. ||entailment

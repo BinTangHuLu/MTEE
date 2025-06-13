@@ -1,0 +1,3 @@
+there are fishermen ||entailment
+there are two fishermen ||entailment
+the fishermen are fishing ||neutral

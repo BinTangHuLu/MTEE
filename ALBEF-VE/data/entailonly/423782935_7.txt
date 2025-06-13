@@ -1,0 +1,3 @@
+there are men ||entailment
+there is equipment ||entailment
+the men are standing outside near equipment ||entailment

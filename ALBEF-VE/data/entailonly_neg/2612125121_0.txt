@@ -1,0 +1,5 @@
+there are not people ||contradiction
+there is not someone ||contradiction
+there is not a guitar ||contradiction
+people do not watch someone ||contradiction
+someone does not play guitar ||contradiction

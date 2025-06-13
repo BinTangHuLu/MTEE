@@ -1,0 +1,3 @@
+there is a street ||entailment
+there are some items ||entailment
+the street is with items ||entailment

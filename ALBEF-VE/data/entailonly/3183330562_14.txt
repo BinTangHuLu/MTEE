@@ -1,0 +1,5 @@
+there are kids ||entailment
+there is a man ||entailment
+there is a path ||entailment
+the kids follow the man ||entailment
+the man is on the path ||entailment

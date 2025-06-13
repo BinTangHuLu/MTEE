@@ -1,0 +1,5 @@
+there is not a woman ||contradiction
+there is not a lady ||contradiction
+the woman is not asian ||contradiction
+the woman is not smiling at ||contradiction
+the lady is not rowing ||entailment

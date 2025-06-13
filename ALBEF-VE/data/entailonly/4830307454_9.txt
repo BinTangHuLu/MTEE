@@ -1,0 +1,6 @@
+there is a kid ||entailment
+there is a shirt ||entailment
+there is a hat ||entailment
+the shirt is white ||entailment
+the hat is black ||entailment
+the kid is wearing the shirt ||entailment

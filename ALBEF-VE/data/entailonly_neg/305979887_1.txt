@@ -1,0 +1,6 @@
+there is not a woman ||contradiction
+there is not some grass ||entailment
+there is not a stroller ||contradiction
+the woman is not sitting ||entailment
+the woman is not sitting on grass ||entailment
+the woman is not near a stroller ||contradiction

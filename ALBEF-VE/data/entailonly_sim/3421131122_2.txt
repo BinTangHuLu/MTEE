@@ -1,0 +1,3 @@
+there is a barge rider ||contradiction
+there is drink ||neutral
+the barge rider is splashed with water ||contradiction

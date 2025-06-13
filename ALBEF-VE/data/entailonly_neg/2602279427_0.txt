@@ -1,0 +1,4 @@
+there is not a person ||contradiction
+there is not an apron ||contradiction
+the apron is not yellow ||contradiction
+the person does not have an apron ||contradiction

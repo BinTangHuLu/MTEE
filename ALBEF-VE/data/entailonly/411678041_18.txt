@@ -1,0 +1,7 @@
+there is a man ||entailment
+there is a horse ||entailment
+there are skills ||entailment
+there is a rope ||entailment
+the man stands on the horse ||entailment
+the man is displaying skills ||entailment
+the skills are with the rope ||neutral

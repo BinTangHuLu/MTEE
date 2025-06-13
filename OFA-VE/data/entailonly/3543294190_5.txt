@@ -1,0 +1,4 @@
+There are wheels. ||Entailment
+There is someone. ||Entailment
+The wheels are back. ||Entailment
+The wheels are being used to balance. ||Entailment

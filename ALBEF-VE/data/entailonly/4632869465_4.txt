@@ -1,0 +1,3 @@
+there is a girl ||entailment
+there is a diploma ||entailment
+the girl holds a diploma ||entailment

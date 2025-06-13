@@ -1,0 +1,4 @@
+There are people. ||entailment
+There is a chair. ||entailment
+The people are young. ||entailment
+The people sit in the chair. ||entailment

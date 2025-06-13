@@ -1,0 +1,3 @@
+there are not musicians ||contradiction
+there is not noise ||contradiction
+the musicians are not making noise ||contradiction

@@ -1,0 +1,3 @@
+There is fooling. ||entailment
+There is a bedroom. ||entailment
+Fooling is around in bedroom. ||entailment

@@ -1,0 +1,4 @@
+There is a dude. ||Entailment
+There is a breakfast. ||Entailment
+The dude is young. ||Entailment
+The dude is eating the meal. ||Entailment

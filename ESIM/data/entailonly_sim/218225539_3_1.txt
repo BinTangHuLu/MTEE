@@ -1,0 +1,5 @@
+There are community. ||neutral
+There is drink. ||contradiction
+There are enough. ||entailment
+The community enjoy water. ||neutral
+The drink is near mountains. ||contradiction

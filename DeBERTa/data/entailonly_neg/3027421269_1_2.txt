@@ -1,0 +1,7 @@
+There is not a child. ||contradiction
+There is not a bag. ||contradiction
+The child is not young. ||contradiction
+The child is not African. ||contradiction
+The child is not carrying. ||contradiction
+The bag is not carrying. ||contradiction
+The child is not carrying the bag. ||contradiction

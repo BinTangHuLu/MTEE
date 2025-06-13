@@ -1,0 +1,6 @@
+there is an agent ||entailment
+there is a dude ||entailment
+the dude is in leather ||entailment
+the agent stands next to the motorcycle ||neutral
+the dude is in leather ||entailment
+the agent is with the man ||entailment

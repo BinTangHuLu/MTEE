@@ -1,0 +1,5 @@
+there is an bodily ||entailment
+there is an bodily ||entailment
+the bodily is large ||entailment
+the bodily is small white ||neutral
+the bodily is running with an animal ||entailment

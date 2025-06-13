@@ -1,0 +1,2 @@
+There is a WNBA game. ||Entailment
+The WNBA game is in progress. ||Entailment

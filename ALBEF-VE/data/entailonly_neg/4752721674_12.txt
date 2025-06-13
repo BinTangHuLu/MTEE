@@ -1,0 +1,3 @@
+there are not cameras ||contradiction
+the cameras are not on ||contradiction
+the cameras are not filming ||contradiction

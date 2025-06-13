@@ -1,0 +1,4 @@
+There is a dude. ||Entailment
+There is a apparatus. ||Entailment
+The apparatus is power. ||Entailment
+The dude is with tool. ||Entailment

@@ -1,0 +1,8 @@
+There is a woman. ||entailment
+There is a child. ||entailment
+There is a sun. ||neutral
+There is a level. ||entailment
+There is a building. ||entailment
+The woman protects the child. ||entailment
+The woman walks to the level. ||entailment
+The level is of the building. ||entailment

@@ -1,0 +1,3 @@
+there is a person ||entailment
+there is an instrument ||entailment
+the person is holding the instrument ||entailment

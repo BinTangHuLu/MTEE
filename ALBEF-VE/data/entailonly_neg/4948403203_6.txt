@@ -1,0 +1,5 @@
+there is not a man ||contradiction
+there is not a newspaper ||contradiction
+there is not a beach ||contradiction
+the man does not read the newspaper ||contradiction
+the newspaper is not at the beach ||contradiction

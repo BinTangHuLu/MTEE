@@ -1,0 +1,4 @@
+There is a man. ||Entailment
+There is a rider. ||Entailment
+The man is experienced. ||Entailment
+The man is an experienced rider. ||Entailment

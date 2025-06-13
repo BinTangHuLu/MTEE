@@ -1,0 +1,4 @@
+There are dude. ||entailment
+The dude are wearing dark clothing. ||entailment
+There is a backpack. ||entailment
+The dude is reaching into the bag. ||entailment

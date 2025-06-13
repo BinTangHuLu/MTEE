@@ -1,0 +1,3 @@
+there are community ||entailment
+there is a athletics ||entailment
+the community are playing a sport ||entailment

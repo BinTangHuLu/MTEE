@@ -1,0 +1,6 @@
+there is a female ||entailment
+there are clan ||entailment
+there is a geyser ||entailment
+the female looks away from the children ||contradiction
+the clan played in the fountain ||contradiction
+the geyser is nearby ||neutral

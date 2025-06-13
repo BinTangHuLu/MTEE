@@ -1,0 +1,3 @@
+there is a policeman ||entailment
+there is a distance ||entailment
+the policeman stares off into distance ||entailment

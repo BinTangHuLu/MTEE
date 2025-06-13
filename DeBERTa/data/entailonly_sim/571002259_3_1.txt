@@ -1,0 +1,4 @@
+There is a dude. ||entailment
+There is a brain. ||entailment
+The dude is safety gear. ||entailment
+The dude is wearing head. ||entailment

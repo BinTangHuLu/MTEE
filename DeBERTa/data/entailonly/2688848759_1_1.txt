@@ -1,0 +1,7 @@
+There are People. ||entailment
+The People are talking. ||entailment
+The People are drinking. ||entailment
+The People are sitting. ||entailment
+There is a table. ||entailment
+The table is outside. ||neutral
+The People are sitting at the table. ||entailment

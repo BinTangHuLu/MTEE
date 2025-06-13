@@ -1,0 +1,4 @@
+there are not men ||contradiction
+there is not a picker ||contradiction
+the picker is not green ||contradiction
+the men are not in the picker ||contradiction

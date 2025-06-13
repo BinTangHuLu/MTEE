@@ -1,0 +1,4 @@
+There is a referee. ||entailment
+There are some players. ||entailment
+The referee is getting ready to face-off. ||entailment
+The referee is getting ready to face-off with players. ||entailment

@@ -1,0 +1,3 @@
+there is a child ||entailment
+there is a account ||entailment
+the child is posing for the picture ||entailment

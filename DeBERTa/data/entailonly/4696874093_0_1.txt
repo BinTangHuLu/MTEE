@@ -1,0 +1,5 @@
+There is a man. ||entailment
+There are some steps. ||entailment
+There is a girl. ||entailment
+The man is being photographed by the girl. ||entailment
+The man is on the steps. ||entailment

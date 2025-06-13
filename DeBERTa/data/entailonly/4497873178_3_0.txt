@@ -1,0 +1,5 @@
+There is a man. ||entailment
+There is a woman. ||entailment
+There is a mule. ||entailment
+The man rides the mule. ||entailment
+The woman rides the mule. ||entailment

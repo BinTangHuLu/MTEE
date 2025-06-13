@@ -1,0 +1,3 @@
+There is not a person. ||Contradiction
+The person is not alone. ||Entailment
+The person is not sitting alone. ||Entailment

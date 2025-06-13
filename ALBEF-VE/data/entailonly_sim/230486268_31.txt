@@ -1,0 +1,5 @@
+there is a child ||entailment
+there is a doll ||neutral
+there is a apparatus ||entailment
+the child is little ||entailment
+the child has a toy ||entailment

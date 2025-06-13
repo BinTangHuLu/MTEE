@@ -1,0 +1,2 @@
+There is a kitchen. ||entailment
+The kitchen is not empty. ||entailment

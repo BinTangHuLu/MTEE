@@ -1,0 +1,2 @@
+There are not women. ||Entailment
+There are not outdoors. ||Contradiction

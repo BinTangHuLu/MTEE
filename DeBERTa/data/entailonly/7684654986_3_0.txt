@@ -1,0 +1,5 @@
+There are boys. ||entailment
+There is a project. ||entailment
+The boys are working. ||entailment
+The project is art. ||neutral
+The boys are working on the project. ||entailment

@@ -1,0 +1,4 @@
+There is a child. ||entailment
+There is a relative. ||entailment
+The child is playing Nintendo DS. ||entailment
+The child is with sister. ||entailment

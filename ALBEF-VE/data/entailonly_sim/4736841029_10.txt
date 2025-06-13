@@ -1,0 +1,8 @@
+there is a baby ||entailment
+there is some eyebrow ||entailment
+there is a dress ||entailment
+there is a abbreviate ||entailment
+the eyebrow is long ||neutral
+the baby is with hair ||entailment
+the baby is wearing a skirt ||neutral
+the baby is looking through a telescope ||entailment

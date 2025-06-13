@@ -1,0 +1,2 @@
+there is a bar ||entailment
+the cameras are in facade of the wall ||entailment

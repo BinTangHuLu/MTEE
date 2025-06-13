@@ -1,0 +1,4 @@
+There is not an ocean. ||Contradiction
+There are not some seas. ||Contradiction
+The seas are not rough. ||Entailment
+The ocean does not have seas. ||Contradiction

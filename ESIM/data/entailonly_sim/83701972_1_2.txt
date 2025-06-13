@@ -1,0 +1,4 @@
+There are community. ||neutral
+There are two community. ||entailment
+The community are enjoying. ||entailment
+The community are outside. ||entailment

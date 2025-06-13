@@ -1,0 +1,8 @@
+There is a childbearing. ||Entailment
+There are claw. ||Contradiction
+There is a ability. ||Entailment
+There is a brain piece. ||Contradiction
+The childbearing is very colorfully robed. ||Entailment
+The claw are painted red. ||Neutral
+The childbearing is with fingers. ||Entailment
+The childbearing has on head piece. ||Entailment

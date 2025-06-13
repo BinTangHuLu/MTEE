@@ -1,0 +1,3 @@
+there is a boy ||entailment
+there is a distance ||entailment
+the boy stares into the distance ||entailment

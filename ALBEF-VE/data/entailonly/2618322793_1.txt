@@ -1,0 +1,3 @@
+there is a kid ||entailment
+there is outside ||entailment
+the kid plays outside ||entailment

@@ -1,0 +1,2 @@
+there is a cowboy ||entailment
+the cowboy is outside ||entailment

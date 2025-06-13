@@ -1,0 +1,4 @@
+There is not a girl. ||Contradiction
+There are not some animals. ||Contradiction
+The girl is not small. ||Entailment
+The girl does not enjoy animals. ||Neutral

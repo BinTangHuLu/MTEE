@@ -1,0 +1,4 @@
+There are not People. ||contradiction
+The People are not in beach attire. ||contradiction
+There is not attire. ||contradiction
+The People are not in attire. ||contradiction

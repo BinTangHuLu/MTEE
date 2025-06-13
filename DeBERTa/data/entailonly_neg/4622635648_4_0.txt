@@ -1,0 +1,3 @@
+There is not a man. ||contradiction
+There is not a briefcase. ||contradiction
+The man does not hold the briefcase. ||contradiction

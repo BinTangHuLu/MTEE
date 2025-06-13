@@ -1,0 +1,4 @@
+There is a baby. ||Contradiction
+There is a skateboard conspiracy. ||Neutral
+The baby is doing. ||Contradiction
+The baby is doing a skateboard trick. ||Neutral

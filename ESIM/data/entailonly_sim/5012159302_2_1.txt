@@ -1,0 +1,4 @@
+There are dude. ||neutral
+There are knickers. ||contradiction
+The Men are in knickers. ||contradiction
+The dude work to fix the tractor. ||neutral

@@ -1,0 +1,4 @@
+There are riders. ||entailment
+There is a ceremony. ||neutral
+The riders are professional. ||entailment
+The riders are at the ceremony. ||neutral

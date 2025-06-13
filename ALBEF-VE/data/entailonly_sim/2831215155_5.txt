@@ -1,0 +1,3 @@
+there is a female ||entailment
+there are enough ||entailment
+the female is looking at mountains ||entailment

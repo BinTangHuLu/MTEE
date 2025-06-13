@@ -1,0 +1,3 @@
+There is not a man. ||Contradiction
+There is not a skirt. ||Entailment
+The man is not wearing a skirt. ||Neutral

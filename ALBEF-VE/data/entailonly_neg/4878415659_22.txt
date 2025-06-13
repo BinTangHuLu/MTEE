@@ -1,0 +1,9 @@
+there is not a toddler ||contradiction
+there are not some boots ||contradiction
+there is not a hat ||contradiction
+there is not a coat ||contradiction
+the coat is not orange sashed white ||contradiction
+the boots are not wearing ||contradiction
+the toddler is not wearing boots ||contradiction
+the toddler is not wearing a hat ||contradiction
+the toddler is not wearing a coat ||contradiction

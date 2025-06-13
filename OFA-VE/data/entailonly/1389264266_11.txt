@@ -1,0 +1,4 @@
+There are girls. ||Entailment
+There are two girls. ||Entailment
+The girls are standing up. ||Entailment
+The girls are standing up facing each other. ||Entailment

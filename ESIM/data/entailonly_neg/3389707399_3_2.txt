@@ -1,0 +1,3 @@
+There are not men. ||contradiction
+There are not shoes. ||contradiction
+The men are not polishing shoes. ||contradiction

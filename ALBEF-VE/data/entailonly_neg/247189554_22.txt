@@ -1,0 +1,6 @@
+there is not a man ||contradiction
+there is not a chair ||contradiction
+there is not a camera ||contradiction
+the man is not two armed ||entailment
+the man is not in the chair ||contradiction
+the man is not facing the camera ||entailment

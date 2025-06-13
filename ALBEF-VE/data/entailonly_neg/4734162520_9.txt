@@ -1,0 +1,3 @@
+there is not an officer ||contradiction
+there is not a motorcycle ||contradiction
+the officer is not on the motorcycle ||entailment

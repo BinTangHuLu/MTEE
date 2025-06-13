@@ -1,0 +1,3 @@
+There is a baby. ||entailment
+There is a clinic. ||neutral
+The baby is at hospital. ||entailment

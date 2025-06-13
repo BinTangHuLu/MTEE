@@ -1,0 +1,4 @@
+There is not a group. ||contradiction
+There are not some people. ||contradiction
+There is not a parade. ||contradiction
+The group does not march in the parade. ||contradiction

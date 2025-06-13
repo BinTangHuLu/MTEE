@@ -1,0 +1,5 @@
+There is a dude. ||entailment
+There is blizzard. ||neutral
+The dude is trekking. ||entailment
+The dude is with ski poles. ||entailment
+The dude is through snow. ||entailment

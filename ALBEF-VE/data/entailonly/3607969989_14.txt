@@ -1,0 +1,4 @@
+there is a man ||entailment
+it is midday ||entailment
+the man is skateboarding ||entailment
+the man is skateboarding at midday ||entailment

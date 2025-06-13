@@ -1,0 +1,4 @@
+there is not a man ||contradiction
+there is not an instrument ||contradiction
+the instrument is not musical ||neutral
+the man does not know how to play the instrument ||contradiction

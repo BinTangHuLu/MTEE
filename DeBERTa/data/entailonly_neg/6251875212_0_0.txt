@@ -1,0 +1,5 @@
+There is not a rider. ||contradiction
+There are not some ramps. ||contradiction
+It is not a sunny day. ||contradiction
+The rider does not have a bike. ||contradiction
+The rider is not jumping ramps. ||contradiction

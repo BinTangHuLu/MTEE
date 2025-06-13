@@ -1,0 +1,4 @@
+There is not a Woman. ||Entailment
+There is not some fabric. ||Entailment
+There is not outdoors. ||Entailment
+The Woman does not work with fabric. ||Entailment

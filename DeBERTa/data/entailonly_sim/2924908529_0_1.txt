@@ -1,0 +1,5 @@
+There are female. ||entailment
+There is a association. ||entailment
+The female are alike. ||neutral
+The association is dressed. ||entailment
+The association is dressed by women. ||entailment

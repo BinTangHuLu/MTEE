@@ -1,0 +1,10 @@
+there is not a sign ||contradiction
+there are not kids ||contradiction
+there is not water ||contradiction
+the sign does not show ||entailment
+the sign does not show kids ||contradiction
+the sign does not show mountains ||entailment
+the sign does not show water ||entailment
+the kids are not in image ||entailment
+the mountains are not in image ||entailment
+the water is not in image ||entailment

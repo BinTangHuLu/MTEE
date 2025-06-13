@@ -1,0 +1,4 @@
+there is a lap ||neutral
+there is a circle ||neutral
+someone is standing on lap ||neutral
+someone is in facade of the crowd ||entailment

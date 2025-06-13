@@ -1,0 +1,1 @@
+There are dogs. ||entailment

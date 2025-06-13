@@ -1,0 +1,4 @@
+There is not a player. ||Contradiction
+There is not a tennis. ||Entailment
+The player is not tennis. ||Entailment
+The player is not playing tennis. ||Contradiction

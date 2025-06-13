@@ -1,0 +1,3 @@
+there is a dude ||entailment
+the skateboard is in course ||neutral
+the dude sits with skateboard ||entailment

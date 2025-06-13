@@ -1,0 +1,3 @@
+There is not a dog. ||Contradiction
+There is not a rock. ||Contradiction
+The dog is not on the rock. ||Entailment

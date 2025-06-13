@@ -1,0 +1,4 @@
+There is a female. ||entailment
+The female is painted green. ||entailment
+The female is holding. ||entailment
+The female is holding a hula hoop. ||entailment

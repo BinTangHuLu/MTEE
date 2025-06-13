@@ -1,0 +1,3 @@
+there is a man ||entailment
+there is some coffee ||entailment
+the man sells coffee ||entailment

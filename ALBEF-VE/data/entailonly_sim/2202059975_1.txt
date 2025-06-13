@@ -1,0 +1,2 @@
+there is a avenue ||entailment
+the shoppers are walking on the border of the street ||contradiction

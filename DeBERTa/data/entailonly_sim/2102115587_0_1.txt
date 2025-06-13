@@ -1,0 +1,3 @@
+There are clan. ||entailment
+The clan are competing in a race. ||neutral
+The chase is a relay competition. ||entailment

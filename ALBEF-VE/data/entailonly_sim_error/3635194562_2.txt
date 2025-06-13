@@ -1,0 +1,2 @@
+EA,hat,white
+RE2,is wearing,hat

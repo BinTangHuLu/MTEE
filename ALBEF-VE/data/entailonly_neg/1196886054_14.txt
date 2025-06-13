@@ -1,0 +1,3 @@
+there is not a wedding ||contradiction
+there is not outdoors ||contradiction
+the wedding is not being held outdoors ||contradiction

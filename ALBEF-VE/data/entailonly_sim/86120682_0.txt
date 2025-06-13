@@ -1,0 +1,3 @@
+there is a gentlewoman ||entailment
+there is an boiler ||entailment
+the gentlewoman stands in front of the incinerator ||contradiction

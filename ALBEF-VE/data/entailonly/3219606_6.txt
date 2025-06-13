@@ -1,0 +1,3 @@
+there is a choir ||entailment
+there are decorations ||entailment
+the choir is singing with decorations ||entailment

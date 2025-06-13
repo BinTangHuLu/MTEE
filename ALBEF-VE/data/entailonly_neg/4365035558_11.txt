@@ -1,0 +1,5 @@
+there are not people ||contradiction
+there is not a beach ||contradiction
+there is not a puppy ||contradiction
+the people did not visit the beach ||contradiction
+the beach is not with a puppy ||contradiction

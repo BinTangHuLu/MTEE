@@ -1,0 +1,3 @@
+there is a childbearing ||entailment
+there is a t blouse ||entailment
+the childbearing is wearing t shirt ||entailment

@@ -1,0 +1,3 @@
+There is not a climber. ||contradiction
+There are not some rocks. ||contradiction
+The climber does not pull himself up rocks. ||contradiction

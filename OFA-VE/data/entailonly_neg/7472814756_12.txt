@@ -1,0 +1,3 @@
+There are not sailboats. ||Contradiction
+There is not a race. ||Contradiction
+The sailboats are not in the race. ||Contradiction

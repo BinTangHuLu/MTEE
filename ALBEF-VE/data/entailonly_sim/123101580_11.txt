@@ -1,0 +1,3 @@
+there are adolescent ||entailment
+there are two adolescent ||entailment
+the adolescent are playing soccer ||entailment

@@ -1,0 +1,7 @@
+there is not a person ||contradiction
+there is not a t shirt ||contradiction
+there is not a piece of paper ||contradiction
+there is not ground ||entailment
+the piece of paper is not large ||neutral
+the person does not paint on the piece of paper ||contradiction
+the piece of paper is not on ground ||contradiction

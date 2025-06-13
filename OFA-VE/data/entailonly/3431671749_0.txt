@@ -1,0 +1,3 @@
+There is a car. ||Entailment
+The car is driving. ||Entailment
+The car is driving outdoors. ||Entailment

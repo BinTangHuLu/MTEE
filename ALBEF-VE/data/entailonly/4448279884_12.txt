@@ -1,0 +1,3 @@
+there is a crowd ||entailment
+there are flames ||entailment
+the crowd sees flames ||entailment

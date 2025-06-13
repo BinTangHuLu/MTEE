@@ -1,0 +1,5 @@
+There are people. ||entailment
+There is a photo. ||entailment
+There are four people. ||entailment
+The photo is outdoor. ||entailment
+The people pose for the photo. ||entailment

@@ -1,0 +1,5 @@
+There is not a man. ||contradiction
+There are not some rocks. ||contradiction
+There are not some mountains. ||contradiction
+The man is not jumping over rocks. ||contradiction
+The rocks are not near mountains. ||contradiction

@@ -1,0 +1,3 @@
+there is a lady ||entailment
+there are some bananas ||neutral
+the lady is with bananas ||neutral

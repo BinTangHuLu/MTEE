@@ -1,0 +1,2 @@
+there is an arbitrator ||entailment
+the arbitrator is outside ||entailment

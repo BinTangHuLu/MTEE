@@ -1,0 +1,3 @@
+There is a man. ||Entailment
+There are sunglasses. ||Entailment
+The man has sunglasses. ||Entailment

@@ -1,0 +1,4 @@
+There is a acrobat. ||entailment
+There is a conventional. ||entailment
+The acrobat is performing routine. ||neutral
+The conventional is on bars. ||entailment

@@ -1,0 +1,4 @@
+There are people. ||Entailment
+There is a stage. ||Entailment
+The people are young. ||Entailment
+The people are on stage. ||Entailment

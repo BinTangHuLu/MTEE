@@ -1,0 +1,5 @@
+there is a man ||entailment
+there is a toy ||entailment
+there is a hand ||entailment
+the man holds the toy ||entailment
+the man sits ||entailment

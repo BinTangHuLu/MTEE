@@ -1,0 +1,4 @@
+There are not people. ||Contradiction
+There is not a sidewalk. ||Contradiction
+There are not many people. ||Contradiction
+The people are not out on sidewalk. ||Entailment

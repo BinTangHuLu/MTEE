@@ -1,0 +1,6 @@
+there is a man ||entailment
+there are guards ||entailment
+there are stairs ||entailment
+the man is older ||entailment
+the man is walking past guards ||entailment
+the guards are on stairs ||entailment

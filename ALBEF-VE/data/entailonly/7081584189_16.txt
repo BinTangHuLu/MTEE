@@ -1,0 +1,4 @@
+there is a couple ||entailment
+there are some people ||entailment
+there is a kayak ||entailment
+the people are in kayak ||entailment

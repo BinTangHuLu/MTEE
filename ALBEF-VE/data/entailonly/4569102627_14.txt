@@ -1,0 +1,5 @@
+there is a girl ||entailment
+there is some hair ||entailment
+the hair is curly ||entailment
+the girl is with hair ||entailment
+the girl is drinking straw ||neutral

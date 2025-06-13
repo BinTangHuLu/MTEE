@@ -1,0 +1,6 @@
+there is not a woman ||contradiction
+there is not an animal ||contradiction
+there is not a transportation ||contradiction
+the animal is not big ||contradiction
+the woman does not pat the animal ||contradiction
+the animal is not used for transportation ||entailment

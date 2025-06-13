@@ -1,0 +1,6 @@
+there is a baby ||entailment
+there is a blouse ||entailment
+there is a fedora ||contradiction
+the blouse is white ||entailment
+the fedora is black ||neutral
+the baby is wearing the shirt ||entailment

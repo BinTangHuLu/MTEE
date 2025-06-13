@@ -1,0 +1,7 @@
+there is not a dog ||contradiction
+there is not a stick ||contradiction
+there is not water ||contradiction
+the dog is not black and white ||contradiction
+the dog is not retrieving ||contradiction
+the dog is not retrieving stick ||contradiction
+the stick is not from water ||contradiction

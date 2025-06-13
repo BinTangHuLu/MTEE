@@ -1,0 +1,7 @@
+there is a player ||entailment
+there is an opponent ||entailment
+there is a shot ||entailment
+there is a court ||entailment
+the player is female ||entailment
+the player blocks the shot ||entailment
+the shot is on the court ||neutral

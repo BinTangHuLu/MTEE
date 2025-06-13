@@ -1,0 +1,7 @@
+there is a man ||entailment
+there is a violin ||entailment
+the man plays violin ||entailment
+there is a banjo ||entailment
+there is another ||entailment
+the another is red ||neutral
+the another plays banjo ||contradiction

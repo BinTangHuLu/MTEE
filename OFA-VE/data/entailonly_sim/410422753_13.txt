@@ -1,0 +1,4 @@
+There is a pup. ||Entailment
+There is some blizzard. ||Neutral
+The pup is covered. ||Entailment
+The pup is covered in snow. ||Entailment

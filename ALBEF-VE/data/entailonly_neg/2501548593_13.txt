@@ -1,0 +1,5 @@
+there are not girls ||contradiction
+there is not a point ||contradiction
+there is not a game ||contradiction
+the girls are not celebrating a point ||contradiction
+a point is not in the game ||entailment

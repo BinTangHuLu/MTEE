@@ -1,0 +1,3 @@
+There is a priest. ||Entailment
+There is a cross. ||Entailment
+The priest has a cross. ||Entailment

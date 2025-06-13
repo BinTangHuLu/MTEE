@@ -1,0 +1,4 @@
+there is not a girl ||contradiction
+there is not a zoo ||contradiction
+there is not a petting zoo ||contradiction
+the girl is not at the zoo ||contradiction

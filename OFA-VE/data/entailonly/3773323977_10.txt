@@ -1,0 +1,2 @@
+There are Children. ||Entailment
+The Children are playing. ||Neutral

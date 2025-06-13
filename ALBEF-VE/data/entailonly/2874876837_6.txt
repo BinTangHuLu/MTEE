@@ -1,0 +1,3 @@
+there is a trampoline ||entailment
+the trampoline is jumped on ||neutral
+the trampoline is being jumped on ||entailment

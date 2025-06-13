@@ -1,0 +1,3 @@
+there is a line ||entailment
+there is a scenery ||entailment
+the line plays on backdrop ||entailment

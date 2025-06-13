@@ -1,0 +1,5 @@
+there is a child ||entailment
+the child is young ||neutral
+the child is using something ||neutral
+there is something ||entailment
+the something is to float in water ||entailment

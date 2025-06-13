@@ -1,0 +1,6 @@
+There is not a woman. ||contradiction
+There is not a bench. ||contradiction
+There is not a park. ||contradiction
+The woman is not blonde. ||contradiction
+The woman does not sit on the bench. ||contradiction
+The woman is not outside in the park. ||contradiction

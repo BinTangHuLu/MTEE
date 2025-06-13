@@ -1,0 +1,5 @@
+There is not a person. ||Contradiction
+There is not a sport. ||Contradiction
+The person has not played. ||Contradiction
+The sport has not played at least once in their life. ||Contradiction
+The person has not played sport. ||Contradiction

@@ -1,0 +1,3 @@
+there is a commando ||entailment
+there are community ||entailment
+the commando is outside people ||entailment

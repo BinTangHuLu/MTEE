@@ -1,0 +1,4 @@
+There is a dog. ||Entailment
+There is a Frisbee. ||Entailment
+The dog is jumping. ||Entailment
+The dog caught a Frisbee. ||Entailment

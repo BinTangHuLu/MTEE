@@ -1,0 +1,5 @@
+There are people. ||entailment
+The people have differing ages. ||entailment
+The people are outside. ||entailment
+The people are playing golf. ||entailment
+There is golf. ||entailment

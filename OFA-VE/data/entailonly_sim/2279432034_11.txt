@@ -1,0 +1,4 @@
+There are dude. ||Entailment
+There are female. ||Neutral
+There are apparatus. ||Entailment
+The dude are playing instruments. ||Entailment

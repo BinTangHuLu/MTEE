@@ -1,0 +1,5 @@
+There is not a man. ||contradiction
+There is not a woman. ||contradiction
+There is not a baby. ||contradiction
+The man is not showing off the baby. ||contradiction
+The woman is not showing off the baby. ||contradiction

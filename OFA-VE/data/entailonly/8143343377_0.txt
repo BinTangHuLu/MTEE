@@ -1,0 +1,3 @@
+There are people. ||Entailment
+There are two people. ||Entailment
+The people are performing. ||Entailment

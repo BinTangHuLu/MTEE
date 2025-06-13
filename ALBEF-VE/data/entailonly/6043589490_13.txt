@@ -1,0 +1,5 @@
+there is a woman ||entailment
+there are some trees ||entailment
+the woman has good oral hygiene ||entailment
+the woman practices good oral hygiene ||entailment
+the woman is near trees ||entailment

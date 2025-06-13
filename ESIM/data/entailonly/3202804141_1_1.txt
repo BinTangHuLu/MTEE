@@ -1,0 +1,4 @@
+There are people. ||entailment
+The people are walking. ||entailment
+The people are dirt. ||entailment
+The people are walking in dirt. ||entailment

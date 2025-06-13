@@ -1,0 +1,3 @@
+there are people ||entailment
+the people are black ||entailment
+the people are outdoors ||entailment

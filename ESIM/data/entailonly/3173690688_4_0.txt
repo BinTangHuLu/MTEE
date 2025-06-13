@@ -1,0 +1,3 @@
+There is He. ||entailment
+There is a beach. ||entailment
+He is at the beach. ||entailment

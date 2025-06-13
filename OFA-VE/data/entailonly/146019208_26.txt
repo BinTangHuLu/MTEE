@@ -1,0 +1,4 @@
+There are men. ||Entailment
+There are two men. ||Entailment
+There is outdoors. ||Entailment
+The men are outdoors. ||Entailment

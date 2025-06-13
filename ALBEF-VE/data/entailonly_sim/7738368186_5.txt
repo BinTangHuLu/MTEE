@@ -1,0 +1,3 @@
+there is a body ||entailment
+there is a glass ||entailment
+the body is holding the bottle ||entailment

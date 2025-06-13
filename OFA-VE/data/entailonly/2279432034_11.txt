@@ -1,0 +1,4 @@
+There are men. ||Entailment
+There are women. ||Neutral
+There are instruments. ||Entailment
+The men are playing instruments. ||Entailment

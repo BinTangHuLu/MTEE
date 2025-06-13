@@ -1,0 +1,4 @@
+There is a man. ||entailment
+There is a business. ||entailment
+The man works with business. ||neutral
+The business has a tattoo. ||entailment

@@ -1,0 +1,2 @@
+There is atmosphere. ||Entailment
+The Skateboarder is in atmosphere. ||Entailment

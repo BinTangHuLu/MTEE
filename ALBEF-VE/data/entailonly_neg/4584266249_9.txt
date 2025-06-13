@@ -1,0 +1,3 @@
+there are not ladies ||contradiction
+there is not daytime ||entailment
+the ladies are not out in daytime ||entailment

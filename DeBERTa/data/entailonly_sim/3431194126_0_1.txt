@@ -1,0 +1,4 @@
+There is a set. ||entailment
+There are some apparel. ||entailment
+The apparel are bright. ||entailment
+The set is wearing bright outfits. ||entailment

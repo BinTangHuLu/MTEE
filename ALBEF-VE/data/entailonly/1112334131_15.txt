@@ -1,0 +1,5 @@
+there is a child ||entailment
+there is ice cream ||entailment
+there is a lady ||entailment
+the child is eating ice cream ||entailment
+the child is in front of the lady ||entailment

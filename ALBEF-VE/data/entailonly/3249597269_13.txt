@@ -1,0 +1,3 @@
+there is an animal ||entailment
+there is some snow ||entailment
+the animal jumps through snow ||entailment

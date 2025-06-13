@@ -1,0 +1,3 @@
+EA,child,blond headed
+E1RE2,child,is standing behind,child
+E1R,child,is wearing

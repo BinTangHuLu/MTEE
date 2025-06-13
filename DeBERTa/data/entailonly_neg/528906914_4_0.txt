@@ -1,0 +1,4 @@
+There is not a female. ||contradiction
+There is not a machine. ||contradiction
+The female is not young. ||contradiction
+The female is not near the machine. ||entailment

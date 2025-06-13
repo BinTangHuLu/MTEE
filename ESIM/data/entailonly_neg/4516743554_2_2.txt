@@ -1,0 +1,2 @@
+There is not a park. ||contradiction
+The park is not outside. ||contradiction

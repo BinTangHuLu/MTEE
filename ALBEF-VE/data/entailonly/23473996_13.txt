@@ -1,0 +1,4 @@
+there are workers ||entailment
+there are jackets ||entailment
+the jackets are for working ||neutral
+the workers are wearing jackets ||neutral

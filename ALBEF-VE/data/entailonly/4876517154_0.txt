@@ -1,0 +1,4 @@
+there is a man ||entailment
+there is a habit ||entailment
+there is a nun ||entailment
+the man is smoking habit ||neutral

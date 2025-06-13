@@ -1,0 +1,5 @@
+There is not a man. ||Contradiction
+There is not a hand. ||Contradiction
+There is not a back. ||Entailment
+The man does not have a hand. ||Contradiction
+The man is not on the back. ||Entailment

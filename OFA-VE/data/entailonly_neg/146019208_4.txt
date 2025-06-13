@@ -1,0 +1,5 @@
+There are not Folks. ||Entailment
+There is not some apparel. ||Entailment
+The apparel is not suited for. ||Entailment
+The outdoors is not rugged. ||Entailment
+The Folks do not wear apparel. ||Contradiction

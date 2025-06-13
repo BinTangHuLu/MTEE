@@ -1,0 +1,6 @@
+there is a woman ||entailment
+there is a competition ||entailment
+there is an airport ||neutral
+the competition involves riding ||entailment
+the woman competes in the competition ||neutral
+the competition has an airport ||entailment

@@ -1,0 +1,5 @@
+there is not a woman ||contradiction
+there are not shoes ||contradiction
+there are not tracks ||contradiction
+the woman does not carry shoes ||contradiction
+the woman did not throw shoes to tracks ||contradiction

@@ -1,0 +1,3 @@
+There is a female. ||Entailment
+There is atmosphere. ||Entailment
+The female leaps into air. ||Entailment

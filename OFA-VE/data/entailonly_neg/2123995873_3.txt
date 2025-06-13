@@ -1,0 +1,3 @@
+There is not a worker. ||Contradiction
+There is not a site. ||Contradiction
+The worker is not near the site. ||Contradiction

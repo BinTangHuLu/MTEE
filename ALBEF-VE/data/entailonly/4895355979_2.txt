@@ -1,0 +1,6 @@
+there is a tourist ||entailment
+there is a photo ||entailment
+there is a lion statue ||entailment
+the lion statue is historical ||neutral
+the tourist is taking a photo ||entailment
+the photo is with the lion statue ||entailment

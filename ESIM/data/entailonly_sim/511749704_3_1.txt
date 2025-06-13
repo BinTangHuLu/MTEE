@@ -1,0 +1,4 @@
+There is a baby. ||entailment
+There is a estate. ||neutral
+The baby rides the skateboard. ||entailment
+The baby is at the park. ||entailment

@@ -1,0 +1,7 @@
+there is a man ||entailment
+there is air ||entailment
+there is a bmx bike ||entailment
+there is someone ||entailment
+there is a picture ||entailment
+the man is in air ||entailment
+someone takes the picture ||entailment

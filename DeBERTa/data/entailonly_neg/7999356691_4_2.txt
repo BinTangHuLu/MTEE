@@ -1,0 +1,5 @@
+There is not a man. ||contradiction
+There is not a track. ||contradiction
+The man is not racing. ||contradiction
+The track is not dirt. ||contradiction
+The man is not racing on track. ||contradiction

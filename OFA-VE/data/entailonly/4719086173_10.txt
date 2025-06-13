@@ -1,0 +1,2 @@
+There are Firefighters. ||Entailment
+The Firefighters are walking. ||Neutral

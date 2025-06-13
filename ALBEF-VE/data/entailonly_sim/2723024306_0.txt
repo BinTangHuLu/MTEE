@@ -1,0 +1,7 @@
+there is a dude ||entailment
+there is a blouse ||entailment
+there is a camel castle ||contradiction
+there is a coast ||entailment
+the blouse is blue ||entailment
+the dude is building a sand castle ||entailment
+the camel castle is at the beach ||entailment

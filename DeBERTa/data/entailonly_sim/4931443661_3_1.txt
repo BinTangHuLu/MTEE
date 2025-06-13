@@ -1,0 +1,2 @@
+There is a fisher. ||entailment
+The fisher uses cellphone. ||entailment

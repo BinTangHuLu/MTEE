@@ -1,0 +1,5 @@
+there is not a man ||contradiction
+there are not some clothes ||contradiction
+the clothes are not military ||contradiction
+the man is not dressed in clothes ||contradiction
+the man is not helping a man ||contradiction

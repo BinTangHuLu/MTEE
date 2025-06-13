@@ -1,0 +1,4 @@
+there is a dude ||entailment
+there is a path ||entailment
+the period is during ||entailment
+the dude sweeps the sidewalk ||entailment

@@ -1,0 +1,5 @@
+There is not a dog. ||contradiction
+The dog is not big. ||contradiction
+There is not a dog. ||contradiction
+The dog is not smaller. ||contradiction
+The dog is not watching over the dog. ||contradiction

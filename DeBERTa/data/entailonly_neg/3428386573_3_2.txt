@@ -1,0 +1,5 @@
+There is not someone. ||contradiction
+There is not a swing. ||contradiction
+There is not a ball. ||contradiction
+Someone does not take the swing. ||contradiction
+The swing is not at the ball. ||contradiction

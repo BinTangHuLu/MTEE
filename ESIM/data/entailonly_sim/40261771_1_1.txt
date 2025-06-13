@@ -1,0 +1,4 @@
+There is a female. ||entailment
+There are community. ||neutral
+The female yells. ||entailment
+The female is while people. ||entailment

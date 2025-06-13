@@ -1,0 +1,3 @@
+there is a guy ||entailment
+there is an atv ||entailment
+the guy is on atv ||entailment

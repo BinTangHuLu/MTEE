@@ -1,0 +1,7 @@
+there is not a boy ||contradiction
+there is not a ball ||contradiction
+there is not a hand ||contradiction
+there is not a pool ||contradiction
+the boy does not have a ball ||contradiction
+the ball is not in the hand ||neutral
+the boy did not jump into the pool ||contradiction

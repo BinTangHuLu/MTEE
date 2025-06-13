@@ -1,0 +1,4 @@
+There is not a woman. ||contradiction
+There is not a store. ||contradiction
+The woman is not shopping. ||contradiction
+The woman is not shopping at the store. ||neutral

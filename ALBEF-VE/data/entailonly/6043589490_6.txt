@@ -1,0 +1,5 @@
+there is a girl ||entailment
+there are teeth ||entailment
+her teeth ||neutral
+the girl is brushing teeth ||entailment
+the girl is outside teeth ||entailment

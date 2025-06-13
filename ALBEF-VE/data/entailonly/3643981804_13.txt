@@ -1,0 +1,3 @@
+there is a man ||entailment
+there is a sign ||entailment
+the man is pointing at the sign ||neutral

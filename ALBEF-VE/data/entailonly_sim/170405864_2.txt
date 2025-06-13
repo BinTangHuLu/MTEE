@@ -1,0 +1,7 @@
+there is a female ||entailment
+there is a floor ||entailment
+there is a bowl ||contradiction
+the female is beautiful ||neutral
+the bowl is red ||contradiction
+the female is dancing on the platform ||entailment
+the female is holding the cup ||entailment

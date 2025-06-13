@@ -1,0 +1,4 @@
+there is a man ||entailment
+there is a sidewalk ||entailment
+the sidewalk is busy ||entailment
+the man is walking on sidewalk ||neutral

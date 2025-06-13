@@ -1,0 +1,5 @@
+there is not a man ||contradiction
+there is not a rock ||contradiction
+there are not mountains ||contradiction
+the man does not sit a rock ||contradiction
+the man cannot see mountains ||contradiction

@@ -1,0 +1,3 @@
+there are animals ||entailment
+the animals are acting aggressively ||entailment
+the animals are acting inside ||entailment

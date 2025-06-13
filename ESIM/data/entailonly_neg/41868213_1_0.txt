@@ -1,0 +1,4 @@
+There are not People. ||contradiction
+There is not a man. ||contradiction
+The People are not trying to read the man. ||neutral
+The man is writing whatnot . ||entailment

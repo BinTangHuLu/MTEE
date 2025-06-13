@@ -1,0 +1,6 @@
+there are not women ||contradiction
+there are not clothes ||contradiction
+there are not heads ||contradiction
+the women are not asian ||contradiction
+the women do not put clothes ||contradiction
+the clothes are not on heads ||contradiction

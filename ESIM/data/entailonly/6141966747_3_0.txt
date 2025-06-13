@@ -1,0 +1,2 @@
+There is a runner. ||entailment
+The runner wants to head for the finish line. ||entailment

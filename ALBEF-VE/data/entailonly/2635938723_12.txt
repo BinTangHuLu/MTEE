@@ -1,0 +1,5 @@
+there is a boy ||entailment
+there is a popsicle ||entailment
+the boy is little ||entailment
+the popsicle is red ||neutral
+the boy eats popsicle ||entailment

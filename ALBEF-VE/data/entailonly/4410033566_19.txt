@@ -1,0 +1,3 @@
+there is a man ||entailment
+there is a kitchen ||entailment
+the man is leaning in kitchen ||entailment

@@ -1,0 +1,4 @@
+there is a dude ||entailment
+there is a aisle ||entailment
+the kids follow the dude ||entailment
+the dude is on the path ||entailment

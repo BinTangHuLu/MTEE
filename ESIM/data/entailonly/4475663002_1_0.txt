@@ -1,0 +1,4 @@
+There is a woman. ||entailment
+There is a bag. ||entailment
+The woman is holding. ||entailment
+The bag is her. ||entailment

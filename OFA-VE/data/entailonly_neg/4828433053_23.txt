@@ -1,0 +1,5 @@
+There is not a person. ||Contradiction
+There is not a dog. ||Contradiction
+There is not a leash. ||Entailment
+The person does not hold the dog. ||Contradiction
+The dog is not on the leash. ||Entailment

@@ -1,0 +1,6 @@
+there are women ||entailment
+there is a child ||entailment
+there is a street ||entailment
+the women are amused ||entailment
+the women are amused by the child ||entailment
+the child is in the street ||entailment

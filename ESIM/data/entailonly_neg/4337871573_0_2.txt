@@ -1,0 +1,5 @@
+There is not a man. ||contradiction
+There is not a truck. ||contradiction
+There is not a gas station. ||contradiction
+The man is not sitting on the truck. ||contradiction
+The truck is not at the gas station. ||entailment

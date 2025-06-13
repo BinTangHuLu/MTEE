@@ -1,0 +1,3 @@
+there is a athlete ||entailment
+the athlete is ready ||entailment
+the athlete is ready to play tennis ||entailment

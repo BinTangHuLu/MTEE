@@ -1,0 +1,5 @@
+There is not a man. ||contradiction
+There are not some glasses. ||contradiction
+The man is not with glasses. ||contradiction
+The man is not looking at glasses. ||contradiction
+The man is not looking at drinking glasses. ||contradiction

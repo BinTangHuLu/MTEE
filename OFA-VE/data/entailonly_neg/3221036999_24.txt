@@ -1,0 +1,4 @@
+There is not someone. ||Contradiction
+There is not a ramp. ||Contradiction
+The ramp is not outside. ||Entailment
+Someone is not flying over the ramp. ||Entailment

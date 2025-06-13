@@ -1,0 +1,4 @@
+There is not a human. ||Contradiction
+There is not a sign. ||Contradiction
+The human is not standing. ||Entailment
+The human is not standing with the sign. ||Entailment

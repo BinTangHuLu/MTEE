@@ -1,0 +1,2 @@
+There is a doll. ||neutral
+The dogs are near the doll. ||neutral

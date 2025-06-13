@@ -1,0 +1,2 @@
+There is not a skateboard. ||contradiction
+The skateboard is not grinding. ||contradiction

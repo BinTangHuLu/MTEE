@@ -1,0 +1,7 @@
+There is a mentor. ||neutral
+There is a athlete. ||entailment
+There is a club. ||entailment
+There is a circle. ||entailment
+The mentor talks with the player. ||entailment
+The mentor is in front of the team. ||entailment
+The mentor is in front of the crowd. ||entailment

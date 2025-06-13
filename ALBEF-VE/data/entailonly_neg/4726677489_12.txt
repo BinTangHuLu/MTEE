@@ -1,0 +1,3 @@
+there are not people ||contradiction
+there are not three people ||entailment
+the people are not walking ||contradiction

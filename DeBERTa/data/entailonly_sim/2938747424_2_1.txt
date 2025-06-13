@@ -1,0 +1,4 @@
+There is a pup. ||entailment
+There is a coast. ||entailment
+The pup is white. ||entailment
+The pup is at the beach. ||entailment

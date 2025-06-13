@@ -1,0 +1,4 @@
+There is not a human. ||Contradiction
+There is not a sidewalk. ||Entailment
+The human is not old. ||Entailment
+The human is not on sidewalk. ||Entailment

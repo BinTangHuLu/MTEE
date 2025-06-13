@@ -1,0 +1,3 @@
+They are an entity. ||entailment
+There is a pole. ||entailment
+They have a pole. ||entailment

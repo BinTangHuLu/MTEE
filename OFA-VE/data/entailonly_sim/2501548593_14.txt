@@ -1,0 +1,2 @@
+There is a athletics. ||Entailment
+The Ladies are playing a athletics. ||Entailment

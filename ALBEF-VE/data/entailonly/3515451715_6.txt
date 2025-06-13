@@ -1,0 +1,5 @@
+there is a mother ||entailment
+there are some children ||entailment
+there is a park ||entailment
+the mother is swinging the children ||neutral
+the children are swinging at the park ||entailment

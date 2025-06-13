@@ -1,0 +1,5 @@
+There is a female. ||entailment
+The female is playing. ||entailment
+The female is speaking. ||entailment
+The female is playing drums. ||entailment
+The female is speaking at the same time. ||contradiction

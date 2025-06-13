@@ -1,0 +1,6 @@
+there is a man ||entailment
+there is a woman ||entailment
+there is a train ||entailment
+the man and woman are on the train ||entailment
+the man is on the train ||entailment
+the woman is on the train ||entailment

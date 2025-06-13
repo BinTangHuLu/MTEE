@@ -1,0 +1,4 @@
+There are not people. ||Contradiction
+There are not drinks. ||Contradiction
+The drinks are not energy. ||Entailment
+The people are not enjoying drinks. ||Neutral

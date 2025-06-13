@@ -1,0 +1,2 @@
+there is a athlete ||entailment
+the athlete hopes to hit the ball ||entailment

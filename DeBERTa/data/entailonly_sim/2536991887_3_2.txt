@@ -1,0 +1,3 @@
+There are band. ||contradiction
+The band are standing. ||contradiction
+The band are standing outside. ||contradiction

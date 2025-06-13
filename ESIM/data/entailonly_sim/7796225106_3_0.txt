@@ -1,0 +1,4 @@
+There is a child. ||entailment
+The child is moving. ||entailment
+The child is exercising. ||entailment
+The child is to get exercise in. ||entailment

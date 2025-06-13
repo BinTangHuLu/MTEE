@@ -1,0 +1,3 @@
+There are not Men. ||Entailment
+There are not bicycles. ||Entailment
+Men do not ride bicycles. ||Contradiction

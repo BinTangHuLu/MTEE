@@ -1,0 +1,3 @@
+there is a man ||entailment
+there are some nuts ||entailment
+the man is cracking nuts ||entailment

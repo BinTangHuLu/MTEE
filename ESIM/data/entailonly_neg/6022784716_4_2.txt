@@ -1,0 +1,3 @@
+There are not divers. ||contradiction
+The divers are not scuba. ||contradiction
+The divers are not underwater. ||contradiction

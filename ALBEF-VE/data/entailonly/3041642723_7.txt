@@ -1,0 +1,5 @@
+there are people ||entailment
+there is a porch ||entailment
+there is a dog ||entailment
+the people are on the porch ||entailment
+one is petting the dog ||contradiction

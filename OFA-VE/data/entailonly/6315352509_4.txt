@@ -1,0 +1,5 @@
+There is a car. ||Entailment
+There is a road. ||Entailment
+The car is red. ||Entailment
+The car is going very fast. ||Entailment
+The car is on road. ||Entailment

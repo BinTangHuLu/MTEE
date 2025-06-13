@@ -1,0 +1,5 @@
+There is water. ||Entailment
+There is a city. ||Entailment
+There are sightseers. ||Entailment
+The water is between the city. ||Entailment
+The water is between the sightseers. ||Entailment

@@ -1,0 +1,11 @@
+there is not a group ||contradiction
+there are not people ||contradiction
+there is not an event ||contradiction
+there is not a woman ||contradiction
+there is not a man ||contradiction
+the woman is not talking ||contradiction
+the people are not wearing ||contradiction
+the shirts are not different types ||entailment
+the people are not at event ||contradiction
+the woman is not talking to man ||contradiction
+the people are not wearing shirts ||contradiction

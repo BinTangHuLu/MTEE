@@ -1,0 +1,3 @@
+there is not a boy ||contradiction
+there is not a wakeboard ||contradiction
+the boy is not on wakeboard ||contradiction

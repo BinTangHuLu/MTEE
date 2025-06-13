@@ -1,0 +1,5 @@
+There are not children. ||Contradiction
+There is not a turtle. ||Contradiction
+There is not a beach. ||Contradiction
+The children do not play with the turtle. ||Contradiction
+The turtle is not at the beach. ||Entailment

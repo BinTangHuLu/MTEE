@@ -1,0 +1,7 @@
+there is not an officer ||contradiction
+there is not a motorcycle ||contradiction
+there is not a man ||contradiction
+the man is not in leather ||contradiction
+the officer does not stand next to the motorcycle ||entailment
+the man is not in leather ||contradiction
+the officer is not with the man ||entailment

@@ -1,0 +1,3 @@
+There is a child. ||entailment
+There is an component. ||entailment
+The child is near the item. ||entailment

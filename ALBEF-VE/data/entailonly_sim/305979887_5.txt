@@ -1,0 +1,2 @@
+there is a female ||entailment
+the female drinks something ||entailment

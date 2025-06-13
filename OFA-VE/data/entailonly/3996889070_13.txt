@@ -1,0 +1,4 @@
+There is a girl. ||Entailment
+There are some animals. ||Entailment
+The girl is small. ||Entailment
+The girl enjoys animals. ||Entailment

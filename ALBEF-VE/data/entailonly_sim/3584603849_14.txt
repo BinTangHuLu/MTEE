@@ -1,0 +1,3 @@
+there is a airplane ||entailment
+the airplane is performing tricks ||entailment
+the airplane is performing tricks ||entailment

@@ -1,0 +1,3 @@
+there is not a woman ||contradiction
+there is not a hat ||contradiction
+the woman is not wearing a hat ||contradiction

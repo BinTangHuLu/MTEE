@@ -1,0 +1,4 @@
+there is not a selection ||contradiction
+there is not some produce ||contradiction
+the selection is not for sale ||contradiction
+the selection is not for sale by produce ||contradiction

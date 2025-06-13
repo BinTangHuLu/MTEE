@@ -1,0 +1,4 @@
+There is a table. ||Entailment
+There are females. ||Entailment
+The females are three. ||Neutral
+The females are standing around the table. ||Neutral

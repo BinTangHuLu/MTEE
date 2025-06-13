@@ -1,0 +1,3 @@
+there is a breakdancer ||entailment
+there is a handstand ||entailment
+the breakdancer performs handstand ||entailment

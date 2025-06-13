@@ -1,0 +1,4 @@
+there is a dog ||entailment
+there is a branch ||entailment
+the dog is brown ||entailment
+the dog is walking on top of the branch ||entailment

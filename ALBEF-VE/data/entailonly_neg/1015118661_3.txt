@@ -1,0 +1,3 @@
+there is not a wall ||contradiction
+there is not a stone ||contradiction
+the wall is not being worked on ||contradiction

@@ -1,0 +1,4 @@
+There are community. ||Entailment
+There is a estate. ||Contradiction
+There is an delight park. ||Entailment
+The community are at amusement park. ||Entailment

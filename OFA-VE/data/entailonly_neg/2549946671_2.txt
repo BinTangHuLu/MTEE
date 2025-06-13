@@ -1,0 +1,4 @@
+There is not a boy. ||Entailment
+There is not a device. ||Contradiction
+The device is not electronic. ||Entailment
+The boy does not have a device. ||Entailment

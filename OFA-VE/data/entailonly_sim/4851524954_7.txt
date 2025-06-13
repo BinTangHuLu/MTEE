@@ -1,0 +1,4 @@
+There are female. ||Entailment
+There is a bistro. ||Entailment
+The bistro is outdoor. ||Entailment
+The female don't sit at the cafe. ||Entailment

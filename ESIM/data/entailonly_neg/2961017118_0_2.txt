@@ -1,0 +1,11 @@
+There is not a child. ||contradiction
+There is not an outfit. ||contradiction
+There is not a piece. ||contradiction
+There is not an equipment. ||contradiction
+There is not an orb. ||entailment
+There is not a surface. ||contradiction
+The child is not colorful. ||contradiction
+The child does not hold a piece. ||contradiction
+The child does not use equipment. ||contradiction
+The equipment does not propel the orb. ||entailment
+The orb is not against the surface. ||contradiction

@@ -1,0 +1,4 @@
+there are people ||entailment
+there is a man ||entailment
+the man is elderly ||neutral
+the people are standing behind the man ||entailment

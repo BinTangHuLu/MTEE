@@ -1,0 +1,3 @@
+There is a man. ||entailment
+There is a child. ||entailment
+The man is tossing the child. ||entailment

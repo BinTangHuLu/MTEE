@@ -1,0 +1,5 @@
+there is an animal ||entailment
+there is a field ||entailment
+the field is snowy ||entailment
+the animal carries something ||entailment
+the animal goes through the field ||entailment

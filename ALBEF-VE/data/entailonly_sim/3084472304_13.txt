@@ -1,0 +1,4 @@
+there are band ||entailment
+there is some debris ||entailment
+the band pick up trash ||contradiction
+the debris is outside ||entailment

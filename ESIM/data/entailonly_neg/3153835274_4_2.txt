@@ -1,0 +1,4 @@
+There is not a woman. ||contradiction
+There is not a hammer. ||contradiction
+The woman is not using the hammer. ||contradiction
+The woman is using the hammer to make somethingnot . ||neutral

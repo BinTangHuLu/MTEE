@@ -1,0 +1,5 @@
+There is a woman. ||entailment
+There is a cell phone. ||entailment
+The woman is her. ||entailment
+The cell phone is up to ear. ||neutral
+The woman has a cell phone. ||entailment

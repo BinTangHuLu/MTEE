@@ -1,0 +1,6 @@
+There is a body. ||entailment
+There is an academy. ||neutral
+There is conservation. ||neutral
+There are grub. ||entailment
+The body is appropriate. ||entailment
+The body works with meals. ||entailment

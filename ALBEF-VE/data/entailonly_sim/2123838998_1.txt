@@ -1,0 +1,4 @@
+there is a line ||entailment
+there is a avenue ||entailment
+the line is dressed as santa claus ||entailment
+the line is playing on street ||neutral

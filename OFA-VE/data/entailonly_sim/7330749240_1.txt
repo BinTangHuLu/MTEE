@@ -1,0 +1,2 @@
+There are auto. ||Entailment
+There are some auto outside. ||Entailment

@@ -1,0 +1,3 @@
+there is a girl ||entailment
+there is a photographer ||entailment
+the girl is smiling to the photographer ||entailment

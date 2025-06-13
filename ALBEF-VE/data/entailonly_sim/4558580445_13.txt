@@ -1,0 +1,4 @@
+there are appliance ||entailment
+there is a boundary ||entailment
+the appliance are three ||neutral
+the appliance are in line ||entailment

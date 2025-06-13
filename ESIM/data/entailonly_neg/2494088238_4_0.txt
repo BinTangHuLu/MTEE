@@ -1,0 +1,5 @@
+There are not children. ||contradiction
+There is not an ocean. ||contradiction
+There is not a dog. ||contradiction
+The children are not at the ocean. ||contradiction
+The children are not at the dog. ||entailment

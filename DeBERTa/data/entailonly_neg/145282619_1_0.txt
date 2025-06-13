@@ -1,0 +1,5 @@
+There is not a man. ||contradiction
+There are not some pots. ||contradiction
+The man is not cooking. ||contradiction
+The pots are not a lot of. ||neutral
+The man is not cooking with pots. ||contradiction

@@ -1,0 +1,5 @@
+there is a lady ||entailment
+there is some hay ||entailment
+there is some grain ||entailment
+the lady sits by hay ||entailment
+the lady sits by grain ||entailment

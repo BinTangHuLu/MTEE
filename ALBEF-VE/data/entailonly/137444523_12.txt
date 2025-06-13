@@ -1,0 +1,6 @@
+there is a man ||entailment
+there is a t shirt ||entailment
+there is a group ||entailment
+there are people ||entailment
+the man waits with the group ||neutral
+the group is of people ||entailment

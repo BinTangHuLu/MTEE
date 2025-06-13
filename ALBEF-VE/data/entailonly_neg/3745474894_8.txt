@@ -1,0 +1,3 @@
+there are not youths ||contradiction
+there is not outside ||contradiction
+the youths are not outside ||entailment

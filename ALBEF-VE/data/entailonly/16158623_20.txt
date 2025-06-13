@@ -1,0 +1,5 @@
+there are men ||entailment
+there is a ladder ||entailment
+the jeans are blue ||entailment
+the men are on the ladder ||entailment
+the men are wearing jeans ||entailment

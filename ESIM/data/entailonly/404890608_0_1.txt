@@ -1,0 +1,6 @@
+There are boys. ||entailment
+There is paper. ||entailment
+There is a boy. ||entailment
+There is a bag. ||entailment
+The boys have paper. ||entailment
+The boy is grabbing the bag. ||entailment

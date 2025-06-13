@@ -1,0 +1,4 @@
+there is a pup ||entailment
+there is a ring ||entailment
+the pup is small ||neutral
+the pup got disc ||entailment

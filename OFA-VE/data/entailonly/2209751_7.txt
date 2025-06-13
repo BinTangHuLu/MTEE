@@ -1,0 +1,3 @@
+There are Men. ||Entailment
+There is a car. ||Entailment
+The Men are standing around the car. ||Entailment

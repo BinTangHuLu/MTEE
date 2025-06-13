@@ -1,0 +1,5 @@
+there is a man ||entailment
+there is an atv ||entailment
+there is a road ||entailment
+the road is dirt ||entailment
+the man jumped over the road ||neutral

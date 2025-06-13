@@ -1,0 +1,4 @@
+there are men ||entailment
+there is a picker ||entailment
+the picker is green ||entailment
+the men are in the picker ||neutral

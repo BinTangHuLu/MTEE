@@ -1,0 +1,5 @@
+there are cops ||entailment
+there is a child ||entailment
+there is a sidewalk ||entailment
+the cops are on the sidewalk ||entailment
+the child is on the sidewalk ||entailment

@@ -1,0 +1,3 @@
+there is a man ||entailment
+there is a baby ||entailment
+the man is holding the baby ||entailment

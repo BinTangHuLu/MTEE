@@ -1,0 +1,11 @@
+there is a man ||entailment
+there are some shorts ||neutral
+there is a shirt ||entailment
+there is a motorcycle ||entailment
+there is a helmet ||entailment
+the shirt is black ||contradiction
+the helmet is red ||contradiction
+the man is wearing shorts ||neutral
+the man is wearing a shirt ||contradiction
+the man rides a motorcycle ||entailment
+the man wears a helmet ||entailment

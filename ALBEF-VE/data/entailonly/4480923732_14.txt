@@ -1,0 +1,5 @@
+there is a man ||entailment
+there is a baby ||entailment
+there is a phone ||entailment
+the baby is with a phone ||entailment
+the man is with baby ||entailment

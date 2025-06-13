@@ -1,0 +1,3 @@
+there is a person ||entailment
+there is some pottery ||entailment
+the person is creating pottery ||entailment

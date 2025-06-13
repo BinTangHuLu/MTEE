@@ -1,0 +1,5 @@
+There are not men. ||contradiction
+There is not karate. ||contradiction
+There are not two men. ||contradiction
+The men are not sparring with sticks. ||contradiction
+The men are not karate. ||contradiction

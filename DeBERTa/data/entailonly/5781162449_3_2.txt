@@ -1,0 +1,4 @@
+There are girls. ||entailment
+The girls are young. ||entailment
+The girls are showing drawing. ||entailment
+The drawing is animal. ||entailment

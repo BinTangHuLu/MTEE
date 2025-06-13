@@ -1,0 +1,5 @@
+There is not a batter. ||Contradiction
+There is not a game. ||Contradiction
+There is not a hit. ||Contradiction
+The batter is not in the game. ||Neutral
+The batter is not getting a hit. ||Neutral

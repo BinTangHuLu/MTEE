@@ -1,0 +1,5 @@
+there is a man ||entailment
+there is a road ||entailment
+there is grass ||entailment
+the man jumps from the road ||entailment
+the man jumps into the grass ||entailment

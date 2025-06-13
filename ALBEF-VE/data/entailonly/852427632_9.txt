@@ -1,0 +1,5 @@
+there is a woman ||entailment
+there is a horse ||entailment
+there is a calf ||entailment
+the woman is on the horse ||entailment
+the woman is chasing the calf ||entailment

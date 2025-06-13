@@ -1,0 +1,3 @@
+there are community ||entailment
+there is a freight light ||entailment
+the community are waiting at the traffic light ||entailment

@@ -1,0 +1,4 @@
+there is a couple ||entailment
+there is a building ||entailment
+the couple is married ||entailment
+the couple is walking next to the building ||entailment

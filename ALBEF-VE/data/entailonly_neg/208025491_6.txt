@@ -1,0 +1,4 @@
+there are not men ||contradiction
+there is not beer ||contradiction
+the men do not stand together ||contradiction
+one is not holding beer ||neutral

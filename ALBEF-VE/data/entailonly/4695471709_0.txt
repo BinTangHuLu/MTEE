@@ -1,0 +1,3 @@
+there is a statute ||entailment
+there is water ||entailment
+the statute is on water ||contradiction

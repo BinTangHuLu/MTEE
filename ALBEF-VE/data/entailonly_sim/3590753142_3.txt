@@ -1,0 +1,4 @@
+there is drink ||entailment
+there is a capital ||entailment
+the drink is between the city ||entailment
+the drink is between the sightseers ||entailment

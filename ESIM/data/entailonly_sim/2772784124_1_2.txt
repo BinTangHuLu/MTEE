@@ -1,0 +1,5 @@
+There is a body. ||entailment
+There is a earth. ||entailment
+The body is single. ||entailment
+The earth is heavily-eroded. ||entailment
+The body stands on rock. ||entailment

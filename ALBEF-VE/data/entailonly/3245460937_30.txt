@@ -1,0 +1,4 @@
+there is a person ||entailment
+there is a racket ||entailment
+the racket is part of ||neutral
+the person is missing part of racket ||contradiction

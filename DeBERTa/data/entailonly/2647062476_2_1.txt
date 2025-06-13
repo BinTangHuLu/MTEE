@@ -1,0 +1,2 @@
+There are Women. ||entailment
+The Women are outside. ||entailment

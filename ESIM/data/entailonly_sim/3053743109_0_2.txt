@@ -1,0 +1,3 @@
+There are club. ||contradiction
+There are two club. ||neutral
+The club are playing sport. ||entailment

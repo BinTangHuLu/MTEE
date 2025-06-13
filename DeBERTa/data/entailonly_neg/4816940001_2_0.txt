@@ -1,0 +1,3 @@
+There are not females. ||contradiction
+There are not sacks. ||contradiction
+The females are not holding sacks. ||contradiction

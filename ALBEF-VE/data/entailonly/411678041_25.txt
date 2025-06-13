@@ -1,0 +1,7 @@
+there is a man ||entailment
+there is a horse ||entailment
+there is a street ||entailment
+there are some people ||entailment
+the man is on the horse ||entailment
+the man goes down the street ||entailment
+the people watch the man ||entailment

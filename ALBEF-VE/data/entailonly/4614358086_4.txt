@@ -1,0 +1,4 @@
+there is a policeman ||entailment
+there is a uniform ||entailment
+the uniform is in ||neutral
+the policeman is standing guard ||entailment

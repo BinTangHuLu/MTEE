@@ -1,0 +1,13 @@
+There is not a man. ||contradiction
+There is not a picture. ||contradiction
+There is not a dog. ||contradiction
+There is not a canvas. ||contradiction
+The man is not holding. ||contradiction
+The picture is not small. ||contradiction
+The dog is not small. ||contradiction
+The canvas is not white. ||contradiction
+The man is not painting the dog. ||contradiction
+The man is not holding the picture. ||contradiction
+The picture is not of the dog. ||contradiction
+The man is not in near life size. ||contradiction
+The man is not on the canvas. ||contradiction

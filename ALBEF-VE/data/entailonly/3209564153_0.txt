@@ -1,0 +1,3 @@
+there is a person ||entailment
+there is some snow ||entailment
+the person is in snow ||entailment

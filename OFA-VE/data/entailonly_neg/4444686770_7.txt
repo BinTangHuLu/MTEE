@@ -1,0 +1,5 @@
+There are not people. ||Contradiction
+There is not equipment. ||Contradiction
+There are not fish. ||Contradiction
+The people are not using equipment. ||Contradiction
+The equipment is not used to catch fish. ||Contradiction

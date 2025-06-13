@@ -1,0 +1,4 @@
+There is a member. ||entailment
+There is an army. ||entailment
+There is a German Shepard. ||entailment
+The member walks German Shepard. ||entailment

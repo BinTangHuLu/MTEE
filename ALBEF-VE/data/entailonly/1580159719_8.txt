@@ -1,0 +1,6 @@
+there are people ||entailment
+there is grass ||entailment
+there is a violin ||neutral
+there is a guitar ||entailment
+people sit in grass ||entailment
+the violin is being played by a guitar ||neutral

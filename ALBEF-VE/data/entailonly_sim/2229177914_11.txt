@@ -1,0 +1,4 @@
+there is a pup ||entailment
+there is a complication ||entailment
+the pup is small ||neutral
+the pup is jumping over the hurdle ||neutral

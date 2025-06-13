@@ -1,0 +1,6 @@
+There is a female. ||Entailment
+There is a rickshaw. ||Entailment
+There is a dealer. ||Entailment
+There are alcohol. ||Entailment
+The female is near the cart. ||Entailment
+The rickshaw is with drinks. ||Entailment

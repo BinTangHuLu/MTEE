@@ -1,0 +1,5 @@
+There is a person. ||entailment
+There is a pile. ||entailment
+There are coconuts. ||entailment
+The person is near the pile. ||entailment
+The pile is of coconuts. ||entailment

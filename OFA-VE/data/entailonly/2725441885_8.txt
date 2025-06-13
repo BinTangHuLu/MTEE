@@ -1,0 +1,4 @@
+There is a person. ||Entailment
+There is a bat. ||Entailment
+The bat is baseball. ||Entailment
+The person is holding bat. ||Entailment

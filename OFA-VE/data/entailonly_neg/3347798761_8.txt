@@ -1,0 +1,4 @@
+There is not a biker. ||Contradiction
+There is not a trick. ||Contradiction
+The biker is not doing a trick. ||Contradiction
+The biker is not doing trick. ||Contradiction

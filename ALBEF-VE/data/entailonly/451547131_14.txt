@@ -1,0 +1,5 @@
+there is a man ||entailment
+there is a surfboard ||entailment
+there are hands ||entailment
+the man is walking carrying ||entailment
+the surfboard is in hands ||neutral

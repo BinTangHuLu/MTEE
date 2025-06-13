@@ -1,0 +1,4 @@
+There are fowl. ||entailment
+There is a frame. ||entailment
+There is drink. ||contradiction
+The Birds are above drink. ||contradiction

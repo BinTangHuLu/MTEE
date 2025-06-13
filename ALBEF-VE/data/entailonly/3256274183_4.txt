@@ -1,0 +1,6 @@
+there is a man ||entailment
+there are fatigues ||entailment
+there is my ||entailment
+the fatigues are military ||neutral
+my is lying down ||contradiction
+the man helps my ||entailment

@@ -1,0 +1,6 @@
+There are boy. ||entailment
+There are attire. ||entailment
+The boy are socializing. ||entailment
+The attire are casual. ||contradiction
+The boy are socializing with each other. ||entailment
+The boy are wearing casual clothes. ||contradiction

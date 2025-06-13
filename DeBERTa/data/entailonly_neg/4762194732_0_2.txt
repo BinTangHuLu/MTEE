@@ -1,0 +1,5 @@
+There is not a boy. ||contradiction
+The boy is not young. ||contradiction
+The boy is not honoring veterans. ||contradiction
+There are not veterans. ||contradiction
+The veterans are not fallen. ||contradiction

@@ -1,0 +1,3 @@
+there is an animal ||entailment
+there is a stick ||entailment
+the animal swims stick ||entailment

@@ -1,0 +1,7 @@
+there is cold ||entailment
+there is age ||entailment
+there is browsing ||entailment
+there is a edge ||entailment
+there is a advertise ||entailment
+the browsing is at the market ||entailment
+the browsing is at the corner ||entailment

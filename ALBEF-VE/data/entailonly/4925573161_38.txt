@@ -1,0 +1,6 @@
+there is a person ||entailment
+there is a bike ||entailment
+there is a day ||entailment
+the day is mostly cloudy ||entailment
+the person rides the bike ||entailment
+the bike is on the day ||entailment

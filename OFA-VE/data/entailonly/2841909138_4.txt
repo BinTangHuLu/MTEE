@@ -1,0 +1,4 @@
+There is a girl. ||Entailment
+There are some feet. ||Entailment
+The feet are exposed. ||Entailment
+The girl has feet. ||Entailment

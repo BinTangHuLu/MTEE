@@ -1,0 +1,2 @@
+The someone is cheering for presidential applicant. ||entailment
+There is a presidential applicant. ||entailment

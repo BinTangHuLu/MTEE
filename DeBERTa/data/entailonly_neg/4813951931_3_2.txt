@@ -1,0 +1,7 @@
+There is not a man. ||contradiction
+There is not a hat. ||contradiction
+There is not a bike. ||contradiction
+There is not a street. ||contradiction
+The man does not walk down the street. ||contradiction
+The man does not walk with a hat. ||contradiction
+The man does not walk with a bike. ||contradiction

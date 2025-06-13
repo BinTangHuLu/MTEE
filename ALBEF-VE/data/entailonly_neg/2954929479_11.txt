@@ -1,0 +1,7 @@
+there is not a boy ||contradiction
+there is not a sweatshirt ||contradiction
+there is not a pumpkin ||contradiction
+the boy is not young ||contradiction
+the sweatshirt is not blue ||contradiction
+the boy is not in the sweatshirt ||contradiction
+the boy does not hold the pumpkin ||contradiction

@@ -1,0 +1,3 @@
+there is a dog ||entailment
+there is a stick ||entailment
+the dog is playing with the stick ||neutral

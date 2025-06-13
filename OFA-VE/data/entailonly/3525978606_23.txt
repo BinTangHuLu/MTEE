@@ -1,0 +1,4 @@
+There is a woman. ||Entailment
+There is an object. ||Entailment
+The woman is cleaning. ||Entailment
+The woman is cleaning the object. ||Entailment

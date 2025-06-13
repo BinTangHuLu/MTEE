@@ -1,0 +1,4 @@
+there is not a man ||contradiction
+there is not an event ||contradiction
+the man is not standing around ||entailment
+the man is not at the event ||contradiction

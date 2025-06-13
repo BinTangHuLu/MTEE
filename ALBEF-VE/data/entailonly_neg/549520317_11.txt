@@ -1,0 +1,4 @@
+there is not a child ||contradiction
+there is not a slide ||contradiction
+the child is not small ||contradiction
+the child is not at the slide ||contradiction

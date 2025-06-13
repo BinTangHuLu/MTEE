@@ -1,0 +1,5 @@
+There is a body. ||Entailment
+There is a dais. ||Contradiction
+The body is moving. ||Entailment
+The body is at the podium. ||Entailment
+The body is moving the person. ||Entailment

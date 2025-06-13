@@ -1,0 +1,5 @@
+there are not people ||contradiction
+there are not men ||contradiction
+there are not kilts ||contradiction
+people do not watch men ||contradiction
+men are not in kilts ||contradiction

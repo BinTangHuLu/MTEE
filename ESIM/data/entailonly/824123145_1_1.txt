@@ -1,0 +1,6 @@
+There are walkers. ||entailment
+There is a sky. ||entailment
+There is a beach. ||neutral
+The sky is blue. ||entailment
+The walkers are under the sky. ||entailment
+The walkers are near the beach. ||entailment

@@ -1,0 +1,7 @@
+There are people. ||entailment
+There is a boat. ||entailment
+There is a place. ||entailment
+The place is more than one. ||entailment
+The people put something in the boat. ||entailment
+The people put something in the place. ||entailment
+The boat is in the place. ||entailment

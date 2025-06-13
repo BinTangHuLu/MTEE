@@ -1,0 +1,4 @@
+there is a body ||entailment
+there is a slope ||entailment
+the body is riding the skateboard ||entailment
+the skateboard is on the slope ||entailment

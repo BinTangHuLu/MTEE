@@ -1,0 +1,4 @@
+There are not canines. ||contradiction
+There is not an expanse. ||contradiction
+The expanse is not sealed. ||entailment
+The canines do not traverse the expanse. ||contradiction

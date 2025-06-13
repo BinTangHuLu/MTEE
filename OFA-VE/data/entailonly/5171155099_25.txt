@@ -1,0 +1,4 @@
+There is a man. ||Entailment
+There is a horse. ||Entailment
+The man and horse are outside. ||Entailment
+The man is outside the horse. ||Entailment

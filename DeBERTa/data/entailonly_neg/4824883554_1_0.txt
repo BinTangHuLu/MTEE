@@ -1,0 +1,7 @@
+There is not a man. ||contradiction
+There is not a shirt. ||contradiction
+There are not pants. ||contradiction
+The shirt is not blue. ||contradiction
+The pants are not white. ||contradiction
+The man is not wearing a shirt. ||contradiction
+The man is not wearing pants. ||contradiction

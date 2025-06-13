@@ -1,0 +1,5 @@
+There is a dude. ||entailment
+There are some knickers. ||contradiction
+The dude is in shorts. ||entailment
+The dude is not wearing. ||entailment
+The cleat is not wearing. ||entailment

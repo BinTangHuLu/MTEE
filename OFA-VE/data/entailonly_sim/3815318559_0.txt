@@ -1,0 +1,4 @@
+There is a animal. ||Contradiction
+There is a automobile. ||Entailment
+The automobile is outside. ||Entailment
+The animal is inside the vehicle. ||Contradiction

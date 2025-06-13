@@ -1,0 +1,6 @@
+There is a body. ||neutral
+There is an article. ||entailment
+There is a bar. ||entailment
+There is a enlarge. ||entailment
+The body stands on the side of the wall. ||contradiction
+The enlarge floats on the side. ||contradiction

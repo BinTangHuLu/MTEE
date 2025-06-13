@@ -1,0 +1,3 @@
+There are adolescent. ||Entailment
+There are four young adolescent. ||Entailment
+The adolescent are active. ||Entailment

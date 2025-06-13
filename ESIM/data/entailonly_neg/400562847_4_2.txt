@@ -1,0 +1,5 @@
+There is not a dog. ||contradiction
+There is not some snow. ||contradiction
+There is not an object. ||contradiction
+The dog is not in the snow. ||contradiction
+The dog is not carrying the object. ||contradiction

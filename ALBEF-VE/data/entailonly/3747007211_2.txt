@@ -1,0 +1,4 @@
+there is a lad ||entailment
+there is a mountain ||entailment
+the lad is young ||neutral
+the lad is looking down the mountain ||entailment

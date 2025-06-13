@@ -1,0 +1,3 @@
+there is a minority ||entailment
+the minority is to ride ||neutral
+the minority sees something ||entailment

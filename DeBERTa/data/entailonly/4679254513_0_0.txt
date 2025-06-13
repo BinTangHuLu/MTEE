@@ -1,0 +1,3 @@
+There are people. ||entailment
+There is a parade. ||entailment
+The people are leading the parade. ||entailment

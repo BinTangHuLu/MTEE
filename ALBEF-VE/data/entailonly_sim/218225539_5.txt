@@ -1,0 +1,3 @@
+there is a dude ||entailment
+there is a cylinder ||entailment
+the dude jumps into the tube ||entailment

@@ -1,0 +1,5 @@
+There is a dude. ||entailment
+There is a brain. ||entailment
+There is a baffle. ||entailment
+The dude is slicing the coconut. ||entailment
+The dude is next to the stump. ||entailment

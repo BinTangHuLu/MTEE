@@ -1,0 +1,6 @@
+There is not a child. ||contradiction
+The child does not practice guitar. ||contradiction
+The child does not practice indoors. ||contradiction
+There is not a guitar. ||contradiction
+There is not indoors. ||contradiction
+The child does not practice guitar. ||contradiction

@@ -1,0 +1,3 @@
+there is a female ||entailment
+the female is posing ||entailment
+the female is posing ||entailment

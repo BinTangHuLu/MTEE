@@ -1,0 +1,3 @@
+there are not travelers ||contradiction
+there are not sites ||contradiction
+the travelers are not looking at sites ||contradiction

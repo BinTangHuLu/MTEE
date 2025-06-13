@@ -1,0 +1,3 @@
+there is a baby ||entailment
+the baby is little ||neutral
+the baby is playing gamecube ||entailment

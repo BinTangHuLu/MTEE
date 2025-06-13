@@ -1,0 +1,5 @@
+there is not a dog ||contradiction
+there is not a frisbee ||contradiction
+there is not a building ||contradiction
+the dog is not playing ||contradiction
+the dog is not playing in front of the building ||contradiction

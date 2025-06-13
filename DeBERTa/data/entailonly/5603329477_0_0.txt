@@ -1,0 +1,5 @@
+There is a sky. ||entailment
+The sky is blue. ||entailment
+There is a cloud. ||entailment
+The cloud is single puffy. ||entailment
+The sky is with cloud. ||entailment

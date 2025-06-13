@@ -1,0 +1,3 @@
+there is a server ||entailment
+there is a bar ||entailment
+the server is in the restaurant ||entailment

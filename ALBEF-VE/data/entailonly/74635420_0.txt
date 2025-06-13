@@ -1,0 +1,6 @@
+there are children ||entailment
+there is a photo ||entailment
+there is a woman ||entailment
+the dress is black ||entailment
+the children are having a photo ||entailment
+the photo is taken by a woman ||entailment

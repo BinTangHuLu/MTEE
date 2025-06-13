@@ -1,0 +1,4 @@
+There is a group. ||entailment
+There are some people. ||entailment
+There is a room. ||entailment
+The group are in room. ||entailment

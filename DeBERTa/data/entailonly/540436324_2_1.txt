@@ -1,0 +1,4 @@
+There are men. ||entailment
+The men are on raining. ||entailment
+It is heavily raining. ||entailment
+There is a group. ||entailment

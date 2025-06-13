@@ -1,0 +1,3 @@
+there are not dogs ||contradiction
+the collars are not red ||contradiction
+the dogs do not have collars ||contradiction

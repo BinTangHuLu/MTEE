@@ -1,0 +1,6 @@
+There is not a person. ||contradiction
+There is not a river. ||contradiction
+There is not a wall. ||contradiction
+The person is not waterskiing. ||contradiction
+The person is not in the river. ||contradiction
+The river is not with the wall. ||entailment

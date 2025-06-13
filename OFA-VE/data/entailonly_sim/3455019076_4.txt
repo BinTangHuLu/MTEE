@@ -1,0 +1,4 @@
+There is a female. ||Entailment
+There is a pedal. ||Entailment
+The female is getting ready. ||Neutral
+The female is getting ready for the bike. ||Entailment

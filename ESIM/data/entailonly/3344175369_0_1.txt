@@ -1,0 +1,7 @@
+There is a guy. ||entailment
+There is a top. ||entailment
+There is a pack. ||entailment
+There is snow. ||entailment
+The top is blue. ||entailment
+The guy carries the pack. ||entailment
+The guy makes his way through the snow. ||entailment

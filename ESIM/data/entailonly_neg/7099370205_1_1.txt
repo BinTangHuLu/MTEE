@@ -1,0 +1,5 @@
+There are not teams. ||contradiction
+There is not a ball. ||contradiction
+There is not a field. ||contradiction
+The teams were not playing the ball. ||contradiction
+The teams were not playing the field. ||contradiction

@@ -1,0 +1,3 @@
+There are not people. ||contradiction
+There is not a bike. ||contradiction
+The people are not near the bike. ||contradiction

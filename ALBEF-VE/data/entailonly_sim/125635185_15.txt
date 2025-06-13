@@ -1,0 +1,3 @@
+there are clan ||entailment
+the clan play with children ||contradiction
+the clan are outside ||entailment

@@ -1,0 +1,4 @@
+There is a set. ||entailment
+There are some community. ||entailment
+The set is young. ||neutral
+The set is hanging out with people. ||neutral

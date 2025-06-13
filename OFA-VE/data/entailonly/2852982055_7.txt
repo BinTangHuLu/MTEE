@@ -1,0 +1,4 @@
+There is a child. ||Entailment
+There are adults. ||Contradiction
+The child is one. ||Entailment
+The adults are two. ||Contradiction

@@ -1,0 +1,4 @@
+there is a player ||entailment
+there is a softball ||entailment
+the player is attempting to make a play ||entailment
+the player is attempting to make play ||entailment

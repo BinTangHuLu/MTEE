@@ -1,0 +1,6 @@
+there is a dude ||entailment
+there are enough ||entailment
+the blouse is blue ||entailment
+the dude is standing ||entailment
+the dude is standing in front of mountains ||entailment
+the dude is wearing a shirt ||entailment

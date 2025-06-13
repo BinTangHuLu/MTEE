@@ -1,0 +1,5 @@
+There are People. ||entailment
+There are ducks. ||entailment
+There is a pond. ||entailment
+People watch ducks. ||entailment
+People watch pond. ||entailment

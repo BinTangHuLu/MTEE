@@ -1,0 +1,4 @@
+there is a border ||entailment
+there is a farmland ||contradiction
+the leaders sit on the border ||contradiction
+the border is of the field ||contradiction

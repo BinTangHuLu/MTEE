@@ -1,0 +1,4 @@
+there is a man ||entailment
+there are pumps ||entailment
+there is a gas station ||entailment
+the man is in gas station ||entailment

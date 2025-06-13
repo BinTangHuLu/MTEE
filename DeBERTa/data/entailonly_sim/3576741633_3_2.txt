@@ -1,0 +1,3 @@
+There is a minority. ||entailment
+The minority has athleticism. ||entailment
+The minority engages in athleticism. ||entailment

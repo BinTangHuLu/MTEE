@@ -1,0 +1,5 @@
+There is not a crowd. ||Entailment
+There is not a scene. ||Contradiction
+There is not a mosque. ||Contradiction
+The mosque is not busy. ||Entailment
+The scene is not in front of mosque. ||Entailment

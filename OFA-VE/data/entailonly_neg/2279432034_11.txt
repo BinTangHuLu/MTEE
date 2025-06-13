@@ -1,0 +1,4 @@
+There are not men. ||Entailment
+There are not women. ||Entailment
+There are not instruments. ||Contradiction
+The men are not playing instruments. ||Contradiction

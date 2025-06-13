@@ -1,0 +1,6 @@
+There is not a guy. ||contradiction
+There is not a skateboard. ||contradiction
+There is not a park. ||contradiction
+The guy is not with skateboard. ||contradiction
+The guy is not looking at the park. ||contradiction
+The guy does not have skateboard at the park. ||contradiction

@@ -1,0 +1,5 @@
+There is a dude. ||entailment
+There is a basement. ||neutral
+There is a bottle. ||entailment
+The dude polishes the floor. ||entailment
+The dude is next to the can. ||entailment

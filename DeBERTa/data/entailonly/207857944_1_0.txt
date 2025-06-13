@@ -1,0 +1,5 @@
+There is a man. ||entailment
+There is a woman. ||entailment
+There is a baby. ||entailment
+The man is showing off the baby. ||entailment
+The woman is showing off the baby. ||entailment

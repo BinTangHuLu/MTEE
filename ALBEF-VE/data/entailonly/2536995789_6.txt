@@ -1,0 +1,8 @@
+there is a man ||entailment
+there is a hat ||entailment
+there is a vest ||entailment
+there is a project ||entailment
+the vest is orange ||entailment
+the project is major ||neutral
+the project is indoor ||entailment
+the man stands near the project ||entailment

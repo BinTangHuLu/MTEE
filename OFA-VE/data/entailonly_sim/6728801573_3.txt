@@ -1,0 +1,3 @@
+There is a pedal. ||Entailment
+The pedal is upkeep. ||Entailment
+The pedal needs upkeep. ||Entailment

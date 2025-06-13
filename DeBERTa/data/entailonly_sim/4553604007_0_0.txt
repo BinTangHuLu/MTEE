@@ -1,0 +1,6 @@
+There is a child. ||entailment
+There is a alcohol. ||entailment
+The child is talking. ||entailment
+The alcohol is opening. ||entailment
+The child is talking to someone. ||entailment
+The child is opening the drink. ||entailment

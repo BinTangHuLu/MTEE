@@ -1,0 +1,5 @@
+there is not a picture ||entailment
+there are not some people ||contradiction
+there is not a building ||contradiction
+the picture is not of people ||contradiction
+the picture is not taken near the building ||contradiction

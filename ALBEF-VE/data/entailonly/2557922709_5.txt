@@ -1,0 +1,4 @@
+there is a girl ||entailment
+there is america ||entailment
+the girl is looking at ||neutral
+the girl is looking at america ||neutral

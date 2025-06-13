@@ -1,0 +1,4 @@
+There is a child. ||entailment
+There is a avenue. ||entailment
+The child is blue jacketed. ||entailment
+The child is skating down street. ||entailment

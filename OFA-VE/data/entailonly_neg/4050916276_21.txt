@@ -1,0 +1,4 @@
+There is not a child. ||Contradiction
+There is not water. ||Contradiction
+The child is holding somethingnot . ||Entailment
+Something is not touching water. ||Entailment

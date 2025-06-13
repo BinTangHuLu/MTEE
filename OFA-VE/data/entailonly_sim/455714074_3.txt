@@ -1,0 +1,2 @@
+There is a clan. ||Entailment
+The clan is eating together. ||Entailment

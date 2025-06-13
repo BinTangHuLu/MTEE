@@ -1,0 +1,3 @@
+There is a man. ||Entailment
+There is some seafood. ||Entailment
+The man sees seafood. ||Entailment

@@ -1,0 +1,3 @@
+there is a dude ||entailment
+there is a baby ||entailment
+the dude is being approached by the child ||entailment

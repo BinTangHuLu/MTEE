@@ -1,0 +1,3 @@
+There are men. ||Entailment
+The men are indoor. ||Entailment
+The men are indoor. ||Entailment

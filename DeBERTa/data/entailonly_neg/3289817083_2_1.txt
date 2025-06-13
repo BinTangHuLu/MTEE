@@ -1,0 +1,5 @@
+There is not a man. ||contradiction
+There is not a baby. ||contradiction
+There is not a pony. ||contradiction
+The man is not petting the pony. ||contradiction
+The man is not with the baby. ||contradiction

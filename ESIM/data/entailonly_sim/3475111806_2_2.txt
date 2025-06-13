@@ -1,0 +1,7 @@
+There is a dude. ||entailment
+There is a account. ||contradiction
+There are some community. ||neutral
+There is a circle. ||neutral
+The dude takes a picture. ||entailment
+The dude takes a picture of people. ||entailment
+The community are in the crowd. ||neutral

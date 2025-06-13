@@ -1,0 +1,4 @@
+there is a female ||entailment
+there is a appendage ||entailment
+the female is holding something ||entailment
+her appendage is her attribute ||neutral

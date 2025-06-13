@@ -1,0 +1,2 @@
+There is a worker. ||entailment
+The worker is outside. ||entailment

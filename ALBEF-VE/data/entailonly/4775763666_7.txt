@@ -1,0 +1,3 @@
+there are women ||entailment
+the women are busy ||neutral
+the women are working on something ||entailment

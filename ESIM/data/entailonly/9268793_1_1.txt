@@ -1,0 +1,4 @@
+There is a human. ||entailment
+There is a camera. ||entailment
+The human looks at the camera. ||entailment
+The human is building something. ||entailment

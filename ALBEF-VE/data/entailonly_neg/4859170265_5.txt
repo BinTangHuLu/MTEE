@@ -1,0 +1,6 @@
+there is not a woman ||contradiction
+there is not an area ||contradiction
+the woman is not blond ||entailment
+the area is not crowded ||entailment
+the woman is not in the area ||contradiction
+the woman does not hand out fliers ||contradiction

@@ -1,0 +1,3 @@
+There is not a lady. ||contradiction
+There is not a street. ||contradiction
+The lady is not walking down the street. ||contradiction

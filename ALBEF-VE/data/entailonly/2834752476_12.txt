@@ -1,0 +1,5 @@
+there is a man ||entailment
+there is a beer ||entailment
+the man is young ||entailment
+the man is drinking ||entailment
+the man is drinking beer ||neutral

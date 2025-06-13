@@ -1,0 +1,5 @@
+there is a hallway ||entailment
+there are some ladders ||entailment
+there is some fabric ||entailment
+the hallway is full ||contradiction
+the hallway is during construction ||entailment

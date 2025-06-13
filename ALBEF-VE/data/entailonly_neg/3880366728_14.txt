@@ -1,0 +1,5 @@
+there is not a woman ||contradiction
+there is not a man ||contradiction
+there is not a shirt ||contradiction
+the shirt is not blue ||contradiction
+the woman is not being dipped by the man ||contradiction

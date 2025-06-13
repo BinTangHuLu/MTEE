@@ -1,0 +1,5 @@
+there is not a musician ||contradiction
+there are not some skills ||contradiction
+there is not a guitar ||contradiction
+the musician does not demonstrate skills ||contradiction
+the skills are not with guitar ||contradiction

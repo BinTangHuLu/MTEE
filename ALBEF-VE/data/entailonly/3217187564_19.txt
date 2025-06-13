@@ -1,0 +1,3 @@
+there are dogs ||entailment
+there is a race ||entailment
+the dogs are competing in the race ||entailment

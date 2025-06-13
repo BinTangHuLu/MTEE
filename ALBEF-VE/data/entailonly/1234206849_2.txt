@@ -1,0 +1,3 @@
+there are ladies ||entailment
+the ladies are older ||entailment
+the ladies are dressed up ||entailment

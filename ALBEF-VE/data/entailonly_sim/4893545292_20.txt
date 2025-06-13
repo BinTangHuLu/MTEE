@@ -1,0 +1,5 @@
+there is a female ||entailment
+the female is fashionably dressed ||entailment
+the female is young ||neutral
+the female peers at an object ||entailment
+the article is in her hand ||neutral

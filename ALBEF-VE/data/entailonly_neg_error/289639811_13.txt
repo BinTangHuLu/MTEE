@@ -1,0 +1,3 @@
+RE2,is hurt on,ground
+A,hurt
+R,in middle of

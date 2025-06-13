@@ -1,0 +1,8 @@
+there is a man ||entailment
+there is a shirt ||entailment
+there is a sign ||entailment
+the shirt is multi colored ||entailment
+the sign is orange ||entailment
+the sign is peace ||neutral
+the man is wearing a shirt ||entailment
+the shirt is with a sign ||entailment

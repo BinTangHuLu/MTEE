@@ -1,0 +1,3 @@
+there is a child ||entailment
+there is a dog ||entailment
+the child and dog are together ||entailment

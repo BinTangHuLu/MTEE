@@ -1,0 +1,5 @@
+there is a man ||entailment
+there is a call ||entailment
+there is a cell phone ||entailment
+the man makes a call ||entailment
+the call is on the cell phone ||neutral

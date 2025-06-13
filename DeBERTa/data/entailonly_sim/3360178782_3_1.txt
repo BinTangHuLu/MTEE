@@ -1,0 +1,5 @@
+There are community. ||entailment
+There is crop. ||entailment
+There is a advertise. ||entailment
+community are viewing produce. ||entailment
+community are viewing the market. ||entailment

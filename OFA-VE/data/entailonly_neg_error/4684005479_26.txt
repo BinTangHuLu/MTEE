@@ -1,0 +1,2 @@
+A,numbered
+R,wearing

@@ -1,0 +1,3 @@
+there is a girl ||entailment
+the girl is young ||entailment
+the girl is playing soccer ||entailment

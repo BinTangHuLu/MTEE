@@ -1,0 +1,5 @@
+there are community ||entailment
+there is a balcony ||entailment
+there is a pup ||entailment
+the community are on the porch ||entailment
+one is petting the pup ||neutral

@@ -1,0 +1,5 @@
+there is a man ||entailment
+there is a jacket ||entailment
+there are some trunks ||entailment
+the man is waterskiing in the jacket ||entailment
+the man is waterskiing in the trunks ||entailment

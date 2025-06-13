@@ -1,0 +1,8 @@
+there is not a woman ||contradiction
+there is not tan ||contradiction
+there is not pink ||contradiction
+the woman is not tan ||entailment
+the woman is not pink ||contradiction
+the woman is not in tan ||contradiction
+the woman is not in pink ||contradiction
+the woman does not question the woman ||contradiction

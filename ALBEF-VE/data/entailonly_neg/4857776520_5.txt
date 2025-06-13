@@ -1,0 +1,3 @@
+there are not people ||contradiction
+there is not a conversation ||contradiction
+the people are not having a conversation ||contradiction

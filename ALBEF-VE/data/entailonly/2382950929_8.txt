@@ -1,0 +1,3 @@
+there is a lake ||entailment
+there are some rocks ||entailment
+the lake is near rocks ||entailment

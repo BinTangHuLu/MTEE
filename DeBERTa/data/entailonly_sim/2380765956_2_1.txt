@@ -1,0 +1,4 @@
+There is a artery. ||entailment
+There is a hiker. ||entailment
+The hiker is green. ||contradiction
+The artery has a walker. ||contradiction

@@ -1,0 +1,3 @@
+There are people. ||Entailment
+The people are going. ||Entailment
+The people are in. ||Entailment

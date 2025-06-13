@@ -1,0 +1,5 @@
+There is a man. ||Entailment
+There is a group. ||Entailment
+There are people. ||Entailment
+The man is talking to the group. ||Entailment
+The group is of people. ||Entailment

@@ -1,0 +1,3 @@
+There is a man. ||entailment
+There is an outside. ||entailment
+The man is sleeping outside. ||entailment

@@ -1,0 +1,3 @@
+There is a man. ||Entailment
+There is a scientist. ||Entailment
+The man is not a scientist. ||Entailment

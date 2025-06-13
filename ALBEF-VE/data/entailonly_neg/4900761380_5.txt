@@ -1,0 +1,4 @@
+there is not a stall ||contradiction
+there is not some fruit ||contradiction
+there are not men ||contradiction
+the stall is not surrounded by men ||contradiction

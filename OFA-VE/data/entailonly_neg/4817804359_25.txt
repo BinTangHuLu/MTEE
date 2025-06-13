@@ -1,0 +1,2 @@
+There is not a group. ||Entailment
+There is not an o. ||Contradiction

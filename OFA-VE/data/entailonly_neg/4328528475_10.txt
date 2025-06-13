@@ -1,0 +1,4 @@
+There is not a Female. ||Entailment
+There is not a racket. ||Entailment
+The racket is not tennis. ||Entailment
+The Female does not hold up the racket. ||Entailment

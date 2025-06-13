@@ -1,0 +1,3 @@
+There are adolescent. ||entailment
+There is a barge. ||neutral
+The adolescent are on the boat. ||entailment

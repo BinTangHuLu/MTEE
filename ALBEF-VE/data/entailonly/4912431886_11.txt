@@ -1,0 +1,4 @@
+there is a building ||entailment
+there is a word ||entailment
+the building is big ||entailment
+the building has word ||entailment

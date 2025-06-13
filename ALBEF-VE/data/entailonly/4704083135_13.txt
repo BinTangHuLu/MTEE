@@ -1,0 +1,3 @@
+there is a lady ||entailment
+the lady is dancing ||entailment
+the lady is dancing ||entailment

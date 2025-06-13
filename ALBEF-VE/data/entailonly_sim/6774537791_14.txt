@@ -1,0 +1,2 @@
+there is atmosphere ||entailment
+the skier is in atmosphere ||entailment

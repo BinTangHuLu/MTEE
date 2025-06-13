@@ -1,0 +1,6 @@
+there is a female ||entailment
+the female is tan ||entailment
+the female is pink ||entailment
+the female is in tan ||entailment
+the female is in pink ||entailment
+the female questions the woman ||entailment

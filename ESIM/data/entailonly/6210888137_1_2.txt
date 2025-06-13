@@ -1,0 +1,4 @@
+There is a guy. ||entailment
+The guy looks upon collision. ||entailment
+There are vehicles. ||entailment
+The collision is between vehicles. ||entailment

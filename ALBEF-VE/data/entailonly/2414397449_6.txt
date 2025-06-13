@@ -1,0 +1,3 @@
+there is a cow ||entailment
+there is a dog ||entailment
+the cow is leaping over the dog ||entailment

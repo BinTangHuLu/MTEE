@@ -1,0 +1,4 @@
+There is a dude. ||Entailment
+The dude is in white. ||Entailment
+The dude is in blue. ||Neutral
+The dude is outside the man. ||Entailment

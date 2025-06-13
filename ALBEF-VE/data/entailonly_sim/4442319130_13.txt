@@ -1,0 +1,5 @@
+there is a dude ||entailment
+there is a kitten ||entailment
+there is a frame ||entailment
+the dude keeps the cat ||neutral
+the kitten is close to the body ||entailment

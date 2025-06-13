@@ -1,0 +1,7 @@
+there is a man ||entailment
+there is a shirt ||entailment
+there is a hat ||entailment
+the shirt is brown ||entailment
+the man is holding ||entailment
+the man is holding the hat ||entailment
+the hat is above the man ||entailment

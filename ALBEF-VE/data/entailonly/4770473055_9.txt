@@ -1,0 +1,5 @@
+there is a man ||entailment
+there is an attire ||entailment
+there is a drum ||entailment
+the attire is fancy ||neutral
+the man holds the drum ||entailment

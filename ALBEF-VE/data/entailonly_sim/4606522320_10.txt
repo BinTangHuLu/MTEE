@@ -1,0 +1,3 @@
+there are dude ||entailment
+there are beat ||entailment
+the dude are wearing caps ||entailment

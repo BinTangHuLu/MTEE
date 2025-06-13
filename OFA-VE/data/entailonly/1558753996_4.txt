@@ -1,0 +1,5 @@
+There is a musician. ||Entailment
+There are some skills. ||Entailment
+There is a guitar. ||Entailment
+The musician demonstrates skills. ||Entailment
+The skills are with guitar. ||Entailment

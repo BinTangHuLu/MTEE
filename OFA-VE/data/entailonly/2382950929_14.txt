@@ -1,0 +1,4 @@
+There is a facing. ||Entailment
+There are people. ||Entailment
+The faces are visible. ||Entailment
+The faces are of people. ||Entailment

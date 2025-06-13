@@ -1,0 +1,4 @@
+there is a girl ||entailment
+there is an apron ||entailment
+the apron is yellow ||entailment
+the girl is wearing an apron ||entailment

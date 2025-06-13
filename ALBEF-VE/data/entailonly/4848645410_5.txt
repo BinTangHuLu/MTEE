@@ -1,0 +1,3 @@
+there is a man ||entailment
+there is a picture ||entailment
+the man stops to take a picture ||entailment

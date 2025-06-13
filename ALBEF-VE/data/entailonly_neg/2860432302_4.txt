@@ -1,0 +1,3 @@
+there is not an octopus ||contradiction
+there is not a menu ||contradiction
+the octopus is not on the menu ||contradiction

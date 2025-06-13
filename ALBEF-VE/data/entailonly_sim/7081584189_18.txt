@@ -1,0 +1,3 @@
+there are community ||entailment
+there is a bar ||entailment
+the community are kayaking near the wall ||contradiction

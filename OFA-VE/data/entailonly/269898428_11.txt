@@ -1,0 +1,4 @@
+There is a man. ||Entailment
+There is a tool. ||Entailment
+The tool is power. ||Entailment
+The man is with tool. ||Entailment

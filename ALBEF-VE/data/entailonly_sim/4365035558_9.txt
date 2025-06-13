@@ -1,0 +1,5 @@
+there is a clan ||neutral
+there is a dog ||entailment
+there is a coast ||entailment
+the clan is with the puppy ||entailment
+the dog is in the beach ||entailment

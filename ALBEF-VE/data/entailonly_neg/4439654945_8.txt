@@ -1,0 +1,4 @@
+there are not children ||contradiction
+there is not a custom ||contradiction
+the custom is not local ||neutral
+the children are not learning a custom ||contradiction

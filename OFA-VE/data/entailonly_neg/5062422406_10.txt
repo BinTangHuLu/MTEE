@@ -1,0 +1,4 @@
+There is not Grant's. ||Contradiction
+There is not a caddy. ||Entailment
+There is not a shot. ||Entailment
+The caddy did not hit the shot. ||Neutral

@@ -1,0 +1,4 @@
+There are community. ||neutral
+There is a fiddle. ||contradiction
+There is a lap. ||neutral
+The community are playing on stage. ||neutral

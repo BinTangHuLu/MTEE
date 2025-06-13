@@ -1,0 +1,3 @@
+There is a attempt. ||entailment
+The something is made of daily. ||neutral
+The something is shown in attempt. ||entailment

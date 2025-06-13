@@ -1,0 +1,4 @@
+There is not a man. ||contradiction
+There is not a woman. ||contradiction
+The man is not sharing a hotdog. ||contradiction
+The woman is not sharing a hotdog. ||contradiction

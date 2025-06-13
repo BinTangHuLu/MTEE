@@ -1,0 +1,3 @@
+there is not a human ||contradiction
+there is not another ||contradiction
+the human is assisting anothernot ||entailment

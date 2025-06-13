@@ -1,0 +1,5 @@
+There is a acclamation rep. ||entailment
+There are some inquiry. ||entailment
+There is an account. ||neutral
+The acclamation rep fielded questions. ||entailment
+The acclamation rep is during interview. ||entailment

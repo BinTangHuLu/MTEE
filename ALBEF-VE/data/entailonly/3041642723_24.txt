@@ -1,0 +1,3 @@
+there is a group ||entailment
+there are teenagers ||entailment
+the group is outside teenagers ||entailment

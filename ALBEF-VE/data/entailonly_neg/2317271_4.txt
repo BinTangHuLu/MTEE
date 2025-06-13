@@ -1,0 +1,4 @@
+there are not families ||contradiction
+there is not a photo ||contradiction
+there are not two families ||contradiction
+the families are not posing for the photo ||contradiction

@@ -1,0 +1,7 @@
+there are not children ||contradiction
+there is not a store ||contradiction
+there is not a floor ||contradiction
+there are not displays ||contradiction
+the children are not playing in the store ||entailment
+the store is not with the floor ||entailment
+the store is not with displays ||contradiction

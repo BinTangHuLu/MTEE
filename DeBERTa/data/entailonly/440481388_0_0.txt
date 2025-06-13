@@ -1,0 +1,4 @@
+There are women. ||entailment
+There are children. ||entailment
+There are two women. ||entailment
+There are two children. ||entailment

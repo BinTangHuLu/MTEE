@@ -1,0 +1,3 @@
+there is not a dog ||contradiction
+there is not a stick ||contradiction
+the dog is not with stick ||contradiction

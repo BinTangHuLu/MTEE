@@ -1,0 +1,4 @@
+There is not a man. ||contradiction
+There is not a uniform. ||contradiction
+The uniform is not army. ||contradiction
+The man is meeting someonenot . ||entailment

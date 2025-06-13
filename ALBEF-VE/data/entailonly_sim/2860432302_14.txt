@@ -1,0 +1,3 @@
+there is a body ||entailment
+there is some food ||entailment
+the body is cutting meat ||entailment

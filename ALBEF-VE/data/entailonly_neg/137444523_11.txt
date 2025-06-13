@@ -1,0 +1,3 @@
+there are not people ||contradiction
+there is not a bus ||contradiction
+the people do not wait for the bus ||contradiction

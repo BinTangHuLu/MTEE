@@ -1,0 +1,3 @@
+There are band. ||contradiction
+There is a apartment. ||contradiction
+The band are working in front of the house. ||contradiction

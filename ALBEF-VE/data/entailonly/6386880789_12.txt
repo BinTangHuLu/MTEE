@@ -1,0 +1,6 @@
+there is a girl ||entailment
+there is a suit ||entailment
+there is some gear ||entailment
+the girl is smiling ||neutral
+the girl is wearing a suit ||contradiction
+the girl is wearing gear ||entailment

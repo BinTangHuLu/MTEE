@@ -1,0 +1,5 @@
+There is a mountaineer. ||entailment
+There is a alp. ||entailment
+There is a dominant. ||neutral
+There is a bluff. ||neutral
+The mountaineer has reached the top. ||neutral

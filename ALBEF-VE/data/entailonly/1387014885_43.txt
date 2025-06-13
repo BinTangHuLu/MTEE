@@ -1,0 +1,3 @@
+there is a crowd ||entailment
+the crowd is gathered ||entailment
+the crowd is gathered outdoors ||entailment

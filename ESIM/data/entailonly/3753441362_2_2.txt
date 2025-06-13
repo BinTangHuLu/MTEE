@@ -1,0 +1,4 @@
+There is a man. ||entailment
+There is a hat. ||entailment
+The man's lips are sealed. ||entailment
+The man keeps the hat. ||entailment

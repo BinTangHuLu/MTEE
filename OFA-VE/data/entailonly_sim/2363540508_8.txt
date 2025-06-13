@@ -1,0 +1,3 @@
+There is a child. ||Entailment
+There is a accelerate. ||Entailment
+The child is not inside the slide. ||Entailment

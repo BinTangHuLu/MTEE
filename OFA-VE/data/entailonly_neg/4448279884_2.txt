@@ -1,0 +1,4 @@
+There is not a crowd. ||Contradiction
+There is not a bonfire. ||Contradiction
+The bonfire is not large. ||Contradiction
+The crowd is not gathered around the bonfire. ||Contradiction

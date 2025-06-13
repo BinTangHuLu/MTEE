@@ -1,0 +1,2 @@
+There is a alp. ||entailment
+The alp is bare. ||entailment

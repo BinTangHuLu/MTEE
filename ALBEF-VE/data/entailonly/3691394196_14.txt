@@ -1,0 +1,3 @@
+there is a town ||entailment
+there is a square ||entailment
+the town has a square ||entailment

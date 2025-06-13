@@ -1,0 +1,3 @@
+There is not a geisha. ||Contradiction
+There is not a store. ||Contradiction
+The geisha is not inside the store. ||Entailment

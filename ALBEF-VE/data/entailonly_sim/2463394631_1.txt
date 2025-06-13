@@ -1,0 +1,3 @@
+there is a dude ||entailment
+there is a dirt ||entailment
+the dude is on ground ||entailment

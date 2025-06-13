@@ -1,0 +1,8 @@
+There is a man. ||entailment
+There are some jeans. ||entailment
+There is a shirt. ||entailment
+There is a woman. ||entailment
+The man is wearing. ||entailment
+The jeans are blue. ||contradiction
+The shirt is peach. ||entailment
+The man is arguing with the woman. ||entailment

@@ -1,0 +1,7 @@
+there are paddlers ||entailment
+there is a configuration ||entailment
+there are boulders ||entailment
+the boulders are giant ||neutral
+the paddlers reach the configuration ||entailment
+the configuration is of boulders ||entailment
+the paddlers are in river ||entailment

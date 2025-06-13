@@ -1,0 +1,4 @@
+There is a crowd. ||entailment
+There are some people. ||entailment
+There is a street. ||entailment
+The crowd stands in the street. ||entailment

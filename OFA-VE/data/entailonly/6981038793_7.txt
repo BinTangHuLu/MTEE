@@ -1,0 +1,3 @@
+There is a person. ||Entailment
+The person is fast. ||Entailment
+The person is going fast. ||Entailment

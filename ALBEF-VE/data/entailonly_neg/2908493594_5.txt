@@ -1,0 +1,4 @@
+there is not a person ||contradiction
+there is not a bench ||contradiction
+the bench is not in the park ||contradiction
+the person is not sprawled on the bench ||entailment

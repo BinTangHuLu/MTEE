@@ -1,0 +1,6 @@
+there is a dude ||entailment
+there are some animal ||entailment
+there is a architecture ||entailment
+the architecture is coca cola ||neutral
+the dude is with boxes ||entailment
+the dude walks past the building ||entailment

@@ -1,0 +1,4 @@
+There is not a boy. ||Contradiction
+There is not some paint. ||Contradiction
+The paint is not on the face. ||Entailment
+The boy does not have paint. ||Entailment

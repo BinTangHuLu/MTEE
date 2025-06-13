@@ -1,0 +1,4 @@
+There is not a kid. ||contradiction
+There is not a cup. ||contradiction
+The kid is not young. ||contradiction
+The kid is not drinking out of cup. ||contradiction

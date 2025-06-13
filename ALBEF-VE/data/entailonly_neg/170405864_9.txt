@@ -1,0 +1,5 @@
+there is not a woman ||contradiction
+there is not a dress ||contradiction
+there is not a child ||contradiction
+the child is not small ||entailment
+the woman is not carrying the child ||entailment

@@ -1,0 +1,5 @@
+there are not men ||contradiction
+there is not an arch ||contradiction
+there is not a doorway ||contradiction
+the men are not standing under the arch ||entailment
+the arch is not in the doorway ||contradiction

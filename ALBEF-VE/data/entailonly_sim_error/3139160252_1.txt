@@ -1,0 +1,4 @@
+EA,paper cup,holding
+A,Christmas tree
+A,Christmas
+RE2,making funny faces,none

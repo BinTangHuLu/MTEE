@@ -1,0 +1,5 @@
+there is not a woman ||contradiction
+there is not a man ||contradiction
+there is not a child ||contradiction
+the woman does not sit next to the man ||contradiction
+the woman does not sit next to the child ||contradiction

@@ -1,0 +1,4 @@
+There are women. ||entailment
+There are plants. ||entailment
+The plants are green. ||neutral
+The women are sitting near to plants. ||entailment

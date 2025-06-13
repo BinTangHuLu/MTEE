@@ -1,0 +1,5 @@
+There are people. ||entailment
+The people are two. ||neutral
+The people are occupied. ||entailment
+The people have different content. ||neutral
+The people are occupied with different content. ||entailment

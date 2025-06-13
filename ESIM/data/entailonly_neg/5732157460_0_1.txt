@@ -1,0 +1,3 @@
+There are not children. ||contradiction
+There is not a microscope. ||contradiction
+The children are not looking through the microscope. ||contradiction

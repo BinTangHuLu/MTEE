@@ -1,0 +1,5 @@
+There are Books. ||entailment
+There is a table. ||entailment
+There are women. ||entailment
+The Books are strewn. ||neutral
+The women look through Books. ||entailment

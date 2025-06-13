@@ -1,0 +1,4 @@
+There are not People. ||contradiction
+There is not a violin. ||contradiction
+There is not a stage. ||contradiction
+The People are not playing on stage. ||contradiction

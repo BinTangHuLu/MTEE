@@ -1,0 +1,3 @@
+There is a plane. ||entailment
+There is a sky. ||entailment
+The plane flies in the sky. ||entailment

@@ -1,0 +1,3 @@
+there is a pup ||entailment
+there are some community ||entailment
+the pup is playing with people ||entailment

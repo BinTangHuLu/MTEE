@@ -1,0 +1,4 @@
+There is not a woman. ||contradiction
+The woman is not black. ||contradiction
+The material is not printed. ||contradiction
+The woman is not handling material. ||contradiction

@@ -1,0 +1,5 @@
+there is a choir ||entailment
+there is an orchestra ||entailment
+there are some instruments ||entailment
+the choir sings orchestra ||entailment
+the orchestra plays instruments ||entailment

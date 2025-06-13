@@ -1,0 +1,6 @@
+there are men ||entailment
+there is a barbecue ||entailment
+there is a field ||entailment
+the men stand behind the barbecue ||entailment
+the barbecue is in the field ||entailment
+the men are smiling ||entailment

@@ -1,0 +1,5 @@
+There is a female. ||entailment
+There is an bodily. ||entailment
+The female is holding. ||entailment
+The bodily is stuffed. ||entailment
+The female is holding an animal. ||entailment

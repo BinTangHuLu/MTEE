@@ -1,0 +1,6 @@
+there is a auto ||entailment
+there is a bench ||neutral
+there is a set ||entailment
+the set is away facing ||contradiction
+the auto serves as a seat ||entailment
+the bench is for the couple ||neutral

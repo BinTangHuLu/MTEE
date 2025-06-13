@@ -1,0 +1,4 @@
+There is somebody. ||Entailment
+There is a shot. ||Entailment
+Somebody is in the shot. ||Entailment
+Somebody is smiling in the shot. ||Entailment

@@ -1,0 +1,4 @@
+There is a person. ||entailment
+There is a hat. ||entailment
+The hat is dark. ||entailment
+The person is wearing a hat. ||entailment

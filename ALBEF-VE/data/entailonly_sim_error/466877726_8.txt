@@ -1,0 +1,2 @@
+E,workers
+E1R,workers,struggle to

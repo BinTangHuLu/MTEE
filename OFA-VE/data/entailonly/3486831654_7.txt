@@ -1,0 +1,3 @@
+There are People. ||Entailment
+There is a baseball. ||Entailment
+People are playing baseball. ||Entailment

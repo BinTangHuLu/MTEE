@@ -1,0 +1,3 @@
+there are clan ||entailment
+there is a banner ||entailment
+the clan are running past the flag ||contradiction

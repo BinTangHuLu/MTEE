@@ -1,0 +1,3 @@
+there is a employee ||entailment
+the employee is indoors ||entailment
+the employee is indoors ||entailment

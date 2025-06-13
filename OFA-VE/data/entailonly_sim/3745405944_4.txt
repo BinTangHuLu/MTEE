@@ -1,0 +1,4 @@
+There is a female. ||Entailment
+There is a dude. ||Contradiction
+The female is blond. ||Neutral
+The female is near the man. ||Entailment

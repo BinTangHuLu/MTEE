@@ -1,0 +1,9 @@
+there are adolescent ||entailment
+there are attire ||entailment
+there is farmland hockey ||entailment
+there are club ||neutral
+the attire are in ||neutral
+the adolescent are playing field hockey ||contradiction
+the adolescent are in uniforms ||entailment
+the adolescent are playing field hockey ||contradiction
+the adolescent are on teams ||neutral

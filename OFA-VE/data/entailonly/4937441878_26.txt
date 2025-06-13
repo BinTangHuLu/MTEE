@@ -1,0 +1,4 @@
+There is a person. ||Entailment
+The person is looking at something. ||Entailment
+There is something. ||Entailment
+The person is looking at something. ||Entailment

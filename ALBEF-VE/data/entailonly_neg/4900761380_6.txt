@@ -1,0 +1,3 @@
+there are not people ||contradiction
+there are not four people ||entailment
+there are not at least four people ||entailment

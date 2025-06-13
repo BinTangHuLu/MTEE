@@ -1,0 +1,3 @@
+There is a man. ||entailment
+There are some trees. ||entailment
+The man is trimming trees. ||entailment

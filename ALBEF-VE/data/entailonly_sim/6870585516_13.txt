@@ -1,0 +1,4 @@
+there is a association ||entailment
+there are some community ||entailment
+there is a market ||entailment
+the association is in mall ||neutral

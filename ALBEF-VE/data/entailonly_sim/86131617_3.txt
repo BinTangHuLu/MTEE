@@ -1,0 +1,3 @@
+there is a advertisement ||entailment
+there is a female ||entailment
+the advertisement is of woman ||entailment

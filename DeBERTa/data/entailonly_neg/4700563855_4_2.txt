@@ -1,0 +1,4 @@
+There are not people. ||contradiction
+There is not a bench. ||contradiction
+The people are not seated on the bench. ||contradiction
+The bench is not outside. ||contradiction

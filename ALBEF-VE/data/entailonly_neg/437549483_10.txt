@@ -1,0 +1,4 @@
+there are not women ||contradiction
+there is not a gym ||contradiction
+the women are not working out ||contradiction
+the women are not at the gym ||contradiction

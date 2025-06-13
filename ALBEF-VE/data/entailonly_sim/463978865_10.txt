@@ -1,0 +1,5 @@
+there are child ||entailment
+there is freight ||entailment
+there is a path ||entailment
+the child are watching traffic ||entailment
+the child are watching traffic from the sidewalk ||neutral

@@ -1,0 +1,4 @@
+there are not people ||contradiction
+there is not a table ||contradiction
+the people are not total ||neutral
+the people are not near the table ||contradiction

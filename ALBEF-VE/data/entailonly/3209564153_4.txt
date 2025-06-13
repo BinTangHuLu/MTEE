@@ -1,0 +1,2 @@
+there is someone ||entailment
+the someone is skiing ||entailment

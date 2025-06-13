@@ -1,0 +1,4 @@
+There is a dude. ||entailment
+There is a baby. ||entailment
+The dude is looking at something. ||entailment
+The baby is looking at something. ||entailment

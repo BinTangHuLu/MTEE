@@ -1,0 +1,4 @@
+There are not riders. ||contradiction
+There is not a ceremony. ||contradiction
+The riders are not professional. ||contradiction
+The riders are not at the ceremony. ||contradiction

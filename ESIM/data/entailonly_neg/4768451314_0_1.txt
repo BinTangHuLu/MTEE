@@ -1,0 +1,7 @@
+There is not a lady. ||contradiction
+There is not a mirror. ||contradiction
+There is not a table. ||contradiction
+The lady is not old. ||contradiction
+The lady does not look into the mirror. ||contradiction
+The lady is not at the table. ||contradiction
+The mirror is not at the table. ||contradiction

@@ -1,0 +1,4 @@
+There is a dude. ||entailment
+The dude watches as the man. ||entailment
+The dude picks up something. ||contradiction
+The something is from the dirt. ||neutral

@@ -1,0 +1,6 @@
+there is not a plane ||contradiction
+there are not some wings ||contradiction
+the wings are not planes ||contradiction
+the plane does not flap wings ||contradiction
+there is not an airplane ||contradiction
+the airplane does not soar in the air ||contradiction

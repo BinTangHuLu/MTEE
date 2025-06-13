@@ -1,0 +1,3 @@
+there is someone ||entailment
+there is a field ||entailment
+someone is sitting in the field ||entailment

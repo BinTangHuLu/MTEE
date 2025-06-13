@@ -1,0 +1,3 @@
+There is a baby. ||Entailment
+There is a glide park. ||Entailment
+The baby skates at the skate park. ||Neutral

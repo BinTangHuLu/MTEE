@@ -1,0 +1,4 @@
+There is a child. ||Entailment
+There is a boutique. ||Neutral
+The child shop lifts. ||Contradiction
+The child shop lifts at the shop. ||Contradiction

@@ -1,0 +1,2 @@
+There is a man. ||entailment
+The man is seated. ||entailment

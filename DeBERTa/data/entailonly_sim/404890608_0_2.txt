@@ -1,0 +1,4 @@
+There is daily. ||entailment
+There are bulk. ||entailment
+The friends are playing with daily. ||neutral
+The friends are playing with bulk. ||entailment

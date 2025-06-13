@@ -1,0 +1,5 @@
+There is not a boy. ||Contradiction
+There is not an arm. ||Contradiction
+The boy is not young. ||Entailment
+The arm is not injured. ||Entailment
+The boy is not with arm. ||Entailment

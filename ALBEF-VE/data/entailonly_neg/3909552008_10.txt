@@ -1,0 +1,4 @@
+there are not men ||contradiction
+there are not lines ||contradiction
+the men are not working ||contradiction
+the men are not working on lines ||contradiction

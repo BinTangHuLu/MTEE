@@ -1,0 +1,3 @@
+there is a woman ||entailment
+there is some jewelry ||entailment
+the woman is wearing jewelry ||entailment

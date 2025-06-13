@@ -1,0 +1,3 @@
+there are not men ||contradiction
+there are not caps ||contradiction
+the men are not wearing caps ||contradiction

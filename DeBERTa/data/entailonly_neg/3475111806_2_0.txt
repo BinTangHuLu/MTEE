@@ -1,0 +1,6 @@
+There is not a man. ||contradiction
+There is not a picture. ||contradiction
+There are not men. ||contradiction
+There is not a crowd. ||contradiction
+The man does not take a picture. ||contradiction
+The man is not in the crowd. ||entailment

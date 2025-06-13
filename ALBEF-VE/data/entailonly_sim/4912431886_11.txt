@@ -1,0 +1,4 @@
+there is a architecture ||entailment
+there is a conversation ||entailment
+the architecture is big ||neutral
+the architecture has word ||neutral

@@ -1,0 +1,4 @@
+there is a ancestor ||entailment
+there is a baby ||entailment
+the ancestor takes a nap ||neutral
+the baby takes a nap ||entailment

@@ -1,0 +1,5 @@
+there is a male ||entailment
+there is a skateboard ||entailment
+there is a trick ||entailment
+the male is doing ||neutral
+the male is doing trick ||neutral

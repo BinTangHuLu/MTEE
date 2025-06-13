@@ -1,0 +1,3 @@
+There is a sprinter. ||entailment
+There is a barrier. ||entailment
+The sprinter hurdles the barrier. ||entailment

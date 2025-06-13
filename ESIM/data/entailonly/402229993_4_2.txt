@@ -1,0 +1,5 @@
+There is a man. ||entailment
+The man is making designs. ||entailment
+The man is outside. ||entailment
+The man is dirt. ||entailment
+The man is in dirt. ||entailment

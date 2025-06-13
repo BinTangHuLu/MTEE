@@ -1,0 +1,4 @@
+There is a man. ||entailment
+There is a wall. ||entailment
+The man stands by the wall. ||entailment
+The wall is outside. ||entailment

@@ -1,0 +1,5 @@
+there is a female ||entailment
+there is a colt ||entailment
+there is a shin ||entailment
+the female is on the horse ||entailment
+the female is chasing the calf ||entailment

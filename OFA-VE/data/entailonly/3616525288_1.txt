@@ -1,0 +1,3 @@
+There are Jockeys. ||Entailment
+There is a race. ||Entailment
+The Jockeys are on the race. ||Entailment

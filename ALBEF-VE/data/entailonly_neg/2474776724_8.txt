@@ -1,0 +1,4 @@
+there are not players ||contradiction
+there is not soccer ||contradiction
+the players are not female ||contradiction
+the players are not playing against players ||contradiction

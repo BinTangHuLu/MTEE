@@ -1,0 +1,3 @@
+there is a association ||entailment
+there are some community ||neutral
+the association is outside people ||entailment

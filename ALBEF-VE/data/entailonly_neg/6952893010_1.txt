@@ -1,0 +1,3 @@
+there are not sailboats ||contradiction
+there is not water ||contradiction
+the sailboats are not on water ||contradiction

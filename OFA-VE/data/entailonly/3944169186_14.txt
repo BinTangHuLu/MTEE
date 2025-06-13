@@ -1,0 +1,5 @@
+There is a girl. ||Entailment
+There is a team. ||Entailment
+There is a game. ||Entailment
+The team is basketball. ||Entailment
+The team is playing the game. ||Entailment

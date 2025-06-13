@@ -1,0 +1,3 @@
+There are kids. ||entailment
+There is a cage. ||entailment
+The kids are in the cage. ||contradiction

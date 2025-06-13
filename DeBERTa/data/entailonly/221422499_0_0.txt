@@ -1,0 +1,4 @@
+There is a gymnast. ||entailment
+There is a crowd. ||entailment
+The gymnast is scanning. ||neutral
+The gymnast is scanning the crowd. ||entailment

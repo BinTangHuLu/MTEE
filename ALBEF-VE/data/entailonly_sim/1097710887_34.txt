@@ -1,0 +1,7 @@
+there is a child ||entailment
+there is a glass ||entailment
+there is a baton ||entailment
+the child is young ||entailment
+the child walks outside ||entailment
+the child is holding a bottle ||entailment
+the child is holding a wand ||entailment

@@ -1,0 +1,3 @@
+there are women ||entailment
+the women are performing ||entailment
+the women are performing together ||entailment

@@ -1,0 +1,4 @@
+There is not someone. ||Contradiction
+There is not hair. ||Contradiction
+The hair is not shoulder-length. ||Entailment
+Someone does not have shoulder-length hair. ||Entailment

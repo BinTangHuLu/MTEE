@@ -1,0 +1,8 @@
+There is not a man. ||contradiction
+There is not an outfit. ||contradiction
+There is not a guitar. ||contradiction
+There is not a drummer. ||contradiction
+The man is not with glasses. ||contradiction
+The man is not disheveled. ||contradiction
+The man is not playing the guitar. ||contradiction
+The man is not singing along with the drummer. ||contradiction

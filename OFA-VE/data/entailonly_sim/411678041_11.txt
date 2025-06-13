@@ -1,0 +1,2 @@
+There is a colt. ||Entailment
+The Cowboy rides the colt. ||Entailment

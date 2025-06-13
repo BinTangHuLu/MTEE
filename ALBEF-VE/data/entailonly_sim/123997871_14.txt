@@ -1,0 +1,6 @@
+there are child ||entailment
+there is a athletics ||entailment
+there are attire ||entailment
+the athletics is a team ||neutral
+the child play sport ||entailment
+the athletics is in uniforms ||entailment

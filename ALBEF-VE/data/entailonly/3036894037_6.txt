@@ -1,0 +1,3 @@
+there are officers ||entailment
+there are streets ||entailment
+the officers are on streets ||entailment

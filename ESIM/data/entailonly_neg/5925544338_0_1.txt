@@ -1,0 +1,4 @@
+There is not a blacksmith. ||contradiction
+There is not a tool. ||contradiction
+The blacksmith is not probable. ||entailment
+The blacksmith is not welding tool. ||contradiction

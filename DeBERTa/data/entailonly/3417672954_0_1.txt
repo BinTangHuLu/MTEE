@@ -1,0 +1,3 @@
+There is a guy. ||entailment
+There is a skateboard. ||entailment
+The guy is riding the skateboard. ||entailment

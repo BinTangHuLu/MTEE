@@ -1,0 +1,6 @@
+There is not a person. ||contradiction
+There is not a way. ||entailment
+There is not a circle. ||contradiction
+The person is not dirt. ||contradiction
+The person does not walk way. ||contradiction
+The person is not from circle. ||contradiction

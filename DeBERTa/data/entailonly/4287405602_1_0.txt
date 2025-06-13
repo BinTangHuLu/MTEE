@@ -1,0 +1,3 @@
+There is a woman. ||entailment
+The woman is looking. ||entailment
+The woman is looking at camera. ||entailment

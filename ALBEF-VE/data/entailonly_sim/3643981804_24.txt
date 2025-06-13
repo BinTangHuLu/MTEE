@@ -1,0 +1,4 @@
+there is a dude ||entailment
+there is atmosphere ||entailment
+the dude is jumping ||entailment
+the dude is in the air ||entailment

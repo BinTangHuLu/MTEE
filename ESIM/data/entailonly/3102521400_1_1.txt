@@ -1,0 +1,7 @@
+There is a guy. ||entailment
+There is a wall. ||entailment
+There is a flier. ||entailment
+The guy is smoking. ||entailment
+The guy is against the wall. ||entailment
+The wall is with the flier. ||entailment
+The flier is on it. ||entailment

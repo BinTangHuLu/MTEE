@@ -1,0 +1,3 @@
+There are clan. ||Entailment
+The clan are two. ||Neutral
+The clan are sitting outside. ||Neutral

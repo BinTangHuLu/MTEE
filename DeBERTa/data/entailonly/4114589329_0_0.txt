@@ -1,0 +1,7 @@
+There is a car. ||entailment
+There are pedestrians. ||entailment
+The car is making a right turn. ||entailment
+The car is making. ||entailment
+The pedestrians are three. ||entailment
+The car is making a turn. ||entailment
+The pedestrians cross behind the car. ||entailment

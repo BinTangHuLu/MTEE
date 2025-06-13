@@ -1,0 +1,3 @@
+there are athletes ||entailment
+there is a river ||entailment
+the athletes kayak down the river ||entailment

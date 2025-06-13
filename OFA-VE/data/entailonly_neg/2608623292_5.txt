@@ -1,0 +1,4 @@
+There is not a man. ||Entailment
+There is not a buttocks. ||Entailment
+There is not a bench. ||Entailment
+The buttocks are not on the bench. ||Entailment

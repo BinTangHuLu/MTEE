@@ -1,0 +1,2 @@
+there is a pup ||entailment
+the pup runs towards the ball ||neutral

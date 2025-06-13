@@ -1,0 +1,5 @@
+there is not a mother ||contradiction
+there is not a child ||contradiction
+there is not a toy ||contradiction
+the mother was not watching the child ||contradiction
+the child does not ride the toy ||contradiction

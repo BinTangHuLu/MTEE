@@ -1,0 +1,5 @@
+There is not a lady. ||contradiction
+There is not a scope. ||contradiction
+There is not an ocean. ||contradiction
+The lady is not looking through the scope. ||contradiction
+The scope is not at the ocean. ||contradiction

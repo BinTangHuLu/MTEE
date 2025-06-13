@@ -1,0 +1,7 @@
+There is a female. ||entailment
+There is a employment. ||entailment
+The female is happily. ||entailment
+The employment is closed. ||entailment
+The employment is colorful. ||neutral
+The female stands by the business. ||entailment
+The employment is showing a sign. ||entailment

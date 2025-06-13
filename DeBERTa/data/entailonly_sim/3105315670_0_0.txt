@@ -1,0 +1,2 @@
+There are flora. ||entailment
+The flora are ready. ||entailment

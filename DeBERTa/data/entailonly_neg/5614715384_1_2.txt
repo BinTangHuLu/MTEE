@@ -1,0 +1,7 @@
+There is not a woman. ||contradiction
+There is not a business. ||contradiction
+The woman is not happily. ||contradiction
+The business is not closed. ||contradiction
+The business is not colorful. ||contradiction
+The woman does not stand by the business. ||contradiction
+The business is not showing a sign. ||contradiction

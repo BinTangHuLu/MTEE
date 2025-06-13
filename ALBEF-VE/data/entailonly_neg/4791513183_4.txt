@@ -1,0 +1,6 @@
+there is not a girl ||contradiction
+there is not a view ||entailment
+the view is not fixated ||neutral
+the girl does not have a view ||entailment
+the view is on somethingnot ||entailment
+there is not a distance ||entailment

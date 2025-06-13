@@ -1,0 +1,3 @@
+there is a box ||entailment
+there is some crop ||entailment
+the box sits outside produce ||entailment

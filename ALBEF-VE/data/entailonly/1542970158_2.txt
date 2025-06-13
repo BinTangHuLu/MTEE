@@ -1,0 +1,6 @@
+there is a man ||entailment
+there is a shirt ||entailment
+there are jeans ||entailment
+there is scaffolding ||entailment
+the shirt is plaid ||entailment
+the man is on scaffolding ||entailment

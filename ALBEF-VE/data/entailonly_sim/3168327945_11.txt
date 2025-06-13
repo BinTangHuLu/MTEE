@@ -1,0 +1,5 @@
+there is a body ||entailment
+there is a bed ||entailment
+the sweet is christmas ||neutral
+the body is on the couch ||entailment
+the body is eating candy ||contradiction

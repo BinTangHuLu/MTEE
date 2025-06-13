@@ -1,0 +1,9 @@
+there is a group ||entailment
+there are people ||entailment
+there is a lawn ||entailment
+there is a man ||entailment
+there is equipment ||entailment
+the man is working on mechanical ||entailment
+the people are walking on lawn ||contradiction
+the man is working on equipment ||entailment
+the lawn is beside the man ||entailment

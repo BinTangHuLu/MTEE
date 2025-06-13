@@ -1,0 +1,3 @@
+there is a band ||entailment
+there is a drummer ||entailment
+the band had drummer ||entailment

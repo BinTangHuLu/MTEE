@@ -1,0 +1,4 @@
+There is a circle. ||Entailment
+There is a conflagration. ||Entailment
+The conflagration is warmth. ||Entailment
+The circle feels bonfire. ||Entailment

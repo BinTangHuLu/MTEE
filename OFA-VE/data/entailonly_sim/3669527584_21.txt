@@ -1,0 +1,5 @@
+There is a female. ||Entailment
+There are some attire. ||Entailment
+The female is Indian. ||Entailment
+The attire are fancy. ||Entailment
+The female is dressed in fancy clothes. ||Entailment

@@ -1,0 +1,2 @@
+There is a automobile. ||Entailment
+The window is in automobile. ||Entailment

@@ -1,0 +1,5 @@
+There is not a man. ||contradiction
+There is not a cliff. ||contradiction
+There is not a city. ||contradiction
+The man does not jump off the cliff. ||contradiction
+The cliff is not near the city. ||contradiction

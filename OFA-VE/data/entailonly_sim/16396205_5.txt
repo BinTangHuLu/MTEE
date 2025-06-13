@@ -1,0 +1,2 @@
+There are dude. ||Entailment
+The dude are having a good time. ||Entailment

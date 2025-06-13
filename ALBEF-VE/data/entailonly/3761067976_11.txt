@@ -1,0 +1,6 @@
+there is a girl ||entailment
+there is a ribbon ||entailment
+there is a dress ||entailment
+the dress is yellow ||entailment
+the girl has a ribbon ||entailment
+the girl has a dress ||entailment

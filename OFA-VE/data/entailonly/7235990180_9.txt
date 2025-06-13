@@ -1,0 +1,5 @@
+There are children. ||Entailment
+There is a crowd. ||Entailment
+There is a stick. ||Entailment
+The children are in the crowd. ||Entailment
+The children are with a stick. ||Entailment

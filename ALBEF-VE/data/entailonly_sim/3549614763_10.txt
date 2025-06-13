@@ -1,0 +1,7 @@
+there is a server ||entailment
+there is a bar ||entailment
+there is a bar ||entailment
+there are female ||entailment
+the bar is occupied ||entailment
+the server is standing at the table ||contradiction
+the bar is occupied by women ||entailment

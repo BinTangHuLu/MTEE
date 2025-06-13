@@ -1,0 +1,4 @@
+There are not cyclists. ||Contradiction
+There are not bikes. ||Contradiction
+The bikes are not road. ||Entailment
+The cyclists are not riding bikes. ||Contradiction

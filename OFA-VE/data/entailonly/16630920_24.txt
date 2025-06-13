@@ -1,0 +1,5 @@
+There is a cup. ||Entailment
+There is a hand. ||Contradiction
+There is a man. ||Entailment
+The cup is in the hand. ||Contradiction
+The hand is of the man. ||Contradiction

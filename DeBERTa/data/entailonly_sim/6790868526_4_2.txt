@@ -1,0 +1,3 @@
+There is a female. ||entailment
+There is a counter. ||contradiction
+The female is clicking on the mouse. ||entailment

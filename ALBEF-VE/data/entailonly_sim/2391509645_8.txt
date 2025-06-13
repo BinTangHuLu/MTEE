@@ -1,0 +1,3 @@
+there is a dude ||entailment
+there is a bludgeon ||contradiction
+the dude is laying down by the cow ||entailment

@@ -1,0 +1,5 @@
+There is not an animal. ||contradiction
+There is not a plateau. ||entailment
+The animal is not golden. ||contradiction
+The plateau is not snow-covered. ||contradiction
+The animal does not bound across the plateau. ||entailment

@@ -1,0 +1,4 @@
+there is a person ||entailment
+there is a bike ||entailment
+the bike is dirt ||entailment
+the person rides the bike ||entailment

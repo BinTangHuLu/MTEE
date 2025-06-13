@@ -1,0 +1,3 @@
+there is a man ||entailment
+the man is hiking ||entailment
+the man is hiking ||entailment

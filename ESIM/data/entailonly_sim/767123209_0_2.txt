@@ -1,0 +1,4 @@
+There is a female. ||entailment
+There is a lap. ||contradiction
+The female is on stage. ||entailment
+The female is holding a microphone. ||entailment

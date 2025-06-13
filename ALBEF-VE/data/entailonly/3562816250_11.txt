@@ -1,0 +1,3 @@
+there is a kayak ||entailment
+the kayak is floating ||entailment
+the kayak is floating ||entailment

@@ -1,0 +1,2 @@
+there is not a ball ||contradiction
+the ball is not white ||contradiction

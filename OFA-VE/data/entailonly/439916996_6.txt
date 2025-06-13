@@ -1,0 +1,4 @@
+There are Dogs. ||Entailment
+There is a woman. ||Entailment
+There is a yard. ||Entailment
+The woman is in the yard. ||Neutral

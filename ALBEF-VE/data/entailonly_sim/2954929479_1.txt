@@ -1,0 +1,4 @@
+there is a child ||entailment
+there is a bit ||entailment
+there is a fruit ||entailment
+the child is in the patch ||entailment

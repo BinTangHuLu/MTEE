@@ -1,0 +1,4 @@
+there are not people ||contradiction
+there is not a sky ||contradiction
+the people are not rock climbing ||contradiction
+the people are not rock climbing to the sky ||contradiction

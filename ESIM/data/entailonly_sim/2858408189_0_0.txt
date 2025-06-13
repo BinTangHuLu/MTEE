@@ -1,0 +1,2 @@
+There is a absolute. ||contradiction
+The absolute is white. ||entailment

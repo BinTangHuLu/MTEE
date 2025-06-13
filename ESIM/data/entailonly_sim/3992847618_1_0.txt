@@ -1,0 +1,7 @@
+There is a boy. ||entailment
+There are some attire. ||entailment
+There is a avenue. ||neutral
+The boy is outside. ||entailment
+The boy is walking. ||entailment
+The boy has clothes. ||entailment
+The boy is walking on the street. ||entailment

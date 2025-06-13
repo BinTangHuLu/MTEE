@@ -1,0 +1,4 @@
+there is a dude ||entailment
+there is a edge ||entailment
+there is a avenue ||entailment
+the dude is at the corner ||entailment

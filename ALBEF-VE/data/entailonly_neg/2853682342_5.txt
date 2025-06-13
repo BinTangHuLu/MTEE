@@ -1,0 +1,4 @@
+there is not a man ||contradiction
+there is not a meadow ||contradiction
+the man is not jumping ||contradiction
+the man is not jumping in the meadow ||contradiction

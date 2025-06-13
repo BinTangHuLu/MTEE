@@ -1,0 +1,4 @@
+There is a female. ||Entailment
+There is a account. ||Contradiction
+The female is in the picture. ||Entailment
+The female is outside. ||Entailment

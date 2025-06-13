@@ -1,0 +1,5 @@
+there are not kids ||contradiction
+there is not a picture ||entailment
+the kids are not getting ready ||contradiction
+the kids are not to take a picture ||contradiction
+the picture is not outdoors ||entailment

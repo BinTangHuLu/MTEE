@@ -1,0 +1,4 @@
+There are mutt. ||neutral
+There is an plain. ||contradiction
+The plain is sealed. ||contradiction
+The mutt traverse the expanse. ||neutral

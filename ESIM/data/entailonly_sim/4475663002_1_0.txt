@@ -1,0 +1,4 @@
+There is a female. ||entailment
+There is a backpack. ||entailment
+The female is holding. ||entailment
+The backpack is her. ||neutral

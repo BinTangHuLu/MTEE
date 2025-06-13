@@ -1,0 +1,5 @@
+there is not a man ||contradiction
+there is not a camera ||contradiction
+there is not a girl ||contradiction
+the man does not look past the camera ||entailment
+the girl does not sit behind the man ||entailment

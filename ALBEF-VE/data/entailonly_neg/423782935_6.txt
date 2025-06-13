@@ -1,0 +1,4 @@
+there are not guys ||contradiction
+there is not a dog ||entailment
+the dog is not tiny ||entailment
+the guys are not standing near the dog ||entailment

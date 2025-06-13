@@ -1,0 +1,7 @@
+there is not a boy ||contradiction
+there is not a girl ||contradiction
+the boy is not young ||contradiction
+the girl is not young ||entailment
+the boy is not playing with the girl ||entailment
+the boy is not playing with one another ||entailment
+the girl is not playing with the boy ||entailment

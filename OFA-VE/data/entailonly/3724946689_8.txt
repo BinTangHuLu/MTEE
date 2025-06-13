@@ -1,0 +1,5 @@
+There is a group. ||Entailment
+There are some people. ||Entailment
+There is a ride. ||Entailment
+The people are young. ||Entailment
+The people are having fun on ride. ||Entailment

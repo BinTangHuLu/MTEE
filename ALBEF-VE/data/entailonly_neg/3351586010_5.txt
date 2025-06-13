@@ -1,0 +1,5 @@
+there is not a boy ||contradiction
+there is not a roller blade ||contradiction
+the boy is not young ||contradiction
+the boy is not rolling ||contradiction
+the boy is not rolling in roller blade ||contradiction

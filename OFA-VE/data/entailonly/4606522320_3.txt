@@ -1,0 +1,4 @@
+There are Men. ||Entailment
+There is headwear. ||Entailment
+The headwear is wearing. ||Entailment
+Men are wearing headwear. ||Entailment

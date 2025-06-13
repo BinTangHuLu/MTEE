@@ -1,0 +1,3 @@
+there is a association ||entailment
+there is a female ||entailment
+the association are standing together ||entailment

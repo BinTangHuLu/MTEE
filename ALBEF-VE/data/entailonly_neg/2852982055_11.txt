@@ -1,0 +1,6 @@
+there is not a woman ||contradiction
+there are not children ||contradiction
+there is not a fountain ||contradiction
+the woman does not look away from the children ||contradiction
+the children did not play in the fountain ||contradiction
+the fountain is not nearby ||neutral

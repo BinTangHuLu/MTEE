@@ -1,0 +1,2 @@
+there is an athlete ||entailment
+the athlete is female ||neutral

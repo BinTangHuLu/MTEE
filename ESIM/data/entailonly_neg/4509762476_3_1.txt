@@ -1,0 +1,5 @@
+There is not a man. ||contradiction
+There is not some music. ||contradiction
+There is not an outdoors. ||contradiction
+The man is not playing music. ||contradiction
+The man is not playing outdoors. ||contradiction

@@ -1,0 +1,4 @@
+There is a set. ||entailment
+The set is sitting down. ||entailment
+The set is smiling. ||entailment
+The set is smiling at each other. ||neutral

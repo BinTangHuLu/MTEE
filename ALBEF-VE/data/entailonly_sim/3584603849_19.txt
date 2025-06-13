@@ -1,0 +1,2 @@
+there is a airplane ||entailment
+the airplane is in the sky ||entailment

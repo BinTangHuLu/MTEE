@@ -1,0 +1,3 @@
+there are band ||entailment
+there are appliance ||entailment
+the band grab the tools ||neutral

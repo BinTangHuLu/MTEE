@@ -1,0 +1,2 @@
+There is not a swimmer. ||contradiction
+The swimmer is not swimming. ||contradiction

@@ -1,0 +1,3 @@
+There is not a man. ||Contradiction
+There is not a song. ||Contradiction
+The man is not singing the song. ||Contradiction

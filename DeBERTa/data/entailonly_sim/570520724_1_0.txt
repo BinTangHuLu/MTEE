@@ -1,0 +1,4 @@
+There is a dude. ||entailment
+There is a account. ||entailment
+The account is outside. ||neutral
+The dude is in the picture. ||entailment

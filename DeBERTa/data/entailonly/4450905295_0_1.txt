@@ -1,0 +1,3 @@
+There is a man. ||entailment
+There is a fence. ||entailment
+The man leans against the fence. ||entailment

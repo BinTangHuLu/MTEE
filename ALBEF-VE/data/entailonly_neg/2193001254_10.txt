@@ -1,0 +1,6 @@
+there is not a man ||contradiction
+there is not a drink ||contradiction
+there are not people ||contradiction
+the drink is hisnot ||neutral
+the man is not having a sip of drink ||contradiction
+the man is not with people ||entailment

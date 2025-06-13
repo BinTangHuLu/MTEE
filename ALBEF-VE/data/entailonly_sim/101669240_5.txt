@@ -1,0 +1,3 @@
+there is a body ||entailment
+there is blizzard ||neutral
+the body is in snow ||entailment

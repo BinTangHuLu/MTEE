@@ -1,0 +1,4 @@
+There is not paint. ||Contradiction
+There are not faces. ||Contradiction
+The faces are not children's. ||Contradiction
+The paint is not on faces. ||Entailment

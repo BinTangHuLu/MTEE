@@ -1,0 +1,3 @@
+there are community ||entailment
+there is a barge ||entailment
+the community are rowing in the boat ||entailment

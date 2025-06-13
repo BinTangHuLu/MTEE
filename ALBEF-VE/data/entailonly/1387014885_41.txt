@@ -1,0 +1,8 @@
+there is a crowd ||entailment
+there is an event ||entailment
+there is a man ||entailment
+there is a woman ||entailment
+the crowd is gathered at the event ||entailment
+the crowd are watching the man ||entailment
+the crowd are watching the woman ||entailment
+the man is arguing with the woman ||neutral

@@ -1,0 +1,3 @@
+there is a store ||entailment
+there is a department ||entailment
+i work at a department store ||entailment

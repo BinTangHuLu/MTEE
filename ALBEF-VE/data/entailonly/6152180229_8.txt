@@ -1,0 +1,3 @@
+there are friends ||entailment
+there is outside ||entailment
+the friends are outside ||entailment

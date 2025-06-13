@@ -1,0 +1,4 @@
+There are not customers. ||contradiction
+There is not a cafe. ||contradiction
+The customers are not at the cafe. ||contradiction
+The customers are not ordering food. ||contradiction

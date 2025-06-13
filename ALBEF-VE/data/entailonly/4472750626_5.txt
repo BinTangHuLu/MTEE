@@ -1,0 +1,4 @@
+there is a person ||entailment
+there is a road ||entailment
+the hair is light colored ||entailment
+the person is walking on road ||entailment

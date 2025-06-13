@@ -1,0 +1,5 @@
+there is a pup ||entailment
+there is a chunk ||entailment
+there is a chunk ||entailment
+the pup jumps over the log ||entailment
+the pup is carrying the log ||entailment

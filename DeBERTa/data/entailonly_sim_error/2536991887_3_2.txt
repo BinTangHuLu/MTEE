@@ -1,0 +1,2 @@
+EA,workers,standing
+E1RE2,workers,are standing,outside

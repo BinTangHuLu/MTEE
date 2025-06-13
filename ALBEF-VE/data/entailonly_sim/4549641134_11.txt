@@ -1,0 +1,3 @@
+there are community ||entailment
+there is a star ||entailment
+the community are sitting in the sun ||entailment

@@ -1,0 +1,5 @@
+There are community. ||entailment
+There is a apartment. ||neutral
+There are three community. ||entailment
+The community are standing inside the house. ||entailment
+The community are near each other. ||entailment

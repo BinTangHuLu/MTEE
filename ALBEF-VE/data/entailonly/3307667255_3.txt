@@ -1,0 +1,4 @@
+there is a marketplace ||entailment
+there are people ||entailment
+the marketplace is full ||entailment
+the marketplace is full of people ||entailment

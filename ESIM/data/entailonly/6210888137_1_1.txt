@@ -1,0 +1,7 @@
+There is a guy. ||entailment
+There is a collision. ||entailment
+There are Hondas. ||entailment
+There is a Schwinn. ||entailment
+The guy looks upon the collision. ||entailment
+The collision is between Hondas. ||entailment
+The collision is between Schwinn. ||neutral

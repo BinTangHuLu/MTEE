@@ -1,0 +1,3 @@
+there are bikes ||entailment
+the bikes are multiple colored ||neutral
+the bikes are lined up next to bikes ||neutral

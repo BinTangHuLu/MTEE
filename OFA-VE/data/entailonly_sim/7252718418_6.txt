@@ -1,0 +1,3 @@
+There is a childbearing. ||Contradiction
+The childbearing is young. ||Entailment
+The childbearing is moving arms. ||Entailment

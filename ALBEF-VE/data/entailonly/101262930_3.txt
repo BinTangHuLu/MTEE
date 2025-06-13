@@ -1,0 +1,7 @@
+there is a man ||contradiction
+there is an arm ||entailment
+there is a woman ||entailment
+there are sunglasses ||entailment
+the man puts arm ||entailment
+the arm is around woman ||entailment
+the sunglasses are wearing ||neutral

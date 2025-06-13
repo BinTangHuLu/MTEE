@@ -1,0 +1,9 @@
+there are people ||entailment
+there are contraptions ||entailment
+there are wheels ||entailment
+there is a path ||entailment
+there are passersby ||entailment
+the contraptions have two wheels apiece ||entailment
+the people are riding on contraptions ||neutral
+the contraptions are on the path ||entailment
+the path contains passersby ||entailment

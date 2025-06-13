@@ -1,0 +1,4 @@
+there is a boundary ||entailment
+there is a bronze ||neutral
+there is a animal ||entailment
+the boundary is near the statue ||entailment

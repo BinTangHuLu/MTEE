@@ -1,0 +1,11 @@
+There is a rider. ||entailment
+There is some gear. ||entailment
+There is a bike. ||entailment
+There is a fence. ||entailment
+The rider has a bike. ||entailment
+The rider is racing. ||entailment
+The bike is past. ||entailment
+The fence is past. ||entailment
+The rider pedals the bike. ||entailment
+The rider is wearing gear. ||entailment
+The bike is past the fence. ||entailment

@@ -1,0 +1,3 @@
+there are competition ||entailment
+the competition are ready ||entailment
+the competition are for the grand opening ||neutral

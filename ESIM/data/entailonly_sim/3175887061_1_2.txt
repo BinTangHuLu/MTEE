@@ -1,0 +1,6 @@
+There is a cartoon. ||neutral
+There is a bit. ||neutral
+There is daily. ||neutral
+He takes a cartoon. ||neutral
+He takes a bit. ||neutral
+He takes daily. ||neutral

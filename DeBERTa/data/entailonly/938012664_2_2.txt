@@ -1,0 +1,3 @@
+There are girls. ||entailment
+The girls are little. ||entailment
+The girls blow bubbles. ||entailment

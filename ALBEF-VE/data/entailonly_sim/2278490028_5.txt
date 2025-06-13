@@ -1,0 +1,4 @@
+there are community ||entailment
+there is a jungle ||entailment
+the community are on rafts ||entailment
+the rafts are in the jungle ||entailment

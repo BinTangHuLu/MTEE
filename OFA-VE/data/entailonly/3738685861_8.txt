@@ -1,0 +1,3 @@
+There are plants. ||Entailment
+There is a kid. ||Entailment
+The plants are next to the kid. ||Entailment

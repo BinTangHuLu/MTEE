@@ -1,0 +1,7 @@
+There is not a man. ||contradiction
+The man is not black. ||contradiction
+The man does not have no hair. ||entailment
+The glasses are not safety. ||contradiction
+The glasses are hisnot . ||contradiction
+The glasses are not on his neck. ||contradiction
+The man is not wearing glasses. ||contradiction

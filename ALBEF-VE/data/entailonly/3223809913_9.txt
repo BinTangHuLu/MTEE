@@ -1,0 +1,6 @@
+there is a man ||entailment
+there is a move ||entailment
+there is a crowd ||entailment
+the move is skating ||entailment
+the man is demonstrating move ||neutral
+the move is for crowd ||entailment

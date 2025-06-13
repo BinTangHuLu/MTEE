@@ -1,0 +1,7 @@
+there is a boy ||entailment
+there are some boy ||entailment
+the boy is two other ||entailment
+the boy are young ||entailment
+the boy has males ||entailment
+the boy are with male ||entailment
+the boy is looking at male ||entailment

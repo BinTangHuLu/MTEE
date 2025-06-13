@@ -1,0 +1,4 @@
+There is a child. ||Entailment
+There is a forest. ||Entailment
+The child is playing. ||Entailment
+The child is playing in the tree. ||Entailment

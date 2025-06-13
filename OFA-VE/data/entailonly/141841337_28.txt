@@ -1,0 +1,4 @@
+There is a man. ||Entailment
+There is a leg. ||Entailment
+The man is flexible. ||Entailment
+The man is stretching the leg. ||Neutral

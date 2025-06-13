@@ -1,0 +1,5 @@
+There is a potters disk. ||Entailment
+There is a fidget. ||Contradiction
+The fidget is his craft. ||Neutral
+The potters disk spins. ||Contradiction
+The fidget works his craft. ||Neutral

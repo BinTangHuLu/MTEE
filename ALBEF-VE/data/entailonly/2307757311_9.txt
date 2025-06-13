@@ -1,0 +1,3 @@
+there are girls ||entailment
+there are four young girls ||contradiction
+the girls are active ||entailment

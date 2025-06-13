@@ -1,0 +1,3 @@
+There is a man. ||Entailment
+There are some items. ||Entailment
+The man is moving items. ||Entailment

@@ -1,0 +1,3 @@
+there is a bludgeon ||entailment
+there is a art ||entailment
+someone is in facade of the cow ||entailment

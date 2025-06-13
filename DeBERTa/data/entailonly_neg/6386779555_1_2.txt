@@ -1,0 +1,6 @@
+There is not a man. ||contradiction
+There is not a surface. ||contradiction
+The man is not skateboarding. ||contradiction
+The surface is not cement. ||contradiction
+The man does not do skateboarding trick. ||contradiction
+The man is not on surface. ||contradiction

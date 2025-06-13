@@ -1,0 +1,4 @@
+there is a pup ||entailment
+there is drink ||entailment
+the pup is jumping ||entailment
+the pup is jumping into water ||entailment

@@ -1,0 +1,4 @@
+there is a gentlewoman ||contradiction
+there is a effort of art ||entailment
+the gentlewoman does stretches ||contradiction
+the gentlewoman stretches on the work of art ||contradiction

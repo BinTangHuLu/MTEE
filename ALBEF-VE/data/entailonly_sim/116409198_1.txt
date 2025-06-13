@@ -1,0 +1,5 @@
+there is a dude ||entailment
+there is cold ||entailment
+there is a period ||entailment
+the dude camps in winter ||entailment
+the dude camps during day ||entailment

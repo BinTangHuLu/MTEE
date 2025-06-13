@@ -1,0 +1,3 @@
+there are not men ||contradiction
+there is not golfing ||contradiction
+the men are not out golfing ||contradiction

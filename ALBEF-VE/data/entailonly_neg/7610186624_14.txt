@@ -1,0 +1,7 @@
+there is not a lady ||contradiction
+there is not a table ||contradiction
+there is not a sandwich ||contradiction
+there is not a cellphone ||contradiction
+the lady is not on the table ||contradiction
+the sandwich is not on the cellphone ||contradiction
+the lady is not cutting the sandwich ||contradiction

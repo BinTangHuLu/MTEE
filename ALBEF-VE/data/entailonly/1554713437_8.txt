@@ -1,0 +1,2 @@
+there is a dog ||entailment
+there is some ground ||entailment

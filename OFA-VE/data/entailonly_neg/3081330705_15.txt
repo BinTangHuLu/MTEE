@@ -1,0 +1,5 @@
+There are not degrees. ||Contradiction
+There are not mountains. ||Contradiction
+The degrees are not 70. ||Contradiction
+The mountains are not visible. ||Contradiction
+The degrees are not on mountains. ||Contradiction

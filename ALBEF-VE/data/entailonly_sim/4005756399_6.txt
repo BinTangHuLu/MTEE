@@ -1,0 +1,3 @@
+there is a dealer ||entailment
+the dealer is outdoors ||entailment
+the dealer is outdoors ||entailment

@@ -1,0 +1,3 @@
+There are Girls. ||Entailment
+There is a race. ||Entailment
+The Girls are running in race. ||Entailment

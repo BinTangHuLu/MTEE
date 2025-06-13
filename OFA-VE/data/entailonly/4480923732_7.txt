@@ -1,0 +1,5 @@
+There is a person. ||Entailment
+There is a phone. ||Entailment
+There is a child. ||Entailment
+The person is on the phone. ||Entailment
+The person is holding the child. ||Entailment

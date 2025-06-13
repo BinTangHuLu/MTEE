@@ -1,0 +1,5 @@
+There are community. ||Entailment
+There is a exterior. ||Entailment
+The exterior is raised. ||Entailment
+The community are on the surface. ||Contradiction
+The exterior is near traintracks. ||Entailment

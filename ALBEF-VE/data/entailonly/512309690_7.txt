@@ -1,0 +1,3 @@
+there is a person ||entailment
+there is some music ||entailment
+the person is making music ||entailment

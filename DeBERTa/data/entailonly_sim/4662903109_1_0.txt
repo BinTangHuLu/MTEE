@@ -1,0 +1,4 @@
+There is a female. ||entailment
+There is a apparel. ||entailment
+The female is in the dress. ||entailment
+The female was there in the crowd. ||entailment

@@ -1,0 +1,4 @@
+There are not women. ||contradiction
+There are not flowers. ||contradiction
+The women are not elderly. ||contradiction
+The women are not resting near flowers. ||contradiction

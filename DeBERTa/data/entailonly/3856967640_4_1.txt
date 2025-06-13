@@ -1,0 +1,9 @@
+There is a woman. ||entailment
+There is a book. ||entailment
+There is paper. ||entailment
+There is a star. ||entailment
+The woman is holding. ||entailment
+The woman is holding the book. ||entailment
+The woman is holding the paper. ||entailment
+The woman is holding the star. ||entailment
+The woman is smiling. ||entailment

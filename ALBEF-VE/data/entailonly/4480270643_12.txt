@@ -1,0 +1,3 @@
+they exist ||entailment
+there is a pool ||entailment
+they are near the pool ||entailment

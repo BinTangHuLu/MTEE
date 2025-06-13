@@ -1,0 +1,2 @@
+EA,boy,very tired
+E1RE2,boy,is resting on,bed

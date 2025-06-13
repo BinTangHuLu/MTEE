@@ -1,0 +1,5 @@
+there is someone ||entailment
+there is a photographer ||entailment
+there is a street ||entailment
+someone is taking photographs ||entailment
+the photographer is taking photographs of the street ||entailment

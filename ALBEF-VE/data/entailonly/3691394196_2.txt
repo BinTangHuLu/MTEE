@@ -1,0 +1,3 @@
+there is a man ||entailment
+there is fire ||entailment
+the man is juggling fire ||entailment

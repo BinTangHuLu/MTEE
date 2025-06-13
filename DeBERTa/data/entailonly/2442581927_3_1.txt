@@ -1,0 +1,5 @@
+There is a guy. ||entailment
+There is a shirt. ||entailment
+There is a bike. ||entailment
+The guy wears the shirt. ||entailment
+The guy is on the bike. ||entailment

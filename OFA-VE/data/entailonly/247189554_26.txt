@@ -1,0 +1,3 @@
+There is a guy. ||Entailment
+There is a chair. ||Entailment
+The guy is sitting on the chair. ||Entailment

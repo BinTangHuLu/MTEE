@@ -1,0 +1,2 @@
+RE2,is wearing,sunglasses
+A,large

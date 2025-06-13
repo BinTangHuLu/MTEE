@@ -1,0 +1,4 @@
+there is a animal ||entailment
+there is a avenue ||entailment
+the animal is in the street ||entailment
+the animal are seated ||contradiction

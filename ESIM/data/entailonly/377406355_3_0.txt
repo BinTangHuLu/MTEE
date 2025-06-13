@@ -1,0 +1,5 @@
+There is a man. ||entailment
+There is a floor. ||entailment
+There are some pictures. ||entailment
+The man is sitting on the floor. ||entailment
+The man is around pictures. ||entailment

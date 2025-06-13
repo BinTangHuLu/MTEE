@@ -1,0 +1,3 @@
+There is a baby. ||Contradiction
+There is a coast. ||Entailment
+The baby is near the beach. ||Neutral

@@ -1,0 +1,4 @@
+there is a man ||entailment
+there is a toy ||entailment
+the toy is stuffed ||neutral
+the man has a toy ||entailment

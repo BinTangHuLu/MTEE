@@ -1,0 +1,3 @@
+there are people ||entailment
+the people are playing ||entailment
+the people are playing outside ||entailment

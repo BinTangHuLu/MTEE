@@ -1,0 +1,3 @@
+there is a soccer club ||neutral
+there is a bout ||entailment
+the soccer club plays a match ||entailment

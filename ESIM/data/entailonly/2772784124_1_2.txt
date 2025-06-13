@@ -1,0 +1,5 @@
+There is a person. ||entailment
+There is a rock. ||entailment
+The person is single. ||entailment
+The rock is heavily-eroded. ||entailment
+The person stands on rock. ||entailment

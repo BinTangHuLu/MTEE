@@ -1,0 +1,3 @@
+there are programs ||entailment
+there is a crowd ||entailment
+the programs took place in front of the crowd ||neutral

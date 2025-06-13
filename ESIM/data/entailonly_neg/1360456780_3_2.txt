@@ -1,0 +1,5 @@
+There is not a person. ||contradiction
+There is not some clothing. ||contradiction
+The clothing is not very formal colorful. ||contradiction
+The person is not wearing clothing. ||contradiction
+The person does not seem to be dancing. ||contradiction

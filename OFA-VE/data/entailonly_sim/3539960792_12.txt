@@ -1,0 +1,4 @@
+There is a body. ||Entailment
+There is some apparatus. ||Entailment
+The apparatus is athletic. ||Entailment
+The body has athletic equipment. ||Entailment

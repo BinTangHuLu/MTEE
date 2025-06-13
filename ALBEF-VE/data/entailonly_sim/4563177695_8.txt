@@ -1,0 +1,5 @@
+there are community ||entailment
+there are attire ||entailment
+the attire are matching ||neutral
+the community are in clothes ||entailment
+the community sit together ||entailment

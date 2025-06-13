@@ -1,0 +1,5 @@
+there is a dog ||entailment
+there are some steps ||entailment
+the dog is black and white ||entailment
+the steps are white ||neutral
+the dog is running down steps ||contradiction

@@ -1,0 +1,4 @@
+there is a body ||entailment
+there is a armor ||neutral
+the armor is green ||neutral
+the body is snowing helmet ||entailment

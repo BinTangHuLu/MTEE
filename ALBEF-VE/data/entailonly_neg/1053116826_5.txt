@@ -1,0 +1,3 @@
+there are not kids ||contradiction
+there is not grass ||contradiction
+the kids are not rolling around grass ||contradiction

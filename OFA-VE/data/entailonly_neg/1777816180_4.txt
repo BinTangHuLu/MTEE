@@ -1,0 +1,4 @@
+There is not a boy. ||Contradiction
+There are not some rocks. ||Contradiction
+The boy is not little. ||Contradiction
+The boy is not balancing on rocks. ||Entailment

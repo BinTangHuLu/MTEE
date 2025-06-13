@@ -1,0 +1,13 @@
+there is a male ||entailment
+there is an area ||entailment
+there is a path ||entailment
+there is a girl ||entailment
+there is some wood ||entailment
+the male is strolling ||entailment
+the area is wooded ||entailment
+the path is same time ||neutral
+the girl is teenage ||neutral
+the wood is stacked ||entailment
+the male is going through the area ||entailment
+the male is on the path ||entailment
+the girl is trying to go up the wood ||neutral

@@ -1,0 +1,5 @@
+there is not a woman ||contradiction
+there is not an attire ||contradiction
+the woman is not indian ||contradiction
+the attire is not cultural ||contradiction
+the woman is not wearing attire ||contradiction

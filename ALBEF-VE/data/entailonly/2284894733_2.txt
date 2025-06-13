@@ -1,0 +1,3 @@
+there is a dog ||entailment
+there is some noise ||entailment
+the dog is making noise ||entailment

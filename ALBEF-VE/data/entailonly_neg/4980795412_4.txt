@@ -1,0 +1,5 @@
+there are not people ||contradiction
+there is not a street ||contradiction
+there is not a building ||contradiction
+the people are not on the street ||contradiction
+the people are not by the building ||contradiction

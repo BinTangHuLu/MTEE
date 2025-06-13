@@ -1,0 +1,2 @@
+There is a child. ||Entailment
+The animals are by the child. ||Entailment

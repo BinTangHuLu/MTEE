@@ -1,0 +1,3 @@
+there are not children ||contradiction
+there is not cement ||contradiction
+the children are not standing on cement ||entailment

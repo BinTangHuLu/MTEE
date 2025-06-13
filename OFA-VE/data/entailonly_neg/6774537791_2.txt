@@ -1,0 +1,4 @@
+There is not a skier. ||Contradiction
+There is not a jumps. ||Entailment
+The jumps is not nice. ||Entailment
+The skier is not getting jumps. ||Neutral

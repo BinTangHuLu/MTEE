@@ -1,0 +1,5 @@
+there is an officer ||entailment
+there is a crowd ||entailment
+there are people ||entailment
+the people are dressed as sailors ||contradiction
+the officer is near the crowd ||entailment

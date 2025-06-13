@@ -1,0 +1,6 @@
+there is not a dog ||contradiction
+there is not a ball ||contradiction
+the dog is not small ||entailment
+the dog is not brown ||contradiction
+the ball is not white ||contradiction
+the dog does not paw at the ball ||contradiction

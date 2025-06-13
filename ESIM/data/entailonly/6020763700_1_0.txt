@@ -1,0 +1,5 @@
+There is a lady. ||entailment
+There is a box. ||entailment
+There is a phone. ||entailment
+The lady looks at the box. ||entailment
+The lady looks at the phone. ||entailment

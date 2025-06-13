@@ -1,0 +1,2 @@
+There are not musicians. ||Entailment
+The musicians are not singing. ||Neutral

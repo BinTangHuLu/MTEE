@@ -1,0 +1,6 @@
+There is a man. ||Entailment
+There is a show. ||Entailment
+There is a fire. ||Entailment
+The show is doing. ||Entailment
+The man is doing the show. ||Neutral
+The show is with fire. ||Entailment

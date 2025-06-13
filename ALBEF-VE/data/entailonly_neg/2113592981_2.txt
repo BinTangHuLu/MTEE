@@ -1,0 +1,6 @@
+there is not a woman ||contradiction
+there is not air ||entailment
+there is not a city ||contradiction
+the woman is not asian ||contradiction
+the woman is not jumping into air ||contradiction
+the woman is not in the city ||entailment

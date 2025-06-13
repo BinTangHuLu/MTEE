@@ -1,0 +1,4 @@
+there is a association ||entailment
+there are community ||entailment
+there is a aisle ||entailment
+the association are walking down path ||entailment

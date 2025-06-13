@@ -1,0 +1,3 @@
+there is a toddler ||entailment
+there is a rock ||entailment
+the toddler balances on the rock ||entailment

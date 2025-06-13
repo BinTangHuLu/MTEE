@@ -1,0 +1,3 @@
+there are men ||entailment
+there is a door ||entailment
+the men are outside the door ||entailment

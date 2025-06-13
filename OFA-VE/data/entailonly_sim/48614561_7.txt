@@ -1,0 +1,3 @@
+There is a child. ||Entailment
+There is a little. ||Entailment
+The child plays with the baby. ||Entailment

@@ -1,0 +1,4 @@
+There is not a girl. ||contradiction
+There are not some flowers. ||contradiction
+The girl is not giving flowers. ||contradiction
+The flowers are not getting some water. ||contradiction

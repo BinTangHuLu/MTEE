@@ -1,0 +1,5 @@
+there is a female ||entailment
+there is a auto ||entailment
+there is a clue ||entailment
+the female is standing in front of chevrolet ||contradiction
+chevrolet is auto and sign ||entailment

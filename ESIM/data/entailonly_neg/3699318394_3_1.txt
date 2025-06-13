@@ -1,0 +1,5 @@
+There is not a man. ||contradiction
+There are not some boomboxes. ||contradiction
+The man does not have two. ||contradiction
+The man does not have boomboxes. ||contradiction
+The boomboxes are not on shoulders. ||contradiction

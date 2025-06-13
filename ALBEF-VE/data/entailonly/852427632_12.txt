@@ -1,0 +1,5 @@
+there is someone ||entailment
+there is a horse ||entailment
+there is an animal ||entailment
+someone is on the horse ||entailment
+someone is chasing the animal ||entailment

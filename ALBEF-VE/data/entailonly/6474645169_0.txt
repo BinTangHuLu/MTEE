@@ -1,0 +1,5 @@
+there is a game ||entailment
+there is a basketball ||entailment
+there are teams ||entailment
+the teams are college ||neutral
+the game is being played by teams ||entailment

@@ -1,0 +1,6 @@
+There is a dog. ||entailment
+There is a ball. ||entailment
+The dog is golden. ||entailment
+The dog is playing with a ball. ||entailment
+The dog is playing with another dog. ||entailment
+The dog is outside. ||entailment

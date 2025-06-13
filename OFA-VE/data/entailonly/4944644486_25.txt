@@ -1,0 +1,4 @@
+There are people. ||Entailment
+There is inside. ||Entailment
+The people are many. ||Entailment
+The people are together inside. ||Entailment

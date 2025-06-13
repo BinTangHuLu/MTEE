@@ -1,0 +1,6 @@
+there is a male ||entailment
+there is a park ||entailment
+the male is male ||neutral
+the park is outdoor ||entailment
+the male is at the park ||neutral
+the male is skating at the park ||neutral

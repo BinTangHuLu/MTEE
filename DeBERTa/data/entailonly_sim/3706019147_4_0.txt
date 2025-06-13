@@ -1,0 +1,3 @@
+There are community. ||entailment
+There is a barge. ||contradiction
+The community are sitting in the boat. ||entailment

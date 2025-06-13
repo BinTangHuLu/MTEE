@@ -1,0 +1,3 @@
+There are not people. ||Contradiction
+There are not papers. ||Contradiction
+The people are not looking at papers. ||Entailment

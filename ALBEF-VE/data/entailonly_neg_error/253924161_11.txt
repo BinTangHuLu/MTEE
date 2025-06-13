@@ -1,0 +1,2 @@
+EA,hair,blond
+RE2,has,hair

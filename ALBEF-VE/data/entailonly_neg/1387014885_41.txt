@@ -1,0 +1,8 @@
+there is not a crowd ||contradiction
+there is not an event ||contradiction
+there is not a man ||contradiction
+there is not a woman ||contradiction
+the crowd is not gathered at the event ||contradiction
+the crowd are not watching the man ||contradiction
+the crowd are not watching the woman ||contradiction
+the man is not arguing with the woman ||neutral

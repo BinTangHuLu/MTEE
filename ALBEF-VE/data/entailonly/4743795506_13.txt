@@ -1,0 +1,7 @@
+there is a man ||entailment
+there is a podium ||entailment
+there is a shirt ||entailment
+there is a man ||entailment
+the man is speaking at podium ||entailment
+the podium is in shirt ||entailment
+the shirt is by man ||entailment

@@ -1,0 +1,4 @@
+there is not lafayette ||contradiction
+there is not a player ||contradiction
+there is not a ball ||contradiction
+the player does not have the ball ||entailment

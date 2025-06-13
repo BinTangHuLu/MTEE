@@ -1,0 +1,3 @@
+There is not a plane. ||Contradiction
+There is not some air. ||Entailment
+The plane is not in air. ||Entailment

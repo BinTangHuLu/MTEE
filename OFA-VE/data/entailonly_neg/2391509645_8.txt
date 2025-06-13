@@ -1,0 +1,3 @@
+There is not a man. ||Entailment
+There is not a cow. ||Contradiction
+The man is not laying down by the cow. ||Entailment

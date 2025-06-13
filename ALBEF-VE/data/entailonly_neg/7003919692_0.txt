@@ -1,0 +1,3 @@
+there are not people ||contradiction
+there is not an alley ||contradiction
+people do not walk through alley ||contradiction

@@ -1,0 +1,4 @@
+There are apparatus. ||Entailment
+There is a locale. ||Entailment
+The Musicians are playing their apparatus. ||Entailment
+The Musicians are playing at the locale. ||Entailment

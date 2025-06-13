@@ -1,0 +1,3 @@
+there are kids ||entailment
+there is a volleyball ||entailment
+the kids are playing volleyball ||entailment

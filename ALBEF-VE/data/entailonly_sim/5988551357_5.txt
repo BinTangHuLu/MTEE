@@ -1,0 +1,3 @@
+there is a body ||entailment
+there is a colt ||entailment
+the body rides the horse ||entailment

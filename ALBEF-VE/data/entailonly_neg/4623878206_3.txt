@@ -1,0 +1,7 @@
+there is not a woman ||contradiction
+there is not a street ||contradiction
+the woman is not walking ||entailment
+the woman is not walking down the street ||contradiction
+there is not water ||contradiction
+the water is not bottled ||neutral
+the woman is not carrying water ||contradiction

@@ -1,0 +1,3 @@
+there are men ||entailment
+there is outside ||entailment
+the men are standing outside ||entailment

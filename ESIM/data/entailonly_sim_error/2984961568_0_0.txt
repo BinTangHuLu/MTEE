@@ -1,0 +1,2 @@
+EA,People,night
+E1RE2,People,wait to get on,bus

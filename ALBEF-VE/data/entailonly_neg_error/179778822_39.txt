@@ -1,0 +1,4 @@
+E,shirt
+A,young
+A,red
+R,standing next to

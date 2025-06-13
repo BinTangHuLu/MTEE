@@ -1,0 +1,5 @@
+There is not a dog. ||contradiction
+The dog is not dark colored. ||entailment
+The dog is not digging. ||contradiction
+The dog is not in the snow. ||contradiction
+The dog is not digging through snow. ||contradiction

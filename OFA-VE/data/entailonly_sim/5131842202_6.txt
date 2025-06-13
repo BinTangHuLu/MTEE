@@ -1,0 +1,3 @@
+There is a buffoon. ||Entailment
+There is a canvas. ||Entailment
+The buffoon sits by the tent. ||Neutral

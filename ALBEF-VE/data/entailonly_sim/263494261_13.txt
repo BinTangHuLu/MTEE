@@ -1,0 +1,4 @@
+there is a association ||entailment
+there are some community ||entailment
+there are some competition ||entailment
+the community are watching runners ||entailment

@@ -1,0 +1,2 @@
+there are not customers ||contradiction
+the customers are not waiting ||contradiction

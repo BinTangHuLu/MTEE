@@ -1,0 +1,3 @@
+there is a body ||entailment
+there is a fiber ||entailment
+the body is dangling from cord ||entailment

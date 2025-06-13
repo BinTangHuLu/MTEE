@@ -1,0 +1,5 @@
+there is a female ||entailment
+there is a knapsack ||entailment
+there is a avenue ||entailment
+the female is with a backpack ||entailment
+the female is walking across the street ||entailment

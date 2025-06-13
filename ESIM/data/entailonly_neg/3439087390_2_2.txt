@@ -1,0 +1,3 @@
+There is not a couple. ||contradiction
+There are not some dogs. ||contradiction
+The couple is not walking dogs. ||entailment

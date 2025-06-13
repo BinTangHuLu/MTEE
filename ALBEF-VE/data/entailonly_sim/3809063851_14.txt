@@ -1,0 +1,3 @@
+there is melody ||entailment
+the melody is live ||neutral
+the melody is being played ||entailment

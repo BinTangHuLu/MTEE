@@ -1,0 +1,4 @@
+there is a teen boy ||entailment
+there is a backpack ||entailment
+the teen boy is smiling ||entailment
+the teen boy is holding a backpack ||entailment

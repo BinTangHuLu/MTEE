@@ -1,0 +1,8 @@
+There is not a man. ||contradiction
+There is not some grass. ||contradiction
+There is not a ball. ||contradiction
+The man is not lying. ||contradiction
+The man is not holding on to. ||contradiction
+The ball is not holding on to. ||contradiction
+The man is not lying in grass. ||contradiction
+The man is not holding on to the ball. ||contradiction

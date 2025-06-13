@@ -1,0 +1,5 @@
+There is a association. ||Entailment
+There are some community. ||Entailment
+There is a drive. ||Contradiction
+The community are young. ||Entailment
+The community are having fun on ride. ||Entailment

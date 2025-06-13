@@ -1,0 +1,3 @@
+There are girl. ||contradiction
+There are boy. ||contradiction
+The girl are than males. ||entailment

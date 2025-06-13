@@ -1,0 +1,6 @@
+there is not a man ||contradiction
+there is not a vest ||contradiction
+there is not a shirt ||contradiction
+the vest is not black ||contradiction
+the shirt is not maroon ||contradiction
+the man is not wearing a shirt ||contradiction

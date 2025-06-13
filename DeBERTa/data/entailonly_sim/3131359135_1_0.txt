@@ -1,0 +1,9 @@
+There is a body. ||neutral
+There is a fur. ||entailment
+There is a bag. ||entailment
+There is a avenue. ||entailment
+There is a bus artery. ||entailment
+The body is in a coat. ||entailment
+The body is with a briefcase. ||entailment
+The body walks down the street. ||entailment
+The avenue is next to the bus lane. ||neutral

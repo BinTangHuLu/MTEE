@@ -1,0 +1,8 @@
+There is not Tricks. ||contradiction
+There is not a person. ||contradiction
+There is not a jacket. ||contradiction
+There are not people. ||contradiction
+The jacket is not red. ||contradiction
+Tricks are not made by the person. ||contradiction
+The person is not in a red jacket. ||contradiction
+People are watching himnot . ||contradiction

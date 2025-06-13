@@ -1,0 +1,4 @@
+There are workers. ||Entailment
+There is gear. ||Entailment
+The gear is heavy. ||Entailment
+The workers are carrying gear. ||Entailment

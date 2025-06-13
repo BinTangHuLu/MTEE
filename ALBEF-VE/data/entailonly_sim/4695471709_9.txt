@@ -1,0 +1,3 @@
+there are community ||entailment
+there is a sculpt ||entailment
+the community are standing near the sculpture ||entailment

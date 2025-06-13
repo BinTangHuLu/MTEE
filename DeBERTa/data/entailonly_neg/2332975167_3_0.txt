@@ -1,0 +1,2 @@
+There is not a policeman. ||contradiction
+The policeman is not sitting. ||contradiction

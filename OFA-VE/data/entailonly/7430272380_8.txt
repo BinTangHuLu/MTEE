@@ -1,0 +1,4 @@
+There is a man. ||Entailment
+There is a stick. ||Entailment
+The stick is big. ||Neutral
+The man has a stick. ||Entailment

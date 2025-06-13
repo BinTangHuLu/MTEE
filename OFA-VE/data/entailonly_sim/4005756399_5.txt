@@ -1,0 +1,6 @@
+There is a dude. ||Entailment
+There are some development. ||Contradiction
+There is a rickshaw. ||Entailment
+The development are for kids. ||Entailment
+The dude is selling items. ||Entailment
+The dude pulls the cart. ||Entailment

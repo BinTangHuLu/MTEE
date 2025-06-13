@@ -1,0 +1,5 @@
+There are not men. ||contradiction
+There is not a bulldozer. ||contradiction
+The men are not standing. ||contradiction
+The bulldozer is not idling. ||contradiction
+The men are not standing near the bulldozer. ||contradiction

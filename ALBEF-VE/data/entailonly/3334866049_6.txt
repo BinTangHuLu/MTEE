@@ -1,0 +1,6 @@
+there is a person ||entailment
+there is a hat ||entailment
+there is snow ||entailment
+the hat is blue ||contradiction
+the person is in the hat ||entailment
+the person is in snow ||entailment

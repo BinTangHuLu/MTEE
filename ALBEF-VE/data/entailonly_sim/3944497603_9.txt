@@ -1,0 +1,3 @@
+there is a body ||entailment
+there is a depot ||entailment
+the body is standing in the station ||contradiction

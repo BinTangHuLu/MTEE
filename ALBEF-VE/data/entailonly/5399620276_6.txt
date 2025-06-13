@@ -1,0 +1,3 @@
+there is a skateboarder ||entailment
+there are some steps ||entailment
+the skateboarder goes over steps ||entailment

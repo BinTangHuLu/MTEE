@@ -1,0 +1,3 @@
+there are not lacrosse players ||contradiction
+there is not a ball ||contradiction
+the lacrosse players are not going after the ball ||entailment

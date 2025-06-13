@@ -1,0 +1,3 @@
+there is a little ||entailment
+the little is tired ||neutral
+the little looks tired ||neutral

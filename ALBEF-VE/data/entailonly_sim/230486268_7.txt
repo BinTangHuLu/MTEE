@@ -1,0 +1,3 @@
+there is a baby ||entailment
+there is a doll ||neutral
+the baby is holding the toy ||entailment

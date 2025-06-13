@@ -1,0 +1,6 @@
+there is a female ||entailment
+there is a rickshaw ||entailment
+there are drink ||entailment
+the drink are various ||neutral
+the female is standing near the cart ||entailment
+the rickshaw has beverages ||entailment

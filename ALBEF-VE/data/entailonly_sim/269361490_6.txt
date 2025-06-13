@@ -1,0 +1,7 @@
+there are community ||entailment
+there is a avenue ||entailment
+there are flora ||entailment
+the community are dressed in goth ||entailment
+the community walk down the street ||entailment
+the avenue is with trees ||entailment
+the flora are in the background ||entailment

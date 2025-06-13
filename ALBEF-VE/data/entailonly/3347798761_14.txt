@@ -1,0 +1,5 @@
+there is a motorcyclist ||entailment
+there is a bike ||entailment
+there is a hill ||entailment
+the motorcyclist rides the bike ||entailment
+the bike goes over the hill ||entailment

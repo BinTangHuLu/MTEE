@@ -1,0 +1,6 @@
+There is a group. ||entailment
+There are some people. ||entailment
+There is a boy. ||entailment
+The group is carefully. ||neutral
+The people listen to the boy. ||entailment
+The boy is being interviewed. ||entailment

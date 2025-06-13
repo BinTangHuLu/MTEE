@@ -1,0 +1,4 @@
+There is a baby. ||Entailment
+There is a accelerate. ||Contradiction
+The baby is small. ||Entailment
+The baby is at the slide. ||Entailment

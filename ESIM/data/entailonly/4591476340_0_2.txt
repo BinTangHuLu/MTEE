@@ -1,0 +1,2 @@
+There are runners. ||entailment
+The runners see something. ||entailment

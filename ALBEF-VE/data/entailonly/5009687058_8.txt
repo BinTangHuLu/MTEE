@@ -1,0 +1,6 @@
+there are players ||entailment
+there is a football ||entailment
+there is a tackle ||entailment
+there is a game ||entailment
+the players make a tackle ||entailment
+the tackle is during the game ||neutral

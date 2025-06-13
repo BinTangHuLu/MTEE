@@ -1,0 +1,2 @@
+There are girls. ||entailment
+The girls are playing. ||entailment

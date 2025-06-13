@@ -1,0 +1,5 @@
+there are not girls ||contradiction
+there are not heads ||contradiction
+there are not feet ||contradiction
+the heads do not be where their feet should be ||entailment
+the girls do not have heads ||contradiction

@@ -1,0 +1,4 @@
+There are People. ||Entailment
+There are heart rates. ||Entailment
+The heart rates are up. ||Entailment
+People are getting heart rates. ||Entailment

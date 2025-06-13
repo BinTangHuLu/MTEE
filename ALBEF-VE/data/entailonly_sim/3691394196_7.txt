@@ -1,0 +1,3 @@
+there is a dude ||entailment
+there is a circle ||entailment
+the dude is addressing the crowd ||entailment

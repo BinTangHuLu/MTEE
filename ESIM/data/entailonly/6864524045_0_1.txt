@@ -1,0 +1,5 @@
+There is a boy. ||entailment
+There is a ball. ||entailment
+The boy is little. ||entailment
+The ball is dirty. ||entailment
+The boy wants the ball. ||entailment

@@ -1,0 +1,4 @@
+There are not girls. ||Contradiction
+There is not a picture. ||Contradiction
+There are not two girls. ||Contradiction
+The girls are not in the picture. ||Entailment

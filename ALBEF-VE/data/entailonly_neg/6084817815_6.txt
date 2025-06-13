@@ -1,0 +1,4 @@
+there are not asians ||contradiction
+there are not several asians ||contradiction
+the asians are not dancing ||contradiction
+the asians are not dancing with asians ||contradiction

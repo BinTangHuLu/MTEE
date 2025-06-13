@@ -1,0 +1,6 @@
+There is a person. ||entailment
+There is a bicycle. ||entailment
+There is a bike. ||entailment
+There is a wire. ||entailment
+The person is on the bicycle. ||entailment
+The bike is situated on the wire. ||entailment

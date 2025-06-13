@@ -1,0 +1,3 @@
+there is a dude ||entailment
+there is a beacon ||entailment
+the dude holds the torch ||entailment

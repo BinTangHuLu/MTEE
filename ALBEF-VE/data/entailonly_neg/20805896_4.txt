@@ -1,0 +1,5 @@
+there are not men ||contradiction
+the men are not young ||entailment
+the men are not happy ||neutral
+there is not a chair ||contradiction
+the men are not lying down in the chair ||contradiction

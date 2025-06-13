@@ -1,0 +1,5 @@
+there is a female ||entailment
+there is a baby ||entailment
+there is a fluctuation ||neutral
+the female pushes the kid ||entailment
+the baby is on the swing ||entailment

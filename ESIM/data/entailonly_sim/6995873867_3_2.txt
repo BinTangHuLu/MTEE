@@ -1,0 +1,9 @@
+There is a association. ||neutral
+There are dude. ||entailment
+There are business. ||contradiction
+There is camel. ||contradiction
+The association consists of men. ||entailment
+The business are playing. ||neutral
+The camel is in. ||contradiction
+The association is playing sports. ||entailment
+The association is in sand. ||entailment

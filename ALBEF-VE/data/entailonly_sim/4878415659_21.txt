@@ -1,0 +1,8 @@
+there is a child ||entailment
+there are bounce ||entailment
+there is a fedora ||contradiction
+there is a fur ||entailment
+the fur is orange sashed blue ||entailment
+the child is wearing boots ||entailment
+the child is wearing a hat ||entailment
+the child is wearing a coat ||entailment

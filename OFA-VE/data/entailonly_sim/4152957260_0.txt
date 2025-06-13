@@ -1,0 +1,3 @@
+There are community. ||Entailment
+There is a link. ||Entailment
+The community are crossing the bridge. ||Neutral

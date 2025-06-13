@@ -1,0 +1,5 @@
+there is a picture ||entailment
+there are people ||entailment
+there is a concert ||entailment
+the picture shows people ||entailment
+the people are at the concert ||entailment

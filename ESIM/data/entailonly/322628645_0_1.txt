@@ -1,0 +1,4 @@
+There is a woman. ||entailment
+There is some food. ||entailment
+There is a child. ||entailment
+The woman is preparing for the child. ||entailment

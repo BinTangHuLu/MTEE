@@ -1,0 +1,4 @@
+There are students. ||entailment
+There is a class. ||entailment
+The students are two. ||entailment
+The students are jumping in class. ||entailment

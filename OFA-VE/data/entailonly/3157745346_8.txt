@@ -1,0 +1,5 @@
+There is a person. ||Entailment
+There is a helmet. ||Entailment
+There is an ATM. ||Entailment
+The person is in the helmet. ||Entailment
+The person uses the ATM. ||Entailment

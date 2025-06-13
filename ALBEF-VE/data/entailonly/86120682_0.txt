@@ -1,0 +1,3 @@
+there is a lady ||entailment
+there is an incinerator ||entailment
+the lady stands in front of the incinerator ||entailment

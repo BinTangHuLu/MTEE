@@ -1,0 +1,7 @@
+there is not a man ||contradiction
+there is not a podium ||contradiction
+there is not a shirt ||contradiction
+there is not a man ||contradiction
+the man is not speaking at podium ||contradiction
+the podium is not in shirt ||contradiction
+the shirt is not by man ||contradiction

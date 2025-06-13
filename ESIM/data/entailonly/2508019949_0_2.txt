@@ -1,0 +1,4 @@
+There is a person. ||entailment
+There is a stroller. ||entailment
+The person is outside. ||entailment
+The person is pushing the stroller. ||entailment

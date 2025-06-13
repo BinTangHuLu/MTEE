@@ -1,0 +1,6 @@
+there are clan ||entailment
+there is a cartoon ||entailment
+there is a female ||entailment
+the apparel is black ||entailment
+the clan are having a photo ||entailment
+the cartoon is taken by a woman ||neutral

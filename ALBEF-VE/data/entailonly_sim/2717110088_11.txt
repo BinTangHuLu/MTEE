@@ -1,0 +1,5 @@
+there are community ||entailment
+there is a bunk ||entailment
+there is a bank ||neutral
+the community lay in the bed ||contradiction
+the community are in the store ||entailment

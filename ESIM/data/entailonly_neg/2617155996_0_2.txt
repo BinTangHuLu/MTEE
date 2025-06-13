@@ -1,0 +1,5 @@
+There are not men. ||contradiction
+There is not a machine. ||contradiction
+There is not a wall. ||contradiction
+The men do not work on the machine. ||contradiction
+The machine is not on the wall. ||contradiction

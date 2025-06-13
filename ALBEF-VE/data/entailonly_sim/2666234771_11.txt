@@ -1,0 +1,3 @@
+there is a dude ||entailment
+there is a avenue ||entailment
+the dude is on street ||entailment

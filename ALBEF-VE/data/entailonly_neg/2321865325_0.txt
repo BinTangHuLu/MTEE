@@ -1,0 +1,3 @@
+there are not dogs ||contradiction
+the dogs are not small ||contradiction
+the dogs are not same color ||entailment

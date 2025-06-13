@@ -1,0 +1,8 @@
+There is not a group. ||Contradiction
+There are not some people. ||Contradiction
+There are not some instruments. ||Contradiction
+There is not a man. ||Contradiction
+There is not a microphone. ||Contradiction
+The people are not with instruments. ||Contradiction
+The people are not near the man. ||Contradiction
+The man is not with the microphone. ||Entailment

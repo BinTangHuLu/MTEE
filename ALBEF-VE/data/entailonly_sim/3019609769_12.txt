@@ -1,0 +1,3 @@
+there is a clan ||entailment
+there is a apartment ||neutral
+the clan leaves home ||contradiction

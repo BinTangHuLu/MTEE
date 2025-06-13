@@ -1,0 +1,4 @@
+there is a person ||entailment
+there is an instrument ||entailment
+the instrument is musical ||entailment
+the person wields the instrument ||entailment

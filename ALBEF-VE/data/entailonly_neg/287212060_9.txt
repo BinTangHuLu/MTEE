@@ -1,0 +1,4 @@
+there are not people ||contradiction
+there are not two people ||contradiction
+the people are not eating ||contradiction
+the people are not eating outdoors ||contradiction

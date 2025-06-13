@@ -1,0 +1,3 @@
+There is an clay. ||contradiction
+There is a exterior. ||entailment
+The clay is visible on the surface. ||neutral

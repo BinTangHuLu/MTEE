@@ -1,0 +1,4 @@
+there is a boy ||entailment
+there is a bed ||entailment
+the boy is very tired ||neutral
+the boy is resting on the bed ||entailment

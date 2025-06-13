@@ -1,0 +1,4 @@
+there is not a child ||contradiction
+there are not some toys ||contradiction
+the child is not playing ||neutral
+the child is not playing with toys ||entailment

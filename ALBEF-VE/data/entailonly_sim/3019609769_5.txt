@@ -1,0 +1,4 @@
+there are community ||entailment
+there is a exterior ||entailment
+the exterior is brown ||neutral
+the community are walking on the surface ||entailment

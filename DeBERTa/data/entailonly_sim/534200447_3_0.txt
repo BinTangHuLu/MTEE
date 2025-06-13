@@ -1,0 +1,6 @@
+There are clan. ||entailment
+There is a agreeable. ||entailment
+There is barley. ||contradiction
+The barley is green. ||neutral
+The clan are playing the game. ||neutral
+The clan are playing on the grass. ||entailment

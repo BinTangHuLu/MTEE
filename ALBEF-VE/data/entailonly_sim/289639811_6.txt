@@ -1,0 +1,4 @@
+there are dude ||entailment
+there is a amphitheater ||entailment
+dude play soccer ||entailment
+soccer is in amphitheater ||entailment

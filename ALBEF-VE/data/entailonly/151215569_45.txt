@@ -1,0 +1,5 @@
+there is a girl ||entailment
+there are some pictures ||entailment
+there is a crowd ||entailment
+the girl is taking pictures ||entailment
+the girl is in the middle of the crowd ||entailment

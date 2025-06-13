@@ -1,0 +1,6 @@
+there is a baby ||entailment
+there is a pedal ||entailment
+there is a artery ||entailment
+the artery is unpaved ||entailment
+the baby is standing near the bike ||entailment
+the pedal is on the road ||entailment

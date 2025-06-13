@@ -1,0 +1,5 @@
+There is a group. ||entailment
+The group is well dressed. ||entailment
+There are people. ||entailment
+The group walks down the block. ||entailment
+The people are holding a sign. ||entailment

@@ -1,0 +1,4 @@
+There is not a dog. ||contradiction
+There is not a man. ||contradiction
+The dog does not have a man. ||contradiction
+The man is not sleeping next to the dog. ||contradiction

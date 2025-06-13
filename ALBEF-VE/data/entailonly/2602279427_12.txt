@@ -1,0 +1,3 @@
+there is someone ||entailment
+there are people ||entailment
+someone is looking at people ||entailment

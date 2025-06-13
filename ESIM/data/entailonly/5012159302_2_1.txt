@@ -1,0 +1,5 @@
+There are Men. ||neutral
+There are overalls. ||entailment
+There is a tractor. ||entailment
+The Men are in overalls. ||entailment
+The Men work to fix the tractor. ||neutral

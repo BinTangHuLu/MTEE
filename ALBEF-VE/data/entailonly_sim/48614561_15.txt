@@ -1,0 +1,5 @@
+there is a baby ||entailment
+there is a baby ||entailment
+the baby is young ||neutral
+the baby took something ||entailment
+something is from the baby ||neutral

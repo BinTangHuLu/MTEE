@@ -1,0 +1,5 @@
+There is a man. ||Entailment
+There is a bike. ||Entailment
+There is a helmet. ||Entailment
+The helmet is wearing. ||Entailment
+The man is riding the bike. ||Entailment

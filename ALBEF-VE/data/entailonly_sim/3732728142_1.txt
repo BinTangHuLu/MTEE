@@ -1,0 +1,5 @@
+there is a little ||entailment
+there is a fedora ||contradiction
+there is a auto seat ||entailment
+the fedora is wearing ||neutral
+the little is in car seat ||entailment

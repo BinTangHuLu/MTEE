@@ -1,0 +1,5 @@
+There is a set. ||entailment
+The set is older looking. ||neutral
+The set are holding hands. ||entailment
+The set walk. ||entailment
+The set walk past restaurant. ||entailment

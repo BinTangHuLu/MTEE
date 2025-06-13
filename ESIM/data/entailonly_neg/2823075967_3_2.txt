@@ -1,0 +1,2 @@
+There are not dogs. ||contradiction
+There are not at least two dogs. ||contradiction

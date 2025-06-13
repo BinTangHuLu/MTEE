@@ -1,0 +1,4 @@
+there are female ||entailment
+there is a field ||neutral
+the female are working out ||entailment
+the female are at the gym ||entailment

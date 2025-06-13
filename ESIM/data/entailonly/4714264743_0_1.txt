@@ -1,0 +1,3 @@
+There is a person. ||entailment
+There is a bag. ||entailment
+The person is strolling with the bag. ||entailment

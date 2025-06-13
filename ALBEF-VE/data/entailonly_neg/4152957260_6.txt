@@ -1,0 +1,4 @@
+there is not a woman ||contradiction
+there are not some plants ||contradiction
+the woman is not young ||entailment
+the woman is not carrying plants ||contradiction

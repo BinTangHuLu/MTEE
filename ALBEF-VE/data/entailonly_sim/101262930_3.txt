@@ -1,0 +1,7 @@
+there is a dude ||contradiction
+there is an branch ||entailment
+there is a female ||entailment
+there are specs ||entailment
+the dude puts arm ||entailment
+the branch is around woman ||entailment
+the specs are wearing ||entailment

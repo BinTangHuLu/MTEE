@@ -1,0 +1,2 @@
+There is a berry. ||entailment
+The berry is present. ||entailment

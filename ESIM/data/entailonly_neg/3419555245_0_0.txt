@@ -1,0 +1,4 @@
+There is not a man. ||contradiction
+There is not a group. ||contradiction
+The man does not putt. ||contradiction
+The group does not talk to each other. ||contradiction

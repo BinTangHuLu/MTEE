@@ -1,0 +1,5 @@
+there are females ||entailment
+there are male ||contradiction
+there is a restaurant ||entailment
+the females are in the restaurant ||contradiction
+the male is in the restaurant ||contradiction

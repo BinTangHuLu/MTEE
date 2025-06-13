@@ -1,0 +1,3 @@
+There are people. ||entailment
+There is a house. ||entailment
+The people are in the house. ||neutral

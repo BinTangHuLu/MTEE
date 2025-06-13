@@ -1,0 +1,3 @@
+there are children ||entailment
+there is a boat ||entailment
+the children ride on the boat ||contradiction

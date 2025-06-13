@@ -1,0 +1,3 @@
+there is a bird ||entailment
+there are some rocks ||neutral
+the bird is on rocks ||entailment

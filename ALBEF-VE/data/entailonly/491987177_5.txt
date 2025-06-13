@@ -1,0 +1,4 @@
+there is a bartender ||entailment
+there is a broom ||entailment
+the bartender is sweeping ||entailment
+the bartender is sweeping with broom ||neutral

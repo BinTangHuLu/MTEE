@@ -1,0 +1,4 @@
+there is a child ||entailment
+there is a moped ||entailment
+the moped is moving ||neutral
+the child is pointing at the moped ||entailment

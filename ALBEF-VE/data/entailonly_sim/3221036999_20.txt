@@ -1,0 +1,4 @@
+there is a boy ||entailment
+there is a conspiracy ||neutral
+the boy is doing ||neutral
+the boy is doing trick ||neutral

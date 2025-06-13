@@ -1,0 +1,3 @@
+there is not a man ||contradiction
+there are not windows ||contradiction
+the man is not washing windows ||contradiction

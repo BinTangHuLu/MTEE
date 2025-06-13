@@ -1,0 +1,5 @@
+There is not a person. ||contradiction
+There is not a toy. ||contradiction
+There is not a dog. ||contradiction
+The person does not throw the toy. ||contradiction
+The person does not throw the dog. ||contradiction

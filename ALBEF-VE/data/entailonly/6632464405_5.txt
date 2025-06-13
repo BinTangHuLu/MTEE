@@ -1,0 +1,4 @@
+there is a performance ||entailment
+there is some music ||entailment
+the performance is underway ||neutral
+the performance is underway by music ||entailment

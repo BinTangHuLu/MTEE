@@ -1,0 +1,5 @@
+there are community ||entailment
+there is a chapel ||entailment
+there is a marriage ||entailment
+the community are inside the church ||contradiction
+the community are at the wedding ||entailment

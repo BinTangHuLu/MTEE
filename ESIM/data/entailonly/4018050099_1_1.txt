@@ -1,0 +1,4 @@
+There is a child. ||entailment
+There is a road. ||entailment
+The child is small. ||entailment
+The child is walking on road. ||entailment

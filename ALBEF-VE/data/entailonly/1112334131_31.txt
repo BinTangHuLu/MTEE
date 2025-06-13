@@ -1,0 +1,5 @@
+there is a woman ||entailment
+there is a boy ||entailment
+there are cookies ||entailment
+the woman is holding cookies ||contradiction
+the boy is holding cookies ||contradiction

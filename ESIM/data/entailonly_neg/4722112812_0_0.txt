@@ -1,0 +1,3 @@
+There are not men. ||contradiction
+There are not torches. ||contradiction
+The men do not hold torches. ||contradiction

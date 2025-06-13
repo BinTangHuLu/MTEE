@@ -1,0 +1,7 @@
+There is a group. ||entailment
+There are people. ||entailment
+There is a bus stop. ||entailment
+The group is of. ||entailment
+The bus is large white and blue. ||entailment
+People wait at the bus stop. ||entailment
+The bus stops at the bus stop. ||entailment

@@ -1,0 +1,4 @@
+There is a baby. ||Entailment
+There is a hat. ||Entailment
+The baby is wearing. ||Entailment
+The baby is wearing the hat. ||Neutral

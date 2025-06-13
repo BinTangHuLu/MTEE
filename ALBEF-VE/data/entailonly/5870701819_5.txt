@@ -1,0 +1,4 @@
+there are dancers ||entailment
+there is clothing ||entailment
+the clothing is bright ||entailment
+the dancers were clothed in bright clothing ||entailment

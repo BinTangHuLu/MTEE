@@ -1,0 +1,3 @@
+there is an animal ||entailment
+there is a tube ||entailment
+the animal is in the tube ||entailment

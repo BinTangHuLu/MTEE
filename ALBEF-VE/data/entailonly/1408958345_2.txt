@@ -1,0 +1,7 @@
+there is a girl ||entailment
+there is a swimsuit ||entailment
+there is a beach ||entailment
+the girl is little ||entailment
+the swimsuit is flower ||contradiction
+the girl is wearing swimsuit ||entailment
+the girl is running across beach ||entailment

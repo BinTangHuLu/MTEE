@@ -1,0 +1,4 @@
+there is a child ||entailment
+there are female ||entailment
+the child throws something ||entailment
+the female sit nearby ||neutral

@@ -1,0 +1,3 @@
+there is not a gymnast ||contradiction
+the gymnast is not female ||entailment
+the gymnast is not training ||contradiction

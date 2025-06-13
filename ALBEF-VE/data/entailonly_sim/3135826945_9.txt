@@ -1,0 +1,7 @@
+there is an lone ||contradiction
+there is a album ||entailment
+there is a baby ||entailment
+there is a course ||entailment
+the baby is sitting ||entailment
+the lone is looking at the book ||contradiction
+the baby is on the lap ||neutral

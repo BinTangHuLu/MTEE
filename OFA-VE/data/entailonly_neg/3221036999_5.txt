@@ -1,0 +1,4 @@
+There is not a person. ||Contradiction
+There is not a park. ||Contradiction
+There is not a skate park. ||Contradiction
+The person is not in the skate park. ||Entailment

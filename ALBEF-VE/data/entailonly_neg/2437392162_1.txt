@@ -1,0 +1,6 @@
+there are not tunnels ||contradiction
+there is not a park ||contradiction
+there are not children ||contradiction
+the tunnels are not bright blue ||contradiction
+the tunnels are not in the park ||contradiction
+the children are not playing in the park ||contradiction

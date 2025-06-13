@@ -1,0 +1,4 @@
+There are not guys. ||contradiction
+There are not shirts. ||contradiction
+The shirts are not matching. ||neutral
+The guys are not talking in shirts. ||contradiction

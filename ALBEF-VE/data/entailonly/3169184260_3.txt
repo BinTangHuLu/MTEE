@@ -1,0 +1,7 @@
+there is mikey ||entailment
+there are pajamas ||entailment
+the pajamas are green ||entailment
+mikey was wearing pajamas ||neutral
+there is something ||entailment
+there is christmas ||entailment
+something got for christmas ||neutral

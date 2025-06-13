@@ -1,0 +1,5 @@
+There is a anything. ||Entailment
+There is a dude. ||Entailment
+There is blaze. ||Entailment
+The dude is holding the thing. ||Entailment
+The anything is on fire. ||Entailment

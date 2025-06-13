@@ -1,0 +1,5 @@
+There is a woman. ||Contradiction
+There is some water. ||Entailment
+There is a boy. ||Entailment
+The woman is in water. ||Entailment
+The woman is with the boy. ||Entailment

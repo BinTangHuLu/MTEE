@@ -1,0 +1,3 @@
+There are not Workers. ||Contradiction
+There is not food. ||Contradiction
+The Workers are not getting food. ||Contradiction

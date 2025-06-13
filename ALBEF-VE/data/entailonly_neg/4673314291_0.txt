@@ -1,0 +1,3 @@
+there are not women ||contradiction
+there is not a man ||contradiction
+the women do not sit man ||entailment

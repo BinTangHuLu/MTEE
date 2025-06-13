@@ -1,0 +1,5 @@
+there is a boy ||entailment
+there is a shirt ||entailment
+there is a shovel ||entailment
+the shirt is plaid ||entailment
+the boy wields the shovel ||entailment

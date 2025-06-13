@@ -1,0 +1,5 @@
+there is a child ||entailment
+the child is smiling ||neutral
+there is a bar ||entailment
+the bar is stony ||entailment
+the child is seeing the wall ||entailment

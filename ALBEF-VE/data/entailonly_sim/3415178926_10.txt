@@ -1,0 +1,5 @@
+there is a dude ||entailment
+there is a pup ||entailment
+there is a delicacy ||neutral
+the dude gave the dog ||entailment
+the dude gave the treat ||entailment

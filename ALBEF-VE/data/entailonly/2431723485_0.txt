@@ -1,0 +1,3 @@
+there is a biker ||entailment
+there are woods ||entailment
+the biker is in woods ||entailment

@@ -1,0 +1,3 @@
+there is a player ||entailment
+there is a basketball ||entailment
+the player was playing basketball ||entailment

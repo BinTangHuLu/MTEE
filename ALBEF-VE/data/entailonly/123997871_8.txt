@@ -1,0 +1,5 @@
+there are girls ||entailment
+there are dresses ||entailment
+there are glasses ||entailment
+the girls are wearing dresses ||neutral
+the girls are wearing glasses ||entailment

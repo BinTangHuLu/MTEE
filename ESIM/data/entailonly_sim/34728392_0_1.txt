@@ -1,0 +1,5 @@
+There is a female. ||entailment
+There is a album. ||neutral
+There is a chair. ||neutral
+The female is reading. ||entailment
+The female is sitting on the bench. ||entailment

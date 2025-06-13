@@ -1,0 +1,3 @@
+There is a Kid. ||entailment
+The Kid is showing. ||entailment
+The Kid is hand sign. ||entailment

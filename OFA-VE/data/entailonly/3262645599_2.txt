@@ -1,0 +1,3 @@
+There are men. ||Entailment
+There is a task. ||Entailment
+The men are working on the task. ||Entailment

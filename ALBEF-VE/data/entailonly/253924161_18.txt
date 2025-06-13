@@ -1,0 +1,8 @@
+there is a man ||entailment
+there is a woman ||entailment
+there is a table ||entailment
+there is a drink ||entailment
+the man and woman are together ||entailment
+the man sits at the table ||entailment
+the woman sits at the table ||contradiction
+the table is with a drink ||entailment

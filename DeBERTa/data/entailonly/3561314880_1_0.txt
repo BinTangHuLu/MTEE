@@ -1,0 +1,4 @@
+There is a man. ||entailment
+There is a shopping cart. ||entailment
+The man is by the shopping cart. ||entailment
+The shopping cart is full. ||entailment

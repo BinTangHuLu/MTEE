@@ -1,0 +1,4 @@
+there is not a man ||contradiction
+there is not a building ||contradiction
+the building is not yellow ||contradiction
+the man is not walking in front of the building ||entailment

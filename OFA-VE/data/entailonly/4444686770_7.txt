@@ -1,0 +1,5 @@
+There are people. ||Entailment
+There is equipment. ||Entailment
+There are fish. ||Entailment
+The people are using equipment. ||Entailment
+The equipment is used to catch fish. ||Entailment

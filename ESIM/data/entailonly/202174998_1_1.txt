@@ -1,0 +1,7 @@
+There are People. ||entailment
+The People have blue hard hats. ||entailment
+There is a man. ||entailment
+The man is wearing a white shirt. ||entailment
+The man is wearing shorts. ||entailment
+The People watch as the man. ||neutral
+The man rock climbs. ||entailment

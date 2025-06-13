@@ -1,0 +1,6 @@
+there is a dog ||entailment
+there is a lens ||entailment
+there is a camera ||entailment
+the dog is small ||entailment
+the dog is looking through lens ||entailment
+the lens is of camera ||neutral

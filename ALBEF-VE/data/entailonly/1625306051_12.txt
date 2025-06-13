@@ -1,0 +1,5 @@
+there are men ||entailment
+there is a wall ||entailment
+the men are two ||neutral
+the wall is rock ||entailment
+the men are sliding down the wall ||entailment

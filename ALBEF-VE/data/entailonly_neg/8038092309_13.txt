@@ -1,0 +1,5 @@
+there are not players ||contradiction
+there is not a ball ||contradiction
+there is not a field ||contradiction
+the players are not grabbing the ball ||contradiction
+the ball is not on the field ||entailment

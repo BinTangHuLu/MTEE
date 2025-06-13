@@ -1,0 +1,3 @@
+there are not bikes ||contradiction
+the bikes are not multiple colored ||entailment
+the bikes are not lined up next to bikes ||contradiction

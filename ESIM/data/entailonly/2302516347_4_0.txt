@@ -1,0 +1,2 @@
+There are individuals. ||entailment
+There are two individuals. ||entailment

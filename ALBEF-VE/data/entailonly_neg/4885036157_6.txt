@@ -1,0 +1,4 @@
+there is not a couple ||contradiction
+there is not a photographed ||contradiction
+the couple is not being ||entailment
+the couple is not photographed underground ||contradiction

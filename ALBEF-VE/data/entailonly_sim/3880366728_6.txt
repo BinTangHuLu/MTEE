@@ -1,0 +1,3 @@
+there are community ||contradiction
+there are two community ||entailment
+the community are dancing ||contradiction

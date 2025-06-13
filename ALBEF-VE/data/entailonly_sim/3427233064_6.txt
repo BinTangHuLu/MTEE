@@ -1,0 +1,5 @@
+there is a child ||entailment
+there is a colt ||entailment
+there are some appliance ||entailment
+the child is watching the horse ||neutral
+the colt is nearby horses ||neutral

@@ -1,0 +1,5 @@
+There is a athletics. ||Entailment
+There are attire. ||Entailment
+The athletics is a team. ||Entailment
+The Boys play athletics. ||Entailment
+The athletics is in uniforms. ||Entailment

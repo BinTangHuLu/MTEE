@@ -1,0 +1,3 @@
+there are community ||entailment
+there is a anniversary ||neutral
+the community are at the celebration ||entailment

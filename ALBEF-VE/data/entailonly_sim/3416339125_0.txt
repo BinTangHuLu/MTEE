@@ -1,0 +1,4 @@
+there are dude ||entailment
+there are drink ||entailment
+the drink are alcoholic ||neutral
+dude have beverages ||entailment

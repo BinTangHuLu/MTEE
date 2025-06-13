@@ -1,0 +1,4 @@
+There are not children. ||contradiction
+There is not an area. ||contradiction
+There is not a forest. ||contradiction
+The children are not in the area. ||entailment

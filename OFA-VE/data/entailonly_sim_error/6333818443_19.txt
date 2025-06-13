@@ -1,0 +1,2 @@
+E1R,Someone,is moving
+E1RE2,Someone,in,building

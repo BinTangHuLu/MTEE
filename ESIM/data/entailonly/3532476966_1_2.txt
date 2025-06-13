@@ -1,0 +1,5 @@
+There are men. ||entailment
+There is a woman. ||entailment
+There is produce. ||entailment
+The men look at produce. ||entailment
+The woman looks at produce. ||entailment

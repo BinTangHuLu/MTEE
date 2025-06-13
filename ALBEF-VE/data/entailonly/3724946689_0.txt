@@ -1,0 +1,4 @@
+there are people ||entailment
+there is a park ||neutral
+there is an amusement park ||entailment
+the people are at amusement park ||entailment

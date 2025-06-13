@@ -1,0 +1,6 @@
+there is a child ||entailment
+there is a brain ||entailment
+the child is small ||entailment
+the brain is his ||neutral
+the child is getting his head ||entailment
+the brain is shaved by the boy ||contradiction

@@ -1,0 +1,5 @@
+there are child ||entailment
+there is a apartment ||contradiction
+the child are many ||neutral
+the child are outside ||entailment
+the child bounce house ||entailment

@@ -1,0 +1,3 @@
+there is a girl ||entailment
+there is a horse ||entailment
+the girl is riding the horse ||entailment

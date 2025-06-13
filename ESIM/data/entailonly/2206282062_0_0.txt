@@ -1,0 +1,8 @@
+There is a player. ||entailment
+There is a team. ||entailment
+There is a ball. ||entailment
+There is a teammate. ||entailment
+The player is One. ||entailment
+The team is women's beach volleyball. ||entailment
+The player jumps to spike the ball. ||contradiction
+The player looks on the teammate. ||entailment

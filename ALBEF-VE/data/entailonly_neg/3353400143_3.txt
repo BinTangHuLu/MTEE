@@ -1,0 +1,4 @@
+there is not a cyclist ||contradiction
+there is not a motorcycle ||contradiction
+the motorcycle is not yellow ||contradiction
+the cyclist is not driving the motorcycle ||contradiction

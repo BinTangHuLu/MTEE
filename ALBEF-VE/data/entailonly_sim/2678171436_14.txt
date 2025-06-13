@@ -1,0 +1,5 @@
+there is a animal ||entailment
+there is a forest ||entailment
+there is a bit ||entailment
+the animal holds the piece ||entailment
+the bit is of the tree ||entailment

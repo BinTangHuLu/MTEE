@@ -1,0 +1,4 @@
+There are not women. ||contradiction
+There are not pictures. ||contradiction
+The women are not taking. ||contradiction
+The pictures are not of each other. ||entailment

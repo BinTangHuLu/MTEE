@@ -1,0 +1,2 @@
+There are not ladies. ||Entailment
+There is not a child. ||Contradiction

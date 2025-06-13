@@ -1,0 +1,4 @@
+There is a male. ||Entailment
+There is an animal. ||Entailment
+The male has an animal. ||Entailment
+The animal is next to the male. ||Neutral

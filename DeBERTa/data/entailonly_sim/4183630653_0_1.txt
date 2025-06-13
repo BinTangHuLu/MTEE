@@ -1,0 +1,5 @@
+There is a female. ||entailment
+There is a blanket. ||neutral
+The blanket is striped. ||entailment
+The female is wearing the wrap. ||entailment
+The female is looking at the camera. ||entailment

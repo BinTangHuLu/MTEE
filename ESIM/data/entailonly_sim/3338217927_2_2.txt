@@ -1,0 +1,7 @@
+There is an bodily. ||entailment
+The bodily is outside. ||entailment
+The bodily is in cold weather. ||entailment
+The bodily is playing. ||entailment
+The bodily is plastic. ||neutral
+The bodily is a toy. ||entailment
+The bodily is playing with a toy. ||entailment

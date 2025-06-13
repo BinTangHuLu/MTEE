@@ -1,0 +1,4 @@
+There are not firefighters. ||contradiction
+There is not a subway station. ||contradiction
+There are not three firefighters. ||contradiction
+The firefighters are not coming up from the subway station. ||contradiction

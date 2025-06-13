@@ -1,0 +1,5 @@
+There are People. ||entailment
+There is produce. ||entailment
+There is a market. ||entailment
+People are viewing produce. ||entailment
+People are viewing the market. ||entailment

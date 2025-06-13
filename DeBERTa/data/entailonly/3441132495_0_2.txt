@@ -1,0 +1,5 @@
+There is a truck. ||entailment
+There is a woman. ||entailment
+The woman is blue. ||entailment
+The woman is standing next to the truck. ||entailment
+The truck is surrounded in mud. ||entailment

@@ -1,0 +1,7 @@
+there is not a cyclist ||contradiction
+there is not a shirt ||contradiction
+there is not a building ||contradiction
+the shirt is not yellow ||contradiction
+the building is not old ||entailment
+the cyclist does not wear the shirt ||contradiction
+the cyclist does not ride by the building ||contradiction

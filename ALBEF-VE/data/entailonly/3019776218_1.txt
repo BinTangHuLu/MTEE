@@ -1,0 +1,4 @@
+there is a boy ||entailment
+there is a dog ||entailment
+the boy is young ||entailment
+the boy is with dog ||entailment

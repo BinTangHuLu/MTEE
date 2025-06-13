@@ -1,0 +1,7 @@
+there is a cyclist ||entailment
+there is a shirt ||entailment
+there is a building ||entailment
+the shirt is yellow ||entailment
+the building is old ||entailment
+the cyclist wears the shirt ||entailment
+the cyclist rides by the building ||entailment

@@ -1,0 +1,4 @@
+There is a dude. ||Entailment
+There is a any. ||Entailment
+The any is mechanical. ||Entailment
+The dude is looking at the part. ||Entailment

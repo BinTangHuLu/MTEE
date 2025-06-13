@@ -1,0 +1,4 @@
+There is a lap. ||entailment
+The lap is right. ||entailment
+The lap is brace. ||entailment
+The lap is in brace. ||entailment

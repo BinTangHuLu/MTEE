@@ -1,0 +1,3 @@
+there is a guy ||entailment
+there are some hands ||entailment
+the guy is working with hands ||entailment

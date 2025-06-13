@@ -1,0 +1,5 @@
+there is a man ||contradiction
+there is a woman ||entailment
+there are some dishes ||entailment
+the man watches while the woman ||entailment
+the woman does dishes ||entailment

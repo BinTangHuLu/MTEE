@@ -1,0 +1,4 @@
+there is not a man ||contradiction
+there is not a kayak ||contradiction
+the man is not floating ||contradiction
+the man is not floating in kayak ||contradiction

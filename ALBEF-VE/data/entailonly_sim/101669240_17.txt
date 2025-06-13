@@ -1,0 +1,5 @@
+there is a dude ||entailment
+there is a animator ||entailment
+the animator is painting ||entailment
+the dude skis and the painter ||entailment
+the animator is painting outside ||entailment

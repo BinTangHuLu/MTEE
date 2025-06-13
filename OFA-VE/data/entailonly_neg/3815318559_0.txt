@@ -1,0 +1,4 @@
+There is not a human. ||Contradiction
+There is not a vehicle. ||Contradiction
+The vehicle is not outside. ||Contradiction
+The human is not inside the vehicle. ||Entailment

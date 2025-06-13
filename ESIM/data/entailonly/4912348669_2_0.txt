@@ -1,0 +1,3 @@
+There is a man. ||entailment
+There is a fountain. ||entailment
+The man is in the fountain. ||entailment

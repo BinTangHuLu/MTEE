@@ -1,0 +1,4 @@
+there is not a man ||contradiction
+there is not a saw ||contradiction
+the saw is not industrial ||entailment
+the man does not wield the saw ||contradiction

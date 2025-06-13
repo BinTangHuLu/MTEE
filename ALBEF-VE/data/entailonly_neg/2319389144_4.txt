@@ -1,0 +1,5 @@
+there is not a shot ||entailment
+there are not some people ||contradiction
+there is not a street ||contradiction
+the shot is not of people ||contradiction
+the people are not on the street ||contradiction

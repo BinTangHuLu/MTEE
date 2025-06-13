@@ -1,0 +1,3 @@
+there are not humans ||contradiction
+there are not outdoors ||contradiction
+the humans are not outdoors ||entailment

@@ -1,0 +1,4 @@
+There is a man. ||Entailment
+There is a club. ||Entailment
+There is a golf. ||Entailment
+The man is holding club. ||Entailment

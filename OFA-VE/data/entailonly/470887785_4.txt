@@ -1,0 +1,6 @@
+There is a woman. ||Entailment
+There is a group. ||Entailment
+There are people. ||Entailment
+The woman is speaking. ||Entailment
+The woman is speaking to the group. ||Neutral
+The group is of people. ||Entailment

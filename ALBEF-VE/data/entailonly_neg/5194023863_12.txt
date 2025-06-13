@@ -1,0 +1,3 @@
+there is not a girl ||contradiction
+there is not an insect ||contradiction
+the girl is not holding the insect ||contradiction

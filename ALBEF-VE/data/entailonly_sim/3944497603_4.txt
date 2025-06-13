@@ -1,0 +1,4 @@
+there is a body ||entailment
+there is a aisle ||entailment
+there is an access ||entailment
+the body is standing in the corridor ||contradiction

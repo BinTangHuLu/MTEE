@@ -1,0 +1,4 @@
+There is a stall. ||Entailment
+There is some fruit. ||Entailment
+There are men. ||Entailment
+The stall is surrounded by men. ||Entailment

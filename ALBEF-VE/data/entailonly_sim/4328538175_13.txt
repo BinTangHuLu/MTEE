@@ -1,0 +1,3 @@
+there are admission ||entailment
+there are appliance ||entailment
+the admission are using tools ||neutral

@@ -1,0 +1,7 @@
+There is a boy. ||entailment
+There is a skateboard. ||entailment
+There is a wall. ||entailment
+The boy is riding. ||entailment
+The wall is stone. ||entailment
+The boy is riding the skateboard. ||entailment
+The boy is on the wall. ||entailment

@@ -1,0 +1,5 @@
+there is not a girl ||contradiction
+there is not some clothing ||contradiction
+the girl is not african american ||entailment
+the clothing is not red ||contradiction
+the girl is not wearing clothing ||contradiction

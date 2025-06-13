@@ -1,0 +1,3 @@
+There is a kid. ||entailment
+The kid is outside. ||entailment
+The kid is looking into water. ||entailment

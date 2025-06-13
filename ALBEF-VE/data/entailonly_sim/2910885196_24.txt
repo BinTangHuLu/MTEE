@@ -1,0 +1,5 @@
+there is a animal ||entailment
+there is an article ||entailment
+there is some bread ||entailment
+the animal is holding the object ||contradiction
+the article is in front of the food ||entailment

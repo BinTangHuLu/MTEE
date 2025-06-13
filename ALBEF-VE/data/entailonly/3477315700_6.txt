@@ -1,0 +1,3 @@
+there is a girl ||entailment
+there is a jacket ||entailment
+the girl has a jacket ||entailment

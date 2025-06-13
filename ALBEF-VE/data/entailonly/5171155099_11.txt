@@ -1,0 +1,5 @@
+there is a man ||entailment
+there is a dress ||entailment
+there is a horse ||entailment
+the dress is military ||neutral
+the man is riding the horse ||entailment

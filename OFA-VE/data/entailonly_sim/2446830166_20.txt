@@ -1,0 +1,2 @@
+There is a dude. ||Entailment
+There is a female. ||Entailment

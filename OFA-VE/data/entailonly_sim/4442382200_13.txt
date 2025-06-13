@@ -1,0 +1,3 @@
+There is a cleric. ||Entailment
+There is a across. ||Entailment
+The cleric has a cross. ||Entailment

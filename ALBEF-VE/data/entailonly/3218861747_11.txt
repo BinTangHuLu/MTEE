@@ -1,0 +1,4 @@
+there is a man ||entailment
+there is a ramp ||entailment
+the ramp is vert ||neutral
+the man is on ramp ||entailment

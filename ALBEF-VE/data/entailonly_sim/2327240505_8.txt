@@ -1,0 +1,6 @@
+there is a child ||entailment
+there is a child ||entailment
+there is a embracing lot ||entailment
+the child and girl are playing ||entailment
+the child is playing in the parking lot ||entailment
+the child is playing in the parking lot ||entailment

@@ -1,0 +1,3 @@
+There is not a person. ||contradiction
+There is not a book. ||contradiction
+The person is not with the book. ||contradiction

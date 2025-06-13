@@ -1,0 +1,4 @@
+There is a Girl. ||entailment
+The Girl is dressed. ||entailment
+The Girl is colorful. ||entailment
+The Girl is in swim gear. ||entailment

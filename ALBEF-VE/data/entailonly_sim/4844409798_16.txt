@@ -1,0 +1,6 @@
+there is a child ||entailment
+the child is young ||neutral
+the blouse is red ||entailment
+the blouse is red ||entailment
+the child is walking next to someone ||entailment
+the child is wearing a red shirt ||neutral

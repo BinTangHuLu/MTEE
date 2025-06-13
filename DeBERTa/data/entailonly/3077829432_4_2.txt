@@ -1,0 +1,5 @@
+There is a person. ||contradiction
+The person is more than one. ||entailment
+The person is working on edible buildings. ||entailment
+There are buildings. ||entailment
+The buildings are edible. ||entailment

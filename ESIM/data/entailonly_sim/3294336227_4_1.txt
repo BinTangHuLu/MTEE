@@ -1,0 +1,6 @@
+There is a dude. ||neutral
+There is a fur. ||entailment
+There is a excursion. ||contradiction
+The dude is in a coat. ||entailment
+The dude takes a stroll. ||entailment
+The excursion is outdoors. ||neutral

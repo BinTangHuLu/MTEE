@@ -1,0 +1,3 @@
+there is a pup ||entailment
+there is a bar ||entailment
+the pup is playing with the stick ||neutral

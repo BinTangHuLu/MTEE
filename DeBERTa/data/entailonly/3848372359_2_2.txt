@@ -1,0 +1,6 @@
+There are people. ||entailment
+There are cameras. ||entailment
+There is a train track. ||entailment
+The people are some. ||neutral
+The people are with cameras. ||entailment
+The people are standing on the train track. ||entailment

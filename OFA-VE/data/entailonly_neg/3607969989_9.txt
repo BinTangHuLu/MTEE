@@ -1,0 +1,3 @@
+There is not a skateboarder. ||Contradiction
+There is not an exercise. ||Contradiction
+The skateboarder does not like to exercise. ||Neutral

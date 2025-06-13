@@ -1,0 +1,10 @@
+there are not hikers ||contradiction
+there is not equipment ||contradiction
+there are not rocks ||contradiction
+there is not snow ||contradiction
+there is not a background ||contradiction
+the equipment is not a bit of ||neutral
+the hikers are not with equipment ||contradiction
+the hikers are not sitting on rocks ||contradiction
+the rocks are not with snow ||contradiction
+the snow is not in the background ||neutral

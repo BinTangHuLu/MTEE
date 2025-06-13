@@ -1,0 +1,4 @@
+There is not a boy. ||Contradiction
+There are not some people. ||Contradiction
+The boy is not energetic. ||Neutral
+The boy does not run around people. ||Contradiction

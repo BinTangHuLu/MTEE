@@ -1,0 +1,7 @@
+There is a boy. ||entailment
+There are attire. ||entailment
+There is a combination. ||neutral
+The boy is little. ||entailment
+The boy is with a pair of scissors in his hands. ||entailment
+The boy has clothes. ||entailment
+The attire are on with a pair of scissors. ||entailment

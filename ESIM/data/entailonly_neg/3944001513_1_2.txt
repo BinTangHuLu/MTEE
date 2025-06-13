@@ -1,0 +1,4 @@
+There is not a man. ||contradiction
+There is not a newspaper. ||contradiction
+The man is not reading the newspaper. ||contradiction
+The man is not sitting down. ||entailment

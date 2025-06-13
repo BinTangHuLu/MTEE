@@ -1,0 +1,3 @@
+there is a body ||entailment
+there is a fedora ||contradiction
+the body has a hat ||contradiction

@@ -1,0 +1,3 @@
+there are not men ||contradiction
+there is not furniture ||contradiction
+the men are not moving furniture ||entailment

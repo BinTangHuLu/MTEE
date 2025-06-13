@@ -1,0 +1,3 @@
+there is cold ||entailment
+the cold is a season ||entailment
+the bitter is outside ||entailment

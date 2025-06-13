@@ -1,0 +1,2 @@
+there is appliance ||entailment
+the products are on appliance ||entailment

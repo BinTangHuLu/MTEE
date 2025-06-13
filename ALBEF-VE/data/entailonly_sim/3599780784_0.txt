@@ -1,0 +1,6 @@
+there is a dude ||entailment
+there is a account ||entailment
+there is a eyebrow cut ||entailment
+the dude is taking a picture ||entailment
+the account is of someone ||neutral
+someone is getting a eyebrow cut ||neutral

@@ -1,0 +1,4 @@
+There are clan. ||neutral
+There is a area. ||entailment
+The clan are clothed. ||entailment
+The clan are relaxing in the room. ||neutral

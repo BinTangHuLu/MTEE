@@ -1,0 +1,2 @@
+there are some specs ||entailment
+the swimmer is wearing specs ||entailment

@@ -1,0 +1,6 @@
+there is not a boy ||contradiction
+there is not a girl ||contradiction
+there is not a parking lot ||contradiction
+the boy and girl are not playing ||contradiction
+the boy is not playing in the parking lot ||contradiction
+the girl is not playing in the parking lot ||contradiction

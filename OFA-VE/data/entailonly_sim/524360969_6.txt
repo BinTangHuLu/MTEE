@@ -1,0 +1,6 @@
+There are band. ||Contradiction
+There is a artery. ||Entailment
+There are documentation. ||Contradiction
+The documentation are stop. ||Entailment
+The Workers are in artery. ||Entailment
+The Workers are holding documentation. ||Contradiction

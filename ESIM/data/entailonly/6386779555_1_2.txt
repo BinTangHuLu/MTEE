@@ -1,0 +1,6 @@
+There is a man. ||entailment
+There is a surface. ||entailment
+The man is skateboarding. ||entailment
+The surface is cement. ||entailment
+The man does skateboarding trick. ||entailment
+The man is on surface. ||entailment

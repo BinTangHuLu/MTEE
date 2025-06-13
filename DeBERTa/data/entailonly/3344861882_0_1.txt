@@ -1,0 +1,8 @@
+There is a woman. ||entailment
+There is a jacket. ||entailment
+There are sunglasses. ||entailment
+There is a camera. ||entailment
+The woman is red. ||entailment
+The jacket is red. ||entailment
+The jacket is red. ||entailment
+The woman smiles at the camera. ||entailment

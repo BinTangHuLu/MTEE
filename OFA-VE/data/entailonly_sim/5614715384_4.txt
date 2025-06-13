@@ -1,0 +1,3 @@
+There is a female. ||Entailment
+There is a clue. ||Entailment
+The female is standing in front of the sign. ||Entailment

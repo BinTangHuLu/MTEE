@@ -1,0 +1,3 @@
+There is a man. ||entailment
+The man moves. ||entailment
+The man is playing a game. ||entailment

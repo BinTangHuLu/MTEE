@@ -1,0 +1,3 @@
+There is a dude. ||entailment
+There is a female. ||entailment
+The dude poses with the woman. ||entailment

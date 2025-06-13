@@ -1,0 +1,4 @@
+there is a woman ||entailment
+there is a street ||entailment
+the clothes are bright ||entailment
+the woman is crossing the street ||entailment

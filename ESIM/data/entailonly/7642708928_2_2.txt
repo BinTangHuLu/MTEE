@@ -1,0 +1,5 @@
+There are carts. ||entailment
+There is trash. ||entailment
+There is a beach. ||entailment
+The carts are filled with trash. ||neutral
+The carts are sitting on the beach. ||entailment

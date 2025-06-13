@@ -1,0 +1,3 @@
+there is a girl ||entailment
+there is some liquid ||entailment
+the girl is ingesting liquid ||entailment

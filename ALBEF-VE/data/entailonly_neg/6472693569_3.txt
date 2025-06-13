@@ -1,0 +1,5 @@
+there are not men ||contradiction
+there is not a pier ||contradiction
+there is not a kayak ||contradiction
+the men are not on the pier ||contradiction
+the pier is not by the kayak ||contradiction

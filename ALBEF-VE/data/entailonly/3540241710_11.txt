@@ -1,0 +1,9 @@
+there is a man ||entailment
+there is a shirt ||entailment
+there is air ||entailment
+there is outside ||entailment
+the shirt is white ||contradiction
+the man is taking flight ||contradiction
+the man is in the shirt ||entailment
+the man is taking flight in the air ||contradiction
+the man is outside the air ||entailment

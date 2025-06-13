@@ -1,0 +1,3 @@
+there are boyhood ||entailment
+the boyhood are dark clothed ||entailment
+the boyhood are looking in various directions ||entailment

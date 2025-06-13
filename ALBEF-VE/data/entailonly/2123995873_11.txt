@@ -1,0 +1,5 @@
+there is a tree ||entailment
+there is a construction site ||entailment
+there are workers ||entailment
+the tree stands by the construction site ||entailment
+the tree stands by the workers ||entailment

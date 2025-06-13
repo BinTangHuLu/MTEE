@@ -1,0 +1,5 @@
+there is a child ||entailment
+there is a coat ||entailment
+the child is little ||entailment
+the child is using jacket ||neutral
+the coat is to stay afloat in the water ||contradiction

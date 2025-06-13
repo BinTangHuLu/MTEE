@@ -1,0 +1,3 @@
+there are not climbers ||contradiction
+there is not a rock ||contradiction
+the climbers do not climb the rock ||contradiction

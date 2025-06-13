@@ -1,0 +1,6 @@
+There is not a child. ||contradiction
+There is not some tissue paper. ||contradiction
+There is not a box. ||contradiction
+The child is not colorful. ||contradiction
+The box is not fancy. ||contradiction
+The child does not pull from the box. ||contradiction

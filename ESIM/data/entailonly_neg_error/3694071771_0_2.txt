@@ -1,0 +1,2 @@
+A,nonmotorized
+R,is using

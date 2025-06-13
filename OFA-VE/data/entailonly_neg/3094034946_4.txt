@@ -1,0 +1,4 @@
+There is not a person. ||Contradiction
+There is not a soccer. ||Contradiction
+The person is not playing. ||Contradiction
+The person is not playing soccer. ||Contradiction

@@ -1,0 +1,5 @@
+there are community ||entailment
+there are stuff ||entailment
+the stuff are old ||neutral
+the stuff are preserved ||entailment
+the community are looking at things ||entailment

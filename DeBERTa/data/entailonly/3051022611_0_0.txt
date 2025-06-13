@@ -1,0 +1,5 @@
+There is a man. ||entailment
+There is a pool. ||entailment
+The man is swimming. ||entailment
+The pool is indoor. ||entailment
+The man is swimming in the pool. ||entailment

@@ -1,0 +1,5 @@
+there is a man ||entailment
+there is a forest ||entailment
+there is a lake ||entailment
+the man is looking past the forest ||entailment
+the man is looking past the lake ||entailment

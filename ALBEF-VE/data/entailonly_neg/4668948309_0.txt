@@ -1,0 +1,3 @@
+there are not business people ||contradiction
+there is not a rail ||contradiction
+the business people are not leaning over rail ||contradiction

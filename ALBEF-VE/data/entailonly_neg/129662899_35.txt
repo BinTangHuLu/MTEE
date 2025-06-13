@@ -1,0 +1,4 @@
+there is not a guy ||contradiction
+there is not a rope ||contradiction
+the rope is not oversized ||contradiction
+the guy is not standing near the rope ||contradiction

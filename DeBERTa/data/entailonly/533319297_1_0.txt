@@ -1,0 +1,5 @@
+There is a man. ||entailment
+There are some toes. ||entailment
+There are people. ||entailment
+The man stands on toes. ||entailment
+The man is in front of people. ||entailment

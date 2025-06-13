@@ -1,0 +1,5 @@
+There is a female. ||entailment
+There is a little. ||entailment
+The female has baby's pajamas. ||entailment
+The female buttons the baby. ||entailment
+The little cries. ||entailment

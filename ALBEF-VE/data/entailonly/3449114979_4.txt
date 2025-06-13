@@ -1,0 +1,5 @@
+there are children ||entailment
+there is schoolwork ||entailment
+there are chalkboards ||entailment
+the children are doing schoolwork ||entailment
+the schoolwork is on chalkboards ||entailment

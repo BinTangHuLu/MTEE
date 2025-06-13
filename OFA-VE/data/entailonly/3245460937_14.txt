@@ -1,0 +1,3 @@
+There is a boy. ||Entailment
+The boy is jumping high. ||Neutral
+The boy is jumping into air. ||Entailment

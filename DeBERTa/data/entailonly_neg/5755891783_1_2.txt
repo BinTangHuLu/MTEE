@@ -1,0 +1,4 @@
+There is not a room. ||contradiction
+There is not a food collection. ||contradiction
+The room is not as a donation. ||contradiction
+The room is not as a donation to the food collection. ||contradiction

@@ -1,0 +1,3 @@
+There is a association. ||entailment
+There is a automobile. ||entailment
+The association is gathered near the vehicle. ||entailment

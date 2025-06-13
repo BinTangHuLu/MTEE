@@ -1,0 +1,5 @@
+there is a body ||entailment
+there is a apparatus ||entailment
+the body is using the tool ||entailment
+there are community ||entailment
+the body is teaching people ||neutral

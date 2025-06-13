@@ -1,0 +1,3 @@
+there are not boys ||contradiction
+the boys are not young ||entailment
+the boys are not asleep ||entailment

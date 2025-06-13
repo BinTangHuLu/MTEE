@@ -1,0 +1,6 @@
+There is not a woman. ||contradiction
+There is not a baby. ||contradiction
+There is not a pajamas. ||contradiction
+The woman does not have baby's pajamas. ||contradiction
+The woman does not button the baby. ||contradiction
+The baby does not cry. ||contradiction

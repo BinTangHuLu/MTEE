@@ -1,0 +1,4 @@
+There is a woman. ||Entailment
+There is a tattoo. ||Entailment
+The tattoo is on the upper back. ||Entailment
+The woman has a tattoo on the upper back. ||Entailment

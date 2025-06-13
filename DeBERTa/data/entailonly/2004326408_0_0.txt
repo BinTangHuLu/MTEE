@@ -1,0 +1,3 @@
+There is a woman. ||entailment
+There is a bike. ||entailment
+The woman is on the bike. ||entailment

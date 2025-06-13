@@ -1,0 +1,5 @@
+there is a day ||entailment
+there are kids ||entailment
+the day is warm ||entailment
+the day makes kids ||entailment
+the kids blow bubbles ||entailment

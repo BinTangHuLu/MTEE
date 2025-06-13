@@ -1,0 +1,4 @@
+there are girl ||entailment
+there is a server ||entailment
+the girl are trying to decide ||neutral
+the server is getting impatient ||neutral

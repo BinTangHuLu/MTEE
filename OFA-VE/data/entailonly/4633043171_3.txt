@@ -1,0 +1,3 @@
+There is a man. ||Entailment
+There is a bus stop. ||Entailment
+The man is at bus stop. ||Entailment

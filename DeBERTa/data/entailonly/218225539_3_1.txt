@@ -1,0 +1,5 @@
+There are people. ||entailment
+There is water. ||entailment
+There are mountains. ||entailment
+The people enjoy water. ||entailment
+The water is near mountains. ||entailment

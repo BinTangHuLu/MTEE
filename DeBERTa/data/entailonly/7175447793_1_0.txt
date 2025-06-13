@@ -1,0 +1,4 @@
+There are Dancers. ||entailment
+There is a stage. ||entailment
+The Dancers are barefoot. ||entailment
+The Dancers are performing on stage. ||entailment

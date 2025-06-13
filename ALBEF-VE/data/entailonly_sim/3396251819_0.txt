@@ -1,0 +1,3 @@
+there is a body ||entailment
+there is a account ||entailment
+the body poses for the picture ||entailment

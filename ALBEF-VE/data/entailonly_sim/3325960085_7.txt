@@ -1,0 +1,5 @@
+there is a association ||entailment
+there are meeting ||entailment
+the meeting are of the community ||entailment
+the meeting are gathering out doors ||entailment
+the meeting are for easter ||neutral

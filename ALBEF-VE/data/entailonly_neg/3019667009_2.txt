@@ -1,0 +1,3 @@
+there are not boys ||contradiction
+the boys are not two ||entailment
+the boys are not playing outside ||contradiction

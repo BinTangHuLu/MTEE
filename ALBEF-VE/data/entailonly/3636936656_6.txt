@@ -1,0 +1,3 @@
+there is a woman ||entailment
+there are some heels ||entailment
+the woman is putting on heels ||contradiction

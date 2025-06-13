@@ -1,0 +1,7 @@
+There are not men. ||contradiction
+There is not garb. ||contradiction
+There are not drums. ||contradiction
+The men are not Two. ||contradiction
+The garb is not cultural. ||contradiction
+The men are not in garb. ||contradiction
+The men are not moving drums. ||contradiction

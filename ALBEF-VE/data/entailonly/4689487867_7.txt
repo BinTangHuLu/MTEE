@@ -1,0 +1,6 @@
+there is a man ||entailment
+there is a vest ||entailment
+there is a shirt ||entailment
+the vest is black ||entailment
+the shirt is maroon ||entailment
+the man is wearing a shirt ||entailment

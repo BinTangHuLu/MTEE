@@ -1,0 +1,4 @@
+There is a childbearing. ||entailment
+There is a marketplace. ||entailment
+The childbearing is outdoors. ||entailment
+The childbearing is at bazaar. ||entailment

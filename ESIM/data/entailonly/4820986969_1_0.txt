@@ -1,0 +1,8 @@
+There is a man. ||entailment
+There is a jersey. ||entailment
+There is a cubicle. ||entailment
+The man is sport. ||entailment
+The jersey is his. ||entailment
+The cubicle is his. ||neutral
+The man is wearing jersey. ||entailment
+The man is in cubicle. ||entailment

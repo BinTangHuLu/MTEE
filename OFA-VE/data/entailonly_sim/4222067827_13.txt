@@ -1,0 +1,4 @@
+There is a baby. ||Entailment
+There are some development. ||Contradiction
+The development are variety. ||Contradiction
+The baby is dressed in items. ||Entailment

@@ -1,0 +1,6 @@
+There are community. ||Entailment
+There is bread. ||Entailment
+There is a rickshaw. ||Contradiction
+The rickshaw is popular. ||Entailment
+community wait for food. ||Entailment
+community are at cart. ||Entailment

@@ -1,0 +1,4 @@
+There is not a man. ||contradiction
+There is not a wall. ||contradiction
+The man is not young. ||contradiction
+The man is not jumping against the wall. ||contradiction

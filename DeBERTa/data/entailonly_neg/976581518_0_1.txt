@@ -1,0 +1,5 @@
+There is not a scientist. ||contradiction
+There is not a slide. ||contradiction
+There is not an invention. ||contradiction
+The scientist does not study the slide. ||contradiction
+The slide is not related to the invention. ||contradiction

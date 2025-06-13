@@ -1,0 +1,8 @@
+there is an officer ||entailment
+there is a shirt ||entailment
+there is a hat ||entailment
+the shirt is bright ||entailment
+the hat is black ||entailment
+the officer is dressed in a shirt ||entailment
+the officer is dressed in a hat ||entailment
+the officer wets his lips ||entailment

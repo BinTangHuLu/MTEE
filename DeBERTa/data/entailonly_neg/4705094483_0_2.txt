@@ -1,0 +1,8 @@
+There is not a man. ||contradiction
+There is not a shirt. ||contradiction
+There is not a kitchen. ||contradiction
+There is not some meat. ||contradiction
+There is not a bag. ||contradiction
+The man is not holding up. ||contradiction
+The meat is not took out of. ||contradiction
+The man is not in kitchen. ||contradiction

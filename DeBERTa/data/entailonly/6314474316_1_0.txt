@@ -1,0 +1,5 @@
+There are men. ||entailment
+The men are kiled. ||entailment
+The men are two. ||entailment
+The men hold. ||entailment
+The men hold bagpipes. ||entailment

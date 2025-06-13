@@ -1,0 +1,5 @@
+there is not a man ||contradiction
+there is not some food ||contradiction
+there are not pedestrians ||contradiction
+the man is not selling food ||contradiction
+the food is not being sold to pedestrians ||contradiction

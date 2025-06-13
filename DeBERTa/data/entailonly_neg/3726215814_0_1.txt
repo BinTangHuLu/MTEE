@@ -1,0 +1,3 @@
+There is not a clock. ||contradiction
+The clock is not accurate. ||neutral
+The clock is not at least two times a day. ||entailment

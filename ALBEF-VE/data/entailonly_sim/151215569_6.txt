@@ -1,0 +1,5 @@
+there is a child ||entailment
+there is a clue ||entailment
+the child is pink ||neutral
+the clue is the horns ||neutral
+the child is rocking the sign ||neutral

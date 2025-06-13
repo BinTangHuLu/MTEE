@@ -1,0 +1,5 @@
+There is a player. ||Entailment
+There is a football. ||Entailment
+There is a game. ||Entailment
+The player is running. ||Entailment
+The player is running during the game. ||Entailment

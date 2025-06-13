@@ -1,0 +1,4 @@
+There is not a person. ||Contradiction
+There is not some water. ||Contradiction
+The person is not diving. ||Entailment
+The person is not diving into water. ||Entailment

@@ -1,0 +1,8 @@
+There is a woman. ||entailment
+There is a jacket. ||entailment
+There are children. ||entailment
+There is a table. ||entailment
+The woman is plaid. ||entailment
+The woman wears the jacket. ||entailment
+The woman stands near the children. ||entailment
+The children are sitting at the table. ||entailment

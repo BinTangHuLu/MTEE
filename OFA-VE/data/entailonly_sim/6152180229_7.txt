@@ -1,0 +1,2 @@
+There is a period. ||Entailment
+Friends are enjoying the period. ||Neutral

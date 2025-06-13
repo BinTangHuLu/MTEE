@@ -1,0 +1,3 @@
+there are not women ||contradiction
+there is not a beach ||contradiction
+the women are not on the beach ||contradiction

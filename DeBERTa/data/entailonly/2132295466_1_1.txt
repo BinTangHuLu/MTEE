@@ -1,0 +1,4 @@
+There is a guy. ||entailment
+There is a dog. ||entailment
+The guy is next to the dog. ||entailment
+The guy is holding musical instruments. ||entailment

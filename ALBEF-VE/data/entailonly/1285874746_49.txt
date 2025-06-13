@@ -1,0 +1,3 @@
+there is a woman ||entailment
+there are people ||entailment
+the woman stands among people ||entailment

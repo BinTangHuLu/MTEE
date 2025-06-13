@@ -1,0 +1,5 @@
+there is a account ||entailment
+there are some community ||entailment
+there is a architecture ||entailment
+the account is of people ||entailment
+the account is taken near the building ||entailment

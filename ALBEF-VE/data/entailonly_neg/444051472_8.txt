@@ -1,0 +1,8 @@
+there is not a man ||contradiction
+there is not a table ||contradiction
+there is not a book ||contradiction
+there are not some ducks ||contradiction
+the man is not reading ||contradiction
+the man is not at table ||contradiction
+the man is not reading book ||contradiction
+the ducks are not at sight ||contradiction

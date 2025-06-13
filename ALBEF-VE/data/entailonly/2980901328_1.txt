@@ -1,0 +1,3 @@
+there is a worker ||entailment
+there is a window ||entailment
+the worker fixes the window ||entailment

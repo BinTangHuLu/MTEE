@@ -1,0 +1,2 @@
+There are child. ||Entailment
+The child are not standing. ||Entailment

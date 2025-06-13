@@ -1,0 +1,5 @@
+There is not a man. ||contradiction
+There is not a tie. ||contradiction
+There is not a laptop. ||contradiction
+The man does not adjust the tie. ||contradiction
+The man is not looking at the laptop. ||contradiction

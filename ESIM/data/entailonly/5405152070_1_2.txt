@@ -1,0 +1,8 @@
+There are boys. ||entailment
+There are jackets. ||entailment
+There is a gym. ||entailment
+There are legs. ||entailment
+The boys are track. ||neutral
+The jackets are track. ||entailment
+The boys are in gym. ||entailment
+The boys stretch legs. ||entailment

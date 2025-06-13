@@ -1,0 +1,4 @@
+There is not a man. ||Contradiction
+There is not a stall. ||Contradiction
+The man is not standing. ||Entailment
+The man is not standing next to the stall. ||Entailment

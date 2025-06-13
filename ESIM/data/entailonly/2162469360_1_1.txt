@@ -1,0 +1,7 @@
+There is a guy. ||entailment
+There is a side. ||entailment
+There is a building. ||entailment
+There is someone else. ||entailment
+The guy is looking over the side. ||neutral
+The guy is looking over the building. ||entailment
+The guy is looking over someone else. ||neutral

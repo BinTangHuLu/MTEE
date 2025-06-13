@@ -1,0 +1,4 @@
+There are runners. ||entailment
+There are buildings. ||entailment
+The buildings are large. ||neutral
+The runners are running towards buildings. ||entailment

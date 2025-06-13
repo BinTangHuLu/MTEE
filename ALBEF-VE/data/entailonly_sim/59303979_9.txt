@@ -1,0 +1,4 @@
+there is a dude ||entailment
+there is an article ||entailment
+the dude is old ||entailment
+the dude is smiling at the object ||entailment

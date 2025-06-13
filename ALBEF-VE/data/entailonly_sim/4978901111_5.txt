@@ -1,0 +1,7 @@
+there is a female ||entailment
+there is a baby ||entailment
+there is a berry ||entailment
+the female is enjoying looking at ||neutral
+the baby is eating ||entailment
+the female is looking at kid ||entailment
+the baby is eating fruit ||contradiction

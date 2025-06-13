@@ -1,0 +1,3 @@
+There is not a group. ||Contradiction
+There is not a girl. ||Contradiction
+The group is not playing with the girl. ||Contradiction

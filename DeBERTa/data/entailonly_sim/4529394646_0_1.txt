@@ -1,0 +1,2 @@
+There is a acrobat. ||entailment
+The acrobat is performing. ||entailment

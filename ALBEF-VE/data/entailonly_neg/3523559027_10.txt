@@ -1,0 +1,5 @@
+there are not people ||contradiction
+there are not colors ||contradiction
+there is not a field ||contradiction
+the people are not wearing colors ||contradiction
+the colors are not on the field ||contradiction

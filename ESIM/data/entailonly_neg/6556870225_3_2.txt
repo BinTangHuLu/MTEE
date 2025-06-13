@@ -1,0 +1,4 @@
+There are not people. ||contradiction
+There is not tennis. ||contradiction
+The people do not play tennis. ||contradiction
+The people does not run them. ||contradiction

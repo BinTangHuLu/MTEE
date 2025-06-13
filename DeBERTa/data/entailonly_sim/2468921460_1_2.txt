@@ -1,0 +1,3 @@
+There is a club. ||entailment
+There is a field. ||contradiction
+The club is in the gym. ||entailment

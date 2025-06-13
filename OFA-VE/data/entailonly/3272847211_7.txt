@@ -1,0 +1,5 @@
+There is a team. ||Entailment
+There is a player. ||Entailment
+The team is green. ||Neutral
+The player is offensive. ||Entailment
+The team has a player. ||Entailment

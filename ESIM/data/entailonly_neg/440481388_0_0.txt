@@ -1,0 +1,4 @@
+There are not women. ||contradiction
+There are not children. ||contradiction
+There are not two women. ||contradiction
+There are not two children. ||contradiction

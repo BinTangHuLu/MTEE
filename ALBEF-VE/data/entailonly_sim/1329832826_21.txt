@@ -1,0 +1,4 @@
+there is a association ||entailment
+there are community ||entailment
+the community are downtown ||entailment
+the community are walking downtown ||entailment

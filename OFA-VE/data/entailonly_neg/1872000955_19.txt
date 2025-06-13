@@ -1,0 +1,3 @@
+There are not workers. ||Entailment
+There is not a hole. ||Contradiction
+The workers are not trying to get deeper into the hole. ||Neutral

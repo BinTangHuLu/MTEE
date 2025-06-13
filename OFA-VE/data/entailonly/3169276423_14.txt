@@ -1,0 +1,5 @@
+There are people. ||Entailment
+There is a face. ||Entailment
+The people are few. ||Contradiction
+The people are displaying something. ||Entailment
+Something is on the face. ||Entailment

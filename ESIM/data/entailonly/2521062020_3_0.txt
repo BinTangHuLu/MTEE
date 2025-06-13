@@ -1,0 +1,5 @@
+There is a man. ||entailment
+There is a boy. ||entailment
+There is a rope. ||entailment
+The man is climbing the boy. ||entailment
+The boy holds the rope. ||entailment

@@ -1,0 +1,7 @@
+there is not winter ||contradiction
+there is not time ||contradiction
+there is not shopping ||contradiction
+there is not a corner ||contradiction
+there is not a market ||contradiction
+the shopping is not at the market ||contradiction
+the shopping is not at the corner ||contradiction

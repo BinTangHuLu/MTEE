@@ -1,0 +1,4 @@
+there are men ||entailment
+there is a street ||entailment
+the men are older ||entailment
+the men walk down the street ||entailment

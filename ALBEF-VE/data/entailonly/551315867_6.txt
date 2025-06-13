@@ -1,0 +1,4 @@
+there is a man ||entailment
+there is a cap ||entailment
+the cap is blue ||entailment
+the man is wearing a cap ||entailment

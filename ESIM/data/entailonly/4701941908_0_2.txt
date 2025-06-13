@@ -1,0 +1,5 @@
+There is a girl. ||entailment
+There is a bench. ||entailment
+There is a stroller. ||entailment
+The girl eats on the bench. ||entailment
+The bench is near the stroller. ||entailment

@@ -1,0 +1,4 @@
+There is a jumper. ||entailment
+There is a hurdle. ||entailment
+The jumper is long. ||entailment
+The jumper is jumping hurdle. ||contradiction

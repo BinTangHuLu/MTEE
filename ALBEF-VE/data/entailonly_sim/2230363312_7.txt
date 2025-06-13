@@ -1,0 +1,4 @@
+there is a companion ||entailment
+there is a path ||entailment
+the companion is older ||entailment
+the fellow hike on sidewalk ||entailment

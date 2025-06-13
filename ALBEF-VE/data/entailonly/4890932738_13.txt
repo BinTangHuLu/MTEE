@@ -1,0 +1,3 @@
+there is a human being ||entailment
+there is a destination ||entailment
+the human being travels to destination ||entailment

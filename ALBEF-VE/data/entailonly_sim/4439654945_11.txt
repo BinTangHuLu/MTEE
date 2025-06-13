@@ -1,0 +1,4 @@
+there are clan ||entailment
+there are man ||contradiction
+the clan are young ||entailment
+the clan are watching adults ||contradiction

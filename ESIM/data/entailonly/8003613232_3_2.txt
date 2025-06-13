@@ -1,0 +1,4 @@
+There is a kid. ||entailment
+There is some clothing. ||entailment
+The clothing is colorful. ||entailment
+The kid is wearing clothing. ||entailment

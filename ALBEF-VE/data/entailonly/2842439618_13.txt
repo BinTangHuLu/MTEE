@@ -1,0 +1,4 @@
+there is a surfer ||entailment
+there is a wave ||entailment
+the wave is large ||entailment
+the surfer is riding down the wave ||entailment

@@ -1,0 +1,3 @@
+there is a buffoon ||entailment
+there is a canvas ||entailment
+the buffoon sits by the tent ||entailment

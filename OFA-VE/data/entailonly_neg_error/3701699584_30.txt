@@ -1,0 +1,2 @@
+RE2,is ready to play,player
+A,ready

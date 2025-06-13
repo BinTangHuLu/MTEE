@@ -1,0 +1,4 @@
+There are people. ||entailment
+There is a trail. ||entailment
+There is a mountain. ||entailment
+The people are walking along the trail. ||entailment

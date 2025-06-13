@@ -1,0 +1,3 @@
+There are females. ||entailment
+There are sacks. ||entailment
+The females are holding sacks. ||entailment

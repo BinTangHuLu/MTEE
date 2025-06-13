@@ -1,0 +1,5 @@
+There is a dude. ||entailment
+There is a auto. ||entailment
+The dude is casually dressed. ||entailment
+The auto is antique. ||entailment
+The dude is admiring the car. ||entailment

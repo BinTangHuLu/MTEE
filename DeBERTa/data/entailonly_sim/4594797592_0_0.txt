@@ -1,0 +1,3 @@
+There is a child. ||entailment
+The child is pink color. ||entailment
+The child is wearing frok. ||neutral

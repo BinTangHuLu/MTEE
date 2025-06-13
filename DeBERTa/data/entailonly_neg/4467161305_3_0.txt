@@ -1,0 +1,3 @@
+There is not a worker. ||contradiction
+The worker is not at work. ||contradiction
+The worker is not at construction. ||contradiction

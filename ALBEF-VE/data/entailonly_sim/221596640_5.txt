@@ -1,0 +1,3 @@
+there is a body ||entailment
+there is an apparatus ||entailment
+the body plays the instrument ||entailment

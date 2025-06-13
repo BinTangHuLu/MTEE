@@ -1,0 +1,3 @@
+there is a female ||entailment
+there is a capital ||entailment
+the female is in the city ||entailment

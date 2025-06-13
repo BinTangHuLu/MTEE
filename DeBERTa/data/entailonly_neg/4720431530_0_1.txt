@@ -1,0 +1,7 @@
+There is not a group. ||contradiction
+There are not people. ||contradiction
+There is not a bus stop. ||contradiction
+The group is not of. ||contradiction
+The bus is not large white and blue. ||contradiction
+People do not wait at the bus stop. ||contradiction
+The bus does not stop at the bus stop. ||contradiction

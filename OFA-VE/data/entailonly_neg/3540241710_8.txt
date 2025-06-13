@@ -1,0 +1,5 @@
+There is not a skateboarder. ||Entailment
+There is not a skateboard. ||Contradiction
+The skateboarder is not riding. ||Entailment
+The skateboard is not high in the air. ||Entailment
+The skateboarder is not riding the skateboard. ||Entailment

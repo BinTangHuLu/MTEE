@@ -1,0 +1,2 @@
+There is an umpire. ||Neutral
+The umpire is outside. ||Entailment

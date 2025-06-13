@@ -1,0 +1,3 @@
+there are men ||entailment
+there are nets ||entailment
+the men are with nets ||entailment

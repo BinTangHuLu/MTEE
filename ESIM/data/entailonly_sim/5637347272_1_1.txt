@@ -1,0 +1,4 @@
+There is a animal. ||entailment
+There is an bodily. ||entailment
+The animal is outdoors. ||entailment
+The animal is outdoors with the animal. ||entailment

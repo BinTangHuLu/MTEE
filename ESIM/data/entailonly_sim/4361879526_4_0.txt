@@ -1,0 +1,5 @@
+There are community. ||neutral
+There is a scaffolding. ||entailment
+The community are two. ||neutral
+The scaffolding is wooden. ||entailment
+The community are climbing on scaffold. ||neutral

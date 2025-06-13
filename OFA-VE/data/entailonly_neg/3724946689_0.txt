@@ -1,0 +1,4 @@
+There are not people. ||Contradiction
+There is not a park. ||Contradiction
+There is not an amusement park. ||Contradiction
+The people are not at amusement park. ||Contradiction

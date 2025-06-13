@@ -1,0 +1,3 @@
+there are not people ||contradiction
+there are not instruments ||contradiction
+people do not play instruments ||contradiction

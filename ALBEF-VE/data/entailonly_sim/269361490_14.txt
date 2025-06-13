@@ -1,0 +1,5 @@
+there are community ||entailment
+there is a avenue ||entailment
+there are flora ||entailment
+the community are walking down the street ||entailment
+the avenue is with trees ||entailment

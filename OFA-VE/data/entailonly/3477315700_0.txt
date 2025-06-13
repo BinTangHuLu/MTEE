@@ -1,0 +1,4 @@
+There is a girl. ||Entailment
+There is a park. ||Neutral
+The girl is little. ||Entailment
+The girl is at park. ||Entailment

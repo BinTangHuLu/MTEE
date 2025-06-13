@@ -1,0 +1,6 @@
+There is a auto. ||Entailment
+There is a bench. ||Contradiction
+There is a set. ||Entailment
+The set is away facing. ||Contradiction
+The auto serves as a seat. ||Entailment
+The bench is for the couple. ||Contradiction

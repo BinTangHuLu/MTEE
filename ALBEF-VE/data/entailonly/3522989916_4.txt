@@ -1,0 +1,3 @@
+there are mammals ||entailment
+there is grass ||entailment
+the mammals are in grass ||entailment

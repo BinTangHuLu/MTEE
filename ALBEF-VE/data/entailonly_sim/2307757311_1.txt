@@ -1,0 +1,4 @@
+there are adolescent ||entailment
+there is a association ||entailment
+the adolescent are jumping ||entailment
+the adolescent are jumping over one another ||entailment

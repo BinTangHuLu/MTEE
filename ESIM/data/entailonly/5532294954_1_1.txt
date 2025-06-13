@@ -1,0 +1,5 @@
+There is a fireman. ||entailment
+There is an axe. ||entailment
+There is debris. ||entailment
+The fireman is with an axe. ||entailment
+The fireman looks at debris. ||entailment

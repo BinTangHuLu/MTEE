@@ -1,0 +1,3 @@
+There is not a female. ||contradiction
+There is not a male. ||contradiction
+The female is not near the male. ||contradiction

@@ -1,0 +1,12 @@
+There is not a rider. ||contradiction
+There is not some gear. ||contradiction
+There is not a bike. ||contradiction
+There is not a fence. ||contradiction
+The rider does not have a bike. ||contradiction
+The rider is not racing. ||contradiction
+The gear is not for racing. ||contradiction
+The bike is not past. ||contradiction
+The fence is not past. ||contradiction
+The rider does not pedal the bike. ||contradiction
+The rider is not wearing gear. ||contradiction
+The bike is not past the fence. ||contradiction

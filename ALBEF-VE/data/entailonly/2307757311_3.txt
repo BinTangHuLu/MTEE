@@ -1,0 +1,2 @@
+there are humans ||entailment
+the humans are playing ||entailment

@@ -1,0 +1,4 @@
+there is a man ||entailment
+there is a meadow ||entailment
+the man is jumping ||entailment
+the man is jumping in the meadow ||entailment

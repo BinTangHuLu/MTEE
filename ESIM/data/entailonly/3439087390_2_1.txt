@@ -1,0 +1,2 @@
+There are animals. ||entailment
+The animals are asleep. ||entailment

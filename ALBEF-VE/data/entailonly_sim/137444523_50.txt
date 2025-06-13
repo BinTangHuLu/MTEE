@@ -1,0 +1,8 @@
+there is a dude ||entailment
+there is a female ||entailment
+there is a awning ||entailment
+the dude and woman are together ||entailment
+the dude is under the shade ||entailment
+the female is under the shade ||entailment
+the dude is taking pictures ||entailment
+the female is taking pictures ||entailment

@@ -1,0 +1,7 @@
+There is a girl. ||entailment
+There is someone. ||entailment
+There is a drink. ||entailment
+The girl is talking. ||entailment
+The drink is opening. ||entailment
+The girl is talking to someone. ||entailment
+The girl is opening the drink. ||entailment

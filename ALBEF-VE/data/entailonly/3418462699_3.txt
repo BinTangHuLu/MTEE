@@ -1,0 +1,3 @@
+there is a person ||entailment
+there is a tree ||entailment
+the person is touching the tree ||entailment

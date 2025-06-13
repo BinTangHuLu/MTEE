@@ -1,0 +1,4 @@
+there are boys ||entailment
+there is a beach ||entailment
+the boys are young ||entailment
+the boys are playing at the beach ||entailment

@@ -1,0 +1,5 @@
+there is not a family ||contradiction
+there is not a puppy ||contradiction
+there is not a beach ||contradiction
+the family is not with the puppy ||neutral
+the puppy is not in the beach ||contradiction

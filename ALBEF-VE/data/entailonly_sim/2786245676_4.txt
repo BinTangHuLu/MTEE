@@ -1,0 +1,3 @@
+there is a body ||entailment
+there is some appliance ||entailment
+the body stands before furniture ||entailment

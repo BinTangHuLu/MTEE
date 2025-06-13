@@ -1,0 +1,3 @@
+There are people. ||entailment
+There are rocks. ||entailment
+The people are taking from rocks. ||entailment

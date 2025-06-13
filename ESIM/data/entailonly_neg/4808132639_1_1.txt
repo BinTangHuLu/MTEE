@@ -1,0 +1,5 @@
+There is not a man. ||contradiction
+There is not a shirt. ||contradiction
+There is not a wristband. ||contradiction
+There are not drums. ||contradiction
+The man does not play drums. ||contradiction

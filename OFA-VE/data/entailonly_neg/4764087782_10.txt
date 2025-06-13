@@ -1,0 +1,3 @@
+There is not a woman. ||Entailment
+The woman is not young. ||Entailment
+The woman is not walking outside. ||Entailment

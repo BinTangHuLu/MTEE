@@ -1,0 +1,3 @@
+there are community ||entailment
+the community are praying ||neutral
+the community are meditating ||contradiction

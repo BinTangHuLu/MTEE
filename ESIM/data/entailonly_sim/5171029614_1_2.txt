@@ -1,0 +1,4 @@
+There is a dude. ||entailment
+There is a box. ||entailment
+The dude reaches into the basket. ||entailment
+The dude reaches into the laundromat. ||entailment

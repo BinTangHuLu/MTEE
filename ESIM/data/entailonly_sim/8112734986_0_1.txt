@@ -1,0 +1,3 @@
+There is a body. ||entailment
+There is a tennis bench. ||entailment
+The body is standing on the tennis court. ||contradiction

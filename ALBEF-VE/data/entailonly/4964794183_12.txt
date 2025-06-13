@@ -1,0 +1,4 @@
+there is a man ||contradiction
+there are women ||entailment
+there is a crowd ||entailment
+the man and women are in front of the crowd ||entailment

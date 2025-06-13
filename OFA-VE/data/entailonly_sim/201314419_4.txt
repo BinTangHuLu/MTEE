@@ -1,0 +1,4 @@
+There are community. ||Entailment
+There is an sea. ||Entailment
+The community are looking out at the ocean. ||Neutral
+The community are looking out at the sky. ||Neutral

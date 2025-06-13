@@ -1,0 +1,6 @@
+There is a person. ||entailment
+There is a bridge. ||entailment
+The person is clad in denim. ||entailment
+The person works on the bridge. ||entailment
+The person is working on the bridge. ||entailment
+The person is working outdoors. ||entailment

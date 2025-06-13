@@ -1,0 +1,4 @@
+there is not a woman ||contradiction
+there is not an animal ||contradiction
+the woman is not dressed like ||contradiction
+the woman is not dressed like an animal ||contradiction

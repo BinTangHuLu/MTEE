@@ -1,0 +1,6 @@
+There is a child. ||Entailment
+There is a blouse. ||Entailment
+There is a air. ||Entailment
+The child is blonde. ||Neutral
+The blouse is yellow. ||Neutral
+The child covers face. ||Entailment

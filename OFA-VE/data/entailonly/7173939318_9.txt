@@ -1,0 +1,2 @@
+There are boats. ||Entailment
+The boats can float. ||Entailment

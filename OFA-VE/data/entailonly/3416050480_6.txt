@@ -1,0 +1,5 @@
+There is a person. ||Entailment
+There is a horse. ||Entailment
+There is a plane. ||Entailment
+The person rides the horse. ||Entailment
+The horse is over the plane. ||Entailment

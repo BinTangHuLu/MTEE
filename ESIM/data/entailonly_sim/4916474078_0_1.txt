@@ -1,0 +1,6 @@
+There is a female. ||entailment
+There is a channel. ||neutral
+There is a corridor. ||entailment
+The female is darkened. ||entailment
+The female is in the tunnel. ||entailment
+The female is in the hallway. ||entailment

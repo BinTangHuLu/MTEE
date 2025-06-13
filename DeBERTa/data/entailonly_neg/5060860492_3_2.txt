@@ -1,0 +1,3 @@
+There is not a sprinter. ||contradiction
+There is not a barrier. ||contradiction
+The sprinter does not hurdle the barrier. ||contradiction

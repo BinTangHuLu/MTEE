@@ -1,0 +1,5 @@
+there is not a man ||contradiction
+there is not a woman ||contradiction
+there is not a staircase ||contradiction
+the man is not sitting on the staircase ||entailment
+the woman is not sitting on the staircase ||entailment

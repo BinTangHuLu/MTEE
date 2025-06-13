@@ -1,0 +1,4 @@
+There is not a lady. ||contradiction
+The lady is not happy. ||contradiction
+The clothing is not colorful. ||contradiction
+The lady is not with clothing. ||contradiction

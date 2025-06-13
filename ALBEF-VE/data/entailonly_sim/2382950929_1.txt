@@ -1,0 +1,5 @@
+there are community ||entailment
+there is a estuary ||entailment
+there are sand ||neutral
+community are by the river ||entailment
+community are standing on rocks ||entailment

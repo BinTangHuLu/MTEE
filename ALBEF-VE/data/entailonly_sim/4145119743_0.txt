@@ -1,0 +1,8 @@
+there is a client ||entailment
+there is an form ||entailment
+the form is rather large ||entailment
+the client has an order ||entailment
+there is a checkout body ||entailment
+the client is waiting on the checkout person ||neutral
+there is an form ||entailment
+the checkout body is finishing ringing up the order ||entailment

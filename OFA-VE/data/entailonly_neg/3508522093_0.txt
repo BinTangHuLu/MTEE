@@ -1,0 +1,4 @@
+There is not a skateboarder. ||Entailment
+The skateboarder is not young. ||Entailment
+The skateboarder is not smiling. ||Neutral
+The skateboarder is not outside. ||Entailment

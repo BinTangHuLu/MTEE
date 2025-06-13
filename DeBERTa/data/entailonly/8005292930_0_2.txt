@@ -1,0 +1,3 @@
+There is a girl. ||entailment
+There is a field. ||entailment
+The girl is playing soccer on the field. ||entailment

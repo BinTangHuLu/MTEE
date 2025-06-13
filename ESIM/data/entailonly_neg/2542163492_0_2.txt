@@ -1,0 +1,3 @@
+There is not a man. ||contradiction
+There is not a banana. ||contradiction
+The man is not holding banana. ||contradiction

@@ -1,0 +1,6 @@
+there is a man ||entailment
+there are some sunglasses ||entailment
+there is a flag ||entailment
+there are some beer bottles ||entailment
+the sunglasses are with ||neutral
+the man has beer bottles ||entailment

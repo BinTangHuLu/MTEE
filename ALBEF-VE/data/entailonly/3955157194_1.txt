@@ -1,0 +1,4 @@
+there is a child ||entailment
+there is a machine ||entailment
+the machine is large ||neutral
+the child holds onto the machine ||entailment

@@ -1,0 +1,4 @@
+there is a skier ||entailment
+there is a moves ||entailment
+the moves is outdoor ||entailment
+the skier practices moves ||entailment

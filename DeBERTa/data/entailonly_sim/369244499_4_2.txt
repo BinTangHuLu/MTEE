@@ -1,0 +1,6 @@
+There is a dude. ||entailment
+There are band. ||neutral
+There are blueprint. ||entailment
+There is a grand piano. ||neutral
+The dude's hands are on keys. ||entailment
+The blueprint are of piano. ||entailment

@@ -1,0 +1,4 @@
+there are armada ||entailment
+there is a expanse ||entailment
+there are four armada ||contradiction
+the armada are sailing at sea ||contradiction

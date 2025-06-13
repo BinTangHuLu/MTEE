@@ -1,0 +1,4 @@
+There is a man. ||Entailment
+There is a ground. ||Entailment
+The ground is flat. ||Contradiction
+The man is on ground. ||Entailment

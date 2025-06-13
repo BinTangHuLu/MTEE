@@ -1,0 +1,2 @@
+There is a athlete. ||entailment
+The athlete is holding the ball. ||entailment

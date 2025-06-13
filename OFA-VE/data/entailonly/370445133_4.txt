@@ -1,0 +1,4 @@
+There is a man. ||Entailment
+There is a sport. ||Entailment
+The sport is equestrian. ||Entailment
+The man is participating in equestrian. ||Entailment

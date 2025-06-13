@@ -1,0 +1,7 @@
+there is not a man ||contradiction
+there is not a shirt ||entailment
+there are not some shorts ||entailment
+there is not a doorway ||contradiction
+the shirt is not black ||entailment
+the shorts are not blue ||entailment
+the man does not stand in the doorway ||entailment

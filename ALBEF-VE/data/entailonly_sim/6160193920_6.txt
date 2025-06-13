@@ -1,0 +1,3 @@
+there is a gentlewoman ||entailment
+there is a apparel ||entailment
+the gentlewoman is wearing ||entailment

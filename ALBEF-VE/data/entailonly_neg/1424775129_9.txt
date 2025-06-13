@@ -1,0 +1,4 @@
+there is not a human ||contradiction
+the human is not young ||entailment
+the human is not wearing red ||contradiction
+the human is not walking outdoors ||entailment

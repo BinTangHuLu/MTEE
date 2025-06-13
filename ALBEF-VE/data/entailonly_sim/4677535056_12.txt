@@ -1,0 +1,3 @@
+there is a dude ||entailment
+there is a auto ||entailment
+the dude stands next to the taxi ||entailment

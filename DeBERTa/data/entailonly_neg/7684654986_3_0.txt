@@ -1,0 +1,5 @@
+There are not boys. ||contradiction
+There is not a project. ||contradiction
+The boys are not working. ||contradiction
+The project is not art. ||contradiction
+The boys are not working on the project. ||contradiction

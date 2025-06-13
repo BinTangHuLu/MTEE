@@ -1,0 +1,6 @@
+There is a area. ||entailment
+There are list. ||entailment
+The area is dim. ||entailment
+The list are several. ||entailment
+The list barely see each other. ||entailment
+The list are getting ready to act. ||entailment

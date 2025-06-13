@@ -1,0 +1,4 @@
+there are not women ||contradiction
+there are not saris ||contradiction
+the saris are not colorful ||contradiction
+women are not wearing saris ||contradiction

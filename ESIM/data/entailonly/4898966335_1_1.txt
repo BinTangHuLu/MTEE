@@ -1,0 +1,5 @@
+There is a girl. ||entailment
+The girl is far away. ||entailment
+The girl is looking. ||entailment
+There is a sky. ||entailment
+The girl is looking at the sky. ||neutral

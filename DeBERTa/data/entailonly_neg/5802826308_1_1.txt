@@ -1,0 +1,5 @@
+There are not children. ||contradiction
+There is not a telescope. ||contradiction
+There is not a city street. ||contradiction
+The children are not looking through the telescope. ||contradiction
+The children are not looking at the city street. ||contradiction

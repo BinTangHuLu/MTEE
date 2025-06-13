@@ -1,0 +1,4 @@
+there is a girl ||entailment
+there are petals ||entailment
+the girl is little ||entailment
+the girl is blowing petals ||entailment

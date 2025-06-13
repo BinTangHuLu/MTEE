@@ -1,0 +1,4 @@
+there is a frame ||entailment
+there is a forest ||entailment
+the forest is very large ||neutral
+the frame is push over tree ||entailment

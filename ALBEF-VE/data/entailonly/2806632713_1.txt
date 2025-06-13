@@ -1,0 +1,5 @@
+there is an act ||entailment
+there are some buildings ||entailment
+the act is highwire ||entailment
+the act is too high ||neutral
+the act is suspended between buildings ||entailment

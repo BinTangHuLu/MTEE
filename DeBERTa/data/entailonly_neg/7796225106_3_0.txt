@@ -1,0 +1,4 @@
+There is not a girl. ||contradiction
+The girl is not moving. ||contradiction
+The girl is not exercising. ||contradiction
+The girl is not to get exercise in. ||contradiction

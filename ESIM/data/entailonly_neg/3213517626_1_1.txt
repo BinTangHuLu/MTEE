@@ -1,0 +1,4 @@
+There is not a roofer. ||contradiction
+The roofer is not outside. ||contradiction
+The roofer is not working. ||contradiction
+The roofer is not outside working. ||contradiction

@@ -1,0 +1,5 @@
+There are clan. ||entailment
+There is a abbreviate. ||entailment
+There is a capital street. ||entailment
+The clan are looking through the telescope. ||entailment
+The clan are looking at the city street. ||entailment

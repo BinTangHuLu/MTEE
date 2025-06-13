@@ -1,0 +1,5 @@
+There is not a woman. ||contradiction
+There is not a phone call. ||contradiction
+There is not an office environment. ||contradiction
+The woman is not making a phone call. ||contradiction
+The woman is not in an office environment. ||contradiction

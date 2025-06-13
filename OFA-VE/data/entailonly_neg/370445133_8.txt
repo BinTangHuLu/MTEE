@@ -1,0 +1,2 @@
+There is not a cowboy. ||Entailment
+There is not a hat. ||Entailment

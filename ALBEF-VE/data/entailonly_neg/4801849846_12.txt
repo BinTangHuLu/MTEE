@@ -1,0 +1,4 @@
+there is not a man ||contradiction
+there is not a street ||contradiction
+the man is not shirtless ||entailment
+the man does not walk down street ||contradiction

@@ -1,0 +1,4 @@
+There is not a male. ||Entailment
+There is not a person. ||Contradiction
+The male is not African American. ||Entailment
+The male is not with person. ||Contradiction

@@ -1,0 +1,4 @@
+there are female ||entailment
+there is a forest ||entailment
+the forest is christmas ||neutral
+the female are posing in front of the tree ||entailment

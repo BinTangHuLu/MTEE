@@ -1,0 +1,7 @@
+there is not a man ||contradiction
+there is not some snow ||contradiction
+there are not mountains ||contradiction
+the man is not tubing ||contradiction
+the man is not on snow ||contradiction
+the man is not with mountains ||contradiction
+the mountains are not in the background ||contradiction

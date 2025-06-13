@@ -1,0 +1,3 @@
+there is a arid ||entailment
+there is a artery ||neutral
+someone is walking on the artery ||entailment

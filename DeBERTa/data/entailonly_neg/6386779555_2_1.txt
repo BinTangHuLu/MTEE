@@ -1,0 +1,9 @@
+There is not a man. ||contradiction
+The man is not young. ||contradiction
+There is not a skateboard. ||contradiction
+There is not a sidewalk. ||contradiction
+There is not an area. ||contradiction
+The area is not metropolitan. ||contradiction
+The man is not performing a good skill. ||contradiction
+The man is not on a skateboard. ||contradiction
+The skateboard is not on a sidewalk. ||contradiction

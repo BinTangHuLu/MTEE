@@ -1,0 +1,4 @@
+There is a account. ||entailment
+There is a baby. ||entailment
+Someone is taking a account. ||contradiction
+Someone is taking a baby. ||entailment

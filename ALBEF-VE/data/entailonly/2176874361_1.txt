@@ -1,0 +1,4 @@
+there is a dog ||entailment
+there is a bull ||entailment
+the dog is larger ||entailment
+the dog is larger than the bull ||entailment

@@ -1,0 +1,6 @@
+There is a dude. ||entailment
+There is a box. ||entailment
+The dude is his. ||neutral
+The box is laundry. ||entailment
+The dude reaches into the basket. ||entailment
+The dude is at the laundromat. ||entailment

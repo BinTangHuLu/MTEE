@@ -1,0 +1,5 @@
+There is a child. ||entailment
+There is a skateboard. ||entailment
+There is a park. ||entailment
+The child rides the skateboard. ||entailment
+The child is at the park. ||entailment

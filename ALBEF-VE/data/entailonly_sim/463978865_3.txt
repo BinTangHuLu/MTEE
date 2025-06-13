@@ -1,0 +1,5 @@
+there is a dude ||entailment
+there is a dude ||entailment
+there is a avenue ||entailment
+the dude is walking by the guy ||contradiction
+the dude is on the street ||entailment

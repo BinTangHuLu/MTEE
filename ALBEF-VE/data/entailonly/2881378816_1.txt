@@ -1,0 +1,3 @@
+there are musicians ||entailment
+the musicians are street ||entailment
+the musicians are performing ||entailment

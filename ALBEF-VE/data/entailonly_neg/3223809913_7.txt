@@ -1,0 +1,6 @@
+there is not a crowd ||contradiction
+there is not a skateboarder ||contradiction
+there is not air ||contradiction
+the crowd does not watch the skateboarder ||contradiction
+the skateboarder does not perform a trick ||contradiction
+the trick is not performed in the air ||contradiction

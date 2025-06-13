@@ -1,0 +1,3 @@
+there is not an adult ||contradiction
+there is not a boat ||contradiction
+the adult is not on the boat ||entailment

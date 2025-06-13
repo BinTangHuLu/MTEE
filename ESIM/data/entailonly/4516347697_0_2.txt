@@ -1,0 +1,4 @@
+There is a man. ||entailment
+There is a hat. ||entailment
+The hat is black. ||entailment
+The man is swinging with children. ||entailment

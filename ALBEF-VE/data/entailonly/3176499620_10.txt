@@ -1,0 +1,3 @@
+there is a man ||entailment
+there is a handstand ||entailment
+the man does handstand ||entailment

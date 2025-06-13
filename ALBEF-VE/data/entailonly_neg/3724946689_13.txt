@@ -1,0 +1,3 @@
+there are not children ||contradiction
+there is not a boat ||contradiction
+the children do not ride on the boat ||contradiction

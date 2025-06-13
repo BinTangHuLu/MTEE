@@ -1,0 +1,3 @@
+there is a player ||entailment
+there is a bat ||entailment
+the player swings bat ||entailment

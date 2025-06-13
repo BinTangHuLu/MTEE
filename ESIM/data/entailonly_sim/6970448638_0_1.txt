@@ -1,0 +1,3 @@
+There are community. ||neutral
+The community are Two. ||neutral
+The community are paining faces. ||entailment

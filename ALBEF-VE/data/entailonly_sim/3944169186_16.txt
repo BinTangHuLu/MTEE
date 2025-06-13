@@ -1,0 +1,4 @@
+there are community ||entailment
+there is a bout ||entailment
+the bout is competitive ||neutral
+the community are facing each other in the match ||entailment

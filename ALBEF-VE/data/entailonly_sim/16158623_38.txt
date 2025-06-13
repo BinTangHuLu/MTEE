@@ -1,0 +1,8 @@
+there is a dude ||entailment
+there is a edifice ||entailment
+there is a basement ||neutral
+there is a animal ||entailment
+the edifice is human ||neutral
+the basement is all gray ||contradiction
+the dude is on the bottom ||entailment
+the basement is of the pyramid ||contradiction

@@ -1,0 +1,3 @@
+there is a guy ||entailment
+there are some khakis ||entailment
+the guy is wearing khakis ||entailment

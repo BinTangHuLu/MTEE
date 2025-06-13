@@ -1,0 +1,3 @@
+there is a baby ||entailment
+there is an aircraft ||entailment
+the baby is staring at the airplane ||entailment

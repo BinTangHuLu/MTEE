@@ -1,0 +1,5 @@
+There are not people. ||contradiction
+There is not a chair. ||contradiction
+The people are not young. ||contradiction
+The chair is not black. ||contradiction
+The people do not sit in the chair. ||contradiction

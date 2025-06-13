@@ -1,0 +1,5 @@
+there is a female ||entailment
+there is some drink ||entailment
+there is a child ||entailment
+the female is in water ||entailment
+the female is with the boy ||entailment

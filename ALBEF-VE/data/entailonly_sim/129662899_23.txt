@@ -1,0 +1,8 @@
+there is a dude ||entailment
+there are specs ||neutral
+there is a fedora ||contradiction
+there is a cable ||entailment
+there is a cylinder ||entailment
+the fedora is red ||contradiction
+the dude stands by the rope ||entailment
+the cable is on the spool ||entailment

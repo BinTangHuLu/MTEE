@@ -1,0 +1,3 @@
+there is a boy ||entailment
+there is some camel ||neutral
+the boy is laying on sand ||contradiction

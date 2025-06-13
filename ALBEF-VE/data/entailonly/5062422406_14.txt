@@ -1,0 +1,7 @@
+there is a golfer ||entailment
+there is a club ||entailment
+there is a woman ||entailment
+there is a sign ||entailment
+the golfer raises the club ||entailment
+the woman is holding the sign ||contradiction
+the club is next to the woman ||entailment

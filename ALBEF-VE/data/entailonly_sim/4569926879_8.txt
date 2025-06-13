@@ -1,0 +1,5 @@
+there is a dude ||entailment
+there is a female ||entailment
+the dude is outdoors ||entailment
+the female is outdoors ||entailment
+the dude and woman are outdoors ||entailment

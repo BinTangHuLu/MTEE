@@ -1,0 +1,3 @@
+There are People. ||Entailment
+There are lines. ||Entailment
+The People are outside the lines. ||Entailment

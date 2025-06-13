@@ -1,0 +1,2 @@
+there are dude ||entailment
+dude are hiking with dogs ||entailment

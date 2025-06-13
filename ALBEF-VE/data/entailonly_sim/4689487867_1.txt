@@ -1,0 +1,11 @@
+there is a dude ||entailment
+there is a bestow ||neutral
+there are specs ||entailment
+there is a attitude ||entailment
+there is a fedora ||contradiction
+the bestow is in ||neutral
+the dude is looking at ||entailment
+the dude is looking at cards ||entailment
+the cards are at attitude ||contradiction
+the dude has buttons ||entailment
+the buttons are on fedora ||contradiction

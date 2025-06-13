@@ -1,0 +1,4 @@
+there are girls ||entailment
+the girls are each ||neutral
+the girls are wearing ||entailment
+the girls are different ||contradiction

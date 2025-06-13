@@ -1,0 +1,5 @@
+There is an animal. ||entailment
+There is a plateau. ||contradiction
+The animal is golden. ||entailment
+The plateau is snow-covered. ||entailment
+The animal bounds across the plateau. ||contradiction

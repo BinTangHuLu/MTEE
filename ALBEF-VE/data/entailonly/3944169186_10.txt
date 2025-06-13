@@ -1,0 +1,4 @@
+there is a female ||entailment
+there is a basketball ||entailment
+the female is young ||entailment
+the female is playing basketball ||entailment

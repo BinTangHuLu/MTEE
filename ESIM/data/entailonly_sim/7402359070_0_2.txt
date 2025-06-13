@@ -1,0 +1,2 @@
+There is a dude. ||entailment
+There is a athlete. ||entailment

@@ -1,0 +1,5 @@
+there is a dude ||entailment
+there is an article ||entailment
+there are band ||entailment
+the dude is holding the object ||entailment
+the article is in hands ||neutral

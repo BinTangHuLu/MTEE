@@ -1,0 +1,2 @@
+there are adults ||entailment
+the adults want to see something ||entailment

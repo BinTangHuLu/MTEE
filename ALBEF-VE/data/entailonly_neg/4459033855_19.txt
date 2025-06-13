@@ -1,0 +1,6 @@
+there is not a man ||contradiction
+there is not a presentation ||contradiction
+there are not others ||entailment
+there is not a slide show ||contradiction
+the man is not speaking in the presentation ||contradiction
+the others are not watching the slide show ||contradiction

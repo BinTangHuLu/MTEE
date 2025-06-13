@@ -1,0 +1,4 @@
+There is not a batter. ||contradiction
+There is not a pitch. ||contradiction
+The batter is not red shirted. ||contradiction
+The batter does not hit the pitch. ||contradiction

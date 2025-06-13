@@ -1,0 +1,5 @@
+there is a woman ||entailment
+there is some incense ||entailment
+there is some smoke ||entailment
+the woman is watching incense ||entailment
+the woman is watching smoke ||entailment

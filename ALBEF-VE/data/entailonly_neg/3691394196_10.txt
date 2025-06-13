@@ -1,0 +1,5 @@
+there is not a man ||contradiction
+there is not a fire ||contradiction
+there is not a crowd ||contradiction
+the man does not hold fire ||contradiction
+the fire is not in the crowd ||contradiction

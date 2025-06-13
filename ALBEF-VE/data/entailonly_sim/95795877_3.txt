@@ -1,0 +1,3 @@
+there is a body ||entailment
+there is a metro car ||entailment
+the body is on subway car ||entailment

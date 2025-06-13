@@ -1,0 +1,8 @@
+there is not an evening ||contradiction
+there is not an adult ||entailment
+there are not kids ||contradiction
+there is not an ocean ||contradiction
+there is not a boardwalk ||contradiction
+the adult does not watch the ocean ||contradiction
+the kids do not watch the ocean ||contradiction
+the adult does not watch the boardwalk ||contradiction

@@ -1,0 +1,5 @@
+there is a female ||entailment
+there are some attire ||entailment
+there is a boundary ||entailment
+the female hangs clothes ||entailment
+the attire are on the line ||neutral

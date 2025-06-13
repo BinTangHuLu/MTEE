@@ -1,0 +1,5 @@
+there is a man ||entailment
+there is a speech ||entailment
+there is a podium ||entailment
+the man is giving speech ||entailment
+the speech is from podium ||neutral

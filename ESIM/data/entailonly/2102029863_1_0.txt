@@ -1,0 +1,4 @@
+There is a group. ||entailment
+The group is uniformed. ||entailment
+The signs are written in Chinese. ||entailment
+The group carries signs. ||entailment

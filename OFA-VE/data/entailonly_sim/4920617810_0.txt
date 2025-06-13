@@ -1,0 +1,3 @@
+There are female. ||Entailment
+The female are photographing. ||Entailment
+The female are photographing something. ||Entailment

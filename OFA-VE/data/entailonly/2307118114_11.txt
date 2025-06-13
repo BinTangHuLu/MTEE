@@ -1,0 +1,3 @@
+There is a man. ||Entailment
+There is a camera. ||Entailment
+The man is smiling for camera. ||Entailment

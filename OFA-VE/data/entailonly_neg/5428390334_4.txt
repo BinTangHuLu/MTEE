@@ -1,0 +1,3 @@
+There is not a scientist. ||Entailment
+There is not a microscope. ||Contradiction
+The scientist is not using microscope. ||Contradiction

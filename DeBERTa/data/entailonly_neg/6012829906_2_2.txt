@@ -1,0 +1,4 @@
+There is not a person. ||contradiction
+There are not waves. ||contradiction
+The waves are not artificial. ||contradiction
+The person is not surfing on waves. ||entailment

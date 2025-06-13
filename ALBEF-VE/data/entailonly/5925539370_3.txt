@@ -1,0 +1,6 @@
+there is a pitcher ||entailment
+there is a baseball ||entailment
+the pitcher is young ||neutral
+the pitcher is overweight ||neutral
+the pitcher is throwing ||entailment
+the pitcher is throwing pitch ||entailment

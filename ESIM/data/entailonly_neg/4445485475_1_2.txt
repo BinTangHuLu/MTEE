@@ -1,0 +1,4 @@
+There is not a crowd. ||contradiction
+There is not a building. ||contradiction
+The building is not large red. ||contradiction
+The crowd does not relax in front of the building. ||contradiction

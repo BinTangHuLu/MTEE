@@ -1,0 +1,3 @@
+There are People. ||Entailment
+There are rocks. ||Entailment
+People are standing near rocks. ||Entailment

@@ -1,0 +1,5 @@
+there is a man ||entailment
+there is a microphone ||entailment
+there are musicians ||entailment
+the man is taking care of the microphone ||entailment
+the microphone is for musicians ||entailment

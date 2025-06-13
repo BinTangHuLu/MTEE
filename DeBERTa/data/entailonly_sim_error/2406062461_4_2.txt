@@ -1,0 +1,3 @@
+EA,gentleman,orange
+E1RE2,gentleman,wearing,hat
+E1RE2,gentleman,has,ball

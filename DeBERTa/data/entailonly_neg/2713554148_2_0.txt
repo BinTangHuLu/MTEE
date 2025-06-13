@@ -1,0 +1,6 @@
+There are not kids. ||contradiction
+There is not a game. ||contradiction
+There is not a pole. ||contradiction
+The kids are not young. ||contradiction
+The kids do not play the game. ||contradiction
+The game does not require running around the pole. ||contradiction

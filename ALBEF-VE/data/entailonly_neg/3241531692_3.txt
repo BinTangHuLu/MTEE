@@ -1,0 +1,4 @@
+there is not a woman ||contradiction
+there is not a drum ||contradiction
+the woman is not african ||contradiction
+the woman is not playing a drum ||entailment

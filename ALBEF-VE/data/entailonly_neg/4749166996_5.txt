@@ -1,0 +1,4 @@
+there is not a speaker ||contradiction
+there is not a speech ||contradiction
+the speaker is not gesticulating ||contradiction
+the speaker is not giving speech ||contradiction

@@ -1,0 +1,2 @@
+there is a crime ||entailment
+the crime has been committed ||neutral

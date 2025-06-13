@@ -1,0 +1,5 @@
+There is a dude. ||Entailment
+There is a aisle. ||Contradiction
+There is a frame. ||Entailment
+The aisle is red. ||Contradiction
+The aisle is on body. ||Contradiction

@@ -1,0 +1,3 @@
+there is a man ||entailment
+there are some surroundings ||entailment
+the man looks at surroundings ||entailment

@@ -1,0 +1,3 @@
+there is an animal ||entailment
+there is a frisbee ||entailment
+the animal catches the frisbee ||entailment

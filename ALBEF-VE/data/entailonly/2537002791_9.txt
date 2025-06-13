@@ -1,0 +1,3 @@
+there are machines ||entailment
+there is a factory ||entailment
+the machines are at the factory ||neutral

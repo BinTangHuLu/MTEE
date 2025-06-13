@@ -1,0 +1,5 @@
+There is a body. ||Entailment
+There is a bludgeon. ||Contradiction
+The body is outdoors. ||Entailment
+The bludgeon is outdoors. ||Entailment
+The body and cow are outdoors. ||Entailment

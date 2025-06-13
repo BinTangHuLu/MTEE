@@ -1,0 +1,6 @@
+There is not a boy. ||contradiction
+The boy is not happily. ||contradiction
+There is not an acrobat. ||contradiction
+There is not a stage. ||contradiction
+The boy does not watch the acrobat. ||neutral
+The acrobat is not jumping on the stage. ||contradiction

@@ -1,0 +1,5 @@
+There is not a musician. ||Entailment
+There are not some skills. ||Contradiction
+There is not a guitar. ||Contradiction
+The musician does not demonstrate skills. ||Contradiction
+The skills are not with guitar. ||Entailment

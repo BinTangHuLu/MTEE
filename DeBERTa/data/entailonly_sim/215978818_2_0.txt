@@ -1,0 +1,5 @@
+There are clan. ||entailment
+There is a drink art display. ||entailment
+The clan are Three. ||entailment
+The drink art display is illuminated. ||entailment
+The clan are interacting with the water art display. ||entailment

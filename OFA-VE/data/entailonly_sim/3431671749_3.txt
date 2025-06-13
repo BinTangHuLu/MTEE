@@ -1,0 +1,5 @@
+There is a chase car. ||Entailment
+There are bonfire. ||Entailment
+The chase car is showboating. ||Neutral
+The chase car is showboating by flames. ||Neutral
+The bonfire shoot form rear. ||Entailment

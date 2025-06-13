@@ -1,0 +1,4 @@
+There is not a person. ||contradiction
+There is not a backpack. ||contradiction
+The person is not green. ||contradiction
+The person is not with a backpack. ||contradiction

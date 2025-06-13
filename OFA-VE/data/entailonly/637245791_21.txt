@@ -1,0 +1,5 @@
+There is a child. ||Entailment
+There is a toy. ||Entailment
+The child is small. ||Entailment
+The child is male. ||Neutral
+The child engages with toy. ||Entailment

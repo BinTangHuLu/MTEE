@@ -1,0 +1,4 @@
+There are community. ||entailment
+There is a bank. ||contradiction
+There are two community. ||entailment
+The community are near the store. ||entailment

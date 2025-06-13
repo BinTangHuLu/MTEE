@@ -1,0 +1,2 @@
+there is a waterfall ||entailment
+the waterfall is by hole ||contradiction

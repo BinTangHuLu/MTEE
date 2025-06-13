@@ -1,0 +1,4 @@
+There is debris. ||entailment
+There is a coast. ||entailment
+The carts are filled with debris. ||neutral
+The carts are sitting on the coast. ||contradiction

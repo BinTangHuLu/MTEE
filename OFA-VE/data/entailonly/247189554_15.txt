@@ -1,0 +1,5 @@
+There is a man. ||Entailment
+There is an arm. ||Entailment
+There is a chair. ||Entailment
+The man has one arm. ||Entailment
+The man sits in the chair. ||Entailment

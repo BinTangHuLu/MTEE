@@ -1,0 +1,3 @@
+there is a business ||entailment
+there is a line ||entailment
+the business is holding the band ||neutral

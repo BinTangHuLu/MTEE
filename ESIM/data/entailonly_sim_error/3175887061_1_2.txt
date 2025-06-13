@@ -1,0 +1,3 @@
+E1RE2,He,takes,piece
+E1RE2,He,takes,paper
+E1RE2,He,takes,photo

@@ -1,0 +1,3 @@
+There are not kids. ||contradiction
+There are not computers. ||contradiction
+The kids do not sit in front of computers. ||contradiction

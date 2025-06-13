@@ -1,0 +1,4 @@
+There are community. ||entailment
+There is a backyard mower. ||contradiction
+The community ride the lawn mower. ||neutral
+The backyard mower is outside. ||entailment

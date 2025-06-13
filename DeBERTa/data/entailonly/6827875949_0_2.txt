@@ -1,0 +1,5 @@
+There is a snowman. ||entailment
+There is a person. ||entailment
+There is a picture. ||entailment
+The person poses for the picture. ||entailment
+The person is with the snowman. ||entailment

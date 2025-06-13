@@ -1,0 +1,2 @@
+there is a juvenile ||entailment
+the juvenile is sitting on the skateboard ||contradiction

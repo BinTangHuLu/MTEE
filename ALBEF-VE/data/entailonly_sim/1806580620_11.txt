@@ -1,0 +1,3 @@
+there is a female ||entailment
+there are some specs ||entailment
+the female is wearing sunglasses ||entailment

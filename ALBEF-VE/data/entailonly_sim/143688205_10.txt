@@ -1,0 +1,3 @@
+there is a body ||entailment
+there is a earth wall ||entailment
+the body climbs up the rock wall ||entailment

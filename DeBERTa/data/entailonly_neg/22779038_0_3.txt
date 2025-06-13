@@ -1,0 +1,8 @@
+There are not men. ||contradiction
+There are not jackets. ||contradiction
+There is not water. ||contradiction
+There are not earphones. ||contradiction
+The men are somenot . ||contradiction
+The jackets are not wearing. ||contradiction
+The men are not looking out over water. ||contradiction
+The men do not have earphones. ||contradiction

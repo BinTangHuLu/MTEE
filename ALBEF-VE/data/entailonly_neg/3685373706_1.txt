@@ -1,0 +1,5 @@
+there is not a man ||contradiction
+there is not a marks ||contradiction
+there is not a body ||contradiction
+the marks is not red ||contradiction
+the marks is not on body ||entailment

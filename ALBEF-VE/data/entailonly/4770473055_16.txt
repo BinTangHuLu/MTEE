@@ -1,0 +1,7 @@
+there is a man ||entailment
+there is a hat ||entailment
+there is a sash ||entailment
+the hat is white ||contradiction
+the sash is cheetah printed ||neutral
+the man is wearing a hat ||entailment
+the man is wearing a sash ||entailment

@@ -1,0 +1,4 @@
+there is not a mountain climber ||contradiction
+there is not a rock face ||contradiction
+the rock face is not sheer ||entailment
+the mountain climber does not scale the rock face ||contradiction

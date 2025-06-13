@@ -1,0 +1,4 @@
+there is a female ||entailment
+there is a fedora ||contradiction
+the fedora is floral ||neutral
+the female is wearing a hat ||entailment

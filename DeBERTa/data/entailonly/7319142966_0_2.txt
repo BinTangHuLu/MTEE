@@ -1,0 +1,2 @@
+There is a motorcyclist. ||entailment
+The motorcyclist is in the air. ||entailment

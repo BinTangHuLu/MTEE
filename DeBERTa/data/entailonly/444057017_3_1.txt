@@ -1,0 +1,4 @@
+There is a kid. ||entailment
+There is a thing. ||entailment
+The thing is outside. ||neutral
+The kid is doing thing. ||entailment

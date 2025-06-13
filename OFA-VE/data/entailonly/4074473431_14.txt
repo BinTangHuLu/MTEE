@@ -1,0 +1,5 @@
+There are runners. ||Entailment
+There is a marathon. ||Entailment
+There is a line. ||Entailment
+The runners are marathon. ||Neutral
+The runners are near line. ||Entailment

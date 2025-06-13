@@ -1,0 +1,3 @@
+There is not a vehicle. ||Contradiction
+There is not a road. ||Contradiction
+The vehicle is not on road. ||Contradiction

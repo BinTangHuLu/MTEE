@@ -1,0 +1,3 @@
+there is a couple ||entailment
+there is a bench ||entailment
+the couple is sitting on the bench ||entailment

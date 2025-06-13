@@ -1,0 +1,2 @@
+A,walking
+RE2,walks around,outside

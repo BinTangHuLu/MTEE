@@ -1,0 +1,3 @@
+There is a female. ||Entailment
+The female has ice skates. ||Entailment
+The female ice skates. ||Entailment

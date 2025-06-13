@@ -1,0 +1,3 @@
+There is a person. ||entailment
+The person is snowboarding. ||entailment
+The person is mid air. ||entailment

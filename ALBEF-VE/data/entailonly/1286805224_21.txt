@@ -1,0 +1,4 @@
+there is a woman ||entailment
+there is a store ||entailment
+the woman is smiling ||entailment
+the woman is smiling in the store ||entailment

@@ -1,0 +1,4 @@
+there is a dude ||entailment
+there is a championship ||neutral
+the championship is martial arts ||neutral
+the dude is being flipped in a competition ||neutral

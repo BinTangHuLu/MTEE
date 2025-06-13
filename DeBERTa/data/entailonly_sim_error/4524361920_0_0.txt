@@ -1,0 +1,6 @@
+E,bag
+EA,bag,shoulders
+E1R,lady,in
+E1RE2,lady,with,bag
+R,with
+E1RE2,lady,walks away from,camera

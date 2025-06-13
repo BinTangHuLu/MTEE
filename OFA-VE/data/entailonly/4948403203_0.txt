@@ -1,0 +1,3 @@
+There is a male. ||Entailment
+There is some sand. ||Entailment
+The male is laying on sand. ||Neutral

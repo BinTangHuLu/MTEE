@@ -1,0 +1,4 @@
+There is not a woman. ||contradiction
+There is not an ATM machine. ||contradiction
+The woman is not white. ||contradiction
+The woman is not using ATM machine. ||contradiction

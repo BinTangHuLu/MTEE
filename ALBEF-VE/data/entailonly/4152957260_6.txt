@@ -1,0 +1,4 @@
+there is a woman ||entailment
+there are some plants ||entailment
+the woman is young ||contradiction
+the woman is carrying plants ||entailment

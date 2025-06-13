@@ -1,0 +1,3 @@
+There are lights. ||entailment
+There is a town. ||entailment
+The lights are in town. ||entailment

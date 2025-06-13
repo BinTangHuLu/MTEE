@@ -1,0 +1,4 @@
+there is a dog ||entailment
+there is a field ||entailment
+the dog is black ||entailment
+the dog is running through the field ||entailment

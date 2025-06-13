@@ -1,0 +1,6 @@
+there is a female ||entailment
+there is a dominant ||entailment
+there is a circle ||entailment
+the dominant is backless ||contradiction
+the female is wearing the top ||entailment
+the female is facing the crowd ||entailment

@@ -1,0 +1,3 @@
+there are community ||entailment
+the community are red ||entailment
+the community are dancing in the streets ||neutral

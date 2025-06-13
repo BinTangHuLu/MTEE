@@ -1,0 +1,5 @@
+There is a camcorder. ||entailment
+There is a path. ||entailment
+There is a child. ||entailment
+The camcorder is being lowered onto the track. ||entailment
+The child is in black pants. ||entailment

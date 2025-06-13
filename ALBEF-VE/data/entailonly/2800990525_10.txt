@@ -1,0 +1,7 @@
+there is a man ||entailment
+there are some sunglasses ||entailment
+there is a body ||entailment
+the sunglasses are a pair of ||neutral
+the man is walking outside ||entailment
+the man is with sunglasses ||entailment
+the sunglasses are on the body ||entailment

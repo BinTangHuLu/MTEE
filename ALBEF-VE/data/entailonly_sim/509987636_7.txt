@@ -1,0 +1,5 @@
+there is a dude ||entailment
+there is a fedora ||neutral
+there is some craft ||entailment
+the dude wears the hat ||entailment
+the dude is near the art ||entailment

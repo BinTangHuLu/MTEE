@@ -1,0 +1,3 @@
+there is a goalie ||entailment
+there is a block ||entailment
+the goalie prepares to make block ||entailment

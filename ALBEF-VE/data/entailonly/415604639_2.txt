@@ -1,0 +1,5 @@
+there is a woman ||entailment
+there is a dress ||entailment
+the dress is black ||entailment
+the woman is dressed in black ||entailment
+the woman is dressed in the dress ||contradiction

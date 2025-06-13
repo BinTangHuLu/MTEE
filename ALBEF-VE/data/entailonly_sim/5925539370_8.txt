@@ -1,0 +1,4 @@
+there are clan ||entailment
+there is a farmland ||entailment
+the clan play baseball ||entailment
+they play in the farmland ||contradiction

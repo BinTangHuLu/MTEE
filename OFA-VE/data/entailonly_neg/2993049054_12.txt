@@ -1,0 +1,3 @@
+There is not a Person. ||Contradiction
+There is not a mask. ||Contradiction
+The Person is not in a mask. ||Entailment

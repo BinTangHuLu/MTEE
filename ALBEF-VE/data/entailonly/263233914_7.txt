@@ -1,0 +1,5 @@
+there is a girl ||entailment
+there is some clothing ||entailment
+the girl is african american ||entailment
+the clothing is red ||contradiction
+the girl is wearing clothing ||entailment

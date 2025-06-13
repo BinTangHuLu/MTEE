@@ -1,0 +1,4 @@
+There are not players. ||Contradiction
+There is not hockey. ||Contradiction
+The players are not hugging. ||Contradiction
+The players are not hugging players. ||Contradiction

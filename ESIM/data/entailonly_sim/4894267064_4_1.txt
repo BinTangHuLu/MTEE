@@ -1,0 +1,4 @@
+There is a body. ||entailment
+There is a avenue. ||entailment
+The body is walking. ||entailment
+The body is on street. ||entailment

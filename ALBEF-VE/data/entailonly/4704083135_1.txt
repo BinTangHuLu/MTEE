@@ -1,0 +1,6 @@
+there is a person ||entailment
+there is some hair ||entailment
+there is some clothing ||entailment
+the hair is contrasting ||entailment
+the clothing is contrasting ||entailment
+the person is moving around clothing ||entailment

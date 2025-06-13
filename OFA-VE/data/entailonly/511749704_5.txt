@@ -1,0 +1,4 @@
+There is a boy. ||Entailment
+There is a park. ||Entailment
+The park is skate. ||Entailment
+The boy is at park. ||Entailment

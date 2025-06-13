@@ -1,0 +1,3 @@
+There is a woman. ||entailment
+There is a pool float. ||neutral
+The woman lays on the pool float. ||contradiction

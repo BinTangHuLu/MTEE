@@ -1,0 +1,6 @@
+there is not a man ||contradiction
+there is not a show ||contradiction
+there is not a fire ||contradiction
+the show is not doing ||contradiction
+the man is not doing the show ||contradiction
+the show is not with fire ||contradiction

@@ -1,0 +1,2 @@
+EA,bat,plastic
+RE2,is holding,bat

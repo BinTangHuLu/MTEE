@@ -1,0 +1,3 @@
+there are female ||entailment
+there are athletics ||entailment
+the female are playing games ||entailment

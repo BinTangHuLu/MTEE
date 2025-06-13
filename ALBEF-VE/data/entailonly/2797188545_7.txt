@@ -1,0 +1,2 @@
+there is a river ||entailment
+the river is rough ||entailment

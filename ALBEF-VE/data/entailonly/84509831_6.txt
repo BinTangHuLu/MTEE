@@ -1,0 +1,6 @@
+there is a boy ||entailment
+there is a shovel ||entailment
+there is an ocean ||entailment
+the boy is young ||entailment
+the boy holds a shovel ||entailment
+the shovel is close to the ocean ||entailment

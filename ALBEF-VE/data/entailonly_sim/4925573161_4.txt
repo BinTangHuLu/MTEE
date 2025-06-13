@@ -1,0 +1,4 @@
+there is a dude ||entailment
+there is a architecture ||entailment
+the dude is in yellow ||entailment
+the dude is biking past the building ||entailment

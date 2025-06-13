@@ -1,0 +1,5 @@
+there is a female ||entailment
+there is a pedal ||entailment
+there is a aisle ||entailment
+the female rides the bike ||entailment
+the pedal is on the trail ||entailment

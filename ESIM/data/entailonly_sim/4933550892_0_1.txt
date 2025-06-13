@@ -1,0 +1,5 @@
+There is a female. ||entailment
+There is a bacterium phone. ||entailment
+The female is her. ||entailment
+The bacterium phone is up to ear. ||contradiction
+The female has a cell phone. ||entailment

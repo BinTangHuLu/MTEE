@@ -1,0 +1,4 @@
+there is a body ||entailment
+there is a bar ||entailment
+the body is orange ||entailment
+the body is laying on the wall ||entailment

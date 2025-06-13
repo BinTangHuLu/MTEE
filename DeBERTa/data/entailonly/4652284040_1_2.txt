@@ -1,0 +1,5 @@
+There is a guy. ||entailment
+There is a hat. ||entailment
+There is a glass. ||entailment
+The guy sits with the glass. ||entailment
+The guy is with a hat. ||entailment

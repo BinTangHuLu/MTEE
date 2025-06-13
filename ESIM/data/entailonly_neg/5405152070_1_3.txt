@@ -1,0 +1,11 @@
+There are not boys. ||contradiction
+There is not a floor. ||contradiction
+There is not a gym. ||contradiction
+There are not circles. ||contradiction
+The boys are Thenot . ||entailment
+The boys are not wearing. ||contradiction
+The floor is not stretch. ||contradiction
+The gym is not The. ||entailment
+The circles are not on their jackets. ||contradiction
+The boys are not stretch of floor. ||contradiction
+The boys are not wearing circles. ||contradiction

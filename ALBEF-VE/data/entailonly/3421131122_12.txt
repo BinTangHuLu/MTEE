@@ -1,0 +1,5 @@
+there is a man ||entailment
+there is a river ||entailment
+there is a kayak ||entailment
+the man is going down the river ||neutral
+the man is in the kayak ||entailment

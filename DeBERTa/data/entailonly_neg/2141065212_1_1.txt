@@ -1,0 +1,4 @@
+There is not a guy. ||contradiction
+There is not a crowd. ||contradiction
+There are not people. ||contradiction
+The guy is not standing near people. ||contradiction

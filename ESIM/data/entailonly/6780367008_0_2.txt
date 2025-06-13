@@ -1,0 +1,5 @@
+There are men. ||entailment
+The men are young. ||entailment
+The men are looking up at hoop. ||entailment
+There is a hoop. ||entailment
+There is a basketball. ||entailment

@@ -1,0 +1,4 @@
+there is a dude ||entailment
+there is a conversation ||entailment
+the dude is giving speech ||entailment
+the conversation is to others ||entailment

@@ -1,0 +1,5 @@
+there is not a hallway ||contradiction
+there are not some ladders ||contradiction
+there is not some fabric ||contradiction
+the hallway is not full ||entailment
+the hallway is not during construction ||contradiction

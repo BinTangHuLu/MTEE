@@ -1,0 +1,9 @@
+there is not a canoe ||contradiction
+there are not some passengers ||entailment
+there is not a river ||contradiction
+there are not some trees ||contradiction
+the canoe is not red ||contradiction
+the river is not choppy ||contradiction
+the canoe is not carrying passengers ||contradiction
+the canoe did not wind its way down the river ||contradiction
+the river is not with trees ||contradiction

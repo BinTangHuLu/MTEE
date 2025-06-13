@@ -1,0 +1,3 @@
+there is a child ||entailment
+there are some bounce ||entailment
+the child is dancing with boots ||contradiction

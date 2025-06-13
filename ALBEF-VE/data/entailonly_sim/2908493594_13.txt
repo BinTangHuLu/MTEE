@@ -1,0 +1,4 @@
+there is a dude ||entailment
+there is a chair ||entailment
+the chair is park ||neutral
+the dude lays on the bench ||entailment

@@ -1,0 +1,3 @@
+There is not a man. ||contradiction
+There is not a gun. ||contradiction
+The man is not shooting the gun. ||contradiction

@@ -1,0 +1,5 @@
+there is a girl ||entailment
+there is a body ||entailment
+there is water ||entailment
+the girl runs by the body ||entailment
+the body of water is by water ||entailment

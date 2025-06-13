@@ -1,0 +1,5 @@
+there is a child ||entailment
+there is a club ||neutral
+there is a agreeable ||entailment
+the club is basketball ||entailment
+the club is playing the game ||neutral

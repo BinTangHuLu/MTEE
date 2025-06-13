@@ -1,0 +1,8 @@
+There is a dude. ||entailment
+There is a backpack bag. ||contradiction
+There is a child. ||entailment
+There is a rickshaw. ||contradiction
+There is a avenue. ||entailment
+The dude is with a duffel bag. ||entailment
+The child is pushing a cart. ||entailment
+The dude walks with the girl. ||entailment

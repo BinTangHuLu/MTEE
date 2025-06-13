@@ -1,0 +1,6 @@
+there is not a car ||contradiction
+there is not a seat ||entailment
+there is not a couple ||contradiction
+the couple is not away facing ||entailment
+the car does not serve as a seat ||entailment
+the seat is not for the couple ||entailment

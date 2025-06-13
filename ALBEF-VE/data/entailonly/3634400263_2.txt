@@ -1,0 +1,3 @@
+there is a bicyclist ||entailment
+there is air ||entailment
+the bicyclist is in air ||entailment

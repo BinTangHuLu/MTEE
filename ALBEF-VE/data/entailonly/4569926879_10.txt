@@ -1,0 +1,5 @@
+there is a group ||entailment
+there are men ||entailment
+there are women ||entailment
+the men are in uniform ||neutral
+the women are in uniform ||neutral

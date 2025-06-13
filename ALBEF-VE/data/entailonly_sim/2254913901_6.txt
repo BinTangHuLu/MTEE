@@ -1,0 +1,3 @@
+there is a female ||entailment
+there are some apparel ||entailment
+the female looks at outfits ||entailment

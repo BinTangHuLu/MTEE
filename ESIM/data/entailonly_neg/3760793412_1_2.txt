@@ -1,0 +1,5 @@
+There is not a woman. ||contradiction
+There is not a couple. ||contradiction
+There are not children. ||contradiction
+The woman is not with the couple. ||entailment
+The couple is not with the children. ||contradiction

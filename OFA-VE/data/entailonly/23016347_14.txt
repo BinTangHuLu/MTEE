@@ -1,0 +1,4 @@
+There is a game. ||Entailment
+There is a court. ||Entailment
+The game is in session. ||Entailment
+The game is in session on court. ||Entailment

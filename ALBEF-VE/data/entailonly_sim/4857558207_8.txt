@@ -1,0 +1,4 @@
+there is a gentlewoman ||entailment
+there is a little ||entailment
+the gentlewoman is blond ||neutral
+the gentlewoman is holding the baby ||entailment

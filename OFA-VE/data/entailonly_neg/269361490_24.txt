@@ -1,0 +1,2 @@
+There are not teenagers. ||Entailment
+The teenagers are not moving. ||Entailment

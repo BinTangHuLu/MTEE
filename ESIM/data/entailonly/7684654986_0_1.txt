@@ -1,0 +1,5 @@
+There are children. ||entailment
+There are notebooks. ||entailment
+There is one. ||entailment
+One stands next to them. ||entailment
+The children are writing in notebooks. ||entailment

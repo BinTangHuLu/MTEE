@@ -1,0 +1,3 @@
+there is a family ||entailment
+there is a home ||entailment
+the family leaves home ||contradiction

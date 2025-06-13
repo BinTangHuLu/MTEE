@@ -1,0 +1,5 @@
+There are not children. ||Contradiction
+There is not a camera. ||Contradiction
+The children are not playful. ||Neutral
+The children are not being playful. ||Neutral
+The children are not in front of the camera. ||Entailment

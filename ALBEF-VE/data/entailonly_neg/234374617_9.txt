@@ -1,0 +1,5 @@
+there is not a man ||contradiction
+there is not a call ||entailment
+there is not a cell phone ||contradiction
+the man does not make a call ||contradiction
+the call is not on the cell phone ||neutral

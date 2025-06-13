@@ -1,0 +1,5 @@
+there is a person ||entailment
+there is a park ||neutral
+there is a skate ||entailment
+the person is at the park ||neutral
+the park is at the skate ||neutral

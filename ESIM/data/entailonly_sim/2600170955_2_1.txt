@@ -1,0 +1,3 @@
+There is a child. ||entailment
+There is a rickshaw. ||neutral
+The child is pushing the cart. ||entailment

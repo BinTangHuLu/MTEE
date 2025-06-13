@@ -1,0 +1,7 @@
+There is not a dog. ||contradiction
+There is not air. ||contradiction
+There is not a tennis ball. ||contradiction
+The dog is not mid-air. ||contradiction
+The dog is not jumping. ||contradiction
+The dog cannot catch. ||entailment
+The tennis ball is not tennis. ||contradiction

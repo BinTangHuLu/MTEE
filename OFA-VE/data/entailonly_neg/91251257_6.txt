@@ -1,0 +1,2 @@
+There is not a pot. ||Entailment
+The pot is not outside. ||Entailment

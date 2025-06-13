@@ -1,0 +1,4 @@
+There is someone. ||entailment
+There is water. ||entailment
+There is a bottle. ||entailment
+Someone pours water into the bottle. ||entailment

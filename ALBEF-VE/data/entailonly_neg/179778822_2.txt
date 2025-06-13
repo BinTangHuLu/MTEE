@@ -1,0 +1,5 @@
+there is not a woman ||contradiction
+there is not a child ||contradiction
+the woman and child are not standing indoor ||entailment
+the woman is not standing indoor ||entailment
+the child is not standing indoor ||entailment

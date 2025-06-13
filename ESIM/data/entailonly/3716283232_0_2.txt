@@ -1,0 +1,6 @@
+There are men. ||entailment
+There is a pose. ||entailment
+There is a logos. ||entailment
+The men are sharply dressed. ||entailment
+The men strike a pose. ||neutral
+The men are standing in front of logos. ||entailment

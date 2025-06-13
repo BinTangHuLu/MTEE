@@ -1,0 +1,3 @@
+there are shoppers ||entailment
+there is produce ||entailment
+the shoppers picked up produce ||neutral

@@ -1,0 +1,4 @@
+there is a man ||entailment
+the man is elderly ||neutral
+there is woodwork ||entailment
+the man is practicing woodwork ||entailment

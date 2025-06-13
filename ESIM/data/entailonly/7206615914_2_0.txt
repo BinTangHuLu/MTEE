@@ -1,0 +1,4 @@
+There are People. ||entailment
+There is a violin. ||entailment
+There is a stage. ||entailment
+The People are playing on stage. ||neutral

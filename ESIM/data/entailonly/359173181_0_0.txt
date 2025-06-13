@@ -1,0 +1,4 @@
+There is an animal. ||entailment
+There is some grass. ||entailment
+The animal is furry. ||entailment
+The animal is in grass. ||entailment

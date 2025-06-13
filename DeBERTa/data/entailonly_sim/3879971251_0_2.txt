@@ -1,0 +1,5 @@
+There is a body. ||entailment
+There are clan. ||entailment
+The body is outside. ||entailment
+The body is with children. ||entailment
+The clan are playing. ||neutral

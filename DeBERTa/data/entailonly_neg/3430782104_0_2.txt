@@ -1,0 +1,3 @@
+There is not a person. ||contradiction
+There is not a horse. ||contradiction
+The person is not on the horse. ||contradiction

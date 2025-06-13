@@ -1,0 +1,3 @@
+there is an animal ||entailment
+the animal is swiftly ||neutral
+the animal is moving swiftly ||entailment

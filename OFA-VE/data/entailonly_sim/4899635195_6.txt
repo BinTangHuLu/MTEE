@@ -1,0 +1,3 @@
+There is a set. ||Entailment
+There is an farther. ||Entailment
+The set is standing outside. ||Neutral

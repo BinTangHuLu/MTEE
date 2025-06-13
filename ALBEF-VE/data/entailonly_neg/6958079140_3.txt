@@ -1,0 +1,5 @@
+there is not a man ||contradiction
+there is not a gun ||contradiction
+there is not a shoulder ||contradiction
+the man is not with the gun ||entailment
+the gun is not over the shoulder ||entailment

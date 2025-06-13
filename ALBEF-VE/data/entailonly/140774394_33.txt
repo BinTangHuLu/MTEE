@@ -1,0 +1,5 @@
+there is a man ||entailment
+there is wood ||entailment
+there are tents ||entailment
+the man is chopping wood ||contradiction
+the man is by tents ||entailment

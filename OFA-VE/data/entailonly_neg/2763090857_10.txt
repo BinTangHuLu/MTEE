@@ -1,0 +1,4 @@
+There is not someone. ||Contradiction
+There is not a shirt. ||Contradiction
+The shirt is not striped. ||Contradiction
+Someone is not wearing the striped shirt. ||Entailment

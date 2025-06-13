@@ -1,0 +1,6 @@
+There is a couple. ||neutral
+There are cops. ||entailment
+There is an eye. ||entailment
+There is a parking lot. ||entailment
+The cops keep an eye. ||entailment
+The cops keep a parking lot. ||entailment

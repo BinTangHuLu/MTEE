@@ -1,0 +1,4 @@
+there is someone ||entailment
+there is a ramp ||entailment
+the ramp is outside ||entailment
+someone is flying over the ramp ||entailment

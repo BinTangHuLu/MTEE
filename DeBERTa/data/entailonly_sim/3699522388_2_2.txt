@@ -1,0 +1,6 @@
+There is a body. ||entailment
+There is a estuary. ||entailment
+There is a bar. ||entailment
+The body is waterskiing. ||entailment
+The body is in the river. ||entailment
+The estuary is with the wall. ||neutral

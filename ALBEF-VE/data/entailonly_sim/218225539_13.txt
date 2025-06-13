@@ -1,0 +1,6 @@
+there is a set ||neutral
+there are community ||entailment
+there is drink ||entailment
+there are enough ||entailment
+the community enjoy water ||entailment
+the drink is near mountains ||entailment

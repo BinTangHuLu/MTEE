@@ -1,0 +1,2 @@
+There are males. ||entailment
+The males are involved in martial arts. ||entailment

@@ -1,0 +1,3 @@
+there is a female ||entailment
+there are flora ||entailment
+the female sells vegetables ||entailment

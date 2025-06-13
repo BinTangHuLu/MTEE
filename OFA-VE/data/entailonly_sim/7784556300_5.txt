@@ -1,0 +1,4 @@
+There is a association. ||Entailment
+There are dude. ||Entailment
+The dude are outdoors. ||Entailment
+The association is of men. ||Neutral

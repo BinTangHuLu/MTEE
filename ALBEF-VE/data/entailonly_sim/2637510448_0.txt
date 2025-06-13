@@ -1,0 +1,3 @@
+there is a ski costume ||entailment
+the ski costume is pink ||entailment
+the skier is wearing ski costume ||entailment

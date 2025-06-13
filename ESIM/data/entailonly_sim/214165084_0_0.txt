@@ -1,0 +1,2 @@
+There is a dominant. ||neutral
+The dominant is pink. ||entailment

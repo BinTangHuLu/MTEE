@@ -1,0 +1,3 @@
+there are not flaggers ||contradiction
+there is not traffic ||neutral
+the flaggers are not waiting for traffic ||contradiction

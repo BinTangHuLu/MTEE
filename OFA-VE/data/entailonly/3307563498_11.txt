@@ -1,0 +1,3 @@
+There is a boy. ||Entailment
+The boy is playing. ||Neutral
+The boy is playing outside. ||Neutral

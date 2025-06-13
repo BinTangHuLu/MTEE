@@ -1,0 +1,4 @@
+there is a female ||entailment
+there is a dude ||entailment
+there is a architecture ||entailment
+the female and man are inside of the building ||entailment

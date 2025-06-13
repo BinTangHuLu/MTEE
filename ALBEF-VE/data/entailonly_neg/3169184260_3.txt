@@ -1,0 +1,6 @@
+there is not mikey ||contradiction
+there are not pajamas ||contradiction
+the pajamas are not green ||contradiction
+mikey was not wearing pajamas ||contradiction
+there is not something ||neutral
+there is not christmas ||contradiction

@@ -1,0 +1,5 @@
+There are not People. ||contradiction
+There is not a beach. ||contradiction
+There are not cameras. ||contradiction
+The People are not standing. ||contradiction
+The People are not being filmed by cameras. ||neutral

@@ -1,0 +1,4 @@
+there are not kids ||contradiction
+there is not water ||contradiction
+the kids are not playing ||contradiction
+the kids are not in water ||contradiction

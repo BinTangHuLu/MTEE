@@ -1,0 +1,5 @@
+there is a woman ||entailment
+there is a street ||entailment
+there is a sandwich board ||entailment
+the woman stands in the street ||entailment
+the woman is in front of the sandwich board ||entailment

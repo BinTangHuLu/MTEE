@@ -1,0 +1,2 @@
+A,strolling
+RE2,is strolling,outside

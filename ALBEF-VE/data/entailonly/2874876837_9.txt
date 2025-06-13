@@ -1,0 +1,4 @@
+there is a child ||entailment
+there is a shirt ||entailment
+the shirt is long sleeved ||neutral
+the child is wearing a shirt ||entailment

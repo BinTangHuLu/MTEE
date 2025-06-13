@@ -1,0 +1,3 @@
+There is a dude. ||entailment
+The dude has two. ||entailment
+The dude has dogs. ||entailment

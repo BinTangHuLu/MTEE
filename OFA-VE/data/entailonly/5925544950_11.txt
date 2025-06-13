@@ -1,0 +1,4 @@
+There is a woman. ||Entailment
+There is a pole. ||Entailment
+The pole is for fishing. ||Entailment
+The woman has a pole. ||Entailment

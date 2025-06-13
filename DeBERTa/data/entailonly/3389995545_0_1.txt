@@ -1,0 +1,3 @@
+There is a soccer game. ||entailment
+It is night. ||entailment
+The soccer game is being played at night. ||entailment

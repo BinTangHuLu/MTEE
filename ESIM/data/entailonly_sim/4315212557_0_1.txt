@@ -1,0 +1,4 @@
+There are child. ||entailment
+There is a bar. ||neutral
+The child are sitting at the table. ||entailment
+The adolescent are sitting at the table. ||entailment

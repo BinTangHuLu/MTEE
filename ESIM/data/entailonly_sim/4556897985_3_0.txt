@@ -1,0 +1,3 @@
+There are community. ||neutral
+community are rushing to get. ||neutral
+There is effort. ||entailment

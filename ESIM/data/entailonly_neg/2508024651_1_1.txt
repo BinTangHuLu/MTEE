@@ -1,0 +1,8 @@
+There is not a person. ||contradiction
+There is not an outfit. ||contradiction
+There is not orange juice. ||contradiction
+There is not an area. ||contradiction
+The person is not polka dot. ||contradiction
+The area is not caution. ||contradiction
+The person is not handing out orange juice. ||contradiction
+The person is not behind the area. ||entailment

@@ -1,0 +1,4 @@
+There is not a woman. ||contradiction
+There is not a shirt. ||contradiction
+The shirt is not gray. ||contradiction
+The woman is not looking onward. ||contradiction

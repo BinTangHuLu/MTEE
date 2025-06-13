@@ -1,0 +1,5 @@
+There is not a boy. ||contradiction
+There are not some rocks. ||contradiction
+The boy is not young. ||contradiction
+The rocks are not in hand. ||contradiction
+The boy is not with rocks. ||contradiction

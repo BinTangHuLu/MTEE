@@ -1,0 +1,4 @@
+there is not a girl ||contradiction
+there is not a dress ||contradiction
+the dress is not flower print ||contradiction
+the girl is not wearing dress ||contradiction

@@ -1,0 +1,5 @@
+there is a dude ||entailment
+there is a barge ||entailment
+the dude is in red ||entailment
+the dude is in white ||contradiction
+the dude is paddling the boat ||entailment

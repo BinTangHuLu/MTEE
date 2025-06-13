@@ -1,0 +1,8 @@
+there is a toddler ||entailment
+there is a hoodie ||entailment
+there are some pants ||entailment
+there is a slide ||entailment
+the hoodie is red ||entailment
+the pants are tan ||entailment
+the toddler is in the hoodie ||entailment
+the toddler is on the slide ||entailment

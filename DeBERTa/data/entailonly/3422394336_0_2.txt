@@ -1,0 +1,3 @@
+There is a dog. ||entailment
+The dog is outdoors. ||entailment
+The dog is outdoors. ||entailment

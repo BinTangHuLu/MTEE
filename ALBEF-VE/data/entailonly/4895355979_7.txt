@@ -1,0 +1,3 @@
+there is a man ||entailment
+there is a statute ||entailment
+the man stands next to the statute ||entailment

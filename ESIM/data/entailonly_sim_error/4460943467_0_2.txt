@@ -1,0 +1,2 @@
+EA,people,hood wearing
+E1R,people,stand in

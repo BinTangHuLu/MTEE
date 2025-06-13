@@ -1,0 +1,3 @@
+there is a adviser ||entailment
+the adviser gets ready ||entailment
+the adviser gets ready to throw ||entailment

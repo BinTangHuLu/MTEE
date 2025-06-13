@@ -1,0 +1,3 @@
+There is not a Skier. ||Contradiction
+There is not a hill. ||Contradiction
+The Skier is not going down the hill. ||Entailment

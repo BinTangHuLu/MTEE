@@ -1,0 +1,4 @@
+there are female ||entailment
+there is a castigate ||entailment
+the apparel are dresses ||neutral
+the female are standing by the rail ||entailment

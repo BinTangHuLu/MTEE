@@ -1,0 +1,4 @@
+there is a man ||entailment
+there is a boy ||entailment
+the boy is young ||entailment
+the man is being approached by the boy ||entailment

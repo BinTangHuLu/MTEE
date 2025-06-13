@@ -1,0 +1,5 @@
+There is not a man. ||contradiction
+There is not a flip. ||contradiction
+There is not a wall. ||contradiction
+The man does not flip. ||contradiction
+The man is not off wall. ||contradiction

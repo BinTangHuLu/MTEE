@@ -1,0 +1,5 @@
+there is not a purse ||contradiction
+there is not a shirt ||contradiction
+the purse is not same color ||entailment
+the shirt is not same color ||entailment
+the purse and shirt are not same color ||entailment

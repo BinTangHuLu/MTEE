@@ -1,0 +1,5 @@
+There is not a guy. ||contradiction
+There are not some bottles. ||contradiction
+There is not a truck. ||contradiction
+The guy does not have bottles. ||contradiction
+The guy does not have a truck. ||contradiction

@@ -1,0 +1,5 @@
+EA,shirt,white
+RE2,in,shirt
+RE2,outside,air
+RE2,taking flight in,air
+A,taking flight

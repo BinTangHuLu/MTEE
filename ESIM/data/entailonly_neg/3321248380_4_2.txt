@@ -1,0 +1,5 @@
+There is not a man. ||contradiction
+There are not some items. ||contradiction
+There is not a cart. ||contradiction
+The man is not moving items. ||contradiction
+The man is not moving the cart. ||contradiction

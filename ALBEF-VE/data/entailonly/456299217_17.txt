@@ -1,0 +1,4 @@
+there is a girl ||entailment
+there is a sweater ||entailment
+the sweater is white ||contradiction
+the girl is in sweater ||entailment

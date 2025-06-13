@@ -1,0 +1,2 @@
+There is not a Dog. ||contradiction
+The Dog does not run outside. ||contradiction

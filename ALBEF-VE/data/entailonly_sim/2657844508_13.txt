@@ -1,0 +1,3 @@
+there are community ||entailment
+there is booze ||entailment
+the community are ingesting alcohol ||entailment

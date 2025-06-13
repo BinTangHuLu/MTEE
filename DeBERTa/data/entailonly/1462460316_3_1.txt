@@ -1,0 +1,4 @@
+There is a woman. ||entailment
+There is a stage. ||entailment
+The woman is singing. ||entailment
+The woman is on stage. ||entailment

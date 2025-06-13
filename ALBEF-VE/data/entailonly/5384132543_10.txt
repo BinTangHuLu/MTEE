@@ -1,0 +1,4 @@
+there is a person ||entailment
+there is some water ||entailment
+the person is diving ||entailment
+the person is diving into water ||entailment

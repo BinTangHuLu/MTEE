@@ -1,0 +1,7 @@
+There is not a guy. ||contradiction
+There is not a side. ||entailment
+There is not a building. ||contradiction
+There is not someone else. ||contradiction
+The guy is not looking over the side. ||contradiction
+The guy is not looking over the building. ||contradiction
+The guy is looking over someone not else. ||neutral

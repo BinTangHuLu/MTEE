@@ -1,0 +1,3 @@
+there is a youth ||entailment
+the youth is to ride ||neutral
+the youth sees something ||entailment

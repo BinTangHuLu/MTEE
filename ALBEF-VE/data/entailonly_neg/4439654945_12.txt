@@ -1,0 +1,6 @@
+there are not children ||contradiction
+there is not a yo yo ||contradiction
+the children are not young ||entailment
+the children are not excitedly ||contradiction
+the children do not watch children ||contradiction
+the children do not demonstrate yo yo ||contradiction

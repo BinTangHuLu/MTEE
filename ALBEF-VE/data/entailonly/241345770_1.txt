@@ -1,0 +1,2 @@
+there is a quarterback ||entailment
+the quarterback gets ready ||entailment

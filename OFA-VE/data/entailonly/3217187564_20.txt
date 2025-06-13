@@ -1,0 +1,3 @@
+There are dogs. ||Entailment
+There is a dograce. ||Entailment
+The dogs are in dograce. ||Neutral

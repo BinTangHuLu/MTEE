@@ -1,0 +1,3 @@
+there is a person ||entailment
+there is a bottle ||entailment
+the person is holding the bottle ||entailment

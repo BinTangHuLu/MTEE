@@ -1,0 +1,2 @@
+There are adolescent. ||entailment
+The adolescent are walking together. ||entailment

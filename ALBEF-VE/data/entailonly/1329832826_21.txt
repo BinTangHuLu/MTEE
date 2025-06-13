@@ -1,0 +1,4 @@
+there is a group ||entailment
+there are people ||entailment
+the people are downtown ||entailment
+the people are walking downtown ||entailment

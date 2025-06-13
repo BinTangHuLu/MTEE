@@ -1,0 +1,4 @@
+There is bread. ||neutral
+There are business. ||entailment
+The Chefs are making bread. ||contradiction
+The bread is for customers. ||contradiction

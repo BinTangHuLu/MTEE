@@ -1,0 +1,4 @@
+there are not kids ||contradiction
+there is not an animal ||contradiction
+the kids are not little ||contradiction
+the kids are not near the animal ||contradiction

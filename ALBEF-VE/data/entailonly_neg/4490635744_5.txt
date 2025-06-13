@@ -1,0 +1,3 @@
+there are not policemen ||contradiction
+there is not a barricade ||contradiction
+the policemen do not stand behind the barricade ||contradiction

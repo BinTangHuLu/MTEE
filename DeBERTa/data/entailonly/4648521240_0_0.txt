@@ -1,0 +1,6 @@
+There are women. ||entailment
+There is a magazine. ||entailment
+There is a book. ||entailment
+The women are Two. ||entailment
+One has a magazine. ||entailment
+The other has a book. ||entailment

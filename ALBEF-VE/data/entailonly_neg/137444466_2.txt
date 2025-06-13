@@ -1,0 +1,5 @@
+there are not people ||contradiction
+there is not a courtyard ||contradiction
+there is not a plaza ||contradiction
+the people are not gathered in courtyard ||contradiction
+the courtyard is not in plaza ||contradiction

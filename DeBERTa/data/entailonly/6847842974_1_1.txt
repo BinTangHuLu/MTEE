@@ -1,0 +1,2 @@
+There is a bucket. ||entailment
+The bucket has more than one. ||neutral

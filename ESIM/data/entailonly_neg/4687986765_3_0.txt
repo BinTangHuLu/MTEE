@@ -1,0 +1,5 @@
+There is not a youth. ||contradiction
+There is not a mural. ||contradiction
+The youth is not skateboarding. ||contradiction
+The mural is not vandalised. ||entailment
+The youth does not skateboard by the mural. ||contradiction

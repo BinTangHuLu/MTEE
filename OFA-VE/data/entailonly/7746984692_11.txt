@@ -1,0 +1,3 @@
+There is a man. ||Entailment
+There is a trail. ||Entailment
+The man is on trail. ||Entailment

@@ -1,0 +1,5 @@
+there is someone ||entailment
+there is a stage ||entailment
+there is a crowd ||entailment
+someone is standing on stage ||entailment
+someone is in front of the crowd ||entailment

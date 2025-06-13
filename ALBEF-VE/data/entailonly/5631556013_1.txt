@@ -1,0 +1,4 @@
+there is a man ||entailment
+there is someone ||entailment
+the man is jumping ||entailment
+the man is jumping from someone ||neutral

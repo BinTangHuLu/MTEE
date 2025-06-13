@@ -1,0 +1,3 @@
+There is not a group. ||contradiction
+There are not people. ||contradiction
+The group is not present people. ||contradiction

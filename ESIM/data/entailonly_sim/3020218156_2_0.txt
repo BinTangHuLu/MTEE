@@ -1,0 +1,5 @@
+There is a dude. ||entailment
+There is a architecture. ||entailment
+There are dude. ||entailment
+The dude is near the building. ||entailment
+The dude stands by men. ||entailment

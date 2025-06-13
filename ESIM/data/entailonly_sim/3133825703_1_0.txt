@@ -1,0 +1,4 @@
+There is a child. ||entailment
+There is a ancestor. ||entailment
+The child speaks to Santa Claus. ||entailment
+The ancestor speaks to Santa Claus. ||entailment

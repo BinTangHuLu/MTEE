@@ -1,0 +1,5 @@
+There are men. ||entailment
+There are skirts. ||entailment
+There are two men. ||entailment
+The skirts are hula grass. ||entailment
+The men are wearing skirts. ||entailment

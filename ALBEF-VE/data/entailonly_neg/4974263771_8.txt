@@ -1,0 +1,4 @@
+there are not kids ||contradiction
+there is not a ledge ||contradiction
+the kids are not sitting on the ledge ||entailment
+the kids are not talking ||contradiction

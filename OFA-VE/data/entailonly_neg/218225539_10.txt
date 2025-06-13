@@ -1,0 +1,3 @@
+There is not a guy. ||Contradiction
+There is not some water. ||Contradiction
+The guy is not getting in water. ||Neutral

@@ -1,0 +1,3 @@
+There is a puppy. ||Entailment
+There is a catch. ||Entailment
+The puppy plays catch. ||Entailment

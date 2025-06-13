@@ -1,0 +1,2 @@
+There is a robe. ||entailment
+The robe is brown. ||entailment

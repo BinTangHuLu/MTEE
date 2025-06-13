@@ -1,0 +1,6 @@
+There is not a person. ||contradiction
+There are not numbers. ||contradiction
+There is not a vehicle. ||contradiction
+The person is not wearing numbers. ||contradiction
+The vehicle is not nonmotorized. ||entailment
+The person is not using a nonmotorized vehicle. ||entailment

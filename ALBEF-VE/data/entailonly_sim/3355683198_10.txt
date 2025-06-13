@@ -1,0 +1,3 @@
+there is a dude ||entailment
+the dude is sliding ||entailment
+the dude is sliding down the handrail ||entailment

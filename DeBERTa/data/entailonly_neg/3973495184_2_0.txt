@@ -1,0 +1,3 @@
+There is not a theme. ||contradiction
+There is not a photo. ||contradiction
+The theme is not red. ||contradiction

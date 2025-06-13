@@ -1,0 +1,6 @@
+There is not a photographer. ||contradiction
+There are not some photos. ||contradiction
+There is not a game. ||contradiction
+The photographer is not taking photos. ||contradiction
+The photographer is not taking a game. ||contradiction
+The photos are not of the game. ||contradiction

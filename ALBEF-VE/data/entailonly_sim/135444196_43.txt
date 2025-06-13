@@ -1,0 +1,5 @@
+there is a female ||entailment
+there is a child ||entailment
+there is a avenue ||entailment
+the child is young ||neutral
+the child is outside on woman ||entailment

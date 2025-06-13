@@ -1,0 +1,5 @@
+There is a girl. ||entailment
+There is a man. ||neutral
+There is a photo. ||neutral
+The girl is dancing. ||entailment
+The man is take a photo. ||neutral

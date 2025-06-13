@@ -1,0 +1,5 @@
+There is a girl. ||entailment
+There is a landscape. ||entailment
+The girl is standing. ||entailment
+The landscape is winter. ||neutral
+The girl is standing in the landscape. ||entailment

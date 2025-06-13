@@ -1,0 +1,2 @@
+there is a employee ||entailment
+the employee is employed ||entailment

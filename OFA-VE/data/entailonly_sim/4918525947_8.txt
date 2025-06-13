@@ -1,0 +1,4 @@
+There is a gentlewoman. ||Entailment
+There is an apparel. ||Entailment
+The apparel is oriental. ||Entailment
+The gentlewoman wears attire. ||Entailment

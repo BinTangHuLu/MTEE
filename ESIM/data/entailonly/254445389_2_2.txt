@@ -1,0 +1,4 @@
+There is a group. ||entailment
+There are some people. ||entailment
+The group is small. ||neutral
+The group are eating and drinking together with people. ||entailment

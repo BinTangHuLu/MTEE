@@ -1,0 +1,4 @@
+There is not winter. ||Contradiction
+There is not cold. ||Contradiction
+The winter is not a season. ||Contradiction
+The cold is not outside. ||Entailment

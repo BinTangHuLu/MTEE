@@ -1,0 +1,3 @@
+there is not someone ||entailment
+there is not a street ||contradiction
+someone is not walking on street ||contradiction

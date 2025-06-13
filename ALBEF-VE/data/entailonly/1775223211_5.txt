@@ -1,0 +1,5 @@
+there is a woman ||entailment
+there is a picture ||entailment
+the woman is 2 ||contradiction
+the woman is in the picture ||entailment
+the woman is working together with the woman ||entailment

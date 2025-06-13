@@ -1,0 +1,5 @@
+there is a man ||entailment
+there is a door ||entailment
+there is a woman ||entailment
+the man holds the door ||entailment
+the man is for the woman ||neutral

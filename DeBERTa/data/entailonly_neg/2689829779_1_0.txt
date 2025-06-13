@@ -1,0 +1,4 @@
+There is not a leg. ||contradiction
+The leg is not right. ||entailment
+The leg is not brace. ||contradiction
+The leg is not in brace. ||contradiction

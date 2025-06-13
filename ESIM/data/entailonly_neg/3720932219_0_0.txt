@@ -1,0 +1,3 @@
+There is not a woman. ||contradiction
+The woman does not speak to other women. ||contradiction
+There are not other women. ||contradiction

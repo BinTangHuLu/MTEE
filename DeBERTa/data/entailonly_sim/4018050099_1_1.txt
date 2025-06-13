@@ -1,0 +1,4 @@
+There is a baby. ||entailment
+There is a artery. ||contradiction
+The baby is small. ||entailment
+The baby is walking on road. ||entailment

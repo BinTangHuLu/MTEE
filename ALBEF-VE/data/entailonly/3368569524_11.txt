@@ -1,0 +1,4 @@
+there is a girl ||entailment
+there is a ball ||entailment
+the girl is about to shoot the ball ||entailment
+the girl is pressing hard ||neutral

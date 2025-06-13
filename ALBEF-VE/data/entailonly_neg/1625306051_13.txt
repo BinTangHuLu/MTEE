@@ -1,0 +1,4 @@
+there are not people ||contradiction
+there is not a wall ||contradiction
+the people are not jumping ||contradiction
+the people are not jumping on the wall ||contradiction

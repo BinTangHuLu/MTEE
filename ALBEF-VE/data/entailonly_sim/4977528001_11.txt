@@ -1,0 +1,4 @@
+there is a baby ||entailment
+there is a beat ||entailment
+the beat is yankees ||neutral
+the baby wears cap ||entailment

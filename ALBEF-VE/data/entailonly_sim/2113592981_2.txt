@@ -1,0 +1,6 @@
+there is a female ||entailment
+there is atmosphere ||entailment
+there is a capital ||entailment
+the female is asian ||neutral
+the female is jumping into air ||entailment
+the female is in the city ||neutral

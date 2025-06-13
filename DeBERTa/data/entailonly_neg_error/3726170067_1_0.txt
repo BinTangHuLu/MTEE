@@ -1,0 +1,2 @@
+A,standing upright
+RE2,is standing,upright

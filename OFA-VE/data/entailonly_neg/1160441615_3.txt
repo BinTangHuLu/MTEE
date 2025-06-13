@@ -1,0 +1,2 @@
+There are not humans. ||Contradiction
+The humans are not walking. ||Entailment

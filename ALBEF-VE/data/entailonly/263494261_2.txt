@@ -1,0 +1,3 @@
+there is a crowd ||entailment
+there are marathon runners ||entailment
+the crowd watches marathon runners ||entailment

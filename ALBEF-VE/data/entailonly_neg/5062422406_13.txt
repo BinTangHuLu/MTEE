@@ -1,0 +1,2 @@
+there is not a golfer ||contradiction
+the golfer is not preparing to swing ||contradiction

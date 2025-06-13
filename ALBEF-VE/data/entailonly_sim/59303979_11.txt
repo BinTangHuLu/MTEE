@@ -1,0 +1,4 @@
+there is a dude ||entailment
+the dude is old ||entailment
+there is an article ||entailment
+he is seeing the article ||neutral

@@ -1,0 +1,4 @@
+There is a blacksmith. ||entailment
+There is a tool. ||entailment
+The blacksmith is probable. ||entailment
+The blacksmith is welding tool. ||entailment

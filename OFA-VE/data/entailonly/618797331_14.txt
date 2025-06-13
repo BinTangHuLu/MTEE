@@ -1,0 +1,4 @@
+There is a boy. ||Entailment
+There is a necklace. ||Entailment
+The boy is young. ||Entailment
+The boy is showing necklace. ||Entailment

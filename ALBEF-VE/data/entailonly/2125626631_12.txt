@@ -1,0 +1,3 @@
+there is an animal ||entailment
+there is a toy ||entailment
+the animal is making contact with the toy ||entailment

@@ -1,0 +1,5 @@
+there is a scene ||entailment
+there is a beach ||entailment
+there is a man ||entailment
+the man is doing yoga ||neutral
+the scene is with the man ||entailment

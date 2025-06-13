@@ -1,0 +1,6 @@
+There are children. ||entailment
+There is a game. ||entailment
+There is grass. ||entailment
+The grass is green. ||neutral
+The children are playing the game. ||entailment
+The children are playing on the grass. ||entailment

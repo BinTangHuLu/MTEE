@@ -1,0 +1,5 @@
+There is not a dog. ||Entailment
+There is not a bull. ||Entailment
+The dog is not outdoors. ||Entailment
+The bull is not outdoors. ||Contradiction
+The dog and bull are not outdoors. ||Contradiction

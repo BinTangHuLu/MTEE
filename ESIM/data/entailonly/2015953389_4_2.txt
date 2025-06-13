@@ -1,0 +1,2 @@
+There are Workers. ||entailment
+The Workers stand on lift. ||entailment

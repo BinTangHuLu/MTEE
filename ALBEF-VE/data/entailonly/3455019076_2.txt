@@ -1,0 +1,6 @@
+there is a lady ||entailment
+there is some hair ||entailment
+there is an object ||entailment
+the hair is long ||neutral
+the lady is with hair ||entailment
+the lady is standing over the object ||entailment

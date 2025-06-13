@@ -1,0 +1,3 @@
+there is a man ||entailment
+there are some bicycles ||entailment
+the man knows about bicycles ||entailment

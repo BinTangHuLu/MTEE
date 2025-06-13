@@ -1,0 +1,4 @@
+There is not a man. ||contradiction
+There is not a tree. ||contradiction
+The man does not push the tree. ||contradiction
+The man is not in the forest. ||contradiction

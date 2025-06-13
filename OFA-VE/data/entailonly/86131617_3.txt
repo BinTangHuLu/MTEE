@@ -1,0 +1,3 @@
+There is a billboard. ||Entailment
+There is a woman. ||Entailment
+The billboard is of woman. ||Neutral

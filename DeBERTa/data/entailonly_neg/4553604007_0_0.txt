@@ -1,0 +1,7 @@
+There is not a girl. ||contradiction
+There is not someone. ||contradiction
+There is not a drink. ||contradiction
+The girl is not talking. ||contradiction
+The drink is not opening. ||contradiction
+The girl is talking to someonenot . ||contradiction
+The girl is not opening the drink. ||contradiction

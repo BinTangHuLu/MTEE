@@ -1,0 +1,4 @@
+There is not a lady. ||Contradiction
+The lady is not young. ||Contradiction
+There is not a bike. ||Contradiction
+The lady is not preparing to ride the bike. ||Neutral

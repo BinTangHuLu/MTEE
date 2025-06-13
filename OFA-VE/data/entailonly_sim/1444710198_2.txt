@@ -1,0 +1,4 @@
+There are child. ||Entailment
+There is an boundary. ||Entailment
+There are two child. ||Entailment
+The child are playing by the edge. ||Entailment

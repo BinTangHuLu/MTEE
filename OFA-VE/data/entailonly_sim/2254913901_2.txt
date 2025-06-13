@@ -1,0 +1,4 @@
+There is a female. ||Entailment
+There is a boutique. ||Entailment
+The female is standing outside. ||Entailment
+The boutique's window belongs to the shop. ||Entailment

@@ -1,0 +1,5 @@
+There is not a man. ||contradiction
+There is not a boy. ||contradiction
+There is not a rope. ||contradiction
+The man is not climbing the boy. ||contradiction
+The boy does not hold the rope. ||contradiction

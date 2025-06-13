@@ -1,0 +1,3 @@
+there are not people ||contradiction
+there are not vehicles ||contradiction
+there are not two people ||contradiction

@@ -1,0 +1,5 @@
+there is a female ||entailment
+there are some approach ||entailment
+the female is indian ||entailment
+the approach are traditional ||neutral
+the female is wearing styles ||entailment

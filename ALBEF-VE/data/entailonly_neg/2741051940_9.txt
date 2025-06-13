@@ -1,0 +1,3 @@
+there is not a puppy ||contradiction
+there is not a bag ||contradiction
+the puppy is not standing on the bag ||entailment

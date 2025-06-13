@@ -1,0 +1,4 @@
+there is not a girl ||contradiction
+there is not some hair ||entailment
+the hair is not dark ||entailment
+the girl does not have dark hair ||contradiction

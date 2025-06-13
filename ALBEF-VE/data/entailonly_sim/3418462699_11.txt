@@ -1,0 +1,4 @@
+there is a dude ||entailment
+there is a forest ||entailment
+the dude is leaning ||entailment
+the dude is leaning on the tree ||entailment

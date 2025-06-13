@@ -1,0 +1,8 @@
+there is a customer ||entailment
+there is an order ||entailment
+the order is rather large ||entailment
+the customer has an order ||entailment
+there is a checkout person ||entailment
+the customer is waiting on the checkout person ||neutral
+there is an order ||entailment
+the checkout person is finishing ringing up the order ||entailment

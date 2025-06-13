@@ -1,0 +1,5 @@
+there is not a woman ||contradiction
+there is not a car ||contradiction
+the woman is not fully clothed ||entailment
+the car is not blue ||contradiction
+the woman does not pose next to the car ||contradiction

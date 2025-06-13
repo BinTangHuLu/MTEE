@@ -1,0 +1,4 @@
+There is he. ||Entailment
+He is fast. ||Neutral
+He is possibly. ||Entailment
+He is running. ||Entailment

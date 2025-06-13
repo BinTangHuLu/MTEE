@@ -1,0 +1,5 @@
+There is a bride. ||entailment
+There is a groom. ||entailment
+There is a boy. ||entailment
+The bride is behind the boy. ||neutral
+The groom is behind the boy. ||neutral

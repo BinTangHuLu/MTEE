@@ -1,0 +1,6 @@
+there is not a man ||contradiction
+there is not a woman ||contradiction
+there is not a table ||contradiction
+the man does not sit side by side with the woman ||contradiction
+the man is not at the table ||contradiction
+the woman is not at the table ||contradiction

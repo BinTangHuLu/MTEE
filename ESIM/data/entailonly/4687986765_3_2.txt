@@ -1,0 +1,4 @@
+There is a youth. ||entailment
+There is a skateboard. ||entailment
+There is a mural. ||entailment
+The youth skateboards by the mural. ||entailment

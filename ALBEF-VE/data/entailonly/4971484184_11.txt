@@ -1,0 +1,3 @@
+there is a mannequin ||entailment
+the mannequin is put ||neutral
+the mannequin is put on display ||neutral

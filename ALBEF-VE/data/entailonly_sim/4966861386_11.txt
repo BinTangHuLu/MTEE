@@ -1,0 +1,3 @@
+there is some accessory ||entailment
+the accessory is red ||entailment
+the firefighter is dressed in accessory ||entailment

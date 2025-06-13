@@ -1,0 +1,3 @@
+there is a female ||entailment
+there are some cooking ||entailment
+the female is doing dishes ||entailment

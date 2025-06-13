@@ -1,0 +1,4 @@
+There is a drawing. ||Contradiction
+There is an bodily. ||Entailment
+The drawing is some kind of. ||Contradiction
+The drawing is visible. ||Contradiction

@@ -1,0 +1,4 @@
+There are people. ||entailment
+The people are several. ||neutral
+The people are red. ||neutral
+The people are wearing red. ||entailment

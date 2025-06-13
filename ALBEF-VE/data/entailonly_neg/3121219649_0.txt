@@ -1,0 +1,3 @@
+there is not a human ||contradiction
+the human is not three ||entailment
+the human are not standing outside ||entailment

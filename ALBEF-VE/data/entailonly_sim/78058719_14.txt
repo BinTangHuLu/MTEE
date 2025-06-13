@@ -1,0 +1,5 @@
+there is a dude ||entailment
+there is a female ||entailment
+there are some cooking ||entailment
+the dude watches while the woman ||entailment
+the female does dishes ||entailment

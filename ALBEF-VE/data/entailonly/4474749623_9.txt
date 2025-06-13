@@ -1,0 +1,3 @@
+there are women ||entailment
+the women are strolling together ||neutral
+the women are strolling outside ||entailment

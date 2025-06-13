@@ -1,0 +1,4 @@
+There is a girl. ||Entailment
+There is a vest. ||Entailment
+The girl is floating. ||Entailment
+The girl is wearing a vest. ||Neutral

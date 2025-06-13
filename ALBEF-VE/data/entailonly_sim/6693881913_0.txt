@@ -1,0 +1,3 @@
+there are list ||neutral
+the list are hugging ||contradiction
+the list are hugging players ||contradiction

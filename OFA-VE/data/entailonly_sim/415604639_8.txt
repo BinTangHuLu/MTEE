@@ -1,0 +1,4 @@
+There is a period. ||Entailment
+There is a St. Patrick's period. ||Entailment
+There is an agent. ||Entailment
+The agent is inside Day. ||Entailment

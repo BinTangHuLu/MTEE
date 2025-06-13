@@ -1,0 +1,3 @@
+there is a policeman ||entailment
+there is a motorcycle ||entailment
+the policeman is leaning on the motorcycle ||entailment

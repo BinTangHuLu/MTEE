@@ -1,0 +1,5 @@
+There are community. ||Entailment
+There is a air. ||Entailment
+The community are few. ||Contradiction
+The community are displaying something. ||Neutral
+Something is on the air. ||Entailment

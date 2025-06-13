@@ -1,0 +1,2 @@
+There is Someone. ||Entailment
+Someone is swinging. ||Entailment

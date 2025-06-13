@@ -1,0 +1,3 @@
+there is a man ||entailment
+there is a woman ||entailment
+the man walks behind the woman ||entailment

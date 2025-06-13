@@ -1,0 +1,3 @@
+EA,group,of
+E1RE2,people,are sitting in,stadium
+E1RE2,people,doesn't care about,stadium

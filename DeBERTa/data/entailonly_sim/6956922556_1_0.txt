@@ -1,0 +1,4 @@
+There are adolescent. ||entailment
+The adolescent are Two. ||entailment
+The adolescent are taking pictures. ||neutral
+The adolescent are outside. ||entailment

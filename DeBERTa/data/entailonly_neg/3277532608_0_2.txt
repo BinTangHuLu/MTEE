@@ -1,0 +1,4 @@
+There is not Traffic. ||contradiction
+There are not people. ||contradiction
+There is not a street. ||contradiction
+The Traffic does not wait for people. ||contradiction

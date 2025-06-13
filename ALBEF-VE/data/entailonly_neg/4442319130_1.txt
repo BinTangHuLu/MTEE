@@ -1,0 +1,4 @@
+there is not a lady ||contradiction
+there is not a cat ||contradiction
+the lady is not elderly ||entailment
+the lady does not have a cat ||contradiction

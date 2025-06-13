@@ -1,0 +1,3 @@
+there is a dude ||entailment
+there are some knickers ||neutral
+the dude is in shorts ||entailment

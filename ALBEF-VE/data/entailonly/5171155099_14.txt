@@ -1,0 +1,6 @@
+there is a man ||entailment
+there is a horse ||entailment
+there are people ||entailment
+the horse is gray ||neutral
+the man rides on the horse ||entailment
+the people look on the horse ||entailment

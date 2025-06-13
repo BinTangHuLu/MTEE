@@ -1,0 +1,3 @@
+There are not children. ||Contradiction
+There are not peanuts. ||Contradiction
+The children are not eating peanuts. ||Neutral

@@ -1,0 +1,5 @@
+There is a body. ||entailment
+The body is more than one. ||entailment
+The body is working on edible buildings. ||entailment
+There are equity. ||entailment
+The equity are edible. ||entailment

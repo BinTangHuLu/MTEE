@@ -1,0 +1,5 @@
+There is not a man. ||Contradiction
+There is not a bike. ||Contradiction
+There is not a helmet. ||Contradiction
+The helmet is not wearing. ||Contradiction
+The man is not riding the bike. ||Entailment

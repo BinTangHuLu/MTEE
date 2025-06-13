@@ -1,0 +1,5 @@
+there are driver ||entailment
+there is a estate ||entailment
+there is a drive ||neutral
+the driver are riding the ride ||entailment
+the drive is with parents ||neutral

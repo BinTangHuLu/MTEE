@@ -1,0 +1,4 @@
+There are female. ||entailment
+There is cotton sweet. ||entailment
+The female are Two. ||entailment
+The cotton sweet is smile. ||entailment

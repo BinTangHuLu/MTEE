@@ -1,0 +1,2 @@
+EA,human,standing
+E1R,human,standing with

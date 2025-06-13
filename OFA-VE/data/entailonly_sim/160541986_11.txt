@@ -1,0 +1,4 @@
+There is a female. ||Entailment
+There are some attire. ||Entailment
+The female is wearing. ||Entailment
+The female is wearing clothes. ||Entailment

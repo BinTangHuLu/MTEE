@@ -1,0 +1,2 @@
+there is weather ||entailment
+the weather is cold ||entailment

@@ -1,0 +1,2 @@
+There is acreage. ||Entailment
+The acreage is flat. ||Contradiction

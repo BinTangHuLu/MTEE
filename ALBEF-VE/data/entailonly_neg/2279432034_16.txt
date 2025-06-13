@@ -1,0 +1,4 @@
+there are not groups ||contradiction
+there is not a concert ||contradiction
+the groups are not musical ||contradiction
+the groups are not in concert ||contradiction

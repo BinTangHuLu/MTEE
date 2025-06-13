@@ -1,0 +1,4 @@
+There is an bodily. ||entailment
+The bodily is small. ||entailment
+There is flower life. ||entailment
+The bodily is trying to get plant life. ||neutral

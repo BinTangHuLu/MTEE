@@ -1,0 +1,2 @@
+there are firefighters ||entailment
+the firefighters are walking ||entailment

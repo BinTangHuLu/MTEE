@@ -1,0 +1,4 @@
+There are children. ||entailment
+There are ladies. ||entailment
+The children are looking. ||entailment
+The ladies stand. ||entailment

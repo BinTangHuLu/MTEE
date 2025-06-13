@@ -1,0 +1,5 @@
+There is not a man. ||contradiction
+There is not a camera. ||contradiction
+There are not woods. ||contradiction
+The man does not have a camera. ||contradiction
+The camera is not in the woods. ||contradiction

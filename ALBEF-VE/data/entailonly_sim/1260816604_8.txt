@@ -1,0 +1,3 @@
+there is a auto ||entailment
+the auto is red ||entailment
+someone sits inside the auto ||entailment

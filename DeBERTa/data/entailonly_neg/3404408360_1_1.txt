@@ -1,0 +1,4 @@
+There are not children. ||contradiction
+There are not ladies. ||contradiction
+The children are not looking. ||contradiction
+The ladies do not stand. ||contradiction

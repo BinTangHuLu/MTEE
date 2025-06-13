@@ -1,0 +1,2 @@
+there are vegetables ||entailment
+the vegetables are sitting ||entailment

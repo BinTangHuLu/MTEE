@@ -1,0 +1,4 @@
+there is a cheerleader ||entailment
+there is a male cheerleader ||contradiction
+there is a female cheerleader ||entailment
+the male cheerleader is holding the female cheerleader ||contradiction

@@ -1,0 +1,5 @@
+there are clan ||entailment
+there is barley ||entailment
+there are two clan ||entailment
+the clan are sitting on grass ||entailment
+the clan are reading ||entailment

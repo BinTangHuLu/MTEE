@@ -1,0 +1,4 @@
+there is not a woman ||contradiction
+there is not a phone ||contradiction
+the woman is not looking at ||contradiction
+the woman is not looking at the phone ||contradiction

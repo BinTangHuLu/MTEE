@@ -1,0 +1,3 @@
+There is a vehicle. ||entailment
+There is an operator. ||entailment
+The vehicle is being operated by the operator. ||neutral

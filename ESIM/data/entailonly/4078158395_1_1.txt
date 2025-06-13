@@ -1,0 +1,4 @@
+There is a man. ||entailment
+The man is able. ||entailment
+The man has his legs. ||entailment
+The man can use legs. ||entailment

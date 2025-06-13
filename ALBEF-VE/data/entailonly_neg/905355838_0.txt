@@ -1,0 +1,3 @@
+there is not a player ||contradiction
+there is not a crowd ||contradiction
+the player does not face crowd ||contradiction

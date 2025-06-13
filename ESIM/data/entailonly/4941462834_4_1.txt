@@ -1,0 +1,4 @@
+There are People. ||entailment
+The People are uniform. ||neutral
+The People are working near. ||entailment
+Near a fire. ||entailment

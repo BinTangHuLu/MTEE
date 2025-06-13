@@ -1,0 +1,6 @@
+There are not People. ||Contradiction
+There is not a sunset. ||Contradiction
+There is not a sea side. ||Contradiction
+The sunset is not beautiful. ||Contradiction
+People are not watching the sunset. ||Contradiction
+The sunset is not on sea side. ||Entailment

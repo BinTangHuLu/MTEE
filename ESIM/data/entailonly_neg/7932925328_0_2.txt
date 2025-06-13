@@ -1,0 +1,5 @@
+There is not a ballerina. ||contradiction
+There is not a leg. ||contradiction
+The ballerina is not lifted. ||contradiction
+The leg is behind hernot . ||entailment
+The leg is not lifted behind the ballerina. ||contradiction

@@ -1,0 +1,4 @@
+There are not girls. ||contradiction
+There are not dresses. ||contradiction
+The dresses are not different colored. ||contradiction
+The girls are not wearing dresses. ||contradiction

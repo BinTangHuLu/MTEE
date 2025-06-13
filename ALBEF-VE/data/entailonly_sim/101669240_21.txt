@@ -1,0 +1,5 @@
+there is a dude ||entailment
+there is a art ||entailment
+there is blizzard ||neutral
+the dude is showing off the painting ||neutral
+the dude skis by the man ||entailment

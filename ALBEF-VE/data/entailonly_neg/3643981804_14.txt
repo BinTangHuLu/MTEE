@@ -1,0 +1,3 @@
+there is not a man ||contradiction
+the man is not standing ||entailment
+the man is not standing outside ||entailment

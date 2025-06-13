@@ -1,0 +1,3 @@
+There are not dogs. ||contradiction
+There is not a toy. ||contradiction
+The dogs are not near the toy. ||contradiction

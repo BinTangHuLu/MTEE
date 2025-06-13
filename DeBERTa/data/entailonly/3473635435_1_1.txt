@@ -1,0 +1,7 @@
+There is a child. ||entailment
+There is a tree. ||entailment
+The child is female. ||entailment
+The child has no shoes. ||entailment
+The child has a helmet on. ||entailment
+The tree has fallen down. ||entailment
+The child walks on top of the tree. ||contradiction

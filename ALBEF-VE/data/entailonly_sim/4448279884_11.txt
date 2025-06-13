@@ -1,0 +1,4 @@
+there is a conflagration ||entailment
+there is a anniversary ||neutral
+the conflagration is burning ||entailment
+the conflagration is burning at the celebration ||entailment

@@ -1,0 +1,6 @@
+There is not a woman. ||contradiction
+There is not a skirt. ||contradiction
+There are not shops. ||contradiction
+The woman is not young. ||contradiction
+The skirt is not black. ||contradiction
+The woman is not walking next to shops. ||contradiction

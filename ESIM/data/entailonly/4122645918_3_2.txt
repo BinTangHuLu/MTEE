@@ -1,0 +1,4 @@
+There are people. ||entailment
+There is scaffolding. ||entailment
+The people are young. ||entailment
+The people play on scaffolding. ||entailment

@@ -1,0 +1,7 @@
+There is a body. ||entailment
+There is a bottle. ||entailment
+There is a drink. ||entailment
+The body walks. ||entailment
+The can is in his appendage. ||entailment
+The body walks along with the can. ||entailment
+The can contains drink. ||entailment

@@ -1,0 +1,4 @@
+A,blue
+R,looking through
+R,standing in
+R,at

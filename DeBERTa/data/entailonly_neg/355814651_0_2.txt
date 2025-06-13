@@ -1,0 +1,4 @@
+There are not individuals. ||contradiction
+There are not two individuals. ||contradiction
+The individuals are not walking. ||contradiction
+The individuals are not outdoors. ||contradiction

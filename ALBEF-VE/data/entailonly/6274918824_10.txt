@@ -1,0 +1,3 @@
+there is a person ||entailment
+there is an egg ||entailment
+the person is about to crack the egg ||entailment

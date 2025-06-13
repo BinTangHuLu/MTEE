@@ -1,0 +1,3 @@
+there is not a kid ||contradiction
+there is not a skate park ||contradiction
+the kid does not skate at the skate park ||contradiction

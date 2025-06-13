@@ -1,0 +1,3 @@
+there is a man ||entailment
+there are some cards ||entailment
+the man is looking at cards ||entailment

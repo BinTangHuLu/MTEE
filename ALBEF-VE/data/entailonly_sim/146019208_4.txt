@@ -1,0 +1,3 @@
+there is some dress ||neutral
+the dress is suited for ||entailment
+the folks wear dress ||entailment

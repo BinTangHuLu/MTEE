@@ -1,0 +1,5 @@
+there are not men ||contradiction
+there are not children ||entailment
+there are not two men ||contradiction
+the men are not doing project ||contradiction
+the project is not together with men ||neutral

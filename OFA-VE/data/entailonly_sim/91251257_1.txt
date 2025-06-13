@@ -1,0 +1,3 @@
+There is a female. ||Entailment
+There is drink. ||Contradiction
+The female works near water. ||Entailment

@@ -1,0 +1,3 @@
+there is a boy ||entailment
+there is a segway ||entailment
+the boy rides on segway ||entailment

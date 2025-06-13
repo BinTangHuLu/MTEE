@@ -1,0 +1,3 @@
+there is a pup ||entailment
+there is a alp ||entailment
+the pup is on the mountain ||entailment

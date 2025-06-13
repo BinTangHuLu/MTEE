@@ -1,0 +1,3 @@
+there are not children ||contradiction
+there are not wires ||contradiction
+the children are not playing with wires ||entailment

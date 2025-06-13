@@ -1,0 +1,5 @@
+There is a gallery. ||contradiction
+There is food. ||entailment
+The food is in front of. ||entailment
+The human being is in the gallery. ||contradiction
+The human being is with food. ||entailment

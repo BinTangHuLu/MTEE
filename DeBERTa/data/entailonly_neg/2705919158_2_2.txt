@@ -1,0 +1,5 @@
+There is not a person. ||contradiction
+The person is not young. ||entailment
+There is not a person. ||contradiction
+The person is not older. ||entailment
+The person is not next to the person. ||contradiction

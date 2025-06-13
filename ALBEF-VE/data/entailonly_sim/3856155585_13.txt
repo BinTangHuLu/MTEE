@@ -1,0 +1,5 @@
+there are bill ||entailment
+there is a bar ||entailment
+there are female ||entailment
+the bill are strewn on the table ||entailment
+the female look through books ||entailment

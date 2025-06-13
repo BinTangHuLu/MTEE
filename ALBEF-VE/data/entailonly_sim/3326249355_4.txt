@@ -1,0 +1,10 @@
+there are community ||entailment
+there is a bluff ||entailment
+there is a star ||entailment
+there is a across ||entailment
+the bluff is grassy ||entailment
+the across is large ||neutral
+the across is wooden ||entailment
+the community stand on the hillside ||entailment
+the community are in front of the cross ||entailment
+the bluff is in the sun ||entailment

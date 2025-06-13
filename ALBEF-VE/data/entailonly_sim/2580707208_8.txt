@@ -1,0 +1,5 @@
+there is a dude ||entailment
+there is a fedora ||contradiction
+there is a brain ||entailment
+the dude is wearing a hat ||entailment
+the fedora is on the head ||contradiction

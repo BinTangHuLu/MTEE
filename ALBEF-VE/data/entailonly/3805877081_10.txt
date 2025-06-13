@@ -1,0 +1,5 @@
+there is a woman ||entailment
+there is a dock ||entailment
+there are some coolers ||entailment
+the woman is on the dock ||contradiction
+the woman is with coolers ||entailment

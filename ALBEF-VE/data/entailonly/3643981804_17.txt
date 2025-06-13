@@ -1,0 +1,3 @@
+there is a guy ||entailment
+there is a sign ||entailment
+the guy is pointing at the sign ||entailment

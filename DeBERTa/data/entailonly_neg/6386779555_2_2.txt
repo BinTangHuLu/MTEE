@@ -1,0 +1,9 @@
+There is not a guy. ||contradiction
+There is not a skill. ||contradiction
+There is not a skateboard. ||contradiction
+There is not a sidewalk. ||contradiction
+There is not a metropolitan area. ||contradiction
+The guy is not performing a skill. ||contradiction
+The guy is not performing a skateboard. ||contradiction
+The skateboard is not on the sidewalk. ||contradiction
+The sidewalk is not in the metropolitan area. ||contradiction

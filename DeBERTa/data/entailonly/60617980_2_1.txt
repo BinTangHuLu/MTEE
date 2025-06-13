@@ -1,0 +1,5 @@
+There is a worker. ||entailment
+There is a sidewalk. ||entailment
+The worker is cement. ||entailment
+The sidewalk is new. ||entailment
+The worker is working on sidewalk. ||entailment

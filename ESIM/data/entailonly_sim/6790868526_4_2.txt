@@ -1,0 +1,4 @@
+There is a female. ||entailment
+There is a counter. ||entailment
+The female is clicking on the mouse. ||entailment
+The female is clicking on the desk. ||entailment

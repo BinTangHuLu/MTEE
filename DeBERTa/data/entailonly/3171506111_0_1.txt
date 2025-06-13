@@ -1,0 +1,4 @@
+There are girls. ||entailment
+The girls are Two. ||entailment
+The girls are enjoying. ||entailment
+The girls are on night. ||entailment

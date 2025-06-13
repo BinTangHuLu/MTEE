@@ -1,0 +1,3 @@
+there is not a woman ||contradiction
+there are not some heels ||contradiction
+the woman is not putting on heels ||entailment

@@ -1,0 +1,4 @@
+There are not people. ||contradiction
+There is not a lawn mower. ||contradiction
+The people do not ride the lawn mower. ||contradiction
+The lawn mower is not outside. ||contradiction

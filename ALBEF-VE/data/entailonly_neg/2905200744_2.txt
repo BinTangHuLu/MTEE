@@ -1,0 +1,4 @@
+there are not people ||contradiction
+there is not gear ||contradiction
+the gear is not protective ||contradiction
+the people are not wearing gear ||contradiction

@@ -1,0 +1,3 @@
+EA,hair,weird blue
+A,big
+R,has

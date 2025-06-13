@@ -1,0 +1,4 @@
+There are barrier. ||Entailment
+There are architecture. ||Entailment
+The barrier had. ||Contradiction
+The barrier had designs. ||Entailment

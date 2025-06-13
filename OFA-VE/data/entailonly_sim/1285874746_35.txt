@@ -1,0 +1,4 @@
+There is a child. ||Entailment
+There is a apparel. ||Entailment
+The apparel is in. ||Entailment
+The child walks. ||Entailment

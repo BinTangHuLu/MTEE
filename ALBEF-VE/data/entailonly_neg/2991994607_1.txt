@@ -1,0 +1,3 @@
+there are not men ||contradiction
+there are not costumes ||contradiction
+the men are not in costumes ||contradiction

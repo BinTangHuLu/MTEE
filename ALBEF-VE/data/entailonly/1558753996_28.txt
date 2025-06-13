@@ -1,0 +1,7 @@
+there is a man ||entailment
+there is a song ||entailment
+there is a wall ||entailment
+the man is bearded ||entailment
+the wall is white ||neutral
+the man plays the song ||neutral
+the song is played against the wall ||entailment

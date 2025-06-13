@@ -1,0 +1,5 @@
+there is a man ||entailment
+there is a woman ||entailment
+there are shirts ||entailment
+the man is wearing shirts ||entailment
+the woman is wearing shirts ||entailment

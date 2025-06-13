@@ -1,0 +1,4 @@
+There is not a girl. ||contradiction
+The girl is not walking. ||contradiction
+The girl is not frowning. ||contradiction
+The girl is not with a phone. ||contradiction

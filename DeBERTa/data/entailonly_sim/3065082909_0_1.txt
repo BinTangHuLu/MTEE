@@ -1,0 +1,5 @@
+There is a association. ||entailment
+The association is well dressed. ||entailment
+There are community. ||entailment
+The association walks down the block. ||entailment
+The community are holding a sign. ||contradiction

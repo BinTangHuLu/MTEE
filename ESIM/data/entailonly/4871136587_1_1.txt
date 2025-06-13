@@ -1,0 +1,5 @@
+There is a man. ||entailment
+There is a turban. ||entailment
+There is a basket. ||entailment
+The man wears a turban. ||entailment
+The man stands in front of the basket. ||entailment

@@ -1,0 +1,5 @@
+there are community ||entailment
+there is a border ||entailment
+there is a avenue ||entailment
+the community wait on side ||entailment
+the border is of street ||entailment

@@ -1,0 +1,4 @@
+There are appliance. ||Contradiction
+There is a boundary. ||Entailment
+The appliance are three. ||Contradiction
+The appliance are in line. ||Contradiction

@@ -1,0 +1,3 @@
+There is a man. ||Entailment
+There is a picture. ||Entailment
+The man is outside in the picture. ||Entailment

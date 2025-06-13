@@ -1,0 +1,6 @@
+there is an athlete ||entailment
+there is a photoshoot ||entailment
+there is a fan ||entailment
+the athlete is female ||neutral
+the athlete is doing a photoshoot ||neutral
+the fan watches the athlete ||entailment

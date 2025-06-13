@@ -1,0 +1,3 @@
+There are not women. ||contradiction
+There is not a kitchen. ||contradiction
+The women do not stand in the kitchen. ||contradiction

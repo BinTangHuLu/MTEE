@@ -1,0 +1,4 @@
+There is a association. ||Entailment
+There are community. ||Entailment
+There is shipment. ||Entailment
+The community wait for transportation. ||Entailment

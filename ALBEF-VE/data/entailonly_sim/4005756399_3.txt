@@ -1,0 +1,3 @@
+there is a dealer ||entailment
+there is a fedora ||contradiction
+the dealer is wearing a hat ||entailment

@@ -1,0 +1,4 @@
+there are not children ||contradiction
+there is not a group ||contradiction
+the children do not laugh ||contradiction
+the children do not play ||contradiction

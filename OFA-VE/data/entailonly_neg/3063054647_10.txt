@@ -1,0 +1,3 @@
+There are not kids. ||Contradiction
+The kids are not young. ||Entailment
+The kids are not walking together. ||Entailment

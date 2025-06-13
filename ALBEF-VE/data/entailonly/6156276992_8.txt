@@ -1,0 +1,5 @@
+there is a man ||entailment
+there are some binoculars ||entailment
+there are some mountains ||entailment
+the man looks through binoculars ||entailment
+the binoculars are toward mountains ||entailment

@@ -1,0 +1,3 @@
+there is not a hunter ||contradiction
+there is not a dog ||contradiction
+the hunter is not posing with the dog ||contradiction

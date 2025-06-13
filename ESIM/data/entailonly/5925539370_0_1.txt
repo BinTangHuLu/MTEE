@@ -1,0 +1,3 @@
+There are boys. ||entailment
+There are gloves. ||entailment
+The boys are holding gloves. ||entailment

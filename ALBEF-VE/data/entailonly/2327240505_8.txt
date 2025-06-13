@@ -1,0 +1,6 @@
+there is a boy ||entailment
+there is a girl ||entailment
+there is a parking lot ||entailment
+the boy and girl are playing ||entailment
+the boy is playing in the parking lot ||entailment
+the girl is playing in the parking lot ||entailment

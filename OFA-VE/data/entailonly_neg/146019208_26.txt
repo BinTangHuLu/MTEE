@@ -1,0 +1,4 @@
+There are not men. ||Entailment
+There are not two men. ||Entailment
+There is not outdoors. ||Contradiction
+The men are not outdoors. ||Contradiction

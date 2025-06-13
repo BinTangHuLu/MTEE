@@ -1,0 +1,3 @@
+there are not men ||contradiction
+there are not vegetables ||contradiction
+the men are not standing with vegetables ||contradiction

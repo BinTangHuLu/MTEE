@@ -1,0 +1,3 @@
+there is a body ||entailment
+there is a forest ||entailment
+the body is touching the tree ||entailment

@@ -1,0 +1,16 @@
+there are community ||entailment
+there are boy ||entailment
+there are knickers ||neutral
+there are girl ||entailment
+there are academy buses ||neutral
+the boy is in a blue shirt ||entailment
+the boy is in slacks ||contradiction
+the childbearing is in pink ||contradiction
+the childbearing is holding a paper ||neutral
+the childbearing is on the phone ||entailment
+the community are in a school bus ||contradiction
+the boy is in a shirt ||entailment
+the boy is in slacks ||contradiction
+the childbearing is in pink ||contradiction
+the childbearing is holding a paper ||neutral
+the childbearing is on the phone ||entailment

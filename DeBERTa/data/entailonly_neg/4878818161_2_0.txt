@@ -1,0 +1,5 @@
+There is not a woman. ||contradiction
+There is not a street. ||contradiction
+There is not a baby. ||contradiction
+The woman does not cross the street. ||contradiction
+The woman is not carrying the baby. ||contradiction

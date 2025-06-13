@@ -1,0 +1,3 @@
+There is not a toddler. ||Contradiction
+There is not a baby. ||Contradiction
+The toddler does not play with the baby. ||Neutral

@@ -1,0 +1,5 @@
+There is not a group. ||Contradiction
+There are not some people. ||Contradiction
+There are not some games. ||Contradiction
+The people are not playing games. ||Contradiction
+The group is not of people. ||Contradiction

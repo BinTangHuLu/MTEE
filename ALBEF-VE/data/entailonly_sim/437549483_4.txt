@@ -1,0 +1,3 @@
+there is a childbearing ||entailment
+the childbearing is performing ||entailment
+the childbearing is performing arts ||entailment

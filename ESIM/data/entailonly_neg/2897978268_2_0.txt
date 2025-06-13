@@ -1,0 +1,5 @@
+There is not a man. ||contradiction
+There is not a patient. ||contradiction
+There is not a room. ||contradiction
+The man is not in hospital room. ||contradiction
+The patient is not in hospital room. ||contradiction

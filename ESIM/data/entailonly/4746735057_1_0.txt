@@ -1,0 +1,3 @@
+There are adults. ||entailment
+There is a garden. ||entailment
+The adults are outside in the garden. ||entailment

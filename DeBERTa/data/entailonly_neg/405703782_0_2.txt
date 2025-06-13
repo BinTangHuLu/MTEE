@@ -1,0 +1,3 @@
+There is not someone. ||contradiction
+There is not a ribbon. ||contradiction
+Someone does not dance with ribbon. ||contradiction

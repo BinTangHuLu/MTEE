@@ -1,0 +1,3 @@
+there is water ||entailment
+there is a boy ||entailment
+the water sprays on the boy ||entailment

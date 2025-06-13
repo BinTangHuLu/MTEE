@@ -1,0 +1,5 @@
+there is not a person ||contradiction
+there is not a phone ||contradiction
+there is not a child ||contradiction
+the person is not on the phone ||contradiction
+the person is not holding the child ||entailment

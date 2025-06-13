@@ -1,0 +1,2 @@
+A,viking
+E,vest

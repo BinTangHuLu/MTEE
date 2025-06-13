@@ -1,0 +1,3 @@
+there are not people ||contradiction
+there is not a beach ||contradiction
+the people are not leaving the beach ||contradiction

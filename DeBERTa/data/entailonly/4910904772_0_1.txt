@@ -1,0 +1,3 @@
+There is a lady. ||entailment
+The lady is walking. ||entailment
+The lady is down forest. ||entailment

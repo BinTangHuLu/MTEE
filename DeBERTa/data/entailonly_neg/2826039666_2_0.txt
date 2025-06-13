@@ -1,0 +1,3 @@
+There is not a man. ||contradiction
+There is not a vehicle. ||contradiction
+The man is not standing in front of the vehicle. ||contradiction

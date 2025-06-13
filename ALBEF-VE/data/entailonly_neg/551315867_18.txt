@@ -1,0 +1,4 @@
+there are not men ||contradiction
+there is not a lift ||contradiction
+there is not a crane ||contradiction
+the men are not in the lift ||contradiction

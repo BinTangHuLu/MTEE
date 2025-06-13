@@ -1,0 +1,5 @@
+There are not guys. ||contradiction
+There is not a girl. ||contradiction
+There is not a harness. ||contradiction
+The guys do not help the girl. ||contradiction
+The girl is not with the harness. ||contradiction

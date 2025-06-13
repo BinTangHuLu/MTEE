@@ -1,0 +1,4 @@
+there is an image ||entailment
+there is a link ||entailment
+the image is working ||contradiction
+the image is used to show the link ||entailment

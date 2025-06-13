@@ -1,0 +1,5 @@
+There is a dude. ||entailment
+There is a rickshaw. ||contradiction
+The dude is sitting. ||entailment
+The rickshaw is full of produce. ||neutral
+The dude is next to the wheelbarrow. ||entailment

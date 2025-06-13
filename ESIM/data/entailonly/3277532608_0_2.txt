@@ -1,0 +1,5 @@
+There is Traffic. ||entailment
+There are people. ||entailment
+There is a street. ||entailment
+The Traffic waits for people. ||entailment
+The people wait to cross the street. ||entailment

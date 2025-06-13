@@ -1,0 +1,8 @@
+there is a female ||entailment
+there is a baby ||entailment
+there is a consideration ||entailment
+there is a depict ||entailment
+the baby is small ||entailment
+the female looks at the reflection ||entailment
+the baby looks at the reflection ||entailment
+the consideration is in the mirror ||entailment

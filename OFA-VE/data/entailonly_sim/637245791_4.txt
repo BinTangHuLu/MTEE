@@ -1,0 +1,4 @@
+There is a child. ||Entailment
+There is a doll. ||Contradiction
+The child is sitting down. ||Entailment
+The child is looking at the toy. ||Entailment

@@ -1,0 +1,3 @@
+there is a person ||entailment
+there is mike ||entailment
+the person talks through mike ||entailment

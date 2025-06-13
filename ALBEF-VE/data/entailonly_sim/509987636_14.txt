@@ -1,0 +1,5 @@
+there is a dude ||entailment
+there is a fedora ||neutral
+the fedora is white ||neutral
+the dude is wearing the hat ||entailment
+the dude is close to the photos ||entailment

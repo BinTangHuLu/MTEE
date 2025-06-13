@@ -1,0 +1,4 @@
+there are not men ||contradiction
+there is not a ladder ||contradiction
+the men are repairing somethingnot ||contradiction
+the men are not on the ladder ||entailment

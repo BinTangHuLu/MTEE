@@ -1,0 +1,9 @@
+There is not a group. ||contradiction
+There are not men. ||contradiction
+There are not sports. ||contradiction
+There is not sand. ||contradiction
+The group does not consist of men. ||contradiction
+The sports are not playing. ||contradiction
+The sand is not in. ||entailment
+The group is not playing sports. ||contradiction
+The group is not in sand. ||contradiction

@@ -1,0 +1,4 @@
+there is a kid ||entailment
+there is a generator ||entailment
+the kid is brown haired ||neutral
+the kid is resting on the generator ||entailment

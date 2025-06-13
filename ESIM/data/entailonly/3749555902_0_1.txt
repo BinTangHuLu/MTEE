@@ -1,0 +1,3 @@
+There is a woman. ||entailment
+The woman is red. ||entailment
+The toenails are red. ||entailment

@@ -1,0 +1,7 @@
+there is a person ||entailment
+there are some doors ||entailment
+there is a set ||entailment
+there is a man ||entailment
+the shirt is black ||entailment
+the person is walking into doors ||entailment
+the man exits set ||neutral

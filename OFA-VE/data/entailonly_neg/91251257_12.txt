@@ -1,0 +1,4 @@
+There are not women. ||Contradiction
+There are not workers. ||Contradiction
+There is not water. ||Entailment
+The worker is not near women. ||Entailment

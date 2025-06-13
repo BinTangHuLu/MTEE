@@ -1,0 +1,2 @@
+There is a light beam. ||Entailment
+The light beam is high. ||Entailment

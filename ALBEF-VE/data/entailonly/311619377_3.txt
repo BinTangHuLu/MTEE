@@ -1,0 +1,4 @@
+there is a woman ||entailment
+there are some sticks ||entailment
+there is an incense ||entailment
+the woman burns sticks ||entailment

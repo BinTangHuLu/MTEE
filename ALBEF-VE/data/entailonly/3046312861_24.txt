@@ -1,0 +1,3 @@
+there is a gymnast ||entailment
+the gymnast is female ||neutral
+the gymnast is training ||entailment

@@ -1,0 +1,5 @@
+there is a boy ||entailment
+there are some bubbles ||entailment
+the boy is blowing ||entailment
+the bubbles are outdoor ||entailment
+the boy is blowing bubbles ||entailment

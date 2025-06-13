@@ -1,0 +1,4 @@
+there is a facing ||entailment
+there are people ||entailment
+the faces are visible ||entailment
+the faces are of people ||neutral

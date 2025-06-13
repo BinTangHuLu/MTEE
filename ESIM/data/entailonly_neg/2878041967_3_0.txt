@@ -1,0 +1,5 @@
+There are not kids. ||contradiction
+There are not turtles. ||contradiction
+The kids are not a group. ||contradiction
+The turtles are not small. ||contradiction
+The kids did not poke at turtles. ||contradiction

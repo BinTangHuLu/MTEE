@@ -1,0 +1,6 @@
+There is a dog. ||entailment
+There is air. ||entailment
+There is a tennis ball. ||entailment
+The dog is mid-air. ||entailment
+The dog is jumping. ||entailment
+The dog can catch. ||entailment

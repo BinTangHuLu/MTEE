@@ -1,0 +1,5 @@
+there is not someone ||contradiction
+there is not a woman ||contradiction
+the woman is not dressed in black ||contradiction
+someone is not taking a photo of the woman ||contradiction
+the photo is not of the woman ||entailment

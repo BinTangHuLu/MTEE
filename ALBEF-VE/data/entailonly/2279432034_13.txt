@@ -1,0 +1,5 @@
+there is a group ||entailment
+there is some music ||entailment
+there are some musicians ||entailment
+the group is playing music ||entailment
+the music is with musicians ||entailment

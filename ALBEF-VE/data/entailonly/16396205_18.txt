@@ -1,0 +1,4 @@
+there is a group ||entailment
+there are men ||entailment
+there are sauges ||entailment
+the group is small ||entailment

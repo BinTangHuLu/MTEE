@@ -1,0 +1,3 @@
+There is not a bird. ||Contradiction
+There is not a tree. ||Contradiction
+The bird is not on the tree. ||Entailment

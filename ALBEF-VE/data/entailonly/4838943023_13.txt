@@ -1,0 +1,7 @@
+there is a male ||entailment
+there are some males ||entailment
+the male is two other ||entailment
+the males are young ||neutral
+the male has males ||entailment
+the males are with male ||entailment
+the male is looking at male ||entailment

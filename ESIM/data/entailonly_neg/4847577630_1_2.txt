@@ -1,0 +1,4 @@
+There is not a woman. ||contradiction
+There is not a bus. ||contradiction
+The bus is not well decorated. ||contradiction
+The woman is not standing in front of the bus. ||contradiction

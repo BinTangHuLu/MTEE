@@ -1,0 +1,5 @@
+There is a human. ||Entailment
+There is an object. ||Entailment
+There is some food. ||Entailment
+The human is holding the object. ||Entailment
+The object is in front of the food. ||Entailment

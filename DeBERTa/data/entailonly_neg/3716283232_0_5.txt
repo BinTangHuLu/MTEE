@@ -1,0 +1,5 @@
+There are not men. ||contradiction
+There are not suits. ||contradiction
+There are not three men. ||contradiction
+The suits are not dressed in. ||contradiction
+The men are not dressed in suits. ||contradiction

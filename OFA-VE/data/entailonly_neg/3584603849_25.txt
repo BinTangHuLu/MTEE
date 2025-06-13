@@ -1,0 +1,3 @@
+There is not a plane. ||Contradiction
+The plane is not falling. ||Entailment
+The plane is not falling down the plane. ||Entailment

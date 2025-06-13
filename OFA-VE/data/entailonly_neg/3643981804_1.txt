@@ -1,0 +1,2 @@
+There is not a human. ||Entailment
+The human is not reaching. ||Entailment

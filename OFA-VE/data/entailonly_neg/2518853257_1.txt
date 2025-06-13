@@ -1,0 +1,6 @@
+There are not people. ||Contradiction
+There are not chairs. ||Contradiction
+There are not flowers. ||Contradiction
+The people are blond. ||Neutral
+The people are not sitting on chairs. ||Entailment
+The chairs are not near flowers. ||Contradiction

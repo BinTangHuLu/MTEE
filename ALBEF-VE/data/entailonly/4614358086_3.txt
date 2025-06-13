@@ -1,0 +1,4 @@
+there is a policewoman ||entailment
+there is a guard ||entailment
+the policewoman is standing ||entailment
+the policewoman is standing by guard ||entailment

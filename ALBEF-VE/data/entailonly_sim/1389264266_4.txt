@@ -1,0 +1,4 @@
+there are adolescent ||entailment
+there is a account ||entailment
+there are two adolescent ||entailment
+the adolescent are in the picture ||entailment

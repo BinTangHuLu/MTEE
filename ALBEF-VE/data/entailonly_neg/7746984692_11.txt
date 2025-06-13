@@ -1,0 +1,3 @@
+there is not a man ||contradiction
+there is not a trail ||contradiction
+the man is not on trail ||contradiction

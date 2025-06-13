@@ -1,0 +1,6 @@
+There is not a student. ||Contradiction
+There are not some activities. ||Contradiction
+There is not a class. ||Contradiction
+The activities are not artistic. ||Contradiction
+The student is not doing activities. ||Contradiction
+The activities are not in class. ||Contradiction

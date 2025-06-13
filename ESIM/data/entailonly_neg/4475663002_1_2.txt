@@ -1,0 +1,9 @@
+There is not a woman. ||contradiction
+There is not a bag. ||contradiction
+There is not a cellphone. ||contradiction
+There is not a corner. ||contradiction
+There is not a street. ||contradiction
+The woman is not holding a bag. ||contradiction
+The woman is not talking on a cellphone. ||contradiction
+The woman is not standing on a corner. ||contradiction
+The woman is not waiting to cross. ||contradiction

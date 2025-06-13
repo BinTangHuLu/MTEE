@@ -1,0 +1,2 @@
+there is drink ||entailment
+drink is nearby there ||neutral

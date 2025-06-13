@@ -1,0 +1,3 @@
+there is a line ||entailment
+there is a lap ||neutral
+the line is performing on stage ||entailment

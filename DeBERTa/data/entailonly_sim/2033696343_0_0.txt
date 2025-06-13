@@ -1,0 +1,10 @@
+There is a data processor. ||neutral
+There are some community. ||entailment
+There is a female. ||entailment
+There is a bank. ||contradiction
+There is a pedal. ||entailment
+The female is standing nearby. ||neutral
+The data processor is with people. ||neutral
+The female is standing nearby them. ||entailment
+The female is inside Winter Sport. ||entailment
+The bank is with bike. ||contradiction

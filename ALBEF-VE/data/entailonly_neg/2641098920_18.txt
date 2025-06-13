@@ -1,0 +1,5 @@
+there is not a woman ||contradiction
+there is not a female ||contradiction
+there is not a couch ||contradiction
+the woman is not next to the female ||contradiction
+the female is not on the couch ||entailment

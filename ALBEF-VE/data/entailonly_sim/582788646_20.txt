@@ -1,0 +1,6 @@
+there is a child ||entailment
+there is camel ||contradiction
+there is a coast ||entailment
+the child has feet ||entailment
+the feet are in camel ||contradiction
+the camel is on the beach ||contradiction

@@ -1,0 +1,8 @@
+There is not a woman. ||contradiction
+There is not a ball. ||contradiction
+There is not a rope. ||contradiction
+The woman is not young. ||contradiction
+The ball is not red-orange. ||contradiction
+The rope is not blue. ||contradiction
+The woman is not playing on the ball. ||contradiction
+The ball is not attached to the rope. ||contradiction

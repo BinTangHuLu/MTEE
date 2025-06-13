@@ -1,0 +1,3 @@
+there is a boy ||entailment
+there is a flag ||entailment
+the boy is holding the flag ||entailment

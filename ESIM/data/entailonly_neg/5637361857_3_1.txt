@@ -1,0 +1,5 @@
+There is not a person. ||contradiction
+There is not a replica. ||neutral
+There is not a creation. ||contradiction
+The person is not crafting a replica. ||contradiction
+The replica is not of creation. ||contradiction

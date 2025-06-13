@@ -1,0 +1,4 @@
+There are not wheels. ||Contradiction
+There is not someone. ||Contradiction
+The wheels are not back. ||Entailment
+The wheels are not being used to balance. ||Entailment

@@ -1,0 +1,4 @@
+There is not a person. ||Contradiction
+There is not a horse. ||Contradiction
+The person is not outdoors. ||Contradiction
+The person is not on the horse. ||Entailment

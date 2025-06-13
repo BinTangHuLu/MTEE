@@ -1,0 +1,5 @@
+There is a dude. ||entailment
+The dude is with glasses. ||entailment
+The dude is disheveled. ||entailment
+The dude is playing the guitar. ||entailment
+The dude is singing along with the drummer. ||entailment

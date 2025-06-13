@@ -1,0 +1,5 @@
+there is not she ||neutral
+there is not a hill ||contradiction
+there is not a mountain ||contradiction
+she is not sitting on the hill ||entailment
+the hill is not overlooking the mountain ||entailment

@@ -1,0 +1,5 @@
+there is not a man ||contradiction
+there is not some work ||entailment
+there is not a dune buggy ||contradiction
+the man does not do work ||contradiction
+the work is not on the dune buggy ||contradiction

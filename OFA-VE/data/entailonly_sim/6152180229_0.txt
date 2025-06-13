@@ -1,0 +1,4 @@
+There are community. ||Entailment
+There is a account. ||Entailment
+The account is outdoors. ||Entailment
+The community are posing for the picture. ||Entailment

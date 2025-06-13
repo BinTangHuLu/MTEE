@@ -1,0 +1,5 @@
+There are not boys. ||contradiction
+There is not a couple. ||contradiction
+The boys do not look on the couple. ||contradiction
+The couple does not get pictures taken. ||contradiction
+The couple is not married. ||contradiction

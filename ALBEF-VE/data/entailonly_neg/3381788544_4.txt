@@ -1,0 +1,3 @@
+there are not teens ||contradiction
+the teens are not dark clothed ||entailment
+the teens are not looking in various directions ||entailment

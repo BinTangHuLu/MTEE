@@ -1,0 +1,3 @@
+there are aircraft carrier ||contradiction
+the aircraft carrier are mail ||contradiction
+the aircraft carrier are doing job ||entailment

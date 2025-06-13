@@ -1,0 +1,3 @@
+there is a skater ||entailment
+the skater is skating ||entailment
+the skater is skating skater ||entailment

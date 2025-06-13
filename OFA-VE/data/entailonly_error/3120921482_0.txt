@@ -1,0 +1,4 @@
+A,red and white striped
+A,striped
+A,red
+A,electric

@@ -1,0 +1,5 @@
+there are men ||entailment
+there is a crane ||entailment
+there are trees ||entailment
+the men are in the crane ||entailment
+the crane looks at trees ||entailment

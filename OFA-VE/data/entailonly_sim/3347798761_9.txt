@@ -1,0 +1,4 @@
+There is a body. ||Entailment
+There is a pedal. ||Entailment
+The pedal is dirt. ||Entailment
+The body rides the bike. ||Entailment

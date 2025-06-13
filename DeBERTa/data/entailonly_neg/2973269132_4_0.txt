@@ -1,0 +1,2 @@
+There is not a lioness. ||contradiction
+The lioness is not preying. ||contradiction

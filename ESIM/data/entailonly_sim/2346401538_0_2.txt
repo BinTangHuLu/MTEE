@@ -1,0 +1,4 @@
+There is a female. ||entailment
+There is a camcorder. ||entailment
+The female is setting up the camera. ||entailment
+The camcorder is on the tripod. ||entailment

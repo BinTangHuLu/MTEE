@@ -1,0 +1,3 @@
+There is not a kid. ||Contradiction
+There is not an orange. ||Entailment
+The kid is not wearing orange. ||Entailment

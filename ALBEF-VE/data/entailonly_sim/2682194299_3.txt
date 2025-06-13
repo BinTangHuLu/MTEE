@@ -1,0 +1,4 @@
+there is a pup ||entailment
+there are some complication ||entailment
+the pup is running ||entailment
+the pup is next to hurdles ||entailment

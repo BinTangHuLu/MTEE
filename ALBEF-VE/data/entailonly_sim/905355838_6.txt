@@ -1,0 +1,3 @@
+there are community ||entailment
+there is a agreeable ||entailment
+community are watching the game ||entailment

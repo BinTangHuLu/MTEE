@@ -1,0 +1,2 @@
+EA,child,one
+E1RE2,child,is standing,foot

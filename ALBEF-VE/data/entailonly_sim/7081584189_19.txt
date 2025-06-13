@@ -1,0 +1,5 @@
+there is a association ||entailment
+there is a outrigger ||entailment
+there is a chase ||entailment
+the association is in the kayak ||entailment
+the outrigger is in the race ||neutral

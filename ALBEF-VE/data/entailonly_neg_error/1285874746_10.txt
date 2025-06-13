@@ -1,0 +1,3 @@
+A,dark-skinned
+R,standing near
+R,wears

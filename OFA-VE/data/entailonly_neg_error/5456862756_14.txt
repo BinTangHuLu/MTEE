@@ -1,0 +1,2 @@
+A,touching water
+A,is outside

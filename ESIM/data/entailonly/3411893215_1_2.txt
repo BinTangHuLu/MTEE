@@ -1,0 +1,4 @@
+There is a girl. ||entailment
+There is a kiss. ||entailment
+The girl blows a kiss. ||entailment
+The girl sees another girl. ||entailment

@@ -1,0 +1,5 @@
+There is not a dog. ||Contradiction
+There is not some water. ||Contradiction
+There is not a ball. ||Contradiction
+The dog is not by water. ||Entailment
+The dog is not with a ball. ||Entailment

@@ -1,0 +1,8 @@
+there is a child ||entailment
+there is a coat ||entailment
+there is a man ||entailment
+there is some equipment ||entailment
+the coat is blue ||contradiction
+the child is in the coat ||entailment
+the child approaches the man ||entailment
+the man is with equipment ||entailment

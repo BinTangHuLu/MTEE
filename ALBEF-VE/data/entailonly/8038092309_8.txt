@@ -1,0 +1,3 @@
+there are men ||entailment
+there is a ball ||entailment
+the men are trying to catch the ball ||neutral

@@ -1,0 +1,3 @@
+There are not workers. ||Contradiction
+There is not something. ||Contradiction
+The workers are carrying somethingnot . ||Entailment

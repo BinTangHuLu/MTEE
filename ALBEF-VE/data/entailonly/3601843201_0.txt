@@ -1,0 +1,3 @@
+there is a man ||entailment
+there is a motorcycle ||entailment
+the man is racing motorcycle ||entailment

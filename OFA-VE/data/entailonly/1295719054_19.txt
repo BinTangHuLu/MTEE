@@ -1,0 +1,3 @@
+There are boys. ||Entailment
+The boys are young. ||Entailment
+The boys are running. ||Entailment

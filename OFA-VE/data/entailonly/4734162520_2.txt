@@ -1,0 +1,3 @@
+There is a crowd. ||Entailment
+There are some people. ||Entailment
+The crowd is being monitored by people. ||Entailment

@@ -1,0 +1,4 @@
+there is a dude ||entailment
+there is a automobile ||entailment
+the automobile is red ||neutral
+the dude is behind the vehicle ||entailment

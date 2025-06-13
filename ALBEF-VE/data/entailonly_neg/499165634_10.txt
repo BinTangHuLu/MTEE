@@ -1,0 +1,5 @@
+there is not a lady ||contradiction
+there are not some causals ||contradiction
+there is not lunch ||contradiction
+the lady is not in causals ||contradiction
+the lady is not having lunch ||contradiction

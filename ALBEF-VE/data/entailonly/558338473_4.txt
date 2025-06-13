@@ -1,0 +1,5 @@
+there are men ||entailment
+there are two men ||entailment
+there is an arts ||entailment
+the arts are martial ||entailment
+the men practice arts ||entailment

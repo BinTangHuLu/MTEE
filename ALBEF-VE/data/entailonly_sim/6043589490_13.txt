@@ -1,0 +1,5 @@
+there is a female ||entailment
+there are some flora ||entailment
+the female has good oral hygiene ||entailment
+the female practices good oral hygiene ||entailment
+the female is near trees ||entailment

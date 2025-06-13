@@ -1,0 +1,4 @@
+There is a man. ||entailment
+There is a child. ||entailment
+The man is looking at something. ||entailment
+The child is looking at something. ||entailment

@@ -1,0 +1,6 @@
+there is a man ||entailment
+there are mountains ||entailment
+the shirt is blue ||entailment
+the man is standing ||entailment
+the man is standing in front of mountains ||entailment
+the man is wearing a shirt ||entailment

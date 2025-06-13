@@ -1,0 +1,3 @@
+There are list. ||Contradiction
+There is a soccer. ||Entailment
+The list play football. ||Entailment

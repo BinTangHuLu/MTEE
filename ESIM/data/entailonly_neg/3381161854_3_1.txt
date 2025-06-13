@@ -1,0 +1,3 @@
+There are not canines. ||contradiction
+There is not a forest. ||contradiction
+The canines do not run around the forest. ||contradiction

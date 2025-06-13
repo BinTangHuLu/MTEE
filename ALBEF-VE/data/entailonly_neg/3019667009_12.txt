@@ -1,0 +1,3 @@
+there are not men ||contradiction
+there is not a door ||contradiction
+the men are not outside the door ||entailment

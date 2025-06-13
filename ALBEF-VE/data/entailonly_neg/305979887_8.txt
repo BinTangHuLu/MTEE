@@ -1,0 +1,6 @@
+there is not a woman ||contradiction
+there is not a table ||contradiction
+there is not a baby ||entailment
+the woman is not sitting ||entailment
+the woman is not at the table ||entailment
+the table is not with the baby ||entailment

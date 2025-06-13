@@ -1,0 +1,2 @@
+There is a target. ||Entailment
+The target is getting shot at. ||Entailment

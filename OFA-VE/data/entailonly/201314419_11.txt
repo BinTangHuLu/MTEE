@@ -1,0 +1,6 @@
+There are People. ||Entailment
+There is a sunset. ||Entailment
+There is a sea side. ||Entailment
+The sunset is beautiful. ||Entailment
+People are watching the sunset. ||Entailment
+The sunset is on sea side. ||Entailment

@@ -1,0 +1,7 @@
+There is a skateboarder. ||entailment
+There are some tricks. ||entailment
+There is an area. ||entailment
+There are some ramps. ||entailment
+The skateboarder is doing tricks. ||entailment
+The skateboarder is in the area. ||entailment
+The area is with ramps. ||entailment

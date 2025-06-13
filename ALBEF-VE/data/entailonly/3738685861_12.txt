@@ -1,0 +1,4 @@
+there is a child ||entailment
+there is an ornament ||entailment
+the child is blond ||entailment
+the child is playing with ornament ||contradiction

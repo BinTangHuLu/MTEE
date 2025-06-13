@@ -1,0 +1,2 @@
+There is a hosiery. ||entailment
+The hosiery is being used. ||entailment

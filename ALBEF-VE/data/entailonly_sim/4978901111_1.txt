@@ -1,0 +1,7 @@
+there is a gentlewoman ||entailment
+there is a air ||entailment
+there is a child ||entailment
+the air is funny ||contradiction
+the child is little ||neutral
+the gentlewoman makes face ||entailment
+the air is at girl ||entailment

@@ -1,0 +1,6 @@
+There are not men. ||contradiction
+There is not a log. ||contradiction
+There is not an area. ||contradiction
+The area is not snowy. ||contradiction
+The men did not fell the log. ||neutral
+The men are not in the area. ||entailment

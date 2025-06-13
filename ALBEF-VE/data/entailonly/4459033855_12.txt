@@ -1,0 +1,8 @@
+there is a gentleman ||entailment
+there is a screen ||entailment
+there are men ||entailment
+there is a table ||entailment
+the gentleman is old ||neutral
+the gentleman used the screen ||neutral
+the screen is used to interact with men ||entailment
+the men are at the table ||entailment

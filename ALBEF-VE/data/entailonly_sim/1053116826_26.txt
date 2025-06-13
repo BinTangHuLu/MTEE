@@ -1,0 +1,3 @@
+there are community ||entailment
+the community are young ||entailment
+the community are outside ||entailment

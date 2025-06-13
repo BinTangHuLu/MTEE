@@ -1,0 +1,3 @@
+there are not animals ||contradiction
+there is not snow ||contradiction
+the animals are not in snow ||contradiction

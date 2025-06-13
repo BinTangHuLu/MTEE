@@ -1,0 +1,2 @@
+E1RE2,window,of,shop
+RE2,stand outside of,window

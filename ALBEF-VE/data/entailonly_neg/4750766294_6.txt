@@ -1,0 +1,3 @@
+there is not someone ||contradiction
+there is not a book ||contradiction
+someone is not binding a book ||contradiction

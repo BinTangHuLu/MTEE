@@ -1,0 +1,2 @@
+E1RE2,people,are in,object
+EA,object,wooden

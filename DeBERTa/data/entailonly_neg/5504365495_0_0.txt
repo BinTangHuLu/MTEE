@@ -1,0 +1,5 @@
+There is not an infant. ||contradiction
+There are not some pajamas. ||contradiction
+The infant is not young. ||contradiction
+The pajamas are not wearing. ||neutral
+The infant is not wearing pajamas. ||contradiction

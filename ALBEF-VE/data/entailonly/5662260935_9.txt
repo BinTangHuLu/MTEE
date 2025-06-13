@@ -1,0 +1,4 @@
+there is a man ||entailment
+there is an activity ||entailment
+the activity is physical ||entailment
+the man is engaged in the physical activity ||entailment

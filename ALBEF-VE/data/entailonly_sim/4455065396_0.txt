@@ -1,0 +1,4 @@
+there is a baby ||entailment
+there is a basement ||neutral
+the baby is inside ||entailment
+the baby is on the floor ||entailment

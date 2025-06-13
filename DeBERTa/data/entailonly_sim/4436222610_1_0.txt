@@ -1,0 +1,3 @@
+There is a female. ||entailment
+There is a blossom pot. ||neutral
+The female is standing next to the flower pot. ||entailment

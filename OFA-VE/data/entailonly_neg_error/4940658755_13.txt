@@ -1,0 +1,2 @@
+EA,person,elderly
+E1RE2,person,in front of,store

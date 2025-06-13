@@ -1,0 +1,4 @@
+There are not men. ||contradiction
+There are not pants. ||contradiction
+The pants are not black. ||contradiction
+The men are not wearing pants. ||contradiction

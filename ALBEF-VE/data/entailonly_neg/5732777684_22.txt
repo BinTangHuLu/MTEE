@@ -1,0 +1,4 @@
+there are not people ||contradiction
+there are not tracks ||contradiction
+there are not woods ||contradiction
+the people are not walking along tracks ||contradiction

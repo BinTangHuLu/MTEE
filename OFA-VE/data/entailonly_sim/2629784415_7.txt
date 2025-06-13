@@ -1,0 +1,5 @@
+There are community. ||Entailment
+There are stuff. ||Entailment
+The stuff are old. ||Entailment
+The stuff are preserved. ||Entailment
+The community are looking at things. ||Entailment

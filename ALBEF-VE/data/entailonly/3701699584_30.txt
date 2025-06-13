@@ -1,0 +1,4 @@
+there is a player ||entailment
+there is a tennis ||entailment
+the player is ready ||entailment
+the player is ready to play tennis ||entailment

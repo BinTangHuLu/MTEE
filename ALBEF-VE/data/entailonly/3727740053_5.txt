@@ -1,0 +1,4 @@
+there are men ||entailment
+there is a uniform ||entailment
+the uniform is martial arts ||entailment
+the men are wearing uniform ||entailment

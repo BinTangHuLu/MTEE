@@ -1,0 +1,3 @@
+there is a association ||entailment
+there are dude ||entailment
+the association is small ||entailment

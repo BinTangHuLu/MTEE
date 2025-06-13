@@ -1,0 +1,4 @@
+there are guys ||entailment
+there are clothes ||entailment
+the clothes are ballerina ||neutral
+the guys are wearing clothes ||entailment

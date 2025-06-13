@@ -1,0 +1,5 @@
+There is a woman. ||entailment
+There is a picture. ||entailment
+The woman is two. ||entailment
+The woman is in the picture. ||entailment
+The woman is outside. ||entailment

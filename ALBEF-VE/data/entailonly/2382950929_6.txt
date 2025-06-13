@@ -1,0 +1,10 @@
+there is a stone ||entailment
+there is a lake ||entailment
+there is a boy ||entailment
+the boy is sitting ||contradiction
+the boy is wearing jeans ||neutral
+there are women ||entailment
+the women are older ||neutral
+the women are wearing a red top ||entailment
+there is a hat ||entailment
+the boy is next to the stone ||entailment

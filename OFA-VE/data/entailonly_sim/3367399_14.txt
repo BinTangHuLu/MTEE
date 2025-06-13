@@ -1,0 +1,3 @@
+There is a dude. ||Entailment
+There is a midnight. ||Neutral
+The dude is outside night. ||Entailment

@@ -1,0 +1,4 @@
+There are not men. ||contradiction
+There is not a basketball. ||contradiction
+The men do not have no audience. ||entailment
+The men are not playing basketball. ||contradiction

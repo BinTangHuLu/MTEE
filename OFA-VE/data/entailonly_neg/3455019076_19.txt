@@ -1,0 +1,4 @@
+There is not a blond. ||Entailment
+There is not a race. ||Contradiction
+There is not a bike. ||Contradiction
+The blond is not in bike race. ||Entailment

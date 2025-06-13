@@ -1,0 +1,3 @@
+There is not a guy. ||contradiction
+There is not a trashcan. ||contradiction
+The guy does not stand next to the trashcan. ||contradiction

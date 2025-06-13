@@ -1,0 +1,3 @@
+EA,green,putt
+E1RE2,golfer,is getting ready to putt,green
+E1RE2,golfer,with,crowd

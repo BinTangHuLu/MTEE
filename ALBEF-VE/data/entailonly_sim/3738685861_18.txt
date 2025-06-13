@@ -1,0 +1,3 @@
+there is a baby ||entailment
+there is a back yard ||neutral
+the baby is in the garden ||entailment

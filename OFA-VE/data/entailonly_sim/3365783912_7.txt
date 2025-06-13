@@ -1,0 +1,4 @@
+There is a animal. ||Contradiction
+There is a path. ||Entailment
+The animal is old. ||Contradiction
+The animal is on sidewalk. ||Contradiction

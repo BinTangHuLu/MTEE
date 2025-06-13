@@ -1,0 +1,4 @@
+There is not a princess. ||contradiction
+There is not a dress. ||contradiction
+The princess is not in the dress. ||contradiction
+The princess was not there in the crowd. ||contradiction

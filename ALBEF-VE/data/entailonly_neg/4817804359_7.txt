@@ -1,0 +1,4 @@
+there are not people ||contradiction
+there is not a crowd ||contradiction
+the people are not taking pictures ||contradiction
+the people are not part of the crowd ||neutral

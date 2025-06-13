@@ -1,0 +1,5 @@
+There is a dude. ||entailment
+There is a female. ||entailment
+There is a burro. ||contradiction
+The dude rides the mule. ||contradiction
+The female rides the mule. ||neutral

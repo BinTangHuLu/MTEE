@@ -1,0 +1,5 @@
+there is not a man ||contradiction
+there are not wood blocks ||contradiction
+there is not a public ||contradiction
+the man is not cutting and carving wood blocks ||contradiction
+the wood blocks are not in public ||contradiction

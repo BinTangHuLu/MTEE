@@ -1,0 +1,4 @@
+there is not a father ||contradiction
+there is not a child ||contradiction
+the father does not take a nap ||contradiction
+the child does not take a nap ||contradiction

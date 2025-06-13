@@ -1,0 +1,7 @@
+there is a man ||entailment
+there is a cap ||entailment
+there are gloves ||entailment
+there is wood ||entailment
+there is a chisel ||entailment
+the man carves wood ||entailment
+the wood is carved with a chisel ||neutral

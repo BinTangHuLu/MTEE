@@ -1,0 +1,4 @@
+There is not a truck. ||contradiction
+There is not a ramp. ||contradiction
+The truck is not attached. ||contradiction
+The truck is not with ramp. ||contradiction

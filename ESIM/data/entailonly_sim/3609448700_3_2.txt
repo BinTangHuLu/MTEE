@@ -1,0 +1,3 @@
+There are list. ||contradiction
+There is a field. ||contradiction
+The list are skating around the rink. ||neutral

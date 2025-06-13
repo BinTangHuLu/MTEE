@@ -1,0 +1,5 @@
+There are not men. ||contradiction
+There is not a street. ||contradiction
+There are not two men. ||contradiction
+The men are not without shirts. ||entailment
+The men are not jumping in street. ||contradiction

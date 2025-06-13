@@ -1,0 +1,5 @@
+there is a child ||entailment
+there is some alcohol ||entailment
+the child is drinking ||entailment
+the eyebrow is brown ||neutral
+the child has brown hair ||neutral

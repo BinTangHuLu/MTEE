@@ -1,0 +1,4 @@
+there is a crowd ||entailment
+there is a scene ||entailment
+there is a church ||entailment
+the scene is in front of the crowd ||entailment

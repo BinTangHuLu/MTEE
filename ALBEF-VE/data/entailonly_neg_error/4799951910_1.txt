@@ -1,0 +1,5 @@
+A,brimmed
+R,in
+A,bright yellow
+RE2,on,concrete rise
+R,in

@@ -1,0 +1,3 @@
+there are sightseer ||entailment
+there is a barge ||entailment
+the sightseer are on the boat ||entailment

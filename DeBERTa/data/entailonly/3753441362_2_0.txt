@@ -1,0 +1,4 @@
+There is a person. ||entailment
+The person has upper. ||entailment
+The person has lower. ||entailment
+The person separates upper. ||entailment

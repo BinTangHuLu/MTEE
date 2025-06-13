@@ -1,0 +1,4 @@
+There is a alp climber. ||Entailment
+There is a dominant. ||Entailment
+There is a alp. ||Entailment
+The alp climber reached the top. ||Entailment

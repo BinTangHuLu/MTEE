@@ -1,0 +1,5 @@
+There is a man. ||entailment
+There is another. ||entailment
+There is a fish. ||entailment
+The man watches the other. ||entailment
+The other cleans the fish. ||entailment

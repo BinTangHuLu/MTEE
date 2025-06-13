@@ -1,0 +1,3 @@
+There are people. ||entailment
+There is a hike. ||entailment
+The people are going for hike. ||entailment

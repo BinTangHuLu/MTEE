@@ -1,0 +1,2 @@
+There is a development. ||Entailment
+The skier is heading down the development. ||Neutral

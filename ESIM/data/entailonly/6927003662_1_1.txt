@@ -1,0 +1,2 @@
+There is a bandana. ||entailment
+The bandana is black. ||contradiction

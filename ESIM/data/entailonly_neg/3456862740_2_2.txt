@@ -1,0 +1,4 @@
+There is not a child. ||contradiction
+There is not a bike. ||contradiction
+The child is not colorfully dressed. ||contradiction
+The child does not ride the bike. ||contradiction

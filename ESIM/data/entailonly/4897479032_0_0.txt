@@ -1,0 +1,3 @@
+There is a man. ||entailment
+There is a wall. ||entailment
+The man is painting the wall. ||entailment

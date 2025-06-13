@@ -1,0 +1,3 @@
+there is a superhero ||entailment
+there is a horse ||entailment
+the superhero is riding the horse ||contradiction

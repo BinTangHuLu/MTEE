@@ -1,0 +1,4 @@
+There is not a man. ||contradiction
+There is not a building. ||contradiction
+The man is not cleaning. ||contradiction
+The man is not in the building. ||contradiction

@@ -1,0 +1,5 @@
+There is a dude. ||entailment
+There is a path. ||entailment
+The dude is racing. ||entailment
+The path is dirt. ||entailment
+The dude is racing on track. ||entailment

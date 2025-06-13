@@ -1,0 +1,2 @@
+There are females. ||Entailment
+The females embrace females. ||Entailment

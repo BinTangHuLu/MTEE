@@ -1,0 +1,3 @@
+there is not someone ||contradiction
+there is not a skateboard ||contradiction
+someone is not on the skateboard ||contradiction

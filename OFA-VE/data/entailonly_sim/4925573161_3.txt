@@ -1,0 +1,3 @@
+There is a dude. ||Entailment
+The dude is biking. ||Entailment
+The dude is biking. ||Entailment

@@ -1,0 +1,4 @@
+there is someone ||entailment
+there are flip flops ||entailment
+there is a motorcycle ||entailment
+someone is commandeering the motorcycle ||neutral

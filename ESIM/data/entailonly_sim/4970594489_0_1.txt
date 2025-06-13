@@ -1,0 +1,5 @@
+There is a dude. ||neutral
+There is a rickshaw. ||neutral
+The dude is Asian. ||entailment
+The dude is pushing the cart. ||entailment
+The rickshaw is up the street. ||contradiction

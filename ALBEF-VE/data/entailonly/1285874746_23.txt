@@ -1,0 +1,8 @@
+there is a lady ||entailment
+there is a top ||entailment
+there is a camera ||entailment
+there is a crowd ||entailment
+the top is blue ||entailment
+the lady is in top ||entailment
+the lady is facing away from camera ||entailment
+the crowd is in distance ||entailment

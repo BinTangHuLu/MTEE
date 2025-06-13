@@ -1,0 +1,5 @@
+there is a forest ||contradiction
+there is a development site ||entailment
+there are band ||entailment
+the forest stands by the construction site ||contradiction
+the forest stands by the workers ||contradiction

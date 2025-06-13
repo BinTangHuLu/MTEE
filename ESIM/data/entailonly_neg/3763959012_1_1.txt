@@ -1,0 +1,3 @@
+There are not humans. ||contradiction
+The humans are not male. ||contradiction
+The humans are not working on construction. ||contradiction

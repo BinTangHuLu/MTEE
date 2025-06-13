@@ -1,0 +1,2 @@
+E,child
+E1R,child,rides

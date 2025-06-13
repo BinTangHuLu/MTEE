@@ -1,0 +1,3 @@
+there is a woman ||entailment
+there is some chocolate ||neutral
+the woman is sitting with chocolate ||neutral

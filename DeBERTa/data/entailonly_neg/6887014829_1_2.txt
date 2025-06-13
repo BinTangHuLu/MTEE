@@ -1,0 +1,5 @@
+There is not a man. ||contradiction
+There is not a woman. ||contradiction
+There are not sunglasses. ||contradiction
+The man is not wearing sunglasses. ||contradiction
+The woman is not wearing sunglasses. ||contradiction

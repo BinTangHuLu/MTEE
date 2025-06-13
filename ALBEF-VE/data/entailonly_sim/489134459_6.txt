@@ -1,0 +1,5 @@
+there is a child ||entailment
+there is a exterior ||entailment
+the exterior is hard ||neutral
+the child is touching the surface ||entailment
+the exterior is with body ||entailment

@@ -1,0 +1,6 @@
+There is not a man. ||Entailment
+There is not a woman. ||Entailment
+There is not a transportation. ||Contradiction
+The man and woman are not using transportation. ||Entailment
+The man is not using transportation. ||Contradiction
+The woman is not using transportation. ||Entailment

@@ -1,0 +1,4 @@
+there is a man ||entailment
+there is a tree ||entailment
+the man is leaning ||entailment
+the man is leaning on the tree ||neutral

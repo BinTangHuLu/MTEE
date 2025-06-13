@@ -1,0 +1,4 @@
+There is a human. ||Entailment
+There is an instrument. ||Entailment
+The instrument is musical. ||Entailment
+The human is playing the instrument. ||Entailment

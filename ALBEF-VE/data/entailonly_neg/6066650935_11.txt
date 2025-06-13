@@ -1,0 +1,9 @@
+there are not people ||contradiction
+there are not contraptions ||contradiction
+there are not wheels ||contradiction
+there is not a path ||contradiction
+there are not passersby ||contradiction
+the contraptions do not have two wheels apiece ||entailment
+the people are not riding on contraptions ||entailment
+the contraptions are not on the path ||contradiction
+the path does not contain passersby ||contradiction

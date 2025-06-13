@@ -1,0 +1,3 @@
+There is not a policeman. ||Contradiction
+There is not a uniform. ||Entailment
+The policeman is not standing outside. ||Entailment

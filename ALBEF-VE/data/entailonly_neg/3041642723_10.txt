@@ -1,0 +1,3 @@
+there are not teens ||contradiction
+there is not a dog ||contradiction
+the teens are not playing with the dog ||entailment

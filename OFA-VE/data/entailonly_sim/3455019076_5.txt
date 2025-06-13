@@ -1,0 +1,4 @@
+There is a female. ||Entailment
+There is some eyebrow. ||Neutral
+The eyebrow is long. ||Neutral
+The female has long hair. ||Entailment

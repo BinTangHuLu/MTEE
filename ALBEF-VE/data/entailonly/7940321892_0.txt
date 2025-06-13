@@ -1,0 +1,8 @@
+there is a race car ||entailment
+there is a number ||entailment
+there is a racetrack ||entailment
+the race car is red ||entailment
+the race car is 56 ||neutral
+the speeds are fast ||entailment
+the race car is with a number ||entailment
+the race car is driving along racetrack ||neutral

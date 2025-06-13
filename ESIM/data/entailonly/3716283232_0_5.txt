@@ -1,0 +1,5 @@
+There are men. ||entailment
+There are suits. ||entailment
+There are three men. ||entailment
+The suits are dressed in. ||entailment
+The men are dressed in suits. ||entailment

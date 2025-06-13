@@ -1,0 +1,5 @@
+there is a dude ||entailment
+there is a earth ||entailment
+there are enough ||entailment
+the dude sits a rock ||entailment
+the dude can see mountains ||entailment

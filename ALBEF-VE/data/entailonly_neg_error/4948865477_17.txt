@@ -1,0 +1,3 @@
+A,same color
+R,are
+A,same color

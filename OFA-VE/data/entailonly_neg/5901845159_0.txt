@@ -1,0 +1,4 @@
+There is not a boy. ||Entailment
+There is not a statue. ||Contradiction
+The boy is not little. ||Entailment
+The boy is not looking at the statue. ||Neutral

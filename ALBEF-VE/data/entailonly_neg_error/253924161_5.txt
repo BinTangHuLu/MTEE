@@ -1,0 +1,2 @@
+EA,hair,gray
+RE2,has,hair

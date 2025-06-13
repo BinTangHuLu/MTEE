@@ -1,0 +1,6 @@
+There is a child. ||entailment
+There are some knickers. ||contradiction
+The knickers are blue. ||entailment
+There is a t-blouse. ||entailment
+The child is about to hit a tennis ball. ||entailment
+The child is about to hit a racket. ||entailment

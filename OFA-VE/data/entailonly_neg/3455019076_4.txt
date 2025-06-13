@@ -1,0 +1,4 @@
+There is not a woman. ||Contradiction
+There is not a bike. ||Contradiction
+The woman is not getting ready. ||Neutral
+The woman is not getting ready for the bike. ||Neutral

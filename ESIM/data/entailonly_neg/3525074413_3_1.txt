@@ -1,0 +1,3 @@
+There is not Hiking. ||contradiction
+The terrain is not rough. ||entailment
+The Hiking is not along rough terrain. ||contradiction

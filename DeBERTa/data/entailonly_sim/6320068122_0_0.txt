@@ -1,0 +1,9 @@
+There is a association. ||entailment
+There are dude. ||entailment
+There is a coast. ||neutral
+There is a appendage tree. ||entailment
+The association is small. ||entailment
+The dude are clad in summery. ||entailment
+The coast is sandy. ||neutral
+The coast is palm tree lined. ||neutral
+The association is standing on the beach. ||neutral

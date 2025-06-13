@@ -1,0 +1,5 @@
+There is a man. ||Entailment
+There is a child. ||Entailment
+There is an animal. ||Entailment
+The man is next to the animal. ||Entailment
+The child is next to the animal. ||Entailment

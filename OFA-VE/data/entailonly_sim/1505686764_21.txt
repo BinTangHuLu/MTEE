@@ -1,0 +1,4 @@
+There is a dude. ||Entailment
+There are some knickers. ||Entailment
+The knickers are red. ||Neutral
+The dude is outside in shorts. ||Entailment

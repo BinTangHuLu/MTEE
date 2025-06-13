@@ -1,0 +1,3 @@
+There is not a man. ||Contradiction
+There is not a direction. ||Contradiction
+The man is not walking in direction. ||Entailment

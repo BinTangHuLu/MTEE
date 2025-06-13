@@ -1,0 +1,5 @@
+There is a dude. ||entailment
+There is a goods. ||entailment
+There is a smoke station. ||entailment
+The dude is sitting on the truck. ||entailment
+The goods is at the gas station. ||neutral

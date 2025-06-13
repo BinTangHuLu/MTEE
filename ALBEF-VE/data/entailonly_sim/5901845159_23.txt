@@ -1,0 +1,4 @@
+there is a baby ||entailment
+there is a festival guy ||entailment
+the festival guy is working ||entailment
+the baby is looking at the circus guy ||neutral

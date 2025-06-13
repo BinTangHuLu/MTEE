@@ -1,0 +1,3 @@
+There is a baby. ||contradiction
+The baby is blonde. ||neutral
+The baby is playing. ||entailment

@@ -1,0 +1,4 @@
+there are female ||entailment
+there are band ||contradiction
+there is drink ||entailment
+the employee is near women ||entailment

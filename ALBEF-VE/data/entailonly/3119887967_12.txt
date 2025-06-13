@@ -1,0 +1,3 @@
+there are men ||entailment
+there is a camera ||entailment
+the men are not facing the camera ||entailment

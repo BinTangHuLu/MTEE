@@ -1,0 +1,3 @@
+there is a body ||entailment
+there are some specs ||entailment
+the body has sunglasses ||entailment

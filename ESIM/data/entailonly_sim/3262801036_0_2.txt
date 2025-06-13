@@ -1,0 +1,2 @@
+There are dude. ||contradiction
+The dude help the skier. ||entailment

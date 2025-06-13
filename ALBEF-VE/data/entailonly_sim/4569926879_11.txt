@@ -1,0 +1,4 @@
+there is a association ||entailment
+there are some community ||entailment
+the community are wearing ||entailment
+the community are wearing hats ||entailment

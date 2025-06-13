@@ -1,0 +1,4 @@
+There is not a boy. ||Contradiction
+There is not a guitar. ||Contradiction
+The boy is not little. ||Contradiction
+The boy does not sit next to guitar. ||Contradiction

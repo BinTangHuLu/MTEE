@@ -1,0 +1,4 @@
+there is a dude ||entailment
+there is a halt ||entailment
+the dude is standing ||entailment
+the dude is standing next to the stall ||entailment

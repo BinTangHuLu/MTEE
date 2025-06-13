@@ -1,0 +1,5 @@
+there is a female ||entailment
+there is a childbearing ||entailment
+there is a bed ||entailment
+the female is next to the female ||entailment
+the childbearing is on the couch ||entailment

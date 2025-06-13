@@ -1,0 +1,4 @@
+There are not children. ||Contradiction
+There is not a picture. ||Contradiction
+The picture is not taken. ||Contradiction
+The children are not having a picture. ||Neutral

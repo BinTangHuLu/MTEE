@@ -1,0 +1,3 @@
+there are girls ||entailment
+the girls are walking ||entailment
+the girls check for something ||entailment

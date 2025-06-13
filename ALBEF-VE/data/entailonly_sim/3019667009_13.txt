@@ -1,0 +1,5 @@
+there are dude ||entailment
+there is an arc ||entailment
+there is a access ||entailment
+the dude are standing under the arch ||entailment
+the arc is in the doorway ||entailment

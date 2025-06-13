@@ -1,0 +1,4 @@
+There is a female. ||entailment
+There is a boiler. ||entailment
+The female is young. ||entailment
+The female stands near stove. ||entailment

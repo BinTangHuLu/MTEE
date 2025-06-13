@@ -1,0 +1,4 @@
+there is not a woman ||contradiction
+there is not a case ||contradiction
+the woman is not two ||entailment
+the woman is not next to case ||contradiction

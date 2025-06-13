@@ -1,0 +1,6 @@
+There is not a lady. ||Contradiction
+There is not a loom. ||Entailment
+There are not items. ||Contradiction
+The items are not unfinished. ||Entailment
+The lady does not sit under the loom. ||Entailment
+Another does not work on the items. ||Contradiction

@@ -1,0 +1,5 @@
+There are dude. ||entailment
+There are six dude. ||entailment
+The dude are black and yellow. ||neutral
+The dude are dressed in black and yellow. ||entailment
+The dude are lifting two. ||contradiction

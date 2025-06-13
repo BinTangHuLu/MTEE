@@ -1,0 +1,3 @@
+there is a gentlewoman ||entailment
+there are some flora ||entailment
+the gentlewoman is by flowers ||entailment

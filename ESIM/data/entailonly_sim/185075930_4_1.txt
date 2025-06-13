@@ -1,0 +1,4 @@
+There is a baby. ||entailment
+There is some camel. ||neutral
+The baby is him or her. ||entailment
+The baby has sand. ||entailment

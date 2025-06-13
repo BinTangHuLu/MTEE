@@ -1,0 +1,4 @@
+There is not a person. ||contradiction
+There is not a counter. ||contradiction
+There is not a man. ||contradiction
+The person is not a man. ||contradiction

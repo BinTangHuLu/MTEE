@@ -1,0 +1,6 @@
+There are persons. ||entailment
+There is an exercise. ||entailment
+There is a gym. ||entailment
+The persons are Two. ||entailment
+The persons are doing exercise. ||entailment
+The exercise is in gym. ||entailment

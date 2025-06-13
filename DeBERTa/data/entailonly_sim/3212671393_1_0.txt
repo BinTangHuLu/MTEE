@@ -1,0 +1,5 @@
+There is a dude. ||entailment
+There is a apartment. ||contradiction
+The dude is single. ||entailment
+The apartment is his. ||neutral
+The dude was working on the house. ||entailment

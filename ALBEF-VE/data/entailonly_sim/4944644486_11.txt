@@ -1,0 +1,8 @@
+there is a association ||entailment
+there are man ||entailment
+there are clan ||entailment
+there is a boundary ||entailment
+there is a bronze ||neutral
+the man travel through the line ||neutral
+the boundary is along side the statue ||entailment
+the association travels through the line ||entailment

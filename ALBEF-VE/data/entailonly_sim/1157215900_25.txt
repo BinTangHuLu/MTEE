@@ -1,0 +1,6 @@
+there is a female ||entailment
+there is a fedora ||neutral
+there is cabbage ||neutral
+the female is in a hat ||entailment
+the baskets are of cabbage ||neutral
+the female is standing behind the baskets ||contradiction

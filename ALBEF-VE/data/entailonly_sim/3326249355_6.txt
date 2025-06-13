@@ -1,0 +1,5 @@
+there is a set ||entailment
+there is a cartoon ||entailment
+there is a clue ||entailment
+the set takes a photo ||entailment
+the cartoon is taken by the sign ||neutral

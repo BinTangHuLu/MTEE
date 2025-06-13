@@ -1,0 +1,2 @@
+there is a vehicle ||entailment
+the vehicle has not been taken care of ||contradiction

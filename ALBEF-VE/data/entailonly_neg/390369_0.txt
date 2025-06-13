@@ -1,0 +1,4 @@
+there is not someone ||contradiction
+there is not a costume ||contradiction
+the costume is not wearing ||contradiction
+someone is not standing on the street ||contradiction

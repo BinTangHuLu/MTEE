@@ -1,0 +1,4 @@
+there is not an artisan ||contradiction
+there is not a craft ||contradiction
+the artisan is not mastering ||contradiction
+the artisan is not mastering craft ||contradiction

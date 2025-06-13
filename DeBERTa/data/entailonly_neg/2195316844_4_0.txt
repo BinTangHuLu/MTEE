@@ -1,0 +1,4 @@
+There is not a man. ||contradiction
+There is not a sale. ||contradiction
+There is not a yard. ||contradiction
+The man is not at sale. ||contradiction

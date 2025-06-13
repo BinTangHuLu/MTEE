@@ -1,0 +1,5 @@
+There is not a picture. ||contradiction
+There are not some people. ||contradiction
+There is not an amusement park. ||contradiction
+The picture is of people enjoying themselvesnot . ||neutral
+The people are not at the amusement park. ||contradiction

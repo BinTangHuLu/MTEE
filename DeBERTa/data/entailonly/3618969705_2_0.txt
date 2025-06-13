@@ -1,0 +1,3 @@
+There is a group. ||entailment
+There are students. ||entailment
+The students are listening. ||entailment

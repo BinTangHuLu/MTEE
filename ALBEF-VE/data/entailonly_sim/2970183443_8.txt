@@ -1,0 +1,5 @@
+there is a dude ||entailment
+there is a baby ||entailment
+there is an bodily ||entailment
+the dude is next to the animal ||entailment
+the baby is next to the animal ||entailment

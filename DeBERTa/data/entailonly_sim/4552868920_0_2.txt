@@ -1,0 +1,4 @@
+There is a body. ||entailment
+There are some flora. ||entailment
+The body is surrounded by. ||entailment
+The flora are spring. ||entailment

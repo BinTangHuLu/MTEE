@@ -1,0 +1,3 @@
+there is a group ||entailment
+there is a girl ||entailment
+the group is playing with the girl ||entailment

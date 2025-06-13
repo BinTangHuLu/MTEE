@@ -1,0 +1,5 @@
+there is a dog ||entailment
+there is a frisbee ||entailment
+there is a building ||entailment
+the dog is playing ||entailment
+the dog is playing in front of the building ||entailment

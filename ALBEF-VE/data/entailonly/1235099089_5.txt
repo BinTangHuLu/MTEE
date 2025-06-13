@@ -1,0 +1,7 @@
+there is a girl ||entailment
+there are clothes ||entailment
+there are markers ||entailment
+the girl is young ||neutral
+the clothes are summer ||neutral
+the girl is running outside ||entailment
+the girl is near markers ||entailment

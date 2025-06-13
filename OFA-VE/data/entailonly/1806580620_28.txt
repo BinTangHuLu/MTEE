@@ -1,0 +1,9 @@
+There is a human. ||Entailment
+There are some sunglasses. ||Entailment
+There is a direction. ||Entailment
+There is an expression. ||Entailment
+There is a face. ||Entailment
+The sunglasses are wearing. ||Entailment
+The expression is on face. ||Entailment
+The human looks in direction. ||Entailment
+The human is with expression. ||Entailment

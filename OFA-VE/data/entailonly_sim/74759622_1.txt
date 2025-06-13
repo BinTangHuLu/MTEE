@@ -1,0 +1,4 @@
+There is a dude. ||Entailment
+There is a broom. ||Entailment
+There is a latrine brush. ||Entailment
+The dude is holding the brush. ||Entailment

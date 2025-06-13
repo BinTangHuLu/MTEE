@@ -1,0 +1,4 @@
+there are people ||entailment
+there is a festival ||entailment
+the festival is outdoor ||entailment
+people are attending festival ||entailment

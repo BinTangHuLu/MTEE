@@ -1,0 +1,4 @@
+There is not a man. ||contradiction
+There is not a picture. ||contradiction
+The picture is not outside. ||contradiction
+The man is not in the picture. ||contradiction

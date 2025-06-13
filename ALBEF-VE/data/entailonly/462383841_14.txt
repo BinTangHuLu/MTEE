@@ -1,0 +1,3 @@
+there are women ||entailment
+there is water ||entailment
+the women are relaxing in water ||entailment

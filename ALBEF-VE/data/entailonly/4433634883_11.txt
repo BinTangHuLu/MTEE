@@ -1,0 +1,3 @@
+there are cars ||entailment
+there is an intersection ||entailment
+the cars are in the intersection ||entailment

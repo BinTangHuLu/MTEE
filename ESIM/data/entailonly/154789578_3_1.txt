@@ -1,0 +1,3 @@
+There is he. ||entailment
+He looks through microscope. ||entailment
+There is a microscope. ||entailment

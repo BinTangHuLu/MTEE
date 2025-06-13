@@ -1,0 +1,5 @@
+there are boy ||entailment
+there is a line ||entailment
+there is melody ||entailment
+the boy play music ||entailment
+the melody is played with the band ||entailment

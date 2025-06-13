@@ -1,0 +1,3 @@
+there is a race car ||entailment
+there are some flames ||entailment
+the race car is with flames ||entailment

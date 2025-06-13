@@ -1,0 +1,4 @@
+There is a person. ||Entailment
+There is an object. ||Entailment
+The person is resting. ||Contradiction
+The person is resting against the object. ||Entailment

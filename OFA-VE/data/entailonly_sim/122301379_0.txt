@@ -1,0 +1,3 @@
+There are community. ||Entailment
+The community are working. ||Entailment
+The community are working outside. ||Entailment

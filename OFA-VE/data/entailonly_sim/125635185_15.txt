@@ -1,0 +1,3 @@
+There are clan. ||Entailment
+The clan play with children. ||Neutral
+The clan are outside. ||Entailment

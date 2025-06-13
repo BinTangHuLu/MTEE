@@ -1,0 +1,3 @@
+there is a man ||entailment
+there is a microphone ||entailment
+the man talks on microphone ||entailment

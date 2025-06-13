@@ -1,0 +1,3 @@
+there are policemen ||entailment
+there is a barricade ||entailment
+the policemen stand behind the barricade ||entailment

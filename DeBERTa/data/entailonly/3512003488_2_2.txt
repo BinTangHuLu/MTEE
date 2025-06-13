@@ -1,0 +1,3 @@
+There are People. ||entailment
+There is a stage. ||entailment
+The People are standing on the stage. ||entailment

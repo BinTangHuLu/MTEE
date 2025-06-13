@@ -1,0 +1,3 @@
+A,wearing
+R,with
+A,on face

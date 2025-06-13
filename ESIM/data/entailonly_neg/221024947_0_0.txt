@@ -1,0 +1,4 @@
+There is not a group. ||contradiction
+There are not men. ||contradiction
+There are not chairs. ||contradiction
+The men are not playing chairs. ||contradiction

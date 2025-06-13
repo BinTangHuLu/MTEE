@@ -1,0 +1,6 @@
+there are female ||entailment
+there is a baby ||entailment
+there is a avenue ||entailment
+the female are amused ||entailment
+the female are amused by the child ||entailment
+the baby is in the street ||entailment

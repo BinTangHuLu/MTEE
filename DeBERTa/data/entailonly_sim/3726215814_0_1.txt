@@ -1,0 +1,3 @@
+There is a timer. ||entailment
+The timer is accurate. ||neutral
+The timer is at least two times a day. ||entailment

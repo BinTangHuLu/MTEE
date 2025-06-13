@@ -1,0 +1,4 @@
+There are community. ||entailment
+There is a barge. ||contradiction
+The community are smiling. ||entailment
+The community are on the boat. ||entailment

@@ -1,0 +1,3 @@
+There are people. ||entailment
+There is a meeting. ||neutral
+The people are at the meeting. ||neutral

@@ -1,0 +1,3 @@
+there is a man ||entailment
+there are some bagpipes ||entailment
+the man plays bagpipes ||entailment

@@ -1,0 +1,4 @@
+There are people. ||Entailment
+There is a ball. ||Entailment
+The ball is flying. ||Entailment
+The people attempt to catch the ball. ||Entailment

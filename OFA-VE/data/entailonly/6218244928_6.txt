@@ -1,0 +1,4 @@
+There are men. ||Entailment
+There is a boat. ||Entailment
+The boat has PPE. ||Entailment
+The men are on the boat. ||Entailment

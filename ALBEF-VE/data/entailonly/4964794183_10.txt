@@ -1,0 +1,5 @@
+there is a cameraman ||contradiction
+there are women ||entailment
+there is a crowd ||entailment
+the cameraman is filming women ||entailment
+the women are walking through the crowd ||entailment

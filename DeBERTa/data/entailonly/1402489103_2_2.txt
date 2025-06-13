@@ -1,0 +1,5 @@
+There is a group. ||entailment
+There are some people. ||entailment
+There is something. ||neutral
+There is a picture. ||entailment
+The group is watching something. ||entailment

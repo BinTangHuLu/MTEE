@@ -1,0 +1,2 @@
+there are ballet dancer ||entailment
+the ballet dancer are holding battons ||entailment

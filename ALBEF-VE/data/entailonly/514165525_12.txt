@@ -1,0 +1,3 @@
+there are folks ||entailment
+there is a game ||entailment
+folks are riding the game ||entailment

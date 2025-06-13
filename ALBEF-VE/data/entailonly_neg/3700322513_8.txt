@@ -1,0 +1,7 @@
+there is not a man ||contradiction
+there is not air ||entailment
+there is not a bmx bike ||contradiction
+there is not someone ||contradiction
+there is not a picture ||entailment
+the man is not in air ||contradiction
+someone does not take the picture ||contradiction

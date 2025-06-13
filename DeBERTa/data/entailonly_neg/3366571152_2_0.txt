@@ -1,0 +1,4 @@
+There is not a restaurant. ||contradiction
+The restaurant is not open. ||neutral
+The restaurant is not night. ||contradiction
+The restaurant is not open at night. ||contradiction

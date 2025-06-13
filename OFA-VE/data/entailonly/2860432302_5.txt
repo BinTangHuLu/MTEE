@@ -1,0 +1,2 @@
+There is a Fish. ||Entailment
+The Fish will be served soon. ||Entailment

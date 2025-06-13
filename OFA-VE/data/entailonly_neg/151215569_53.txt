@@ -1,0 +1,3 @@
+There are not People. ||Contradiction
+There are not photos. ||Contradiction
+The People are not in photos. ||Contradiction

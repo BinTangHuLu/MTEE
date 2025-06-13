@@ -1,0 +1,2 @@
+There are athletics. ||Entailment
+The athletics are about to begin. ||Entailment

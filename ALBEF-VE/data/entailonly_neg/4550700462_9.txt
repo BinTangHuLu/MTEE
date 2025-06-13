@@ -1,0 +1,5 @@
+there is not a woman ||contradiction
+there is not a boy ||contradiction
+there is not a flag ||contradiction
+the woman is not walking next to the boy ||entailment
+the boy is not carrying the flag ||contradiction

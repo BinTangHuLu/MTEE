@@ -1,0 +1,4 @@
+There is a child. ||Entailment
+There is a blouse. ||Entailment
+The blouse is grey. ||Neutral
+The child is flexible. ||Entailment

@@ -1,0 +1,4 @@
+There is not a dress. ||Entailment
+There is not a photo. ||Contradiction
+The dress does not have a color. ||Contradiction
+The dresses do not vary in color. ||Entailment

@@ -1,0 +1,4 @@
+there is a boy ||entailment
+there is some ice cream ||entailment
+the boy is eating ||entailment
+the boy is eating ice cream ||neutral

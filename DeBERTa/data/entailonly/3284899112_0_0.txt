@@ -1,0 +1,8 @@
+There is a man. ||entailment
+There is a woman. ||entailment
+There are hands. ||entailment
+There is a building. ||entailment
+The man looks at hands. ||entailment
+The woman looks at hands. ||entailment
+The man is in front of the building. ||entailment
+The woman is in front of the building. ||entailment

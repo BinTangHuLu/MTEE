@@ -1,0 +1,5 @@
+There is a child. ||entailment
+There is a top. ||neutral
+There is a slide. ||entailment
+The child is at the top. ||neutral
+The top is of the slide. ||neutral

@@ -1,0 +1,8 @@
+There is not a lady. ||contradiction
+There is not a child. ||contradiction
+There is not a boat. ||contradiction
+There is not an ocean. ||contradiction
+There is not a scope. ||contradiction
+The lady is not on the boat. ||contradiction
+The lady is not looking out into the ocean. ||contradiction
+The lady is not looking out into the scope. ||contradiction

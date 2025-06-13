@@ -1,0 +1,4 @@
+There is not a man. ||Contradiction
+The man is not older. ||Entailment
+There is not music. ||Contradiction
+The man does not play music. ||Contradiction

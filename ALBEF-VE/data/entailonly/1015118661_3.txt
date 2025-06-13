@@ -1,0 +1,3 @@
+there is a wall ||entailment
+there is a stone ||entailment
+the wall is being worked on ||entailment

@@ -1,0 +1,5 @@
+There is a account. ||Contradiction
+There are some community. ||Entailment
+There is a architecture. ||Entailment
+The account is of people. ||Entailment
+The account is taken near the building. ||Entailment

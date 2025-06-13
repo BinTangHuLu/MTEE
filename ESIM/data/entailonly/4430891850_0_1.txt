@@ -1,0 +1,4 @@
+There is a man. ||entailment
+There is a case. ||entailment
+The man is standing. ||entailment
+The man is in front of the case. ||entailment

@@ -1,0 +1,7 @@
+there are not children ||contradiction
+there is not a woman ||contradiction
+there is not a fountain ||contradiction
+the children and woman are not enjoying time ||contradiction
+the woman is not enjoying time ||neutral
+the children are not enjoying time ||contradiction
+the time is not in the fountain ||neutral

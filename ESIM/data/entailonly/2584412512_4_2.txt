@@ -1,0 +1,3 @@
+There are canines. ||entailment
+There are two canines. ||entailment
+The canines are having fun. ||entailment

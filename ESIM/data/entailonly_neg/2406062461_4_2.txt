@@ -1,0 +1,6 @@
+There is not a gentleman. ||contradiction
+There is not a hat. ||contradiction
+There is not a ball. ||contradiction
+The gentleman is not orange. ||contradiction
+The gentleman is not wearing a hat. ||contradiction
+The gentleman does not have a ball. ||contradiction

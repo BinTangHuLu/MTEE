@@ -1,0 +1,4 @@
+There are men. ||Entailment
+There is an event. ||Entailment
+There are at least 2 men. ||Entailment
+The men are at the event. ||Entailment

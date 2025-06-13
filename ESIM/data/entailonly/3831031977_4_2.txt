@@ -1,0 +1,2 @@
+There are people. ||entailment
+The people look into the sky. ||entailment

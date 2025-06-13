@@ -1,0 +1,3 @@
+There is a child. ||entailment
+There is a sock. ||contradiction
+The child is swinging the bat. ||neutral

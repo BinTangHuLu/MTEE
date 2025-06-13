@@ -1,0 +1,4 @@
+there is a girl ||entailment
+there is a telescope ||entailment
+the girl is little ||entailment
+the girl is looking through telescope ||entailment

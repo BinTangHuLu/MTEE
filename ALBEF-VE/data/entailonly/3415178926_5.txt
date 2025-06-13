@@ -1,0 +1,5 @@
+there is a man ||entailment
+there is a stick ||entailment
+there is a dog ||entailment
+the man is tugging ||entailment
+the man is tugging the stick ||entailment

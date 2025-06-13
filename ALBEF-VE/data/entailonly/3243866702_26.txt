@@ -1,0 +1,4 @@
+there are kids ||entailment
+there is an animal ||entailment
+the kids are little ||entailment
+the kids are near the animal ||entailment

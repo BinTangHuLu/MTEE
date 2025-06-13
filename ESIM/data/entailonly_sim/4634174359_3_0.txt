@@ -1,0 +1,3 @@
+There are dude. ||entailment
+There is elastic. ||entailment
+The dude cut plastic. ||entailment

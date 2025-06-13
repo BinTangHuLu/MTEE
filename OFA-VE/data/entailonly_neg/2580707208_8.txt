@@ -1,0 +1,5 @@
+There is not a man. ||Contradiction
+There is not a hat. ||Contradiction
+There is not a head. ||Contradiction
+The man is not wearing a hat. ||Contradiction
+The hat is not on the head. ||Entailment

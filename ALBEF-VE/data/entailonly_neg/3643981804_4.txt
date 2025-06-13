@@ -1,0 +1,4 @@
+there is not a workman ||contradiction
+there is not a sign ||contradiction
+the workman is not removing ||contradiction
+the workman is not removing the sign ||contradiction

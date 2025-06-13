@@ -1,0 +1,3 @@
+There is not he. ||Contradiction
+He is not swinging. ||Entailment
+He is not high. ||Entailment

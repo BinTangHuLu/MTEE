@@ -1,0 +1,6 @@
+there is a baby ||entailment
+there is a blouse ||entailment
+there is a depict ||entailment
+the blouse is yellow ||entailment
+the baby is wearing the shirt ||entailment
+the baby is looking into the mirror ||entailment

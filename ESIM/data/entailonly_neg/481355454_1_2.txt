@@ -1,0 +1,3 @@
+There are not children. ||contradiction
+There are not ten children total. ||contradiction
+The children are not playing. ||contradiction

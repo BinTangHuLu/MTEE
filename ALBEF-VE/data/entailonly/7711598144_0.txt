@@ -1,0 +1,4 @@
+there is a man ||entailment
+there is a competition ||entailment
+the competition is martial arts ||entailment
+the man is being flipped in a competition ||neutral

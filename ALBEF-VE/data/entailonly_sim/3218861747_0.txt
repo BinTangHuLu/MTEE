@@ -1,0 +1,4 @@
+there is a dude ||entailment
+there is a partly pipe ||entailment
+the dude is riding the half pipe ||entailment
+the partly pipe is on the skateboard ||entailment

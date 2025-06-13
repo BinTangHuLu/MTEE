@@ -1,0 +1,7 @@
+there is a dude ||entailment
+there is a business ||entailment
+there are community ||entailment
+the business is golf ||neutral
+the dude is raising ||entailment
+the dude is raising club ||entailment
+the business is in front of people ||entailment

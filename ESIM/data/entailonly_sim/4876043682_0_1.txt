@@ -1,0 +1,5 @@
+There is a child. ||entailment
+The child is yellow. ||neutral
+The child is pink. ||entailment
+The child is wearing a t-shirt. ||entailment
+The child is wearing a sweater. ||entailment

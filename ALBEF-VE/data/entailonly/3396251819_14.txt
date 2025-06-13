@@ -1,0 +1,4 @@
+there is a man ||entailment
+there are cameras ||entailment
+the cameras are two ||neutral
+the man has cameras ||entailment

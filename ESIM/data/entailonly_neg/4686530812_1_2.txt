@@ -1,0 +1,4 @@
+There is not a man. ||contradiction
+There are not some people. ||contradiction
+There is not a crowd. ||contradiction
+The man is not touching people. ||contradiction

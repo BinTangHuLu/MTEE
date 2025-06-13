@@ -1,0 +1,3 @@
+there are dogs ||entailment
+the dogs are small ||entailment
+the dogs are same color ||contradiction

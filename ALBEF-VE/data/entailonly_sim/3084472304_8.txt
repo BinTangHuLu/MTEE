@@ -1,0 +1,3 @@
+there are attire ||entailment
+the attire are orange ||entailment
+the workmen are in attire ||entailment

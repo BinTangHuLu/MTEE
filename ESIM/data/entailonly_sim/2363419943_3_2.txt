@@ -1,0 +1,5 @@
+There are community. ||neutral
+There are apparel. ||entailment
+The apparel are red. ||entailment
+The community are wearing outfits. ||neutral
+The community are walking on the street. ||neutral

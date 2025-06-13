@@ -1,0 +1,2 @@
+There is not an animal. ||Contradiction
+There is not some water. ||Entailment

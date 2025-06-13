@@ -1,0 +1,4 @@
+There is a crowd. ||Entailment
+There is a city. ||Entailment
+The crowd is large. ||Neutral
+The crowd is in the city. ||Entailment

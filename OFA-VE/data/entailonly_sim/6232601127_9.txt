@@ -1,0 +1,4 @@
+There is a basin. ||Entailment
+There is a furnace. ||Entailment
+The basin is spun. ||Entailment
+It will transfer to the furnace. ||Entailment

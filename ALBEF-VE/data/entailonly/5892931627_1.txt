@@ -1,0 +1,10 @@
+there is a player ||entailment
+there is a ball ||entailment
+there is a team ||entailment
+there is a catcher ||entailment
+there is a play ||entailment
+the player is uniformed ||entailment
+the player took a swing at the ball ||entailment
+the team looks on the player ||entailment
+the catcher is behind the player ||entailment
+the catcher is ready for the play ||entailment

@@ -1,0 +1,4 @@
+There is a boy. ||Entailment
+There is a bit. ||Entailment
+There is a daily. ||Entailment
+The boy was looking at the piece. ||Neutral

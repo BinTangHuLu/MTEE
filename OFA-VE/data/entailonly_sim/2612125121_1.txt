@@ -1,0 +1,3 @@
+There are community. ||Entailment
+There is an artisan. ||Entailment
+community watch the artist. ||Entailment

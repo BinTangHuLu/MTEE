@@ -1,0 +1,4 @@
+there are female ||entailment
+there is a apparel ||entailment
+the female are dark ||entailment
+the female are wearing a dress ||neutral

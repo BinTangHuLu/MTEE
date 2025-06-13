@@ -1,0 +1,6 @@
+There is not a group. ||contradiction
+There are not some people. ||contradiction
+There is not a boy. ||contradiction
+There is not an interviewer. ||contradiction
+The group is not watching the boy. ||contradiction
+The group is not watching the interviewer. ||contradiction

@@ -1,0 +1,6 @@
+there are community ||entailment
+there are attire ||entailment
+the attire are red and white striped ||entailment
+community are in uniforms ||entailment
+there is a farmland ||entailment
+community are standing in the field ||entailment

@@ -1,0 +1,4 @@
+there is not a child ||contradiction
+there is not a playground ||contradiction
+the child is not playing ||contradiction
+the child is not playing on the playground ||contradiction

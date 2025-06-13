@@ -1,0 +1,4 @@
+There is a drive. ||contradiction
+There is a decoration coaster. ||entailment
+There are community. ||neutral
+The drive is filled with people. ||contradiction

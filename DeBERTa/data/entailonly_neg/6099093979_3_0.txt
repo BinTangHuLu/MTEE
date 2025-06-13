@@ -1,0 +1,2 @@
+There is not a saleswoman. ||contradiction
+There is not a market. ||contradiction

@@ -1,0 +1,7 @@
+There is someone. ||Entailment
+There are kids. ||Entailment
+There are goods. ||Entailment
+There is a street. ||Entailment
+Someone is selling kids. ||Entailment
+Someone is selling goods. ||Entailment
+Someone stands on the street. ||Entailment

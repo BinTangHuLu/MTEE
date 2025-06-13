@@ -1,0 +1,7 @@
+there is a boy ||entailment
+there is a flag ||entailment
+there is a woman ||entailment
+the boy is little ||entailment
+the flag is mexican ||neutral
+the boy is holding the flag ||entailment
+the boy is walking beside the woman ||entailment

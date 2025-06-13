@@ -1,0 +1,6 @@
+There are people. ||entailment
+There is a ride. ||entailment
+There is a bicycle. ||entailment
+The people are taking a ride. ||entailment
+The people are on a bicycle. ||entailment
+The ride is together with the bicycle. ||entailment

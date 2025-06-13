@@ -1,0 +1,5 @@
+there is a child ||entailment
+there is a club ||neutral
+there is a soccer ||contradiction
+the child runs from the team ||entailment
+the child has football ||entailment

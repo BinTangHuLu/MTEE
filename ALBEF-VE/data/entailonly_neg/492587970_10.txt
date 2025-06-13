@@ -1,0 +1,5 @@
+there are not men ||contradiction
+there are not women ||entailment
+there are not two men ||contradiction
+men are not improving hygiene ||contradiction
+women do not watch men ||contradiction

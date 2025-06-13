@@ -1,0 +1,3 @@
+there are people ||entailment
+the people are working ||entailment
+the people are working outside ||entailment

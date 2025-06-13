@@ -1,0 +1,6 @@
+there is a man ||entailment
+there is a beard ||entailment
+there is a guitar ||entailment
+there is a room ||entailment
+the man plays guitar ||entailment
+the guitar is in room ||entailment

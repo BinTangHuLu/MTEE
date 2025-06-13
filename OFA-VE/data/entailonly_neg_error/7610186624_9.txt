@@ -1,0 +1,2 @@
+A,is sitting
+A,is outside

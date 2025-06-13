@@ -1,0 +1,3 @@
+there is a man ||entailment
+there is music ||entailment
+the man is making music ||entailment

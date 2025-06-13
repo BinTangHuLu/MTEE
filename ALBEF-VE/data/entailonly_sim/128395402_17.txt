@@ -1,0 +1,4 @@
+there is a female ||entailment
+the female is riding ||entailment
+it is dawn ||neutral
+the female is riding during daytime ||entailment

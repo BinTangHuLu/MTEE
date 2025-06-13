@@ -1,0 +1,5 @@
+there are people ||entailment
+there is a courtyard ||entailment
+there is a plaza ||entailment
+the people are gathered in courtyard ||entailment
+the courtyard is in plaza ||entailment

@@ -1,0 +1,3 @@
+There is a commando. ||Entailment
+There is a buddy. ||Entailment
+The commando helps comrade. ||Neutral

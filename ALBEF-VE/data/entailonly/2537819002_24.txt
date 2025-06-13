@@ -1,0 +1,6 @@
+there is a person ||entailment
+there is some equipment ||entailment
+there is a load ||entailment
+the equipment is heavy ||entailment
+the person is driving equipment ||entailment
+the person maneuvers the load ||entailment

@@ -1,0 +1,5 @@
+there is a childbearing ||entailment
+there is an definition ||entailment
+there is a air ||entailment
+the childbearing has a face ||entailment
+the definition is on the face ||entailment

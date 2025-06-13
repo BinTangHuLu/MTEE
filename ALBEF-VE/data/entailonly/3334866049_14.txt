@@ -1,0 +1,3 @@
+there is an adult ||entailment
+there is some snow ||entailment
+the adult is in snow ||entailment

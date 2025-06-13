@@ -1,0 +1,4 @@
+There is not a guy. ||contradiction
+There is not a dog. ||contradiction
+The guy is not next to the dog. ||contradiction
+The guy is not holding musical instruments. ||contradiction

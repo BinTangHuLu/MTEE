@@ -1,0 +1,5 @@
+there are people ||entailment
+there is a street ||entailment
+there are four people ||entailment
+the people are dressed in black ||entailment
+the people are walking down street ||entailment

@@ -1,0 +1,3 @@
+there is not a band ||contradiction
+there is not a gazebo ||contradiction
+the band does not play under gazebo ||contradiction

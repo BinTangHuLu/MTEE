@@ -1,0 +1,3 @@
+There are children. ||Entailment
+There are chalkboards. ||Entailment
+The children are with chalkboards. ||Entailment

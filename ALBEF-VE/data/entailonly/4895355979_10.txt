@@ -1,0 +1,6 @@
+there is an adult ||entailment
+there is a shirt ||entailment
+there is a lion figure ||entailment
+the shirt is striped ||entailment
+the adult is in the shirt ||entailment
+the adult stands next to the lion figure ||entailment

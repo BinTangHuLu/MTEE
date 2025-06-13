@@ -1,0 +1,4 @@
+There is a child. ||Entailment
+There are some chain. ||Entailment
+The child is little. ||Entailment
+The child is walking on tracks. ||Entailment

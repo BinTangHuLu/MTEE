@@ -1,0 +1,4 @@
+there is a man ||entailment
+there is a kayak ||entailment
+the man is floating ||contradiction
+the man is floating in kayak ||entailment

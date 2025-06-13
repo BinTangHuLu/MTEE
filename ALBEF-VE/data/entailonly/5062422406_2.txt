@@ -1,0 +1,5 @@
+there is a man ||entailment
+there are others ||entailment
+there is a swing ||entailment
+the man is golfing ||entailment
+the others watch the swing ||entailment

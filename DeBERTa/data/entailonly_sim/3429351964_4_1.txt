@@ -1,0 +1,7 @@
+There is a gentlewoman. ||neutral
+There is an article. ||entailment
+There are some development. ||entailment
+There is a berry. ||entailment
+The gentlewoman is holding. ||neutral
+The article contains. ||entailment
+The gentlewoman is behind the fruit. ||neutral

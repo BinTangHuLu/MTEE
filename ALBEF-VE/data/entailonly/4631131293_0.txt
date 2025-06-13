@@ -1,0 +1,3 @@
+there is a crowd ||entailment
+the crowd is large ||neutral
+the crowd is congregating ||entailment

@@ -1,0 +1,6 @@
+there is a dude ||entailment
+there is a pup ||entailment
+there is a armchair ||entailment
+the dude and dog are sitting on the chair ||entailment
+the dude is sitting on the chair ||entailment
+the pup is sitting on the chair ||contradiction

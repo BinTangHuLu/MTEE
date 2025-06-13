@@ -1,0 +1,3 @@
+there is a baby ||entailment
+there is a bunk ||entailment
+the baby is on the bed ||entailment

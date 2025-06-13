@@ -1,0 +1,4 @@
+there is a pup ||entailment
+there is some drink ||entailment
+the pup is white ||entailment
+the pup is at water ||entailment

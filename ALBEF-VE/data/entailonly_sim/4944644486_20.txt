@@ -1,0 +1,4 @@
+there is a drawing ||entailment
+there is an bodily ||entailment
+the drawing is some kind of ||neutral
+the drawing is visible ||entailment

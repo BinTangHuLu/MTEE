@@ -1,0 +1,6 @@
+there are not children ||contradiction
+there are not adults ||entailment
+there is not a bounce house ||contradiction
+the children and adults are not outside ||contradiction
+the children are not outside the bounce house ||contradiction
+the adults are not outside the bounce house ||contradiction

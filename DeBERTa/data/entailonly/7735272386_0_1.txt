@@ -1,0 +1,4 @@
+There is a woman. ||entailment
+There is a uniform. ||entailment
+The uniform is military. ||entailment
+The woman is in uniform. ||entailment

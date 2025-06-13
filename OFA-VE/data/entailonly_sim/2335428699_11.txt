@@ -1,0 +1,4 @@
+There are clan. ||Entailment
+There is cold. ||Entailment
+The clan are playing. ||Neutral
+The clan are playing during winter. ||Neutral

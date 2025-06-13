@@ -1,0 +1,3 @@
+there is a player ||entailment
+the player is running ||neutral
+the player is running player ||neutral

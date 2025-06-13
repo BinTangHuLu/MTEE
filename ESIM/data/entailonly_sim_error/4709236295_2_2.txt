@@ -1,0 +1,2 @@
+EA,table,outside
+RE2,is sitting at,table

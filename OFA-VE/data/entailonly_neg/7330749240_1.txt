@@ -1,0 +1,2 @@
+There are not cars. ||Contradiction
+There are not some cars outside. ||Contradiction

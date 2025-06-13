@@ -1,0 +1,5 @@
+there is a woman ||entailment
+there is a boy ||contradiction
+there is a street ||entailment
+the boy is young ||entailment
+the boy is outside on woman ||entailment

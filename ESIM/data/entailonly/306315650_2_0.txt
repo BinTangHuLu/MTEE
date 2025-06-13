@@ -1,0 +1,4 @@
+There is a female. ||entailment
+There is a bazaar. ||entailment
+The female is outdoors. ||entailment
+The female is at bazaar. ||entailment

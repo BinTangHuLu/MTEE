@@ -1,0 +1,4 @@
+there is a man ||entailment
+there is a bike ||entailment
+the man is on the bike ||entailment
+the bike is outside ||entailment

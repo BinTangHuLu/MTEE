@@ -1,0 +1,4 @@
+there is a female ||entailment
+there is a dress ||entailment
+the dress is wearing ||neutral
+the female is seen by some people ||entailment

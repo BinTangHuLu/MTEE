@@ -1,0 +1,3 @@
+There is Santa. ||Entailment
+There is Mrs. Claus. ||Entailment
+Santa is drinking with Mrs. Claus. ||Entailment

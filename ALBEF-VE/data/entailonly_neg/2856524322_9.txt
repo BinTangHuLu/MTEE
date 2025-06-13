@@ -1,0 +1,5 @@
+there is not a man ||contradiction
+there is not a bike ||contradiction
+the man is not doing tricks ||contradiction
+the man is not doing the bike ||entailment
+the man is not at night ||contradiction

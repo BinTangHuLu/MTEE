@@ -1,0 +1,6 @@
+There is not a worker. ||contradiction
+There is not a truck. ||contradiction
+The worker is hisnot . ||entailment
+The truck is not writing. ||contradiction
+The worker is not standing in front of the truck. ||contradiction
+The truck does not have writing. ||contradiction

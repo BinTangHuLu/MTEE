@@ -1,0 +1,4 @@
+there is a bike ||entailment
+there are some parts ||entailment
+the parts are shiny ||neutral
+the bike came with parts ||entailment

@@ -1,0 +1,2 @@
+There is a clan. ||Entailment
+The clan play outside. ||Neutral

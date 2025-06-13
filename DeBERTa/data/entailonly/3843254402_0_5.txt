@@ -1,0 +1,5 @@
+There is a man. ||entailment
+There is water. ||entailment
+There is concrete. ||entailment
+The man is spraying water. ||entailment
+The man is on concrete. ||entailment

@@ -1,0 +1,2 @@
+there are students ||entailment
+the students are working together ||entailment

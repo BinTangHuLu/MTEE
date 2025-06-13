@@ -1,0 +1,7 @@
+There is a body. ||entailment
+There are some attire. ||neutral
+There is some drink. ||neutral
+The body is poor. ||entailment
+The attire are tattered. ||entailment
+The drink is trash filled. ||entailment
+The body kneels by body. ||neutral

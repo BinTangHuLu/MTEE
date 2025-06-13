@@ -1,0 +1,4 @@
+There is not a man. ||contradiction
+The man is not Asian. ||contradiction
+The man is not a performer. ||contradiction
+The performer is not a man. ||contradiction

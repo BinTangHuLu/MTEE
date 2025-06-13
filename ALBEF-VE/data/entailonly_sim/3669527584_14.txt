@@ -1,0 +1,5 @@
+there is a female ||entailment
+there is an apparel ||entailment
+the female is indian ||entailment
+the apparel is cultural ||entailment
+the female is wearing attire ||entailment

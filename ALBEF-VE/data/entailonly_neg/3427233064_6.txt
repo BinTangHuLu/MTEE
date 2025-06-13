@@ -1,0 +1,5 @@
+there is not a girl ||contradiction
+there is not a horse ||contradiction
+there are not some horses ||entailment
+the girl is not watching the horse ||entailment
+the horse is not nearby horses ||neutral

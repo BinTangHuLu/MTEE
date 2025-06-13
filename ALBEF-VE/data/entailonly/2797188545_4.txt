@@ -1,0 +1,3 @@
+there are boaters ||entailment
+there are paddlers ||entailment
+the boaters are passing by paddlers ||neutral

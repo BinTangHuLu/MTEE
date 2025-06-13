@@ -1,0 +1,5 @@
+there is not someone ||contradiction
+there is not a photographer ||contradiction
+there is not a street ||contradiction
+someone is not taking photographs ||contradiction
+the photographer is not taking photographs of the street ||contradiction

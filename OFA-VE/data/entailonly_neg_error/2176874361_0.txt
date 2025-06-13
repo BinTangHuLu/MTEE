@@ -1,0 +1,3 @@
+E,dog
+E1RE2,dog,and,bull
+E,bull

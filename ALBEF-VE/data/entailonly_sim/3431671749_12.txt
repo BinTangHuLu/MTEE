@@ -1,0 +1,3 @@
+there is a chase car ||entailment
+there are some bonfire ||neutral
+the chase car is with flames ||entailment

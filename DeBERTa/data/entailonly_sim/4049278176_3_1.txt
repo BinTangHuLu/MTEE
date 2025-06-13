@@ -1,0 +1,3 @@
+There is a body. ||neutral
+There is a goods. ||neutral
+The body is behind the truck. ||contradiction

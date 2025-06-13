@@ -1,0 +1,5 @@
+there are community ||entailment
+there is a bike ||entailment
+there is a edge ||entailment
+the community stand next a bicycle ||entailment
+the bike is on corner ||neutral

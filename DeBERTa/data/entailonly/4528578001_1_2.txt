@@ -1,0 +1,3 @@
+There is a woman. ||entailment
+The woman is brunette. ||entailment
+The woman is eating. ||neutral

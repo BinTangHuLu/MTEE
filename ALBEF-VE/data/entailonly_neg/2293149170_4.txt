@@ -1,0 +1,3 @@
+there are not animals ||contradiction
+there is not a boy ||contradiction
+the animals are not by the boy ||contradiction

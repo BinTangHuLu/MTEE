@@ -1,0 +1,5 @@
+There is not a lady. ||contradiction
+There is not some music. ||contradiction
+There are not some headphones. ||contradiction
+The lady is not listening to music. ||contradiction
+The lady is not listening to headphones. ||contradiction

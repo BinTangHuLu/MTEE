@@ -1,0 +1,5 @@
+There are not people. ||contradiction
+There is not a photo. ||contradiction
+There are not four people. ||contradiction
+The photo is not outdoor. ||contradiction
+The people do not pose for the photo. ||contradiction

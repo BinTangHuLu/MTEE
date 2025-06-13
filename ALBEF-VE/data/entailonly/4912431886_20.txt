@@ -1,0 +1,3 @@
+there is a man ||entailment
+there are windows ||entailment
+the man is washing windows ||entailment

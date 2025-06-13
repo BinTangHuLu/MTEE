@@ -1,0 +1,5 @@
+there is not a woman ||contradiction
+there is not some incense ||contradiction
+there is not some smoke ||contradiction
+the woman is not watching incense ||contradiction
+the woman is not watching smoke ||contradiction

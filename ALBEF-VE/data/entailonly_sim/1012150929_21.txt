@@ -1,0 +1,5 @@
+there is a body ||entailment
+there is a gamecube booth ||entailment
+the body is young ||entailment
+the body plays with gamecube kiosk ||contradiction
+the body plays at mcdonalds ||contradiction

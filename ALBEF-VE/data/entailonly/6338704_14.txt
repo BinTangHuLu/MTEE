@@ -1,0 +1,3 @@
+there is a crossing guard ||entailment
+there are some people ||entailment
+the crossing guard is helping people ||entailment

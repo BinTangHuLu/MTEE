@@ -1,0 +1,3 @@
+there is not a child ||contradiction
+there is not ice cream ||contradiction
+the child does not eat ice cream ||contradiction

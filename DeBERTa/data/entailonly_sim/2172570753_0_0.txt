@@ -1,0 +1,6 @@
+There is a female. ||entailment
+There is a beret. ||contradiction
+The female is wearing. ||entailment
+The beret is brown. ||contradiction
+The female is wearing glasses. ||entailment
+The female is wearing a beanie. ||entailment

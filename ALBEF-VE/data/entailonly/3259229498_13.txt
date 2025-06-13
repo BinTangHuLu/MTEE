@@ -1,0 +1,4 @@
+there is a crowd ||entailment
+there is a speaker ||entailment
+the crowd is large ||entailment
+the crowd has gathered speaker ||entailment

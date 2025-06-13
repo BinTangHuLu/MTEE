@@ -1,0 +1,6 @@
+there is not a dog ||contradiction
+there is not a ball ||contradiction
+there is not a seashore ||contradiction
+the ball is not yellow ||contradiction
+the dog is not with the ball ||contradiction
+the ball is not at the seashore ||contradiction

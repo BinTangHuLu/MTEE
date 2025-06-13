@@ -1,0 +1,3 @@
+There are not men. ||contradiction
+There is not equipment. ||contradiction
+The men are not near equipment. ||contradiction

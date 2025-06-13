@@ -1,0 +1,5 @@
+There is a body. ||Entailment
+There is a account. ||Entailment
+There is a canvas. ||Entailment
+The body is having the picture. ||Contradiction
+The account is taken inside the tent. ||Entailment

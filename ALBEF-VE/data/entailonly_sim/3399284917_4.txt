@@ -1,0 +1,3 @@
+there is a baby ||entailment
+there is a female ||entailment
+the baby is being pushed by woman ||entailment

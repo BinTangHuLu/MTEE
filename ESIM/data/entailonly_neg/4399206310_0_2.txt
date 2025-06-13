@@ -1,0 +1,3 @@
+There is not a man. ||contradiction
+There is not a cigarette. ||contradiction
+The man is not holding a cigarette. ||contradiction

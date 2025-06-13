@@ -1,0 +1,3 @@
+There is a dude. ||Entailment
+There are some ambience. ||Entailment
+The dude looks at surroundings. ||Entailment

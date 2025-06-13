@@ -1,0 +1,3 @@
+There are not jackets. ||contradiction
+The jackets are not red. ||contradiction
+The jackets are not being worn. ||contradiction

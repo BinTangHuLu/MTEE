@@ -1,0 +1,8 @@
+There is a player. ||entailment
+There is a ball. ||entailment
+There is a team. ||entailment
+There is an opponent. ||entailment
+The player has an orange uniform. ||entailment
+The player has a basketball. ||entailment
+The player is with the ball. ||entailment
+The player is guarded by opponent team player. ||entailment

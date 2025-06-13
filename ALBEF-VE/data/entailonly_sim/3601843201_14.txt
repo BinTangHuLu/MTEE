@@ -1,0 +1,2 @@
+there is a oval ||entailment
+the motorcycle goes around the oval ||entailment

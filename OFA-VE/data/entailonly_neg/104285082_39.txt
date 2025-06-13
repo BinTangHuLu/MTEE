@@ -1,0 +1,5 @@
+There is not a man. ||Contradiction
+There is not an object. ||Contradiction
+There are not hands. ||Contradiction
+The man is not holding the object. ||Contradiction
+The object is not in hands. ||Contradiction

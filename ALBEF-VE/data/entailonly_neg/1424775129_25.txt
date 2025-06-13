@@ -1,0 +1,5 @@
+there is not a boy ||contradiction
+there are not some tracks ||contradiction
+there is not a stick ||contradiction
+the boy does not count the tracks ||neutral
+the tracks are not with the stick ||contradiction

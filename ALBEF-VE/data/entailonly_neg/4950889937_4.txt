@@ -1,0 +1,3 @@
+there are not streets ||contradiction
+the streets are not asian ||contradiction
+the streets are not busy ||contradiction

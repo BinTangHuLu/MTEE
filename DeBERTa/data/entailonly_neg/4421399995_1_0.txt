@@ -1,0 +1,4 @@
+There is not a man. ||contradiction
+There is not a fish. ||contradiction
+The man does not watch the other. ||contradiction
+The other does not clean the fish. ||contradiction

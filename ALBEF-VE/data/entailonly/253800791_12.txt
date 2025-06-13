@@ -1,0 +1,7 @@
+there are guys ||entailment
+there are techniques ||entailment
+there is a game ||entailment
+there is a park ||entailment
+the guys are watching techniques ||entailment
+the techniques are for playing game ||neutral
+the game is at park ||entailment

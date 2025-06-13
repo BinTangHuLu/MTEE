@@ -1,0 +1,8 @@
+There is not a Kid. ||Contradiction
+There is not a shirt. ||Contradiction
+There is not a guitar. ||Contradiction
+The shirt is not red and white striped. ||Entailment
+The shirt is not red. ||Entailment
+The shirt is not striped. ||Contradiction
+The guitar is not electric. ||Entailment
+The Kid is not holding a guitar. ||Contradiction

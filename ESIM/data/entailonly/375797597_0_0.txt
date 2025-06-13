@@ -1,0 +1,7 @@
+There is a man. ||entailment
+The man is black. ||entailment
+The man has no hair. ||entailment
+The glasses are safety. ||entailment
+The glasses are his. ||neutral
+The glasses are on his neck. ||entailment
+The man is wearing glasses. ||entailment

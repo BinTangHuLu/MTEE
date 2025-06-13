@@ -1,0 +1,3 @@
+there are not people ||contradiction
+there is not a building ||contradiction
+the people are not in front of the building ||entailment

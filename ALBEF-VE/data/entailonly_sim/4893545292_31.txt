@@ -1,0 +1,3 @@
+there is a female ||entailment
+the female is standing ||entailment
+the female is looking at something ||entailment

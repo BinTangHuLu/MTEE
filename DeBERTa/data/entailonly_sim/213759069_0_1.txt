@@ -1,0 +1,4 @@
+There is a child. ||entailment
+There is a enlarge. ||entailment
+The enlarge is yellow. ||neutral
+The child has a balloon. ||entailment

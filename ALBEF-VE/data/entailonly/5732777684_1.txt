@@ -1,0 +1,3 @@
+there are kids ||entailment
+there is outside ||entailment
+the kids are outside ||entailment

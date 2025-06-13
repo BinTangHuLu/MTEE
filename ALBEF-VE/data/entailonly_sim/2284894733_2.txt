@@ -1,0 +1,3 @@
+there is a pup ||entailment
+there is some blast ||neutral
+the pup is making noise ||entailment

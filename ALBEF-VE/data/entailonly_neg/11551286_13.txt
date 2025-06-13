@@ -1,0 +1,2 @@
+there is not an infant ||contradiction
+the infant is not crying ||entailment

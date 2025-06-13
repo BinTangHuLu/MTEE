@@ -1,0 +1,3 @@
+There is a Child. ||Entailment
+The Child is playing. ||Entailment
+The Child is playing outside. ||Entailment

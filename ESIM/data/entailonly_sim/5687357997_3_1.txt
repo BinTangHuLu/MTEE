@@ -1,0 +1,2 @@
+There is a pedal. ||entailment
+The body is on the bike. ||entailment

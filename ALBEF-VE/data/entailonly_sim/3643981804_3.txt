@@ -1,0 +1,3 @@
+there is a animal ||entailment
+the clothing is brain ||contradiction
+the animal is wearing clothing ||entailment

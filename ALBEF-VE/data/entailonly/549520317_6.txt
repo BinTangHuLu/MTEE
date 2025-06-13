@@ -1,0 +1,5 @@
+there is a child ||entailment
+there is a coat ||entailment
+the coat is crimson ||neutral
+the child is in the coat ||entailment
+the child cavorts outside ||entailment

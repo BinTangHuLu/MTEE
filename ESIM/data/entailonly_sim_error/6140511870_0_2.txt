@@ -1,0 +1,4 @@
+R,starts
+E,bandanna
+A,going.
+A,starts

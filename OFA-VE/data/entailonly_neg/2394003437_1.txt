@@ -1,0 +1,4 @@
+There is not a boy. ||Contradiction
+There is not a shirt. ||Contradiction
+The shirt is not green. ||Contradiction
+The boy is not in the shirt. ||Entailment

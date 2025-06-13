@@ -1,0 +1,5 @@
+There are men. ||entailment
+There are shoes. ||entailment
+There are two men. ||entailment
+The shoes are shining. ||entailment
+The men are shining shoes. ||entailment

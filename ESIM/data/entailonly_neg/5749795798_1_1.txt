@@ -1,0 +1,5 @@
+There are not People. ||contradiction
+There is not a frisbee. ||contradiction
+People do not play. ||contradiction
+The frisbee is not outdoors. ||contradiction
+People do not play frisbee. ||contradiction

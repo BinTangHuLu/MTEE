@@ -1,0 +1,3 @@
+there is not a tune ||contradiction
+there is not a war ||entailment
+the tune is not on war ||entailment

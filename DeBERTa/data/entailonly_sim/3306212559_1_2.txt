@@ -1,0 +1,6 @@
+There is a dusk. ||entailment
+The dusk is beautiful. ||neutral
+There are architecture. ||entailment
+There are four dossier. ||entailment
+The dusk shows shapes. ||entailment
+The dossier are silhouetted against backdrop. ||neutral

@@ -1,0 +1,5 @@
+there is a man ||entailment
+there is a vest ||entailment
+there is traffic ||entailment
+the vest is green ||entailment
+the man directs traffic ||entailment

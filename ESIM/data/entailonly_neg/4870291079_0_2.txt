@@ -1,0 +1,4 @@
+There is not a man. ||contradiction
+There are not some crutches. ||contradiction
+The man is not outside. ||contradiction
+The man is not on crutches. ||contradiction

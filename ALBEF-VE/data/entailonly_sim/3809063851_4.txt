@@ -1,0 +1,3 @@
+there is a line ||entailment
+there is a arbor ||entailment
+the line plays under gazebo ||entailment

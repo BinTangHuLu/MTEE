@@ -1,0 +1,5 @@
+There is a woman. ||entailment
+There is a couple. ||neutral
+There are children. ||entailment
+The woman is with the couple. ||neutral
+The couple is with the children. ||entailment

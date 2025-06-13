@@ -1,0 +1,7 @@
+there is not someone ||contradiction
+there are not kids ||contradiction
+there are not goods ||contradiction
+there is not a street ||contradiction
+someone is not selling kids ||contradiction
+someone is not selling goods ||contradiction
+someone does not stand on the street ||contradiction

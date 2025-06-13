@@ -1,0 +1,5 @@
+there is not a girl ||contradiction
+there is not a wheelbarrow ||contradiction
+there are not gloves ||contradiction
+the gloves are not wearing ||contradiction
+the girl is not bushes wheelbarrow ||entailment

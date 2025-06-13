@@ -1,0 +1,3 @@
+There are clan. ||neutral
+The clan are blue. ||neutral
+The clan are wearing blue. ||entailment

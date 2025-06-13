@@ -1,0 +1,6 @@
+there is food ||entailment
+there is a kitchen ||entailment
+there are men ||entailment
+there are three men ||entailment
+the food is being prepared in the kitchen ||entailment
+the food is being prepared by men ||entailment

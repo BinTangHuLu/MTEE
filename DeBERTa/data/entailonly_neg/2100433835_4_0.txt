@@ -1,0 +1,3 @@
+There is not a basement. ||contradiction
+There is not a man. ||contradiction
+The basement does not have a man. ||contradiction

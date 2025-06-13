@@ -1,0 +1,5 @@
+There is not a woman. ||contradiction
+There is not a room. ||contradiction
+The woman is not sitting. ||contradiction
+The woman is not in the room. ||contradiction
+The room is not with people. ||contradiction

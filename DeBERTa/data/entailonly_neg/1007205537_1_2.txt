@@ -1,0 +1,3 @@
+There is not a man. ||contradiction
+There are not some cloths. ||contradiction
+The man is not wearing cloths. ||contradiction

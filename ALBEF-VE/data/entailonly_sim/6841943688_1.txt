@@ -1,0 +1,3 @@
+there is a dude ||entailment
+the dude is with saxophone ||entailment
+the dude plays saxophone ||entailment

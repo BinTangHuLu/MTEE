@@ -1,0 +1,6 @@
+there is a woman ||entailment
+there is a cart ||entailment
+there are beverages ||entailment
+the beverages are various ||neutral
+the woman is standing near the cart ||contradiction
+the cart has beverages ||entailment

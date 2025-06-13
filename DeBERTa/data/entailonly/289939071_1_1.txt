@@ -1,0 +1,6 @@
+There are people. ||entailment
+There is a moment. ||entailment
+There is another. ||neutral
+The people are Two. ||neutral
+The people are having moment. ||neutral
+Another avoids looking at them. ||entailment

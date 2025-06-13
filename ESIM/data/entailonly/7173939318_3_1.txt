@@ -1,0 +1,4 @@
+There are people. ||entailment
+There are boats. ||entailment
+The people are boarding boats. ||entailment
+The people are disembarking boats. ||entailment

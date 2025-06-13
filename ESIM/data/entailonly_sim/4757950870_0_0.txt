@@ -1,0 +1,2 @@
+There is a apparel. ||entailment
+The apparel is white. ||entailment

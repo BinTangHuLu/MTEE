@@ -1,0 +1,8 @@
+There is a female. ||entailment
+There is a box. ||entailment
+There is a avenue. ||entailment
+The female is. ||entailment
+The box is. ||entailment
+The avenue is. ||entailment
+The female is carrying the basket. ||entailment
+The box is down the street. ||contradiction

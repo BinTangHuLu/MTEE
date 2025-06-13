@@ -1,0 +1,5 @@
+there is a dude ||entailment
+there is a basin ||entailment
+the dude is in a group ||entailment
+the dude is playing chess ||entailment
+the dude is in the pool ||entailment

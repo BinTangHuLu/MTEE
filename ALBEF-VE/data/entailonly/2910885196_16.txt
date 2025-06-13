@@ -1,0 +1,7 @@
+there are men ||entailment
+there is a woman ||entailment
+there is a knife ||entailment
+there are two men ||entailment
+the men are with woman ||entailment
+the men have knife ||entailment
+the men grin at woman ||entailment

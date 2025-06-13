@@ -1,0 +1,4 @@
+there is a boy ||entailment
+there are some attire ||neutral
+the boy is young ||entailment
+the boy has clothes ||entailment

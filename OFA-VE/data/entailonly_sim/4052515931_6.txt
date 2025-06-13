@@ -1,0 +1,6 @@
+There is a dude. ||Entailment
+There is a beam. ||Entailment
+There is a air. ||Entailment
+The dude is young. ||Entailment
+The dude has a smile. ||Entailment
+The beam is upon the face. ||Contradiction

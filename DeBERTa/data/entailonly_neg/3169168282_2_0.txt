@@ -1,0 +1,4 @@
+There is not a boy. ||contradiction
+There are not some flashcards. ||contradiction
+The boy does not hold flashcards. ||contradiction
+The boy does not have his hands. ||contradiction

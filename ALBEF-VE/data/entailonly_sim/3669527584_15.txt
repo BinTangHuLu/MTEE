@@ -1,0 +1,2 @@
+there is a animal ||entailment
+the animal is posing ||entailment

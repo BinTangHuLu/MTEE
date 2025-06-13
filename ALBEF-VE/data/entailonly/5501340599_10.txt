@@ -1,0 +1,3 @@
+there is a girl ||entailment
+there is some crafts ||entailment
+the girl is making crafts ||neutral

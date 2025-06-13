@@ -1,0 +1,5 @@
+There is a crowd. ||Entailment
+There is a man. ||Entailment
+There are some hats. ||Entailment
+The crowd is watching the man. ||Neutral
+The man is with hats. ||Entailment

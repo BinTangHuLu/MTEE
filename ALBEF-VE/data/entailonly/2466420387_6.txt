@@ -1,0 +1,2 @@
+there are ladies ||entailment
+the ladies are looking at something ||entailment

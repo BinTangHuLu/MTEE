@@ -1,0 +1,7 @@
+There is not a teenager. ||contradiction
+There are not some jeans. ||contradiction
+There is not a guy. ||contradiction
+There is not a road. ||contradiction
+The teenager is not tight. ||contradiction
+The teenager is not speaking to the guy. ||contradiction
+The teenager is not speaking to the road. ||contradiction

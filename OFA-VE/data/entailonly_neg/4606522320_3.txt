@@ -1,0 +1,4 @@
+There are not Men. ||Contradiction
+There is not headwear. ||Contradiction
+The headwear is not wearing. ||Contradiction
+Men are not wearing headwear. ||Contradiction

@@ -1,0 +1,4 @@
+There is not a child. ||contradiction
+There is not some food. ||contradiction
+The child does not have his hands. ||contradiction
+The child does not eat food. ||contradiction

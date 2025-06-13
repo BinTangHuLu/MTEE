@@ -1,0 +1,3 @@
+there are dogs ||entailment
+there is a ball ||entailment
+the dogs play with the ball ||entailment

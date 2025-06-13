@@ -1,0 +1,6 @@
+There is not a Woman. ||contradiction
+There are not some paintings. ||contradiction
+There are not some girls. ||contradiction
+There are not some feet. ||contradiction
+The Woman does not view paintings. ||contradiction
+The Woman is not at feet. ||contradiction

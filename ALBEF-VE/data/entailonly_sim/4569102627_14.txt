@@ -1,0 +1,5 @@
+there is a child ||entailment
+there is some eyebrow ||entailment
+the eyebrow is curly ||entailment
+the child is with hair ||entailment
+the child is drinking straw ||neutral

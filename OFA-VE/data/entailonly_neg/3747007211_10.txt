@@ -1,0 +1,4 @@
+There is not a person. ||Contradiction
+There is not some snow. ||Entailment
+The person is not skiing. ||Contradiction
+The person is not on snow. ||Entailment

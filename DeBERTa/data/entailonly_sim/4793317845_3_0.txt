@@ -1,0 +1,5 @@
+There is a dude. ||entailment
+There is a block. ||entailment
+There is a architecture. ||entailment
+The dude washes off the chunk. ||entailment
+The block is of the building. ||entailment

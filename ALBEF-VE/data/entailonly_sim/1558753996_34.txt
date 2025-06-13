@@ -1,0 +1,4 @@
+there is a dude ||entailment
+there is a area ||entailment
+the dude plays guitar ||entailment
+the guitar is in area ||entailment

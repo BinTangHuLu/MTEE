@@ -1,0 +1,3 @@
+there is a pup ||entailment
+there is some drink ||neutral
+the pup is standing in water ||entailment

@@ -1,0 +1,4 @@
+there is a dude ||entailment
+there is a conspiracy ||neutral
+the dude is on the skateboard ||entailment
+the dude is mastering the trick ||neutral

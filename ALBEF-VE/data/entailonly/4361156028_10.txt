@@ -1,0 +1,4 @@
+there are women ||entailment
+there is a bus ||entailment
+the women are angry ||neutral
+the women are on the bus ||entailment

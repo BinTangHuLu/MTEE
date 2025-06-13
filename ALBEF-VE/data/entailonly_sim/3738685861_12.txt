@@ -1,0 +1,3 @@
+there is a baby ||entailment
+the baby is blond ||entailment
+the baby is playing with ornament ||contradiction

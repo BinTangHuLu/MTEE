@@ -1,0 +1,5 @@
+There is not a mixer. ||contradiction
+There is not a couple. ||contradiction
+The mixer is not new. ||contradiction
+The couple is not new. ||contradiction
+The mixer is not necessary for the couple. ||contradiction

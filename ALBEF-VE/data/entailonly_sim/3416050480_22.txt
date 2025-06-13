@@ -1,0 +1,6 @@
+there is a gentlewoman ||neutral
+there is a colt ||entailment
+there is an barrier ||entailment
+the barrier is plane shaped ||entailment
+the gentlewoman rides the horse ||contradiction
+the colt goes over the obstacle ||entailment

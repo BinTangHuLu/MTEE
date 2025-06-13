@@ -1,0 +1,4 @@
+There are canines. ||entailment
+There is an expanse. ||entailment
+The expanse is sealed. ||entailment
+The canines traverse the expanse. ||entailment

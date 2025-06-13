@@ -1,0 +1,3 @@
+There is a female. ||entailment
+The female is brunette. ||contradiction
+The female is sitting outside cafe. ||entailment

@@ -1,0 +1,4 @@
+there are adolescent ||entailment
+the adolescent are uniformed ||entailment
+there is a athletics ||entailment
+the adolescent play a sport ||entailment

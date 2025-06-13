@@ -1,0 +1,4 @@
+there are dude ||entailment
+there is a attitude ||entailment
+there is a berry ||entailment
+the dude are near the stand ||entailment

@@ -1,0 +1,4 @@
+there is a child ||entailment
+there is an barrier course ||entailment
+the child is outdoor ||entailment
+the child runs through the obstacle course ||entailment

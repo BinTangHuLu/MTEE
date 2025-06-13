@@ -1,0 +1,3 @@
+There is a baby. ||Entailment
+There are boot. ||Entailment
+The baby is wearing shoes. ||Neutral

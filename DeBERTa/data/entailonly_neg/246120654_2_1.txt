@@ -1,0 +1,4 @@
+There are not children. ||contradiction
+There is not a room. ||contradiction
+The children are not clothed. ||contradiction
+The children are not relaxing in the room. ||contradiction

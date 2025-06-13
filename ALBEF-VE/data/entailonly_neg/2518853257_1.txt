@@ -1,0 +1,6 @@
+there are not people ||contradiction
+there are not chairs ||contradiction
+there are not flowers ||contradiction
+the people are blond ||neutral
+the people are not sitting on chairs ||contradiction
+the chairs are not near flowers ||contradiction

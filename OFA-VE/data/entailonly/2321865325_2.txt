@@ -1,0 +1,3 @@
+There are dogs. ||Entailment
+The dogs are small. ||Entailment
+The dogs are different color. ||Entailment

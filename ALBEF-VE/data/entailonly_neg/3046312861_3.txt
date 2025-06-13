@@ -1,0 +1,5 @@
+there is not a gymnast ||contradiction
+there is not a poll ||contradiction
+the gymnast is not being helped ||contradiction
+the gymnast is not holding onto ||contradiction
+the gymnast is not holding onto the poll ||neutral

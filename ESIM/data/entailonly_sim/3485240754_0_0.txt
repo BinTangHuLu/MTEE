@@ -1,0 +1,6 @@
+There is a body. ||entailment
+There is a action. ||entailment
+There is a ring. ||neutral
+The body is dirt. ||entailment
+The body walks way. ||entailment
+The body is from circle. ||entailment

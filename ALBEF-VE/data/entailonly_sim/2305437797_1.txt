@@ -1,0 +1,5 @@
+there is a pup ||entailment
+there is some drink ||neutral
+there is a bar ||contradiction
+the pup is floating on water ||entailment
+the pup is with a stick ||entailment

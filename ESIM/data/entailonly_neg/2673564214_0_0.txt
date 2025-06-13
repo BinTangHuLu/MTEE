@@ -1,0 +1,5 @@
+There is not a boy. ||contradiction
+There are not children. ||contradiction
+The boy does not pose. ||contradiction
+The boy is not in front of children. ||contradiction
+The children are not playing. ||contradiction

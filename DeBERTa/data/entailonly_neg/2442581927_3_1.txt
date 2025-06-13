@@ -1,0 +1,5 @@
+There is not a guy. ||contradiction
+There is not a shirt. ||contradiction
+There is not a bike. ||contradiction
+The guy does not wear the shirt. ||contradiction
+The guy is not on the bike. ||contradiction

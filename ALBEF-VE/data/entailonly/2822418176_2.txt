@@ -1,0 +1,6 @@
+there is a man ||entailment
+there is a statue ||entailment
+there is a chainsaw ||entailment
+the man is carving ||entailment
+the man is carving the statue ||neutral
+the statue is with chainsaw ||entailment

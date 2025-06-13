@@ -1,0 +1,3 @@
+There is a man. ||Entailment
+There are some rocks. ||Entailment
+The man is walking on rocks. ||Entailment

@@ -1,0 +1,5 @@
+There is a bicycle. ||Entailment
+There is a shop. ||Entailment
+There is a worker. ||Entailment
+The worker is at work. ||Entailment
+The worker is at the bicycle. ||Entailment

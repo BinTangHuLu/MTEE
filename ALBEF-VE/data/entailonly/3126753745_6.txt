@@ -1,0 +1,4 @@
+there is a drummer ||entailment
+there is a hat ||entailment
+the hat is red ||neutral
+the drummer is wearing the hat ||entailment

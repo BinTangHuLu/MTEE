@@ -1,0 +1,5 @@
+There is not a girl. ||contradiction
+There is not a bench. ||contradiction
+There is not a stroller. ||contradiction
+The girl does not eat on the bench. ||contradiction
+The bench is not near the stroller. ||contradiction

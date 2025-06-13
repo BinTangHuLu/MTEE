@@ -1,0 +1,3 @@
+There are not girls. ||contradiction
+There is not an animal. ||contradiction
+The girls are not near the animal. ||contradiction

@@ -1,0 +1,3 @@
+there is a dude ||entailment
+there is a appendage ||entailment
+the dude raises hand ||entailment

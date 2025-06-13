@@ -1,0 +1,3 @@
+There are dude. ||Contradiction
+There are two dude. ||Contradiction
+The dude were outdoors walking. ||Entailment

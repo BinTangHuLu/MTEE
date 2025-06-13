@@ -1,0 +1,3 @@
+there are not men ||contradiction
+there is not a task ||contradiction
+the men are not working on the task ||contradiction

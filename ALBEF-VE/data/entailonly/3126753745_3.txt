@@ -1,0 +1,3 @@
+there is a musician ||entailment
+there is an instrument ||entailment
+the musician plays the instrument ||entailment

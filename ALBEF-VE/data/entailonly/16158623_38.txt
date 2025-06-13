@@ -1,0 +1,8 @@
+there is a man ||entailment
+there is a pyramid ||entailment
+there is a bottom ||entailment
+there is a human ||entailment
+the pyramid is human ||neutral
+the bottom is all gray ||neutral
+the man is on the bottom ||entailment
+the bottom is of the pyramid ||neutral

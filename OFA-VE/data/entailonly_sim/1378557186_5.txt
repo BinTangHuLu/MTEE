@@ -1,0 +1,3 @@
+There is a dude. ||Entailment
+There is a cannon. ||Contradiction
+The dude wields the gun. ||Entailment

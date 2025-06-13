@@ -1,0 +1,4 @@
+there is a pup ||entailment
+there is a architecture ||entailment
+the pup is playing ||entailment
+the pup is playing in front of the building ||entailment

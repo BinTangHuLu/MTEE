@@ -1,0 +1,4 @@
+There is a female. ||entailment
+There is a gallery. ||contradiction
+The female is old. ||entailment
+The female is in the kitchen. ||entailment

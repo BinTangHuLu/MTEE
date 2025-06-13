@@ -1,0 +1,5 @@
+There is not a girl. ||contradiction
+There is not a leotard. ||contradiction
+The girl is not young. ||contradiction
+The leotard is not black. ||contradiction
+The girl is not wearing a leotard. ||contradiction

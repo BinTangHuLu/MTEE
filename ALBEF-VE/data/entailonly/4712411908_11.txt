@@ -1,0 +1,4 @@
+there is a lady ||entailment
+there is a work of art ||entailment
+the lady does stretches ||entailment
+the lady stretches on the work of art ||entailment

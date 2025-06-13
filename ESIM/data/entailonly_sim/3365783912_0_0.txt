@@ -1,0 +1,5 @@
+There are dude. ||entailment
+The dude are older. ||entailment
+There is a avenue. ||entailment
+The avenue is defaced. ||entailment
+The dude walk down the street. ||entailment

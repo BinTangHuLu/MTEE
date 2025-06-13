@@ -1,0 +1,4 @@
+there is a covers ||entailment
+there is a chair ||neutral
+there is a papsan ||entailment
+the covers is on chair ||neutral

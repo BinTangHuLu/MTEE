@@ -1,0 +1,3 @@
+There is a woman. ||Entailment
+There is some water. ||Entailment
+The woman is near water. ||Entailment

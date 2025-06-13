@@ -1,0 +1,4 @@
+there are not people ||contradiction
+there is not a day ||contradiction
+the day is not over ||entailment
+the people are sitting on the day ||contradiction

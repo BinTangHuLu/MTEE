@@ -1,0 +1,3 @@
+there are not women ||contradiction
+there is not a job ||contradiction
+the women are not at the job ||entailment

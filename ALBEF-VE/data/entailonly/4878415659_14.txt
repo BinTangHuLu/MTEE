@@ -1,0 +1,5 @@
+there is a boy ||entailment
+there is a lady ||entailment
+the boy is small ||entailment
+the lady is heels ||entailment
+the boy doesnt see the lady ||neutral

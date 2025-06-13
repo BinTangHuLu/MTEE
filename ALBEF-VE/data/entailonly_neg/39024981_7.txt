@@ -1,0 +1,8 @@
+there are not women ||contradiction
+there are not t shirts ||contradiction
+there are not jeans ||contradiction
+there is not a clothing store ||contradiction
+the women are not two ||entailment
+the t shirts are not wearing ||contradiction
+the jeans are not blue ||entailment
+the women do not converse outside the clothing store ||contradiction

@@ -1,0 +1,6 @@
+there are not people ||contradiction
+there is not grass ||contradiction
+there is not a violin ||contradiction
+there is not a guitar ||contradiction
+people do not sit in grass ||contradiction
+the violin is not being played by a guitar ||entailment

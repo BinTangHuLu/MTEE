@@ -1,0 +1,3 @@
+There is a child. ||Entailment
+The child is high. ||Entailment
+The child is in the air. ||Entailment

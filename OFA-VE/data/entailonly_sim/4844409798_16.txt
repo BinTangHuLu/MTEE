@@ -1,0 +1,6 @@
+There is a child. ||Entailment
+The child is young. ||Entailment
+The blouse is red. ||Contradiction
+The blouse is red. ||Contradiction
+The child is walking next to someone. ||Entailment
+The child is wearing a red shirt. ||Neutral

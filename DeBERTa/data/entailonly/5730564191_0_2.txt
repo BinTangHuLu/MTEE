@@ -1,0 +1,7 @@
+There is a human being. ||entailment
+There is a kitchen. ||entailment
+There is meat. ||entailment
+The human being is in. ||entailment
+The meat is in front of. ||entailment
+The human being is in the kitchen. ||entailment
+The human being is with meat. ||entailment

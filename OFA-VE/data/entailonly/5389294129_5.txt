@@ -1,0 +1,4 @@
+There are people. ||Entailment
+There is a flag. ||Entailment
+The people are waving. ||Entailment
+The people are waving a flag. ||Entailment

@@ -1,0 +1,3 @@
+there is a dude ||entailment
+there are band ||entailment
+the dude waves hands ||entailment

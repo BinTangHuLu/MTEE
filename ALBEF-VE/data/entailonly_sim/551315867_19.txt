@@ -1,0 +1,3 @@
+there are dude ||entailment
+there are arm ||entailment
+dude are trimming branches ||entailment

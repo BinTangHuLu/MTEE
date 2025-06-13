@@ -1,0 +1,3 @@
+there are child ||entailment
+there is bill ||entailment
+the child are about to get money ||neutral

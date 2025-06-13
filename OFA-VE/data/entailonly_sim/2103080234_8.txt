@@ -1,0 +1,4 @@
+There are community. ||Entailment
+There is a anniversary. ||Neutral
+The anniversary is outdoor. ||Neutral
+community are attending festival. ||Entailment

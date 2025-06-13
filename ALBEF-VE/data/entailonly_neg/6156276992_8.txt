@@ -1,0 +1,5 @@
+there is not a man ||contradiction
+there are not some binoculars ||contradiction
+there are not some mountains ||contradiction
+the man does not look through binoculars ||contradiction
+the binoculars are not toward mountains ||contradiction

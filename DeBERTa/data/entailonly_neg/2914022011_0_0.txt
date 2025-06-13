@@ -1,0 +1,4 @@
+There is not a man. ||contradiction
+There is not a wall. ||contradiction
+The man does not stand by the wall. ||contradiction
+The wall is not outside. ||contradiction

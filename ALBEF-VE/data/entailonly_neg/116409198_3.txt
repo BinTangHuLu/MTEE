@@ -1,0 +1,5 @@
+there is not a man ||contradiction
+there is not a tent ||contradiction
+there is not a mountainside ||contradiction
+the man is not near the tent ||contradiction
+the tent is not on the mountainside ||contradiction

@@ -1,0 +1,3 @@
+There is a hot air balloon. ||entailment
+The hot air balloon is hot. ||entailment
+The hot air balloon is making landing. ||entailment

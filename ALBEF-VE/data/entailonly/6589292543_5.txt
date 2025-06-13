@@ -1,0 +1,3 @@
+there is a person ||entailment
+there is a store ||entailment
+the person is at the store ||contradiction

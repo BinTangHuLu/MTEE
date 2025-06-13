@@ -1,0 +1,7 @@
+there are dude ||entailment
+there is a female ||entailment
+there is a bayonet ||entailment
+there are two dude ||entailment
+the dude are with woman ||entailment
+the dude have knife ||entailment
+the dude grin at woman ||entailment

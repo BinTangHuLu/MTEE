@@ -1,0 +1,3 @@
+there is a boy ||entailment
+there is a performer ||entailment
+the boy is watching the performer ||entailment

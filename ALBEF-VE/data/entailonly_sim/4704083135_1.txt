@@ -1,0 +1,4 @@
+there is a body ||entailment
+there is some eyebrow ||neutral
+the eyebrow is contrasting ||neutral
+the body is moving around clothing ||entailment

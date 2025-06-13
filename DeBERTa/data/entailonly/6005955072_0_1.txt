@@ -1,0 +1,5 @@
+There is a man. ||entailment
+There is an instrument. ||entailment
+The man plays. ||entailment
+The man has eyes closed. ||entailment
+The man plays with instrument. ||entailment

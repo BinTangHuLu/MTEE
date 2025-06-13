@@ -1,0 +1,2 @@
+there is a female ||entailment
+the female is about to throw the ball ||neutral

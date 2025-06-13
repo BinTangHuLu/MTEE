@@ -1,0 +1,5 @@
+There is a dude. ||entailment
+The dude has long hair. ||entailment
+The dude is acting like he. ||entailment
+The dude is on stage. ||neutral
+The dude is talking into a microphone. ||entailment

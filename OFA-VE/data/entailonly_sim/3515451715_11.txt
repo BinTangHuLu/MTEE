@@ -1,0 +1,3 @@
+There are clan. ||Entailment
+There is a estate. ||Contradiction
+The clan are at the park. ||Neutral

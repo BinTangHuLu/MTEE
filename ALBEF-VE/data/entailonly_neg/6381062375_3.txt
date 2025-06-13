@@ -1,0 +1,3 @@
+there is not a woman ||contradiction
+there are not some goggles ||contradiction
+the woman is not wearing goggles ||contradiction

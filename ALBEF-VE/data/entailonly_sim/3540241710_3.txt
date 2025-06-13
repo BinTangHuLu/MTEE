@@ -1,0 +1,2 @@
+there is atmosphere ||entailment
+the skateboarder is in atmosphere ||contradiction

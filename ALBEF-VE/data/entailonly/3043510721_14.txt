@@ -1,0 +1,4 @@
+there is a man ||entailment
+there is some hair ||entailment
+the hair is little ||neutral
+the man has hair ||entailment

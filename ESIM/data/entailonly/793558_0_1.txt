@@ -1,0 +1,5 @@
+There is a girl. ||entailment
+There is a boy. ||entailment
+The boy has his shoes. ||entailment
+The girl helps the boy. ||entailment
+The boy ties shoes. ||entailment

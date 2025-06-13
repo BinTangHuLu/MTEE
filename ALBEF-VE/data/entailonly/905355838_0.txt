@@ -1,0 +1,3 @@
+there is a player ||entailment
+there is a crowd ||entailment
+the player faces crowd ||entailment

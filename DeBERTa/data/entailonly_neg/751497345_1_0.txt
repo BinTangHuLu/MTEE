@@ -1,0 +1,6 @@
+There is not a man. ||contradiction
+There is not a shirt. ||contradiction
+There is not a grill. ||contradiction
+The man is not blue. ||contradiction
+The shirt is not blue. ||contradiction
+The man does not stand by grill. ||contradiction

@@ -1,0 +1,5 @@
+there is a child ||entailment
+there is drink ||entailment
+the tub is elastic ||neutral
+the child is in the tub ||entailment
+the tub is with drink ||entailment

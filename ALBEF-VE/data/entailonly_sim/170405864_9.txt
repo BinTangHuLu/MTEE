@@ -1,0 +1,5 @@
+there is a female ||entailment
+there is a apparel ||entailment
+there is a baby ||contradiction
+the baby is small ||neutral
+the female is carrying the child ||contradiction

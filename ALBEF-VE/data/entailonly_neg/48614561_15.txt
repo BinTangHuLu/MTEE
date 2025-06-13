@@ -1,0 +1,5 @@
+there is not a child ||contradiction
+there is not a child ||contradiction
+the child is not young ||entailment
+the child did not take something ||contradiction
+something is not from the child ||entailment

@@ -1,0 +1,4 @@
+There is not a person. ||contradiction
+There is not a fish. ||contradiction
+The person is not slicing up fish. ||contradiction
+The fish is not to sell. ||contradiction

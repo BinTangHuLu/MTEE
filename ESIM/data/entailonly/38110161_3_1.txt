@@ -1,0 +1,7 @@
+There is a group. ||entailment
+There are some people. ||entailment
+There is some music. ||entailment
+There is an outdoors. ||entailment
+The group is old. ||entailment
+The group is playing music. ||entailment
+The people are playing music. ||entailment

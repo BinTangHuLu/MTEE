@@ -1,0 +1,3 @@
+there is a person ||entailment
+there is a car ||entailment
+the person was standing by the car ||contradiction

@@ -1,0 +1,4 @@
+There is a circle. ||neutral
+There is a architecture. ||entailment
+The architecture is large red. ||entailment
+The circle relaxes in front of the building. ||entailment

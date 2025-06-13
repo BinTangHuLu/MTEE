@@ -1,0 +1,5 @@
+There is a man. ||entailment
+There is a shirt. ||entailment
+There is a wristband. ||entailment
+There are drums. ||entailment
+The man plays drums. ||entailment

@@ -1,0 +1,3 @@
+There is a man. ||entailment
+There is a person. ||entailment
+The man is near another person. ||entailment

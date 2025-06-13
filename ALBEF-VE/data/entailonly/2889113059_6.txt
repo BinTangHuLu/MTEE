@@ -1,0 +1,8 @@
+there is a group ||entailment
+there are some people ||entailment
+there are some instruments ||entailment
+there is a man ||entailment
+there is a microphone ||entailment
+the people are with instruments ||entailment
+the people are near the man ||entailment
+the man is with the microphone ||entailment

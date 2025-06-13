@@ -1,0 +1,6 @@
+there is not an athlete ||contradiction
+there is not a uniform ||contradiction
+there is not a ball ||contradiction
+the uniform is not red ||contradiction
+the athlete is not in uniform ||contradiction
+the athlete does not handle the ball ||contradiction

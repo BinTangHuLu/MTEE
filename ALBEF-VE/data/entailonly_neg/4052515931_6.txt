@@ -1,0 +1,6 @@
+there is not a man ||contradiction
+there is not a smile ||contradiction
+there is not a face ||contradiction
+the man is not young ||entailment
+the man does not have a smile ||contradiction
+the smile is not upon the face ||entailment

@@ -1,0 +1,4 @@
+there is a dude ||entailment
+there is a beat ||entailment
+the dude is smiling ||entailment
+the dude is wearing a cap ||entailment

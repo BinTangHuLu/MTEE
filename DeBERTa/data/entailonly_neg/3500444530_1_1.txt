@@ -1,0 +1,6 @@
+There is not someone. ||contradiction
+There is not a shirt. ||contradiction
+There is not a box. ||contradiction
+The shirt is not plaid. ||contradiction
+Someone does not sit on the box. ||contradiction
+Someone does not have something. ||contradiction

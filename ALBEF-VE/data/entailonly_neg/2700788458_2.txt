@@ -1,0 +1,4 @@
+there is not a person ||contradiction
+there is not someone ||contradiction
+the person is not trying to punch ||contradiction
+the person is trying to punch someonenot ||neutral

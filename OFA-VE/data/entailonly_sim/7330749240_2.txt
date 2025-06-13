@@ -1,0 +1,4 @@
+There are auto. ||Entailment
+There is a oval. ||Entailment
+The auto are on the racetrack. ||Entailment
+The auto are racing. ||Entailment

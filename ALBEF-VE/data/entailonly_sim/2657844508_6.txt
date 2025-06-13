@@ -1,0 +1,4 @@
+there is a set ||entailment
+there is some alcohol ||entailment
+the set is drinking ||entailment
+the set is drinking wine ||neutral

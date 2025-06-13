@@ -1,0 +1,7 @@
+there is not a girl ||contradiction
+there is not a dress ||contradiction
+there is not a hat ||contradiction
+there are not packages ||contradiction
+the girl is not little ||contradiction
+there are not two packages ||contradiction
+the girl is not holding packages ||contradiction

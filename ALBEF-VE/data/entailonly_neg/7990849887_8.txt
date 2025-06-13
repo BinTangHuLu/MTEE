@@ -1,0 +1,3 @@
+there are not artists ||contradiction
+there are not two artists ||contradiction
+the artists are not performing live ||contradiction

@@ -1,0 +1,4 @@
+There are community. ||neutral
+There is crop. ||entailment
+There is a advertise. ||entailment
+community buy at market. ||neutral

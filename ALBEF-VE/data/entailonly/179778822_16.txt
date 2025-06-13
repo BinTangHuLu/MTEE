@@ -1,0 +1,4 @@
+there is a mother ||entailment
+there is a child ||entailment
+there is a reflection ||entailment
+the mother gazes at the reflection ||entailment

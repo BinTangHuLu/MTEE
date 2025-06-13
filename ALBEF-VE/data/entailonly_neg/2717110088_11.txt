@@ -1,0 +1,5 @@
+there are not people ||contradiction
+there is not a bed ||contradiction
+there is not a store ||contradiction
+the people did not lie in the bed ||contradiction
+the people are not in the store ||contradiction

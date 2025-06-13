@@ -1,0 +1,5 @@
+There is a thing. ||Entailment
+There is a man. ||Entailment
+There is fire. ||Entailment
+The man is holding the thing. ||Entailment
+The thing is on fire. ||Entailment

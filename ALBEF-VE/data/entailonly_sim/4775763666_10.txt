@@ -1,0 +1,2 @@
+there is a association ||entailment
+the association is working with each other ||entailment

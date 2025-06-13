@@ -1,0 +1,4 @@
+There is not a member. ||contradiction
+There is not an army. ||contradiction
+There is not a German Shepard. ||contradiction
+The member does not walk German Shepard. ||contradiction

@@ -1,0 +1,2 @@
+EA,People,dressed in Japanese clothing
+E1RE2,People,walk through,courtyard

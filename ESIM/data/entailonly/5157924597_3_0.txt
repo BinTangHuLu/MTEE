@@ -1,0 +1,4 @@
+There is a man. ||entailment
+The man has performance. ||entailment
+There is a house. ||entailment
+The man was outside of the house. ||entailment

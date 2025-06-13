@@ -1,0 +1,4 @@
+There are dude. ||entailment
+The dude are naked. ||entailment
+The dude are practicing dance moves. ||entailment
+The dude are practicing on street. ||entailment

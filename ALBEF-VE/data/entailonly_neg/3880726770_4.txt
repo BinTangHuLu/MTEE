@@ -1,0 +1,5 @@
+there are not spices ||contradiction
+there are not goods ||contradiction
+there is not a shop ||contradiction
+the spices are not put in display in the shop ||contradiction
+the goods are not put in display in the shop ||contradiction

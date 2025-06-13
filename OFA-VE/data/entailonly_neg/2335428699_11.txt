@@ -1,0 +1,4 @@
+There are not children. ||Contradiction
+There is not winter. ||Contradiction
+The children are not playing. ||Contradiction
+The children are not playing during winter. ||Neutral

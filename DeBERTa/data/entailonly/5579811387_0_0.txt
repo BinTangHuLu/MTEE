@@ -1,0 +1,5 @@
+There is a man. ||entailment
+There is a tie. ||entailment
+There is a laptop. ||entailment
+The man adjusts the tie. ||entailment
+The man is looking at the laptop. ||entailment

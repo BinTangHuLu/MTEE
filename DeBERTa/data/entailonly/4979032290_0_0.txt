@@ -1,0 +1,8 @@
+There is someone. ||entailment
+There is a man. ||entailment
+There is a helmet. ||entailment
+There is clown makeup. ||entailment
+There is a shirt. ||entailment
+Someone is in a helmet. ||entailment
+Someone is in clown makeup. ||entailment
+Someone is talking to a man. ||entailment

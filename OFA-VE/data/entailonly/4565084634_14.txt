@@ -1,0 +1,4 @@
+There is a man. ||Entailment
+There is a woman. ||Entailment
+The man is walking. ||Entailment
+The man is walking with the woman. ||Neutral

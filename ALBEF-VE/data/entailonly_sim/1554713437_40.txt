@@ -1,0 +1,3 @@
+there is a forest ||entailment
+the forest is dead ||neutral
+the forest is dead ||neutral

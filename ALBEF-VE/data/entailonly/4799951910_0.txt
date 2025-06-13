@@ -1,0 +1,5 @@
+there is a guy ||entailment
+there is a hat ||entailment
+there is a wall ||entailment
+the hat is with guy ||entailment
+the guy is sitting on wall ||entailment

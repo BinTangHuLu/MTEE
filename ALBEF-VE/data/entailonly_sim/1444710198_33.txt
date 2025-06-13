@@ -1,0 +1,6 @@
+there are child ||entailment
+there are sand ||neutral
+there is a expanse ||entailment
+the expanse is open ||entailment
+the child are throwing rocks ||entailment
+the sand are near the sea ||neutral

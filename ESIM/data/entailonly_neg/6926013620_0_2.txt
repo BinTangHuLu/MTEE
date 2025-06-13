@@ -1,0 +1,3 @@
+There is not a strainer. ||contradiction
+There is not some liquid. ||contradiction
+The strainer does not contain liquid. ||contradiction

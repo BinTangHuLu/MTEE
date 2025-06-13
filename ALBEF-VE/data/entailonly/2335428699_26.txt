@@ -1,0 +1,6 @@
+there are children ||entailment
+there is snow ||entailment
+there is a trampoline ||entailment
+there are four children ||entailment
+the children are outside in snow ||entailment
+the children are on trampoline ||entailment

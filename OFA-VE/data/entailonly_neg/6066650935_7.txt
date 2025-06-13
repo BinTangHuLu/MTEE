@@ -1,0 +1,4 @@
+There are not friends. ||Contradiction
+There is not a bicycle. ||Contradiction
+There is not a ride. ||Contradiction
+The friends do not go for the bicycle. ||Contradiction

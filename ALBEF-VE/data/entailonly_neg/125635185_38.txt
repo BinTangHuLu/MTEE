@@ -1,0 +1,4 @@
+there is not a boy ||contradiction
+there is not a girl ||contradiction
+the boy and girl are not swinging ||contradiction
+the boy is not swinging outside ||contradiction

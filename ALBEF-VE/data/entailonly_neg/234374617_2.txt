@@ -1,0 +1,4 @@
+there is not a man ||contradiction
+there is not a cellphone ||contradiction
+the man is not outside the cellphone ||contradiction
+the man is not talking on the cellphone ||entailment

@@ -1,0 +1,5 @@
+there is a child ||entailment
+there is a t blouse ||entailment
+there is an backhoe ||entailment
+the t blouse is white ||entailment
+the child plays on the excavator ||contradiction

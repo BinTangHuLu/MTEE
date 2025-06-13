@@ -1,0 +1,4 @@
+there is a group ||entailment
+there are men ||entailment
+there are discs ||entailment
+the men are hurling discs ||entailment

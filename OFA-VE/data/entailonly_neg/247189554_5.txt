@@ -1,0 +1,4 @@
+There is not a man. ||Contradiction
+There are not some legs. ||Entailment
+The legs are not crossed. ||Entailment
+The man does not have legs. ||Entailment

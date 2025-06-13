@@ -1,0 +1,3 @@
+there are children ||entailment
+there is an animal ||entailment
+the children interact with the animal ||entailment

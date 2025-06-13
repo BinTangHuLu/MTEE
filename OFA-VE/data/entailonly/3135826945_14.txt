@@ -1,0 +1,5 @@
+There is a person. ||Entailment
+There is a child. ||Entailment
+There is a book. ||Entailment
+The child is small. ||Entailment
+The person has the book. ||Entailment

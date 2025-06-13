@@ -1,0 +1,5 @@
+there is a man ||entailment
+there is a shirt ||entailment
+there is a sidewalk ||entailment
+the shirt is red ||entailment
+the man is walking down sidewalk ||neutral

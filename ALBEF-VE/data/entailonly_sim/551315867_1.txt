@@ -1,0 +1,5 @@
+there are dude ||entailment
+there is a boost ||neutral
+there are flora ||entailment
+the dude are in the crane ||entailment
+the boost looks at trees ||entailment

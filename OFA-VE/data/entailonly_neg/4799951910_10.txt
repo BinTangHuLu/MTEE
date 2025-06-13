@@ -1,0 +1,4 @@
+There are not men. ||Entailment
+There is not a picture. ||Entailment
+There are not apartments. ||Entailment
+The men are not in the picture. ||Entailment

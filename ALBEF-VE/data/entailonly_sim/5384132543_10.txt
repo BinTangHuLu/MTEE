@@ -1,0 +1,4 @@
+there is a body ||entailment
+there is some drink ||neutral
+the body is diving ||entailment
+the body is diving into water ||entailment

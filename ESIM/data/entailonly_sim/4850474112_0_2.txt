@@ -1,0 +1,3 @@
+There are community. ||neutral
+There is a capital. ||entailment
+The community populate the city. ||entailment

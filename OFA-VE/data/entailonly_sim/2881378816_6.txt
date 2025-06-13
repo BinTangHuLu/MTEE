@@ -1,0 +1,3 @@
+There is a art. ||Entailment
+The art is alot. ||Entailment
+The art has alot. ||Entailment

@@ -1,0 +1,5 @@
+There is a aisle. ||Contradiction
+There is an field. ||Entailment
+The field is wooded. ||Neutral
+Kids walk down the aisle. ||Contradiction
+The aisle is in the area. ||Contradiction

@@ -1,0 +1,4 @@
+There is a dude. ||Entailment
+There are some equipment. ||Entailment
+The dude carries objects. ||Entailment
+The equipment are in arms. ||Contradiction

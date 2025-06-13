@@ -1,0 +1,4 @@
+there are clan ||entailment
+there is act ||entailment
+the clan are doing schoolwork ||entailment
+the act is on chalkboards ||entailment

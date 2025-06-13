@@ -1,0 +1,4 @@
+There are not people. ||contradiction
+There are not two people. ||contradiction
+The people do not work outside. ||contradiction
+The work is not done by people. ||contradiction

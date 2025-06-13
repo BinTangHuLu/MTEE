@@ -1,0 +1,6 @@
+there is not a woman ||contradiction
+there is not a hat ||contradiction
+there is not a cookie ||contradiction
+the hat is not orange ||entailment
+the woman is not wearing a hat ||contradiction
+the woman is not eating a cookie ||contradiction

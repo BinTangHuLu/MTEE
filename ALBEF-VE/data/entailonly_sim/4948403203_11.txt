@@ -1,0 +1,9 @@
+there is a footwear edge ||entailment
+there are specs ||entailment
+there is a dude ||entailment
+there is a panel ||entailment
+there is a community ||entailment
+the panel is brightly colored ||entailment
+the dude is reading ||entailment
+the dude leans against the post ||entailment
+the dude is reading the newspaper ||neutral

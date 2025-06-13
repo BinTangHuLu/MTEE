@@ -1,0 +1,5 @@
+There is a dude. ||Entailment
+There is a pedal. ||Entailment
+There is a armor. ||Entailment
+The armor is wearing. ||Entailment
+The dude is on bike. ||Entailment

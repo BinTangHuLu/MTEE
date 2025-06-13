@@ -1,0 +1,5 @@
+there are not people ||contradiction
+there is not a table ||contradiction
+there is not a bar ||contradiction
+the people do not sit at the table ||contradiction
+the table is not at the bar ||contradiction

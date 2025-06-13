@@ -1,0 +1,3 @@
+there is a mammal ||entailment
+the mammal is small ||neutral
+the mammal is outdoors ||entailment

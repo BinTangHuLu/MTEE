@@ -1,0 +1,4 @@
+there is a man ||entailment
+the man is bending down ||entailment
+the man is reaching ||entailment
+the man is bending down and reaching towards something ||entailment

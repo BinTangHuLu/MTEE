@@ -1,0 +1,6 @@
+There is a person. ||entailment
+There is a river. ||entailment
+There is a wall. ||entailment
+The person is waterskiing. ||entailment
+The person is in the river. ||entailment
+The river is with the wall. ||entailment

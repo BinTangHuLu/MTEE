@@ -1,0 +1,5 @@
+There is not a male. ||contradiction
+There is not a book. ||contradiction
+There is not a bench. ||contradiction
+The male does not read the book. ||contradiction
+The male is not seated on the bench. ||contradiction

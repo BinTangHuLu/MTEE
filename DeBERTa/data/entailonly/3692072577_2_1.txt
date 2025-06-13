@@ -1,0 +1,4 @@
+There is a couple. ||entailment
+The couple is sitting down. ||entailment
+The couple is smiling. ||entailment
+The couple is smiling at each other. ||entailment

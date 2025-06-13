@@ -1,0 +1,3 @@
+There are not people. ||contradiction
+There are not paint brushes. ||contradiction
+The people are not using paint brushes. ||contradiction

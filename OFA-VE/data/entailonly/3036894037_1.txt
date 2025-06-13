@@ -1,0 +1,4 @@
+There are guards. ||Entailment
+There is a person. ||Entailment
+The person is old. ||Entailment
+The guards are near the person. ||Entailment

@@ -1,0 +1,5 @@
+there is a female ||entailment
+there is a timepiece ||entailment
+the female is blond ||entailment
+the timepiece is large ||neutral
+the female has a watch ||entailment

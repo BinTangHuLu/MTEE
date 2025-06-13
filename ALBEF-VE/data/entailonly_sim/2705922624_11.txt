@@ -1,0 +1,7 @@
+there is a dude ||entailment
+there is a image ||entailment
+there are community ||entailment
+there is a estate ||entailment
+the dude is taking a photograph ||entailment
+the dude is taking the photograph of people ||entailment
+the community are in the park ||entailment

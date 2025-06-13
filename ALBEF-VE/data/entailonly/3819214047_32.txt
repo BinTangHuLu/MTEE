@@ -1,0 +1,5 @@
+there is a man ||entailment
+there is a butt ||entailment
+there is a skateboard ||entailment
+the man has a butt ||entailment
+the butt is on the skateboard ||entailment

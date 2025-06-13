@@ -1,0 +1,8 @@
+There are men. ||entailment
+There is clothing. ||entailment
+There is a bike. ||entailment
+There is a moped. ||entailment
+The men are Two. ||entailment
+The clothing is different types of. ||entailment
+The men are comparing bike. ||neutral
+The men are comparing moped. ||neutral

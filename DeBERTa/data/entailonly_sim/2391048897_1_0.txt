@@ -1,0 +1,4 @@
+There are community. ||entailment
+There is a aisle. ||entailment
+There is a alp. ||entailment
+The community are walking along the trail. ||entailment

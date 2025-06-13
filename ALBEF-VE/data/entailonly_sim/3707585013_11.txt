@@ -1,0 +1,7 @@
+there is a association ||entailment
+there is a childbearing ||entailment
+the childbearing is playing guitar ||entailment
+others are giving her cadence ||neutral
+the association is with the female ||entailment
+the childbearing is playing guitar ||entailment
+others are giving her cadence ||neutral

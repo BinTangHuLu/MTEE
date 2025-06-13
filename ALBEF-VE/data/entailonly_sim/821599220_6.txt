@@ -1,0 +1,3 @@
+there is a set ||entailment
+the set is married ||neutral
+the set is hiking ||entailment

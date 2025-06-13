@@ -1,0 +1,3 @@
+there is a human ||entailment
+there is a cat ||entailment
+the human is with cat ||entailment

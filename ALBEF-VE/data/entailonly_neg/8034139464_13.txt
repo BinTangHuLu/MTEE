@@ -1,0 +1,7 @@
+there is not a man ||contradiction
+there is not a club ||contradiction
+there are not people ||contradiction
+the club is not golf ||contradiction
+the man is not raising ||contradiction
+the man is not raising club ||contradiction
+the club is not in front of people ||contradiction

@@ -1,0 +1,3 @@
+there is a girl ||entailment
+there is public ||entailment
+the girl is out in public ||entailment

@@ -1,0 +1,3 @@
+there is a girl ||entailment
+there is a subway ||entailment
+the girl is in the subway ||entailment

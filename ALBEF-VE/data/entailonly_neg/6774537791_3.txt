@@ -1,0 +1,4 @@
+there is not a skier ||contradiction
+there is not a trick ||contradiction
+the trick is not rail ||contradiction
+the skier is not in the middle of trick ||contradiction

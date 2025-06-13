@@ -1,0 +1,5 @@
+there is a man ||entailment
+there is a marks ||entailment
+there is a body ||entailment
+the marks is red ||entailment
+the marks is on body ||entailment

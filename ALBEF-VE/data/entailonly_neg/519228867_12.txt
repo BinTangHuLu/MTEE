@@ -1,0 +1,3 @@
+there is not a boy ||contradiction
+there is not a pool ||contradiction
+the boy is not in the pool ||contradiction

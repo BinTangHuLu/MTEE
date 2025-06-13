@@ -1,0 +1,6 @@
+There is a person. ||entailment
+There is a shirt. ||entailment
+There is a pillar. ||entailment
+The shirt is blue. ||entailment
+The person is wearing the shirt. ||entailment
+The person is chiseling on the pillar. ||entailment

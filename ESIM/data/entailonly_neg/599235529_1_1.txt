@@ -1,0 +1,5 @@
+There is not a couple. ||contradiction
+There is not a bench. ||contradiction
+The couple is not asleep. ||contradiction
+The couple is not on the bench. ||contradiction
+The bench is not outside. ||contradiction

@@ -1,0 +1,5 @@
+there is a worker ||entailment
+there is a stone ||entailment
+there is a boy ||entailment
+the boy is little ||entailment
+the boy is standing next to the worker ||contradiction

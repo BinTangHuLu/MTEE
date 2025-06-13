@@ -1,0 +1,5 @@
+There is a child. ||entailment
+There is a mural. ||contradiction
+The child is standing. ||entailment
+The mural is winter. ||neutral
+The child is standing in the landscape. ||entailment

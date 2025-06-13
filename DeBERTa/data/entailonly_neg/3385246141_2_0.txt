@@ -1,0 +1,5 @@
+There is not a man. ||contradiction
+There is not a skier. ||contradiction
+The man does not photograph. ||contradiction
+The skier is not performing a trick. ||contradiction
+The man does not photograph the skier. ||contradiction

@@ -1,0 +1,7 @@
+There are girls. ||entailment
+The girls are Two. ||entailment
+The girls smile. ||entailment
+The girls are wearing sunglasses. ||entailment
+The girls have sunglasses. ||entailment
+The girls smile. ||entailment
+The girls are wearing sunglasses. ||entailment

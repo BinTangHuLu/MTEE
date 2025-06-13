@@ -1,0 +1,6 @@
+There is a girl. ||entailment
+There is some confetti. ||entailment
+There is a lady. ||entailment
+The girl is young. ||neutral
+The girl is putting in the lady. ||entailment
+The girl is putting in the hair. ||entailment

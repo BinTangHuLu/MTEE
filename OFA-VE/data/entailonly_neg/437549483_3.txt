@@ -1,0 +1,4 @@
+There is not a female. ||Entailment
+There is not a pose. ||Contradiction
+The female is not dark-skinned. ||Entailment
+The female is not in pose. ||Entailment

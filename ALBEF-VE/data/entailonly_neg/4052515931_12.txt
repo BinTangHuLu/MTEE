@@ -1,0 +1,4 @@
+there is not a teen boy ||contradiction
+there is not a backpack ||contradiction
+the teen boy is not smiling ||contradiction
+the teen boy is not holding a backpack ||contradiction

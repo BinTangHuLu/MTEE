@@ -1,0 +1,4 @@
+there is not a kid ||contradiction
+there is not a container ||contradiction
+the container is not open ||contradiction
+the kid is not inside of the container ||contradiction

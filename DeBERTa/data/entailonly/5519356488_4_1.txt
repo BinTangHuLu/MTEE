@@ -1,0 +1,4 @@
+There is a clown. ||entailment
+There is a school. ||entailment
+The school is children's. ||entailment
+The clown is at school. ||entailment

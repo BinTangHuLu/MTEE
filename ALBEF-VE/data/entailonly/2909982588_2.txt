@@ -1,0 +1,4 @@
+there is a man ||entailment
+there is a meal ||entailment
+the man is young ||entailment
+the man is eating the meal ||neutral

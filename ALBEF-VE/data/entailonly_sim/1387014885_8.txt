@@ -1,0 +1,4 @@
+there is a dude ||entailment
+there is a female ||entailment
+the dude is talking to the woman ||entailment
+the dude is outside the woman ||entailment

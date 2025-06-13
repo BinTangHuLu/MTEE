@@ -1,0 +1,5 @@
+there is a baby ||entailment
+there is a hand ||entailment
+there is a rattle ||neutral
+the baby is using hand ||entailment
+the hand is to shake rattle ||contradiction

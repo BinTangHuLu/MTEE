@@ -1,0 +1,3 @@
+there are not boys ||contradiction
+the boys are not running ||entailment
+the boys are not running outdoors ||entailment

@@ -1,0 +1,4 @@
+There is a driver. ||neutral
+It is a sunny period. ||entailment
+The driver has a bike. ||entailment
+The driver is jumping ramps. ||neutral

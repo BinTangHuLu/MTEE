@@ -1,0 +1,7 @@
+there is a female ||entailment
+there is a top ||entailment
+there is a sidewalk ||entailment
+the top is yellow ||entailment
+the female is wearing ||entailment
+the female is wearing the top ||entailment
+the female is walking on the sidewalk ||entailment

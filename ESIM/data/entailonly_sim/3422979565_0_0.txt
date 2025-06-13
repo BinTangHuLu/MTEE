@@ -1,0 +1,3 @@
+There are community. ||neutral
+There is appliance. ||entailment
+The community are indoors near furniture. ||entailment

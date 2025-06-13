@@ -1,0 +1,3 @@
+There is an bodily. ||Entailment
+The bodily is small. ||Entailment
+The bodily is running. ||Entailment

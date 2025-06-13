@@ -1,0 +1,2 @@
+EA,dress,blue
+RE2,is wearing,dress

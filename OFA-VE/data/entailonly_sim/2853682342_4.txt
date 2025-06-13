@@ -1,0 +1,3 @@
+There is a dude. ||Entailment
+The dude is jumping. ||Entailment
+The dude is fast. ||Entailment

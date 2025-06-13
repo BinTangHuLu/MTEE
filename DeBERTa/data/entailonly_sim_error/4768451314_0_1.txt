@@ -1,0 +1,3 @@
+EA,lady,old
+E1R,lady,looks into
+E1RE2,lady,at,table

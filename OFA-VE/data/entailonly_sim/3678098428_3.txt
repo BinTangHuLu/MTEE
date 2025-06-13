@@ -1,0 +1,4 @@
+There is a dude. ||Entailment
+There is a blouse. ||Contradiction
+The blouse is black. ||Neutral
+The dude wears the shirt. ||Entailment

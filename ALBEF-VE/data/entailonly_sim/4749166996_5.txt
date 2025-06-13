@@ -1,0 +1,2 @@
+there is a conversation ||entailment
+the speaker is giving conversation ||entailment

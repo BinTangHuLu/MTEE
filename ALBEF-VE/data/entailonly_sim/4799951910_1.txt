@@ -1,0 +1,10 @@
+there is a dude ||entailment
+there is a blouse ||entailment
+there is a fedora ||neutral
+there is a concrete acceleration ||entailment
+the blouse is bright yellow ||contradiction
+the fedora is brimmed ||neutral
+the dude is in the shirt ||entailment
+the dude is in the hat ||entailment
+the dude sits with another man ||entailment
+the dude is on the concrete rise ||contradiction

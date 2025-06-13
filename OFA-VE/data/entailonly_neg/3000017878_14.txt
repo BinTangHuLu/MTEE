@@ -1,0 +1,3 @@
+There is not a band. ||Contradiction
+There is not a concert. ||Contradiction
+The band is not playing at the concert. ||Contradiction

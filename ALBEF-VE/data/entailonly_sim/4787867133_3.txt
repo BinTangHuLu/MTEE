@@ -1,0 +1,8 @@
+there is a dude ||entailment
+there is a fedora ||contradiction
+there is a attitude ||entailment
+there is a container ||entailment
+the fedora is wearing ||neutral
+the attitude is food ||neutral
+the dude is standing at stand ||entailment
+the dude is leaning against cooler ||entailment

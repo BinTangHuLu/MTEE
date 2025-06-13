@@ -1,0 +1,5 @@
+There are community. ||neutral
+The community are two. ||neutral
+The community are holding. ||neutral
+The blade are fencing. ||entailment
+The community are holding swords. ||neutral

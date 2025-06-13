@@ -1,0 +1,4 @@
+there is not a woman ||contradiction
+there is not a child ||contradiction
+there is not a toy ||contradiction
+the woman was not near the child ||contradiction

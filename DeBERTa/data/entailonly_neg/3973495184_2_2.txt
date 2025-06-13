@@ -1,0 +1,2 @@
+There is not a photo. ||contradiction
+The photo is not red colored. ||entailment

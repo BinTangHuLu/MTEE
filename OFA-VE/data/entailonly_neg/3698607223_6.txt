@@ -1,0 +1,3 @@
+There is not a skier. ||Contradiction
+The skier is not skiing. ||Contradiction
+The skier is not skiing skier. ||Contradiction

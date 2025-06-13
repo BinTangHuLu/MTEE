@@ -1,0 +1,7 @@
+there is not a man ||contradiction
+there is not a jacket ||contradiction
+there are not jeans ||contradiction
+the jacket is not two toned gray ||entailment
+the jacket is not gray ||contradiction
+the jacket is not two toned ||entailment
+the man is not skiing ||contradiction

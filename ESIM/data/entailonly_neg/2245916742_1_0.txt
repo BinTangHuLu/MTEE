@@ -1,0 +1,4 @@
+There is not a human. ||contradiction
+The human is not standing. ||contradiction
+There are not objects. ||contradiction
+The human is not between objects. ||contradiction

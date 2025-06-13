@@ -1,0 +1,5 @@
+There is not a girl. ||contradiction
+There is not some rubble. ||contradiction
+The girl is not young. ||contradiction
+The girl is not Asian. ||contradiction
+The girl is not outside in rubble. ||entailment

@@ -1,0 +1,5 @@
+There is a female. ||entailment
+The female is holding. ||entailment
+The female is her. ||neutral
+The female is holding clippers. ||entailment
+The female is holding in hand. ||entailment

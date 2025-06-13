@@ -1,0 +1,4 @@
+There is a dude. ||Entailment
+There is a apparatus. ||Entailment
+The dude is standing up. ||Contradiction
+The dude is next to the machine. ||Entailment

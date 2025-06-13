@@ -1,0 +1,5 @@
+there are boys ||entailment
+there is a street ||entailment
+there are cars ||entailment
+the boys are near the street ||entailment
+the cars are going by the street ||entailment

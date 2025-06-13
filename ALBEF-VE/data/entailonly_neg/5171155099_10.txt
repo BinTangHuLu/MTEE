@@ -1,0 +1,6 @@
+there is not a man ||contradiction
+there is not a horse ||contradiction
+there is not a parade ||contradiction
+the man is not dressed as military ||contradiction
+the man is not riding the horse ||entailment
+the man is not in the parade ||contradiction

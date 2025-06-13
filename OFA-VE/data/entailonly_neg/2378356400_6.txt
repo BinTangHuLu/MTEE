@@ -1,0 +1,4 @@
+There is not a lady. ||Contradiction
+There is not a child. ||Contradiction
+The child is not young. ||Entailment
+The lady is not together with the child. ||Entailment

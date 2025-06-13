@@ -1,0 +1,5 @@
+there is not a band ||contradiction
+there is not some music ||contradiction
+the band is not small ||contradiction
+the band does not play music ||contradiction
+the band is not dressed in costume ||contradiction

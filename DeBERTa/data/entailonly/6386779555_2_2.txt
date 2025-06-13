@@ -1,0 +1,9 @@
+There is a guy. ||entailment
+There is a skill. ||entailment
+There is a skateboard. ||entailment
+There is a sidewalk. ||entailment
+There is a metropolitan area. ||entailment
+The guy is performing a skill. ||entailment
+The guy is performing a skateboard. ||entailment
+The skateboard is on the sidewalk. ||entailment
+The sidewalk is in the metropolitan area. ||entailment

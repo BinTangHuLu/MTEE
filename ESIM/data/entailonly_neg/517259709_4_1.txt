@@ -1,0 +1,3 @@
+There is not a man. ||contradiction
+There is not a grill. ||contradiction
+The man is not near the grill. ||contradiction

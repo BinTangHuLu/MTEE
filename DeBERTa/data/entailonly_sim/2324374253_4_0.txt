@@ -1,0 +1,3 @@
+There are clan. ||entailment
+The clan are couple of. ||neutral
+The clan are wearing pajamas. ||entailment

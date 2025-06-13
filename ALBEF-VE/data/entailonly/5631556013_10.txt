@@ -1,0 +1,3 @@
+there is a person ||entailment
+there is water ||entailment
+the person is jumping into water ||entailment

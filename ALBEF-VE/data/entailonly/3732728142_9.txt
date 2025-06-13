@@ -1,0 +1,5 @@
+there is a baby ||entailment
+there is a hat ||entailment
+the hat is red ||entailment
+the baby is smiling ||neutral
+the baby is wearing a hat ||entailment

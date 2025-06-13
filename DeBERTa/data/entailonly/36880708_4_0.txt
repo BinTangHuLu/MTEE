@@ -1,0 +1,3 @@
+There is someone. ||entailment
+There is a xylophone. ||entailment
+Someone plays xylophone. ||entailment

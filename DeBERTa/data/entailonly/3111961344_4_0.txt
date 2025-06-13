@@ -1,0 +1,5 @@
+There is a person. ||entailment
+The person is young. ||entailment
+The person is bored. ||entailment
+There is a restaurant. ||entailment
+The person appears in the restaurant. ||entailment

@@ -1,0 +1,3 @@
+there are men ||entailment
+there is produce ||entailment
+the men are shopping for produce ||entailment

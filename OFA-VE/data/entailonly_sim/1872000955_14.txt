@@ -1,0 +1,2 @@
+There is effort. ||Entailment
+The effort is difficult. ||Entailment

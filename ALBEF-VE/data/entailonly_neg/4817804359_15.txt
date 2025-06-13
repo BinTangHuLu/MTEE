@@ -1,0 +1,3 @@
+there is not a person ||contradiction
+there is not a camera ||contradiction
+the person is not near the camera ||entailment

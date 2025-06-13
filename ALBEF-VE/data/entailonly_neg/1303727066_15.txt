@@ -1,0 +1,4 @@
+there is not a man ||contradiction
+there is not a shirt ||contradiction
+the man is not wearing a shirt ||contradiction
+the shirt is not with a peace sign ||contradiction

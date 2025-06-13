@@ -1,0 +1,4 @@
+There is a female. ||Entailment
+There are some clothes. ||Contradiction
+The clothes are orange. ||Neutral
+The female is in clothes. ||Entailment

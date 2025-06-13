@@ -1,0 +1,5 @@
+There is a child. ||Entailment
+There is a frame. ||Entailment
+There is drink. ||Contradiction
+The child runs by the body. ||Entailment
+The frame of water is by water. ||Entailment

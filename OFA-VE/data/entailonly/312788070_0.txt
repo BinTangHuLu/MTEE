@@ -1,0 +1,4 @@
+There are players. ||Entailment
+There is a sport. ||Entailment
+The players are enjoying playing. ||Neutral
+The players are enjoying the sport. ||Neutral

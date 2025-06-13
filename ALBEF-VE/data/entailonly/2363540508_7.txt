@@ -1,0 +1,3 @@
+there is a girl ||entailment
+there is a slide ||entailment
+the girl is inside the slide ||entailment

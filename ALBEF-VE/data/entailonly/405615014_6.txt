@@ -1,0 +1,3 @@
+there is a policeman ||entailment
+there is some traffic ||entailment
+the policeman is directing traffic ||entailment

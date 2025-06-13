@@ -1,0 +1,4 @@
+There is not a car. ||contradiction
+There is not a gas station. ||contradiction
+The car does not set on fire. ||contradiction
+The car does not set on fire at the gas station. ||contradiction

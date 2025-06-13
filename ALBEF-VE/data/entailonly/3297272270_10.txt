@@ -1,0 +1,4 @@
+there are men ||entailment
+there are tutus ||entailment
+the tutus are wearing ||neutral
+the men are wearing tutus ||neutral

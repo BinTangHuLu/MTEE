@@ -1,0 +1,6 @@
+there are flames ||entailment
+there is a car ||entailment
+there is a rear ||entailment
+the car is race ||entailment
+flames are shooting from rear ||entailment
+the car takes off car ||contradiction

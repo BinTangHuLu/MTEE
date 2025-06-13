@@ -1,0 +1,5 @@
+there is a female ||entailment
+there is a hat ||entailment
+the female is wearing ||entailment
+the female is traveling by foot ||entailment
+the female is traveling by foot outside ||entailment

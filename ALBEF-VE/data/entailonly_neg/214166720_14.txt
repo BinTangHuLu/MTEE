@@ -1,0 +1,5 @@
+there is not a man ||contradiction
+there is not an animal ||contradiction
+there is not a child ||contradiction
+the man is not giving the animal ||contradiction
+the animal is not to the child ||contradiction

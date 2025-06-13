@@ -1,0 +1,3 @@
+There is a man. ||entailment
+There is a field. ||entailment
+The man watches the field. ||entailment

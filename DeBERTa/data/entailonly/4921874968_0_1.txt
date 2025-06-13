@@ -1,0 +1,5 @@
+There is Somebody. ||entailment
+There is a bike. ||entailment
+There is a trail. ||entailment
+Somebody is riding the bike. ||entailment
+The bike is on the trail. ||neutral

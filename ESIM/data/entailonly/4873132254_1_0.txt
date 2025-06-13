@@ -1,0 +1,5 @@
+There is a kid. ||entailment
+There is a picture. ||entailment
+There is a girl. ||entailment
+The kid draws a picture. ||entailment
+The picture is of a girl. ||entailment

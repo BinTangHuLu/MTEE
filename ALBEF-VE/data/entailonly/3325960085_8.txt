@@ -1,0 +1,3 @@
+there is a community ||entailment
+there is an event ||entailment
+there are some outdoors ||entailment

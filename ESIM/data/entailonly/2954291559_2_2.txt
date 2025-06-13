@@ -1,0 +1,3 @@
+There is a man. ||neutral
+There is a building. ||entailment
+The man is atop of the building. ||entailment

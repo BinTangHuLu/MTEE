@@ -1,0 +1,2 @@
+there is a bank ||entailment
+the teenagers are outside of the bank ||entailment

@@ -1,0 +1,2 @@
+there are auto ||entailment
+there are some auto outside ||entailment

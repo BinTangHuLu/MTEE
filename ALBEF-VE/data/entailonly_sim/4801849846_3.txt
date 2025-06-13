@@ -1,0 +1,3 @@
+there is a dude ||entailment
+there are equity ||neutral
+the dude is walking near buildings ||entailment

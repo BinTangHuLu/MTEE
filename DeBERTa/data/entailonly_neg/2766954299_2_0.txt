@@ -1,0 +1,5 @@
+There are not women. ||contradiction
+There is not a field. ||contradiction
+There is not rice. ||contradiction
+The women are not Asian. ||contradiction
+The women are not walking in the field. ||contradiction

@@ -1,0 +1,4 @@
+There is a woman. ||entailment
+There is a man. ||entailment
+The woman walks down the street. ||entailment
+The man walks down the street. ||entailment

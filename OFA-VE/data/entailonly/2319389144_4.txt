@@ -1,0 +1,5 @@
+There is a shot. ||Entailment
+There are some people. ||Entailment
+There is a street. ||Entailment
+The shot is of people. ||Entailment
+The people are on the street. ||Entailment

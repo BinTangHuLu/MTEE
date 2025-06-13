@@ -1,0 +1,2 @@
+there is a bar ||entailment
+the ladies are at the bar ||contradiction

@@ -1,0 +1,4 @@
+There is not a girl. ||contradiction
+The girl is not pink. ||contradiction
+The girl is not holding. ||contradiction
+The girl is not umbrella. ||entailment

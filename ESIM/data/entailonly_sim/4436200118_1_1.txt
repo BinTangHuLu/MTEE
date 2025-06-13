@@ -1,0 +1,4 @@
+There is a female. ||entailment
+The female is older than thirty. ||neutral
+There is cold. ||entailment
+The female is outside in winter. ||entailment

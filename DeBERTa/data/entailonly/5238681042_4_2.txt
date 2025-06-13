@@ -1,0 +1,4 @@
+There are workers. ||entailment
+There is a walkway. ||entailment
+The walkway is slippery. ||neutral
+The workers are outside on walkway. ||entailment

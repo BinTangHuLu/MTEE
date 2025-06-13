@@ -1,0 +1,3 @@
+There are dude. ||entailment
+There is a cask. ||entailment
+The dude are emptying the barrel. ||entailment

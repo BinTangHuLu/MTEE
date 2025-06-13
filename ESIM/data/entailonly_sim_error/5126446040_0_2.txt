@@ -1,0 +1,3 @@
+EA,people,three
+E1RE2,people,are standing inside,house
+E1RE2,people,near,each other

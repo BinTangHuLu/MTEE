@@ -1,0 +1,3 @@
+there are jackets ||entailment
+the jackets are fairly similar ||neutral
+the folks have on jackets ||entailment

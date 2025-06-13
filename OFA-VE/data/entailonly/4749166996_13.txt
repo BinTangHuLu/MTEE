@@ -1,0 +1,5 @@
+There is a man. ||Entailment
+There are some gestures. ||Entailment
+There is a podium. ||Entailment
+The man uses gestures. ||Entailment
+The man is speaking at the podium. ||Entailment

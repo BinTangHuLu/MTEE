@@ -1,0 +1,5 @@
+There is a child. ||Entailment
+There is a heart. ||Contradiction
+There is a coaching. ||Entailment
+The child is in the middle. ||Entailment
+The child is in training. ||Entailment

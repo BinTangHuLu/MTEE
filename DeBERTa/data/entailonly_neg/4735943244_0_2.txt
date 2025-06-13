@@ -1,0 +1,4 @@
+There is not a man. ||contradiction
+There is not a walking stick. ||contradiction
+The man is not with a walking stick. ||contradiction
+The man does not sit by himself. ||contradiction

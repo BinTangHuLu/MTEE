@@ -1,0 +1,4 @@
+there are people ||entailment
+there is a park ||entailment
+people talk to one another ||entailment
+people are at park ||entailment

@@ -1,0 +1,5 @@
+there is not a boy ||contradiction
+there is not a hat ||contradiction
+there is not a nike ||contradiction
+the hat is not nike ||neutral
+the boy is not squinting ||contradiction

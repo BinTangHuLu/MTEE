@@ -1,0 +1,5 @@
+There is a employee. ||entailment
+There is a path. ||entailment
+The employee is cement. ||entailment
+The path is new. ||entailment
+The employee is working on sidewalk. ||entailment

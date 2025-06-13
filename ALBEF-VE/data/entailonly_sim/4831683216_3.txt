@@ -1,0 +1,3 @@
+there is a child ||entailment
+there is a bra ||entailment
+the bra is in ||neutral

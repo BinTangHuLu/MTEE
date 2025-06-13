@@ -1,0 +1,8 @@
+there are not kids ||contradiction
+there is not clothing ||contradiction
+the clothing is not summer ||contradiction
+there is not a man ||entailment
+the man is not young ||entailment
+there is not a path ||contradiction
+kids do not follow the man ||contradiction
+the man is not down the path ||entailment

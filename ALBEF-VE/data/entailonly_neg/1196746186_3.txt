@@ -1,0 +1,5 @@
+there is not a woman ||contradiction
+there are not footsteps ||contradiction
+there is not a beach ||contradiction
+the woman does not retrace footsteps ||contradiction
+the footsteps are not at the beach ||contradiction

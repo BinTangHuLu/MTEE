@@ -1,0 +1,3 @@
+There is a man. ||entailment
+There is a direction. ||entailment
+The man is walking in direction. ||entailment

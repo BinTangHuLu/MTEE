@@ -1,0 +1,2 @@
+A,not wearing any clothes
+R,is in

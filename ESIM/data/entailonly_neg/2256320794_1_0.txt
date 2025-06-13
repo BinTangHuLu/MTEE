@@ -1,0 +1,3 @@
+There is not a collie. ||contradiction
+There is not some sand. ||contradiction
+The collie is not standing in sand. ||contradiction

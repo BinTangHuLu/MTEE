@@ -1,0 +1,4 @@
+There is a man. ||Entailment
+There is a skateboard. ||Entailment
+The man is casually dressed. ||Entailment
+The man rides skateboard. ||Entailment

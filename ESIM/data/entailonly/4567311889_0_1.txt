@@ -1,0 +1,5 @@
+There is a baby. ||entailment
+There is a cat. ||entailment
+There is a room. ||entailment
+The baby is in the room. ||entailment
+The cat is in the room. ||contradiction

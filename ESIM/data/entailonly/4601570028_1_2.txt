@@ -1,0 +1,4 @@
+There is a barber. ||entailment
+There is a sports shop. ||entailment
+The barber is eagerly. ||neutral
+The barber waits for sports shop. ||entailment

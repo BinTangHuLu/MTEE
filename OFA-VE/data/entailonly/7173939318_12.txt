@@ -1,0 +1,3 @@
+There are people. ||Entailment
+There are boats. ||Entailment
+The people work on boats. ||Entailment

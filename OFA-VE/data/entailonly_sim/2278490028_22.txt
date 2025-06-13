@@ -1,0 +1,2 @@
+There is a association. ||Entailment
+The association went swimming. ||Neutral

@@ -1,0 +1,5 @@
+There are not people. ||contradiction
+The people do not have differing ages. ||contradiction
+The people are not outside. ||contradiction
+The people are not playing golf. ||contradiction
+There is not golf. ||contradiction

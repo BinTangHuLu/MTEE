@@ -1,0 +1,7 @@
+There is not a man. ||contradiction
+There is not a child. ||contradiction
+There are not steps. ||contradiction
+There is not a bystander. ||contradiction
+The man is not sitting on steps. ||contradiction
+The child is not sitting on steps. ||contradiction
+The man did not see bystander. ||contradiction

@@ -1,0 +1,7 @@
+there is a man ||entailment
+there is an ability ||entailment
+there is a bicycle ||entailment
+the ability is to balance ||entailment
+the bicycle is on one wheel ||entailment
+the man shows the ability ||entailment
+the ability to balance is shown by the bicycle ||entailment

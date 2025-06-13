@@ -1,0 +1,3 @@
+there is a family ||entailment
+there is a birthday ||entailment
+the family is celebrating birthday ||neutral

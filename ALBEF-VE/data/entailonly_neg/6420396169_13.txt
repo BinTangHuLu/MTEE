@@ -1,0 +1,6 @@
+there is not a boy ||contradiction
+there is not a head ||contradiction
+the boy is not small ||contradiction
+the head is hisnot ||contradiction
+the boy is not getting his head ||contradiction
+the head is not shaved by the boy ||entailment

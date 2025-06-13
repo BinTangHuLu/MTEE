@@ -1,0 +1,5 @@
+there are entertainers ||entailment
+there is a show ||entailment
+there are people ||entailment
+the entertainers put on the show ||entailment
+the show is for people ||entailment

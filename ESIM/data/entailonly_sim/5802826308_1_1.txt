@@ -1,0 +1,5 @@
+There are clan. ||neutral
+There is a abbreviate. ||entailment
+There is a capital street. ||neutral
+The clan are looking through the telescope. ||contradiction
+The clan are looking at the city street. ||neutral

@@ -1,0 +1,5 @@
+there are guys ||entailment
+there is a band ||entailment
+there is music ||entailment
+the guys play music ||entailment
+the music is played with the band ||entailment

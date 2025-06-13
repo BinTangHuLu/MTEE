@@ -1,0 +1,3 @@
+there is a man ||entailment
+there are people ||entailment
+the man is standing in front of people ||entailment

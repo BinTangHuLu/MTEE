@@ -1,0 +1,3 @@
+There is a Dog. ||Entailment
+There is outside. ||Entailment
+The Dog lays down outside. ||Neutral

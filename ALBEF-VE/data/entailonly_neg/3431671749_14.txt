@@ -1,0 +1,6 @@
+there are not flames ||contradiction
+there is not a car ||contradiction
+there is not a rear ||contradiction
+the car is not race ||contradiction
+flames are not shooting from rear ||contradiction
+the car does not take off car ||entailment

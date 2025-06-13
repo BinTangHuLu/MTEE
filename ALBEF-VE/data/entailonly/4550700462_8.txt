@@ -1,0 +1,5 @@
+there is a boy ||entailment
+there is a flag ||entailment
+there is a road ||entailment
+the boy is waving the flag ||neutral
+the boy walks down the road ||entailment

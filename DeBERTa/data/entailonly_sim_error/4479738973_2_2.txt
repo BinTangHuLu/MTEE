@@ -1,0 +1,2 @@
+EA,vehicles,are moving
+E1RE2,vehicles,are moving,vehicles

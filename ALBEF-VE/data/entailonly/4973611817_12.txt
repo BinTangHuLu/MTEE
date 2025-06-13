@@ -1,0 +1,2 @@
+there is an officer ||entailment
+the officer is standing ||entailment

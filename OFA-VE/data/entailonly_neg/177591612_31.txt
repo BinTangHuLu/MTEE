@@ -1,0 +1,2 @@
+There are not guys. ||Contradiction
+The guys are not leaning. ||Entailment

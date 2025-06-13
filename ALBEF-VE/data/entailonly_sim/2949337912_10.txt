@@ -1,0 +1,3 @@
+there is a crest ||entailment
+the crest is green ||neutral
+the surfer was riding the crest ||entailment

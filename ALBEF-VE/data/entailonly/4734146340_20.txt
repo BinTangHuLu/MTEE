@@ -1,0 +1,9 @@
+there are men ||entailment
+there is safety gear ||entailment
+there is a pole ||entailment
+there are stripes ||entailment
+the safety gear is orange ||neutral
+the men are dressed in orange safety gear ||entailment
+the men are holding a pole ||entailment
+the men are wearing stripes ||entailment
+the men stand together ||entailment

@@ -1,0 +1,5 @@
+there is a man ||entailment
+there is yellow ||entailment
+there is a building ||entailment
+the man is in yellow ||entailment
+the man is biking past the building ||entailment

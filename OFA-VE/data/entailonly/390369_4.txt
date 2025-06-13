@@ -1,0 +1,2 @@
+There is someone. ||Entailment
+Someone pretends to be a statue. ||Entailment

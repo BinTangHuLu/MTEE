@@ -1,0 +1,7 @@
+there is a person ||entailment
+there is a device ||entailment
+there is a beach ||entailment
+the device is flotation ||neutral
+the beach is clear ||neutral
+the person is enjoying the device ||neutral
+the device is on the beach ||contradiction

@@ -1,0 +1,5 @@
+There is an man. ||entailment
+There is a camcorder. ||entailment
+The man is using. ||neutral
+The camcorder is video. ||entailment
+The man is using camera. ||entailment

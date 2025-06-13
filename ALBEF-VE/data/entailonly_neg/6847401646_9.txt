@@ -1,0 +1,5 @@
+there is not a man ||contradiction
+the man is not red haired ||entailment
+the man is not flexing ||contradiction
+the man is not posing ||contradiction
+the man is not topless ||entailment

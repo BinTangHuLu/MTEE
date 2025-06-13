@@ -1,0 +1,7 @@
+There are not men. ||contradiction
+There is not a ship. ||contradiction
+There are not two men. ||contradiction
+The men are not workers gear. ||contradiction
+The ship is not large. ||contradiction
+The men are not on the ship. ||entailment
+The ship is not with machinery. ||contradiction

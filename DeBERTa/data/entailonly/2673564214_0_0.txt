@@ -1,0 +1,5 @@
+There is a boy. ||entailment
+There are children. ||entailment
+The boy poses. ||entailment
+The boy is in front of children. ||entailment
+The children are playing. ||entailment

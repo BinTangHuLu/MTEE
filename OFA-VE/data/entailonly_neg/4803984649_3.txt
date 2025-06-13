@@ -1,0 +1,4 @@
+There is not a man. ||Entailment
+There are not hands. ||Contradiction
+His hands are hisnot . ||Contradiction
+The man is not holding out hands. ||Contradiction

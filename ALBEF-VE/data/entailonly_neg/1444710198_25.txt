@@ -1,0 +1,7 @@
+there are not boys ||contradiction
+there is not a lake ||contradiction
+there are not rocks ||contradiction
+there is not water ||contradiction
+the boys are not at the lake ||contradiction
+the boys are not playing and skipping rocks ||contradiction
+the rocks are not in the water ||contradiction

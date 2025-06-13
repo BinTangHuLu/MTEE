@@ -1,0 +1,6 @@
+there is a woman ||entailment
+there are arms ||entailment
+the woman is jumping ||entailment
+her arms are her ||neutral
+the woman jumps in air ||entailment
+the woman extends arms ||entailment

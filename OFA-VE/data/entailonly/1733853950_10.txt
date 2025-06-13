@@ -1,0 +1,4 @@
+There are people. ||Entailment
+There are jackets. ||Entailment
+The jackets are black. ||Neutral
+The people are wearing jackets. ||Entailment

@@ -1,0 +1,3 @@
+there is a man ||entailment
+there are some stores ||entailment
+the man is near stores ||entailment

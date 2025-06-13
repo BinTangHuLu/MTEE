@@ -1,0 +1,7 @@
+There is a dude. ||entailment
+There is a bar. ||contradiction
+There is a aviator. ||neutral
+The dude is smoking. ||entailment
+The dude is against the wall. ||entailment
+The bar is with the flier. ||contradiction
+The aviator is on it. ||neutral

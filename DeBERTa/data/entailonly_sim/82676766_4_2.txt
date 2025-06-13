@@ -1,0 +1,5 @@
+There are community. ||entailment
+There is a armchair. ||entailment
+The community are young. ||entailment
+The armchair is black. ||entailment
+The community sit in the chair. ||neutral

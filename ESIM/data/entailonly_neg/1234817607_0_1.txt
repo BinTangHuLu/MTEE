@@ -1,0 +1,5 @@
+There is not a man. ||contradiction
+The man is not old. ||contradiction
+There are not cans. ||contradiction
+The cans are not soda. ||contradiction
+The man does not collect cans. ||contradiction

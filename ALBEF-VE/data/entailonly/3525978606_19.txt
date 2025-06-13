@@ -1,0 +1,3 @@
+there is a girl ||entailment
+there is a dress ||entailment
+the dress is red ||entailment

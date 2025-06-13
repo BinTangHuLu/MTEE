@@ -1,0 +1,13 @@
+there is not a male ||contradiction
+there is not an area ||contradiction
+there is not a path ||contradiction
+there is not a girl ||contradiction
+there is not some wood ||contradiction
+the male is not strolling ||entailment
+the area is not wooded ||contradiction
+the path is not same time ||entailment
+the girl is not teenage ||entailment
+the wood is not stacked ||contradiction
+the male is not going through the area ||entailment
+the male is not on the path ||entailment
+the girl is not trying to go up the wood ||contradiction

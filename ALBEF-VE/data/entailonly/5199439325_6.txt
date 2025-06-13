@@ -1,0 +1,4 @@
+there is a student ||entailment
+there is a project ||entailment
+the project is art ||neutral
+the student is working on the project ||entailment

@@ -1,0 +1,5 @@
+There are not Pretzels. ||contradiction
+The Pretzels are not twisted. ||neutral
+The Pretzels are not made from dough. ||contradiction
+There is not dough. ||contradiction
+The dough is not twisted. ||contradiction

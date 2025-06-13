@@ -1,0 +1,7 @@
+There is a lady. ||entailment
+There is a mirror. ||entailment
+There is a table. ||entailment
+The lady is old. ||entailment
+The lady looks into the mirror. ||entailment
+The lady is at the table. ||entailment
+The mirror is at the table. ||entailment

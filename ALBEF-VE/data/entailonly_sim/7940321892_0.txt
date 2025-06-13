@@ -1,0 +1,7 @@
+there is a chase car ||entailment
+there is a figure ||entailment
+there is a oval ||entailment
+the chase car is red ||neutral
+the chase car is 56 ||neutral
+the chase car is with a number ||entailment
+the chase car is driving along racetrack ||neutral

@@ -1,0 +1,4 @@
+There is not a skater. ||contradiction
+There are not some steps. ||contradiction
+The skater is not high. ||neutral
+The skater did not jump over steps. ||contradiction

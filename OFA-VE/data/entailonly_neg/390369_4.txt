@@ -1,0 +1,2 @@
+There is not someone. ||Contradiction
+Someone does not pretend to be a statue. ||Entailment

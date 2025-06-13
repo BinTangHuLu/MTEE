@@ -1,0 +1,4 @@
+There is a baby. ||entailment
+There are some staircase. ||entailment
+The baby is on steps. ||entailment
+The staircase are inside the library. ||entailment

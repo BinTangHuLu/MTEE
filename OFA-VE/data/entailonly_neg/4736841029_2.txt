@@ -1,0 +1,4 @@
+There is not a girl. ||Contradiction
+There is not a device. ||Contradiction
+The device does not have magnification. ||Entailment
+The girl is not looking through the device. ||Entailment

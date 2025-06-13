@@ -1,0 +1,5 @@
+There is a child. ||entailment
+There is a armor. ||entailment
+The child is young. ||entailment
+The child wears a helmet. ||entailment
+The child is on a motorcycle. ||entailment

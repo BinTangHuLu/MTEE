@@ -1,0 +1,3 @@
+there are female ||entailment
+there is a camcorder ||entailment
+the female are near the camera ||entailment

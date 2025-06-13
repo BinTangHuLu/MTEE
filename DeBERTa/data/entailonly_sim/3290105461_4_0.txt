@@ -1,0 +1,2 @@
+Someone plays agreeable. ||neutral
+There is a agreeable. ||entailment

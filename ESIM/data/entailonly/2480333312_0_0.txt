@@ -1,0 +1,3 @@
+There are boats. ||entailment
+There is a river. ||entailment
+The boats are on the river. ||entailment

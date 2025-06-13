@@ -1,0 +1,8 @@
+there is a body ||entailment
+there is atmosphere ||entailment
+there are bouquet ||entailment
+there are bakery development ||entailment
+the atmosphere is fresh ||neutral
+the body is enjoying air ||neutral
+the body is enjoying aromas ||entailment
+the bouquet are of bakery items ||neutral

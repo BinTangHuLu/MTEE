@@ -1,0 +1,3 @@
+there is a boy ||entailment
+there is a sweatshirt ||entailment
+the boy is in sweatshirt ||entailment

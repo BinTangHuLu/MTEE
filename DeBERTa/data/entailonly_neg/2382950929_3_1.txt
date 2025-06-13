@@ -1,0 +1,4 @@
+There is not a sun. ||contradiction
+The sun is not at its highest point. ||entailment
+The point is not day. ||entailment
+The sun is not at point. ||entailment

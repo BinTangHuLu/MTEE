@@ -1,0 +1,2 @@
+There is not a group. ||Entailment
+There are not some people. ||Entailment

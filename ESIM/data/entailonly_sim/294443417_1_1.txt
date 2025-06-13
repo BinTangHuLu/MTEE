@@ -1,0 +1,7 @@
+There is a child. ||entailment
+There is a fedora. ||contradiction
+The child is goofy. ||entailment
+The child is wearing. ||entailment
+The child is sledding. ||entailment
+The child is wearing a hat. ||entailment
+The child is sledding by himself. ||neutral

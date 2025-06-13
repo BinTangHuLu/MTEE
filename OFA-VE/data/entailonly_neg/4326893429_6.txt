@@ -1,0 +1,2 @@
+There are not Men. ||Entailment
+There are not some outside. ||Contradiction

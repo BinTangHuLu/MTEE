@@ -1,0 +1,3 @@
+there are boys ||entailment
+there is an ocean ||entailment
+the boys are in the ocean ||entailment

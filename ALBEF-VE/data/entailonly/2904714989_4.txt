@@ -1,0 +1,3 @@
+there is a team ||entailment
+there is some equipment ||entailment
+the team is with equipment ||entailment

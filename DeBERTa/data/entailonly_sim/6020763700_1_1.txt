@@ -1,0 +1,5 @@
+There is a gentlewoman. ||neutral
+There is a amount. ||entailment
+There is a call up. ||neutral
+The gentlewoman looks at the product. ||neutral
+The gentlewoman looks up the product. ||neutral

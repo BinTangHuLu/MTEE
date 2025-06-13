@@ -1,0 +1,4 @@
+There are community. ||neutral
+The community are walking. ||entailment
+The community are dirt. ||entailment
+The community are walking in dirt. ||entailment

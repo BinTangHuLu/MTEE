@@ -1,0 +1,4 @@
+There are not children. ||contradiction
+There are not outdoors. ||contradiction
+The children are not Four. ||contradiction
+The children are not playing outdoors. ||contradiction

@@ -1,0 +1,3 @@
+there are jockeys ||entailment
+there are horses ||entailment
+the jockeys race horses ||entailment

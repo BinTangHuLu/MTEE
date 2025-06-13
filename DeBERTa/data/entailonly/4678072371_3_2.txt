@@ -1,0 +1,5 @@
+There are automobiles. ||entailment
+There are humans. ||entailment
+There is a hotel. ||entailment
+The automobiles are outside the hotel. ||entailment
+The humans are outside the hotel. ||entailment

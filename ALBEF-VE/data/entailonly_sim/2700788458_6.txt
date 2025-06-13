@@ -1,0 +1,3 @@
+there are community ||entailment
+there is a animosity ||entailment
+the community are having a disagreement ||entailment

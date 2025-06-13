@@ -1,0 +1,4 @@
+A,red
+A,blue
+A,white and brown
+E1R,African American,walks in front of

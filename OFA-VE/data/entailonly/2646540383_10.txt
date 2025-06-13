@@ -1,0 +1,2 @@
+There is a boy. ||Entailment
+The boy is swimming. ||Entailment

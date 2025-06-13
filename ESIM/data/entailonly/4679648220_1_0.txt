@@ -1,0 +1,5 @@
+There is a girl. ||entailment
+There is a soda. ||entailment
+There is a street. ||entailment
+The girl drinks soda. ||entailment
+The girl is on the street. ||entailment

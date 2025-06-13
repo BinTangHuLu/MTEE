@@ -1,0 +1,4 @@
+there is not a man ||contradiction
+there is not a head ||contradiction
+the head is not covered ||contradiction
+the man is not covered by head ||contradiction

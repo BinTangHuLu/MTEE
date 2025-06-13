@@ -1,0 +1,3 @@
+there are not workers ||contradiction
+there is not a pole ||contradiction
+the workers are not climbing the pole ||contradiction

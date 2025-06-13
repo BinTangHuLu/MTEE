@@ -1,0 +1,4 @@
+there are clan ||entailment
+there is a bound house ||entailment
+the clan are in front of the bounce house ||entailment
+the parents are in facade of the bounce house ||entailment

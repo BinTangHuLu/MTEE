@@ -1,0 +1,4 @@
+There is a dude. ||entailment
+The dude photographs. ||entailment
+The skier is performing a conspiracy. ||contradiction
+The dude photographs the skier. ||entailment

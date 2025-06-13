@@ -1,0 +1,2 @@
+There is not a looter. ||entailment
+The looter is not well dressed. ||neutral

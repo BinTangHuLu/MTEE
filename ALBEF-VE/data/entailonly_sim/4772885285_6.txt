@@ -1,0 +1,5 @@
+there is a gentlewoman ||entailment
+there is a backpack ||entailment
+the backpack is large black ||neutral
+the gentlewoman is with the bag ||entailment
+the gentlewoman is walking in the rain ||entailment

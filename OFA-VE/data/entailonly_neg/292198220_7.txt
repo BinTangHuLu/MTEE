@@ -1,0 +1,4 @@
+There is not a female. ||Contradiction
+There is not a doll. ||Contradiction
+The female is not young. ||Contradiction
+The female is not looking at the doll. ||Neutral

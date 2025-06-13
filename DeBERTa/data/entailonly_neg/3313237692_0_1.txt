@@ -1,0 +1,4 @@
+There are not girls. ||contradiction
+There is not a girl. ||contradiction
+The girls are not standing next to the girl. ||contradiction
+The girl is not sitting. ||entailment

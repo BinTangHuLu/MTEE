@@ -1,0 +1,5 @@
+there is a man ||entailment
+there is a beach ||entailment
+the man is young ||neutral
+the man is doing yoga ||neutral
+the man is on beach ||entailment

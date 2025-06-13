@@ -1,0 +1,4 @@
+There are community. ||neutral
+There is a chair. ||entailment
+The community are seated on the bench. ||neutral
+The chair is outside. ||entailment

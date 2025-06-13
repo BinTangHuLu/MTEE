@@ -1,0 +1,2 @@
+there is a farmland ||entailment
+someone is sitting in the farmland ||entailment

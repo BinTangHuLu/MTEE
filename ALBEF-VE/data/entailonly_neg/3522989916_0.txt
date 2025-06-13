@@ -1,0 +1,3 @@
+there are not dogs ||contradiction
+there is not outside ||contradiction
+the dogs are not playing outside ||contradiction

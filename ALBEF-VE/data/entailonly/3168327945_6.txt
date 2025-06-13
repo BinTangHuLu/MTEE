@@ -1,0 +1,3 @@
+there is a boy ||entailment
+there is a candy cane ||entailment
+the boy is with candy cane ||entailment

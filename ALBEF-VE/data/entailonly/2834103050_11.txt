@@ -1,0 +1,4 @@
+there are people ||entailment
+there is a beach ||entailment
+the beach is sandy ||neutral
+people are standing on the beach ||entailment

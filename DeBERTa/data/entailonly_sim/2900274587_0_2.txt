@@ -1,0 +1,4 @@
+There is a arena. ||contradiction
+There is a dusk. ||entailment
+The arena has water. ||neutral
+The arena is with sunset. ||contradiction

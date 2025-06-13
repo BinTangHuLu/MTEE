@@ -1,0 +1,6 @@
+there is not a hiker ||contradiction
+there is not a pole ||contradiction
+there is not a mountain ||contradiction
+the pole is not nordic ||entailment
+the hiker is not using pole ||contradiction
+the pole is not used to walk up mountain ||contradiction

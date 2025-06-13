@@ -1,0 +1,4 @@
+There is not a man. ||contradiction
+There is not a bike. ||contradiction
+The man is not old. ||contradiction
+The man does not ride the bike. ||contradiction

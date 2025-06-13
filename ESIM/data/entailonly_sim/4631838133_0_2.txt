@@ -1,0 +1,4 @@
+There is a dude. ||entailment
+There is some eyebrow. ||entailment
+The dude has hair. ||entailment
+The eyebrow is on his face. ||contradiction

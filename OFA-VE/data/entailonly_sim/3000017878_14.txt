@@ -1,0 +1,3 @@
+There is a line. ||Contradiction
+There is a gig. ||Entailment
+The line is playing at the concert. ||Neutral

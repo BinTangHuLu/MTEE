@@ -1,0 +1,4 @@
+there is a man ||entailment
+there is a bar ||entailment
+the bar has balance ||entailment
+the man is about to use the bar ||entailment

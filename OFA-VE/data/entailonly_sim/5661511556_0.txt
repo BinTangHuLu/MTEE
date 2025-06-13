@@ -1,0 +1,4 @@
+There is a child. ||Entailment
+There is a cabinet. ||Contradiction
+The cabinet is wooden. ||Neutral
+The child is being over board. ||Entailment

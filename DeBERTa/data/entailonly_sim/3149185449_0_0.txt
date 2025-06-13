@@ -1,0 +1,3 @@
+There are dude. ||entailment
+There is a cache unit. ||entailment
+The dude are watching the storage unit. ||contradiction

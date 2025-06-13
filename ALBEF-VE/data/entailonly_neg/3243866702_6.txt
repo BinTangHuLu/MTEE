@@ -1,0 +1,5 @@
+there are not children ||contradiction
+there is not a turtle ||contradiction
+there is not water ||contradiction
+the children are not giving water ||contradiction
+the children are not giving water to the turtle ||contradiction

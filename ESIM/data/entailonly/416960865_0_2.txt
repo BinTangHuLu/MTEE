@@ -1,0 +1,5 @@
+There is a woman. ||entailment
+There are some clothes. ||entailment
+There is hiking. ||entailment
+The woman is outdoor. ||entailment
+The woman is hiking. ||entailment

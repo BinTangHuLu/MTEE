@@ -1,0 +1,5 @@
+there is a woman ||entailment
+there is a child ||entailment
+the woman and child are standing indoor ||entailment
+the woman is standing indoor ||entailment
+the child is standing indoor ||entailment

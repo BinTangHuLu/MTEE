@@ -1,0 +1,6 @@
+There is a group. ||Entailment
+There are some people. ||Entailment
+There is an edge. ||Entailment
+There is a ledge. ||Entailment
+The group is near the ledge. ||Entailment
+The people are near the ledge. ||Entailment

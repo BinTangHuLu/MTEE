@@ -1,0 +1,4 @@
+there is not a boy ||contradiction
+there are not women ||contradiction
+the boy does not throw something ||contradiction
+the women do not sit nearby ||contradiction

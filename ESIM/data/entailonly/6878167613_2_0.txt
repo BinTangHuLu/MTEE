@@ -1,0 +1,3 @@
+There is a golfer. ||entailment
+There is a ball. ||entailment
+The golfer readies to putt the ball. ||entailment

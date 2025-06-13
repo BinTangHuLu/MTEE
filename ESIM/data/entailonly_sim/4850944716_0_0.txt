@@ -1,0 +1,2 @@
+There is a aristocrat. ||entailment
+The aristocrat window shops. ||neutral

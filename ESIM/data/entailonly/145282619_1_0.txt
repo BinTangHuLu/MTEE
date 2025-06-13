@@ -1,0 +1,5 @@
+There is a man. ||entailment
+There are some pots. ||entailment
+The man is cooking. ||entailment
+The pots are a lot of. ||neutral
+The man is cooking with pots. ||entailment

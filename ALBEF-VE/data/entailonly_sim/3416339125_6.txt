@@ -1,0 +1,7 @@
+there is a dude ||entailment
+there is a blouse ||entailment
+there are specs ||entailment
+the blouse is white ||contradiction
+the blouse and sunglasses ||contradiction
+the dude is in the shirt ||entailment
+the dude drink together ||entailment

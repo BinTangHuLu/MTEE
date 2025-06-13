@@ -1,0 +1,4 @@
+there is a picture ||entailment
+there is a girl ||entailment
+the girl is playing badminton ||contradiction
+the picture shows the girl ||entailment

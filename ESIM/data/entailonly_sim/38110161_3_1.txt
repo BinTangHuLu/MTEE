@@ -1,0 +1,6 @@
+There is a association. ||neutral
+There are some community. ||neutral
+There is some melody. ||entailment
+The association is old. ||entailment
+The association is playing music. ||entailment
+The community are playing music. ||neutral

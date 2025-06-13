@@ -1,0 +1,3 @@
+There are People. ||entailment
+The People are caring. ||neutral
+The People are caring for lawns. ||entailment

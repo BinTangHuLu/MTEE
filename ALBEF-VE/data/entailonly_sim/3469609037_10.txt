@@ -1,0 +1,10 @@
+there is a body ||entailment
+there is a skateboarding conspiracy ||neutral
+there is atmosphere ||entailment
+there is a cabinet ||entailment
+there is a appendage ||entailment
+the appendage is left ||neutral
+the body does skateboarding trick ||entailment
+the skateboarding conspiracy is in air ||neutral
+the body is holding board ||entailment
+the cabinet is with hand ||contradiction

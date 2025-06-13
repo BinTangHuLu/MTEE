@@ -1,0 +1,5 @@
+There are flora. ||neutral
+There is a advertise. ||entailment
+The advertise is busy. ||entailment
+The shoppers are purchasing flora. ||neutral
+The shoppers are purchasing at the advertise. ||entailment

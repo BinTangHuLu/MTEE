@@ -1,0 +1,9 @@
+there is a dude ||entailment
+there is a coat ||entailment
+there is a ceiling ||entailment
+there is a berm ||entailment
+the coat is white ||entailment
+the berm is wooden ||entailment
+the dude is standing on top of the roof ||contradiction
+the dude is standing on the ledge ||contradiction
+the berm is outside the roof ||entailment

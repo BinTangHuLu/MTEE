@@ -1,0 +1,4 @@
+There are not dogs. ||contradiction
+There is not a yard. ||contradiction
+The dogs are not Two. ||contradiction
+The dogs are not standing in yard. ||contradiction

@@ -1,0 +1,3 @@
+There is not someone. ||contradiction
+Someone is not giving out. ||contradiction
+Someone is not giving out paper. ||contradiction

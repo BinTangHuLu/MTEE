@@ -1,0 +1,2 @@
+there are chefs ||entailment
+the chefs work together ||entailment

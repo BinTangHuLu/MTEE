@@ -1,0 +1,4 @@
+There are community. ||neutral
+There is a dude. ||entailment
+The community are trying to read the man. ||neutral
+The dude is writing what. ||entailment

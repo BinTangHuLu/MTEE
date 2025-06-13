@@ -1,0 +1,3 @@
+there are list ||neutral
+there is a soccer ||contradiction
+the list play football ||entailment

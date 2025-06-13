@@ -1,0 +1,3 @@
+There are canines. ||entailment
+There is a forest. ||entailment
+The canines run around the forest. ||entailment

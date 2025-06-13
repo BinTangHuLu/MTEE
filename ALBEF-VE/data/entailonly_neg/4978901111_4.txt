@@ -1,0 +1,7 @@
+there is not a woman ||contradiction
+there is not a child ||contradiction
+there is not a fruit ||contradiction
+there is not a table ||contradiction
+the woman is not watching the child ||entailment
+the child is not eating the fruit ||entailment
+the fruit is not on the table ||contradiction

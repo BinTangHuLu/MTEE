@@ -1,0 +1,3 @@
+there is not a dog ||contradiction
+there is not a rock ||contradiction
+the dog is not on the rock ||entailment

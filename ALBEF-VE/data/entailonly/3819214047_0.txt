@@ -1,0 +1,6 @@
+there is a teen ||entailment
+there are arms ||entailment
+there are knees ||entailment
+the teen is teen ||neutral
+the teen sits with arms ||entailment
+the arms are resting on knees ||entailment

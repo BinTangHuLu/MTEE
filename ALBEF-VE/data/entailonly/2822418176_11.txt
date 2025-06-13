@@ -1,0 +1,4 @@
+there is a man ||entailment
+there is a sculpture ||entailment
+the sculpture is wooden ||neutral
+the man is carving the sculpture ||neutral

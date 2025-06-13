@@ -1,0 +1,4 @@
+there are people ||entailment
+the people are trying ||entailment
+the people are trying to make money ||entailment
+the people are entertaining people ||entailment

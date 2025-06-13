@@ -1,0 +1,4 @@
+There is not a girl. ||contradiction
+There is not a waterfall. ||contradiction
+The waterfall is not frozen. ||contradiction
+The girl is not near the waterfall. ||contradiction

@@ -1,0 +1,3 @@
+There are boy. ||entailment
+There is a advertisement. ||entailment
+The boy sit on the billboard. ||entailment

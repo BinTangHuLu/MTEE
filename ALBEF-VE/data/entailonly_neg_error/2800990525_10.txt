@@ -1,0 +1,3 @@
+A,pair of
+R,on
+RE2,is walking,outside

@@ -1,0 +1,3 @@
+There is drink. ||Contradiction
+There is a child. ||Entailment
+The drink sprays on the boy. ||Neutral

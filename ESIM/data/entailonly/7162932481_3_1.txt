@@ -1,0 +1,2 @@
+There is fire. ||entailment
+The fire is being fought. ||entailment

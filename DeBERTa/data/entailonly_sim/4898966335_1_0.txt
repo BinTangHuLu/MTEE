@@ -1,0 +1,3 @@
+There is a body. ||neutral
+The body is looking. ||entailment
+The body is looking at something. ||entailment

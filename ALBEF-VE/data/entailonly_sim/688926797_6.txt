@@ -1,0 +1,5 @@
+there is a child ||entailment
+there is a apparel ||entailment
+the apparel is in ||neutral
+the child is standing with hand ||neutral
+the appendage is on hip ||neutral

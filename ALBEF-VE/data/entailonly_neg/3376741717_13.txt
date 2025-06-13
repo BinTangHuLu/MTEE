@@ -1,0 +1,3 @@
+there is not stuff ||contradiction
+there is not a concert ||contradiction
+the stuff is not strewn about the concert ||entailment

@@ -1,0 +1,4 @@
+there is a man ||entailment
+there is a toy ||entailment
+the man is attempting to repair ||neutral
+the man is attempting to repair the toy ||neutral

@@ -1,0 +1,3 @@
+there are musicians ||entailment
+there is a park ||entailment
+the musicians play in the park ||entailment

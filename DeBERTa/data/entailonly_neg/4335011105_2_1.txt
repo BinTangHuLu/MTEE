@@ -1,0 +1,3 @@
+There is not a child. ||contradiction
+There is not a sled. ||contradiction
+The child is not on sled. ||contradiction

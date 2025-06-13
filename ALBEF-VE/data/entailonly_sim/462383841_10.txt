@@ -1,0 +1,7 @@
+there is a body ||entailment
+there is a accessory ||entailment
+there is a coast ||entailment
+the accessory is flotation ||neutral
+the coast is clear ||entailment
+the body is enjoying the device ||neutral
+the accessory is on the beach ||contradiction

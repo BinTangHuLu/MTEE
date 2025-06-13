@@ -1,0 +1,7 @@
+There is not a man. ||Contradiction
+There is not an ability. ||Entailment
+There is not a bicycle. ||Contradiction
+The ability is not to balance. ||Entailment
+The bicycle is not on one wheel. ||Entailment
+The man does not show the ability. ||Contradiction
+The ability to balance is not shown by the bicycle. ||Entailment

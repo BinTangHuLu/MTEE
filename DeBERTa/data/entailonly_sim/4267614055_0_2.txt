@@ -1,0 +1,4 @@
+There are community. ||entailment
+There is a baby. ||entailment
+The People watch the baby. ||entailment
+The baby plays. ||entailment

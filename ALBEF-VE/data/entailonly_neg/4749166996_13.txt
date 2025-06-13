@@ -1,0 +1,5 @@
+there is not a man ||contradiction
+there are not some gestures ||contradiction
+there is not a podium ||contradiction
+the man does not use gestures ||contradiction
+the man is not speaking at the podium ||contradiction

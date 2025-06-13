@@ -1,0 +1,2 @@
+There are friends. ||entailment
+The friends are laughing. ||entailment

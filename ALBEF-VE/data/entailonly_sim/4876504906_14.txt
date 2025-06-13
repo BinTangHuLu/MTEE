@@ -1,0 +1,3 @@
+there is a sister ||entailment
+there is a boy ||entailment
+the sister is inhaling ||contradiction

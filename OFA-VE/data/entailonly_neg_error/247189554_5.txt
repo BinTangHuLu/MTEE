@@ -1,0 +1,2 @@
+EA,legs,crossed
+RE2,has,legs

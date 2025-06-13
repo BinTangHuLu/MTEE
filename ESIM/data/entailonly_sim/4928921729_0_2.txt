@@ -1,0 +1,3 @@
+There are dude. ||entailment
+Most dude are dressed in white shirts. ||entailment
+Most dude are dressed in white shirts. ||entailment

@@ -1,0 +1,4 @@
+there is a girl ||entailment
+there is a dress ||entailment
+the dress has flowers ||entailment
+the girl is in the dress ||entailment

@@ -1,0 +1,5 @@
+there is a gentlewoman ||entailment
+there are some boot ||entailment
+there is a container top ||entailment
+the gentlewoman is standing outside ||entailment
+the gentlewoman is looking at something ||entailment

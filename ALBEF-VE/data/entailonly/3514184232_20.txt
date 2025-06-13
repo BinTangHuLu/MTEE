@@ -1,0 +1,3 @@
+there is a girl ||entailment
+there is a softball ||entailment
+the girl is playing softball ||neutral

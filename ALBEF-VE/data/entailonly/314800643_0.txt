@@ -1,0 +1,3 @@
+there is a man ||entailment
+there is a tent ||entailment
+the man stands near the tent ||entailment

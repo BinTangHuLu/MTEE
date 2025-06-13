@@ -1,0 +1,3 @@
+There is a man. ||entailment
+There is another man. ||entailment
+The man is being filmed by another man. ||entailment

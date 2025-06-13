@@ -1,0 +1,4 @@
+there are not females ||contradiction
+there is not a waiter ||contradiction
+the females are not trying to decide ||contradiction
+the waiter is not getting impatient ||neutral

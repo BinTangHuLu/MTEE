@@ -1,0 +1,5 @@
+there are people ||entailment
+there is a boy ||entailment
+there is an airplane ||entailment
+the people watch the boy ||entailment
+the boy touches the airplane ||entailment

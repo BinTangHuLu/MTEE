@@ -1,0 +1,4 @@
+there is a dude ||entailment
+there is lumber ||entailment
+the dude is chopping wood ||contradiction
+the dude is by tents ||entailment

@@ -1,0 +1,5 @@
+there is a person ||entailment
+there is an elderly person ||entailment
+there is a home ||contradiction
+the person is helping the elderly person ||neutral
+the elderly person is getting to the home ||neutral

@@ -1,0 +1,5 @@
+There is not a man. ||Contradiction
+There is not a microphone. ||Contradiction
+There is not a stage. ||Contradiction
+The man does not hold the microphone. ||Contradiction
+The microphone is not on the stage. ||Contradiction

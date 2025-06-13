@@ -1,0 +1,4 @@
+There are dude. ||Entailment
+There is a barge. ||Entailment
+The dude work on the boat. ||Entailment
+The barge is outside. ||Entailment

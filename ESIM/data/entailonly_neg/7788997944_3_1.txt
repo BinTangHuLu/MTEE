@@ -1,0 +1,5 @@
+There are not people. ||contradiction
+The people are not two. ||contradiction
+The people are not holding. ||contradiction
+The swords are not fencing. ||contradiction
+The people are not holding swords. ||contradiction

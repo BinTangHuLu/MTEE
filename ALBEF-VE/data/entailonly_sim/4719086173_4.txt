@@ -1,0 +1,3 @@
+there are blaze fighters ||entailment
+there is a activity ||entailment
+the blaze fighters have done the job ||entailment

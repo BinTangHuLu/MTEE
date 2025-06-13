@@ -1,0 +1,3 @@
+there are girls ||entailment
+there is a beach ||entailment
+the girls are on the beach ||entailment

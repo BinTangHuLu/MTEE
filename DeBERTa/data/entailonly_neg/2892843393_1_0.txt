@@ -1,0 +1,5 @@
+There is not a person. ||contradiction
+There is not a pile. ||contradiction
+There are not coconuts. ||contradiction
+The person is not near the pile. ||contradiction
+The pile is not of coconuts. ||contradiction

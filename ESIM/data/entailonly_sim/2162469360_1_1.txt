@@ -1,0 +1,6 @@
+There is a dude. ||entailment
+There is a border. ||neutral
+There is a architecture. ||neutral
+The dude is looking over the side. ||neutral
+The dude is looking over the building. ||entailment
+The dude is looking over someone else. ||neutral

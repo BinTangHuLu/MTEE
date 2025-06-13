@@ -1,0 +1,7 @@
+There is a teenager. ||entailment
+There are some jeans. ||entailment
+There is a guy. ||entailment
+There is a road. ||entailment
+The teenager is tight. ||entailment
+The teenager is speaking to the guy. ||entailment
+The teenager is speaking to the road. ||entailment

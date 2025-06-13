@@ -1,0 +1,4 @@
+There is a woman. ||entailment
+There is an ATM machine. ||entailment
+The woman is white. ||entailment
+The woman is using ATM machine. ||entailment

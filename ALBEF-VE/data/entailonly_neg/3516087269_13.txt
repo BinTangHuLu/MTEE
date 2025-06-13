@@ -1,0 +1,5 @@
+there is not a girl ||contradiction
+there is not a boy ||contradiction
+there is not a subway ||contradiction
+the girl is not leaning over in front of the boy ||contradiction
+the girl is not in front of the subway ||contradiction

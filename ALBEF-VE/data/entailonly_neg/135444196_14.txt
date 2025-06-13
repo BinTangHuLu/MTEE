@@ -1,0 +1,7 @@
+there is not a person ||contradiction
+there is not a street ||contradiction
+the person is not red ||contradiction
+the person is not in the street ||contradiction
+there is not another person ||contradiction
+the other person is not blue ||neutral
+the person is not along with the other person ||entailment

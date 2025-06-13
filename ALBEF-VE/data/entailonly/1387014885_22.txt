@@ -1,0 +1,5 @@
+there is a man ||entailment
+there is a woman ||entailment
+there is an event ||entailment
+the man and woman are speaking at event ||entailment
+the man are speaking at event ||entailment

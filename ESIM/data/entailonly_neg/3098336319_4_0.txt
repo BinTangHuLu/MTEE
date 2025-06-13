@@ -1,0 +1,3 @@
+There is not a snowboarder. ||contradiction
+The snowboarder is not performing tricks. ||contradiction
+The tricks are not performing. ||contradiction

@@ -1,0 +1,4 @@
+There are not boats. ||contradiction
+There is not a rock. ||contradiction
+The rock is not shallow. ||contradiction
+The boats did not jump up from the rock. ||contradiction

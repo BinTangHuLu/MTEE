@@ -1,0 +1,2 @@
+E1R,people,sitting at
+E1R,people,in conversation

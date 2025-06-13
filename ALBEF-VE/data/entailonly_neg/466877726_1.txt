@@ -1,0 +1,5 @@
+there are not men ||contradiction
+there are not bricks ||contradiction
+there is not a road ||contradiction
+the men do not take bricks ||contradiction
+the bricks are not taken from the road ||entailment

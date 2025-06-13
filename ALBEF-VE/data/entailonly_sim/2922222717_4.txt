@@ -1,0 +1,4 @@
+there is a pup ||entailment
+there is a dude ||contradiction
+the pup is small ||entailment
+the pup is close to the man ||neutral

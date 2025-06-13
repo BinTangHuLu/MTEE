@@ -1,0 +1,5 @@
+there is a man ||entailment
+there are some goggles ||entailment
+there is a road ||entailment
+the goggles are wearing ||entailment
+the man sits in road ||entailment

@@ -1,0 +1,4 @@
+there are not kids ||contradiction
+there are not faces ||contradiction
+the faces are not painted ||contradiction
+the kids did not have fun getting faces ||contradiction

@@ -1,0 +1,6 @@
+There are not people. ||contradiction
+There is not a ride. ||contradiction
+There is not a bicycle. ||contradiction
+The people are not taking a ride. ||contradiction
+The people are not on a bicycle. ||contradiction
+The ride is not together with the bicycle. ||entailment

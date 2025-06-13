@@ -1,0 +1,3 @@
+there is a golfer ||entailment
+there is a shot ||entailment
+the golfer watches the shot ||entailment

@@ -1,0 +1,4 @@
+There is a dude. ||Entailment
+There is a camouflage. ||Contradiction
+The dude is wearing clothing. ||Entailment
+The dude is wearing a mask. ||Entailment

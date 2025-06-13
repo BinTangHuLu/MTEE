@@ -1,0 +1,7 @@
+there is a dude ||entailment
+there is a female ||entailment
+there is an field ||entailment
+the field is residential ||neutral
+the dude and woman are outside ||entailment
+the dude is outside in the area ||entailment
+the female is outside in the area ||entailment

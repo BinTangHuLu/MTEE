@@ -1,0 +1,3 @@
+There is a woman. ||Entailment
+There is a vacuum. ||Entailment
+The woman is using the vacuum. ||Entailment

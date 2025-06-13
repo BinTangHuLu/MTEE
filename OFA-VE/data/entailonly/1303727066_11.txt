@@ -1,0 +1,3 @@
+There is a man. ||Entailment
+There is a beard. ||Entailment
+The man has a beard. ||Entailment

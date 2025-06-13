@@ -1,0 +1,5 @@
+there is a gentlewoman ||neutral
+there is an sea ||entailment
+the gentlewoman is outside ||entailment
+the gentlewoman is walking ||neutral
+the gentlewoman is walking above the ocean ||neutral

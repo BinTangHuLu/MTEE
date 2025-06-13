@@ -1,0 +1,3 @@
+there are community ||entailment
+there is a account ||entailment
+the community are posing for the picture ||contradiction

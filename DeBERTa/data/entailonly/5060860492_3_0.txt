@@ -1,0 +1,2 @@
+There is an athlete. ||entailment
+The athlete jumps. ||entailment

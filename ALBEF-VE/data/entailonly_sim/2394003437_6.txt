@@ -1,0 +1,3 @@
+there is a body ||entailment
+there is a apparatus ||entailment
+the body is using the machine ||entailment

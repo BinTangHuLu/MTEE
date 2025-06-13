@@ -1,0 +1,4 @@
+There is not a child. ||Contradiction
+There is not a man. ||Contradiction
+The man is not older. ||Contradiction
+The child is not hoisted above the man. ||Entailment

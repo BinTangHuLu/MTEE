@@ -1,0 +1,3 @@
+there are girls ||entailment
+the girls are pink ||neutral
+the girls hear is ||entailment

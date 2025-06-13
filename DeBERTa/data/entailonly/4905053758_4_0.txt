@@ -1,0 +1,5 @@
+There are People. ||entailment
+There is a beach. ||entailment
+There are cameras. ||entailment
+The People are standing. ||entailment
+The People are being filmed by cameras. ||entailment

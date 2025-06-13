@@ -1,0 +1,6 @@
+there is not a lady ||contradiction
+there is not some hair ||entailment
+there is not an object ||contradiction
+the hair is not long ||entailment
+the lady is not with hair ||entailment
+the lady is not standing over the object ||entailment

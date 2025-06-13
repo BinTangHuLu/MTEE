@@ -1,0 +1,5 @@
+There is a child. ||entailment
+There is a boiler. ||entailment
+The child is small. ||neutral
+The child is holding the kettle. ||entailment
+The boiler will soon be filled. ||entailment

@@ -1,0 +1,4 @@
+There is not a human. ||contradiction
+There is not a room. ||contradiction
+The human is wearing any clothes. ||entailment
+The human is not in the room. ||entailment

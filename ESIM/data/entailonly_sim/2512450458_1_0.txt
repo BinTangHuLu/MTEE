@@ -1,0 +1,3 @@
+There are boy. ||entailment
+There is drink. ||contradiction
+The boy are above water. ||entailment

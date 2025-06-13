@@ -1,0 +1,12 @@
+There is a dude. ||entailment
+There are some knickers. ||contradiction
+There is a blouse. ||entailment
+There is a air. ||entailment
+There is blaze. ||entailment
+The dude is clothed. ||entailment
+The dude is wearing a shirt. ||entailment
+The knickers are clothed. ||contradiction
+The blouse is clothed. ||entailment
+The dude is wearing face. ||entailment
+The dude is wearing lungs. ||entailment
+The dude puts out fire. ||entailment

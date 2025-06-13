@@ -1,0 +1,3 @@
+there is a challenge ||entailment
+the challenge took place ||entailment
+the challenge is to win others ||neutral

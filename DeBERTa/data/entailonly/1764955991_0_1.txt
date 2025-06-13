@@ -1,0 +1,4 @@
+There is a dog. ||entailment
+There is a road. ||entailment
+The dog is running. ||entailment
+The dog is running down road. ||entailment

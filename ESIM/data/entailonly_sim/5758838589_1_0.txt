@@ -1,0 +1,5 @@
+There is a assistant. ||entailment
+There is a climate. ||neutral
+There is a female. ||entailment
+The assistant is taking temperature. ||neutral
+The assistant is taking the temperature of the woman. ||neutral

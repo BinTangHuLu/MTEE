@@ -1,0 +1,4 @@
+There is a body. ||entailment
+There are chain reaction. ||contradiction
+The chain reaction are artificial. ||entailment
+The body is surfing on waves. ||entailment

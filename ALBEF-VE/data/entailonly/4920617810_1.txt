@@ -1,0 +1,4 @@
+there are women ||entailment
+there is something ||entailment
+the women are photographing ||entailment
+the women are photographing something ||entailment

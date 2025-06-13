@@ -1,0 +1,3 @@
+there are community ||entailment
+there is dirt ||neutral
+the community are not on ground ||entailment

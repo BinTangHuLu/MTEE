@@ -1,0 +1,3 @@
+there is a man ||entailment
+there is some art ||entailment
+the man is standing behind art ||entailment

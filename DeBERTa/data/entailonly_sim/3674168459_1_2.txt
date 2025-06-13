@@ -1,0 +1,4 @@
+There are martial list. ||entailment
+There are act. ||entailment
+There is an congregation. ||entailment
+The martial list demonstrate moves to the audience. ||entailment

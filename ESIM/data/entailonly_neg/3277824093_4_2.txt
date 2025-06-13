@@ -1,0 +1,3 @@
+There is not a skateboarder. ||contradiction
+There is not a rock. ||contradiction
+The skateboarder is not near the rock. ||contradiction

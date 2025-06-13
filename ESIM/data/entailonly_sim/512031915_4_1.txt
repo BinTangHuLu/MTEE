@@ -1,0 +1,2 @@
+There is a pup. ||entailment
+There is a basement. ||neutral

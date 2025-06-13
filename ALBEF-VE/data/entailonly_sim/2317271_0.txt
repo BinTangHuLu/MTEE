@@ -1,0 +1,6 @@
+there is a clan member ||entailment
+there is a marriage ||entailment
+there is a cartoon ||neutral
+the clan member documents the wedding ||neutral
+the marriage is by taking ||neutral
+taking the cartoon ||contradiction

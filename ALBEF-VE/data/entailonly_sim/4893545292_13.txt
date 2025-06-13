@@ -1,0 +1,4 @@
+there is a female ||entailment
+there is a account ||entailment
+the female is heavy ||neutral
+the female is taking a picture ||entailment

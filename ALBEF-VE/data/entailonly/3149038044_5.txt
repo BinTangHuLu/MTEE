@@ -1,0 +1,4 @@
+there are kids ||entailment
+there is soccer ||entailment
+there are two kids ||entailment
+the kids are playing soccer ||neutral

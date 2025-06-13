@@ -1,0 +1,4 @@
+there is not a biker ||contradiction
+there is not a trick ||contradiction
+the biker is not doing a trick ||contradiction
+the biker is not doing trick ||contradiction

@@ -1,0 +1,5 @@
+There is a lady. ||entailment
+There is some music. ||entailment
+There are some headphones. ||entailment
+The lady is listening to music. ||entailment
+The lady is listening to headphones. ||neutral

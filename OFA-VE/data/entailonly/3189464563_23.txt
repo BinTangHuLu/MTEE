@@ -1,0 +1,2 @@
+There is a lady. ||Entailment
+The lady is eating. ||Entailment

@@ -1,0 +1,5 @@
+there is a woman ||entailment
+there is a boat ||entailment
+there is another ||neutral
+the woman laughs another ||entailment
+another paddles boat ||neutral

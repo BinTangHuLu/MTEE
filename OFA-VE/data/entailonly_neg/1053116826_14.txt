@@ -1,0 +1,3 @@
+There are not children. ||Contradiction
+There is not grass. ||Entailment
+The children are not sitting in grass. ||Entailment

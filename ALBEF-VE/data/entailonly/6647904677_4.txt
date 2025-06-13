@@ -1,0 +1,3 @@
+there are men ||entailment
+there are bicycles ||entailment
+men ride bicycles ||entailment

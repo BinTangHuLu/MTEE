@@ -1,0 +1,2 @@
+There are Workers. ||Entailment
+The Workers are hard at work. ||Entailment

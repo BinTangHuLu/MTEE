@@ -1,0 +1,4 @@
+There is not a man. ||contradiction
+The man is not wearing a white shirt. ||contradiction
+The man is not making a speech. ||contradiction
+The man is not in front of a crowd. ||contradiction

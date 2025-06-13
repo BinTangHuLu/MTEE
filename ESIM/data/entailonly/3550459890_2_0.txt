@@ -1,0 +1,5 @@
+There is a person. ||entailment
+There is a toy. ||entailment
+There is a dog. ||entailment
+The person throws the toy. ||entailment
+The person throws the dog. ||entailment

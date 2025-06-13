@@ -1,0 +1,4 @@
+there are community ||entailment
+there are 2 community ||entailment
+the community are female ||neutral
+the community are walking ||entailment

@@ -1,0 +1,6 @@
+There is not a man. ||contradiction
+The man is not black. ||contradiction
+The man does not have no hair. ||entailment
+The man is not making a sculpture. ||contradiction
+The man is not with a pick. ||contradiction
+The man is not with a hammer. ||contradiction

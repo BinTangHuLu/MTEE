@@ -1,0 +1,5 @@
+There is a dude. ||entailment
+There is a avenue. ||entailment
+There are community. ||entailment
+The dude walks down the street. ||entailment
+The dude is with people. ||entailment

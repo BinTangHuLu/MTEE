@@ -1,0 +1,3 @@
+There is a dog. ||Entailment
+The dog is jumping. ||Entailment
+The dog is jumping. ||Entailment

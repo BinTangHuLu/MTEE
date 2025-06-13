@@ -1,0 +1,5 @@
+There is not a person. ||Contradiction
+There is not a cat. ||Contradiction
+There is not a store. ||Contradiction
+The person does not stand near the cat. ||Contradiction
+The cat is not in the store. ||Entailment

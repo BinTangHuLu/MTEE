@@ -1,0 +1,3 @@
+There is not someone. ||Entailment
+There is not a restaurant. ||Contradiction
+The someone is not at the restaurant. ||Entailment

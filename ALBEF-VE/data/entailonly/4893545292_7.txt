@@ -1,0 +1,4 @@
+there is a person ||entailment
+there is a camera ||entailment
+the person is holding ||entailment
+the person is holding a camera ||entailment

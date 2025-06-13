@@ -1,0 +1,4 @@
+there is not a boy ||contradiction
+there is not a slide ||contradiction
+the boy is not poised ||contradiction
+the boy is not poised on the slide ||contradiction

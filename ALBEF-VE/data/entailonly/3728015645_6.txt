@@ -1,0 +1,3 @@
+there is a skateboarder ||entailment
+there is a park ||entailment
+the skateboarder is in the park ||entailment

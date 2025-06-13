@@ -1,0 +1,5 @@
+There is not a child. ||contradiction
+There is not a ride. ||contradiction
+There is not a man. ||contradiction
+The child is not going for a ride. ||entailment
+The child is not going for a man. ||contradiction

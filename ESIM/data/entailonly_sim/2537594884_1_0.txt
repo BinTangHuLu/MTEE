@@ -1,0 +1,2 @@
+There is a link. ||entailment
+The link is wood. ||entailment

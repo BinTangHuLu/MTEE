@@ -1,0 +1,3 @@
+there are list ||entailment
+there is a agreeable ||entailment
+the list are in the game ||entailment

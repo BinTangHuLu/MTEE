@@ -1,0 +1,2 @@
+There are Girls. ||entailment
+The Girls are playing basketball. ||entailment

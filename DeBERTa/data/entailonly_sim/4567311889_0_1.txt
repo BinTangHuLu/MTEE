@@ -1,0 +1,5 @@
+There is a little. ||entailment
+There is a kitten. ||neutral
+There is a area. ||entailment
+The little is in the room. ||entailment
+The kitten is in the room. ||neutral

@@ -1,0 +1,3 @@
+there is a snowboarder ||entailment
+there are some skills ||entailment
+the snowboarder shows off skills ||entailment

@@ -1,0 +1,5 @@
+there are spices ||entailment
+there are goods ||entailment
+there is a shop ||entailment
+the spices are put in display in the shop ||contradiction
+the goods are put in display in the shop ||entailment

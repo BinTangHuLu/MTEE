@@ -1,0 +1,3 @@
+there is a girl ||entailment
+there is thirst ||entailment
+the girl is quenching thirst ||entailment

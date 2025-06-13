@@ -1,0 +1,3 @@
+There is not a man. ||contradiction
+There is not Easter Island. ||contradiction
+The man is not on Easter Island. ||contradiction

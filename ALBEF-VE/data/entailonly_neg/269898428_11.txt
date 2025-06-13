@@ -1,0 +1,4 @@
+there is not a man ||contradiction
+there is not a tool ||contradiction
+the tool is not power ||neutral
+the man is not with tool ||contradiction

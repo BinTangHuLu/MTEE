@@ -1,0 +1,5 @@
+there is a boy ||entailment
+the boy is smiling ||neutral
+there is a wall ||entailment
+the wall is stony ||entailment
+the boy is seeing the wall ||neutral

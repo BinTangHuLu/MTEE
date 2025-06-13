@@ -1,0 +1,5 @@
+There is a man. ||entailment
+There is a guitar. ||entailment
+There is a stage. ||entailment
+The man is playing. ||entailment
+The man is playing on stage. ||entailment

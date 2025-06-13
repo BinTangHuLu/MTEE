@@ -1,0 +1,5 @@
+there are girls ||entailment
+there are dogs ||entailment
+there is a street ||entailment
+the girls are walking down the street ||entailment
+the dogs are walking down the street ||contradiction

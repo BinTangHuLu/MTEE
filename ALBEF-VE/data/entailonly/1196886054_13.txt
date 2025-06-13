@@ -1,0 +1,6 @@
+there is a bride ||entailment
+there is a groom ||entailment
+there is a path ||entailment
+the path is outdoor ||entailment
+the bride is walking down the path ||entailment
+the groom is walking down the path ||contradiction

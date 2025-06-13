@@ -1,0 +1,4 @@
+there is a girl ||entailment
+the girl is small ||entailment
+the girl walks down the side ||entailment
+there is a road ||entailment

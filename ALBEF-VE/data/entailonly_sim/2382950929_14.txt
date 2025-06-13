@@ -1,0 +1,3 @@
+there are community ||entailment
+the air are visible ||entailment
+the air are of people ||entailment

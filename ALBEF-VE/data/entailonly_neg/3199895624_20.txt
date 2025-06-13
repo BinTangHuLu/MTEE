@@ -1,0 +1,5 @@
+there is not a man ||contradiction
+there are not some clothes ||contradiction
+there is not a room ||contradiction
+the man is not wearing clothes ||contradiction
+the clothes are not inside of the room ||entailment

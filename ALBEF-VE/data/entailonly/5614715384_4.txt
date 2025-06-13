@@ -1,0 +1,3 @@
+there is a woman ||entailment
+there is a sign ||entailment
+the woman is standing in front of the sign ||entailment

@@ -1,0 +1,7 @@
+there is not a person ||contradiction
+there is not a device ||contradiction
+there is not a beach ||contradiction
+the device is not flotation ||entailment
+the beach is not clear ||entailment
+the person is not enjoying the device ||neutral
+the device is not on the beach ||entailment

@@ -1,0 +1,5 @@
+there are men ||entailment
+there are chairs ||neutral
+there are two men ||entailment
+the men are sitting in chairs ||contradiction
+the men are in chairs ||contradiction

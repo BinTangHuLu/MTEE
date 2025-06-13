@@ -1,0 +1,5 @@
+There are adolescent. ||Entailment
+There are business. ||Contradiction
+There is apparel. ||Entailment
+The apparel is basketball. ||Entailment
+The adolescent are playing sports. ||Entailment

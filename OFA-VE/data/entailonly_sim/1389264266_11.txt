@@ -1,0 +1,4 @@
+There are adolescent. ||Entailment
+There are two adolescent. ||Entailment
+The adolescent are standing up. ||Entailment
+The adolescent are standing up facing each other. ||Entailment

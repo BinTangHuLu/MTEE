@@ -1,0 +1,2 @@
+There is not a robe. ||contradiction
+The robe is not brown. ||contradiction

@@ -1,0 +1,4 @@
+there is a man ||entailment
+there is a woman ||entailment
+the man walks together ||entailment
+the woman walks together ||entailment

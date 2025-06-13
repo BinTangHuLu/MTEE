@@ -1,0 +1,3 @@
+there is a dog ||entailment
+there is a field ||entailment
+the dog is in the field ||entailment

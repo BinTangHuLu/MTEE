@@ -1,0 +1,4 @@
+There are not workers. ||Contradiction
+There is not gear. ||Contradiction
+The gear is not heavy. ||Contradiction
+The workers are not carrying gear. ||Contradiction

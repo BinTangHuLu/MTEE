@@ -1,0 +1,4 @@
+there is a dude ||entailment
+there is some apparatus ||entailment
+the apparatus is photography ||neutral
+the dude sets up equipment ||entailment

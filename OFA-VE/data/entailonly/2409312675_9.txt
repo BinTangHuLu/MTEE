@@ -1,0 +1,2 @@
+There is a vehicle. ||Entailment
+The vehicle is getting dirty. ||Entailment

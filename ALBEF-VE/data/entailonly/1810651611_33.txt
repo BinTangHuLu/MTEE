@@ -1,0 +1,3 @@
+there is a girl ||entailment
+there is a dress ||entailment
+the girl is swinging ||entailment

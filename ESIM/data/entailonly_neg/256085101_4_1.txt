@@ -1,0 +1,4 @@
+There is not a dog. ||contradiction
+The dog is not yawning. ||contradiction
+The dog is not tired. ||contradiction
+The dog is not sleepy. ||contradiction

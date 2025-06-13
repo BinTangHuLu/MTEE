@@ -1,0 +1,2 @@
+there are child ||entailment
+the child are outdoors ||entailment

@@ -1,0 +1,14 @@
+there is a dude ||entailment
+there is a blouse ||entailment
+there is some eyebrow ||entailment
+there is a camcorder ||entailment
+there is a alp ||entailment
+there is a backdrop ||entailment
+the blouse is blue ||entailment
+the eyebrow is gray colored ||neutral
+the dude is wearing ||entailment
+the dude is wearing the shirt ||entailment
+the dude is looking through the camera ||entailment
+the camcorder is towards the mountain ||neutral
+the alp is in the background ||entailment
+the backdrop is outdoors ||entailment

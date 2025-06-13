@@ -1,0 +1,5 @@
+There are men. ||entailment
+There is a bull. ||entailment
+There are people. ||entailment
+The men bother the bull. ||entailment
+The people watch the men. ||entailment

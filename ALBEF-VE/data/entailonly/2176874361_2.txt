@@ -1,0 +1,5 @@
+there is a dog ||entailment
+there is some attention ||entailment
+there is a bull ||entailment
+the dog catches attention ||entailment
+the attention is of the bull ||entailment

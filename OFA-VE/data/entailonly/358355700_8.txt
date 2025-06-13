@@ -1,0 +1,6 @@
+There are children. ||Entailment
+There are adults. ||Entailment
+There is a bounce house. ||Entailment
+The children and adults are outside. ||Entailment
+The children are outside the bounce house. ||Entailment
+The adults are outside the bounce house. ||Neutral

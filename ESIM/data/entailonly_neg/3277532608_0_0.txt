@@ -1,0 +1,3 @@
+There is not Traffic. ||contradiction
+There is not a crosswalk. ||contradiction
+Traffic does not drive through the crosswalk. ||contradiction

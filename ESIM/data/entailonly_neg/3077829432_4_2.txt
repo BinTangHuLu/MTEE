@@ -1,0 +1,5 @@
+There is not a person. ||contradiction
+The person is not more than one. ||entailment
+The person is not working on edible buildings. ||contradiction
+There are not buildings. ||contradiction
+The buildings are not edible. ||contradiction

@@ -1,0 +1,5 @@
+There are community. ||Entailment
+There is a any. ||Entailment
+There are community. ||Entailment
+The any is at least. ||Entailment
+The community are moving part. ||Neutral

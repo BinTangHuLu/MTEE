@@ -1,0 +1,4 @@
+There is a female. ||Entailment
+There is a beat. ||Entailment
+The beat is red. ||Entailment
+The female is in the cap. ||Entailment

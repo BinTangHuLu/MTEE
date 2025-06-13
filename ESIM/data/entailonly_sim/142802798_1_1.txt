@@ -1,0 +1,6 @@
+There is a child. ||entailment
+There is a bar. ||contradiction
+The child is riding. ||entailment
+The bar is stone. ||contradiction
+The child is riding the skateboard. ||entailment
+The child is on the wall. ||entailment

@@ -1,0 +1,5 @@
+there is a dude ||entailment
+there is a child ||entailment
+the child is little ||entailment
+the dude is holding the girl ||entailment
+the child is on the mans shoulders ||entailment

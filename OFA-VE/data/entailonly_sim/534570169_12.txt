@@ -1,0 +1,3 @@
+There is a dude. ||Entailment
+There are some apparatus. ||Entailment
+The dude is near instruments. ||Entailment

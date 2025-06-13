@@ -1,0 +1,4 @@
+there is a body ||entailment
+there is cabbage ||neutral
+the cabbage is fresh ||neutral
+the body is selling bread ||contradiction

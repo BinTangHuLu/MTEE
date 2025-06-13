@@ -1,0 +1,3 @@
+RE2,stands near,corner
+E1RE2,woman,walks past,corner
+A,with a brief case

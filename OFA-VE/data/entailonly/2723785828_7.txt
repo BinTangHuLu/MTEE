@@ -1,0 +1,5 @@
+There are children. ||Entailment
+There is a face. ||Entailment
+The children are two. ||Entailment
+The face is paint. ||Entailment
+The children has face. ||Entailment

@@ -1,0 +1,3 @@
+There are not children. ||Contradiction
+The children are not playing. ||Entailment
+The children are not playing outdoors. ||Entailment

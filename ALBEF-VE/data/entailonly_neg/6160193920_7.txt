@@ -1,0 +1,4 @@
+there is not a lady ||contradiction
+there is not a shirt ||contradiction
+the shirt is not blue ||contradiction
+the lady is not wearing a shirt ||contradiction

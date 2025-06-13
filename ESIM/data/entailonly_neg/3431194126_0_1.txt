@@ -1,0 +1,4 @@
+There is not a couple. ||contradiction
+There are not some outfits. ||contradiction
+The outfits are not bright. ||contradiction
+The couple is not wearing bright outfits. ||contradiction

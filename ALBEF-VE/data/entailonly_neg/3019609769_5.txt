@@ -1,0 +1,4 @@
+there are not people ||contradiction
+there is not a surface ||entailment
+the surface is not brown ||entailment
+the people are not walking on the surface ||entailment

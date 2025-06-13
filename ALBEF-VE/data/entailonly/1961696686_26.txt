@@ -1,0 +1,4 @@
+there is a woman ||entailment
+there is a ball ||entailment
+the ball is bowling ||entailment
+the woman is about to throw the ball ||neutral

@@ -1,0 +1,3 @@
+There is a mother. ||entailment
+There is a daughter. ||entailment
+The mother and daughter are meeting. ||entailment

@@ -1,0 +1,5 @@
+There is not a group. ||Contradiction
+There are not some people. ||Contradiction
+There is not some grass. ||Entailment
+The people are not young. ||Entailment
+The people are not in grass. ||Entailment

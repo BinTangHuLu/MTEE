@@ -1,0 +1,4 @@
+There is an apparatus. ||entailment
+There is an congregation. ||entailment
+The apparatus plays the performer. ||entailment
+The performer performs for the congregation. ||entailment

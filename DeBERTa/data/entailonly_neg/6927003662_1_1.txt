@@ -1,0 +1,2 @@
+There is not a bandana. ||contradiction
+The bandana is not black. ||contradiction

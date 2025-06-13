@@ -1,0 +1,4 @@
+there is a pier ||entailment
+there are people ||entailment
+the people are many ||entailment
+the pier has people ||entailment

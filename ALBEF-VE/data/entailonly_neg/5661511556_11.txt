@@ -1,0 +1,3 @@
+there are not people ||contradiction
+there is not a garden ||contradiction
+the people are not standing around in the garden ||contradiction

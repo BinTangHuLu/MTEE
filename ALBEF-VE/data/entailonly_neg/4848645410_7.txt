@@ -1,0 +1,5 @@
+there is not a man ||contradiction
+there is not a picture ||entailment
+the man is not young ||entailment
+the man does not take a picture ||contradiction
+the picture is of something not special ||entailment

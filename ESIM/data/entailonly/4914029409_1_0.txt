@@ -1,0 +1,7 @@
+There is a group. ||entailment
+There are some friends. ||neutral
+There is a street. ||entailment
+The friends are a group of. ||neutral
+The friends are biking. ||neutral
+The friends are wearing their helmets. ||neutral
+The friends are biking through the street. ||neutral

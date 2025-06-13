@@ -1,0 +1,3 @@
+there is a man ||entailment
+there is a stick ||entailment
+the man holds stick ||entailment

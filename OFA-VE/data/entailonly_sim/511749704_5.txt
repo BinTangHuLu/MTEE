@@ -1,0 +1,4 @@
+There is a child. ||Entailment
+There is a estate. ||Contradiction
+The estate is skate. ||Entailment
+The child is at park. ||Entailment

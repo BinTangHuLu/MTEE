@@ -1,0 +1,2 @@
+There is not a fruit. ||contradiction
+The fruit is not present. ||contradiction

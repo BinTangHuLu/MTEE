@@ -1,0 +1,5 @@
+there are not children ||contradiction
+there are not coats ||contradiction
+the coats are not of all colors ||entailment
+the children are not wearing coats ||contradiction
+the children are not jumping in the air ||contradiction

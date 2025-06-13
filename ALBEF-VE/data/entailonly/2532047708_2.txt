@@ -1,0 +1,3 @@
+there are musicians ||entailment
+there are instruments ||entailment
+the musicians play instruments ||entailment

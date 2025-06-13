@@ -1,0 +1,5 @@
+There is a ballerina. ||entailment
+There is a leg. ||entailment
+The ballerina is lifted. ||entailment
+The leg is behind her. ||entailment
+The leg is lifted behind the ballerina. ||entailment

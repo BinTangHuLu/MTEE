@@ -1,0 +1,3 @@
+There is a female. ||Entailment
+There is a apparatus. ||Entailment
+The female knows how to use the machine. ||Entailment

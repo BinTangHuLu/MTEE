@@ -1,0 +1,4 @@
+There are women. ||Entailment
+The women are Two. ||Neutral
+There is a hobby. ||Entailment
+The women are engaged in the hobby. ||Entailment

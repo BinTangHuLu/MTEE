@@ -1,0 +1,5 @@
+there is a child ||entailment
+there is a rickshaw ||contradiction
+there are mitt ||entailment
+the mitt are wearing ||neutral
+the child is bushes wheelbarrow ||contradiction

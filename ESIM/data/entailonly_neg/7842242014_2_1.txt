@@ -1,0 +1,2 @@
+There is not a car. ||contradiction
+The car does not burn out. ||contradiction

@@ -1,0 +1,4 @@
+there is not a man ||contradiction
+there is not a machine ||contradiction
+the man is not kneeling to fix ||contradiction
+the man is not fixing the machine ||neutral

@@ -1,0 +1,3 @@
+There is not a team. ||contradiction
+There is not a gym. ||contradiction
+The team is not in the gym. ||contradiction

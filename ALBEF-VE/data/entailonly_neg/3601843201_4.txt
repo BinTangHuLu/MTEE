@@ -1,0 +1,4 @@
+there is not a motorcycle rider ||contradiction
+there is not outdoors ||contradiction
+the motorcycle rider is not currently ||contradiction
+the motorcycle rider is not outdoors ||contradiction

@@ -1,0 +1,2 @@
+There is a street. ||Entailment
+The street is busy. ||Entailment

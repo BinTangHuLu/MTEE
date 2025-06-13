@@ -1,0 +1,4 @@
+There are not kids. ||contradiction
+There are not hats. ||contradiction
+The hats do not have streamers. ||contradiction
+The kids are not wearing hats. ||contradiction

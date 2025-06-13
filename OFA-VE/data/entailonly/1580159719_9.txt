@@ -1,0 +1,2 @@
+There is music. ||Entailment
+The music is being played. ||Entailment

@@ -1,0 +1,5 @@
+there is a person ||entailment
+there are some things ||entailment
+there are some docks ||neutral
+the person is examining things ||entailment
+the person is at docks ||contradiction

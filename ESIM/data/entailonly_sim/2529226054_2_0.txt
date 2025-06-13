@@ -1,0 +1,7 @@
+There is a dude. ||entailment
+There is a bestow. ||entailment
+There is a avenue. ||contradiction
+The dude is wearing. ||entailment
+The bestow is walking. ||entailment
+The dude is wearing a vest. ||entailment
+The dude is walking down the street. ||entailment

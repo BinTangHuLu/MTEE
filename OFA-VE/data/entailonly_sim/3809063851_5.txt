@@ -1,0 +1,3 @@
+There are artist. ||Entailment
+There is a estate. ||Contradiction
+The artist play in the park. ||Neutral

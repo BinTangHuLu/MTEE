@@ -1,0 +1,4 @@
+there are men ||entailment
+there is a tower ||entailment
+the tower is possibly damaged ||entailment
+the men are working on the tower ||entailment

@@ -1,0 +1,7 @@
+There is not a woman. ||contradiction
+There is not a hat. ||contradiction
+There is not ground. ||contradiction
+The woman is not squatting. ||contradiction
+The woman is not wearing a hat. ||contradiction
+The hat is not touching the ground. ||contradiction
+The woman is not touching ground. ||contradiction

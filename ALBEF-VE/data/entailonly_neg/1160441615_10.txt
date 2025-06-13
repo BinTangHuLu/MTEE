@@ -1,0 +1,6 @@
+there are not girls ||contradiction
+there is not a pathway ||contradiction
+there are not three girls ||entailment
+the girls are not merrily ||contradiction
+the pathway is not arched ||contradiction
+the girls are not walking along the pathway ||contradiction

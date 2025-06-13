@@ -1,0 +1,6 @@
+There is a team. ||entailment
+There is California. ||entailment
+There are fans. ||entailment
+The team is popular. ||neutral
+The team is in California. ||entailment
+The team has fans. ||entailment

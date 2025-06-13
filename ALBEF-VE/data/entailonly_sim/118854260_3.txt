@@ -1,0 +1,3 @@
+there is a female ||entailment
+the female is cutting ||entailment
+the photographer captures the female ||entailment

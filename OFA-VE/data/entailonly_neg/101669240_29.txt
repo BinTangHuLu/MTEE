@@ -1,0 +1,3 @@
+There is not a man. ||Contradiction
+The man is not standing. ||Entailment
+The man is not standing outside. ||Entailment

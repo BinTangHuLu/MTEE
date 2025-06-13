@@ -1,0 +1,4 @@
+There is a dude. ||Entailment
+There is a auto. ||Entailment
+The dude is old. ||Neutral
+The dude is fixing the car. ||Entailment

@@ -1,0 +1,7 @@
+there is a child ||entailment
+there is a bra ||entailment
+there are some specs ||entailment
+there is a beat ||entailment
+the child is wearing bikini ||neutral
+the child is wearing goggles ||entailment
+the child is wearing cap ||entailment

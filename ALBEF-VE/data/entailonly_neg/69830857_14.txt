@@ -1,0 +1,3 @@
+there is not an individual ||entailment
+there is not outdoors ||entailment
+the individual does not walk outdoors ||entailment

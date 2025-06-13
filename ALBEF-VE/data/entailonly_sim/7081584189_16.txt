@@ -1,0 +1,4 @@
+there is a set ||neutral
+there are some community ||neutral
+there is a outrigger ||entailment
+the community are in kayak ||entailment

@@ -1,0 +1,3 @@
+There is a colt. ||Entailment
+There is a festival. ||Entailment
+The colt rode rodeo. ||Neutral

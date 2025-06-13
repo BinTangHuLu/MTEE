@@ -1,0 +1,2 @@
+A,wearing
+R,is standing at

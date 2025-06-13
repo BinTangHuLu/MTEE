@@ -1,0 +1,3 @@
+There is a female. ||entailment
+There is a coast. ||entailment
+The female is surfing at the beach. ||entailment

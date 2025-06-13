@@ -1,0 +1,3 @@
+there is a dude ||entailment
+there is ammunition ||entailment
+the dude performs archery ||entailment

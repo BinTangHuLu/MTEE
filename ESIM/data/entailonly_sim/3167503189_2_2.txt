@@ -1,0 +1,5 @@
+There is a child. ||entailment
+There is a bar. ||contradiction
+There is a authority. ||entailment
+The child is against the wall. ||entailment
+The child is against the foundation. ||entailment

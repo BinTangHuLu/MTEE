@@ -1,0 +1,4 @@
+There are not bicyclists. ||contradiction
+There is not a group. ||contradiction
+There is not a street. ||contradiction
+The bicyclists are not on the street. ||contradiction

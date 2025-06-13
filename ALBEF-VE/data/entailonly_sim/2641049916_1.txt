@@ -1,0 +1,4 @@
+there is a child ||entailment
+there is some acrylic ||neutral
+the acrylic is on the face ||neutral
+the child has paint ||entailment

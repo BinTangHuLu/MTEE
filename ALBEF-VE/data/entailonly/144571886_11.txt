@@ -1,0 +1,3 @@
+there is a woman ||entailment
+there is a presentation ||entailment
+the woman is giving the presentation ||neutral

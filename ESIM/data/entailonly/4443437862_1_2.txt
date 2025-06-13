@@ -1,0 +1,7 @@
+There is a woman. ||entailment
+There is a girl. ||entailment
+There is a bag. ||entailment
+The woman is carrying. ||entailment
+The bag is behind. ||entailment
+The woman is carrying the girl. ||contradiction
+The woman is with the bag. ||entailment

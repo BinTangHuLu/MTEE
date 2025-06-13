@@ -1,0 +1,5 @@
+there is a family ||entailment
+there is a puppy ||entailment
+there is a beach ||entailment
+the family is with the puppy ||entailment
+the puppy is in the beach ||entailment

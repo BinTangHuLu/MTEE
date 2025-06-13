@@ -1,0 +1,5 @@
+There is a dude. ||entailment
+There is a avenue. ||neutral
+The dude is standing. ||neutral
+The dude is standing outside. ||entailment
+The dude is standing near street. ||entailment

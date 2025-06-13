@@ -1,0 +1,5 @@
+There is a female. ||Entailment
+There is an expression. ||Entailment
+There is a face. ||Entailment
+The female has a face. ||Entailment
+The expression is on the face. ||Entailment

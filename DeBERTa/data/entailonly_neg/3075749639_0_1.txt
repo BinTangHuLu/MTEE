@@ -1,0 +1,7 @@
+There is not a crowd. ||contradiction
+There is not Christmas. ||contradiction
+There is not a Bank. ||contradiction
+There is not America. ||contradiction
+The crowd is not celebrating Christmas. ||contradiction
+The crowd is not outside of Bank. ||contradiction
+The Bank is not of America. ||contradiction

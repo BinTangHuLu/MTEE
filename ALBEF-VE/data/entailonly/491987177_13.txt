@@ -1,0 +1,3 @@
+there is a man ||entailment
+there is a building ||entailment
+the man is in the building ||entailment

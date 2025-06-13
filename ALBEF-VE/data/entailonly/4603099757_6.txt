@@ -1,0 +1,4 @@
+there is a woman ||entailment
+there is a hand ||entailment
+the woman is holding something ||entailment
+her hand is her attribute ||neutral

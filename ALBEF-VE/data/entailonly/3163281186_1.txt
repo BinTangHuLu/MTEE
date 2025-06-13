@@ -1,0 +1,7 @@
+there is a woman ||entailment
+there is an elephant ||entailment
+there is a person ||entailment
+the person is another ||neutral
+the elephant has a head ||contradiction
+the woman is riding the elephant ||contradiction
+the person is touching the elephant ||entailment

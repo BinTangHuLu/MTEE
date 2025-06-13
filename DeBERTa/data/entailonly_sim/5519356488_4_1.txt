@@ -1,0 +1,4 @@
+There is a buffoon. ||entailment
+There is a academy. ||entailment
+The academy is children's. ||entailment
+The buffoon is at school. ||entailment

@@ -1,0 +1,3 @@
+There are not boys. ||Entailment
+The boys are not little. ||Entailment
+The boys did not lie down. ||Entailment

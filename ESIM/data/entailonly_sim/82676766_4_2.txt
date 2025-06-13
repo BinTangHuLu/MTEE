@@ -1,0 +1,4 @@
+There are community. ||neutral
+There is a armchair. ||entailment
+The community are young. ||neutral
+The community sit in the chair. ||neutral

@@ -1,0 +1,3 @@
+there are not teams ||contradiction
+there is not a basketball ||contradiction
+the teams are not playing basketball ||contradiction

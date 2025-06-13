@@ -1,0 +1,2 @@
+There is a man. ||Contradiction
+The man is outside. ||Entailment

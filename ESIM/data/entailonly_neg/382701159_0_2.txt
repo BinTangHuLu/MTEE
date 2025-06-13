@@ -1,0 +1,6 @@
+There is not a person. ||contradiction
+There is not air. ||contradiction
+There is not water. ||contradiction
+The air is not fresh. ||neutral
+The person is not enjoying air. ||neutral
+The person is not at water. ||contradiction

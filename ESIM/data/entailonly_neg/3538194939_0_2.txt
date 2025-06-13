@@ -1,0 +1,7 @@
+There is not a man. ||contradiction
+There are not some clothes. ||contradiction
+There are not some boots. ||contradiction
+There is not a flotation device. ||contradiction
+The man is not wearing work clothes. ||contradiction
+The man is not wearing boots. ||contradiction
+The man is not working on the flotation device. ||contradiction

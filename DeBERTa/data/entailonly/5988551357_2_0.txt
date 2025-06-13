@@ -1,0 +1,3 @@
+There is a clown. ||entailment
+There is a horse. ||entailment
+The clown has fallen off the horse. ||entailment

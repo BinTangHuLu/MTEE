@@ -1,0 +1,5 @@
+there is not a snowboarder ||contradiction
+there is not a hill ||contradiction
+the snowboarder is not clothed in red ||contradiction
+the hill is not snowy ||contradiction
+the snowboarder is not leaping from the hill ||contradiction

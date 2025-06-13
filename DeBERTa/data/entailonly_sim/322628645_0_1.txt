@@ -1,0 +1,4 @@
+There is a female. ||entailment
+There is some bread. ||neutral
+There is a baby. ||entailment
+The female is preparing for the child. ||entailment

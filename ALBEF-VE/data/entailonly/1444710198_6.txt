@@ -1,0 +1,4 @@
+there are males ||entailment
+there is a lake ||entailment
+the males are two young ||neutral
+the males are playing besides lake ||entailment

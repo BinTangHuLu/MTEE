@@ -1,0 +1,5 @@
+there is not an executive ||contradiction
+there is not a speech ||contradiction
+there is not a building ||contradiction
+the executive is not holding the speech ||contradiction
+the speech is not inside the building ||entailment

@@ -1,0 +1,4 @@
+There are female. ||Entailment
+The female are Two. ||Entailment
+There is a amusement. ||Contradiction
+The female are engaged in the hobby. ||Entailment

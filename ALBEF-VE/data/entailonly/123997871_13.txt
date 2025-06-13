@@ -1,0 +1,9 @@
+there are girls ||entailment
+there are uniforms ||entailment
+there is field hockey ||entailment
+there are teams ||entailment
+the uniforms are in ||entailment
+the girls are playing field hockey ||contradiction
+the girls are in uniforms ||entailment
+the girls are playing field hockey ||contradiction
+the girls are on teams ||entailment

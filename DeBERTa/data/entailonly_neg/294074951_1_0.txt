@@ -1,0 +1,11 @@
+There are not men. ||contradiction
+There is not a musical set. ||contradiction
+There are not wires. ||contradiction
+There is not equipment. ||contradiction
+There is not a stage. ||contradiction
+There are not three men. ||contradiction
+The men are not doing the musical set. ||contradiction
+The men are not holding instruments. ||contradiction
+The musical set is not with wires. ||contradiction
+The musical set is not with equipment. ||contradiction
+The musical set is not all over the stage. ||contradiction

@@ -1,0 +1,6 @@
+There is not a man. ||Contradiction
+There is not some clothing. ||Contradiction
+There is not a mask. ||Contradiction
+The clothing is not black. ||Entailment
+The man is not wearing clothing. ||Contradiction
+The man is not wearing a mask. ||Contradiction

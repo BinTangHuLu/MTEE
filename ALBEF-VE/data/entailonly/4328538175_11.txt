@@ -1,0 +1,7 @@
+there is a male ||entailment
+there is a female ||entailment
+the male is looking at ||entailment
+the female is looking at ||entailment
+the images are similar ||contradiction
+the male is looking at the images ||entailment
+the female is looking at the images ||entailment

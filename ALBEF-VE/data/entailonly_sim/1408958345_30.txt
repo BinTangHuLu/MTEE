@@ -1,0 +1,4 @@
+there is a child ||entailment
+there is a coast ||entailment
+the child is young ||entailment
+the child is at the beach ||entailment

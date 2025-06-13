@@ -1,0 +1,5 @@
+There are not children. ||Contradiction
+There is not a crowd. ||Contradiction
+There is not a stick. ||Contradiction
+The children are not in the crowd. ||Entailment
+The children are not with a stick. ||Contradiction

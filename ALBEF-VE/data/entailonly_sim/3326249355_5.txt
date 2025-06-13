@@ -1,0 +1,4 @@
+there are community ||entailment
+there is a bluff ||entailment
+the bluff is grassy ||entailment
+the community stand on the hillside ||entailment

@@ -1,0 +1,3 @@
+there is a lady ||entailment
+there is a microphone ||entailment
+the lady is using the microphone ||entailment

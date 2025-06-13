@@ -1,0 +1,3 @@
+there is a dude ||entailment
+there is a cannon ||entailment
+the dude is holding the gun ||entailment

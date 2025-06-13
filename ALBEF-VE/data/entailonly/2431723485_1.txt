@@ -1,0 +1,5 @@
+there is a woman ||entailment
+there is a bike ||entailment
+there is a trail ||entailment
+the woman rides the bike ||entailment
+the bike is on the trail ||entailment

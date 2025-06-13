@@ -1,0 +1,5 @@
+there is a girl ||entailment
+there is a surface ||entailment
+the surface is hard ||entailment
+the girl is touching the surface ||entailment
+the surface is with body ||entailment

@@ -1,0 +1,2 @@
+There are dogs. ||entailment
+The dogs are playing together. ||entailment

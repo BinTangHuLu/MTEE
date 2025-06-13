@@ -1,0 +1,3 @@
+there are men ||entailment
+there is alcohol ||entailment
+the men are enjoying alcohol ||entailment

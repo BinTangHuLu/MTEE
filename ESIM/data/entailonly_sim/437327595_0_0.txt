@@ -1,0 +1,4 @@
+There is a bash. ||contradiction
+There is a angle. ||entailment
+The bash is red shirted. ||entailment
+The bash hits the pitch. ||entailment

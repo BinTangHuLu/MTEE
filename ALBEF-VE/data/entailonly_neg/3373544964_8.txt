@@ -1,0 +1,6 @@
+there is not a trampoline ||contradiction
+there is not a boy ||contradiction
+there is not a dog ||contradiction
+there is not some food ||contradiction
+the boy is not standing ||entailment
+the boy does not look at the dog ||contradiction

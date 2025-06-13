@@ -1,0 +1,5 @@
+there are dogs ||entailment
+there are muzzles ||entailment
+there is a track ||entailment
+the dogs are wearing muzzles ||entailment
+the dogs are on track ||entailment

@@ -1,0 +1,4 @@
+there are not men ||contradiction
+there is not a bakery ||contradiction
+the bakery is not asian ||contradiction
+the men are not in the bakery ||entailment

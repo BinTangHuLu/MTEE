@@ -1,0 +1,4 @@
+there is not a man ||contradiction
+there is not a buttocks ||entailment
+there is not a bench ||contradiction
+the buttocks are not on the bench ||contradiction

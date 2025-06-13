@@ -1,0 +1,3 @@
+There is a man. ||Entailment
+There are plants. ||Entailment
+The man is looking at plants. ||Entailment

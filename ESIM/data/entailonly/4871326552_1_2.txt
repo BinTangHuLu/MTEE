@@ -1,0 +1,4 @@
+There are Women. ||entailment
+The Women are photographing. ||entailment
+There are statues. ||entailment
+The Women are photographing statues. ||entailment

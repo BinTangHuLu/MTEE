@@ -1,0 +1,5 @@
+there are not boys ||contradiction
+there is not a street ||contradiction
+there are not cars ||contradiction
+the boys are not near the street ||contradiction
+the cars are not going by the street ||contradiction

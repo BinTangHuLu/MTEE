@@ -1,0 +1,5 @@
+There is a man. ||entailment
+There are some eyes. ||entailment
+There are some sunglasses. ||entailment
+The man is protecting his eyes. ||entailment
+The man is protecting his eyes with sunglasses. ||entailment

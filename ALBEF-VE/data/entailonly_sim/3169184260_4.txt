@@ -1,0 +1,5 @@
+there is a child ||entailment
+there is a forest ||neutral
+the child is little ||entailment
+the child was playing with legos ||neutral
+the legos are by the forest ||contradiction

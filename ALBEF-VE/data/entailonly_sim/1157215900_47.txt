@@ -1,0 +1,4 @@
+there is a female ||entailment
+the female is older ||entailment
+the female had a thing ||entailment
+the anything is for sale ||contradiction

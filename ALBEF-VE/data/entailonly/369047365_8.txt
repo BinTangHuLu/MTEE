@@ -1,0 +1,3 @@
+there is a dog ||entailment
+there is a mountain ||entailment
+the dog is on the mountain ||entailment

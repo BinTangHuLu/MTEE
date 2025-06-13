@@ -1,0 +1,4 @@
+There are community. ||neutral
+There is a aisle. ||contradiction
+There is a alp. ||entailment
+The community are walking along the trail. ||neutral

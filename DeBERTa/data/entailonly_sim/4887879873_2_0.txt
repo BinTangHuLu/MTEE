@@ -1,0 +1,4 @@
+There is a body. ||entailment
+The body is outside. ||entailment
+There is drink. ||entailment
+The body is near water. ||entailment

@@ -1,0 +1,4 @@
+There is not a man. ||contradiction
+There is not a sign. ||contradiction
+The man is not putting the sign. ||contradiction
+The man is not in the window. ||contradiction

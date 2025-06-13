@@ -1,0 +1,4 @@
+There are not People. ||contradiction
+People do not speak languages. ||contradiction
+The languages are not variety. ||neutral
+The languages are not different. ||entailment

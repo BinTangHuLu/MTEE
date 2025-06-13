@@ -1,0 +1,4 @@
+There is a female. ||Entailment
+There is drink. ||Contradiction
+The female has feet. ||Entailment
+The feet are in drink. ||Contradiction

@@ -1,0 +1,5 @@
+there are not boys ||contradiction
+there is not traffic ||contradiction
+there is not a sidewalk ||contradiction
+the boys are not watching traffic ||contradiction
+the boys are not watching traffic from the sidewalk ||contradiction

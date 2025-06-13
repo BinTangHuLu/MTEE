@@ -1,0 +1,5 @@
+There are players. ||entailment
+There is a rink. ||entailment
+There is Hockey. ||entailment
+The players are standing on the rink. ||entailment
+The players are standing on the ice. ||entailment

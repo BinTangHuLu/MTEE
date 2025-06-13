@@ -1,0 +1,6 @@
+there is not a woman ||contradiction
+there is not a dress ||contradiction
+there is not a group ||contradiction
+the woman is not dark skinned ||entailment
+the woman does not wear a dress ||entailment
+the woman is not standing near the group ||entailment

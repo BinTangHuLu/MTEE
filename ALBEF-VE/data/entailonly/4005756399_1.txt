@@ -1,0 +1,3 @@
+there is a man ||entailment
+there are some balloons ||entailment
+the man is selling balloons ||entailment

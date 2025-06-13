@@ -1,0 +1,3 @@
+There is a woman. ||Entailment
+There is a cart. ||Entailment
+The woman stands behind the cart. ||Neutral

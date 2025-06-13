@@ -1,0 +1,5 @@
+There is not a baby. ||contradiction
+There is not a cat. ||contradiction
+There is not a room. ||contradiction
+The baby is not in the room. ||entailment
+The cat is not in the room. ||contradiction

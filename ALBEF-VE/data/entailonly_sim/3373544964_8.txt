@@ -1,0 +1,5 @@
+there is a child ||entailment
+there is a pup ||entailment
+there is some bread ||entailment
+the child is standing ||entailment
+the child looks at the dog ||entailment

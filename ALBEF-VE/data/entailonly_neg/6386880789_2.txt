@@ -1,0 +1,3 @@
+there is not a swimmer ||contradiction
+there are not some goggles ||contradiction
+the swimmer is not wearing goggles ||contradiction

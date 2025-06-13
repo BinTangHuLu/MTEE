@@ -1,0 +1,2 @@
+There is not a mountain. ||Contradiction
+There is not a cliff. ||Entailment

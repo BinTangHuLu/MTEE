@@ -1,0 +1,3 @@
+There are women. ||entailment
+There is a table. ||entailment
+The women are sitting on the table. ||entailment

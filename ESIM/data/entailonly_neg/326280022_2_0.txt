@@ -1,0 +1,3 @@
+There is not a woman. ||contradiction
+There is not a market. ||contradiction
+The woman does not browse the market. ||contradiction

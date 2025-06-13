@@ -1,0 +1,3 @@
+There is not a human. ||Contradiction
+There is not a beach. ||Contradiction
+The human is not at the beach. ||Entailment

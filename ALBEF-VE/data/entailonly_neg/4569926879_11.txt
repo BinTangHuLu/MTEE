@@ -1,0 +1,5 @@
+there is not a group ||contradiction
+there are not some people ||contradiction
+there are not some hats ||contradiction
+the people are not wearing ||contradiction
+the people are not wearing hats ||contradiction

@@ -1,0 +1,3 @@
+there is an bodily ||entailment
+there is some lumber ||entailment
+the bodily is walking across wood ||entailment

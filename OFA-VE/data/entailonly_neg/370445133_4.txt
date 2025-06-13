@@ -1,0 +1,4 @@
+There is not a man. ||Entailment
+There is not a sport. ||Contradiction
+The sport is not equestrian. ||Entailment
+The man is not participating in equestrian. ||Contradiction

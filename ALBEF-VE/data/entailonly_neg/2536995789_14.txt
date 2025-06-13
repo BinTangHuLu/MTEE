@@ -1,0 +1,3 @@
+there is not a ladders ||contradiction
+there is not a path ||contradiction
+the ladders is not on path ||contradiction

@@ -1,0 +1,4 @@
+There is a man. ||entailment
+There is a group. ||entailment
+The man putts. ||entailment
+The group talks to each other. ||entailment

@@ -1,0 +1,4 @@
+there are men ||entailment
+there are women ||entailment
+men play with one another ||entailment
+woman watches men ||entailment

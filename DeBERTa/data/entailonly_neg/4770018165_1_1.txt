@@ -1,0 +1,3 @@
+There is not Dancing. ||contradiction
+There is not a room. ||contradiction
+Dancing is not going on in the room. ||contradiction

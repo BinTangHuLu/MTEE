@@ -1,0 +1,4 @@
+there is not a woman ||contradiction
+there is not a boy ||contradiction
+there is not water ||contradiction
+the woman and boy are not in water ||contradiction

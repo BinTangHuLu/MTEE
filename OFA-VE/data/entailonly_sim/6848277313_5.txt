@@ -1,0 +1,5 @@
+There is a dude. ||Entailment
+There is a appearance. ||Entailment
+There are artwork. ||Entailment
+The dude is giving a presentation. ||Neutral
+The appearance is with visuals. ||Entailment

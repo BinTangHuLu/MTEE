@@ -1,0 +1,5 @@
+there is a lady ||entailment
+there is a child ||entailment
+there is a flag ||entailment
+the lady is next to the child ||entailment
+the child has a flag ||entailment

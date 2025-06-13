@@ -1,0 +1,6 @@
+there is a association ||entailment
+there are some community ||entailment
+there are some apparatus ||entailment
+there is a assemblage ||entailment
+the community play instruments ||entailment
+the assemblage is behind the people ||entailment

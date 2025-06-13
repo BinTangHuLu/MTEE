@@ -1,0 +1,4 @@
+There is a dude. ||entailment
+The dude is practicing. ||entailment
+The dude is his religion. ||neutral
+The dude is practicing his religion. ||entailment

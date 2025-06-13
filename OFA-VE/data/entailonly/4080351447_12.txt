@@ -1,0 +1,4 @@
+There is a man. ||Entailment
+There is a kitchen. ||Entailment
+The man is cooking. ||Entailment
+The man is cooking at the kitchen. ||Entailment

@@ -1,0 +1,5 @@
+there are clan ||entailment
+the clan are young ||entailment
+the clan are excitedly ||entailment
+the clan watch children ||entailment
+the clan demonstrate yo yo ||neutral

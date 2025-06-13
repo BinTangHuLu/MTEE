@@ -1,0 +1,6 @@
+there is a association ||entailment
+there are some community ||neutral
+there is an article ||neutral
+the article is floating ||entailment
+the article is in the wild ||neutral
+the community are on the object ||entailment

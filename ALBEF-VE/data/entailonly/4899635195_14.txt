@@ -1,0 +1,3 @@
+there are women ||entailment
+there is a street ||entailment
+the women stand in the street ||entailment

@@ -1,0 +1,5 @@
+There is not a child. ||Contradiction
+There is not a child. ||Contradiction
+The child is not young. ||Entailment
+The child did not take something. ||Contradiction
+Something is not from the child. ||Entailment

@@ -1,0 +1,6 @@
+there are not riders ||contradiction
+there is not a park ||contradiction
+there is not a ride ||contradiction
+there are not parents ||contradiction
+the riders are not riding the ride ||contradiction
+the ride is not with parents ||contradiction

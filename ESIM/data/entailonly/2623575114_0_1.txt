@@ -1,0 +1,3 @@
+There is a man. ||entailment
+The man makes something. ||entailment
+The something is a balloon. ||entailment

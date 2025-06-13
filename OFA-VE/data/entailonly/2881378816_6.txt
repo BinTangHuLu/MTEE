@@ -1,0 +1,3 @@
+There is a cityscape. ||Entailment
+The cityscape is alot. ||Entailment
+The cityscape has alot. ||Entailment

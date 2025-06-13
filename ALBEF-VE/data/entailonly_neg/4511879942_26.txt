@@ -1,0 +1,4 @@
+there is not a woman ||contradiction
+there is not a subway entrance ||contradiction
+the woman does not talk to woman ||contradiction
+the woman is not near subway entrance ||contradiction

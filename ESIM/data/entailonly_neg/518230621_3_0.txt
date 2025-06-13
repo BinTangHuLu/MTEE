@@ -1,0 +1,5 @@
+There are not Men. ||contradiction
+There is not food. ||contradiction
+There is not a sidewalk. ||contradiction
+The Men are not selling food. ||contradiction
+The Men are not selling sidewalk. ||contradiction

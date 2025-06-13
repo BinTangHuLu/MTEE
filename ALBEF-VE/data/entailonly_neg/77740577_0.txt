@@ -1,0 +1,5 @@
+there is not a woman ||contradiction
+there is not a couch ||contradiction
+there is not a tv ||contradiction
+the woman is not sitting on the couch ||entailment
+the woman is not watching tv ||entailment

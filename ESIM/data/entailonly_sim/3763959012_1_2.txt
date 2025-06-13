@@ -1,0 +1,4 @@
+There are community. ||neutral
+The community are male. ||neutral
+The community are outside. ||neutral
+The community are with a hat on. ||neutral

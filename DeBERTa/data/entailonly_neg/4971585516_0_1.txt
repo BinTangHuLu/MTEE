@@ -1,0 +1,5 @@
+There is not a person. ||contradiction
+There is not a street. ||contradiction
+The person is not wearing. ||contradiction
+The person is not sweating. ||neutral
+The person is not wearing in street. ||contradiction

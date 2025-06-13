@@ -1,0 +1,3 @@
+There are not Women. ||Entailment
+There are not doors. ||Contradiction
+Women are not walking out doors. ||Entailment

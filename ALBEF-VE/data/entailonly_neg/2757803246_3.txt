@@ -1,0 +1,4 @@
+there is not a child ||contradiction
+there are not some people ||contradiction
+the people are not seated ||entailment
+the child is not playing near people ||contradiction

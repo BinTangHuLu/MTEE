@@ -1,0 +1,2 @@
+There are not games. ||Contradiction
+The games are not about to begin. ||Entailment

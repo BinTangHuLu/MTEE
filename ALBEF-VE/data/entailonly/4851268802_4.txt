@@ -1,0 +1,5 @@
+there is a male ||entailment
+there is a girl ||entailment
+the male is trying to talk ||entailment
+the male is trying to talk to the girl ||neutral
+there is outdoors ||entailment

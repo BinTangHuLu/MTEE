@@ -1,0 +1,3 @@
+There are not girls. ||Contradiction
+The girls are not patriotic. ||Contradiction
+The girls are not being patriotic. ||Neutral

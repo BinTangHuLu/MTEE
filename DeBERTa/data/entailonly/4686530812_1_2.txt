@@ -1,0 +1,4 @@
+There is a man. ||entailment
+There are some people. ||entailment
+There is a crowd. ||entailment
+The man is touching people. ||entailment

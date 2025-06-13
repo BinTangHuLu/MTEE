@@ -1,0 +1,5 @@
+there is a group ||entailment
+there are some people ||entailment
+there is a ball ||entailment
+the people are playing ||entailment
+the people are playing with the ball ||entailment

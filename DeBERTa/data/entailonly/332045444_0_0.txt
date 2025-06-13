@@ -1,0 +1,4 @@
+There is a dog. ||entailment
+There is a stick. ||entailment
+The dog runs with the stick. ||entailment
+The dog has the stick in his mouth. ||entailment

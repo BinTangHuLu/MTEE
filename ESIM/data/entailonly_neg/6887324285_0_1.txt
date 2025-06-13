@@ -1,0 +1,4 @@
+There is not a man. ||contradiction
+There is not some snow. ||contradiction
+The man is not quickly. ||contradiction
+The man is not moving snow. ||contradiction

@@ -1,0 +1,2 @@
+there is a activity ||entailment
+the janitors are doing the activity ||entailment

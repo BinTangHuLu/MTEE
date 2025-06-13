@@ -1,0 +1,3 @@
+There is a climber. ||entailment
+There is a alp. ||entailment
+The climber is standing on the mountain. ||entailment

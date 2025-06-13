@@ -1,0 +1,4 @@
+There is not a girl. ||Contradiction
+There is not a slide. ||Entailment
+The girl is not happily. ||Neutral
+The girl is not inside the slide. ||Entailment

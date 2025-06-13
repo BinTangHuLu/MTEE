@@ -1,0 +1,5 @@
+there is a baby ||entailment
+there are chain reaction ||neutral
+there is a period ||entailment
+the period is nice ||neutral
+the baby rides waves ||contradiction

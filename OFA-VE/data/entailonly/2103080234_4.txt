@@ -1,0 +1,2 @@
+There is a crowd. ||Entailment
+The crowd is outdoor. ||Entailment

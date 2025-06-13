@@ -1,0 +1,3 @@
+There is water. ||entailment
+There is a pool. ||entailment
+The water is being splashed by the pool. ||entailment

@@ -1,0 +1,4 @@
+there is a female ||entailment
+the female is dressed in black ||entailment
+someone is taking a cartoon of the woman ||neutral
+the cartoon is of the woman ||contradiction

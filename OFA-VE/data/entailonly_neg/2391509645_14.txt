@@ -1,0 +1,3 @@
+There is not a man. ||Entailment
+There are not some animals. ||Contradiction
+The man is not outdoors with animals. ||Entailment

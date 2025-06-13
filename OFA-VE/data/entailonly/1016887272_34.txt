@@ -1,0 +1,3 @@
+There are climbers. ||Entailment
+The climbers use safety measures. ||Entailment
+The climbers have safety measures. ||Entailment

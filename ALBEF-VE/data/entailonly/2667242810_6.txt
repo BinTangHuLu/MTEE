@@ -1,0 +1,3 @@
+there are organizers ||entailment
+there is a registration ||entailment
+the organizers were chatting at registration ||entailment

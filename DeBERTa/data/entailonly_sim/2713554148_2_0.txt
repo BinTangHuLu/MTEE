@@ -1,0 +1,4 @@
+There is a agreeable. ||entailment
+There is a beam. ||contradiction
+The kids play the agreeable. ||entailment
+The agreeable requires running around the pole. ||neutral

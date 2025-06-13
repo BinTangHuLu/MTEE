@@ -1,0 +1,3 @@
+there is a girl ||entailment
+there are waters ||entailment
+the girl is splashing around in waters ||entailment

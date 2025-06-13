@@ -1,0 +1,4 @@
+there is not a dog ||contradiction
+there is not a pool ||contradiction
+the dog does not cool off ||contradiction
+the dog is not in the pool ||contradiction

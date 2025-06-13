@@ -1,0 +1,4 @@
+there is a dude ||entailment
+there is a female ||entailment
+the dude walks together ||entailment
+the female walks together ||entailment

@@ -1,0 +1,5 @@
+there is a group ||entailment
+there are some people ||entailment
+there is a wedding ||entailment
+there is outdoors ||entailment
+the group is at the wedding ||entailment

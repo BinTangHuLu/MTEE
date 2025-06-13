@@ -1,0 +1,4 @@
+There are not years. ||Entailment
+There is not eve. ||Contradiction
+There is not a city. ||Contradiction
+Eve is not in the city. ||Contradiction

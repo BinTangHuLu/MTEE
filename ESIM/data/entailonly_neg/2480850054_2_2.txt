@@ -1,0 +1,4 @@
+There is not a boy. ||contradiction
+The boy is not outside. ||contradiction
+The boy is not running. ||contradiction
+The boy is not running. ||contradiction

@@ -1,0 +1,3 @@
+There is a clue. ||Entailment
+There is blazing. ||Contradiction
+The clue is neon. ||Entailment

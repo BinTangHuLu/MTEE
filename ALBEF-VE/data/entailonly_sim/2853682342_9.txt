@@ -1,0 +1,4 @@
+there is a boy ||entailment
+there is a bluff ||entailment
+the boy is young ||entailment
+the boy jumps down hill ||entailment

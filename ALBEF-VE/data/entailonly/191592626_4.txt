@@ -1,0 +1,2 @@
+there is a mountain ||entailment
+there is a cliff ||entailment

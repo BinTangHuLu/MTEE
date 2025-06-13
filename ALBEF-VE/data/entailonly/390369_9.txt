@@ -1,0 +1,2 @@
+there is a performer ||entailment
+the performer stands ||entailment

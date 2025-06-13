@@ -1,0 +1,4 @@
+there is paint ||entailment
+there are faces ||entailment
+the faces are childrens ||neutral
+the paint is on faces ||entailment

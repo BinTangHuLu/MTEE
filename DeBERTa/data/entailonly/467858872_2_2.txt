@@ -1,0 +1,3 @@
+There are dogs. ||entailment
+There is a rock. ||entailment
+The dogs are digging under the rock. ||entailment

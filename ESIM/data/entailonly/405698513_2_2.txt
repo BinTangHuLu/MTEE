@@ -1,0 +1,6 @@
+There is a gymnast. ||entailment
+The gymnast is younger. ||entailment
+The gymnast is wearing dark blue and white. ||contradiction
+The leg is right. ||entailment
+The leg is straight. ||entailment
+The gymnast has a leg. ||entailment

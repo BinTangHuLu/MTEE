@@ -1,0 +1,5 @@
+there is a female ||entailment
+the female is young ||neutral
+the female is singing ||entailment
+the female is playing ||neutral
+the female is singing and playing guitar ||entailment

@@ -1,0 +1,5 @@
+There is a female. ||entailment
+There is a browsing cart. ||entailment
+The browsing cart is full. ||entailment
+The female is walking away from Trader Joe's. ||entailment
+The female is walking away from the shopping cart. ||entailment

@@ -1,0 +1,6 @@
+there is a man ||entailment
+there are some people ||entailment
+the man is juggling ||neutral
+the man is dancing ||entailment
+the man juggles people ||entailment
+the man is dancing in front of people ||entailment

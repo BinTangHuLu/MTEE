@@ -1,0 +1,2 @@
+there is a cowboy ||entailment
+the cowboy shows off ||entailment

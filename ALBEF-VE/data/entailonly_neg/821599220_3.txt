@@ -1,0 +1,3 @@
+there are not people ||contradiction
+there is not an edge ||contradiction
+the people are not standing at the edge ||entailment

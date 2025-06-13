@@ -1,0 +1,5 @@
+There is a association. ||Entailment
+There are some community. ||Entailment
+There is some barley. ||Contradiction
+The community are young. ||Entailment
+The community are in grass. ||Entailment

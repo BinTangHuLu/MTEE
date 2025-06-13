@@ -1,0 +1,4 @@
+there is not a woman ||contradiction
+there are not some whites ||contradiction
+the woman is not hanging ||contradiction
+the woman is not hanging whites ||contradiction

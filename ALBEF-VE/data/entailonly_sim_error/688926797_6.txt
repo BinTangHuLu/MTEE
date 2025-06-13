@@ -1,0 +1,3 @@
+A,in
+E1RE2,hand,on,hip
+RE2,is standing with,hand

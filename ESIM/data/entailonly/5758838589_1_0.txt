@@ -1,0 +1,5 @@
+There is a nurse. ||entailment
+There is a temperature. ||neutral
+There is a woman. ||entailment
+The nurse is taking temperature. ||neutral
+The nurse is taking the temperature of the woman. ||neutral

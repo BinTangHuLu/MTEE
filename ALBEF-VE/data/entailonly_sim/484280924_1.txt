@@ -1,0 +1,5 @@
+there is a dude ||entailment
+there are some penne ||neutral
+there is a bag ||entailment
+the dude puts noodles ||entailment
+the dude puts noodles in a container ||entailment

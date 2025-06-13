@@ -1,0 +1,4 @@
+there is a guy ||entailment
+there is some water ||entailment
+the guy is water skiing ||entailment
+the guy is on water ||entailment

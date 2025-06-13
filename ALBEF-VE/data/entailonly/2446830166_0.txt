@@ -1,0 +1,3 @@
+there is a performer ||entailment
+there is a street ||entailment
+the performer discovers something on the street ||entailment

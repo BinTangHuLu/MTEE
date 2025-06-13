@@ -1,0 +1,4 @@
+There is a child. ||entailment
+The child is gray. ||contradiction
+The child smiles as she. ||entailment
+The child brushes teeth. ||entailment

@@ -1,0 +1,5 @@
+there is a female ||entailment
+there is some barley ||neutral
+the female is sitting ||entailment
+the female is sitting on grass ||contradiction
+the female is near a stroller ||entailment

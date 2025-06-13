@@ -1,0 +1,4 @@
+There is a body. ||entailment
+There is a knapsack. ||entailment
+The body is green. ||entailment
+The body is with a backpack. ||entailment

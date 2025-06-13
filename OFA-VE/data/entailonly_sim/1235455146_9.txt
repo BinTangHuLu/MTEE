@@ -1,0 +1,5 @@
+There is get through. ||Entailment
+There is a coast. ||Entailment
+The get through is warm. ||Entailment
+The get through is sunny. ||Entailment
+The get through is at the beach. ||Entailment

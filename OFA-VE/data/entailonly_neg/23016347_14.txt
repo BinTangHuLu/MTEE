@@ -1,0 +1,4 @@
+There is not a game. ||Contradiction
+There is not a court. ||Entailment
+The game is not in session. ||Entailment
+The game is not in session on court. ||Entailment

@@ -1,0 +1,4 @@
+there is a person ||entailment
+there is an object ||entailment
+the person is resting ||neutral
+the person is resting against the object ||entailment

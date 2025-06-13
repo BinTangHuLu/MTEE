@@ -1,0 +1,4 @@
+There is a arbiter. ||entailment
+There are some list. ||neutral
+The arbiter is getting ready to face-off. ||entailment
+The arbiter is getting ready to face-off with players. ||entailment

@@ -1,0 +1,4 @@
+There are not tears. ||Contradiction
+There are not eyes. ||Contradiction
+Someone does not have tears. ||Neutral
+Tears are not in eyes. ||Entailment

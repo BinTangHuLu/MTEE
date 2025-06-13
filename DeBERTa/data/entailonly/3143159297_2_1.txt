@@ -1,0 +1,4 @@
+There is a photo. ||entailment
+There is a man. ||entailment
+There is a baby girl. ||entailment
+The photo is being taken of the man. ||neutral

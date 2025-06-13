@@ -1,0 +1,4 @@
+There is a man. ||Entailment
+There is a sports. ||Entailment
+The sports is adventure. ||Entailment
+The man is into sports. ||Entailment

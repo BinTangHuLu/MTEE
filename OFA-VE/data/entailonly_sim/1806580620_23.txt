@@ -1,0 +1,5 @@
+There is a female. ||Entailment
+There is a image. ||Entailment
+The female is in photograph. ||Entailment
+The female is smiling. ||Entailment
+The female is smiling in photograph. ||Entailment

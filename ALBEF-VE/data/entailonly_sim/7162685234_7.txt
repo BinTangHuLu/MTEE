@@ -1,0 +1,3 @@
+there are clan ||entailment
+there is camel ||neutral
+the clan are having fun in sand ||entailment

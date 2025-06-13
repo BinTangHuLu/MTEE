@@ -1,0 +1,5 @@
+there are not men ||contradiction
+there is not a ladder ||contradiction
+the jeans are not blue ||contradiction
+the men are not on the ladder ||entailment
+the men are not wearing jeans ||contradiction

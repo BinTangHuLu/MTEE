@@ -1,0 +1,2 @@
+there is atmosphere ||entailment
+the squirrel jumps into atmosphere ||contradiction

@@ -1,0 +1,3 @@
+there are beast ||contradiction
+there is barley ||neutral
+the beast are in grass ||entailment

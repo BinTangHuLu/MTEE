@@ -1,0 +1,5 @@
+There is a Child. ||Entailment
+There is water. ||Entailment
+The Child is looking at. ||Entailment
+The Child is wearing flotational devices. ||Entailment
+The Child is looking at water. ||Entailment

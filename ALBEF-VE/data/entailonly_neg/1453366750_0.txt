@@ -1,0 +1,4 @@
+there are not women ||contradiction
+there is not a top ||contradiction
+the top is not red ||contradiction
+the women are not wearing the top ||entailment

@@ -1,0 +1,4 @@
+There is a gentlewoman. ||Entailment
+There is a baby. ||Entailment
+The baby is young. ||Entailment
+The gentlewoman is together with the child. ||Entailment

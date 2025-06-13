@@ -1,0 +1,3 @@
+there is three ||entailment
+three is good time ||entailment
+three is at barbecuing ||entailment

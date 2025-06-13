@@ -1,0 +1,2 @@
+There is not water. ||Entailment
+There is not nearby. ||Contradiction

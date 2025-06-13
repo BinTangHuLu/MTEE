@@ -1,0 +1,3 @@
+there is someone ||entailment
+there is a book ||entailment
+someone is reading the book ||entailment

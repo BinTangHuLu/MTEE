@@ -1,0 +1,5 @@
+There is not a woman. ||Entailment
+There is not a shirt. ||Entailment
+The woman is not blond. ||Entailment
+The shirt is not yellow. ||Entailment
+The woman is not in the shirt. ||Entailment

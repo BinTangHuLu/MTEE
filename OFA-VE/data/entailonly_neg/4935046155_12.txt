@@ -1,0 +1,5 @@
+There is not a group. ||Entailment
+There are not some people. ||Contradiction
+There are not some vehicles. ||Contradiction
+The group is not large. ||Entailment
+The people are not in vehicles. ||Entailment

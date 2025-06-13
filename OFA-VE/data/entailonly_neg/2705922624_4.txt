@@ -1,0 +1,5 @@
+There is not a man. ||Contradiction
+There is not a group. ||Contradiction
+There are not people. ||Contradiction
+The man is not talking to the group. ||Contradiction
+The group is not of people. ||Contradiction

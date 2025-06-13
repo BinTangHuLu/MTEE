@@ -1,0 +1,3 @@
+there is an suv ||entailment
+the suv is getting towed ||entailment
+the suv is getting towed ||entailment

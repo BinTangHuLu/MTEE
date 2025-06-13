@@ -1,0 +1,5 @@
+There are people. ||Entailment
+There is a picture. ||Entailment
+The people are in the picture. ||Entailment
+There are two people. ||Entailment
+The people are outside people. ||Entailment

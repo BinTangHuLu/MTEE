@@ -1,0 +1,5 @@
+there is not an animal ||contradiction
+there is not a field ||contradiction
+the field is not snowy ||contradiction
+the animal does not carry something ||contradiction
+the animal does not go through the field ||contradiction

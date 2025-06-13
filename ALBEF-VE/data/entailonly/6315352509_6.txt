@@ -1,0 +1,3 @@
+there is a car ||entailment
+there is a racetrack ||entailment
+the car is on racetrack ||entailment

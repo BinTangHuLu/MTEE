@@ -1,0 +1,2 @@
+there is a skateboarder ||entailment
+the skateboarder is outside ||entailment

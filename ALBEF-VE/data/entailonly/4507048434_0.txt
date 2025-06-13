@@ -1,0 +1,4 @@
+there is a man ||entailment
+there is a corner ||entailment
+there is a street ||entailment
+the man is at the corner ||entailment

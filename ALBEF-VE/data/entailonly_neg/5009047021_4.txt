@@ -1,0 +1,6 @@
+there is not a player ||contradiction
+there is not an end zone ||contradiction
+there are not opponents ||contradiction
+the player is not running ||contradiction
+the player is not running for the end zone ||contradiction
+the opponents do not chase the player ||contradiction

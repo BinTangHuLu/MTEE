@@ -1,0 +1,3 @@
+there is a dog ||entailment
+there are some garages ||entailment
+the dog is near a row of garages ||entailment

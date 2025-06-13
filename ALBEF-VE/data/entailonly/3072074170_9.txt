@@ -1,0 +1,4 @@
+there is a man ||entailment
+there is some grass ||entailment
+the man stands ||contradiction
+the man stands in grass ||entailment

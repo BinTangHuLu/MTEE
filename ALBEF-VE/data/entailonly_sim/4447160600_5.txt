@@ -1,0 +1,3 @@
+there is an agent ||entailment
+the agent is standing ||entailment
+the agent is standing outside ||entailment

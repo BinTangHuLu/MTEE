@@ -1,0 +1,4 @@
+there is a dude ||entailment
+there is a challenge ||entailment
+the dude is riding the bull ||contradiction
+the dude is in the contest ||neutral

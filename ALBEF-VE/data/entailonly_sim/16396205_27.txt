@@ -1,0 +1,6 @@
+there are dude ||entailment
+there is a cookout ||entailment
+there is bread ||entailment
+there is a barbecue ||entailment
+the dude are huddled around the barbecue ||entailment
+the bread is tended to on the grill ||entailment

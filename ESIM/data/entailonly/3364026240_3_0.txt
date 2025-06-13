@@ -1,0 +1,4 @@
+There is a field. ||contradiction
+There is a snowboarder. ||entailment
+The field is snow. ||entailment
+The field is with snowboarder. ||entailment

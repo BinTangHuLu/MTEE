@@ -1,0 +1,3 @@
+There are not men. ||contradiction
+There are not drums. ||contradiction
+The men do not pound on drums. ||contradiction

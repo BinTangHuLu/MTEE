@@ -1,0 +1,4 @@
+There are not people. ||Contradiction
+There is not a scene. ||Contradiction
+The people are not enjoying. ||Neutral
+The people are not outside the scene. ||Entailment

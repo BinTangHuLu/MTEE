@@ -1,0 +1,1 @@
+A person is trying to move a projectile from where he is to another place.

@@ -1,0 +1,5 @@
+There is a athlete. ||entailment
+There is a ball. ||entailment
+The athlete is trying to make a shot. ||entailment
+There are list. ||neutral
+The list try to block it. ||contradiction

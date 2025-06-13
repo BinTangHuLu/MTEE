@@ -1,0 +1,4 @@
+there is not a woman ||contradiction
+there are not some feet ||entailment
+the feet are not all day ||entailment
+the woman is not on feet ||entailment

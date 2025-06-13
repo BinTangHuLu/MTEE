@@ -1,0 +1,3 @@
+There is a woman. ||entailment
+There is a ballet class. ||entailment
+The woman is teaching ballet class. ||entailment

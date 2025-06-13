@@ -1,0 +1,3 @@
+there are not friends ||contradiction
+there are not others ||entailment
+friends are not dancing with others ||contradiction

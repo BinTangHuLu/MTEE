@@ -1,0 +1,4 @@
+there is a female ||entailment
+there is a fur ||entailment
+the fur is black fur ||neutral
+the female is not wearing the coat ||entailment

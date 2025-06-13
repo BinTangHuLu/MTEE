@@ -1,0 +1,3 @@
+there is not a ballplayer ||contradiction
+there is not a ball ||contradiction
+the ballplayer is not throwing the ball ||entailment

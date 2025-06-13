@@ -1,0 +1,5 @@
+there is a guy ||entailment
+there is a sash ||entailment
+there is a drum ||entailment
+the sash is leopard print ||entailment
+the guy holds the drum ||entailment

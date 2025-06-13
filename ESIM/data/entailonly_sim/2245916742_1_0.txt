@@ -1,0 +1,4 @@
+There is a animal. ||entailment
+The animal is standing. ||entailment
+There are equipment. ||entailment
+The animal is between objects. ||entailment

@@ -1,0 +1,2 @@
+There is someone. ||entailment
+Someone is selling artwork. ||entailment

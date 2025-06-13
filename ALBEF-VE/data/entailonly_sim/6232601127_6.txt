@@ -1,0 +1,4 @@
+there is a fidget ||entailment
+there is a basin ||entailment
+the fidget is shaping ||entailment
+the fidget is shaping the pot ||neutral

@@ -1,0 +1,4 @@
+there are children ||entailment
+there is a crowd ||entailment
+the children are black and white ||neutral
+the children will perform for the crowd ||entailment

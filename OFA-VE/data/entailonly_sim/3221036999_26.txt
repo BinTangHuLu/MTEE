@@ -1,0 +1,2 @@
+There is a slope. ||Entailment
+The Skateboarder is jumping over slope. ||Entailment

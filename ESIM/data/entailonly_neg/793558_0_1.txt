@@ -1,0 +1,5 @@
+There is not a girl. ||contradiction
+There is not a boy. ||contradiction
+The boy does not have his shoes. ||contradiction
+The girl does not help the boy. ||contradiction
+The boy does not tie shoes. ||contradiction

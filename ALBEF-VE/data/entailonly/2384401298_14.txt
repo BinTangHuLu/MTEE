@@ -1,0 +1,3 @@
+there are animals ||entailment
+there is water ||entailment
+the animals are near water ||entailment

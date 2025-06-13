@@ -1,0 +1,5 @@
+There is not a man. ||Contradiction
+There is not a presentation. ||Contradiction
+There are not visuals. ||Contradiction
+The man is not giving a presentation. ||Contradiction
+The presentation is not with visuals. ||Entailment

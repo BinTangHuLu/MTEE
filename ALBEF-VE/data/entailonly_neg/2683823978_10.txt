@@ -1,0 +1,13 @@
+there are not women ||contradiction
+there are not bicycles ||contradiction
+the bicycles are not decorated ||contradiction
+the women are not with bicycles ||contradiction
+there is not a backpack ||contradiction
+the backpack is not red ||entailment
+the women is not wearing a backpack ||contradiction
+there is not a helmet ||contradiction
+the helmet is not black ||entailment
+the women does not have a helmet ||contradiction
+there is not a sweatshirt ||contradiction
+the sweatshirt is not pink ||contradiction
+the women does not have a sweatshirt ||contradiction

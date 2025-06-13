@@ -1,0 +1,3 @@
+there are community ||entailment
+there is a bullhorn ||entailment
+the community are speaking into the megaphone ||contradiction

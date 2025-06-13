@@ -1,0 +1,2 @@
+E1R,person,stands near
+RE2,in,store

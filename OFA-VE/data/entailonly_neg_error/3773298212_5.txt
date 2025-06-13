@@ -1,0 +1,2 @@
+A,is standing up
+R,is standing up next to

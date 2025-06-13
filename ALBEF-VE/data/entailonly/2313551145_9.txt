@@ -1,0 +1,8 @@
+there is a man ||entailment
+there are some boxes ||entailment
+there are some shoulders ||entailment
+there is a coca cola building ||entailment
+the man delivers boxes ||entailment
+the man carries boxes ||entailment
+the boxes are on shoulders ||entailment
+the man goes to coca cola building ||entailment

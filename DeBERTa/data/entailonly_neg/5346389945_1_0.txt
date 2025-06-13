@@ -1,0 +1,5 @@
+There is not a girl. ||contradiction
+There is not a jacket. ||contradiction
+There is not a landscape. ||contradiction
+The girl is not young. ||contradiction
+The girl is not standing in the landscape. ||contradiction

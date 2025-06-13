@@ -1,0 +1,4 @@
+there are not children ||contradiction
+there are not sleeping bags ||contradiction
+the sleeping bags are not bright colored ||contradiction
+the children are not sleeping in sleeping bags ||contradiction

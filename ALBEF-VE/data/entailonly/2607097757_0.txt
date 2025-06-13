@@ -1,0 +1,7 @@
+there are men ||entailment
+there are hats ||entailment
+there are glasses ||entailment
+the hats are constructions ||neutral
+the glasses are safety ||entailment
+the men are wearing hats ||entailment
+the men are wearing glasses ||neutral

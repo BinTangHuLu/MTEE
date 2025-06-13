@@ -1,0 +1,4 @@
+There is not a man. ||contradiction
+There is not an instrument. ||entailment
+The man does not play. ||contradiction
+The man does not have eyes closed. ||contradiction

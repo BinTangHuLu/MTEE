@@ -1,0 +1,3 @@
+there are not machines ||contradiction
+there is not a factory ||contradiction
+the machines are not at the factory ||contradiction

@@ -1,0 +1,4 @@
+There are community. ||entailment
+There is a architecture. ||entailment
+The community are riding bikes. ||entailment
+The community are riding near the building. ||entailment

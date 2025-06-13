@@ -1,0 +1,3 @@
+There is a woman. ||entailment
+There is a rooftop. ||entailment
+The woman is on the rooftop. ||entailment

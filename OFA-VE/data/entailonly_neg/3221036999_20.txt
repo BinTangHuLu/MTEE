@@ -1,0 +1,5 @@
+There is not a male. ||Entailment
+There is not a skateboard. ||Contradiction
+There is not a trick. ||Contradiction
+The male is not doing. ||Entailment
+The male is not doing trick. ||Contradiction

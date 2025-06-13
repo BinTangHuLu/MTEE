@@ -1,0 +1,7 @@
+there is not a person ||contradiction
+there are not some doors ||contradiction
+there is not a set ||contradiction
+there is not a man ||contradiction
+the shirt is not black ||contradiction
+the person is not walking into doors ||contradiction
+the man does not exit set ||contradiction

@@ -1,0 +1,3 @@
+there are not people ||contradiction
+there is not fire ||contradiction
+the people are not around fire ||contradiction

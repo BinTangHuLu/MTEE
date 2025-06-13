@@ -1,0 +1,6 @@
+There is a person. ||entailment
+There is a bag. ||entailment
+There is a girl. ||entailment
+The person is carrying. ||entailment
+The bag is with a girl behind her. ||entailment
+The person is carrying a bag. ||entailment

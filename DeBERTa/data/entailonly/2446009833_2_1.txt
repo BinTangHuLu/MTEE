@@ -1,0 +1,3 @@
+There is a woman. ||entailment
+The woman is blue. ||entailment
+The woman hands something to the woman. ||entailment

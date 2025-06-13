@@ -1,0 +1,4 @@
+there is not a boy ||contradiction
+there is not a bat ||contradiction
+the bat is not plastic ||neutral
+the boy is not holding the bat ||contradiction

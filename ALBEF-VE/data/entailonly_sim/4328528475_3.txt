@@ -1,0 +1,6 @@
+there is a image ||entailment
+there is a child ||entailment
+there is a agreeable ||entailment
+the child is playing ||entailment
+the image shows the girl ||entailment
+the child is playing a game ||entailment

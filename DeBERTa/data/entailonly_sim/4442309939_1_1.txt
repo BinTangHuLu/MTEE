@@ -1,0 +1,3 @@
+There are community. ||entailment
+There is a architecture. ||entailment
+community gather in front of the building. ||entailment

@@ -1,0 +1,6 @@
+There is not a car. ||Contradiction
+There is not a seat. ||Contradiction
+There is not a couple. ||Contradiction
+The couple is not away facing. ||Entailment
+The car does not serve as a seat. ||Contradiction
+The seat is not for the couple. ||Neutral

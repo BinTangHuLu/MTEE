@@ -1,0 +1,5 @@
+There is a group. ||entailment
+There are some people. ||entailment
+The group is standing. ||entailment
+The people are smiling. ||entailment
+The group is standing around people. ||entailment

@@ -1,0 +1,5 @@
+there are not friends ||contradiction
+there is not a way ||contradiction
+there is not a subway ||contradiction
+friends do not make way ||contradiction
+the way is not toward subway ||contradiction

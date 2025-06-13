@@ -1,0 +1,3 @@
+there is a child ||entailment
+there is a propeller ||entailment
+the child reaches up toward the propeller ||entailment

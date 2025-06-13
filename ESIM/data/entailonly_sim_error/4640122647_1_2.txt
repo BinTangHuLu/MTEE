@@ -1,0 +1,2 @@
+EA,court,is outdoor
+E1RE2,court,is outdoor,basketball court

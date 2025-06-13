@@ -1,0 +1,5 @@
+there are community ||entailment
+there is a boundary ||entailment
+the community are 4 ||neutral
+the community are in line ||entailment
+the boundary is for bus ||entailment

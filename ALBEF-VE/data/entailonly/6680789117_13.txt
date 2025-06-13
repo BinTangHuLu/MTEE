@@ -1,0 +1,4 @@
+there is a kayak ||entailment
+there is a yellow kayak ||entailment
+there is a larger white kayak ||neutral
+the yellow kayak approaches the larger white kayak ||entailment

@@ -1,0 +1,3 @@
+there are men ||entailment
+there is a chess ||entailment
+the men are playing chess ||entailment

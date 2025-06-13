@@ -1,0 +1,2 @@
+there is a cop ||entailment
+there is a crowd ||entailment

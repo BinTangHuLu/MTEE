@@ -1,0 +1,4 @@
+A,a few
+RE2,wearing,skirts
+RE2,wearing,shirts
+RE2,walking in,a line

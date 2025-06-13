@@ -1,0 +1,6 @@
+There is not a man. ||contradiction
+There is not snow. ||contradiction
+There are not ski poles. ||contradiction
+The man is not trekking. ||contradiction
+The man is not with ski poles. ||contradiction
+The man is not through snow. ||contradiction

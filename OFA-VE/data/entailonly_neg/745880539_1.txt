@@ -1,0 +1,5 @@
+There is not a dog. ||Contradiction
+There is not some grass. ||Entailment
+The dog is not small. ||Entailment
+The dog is not in grass. ||Entailment
+The dog is not in grass. ||Entailment

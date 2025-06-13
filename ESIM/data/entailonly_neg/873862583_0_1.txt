@@ -1,0 +1,7 @@
+There is not Lilly. ||contradiction
+There is not Sally. ||contradiction
+There is not lunch. ||contradiction
+Lilly is not laughing. ||contradiction
+Sally is not laughing. ||contradiction
+Lilly is not eating lunch. ||contradiction
+Sally is not eating lunch. ||contradiction

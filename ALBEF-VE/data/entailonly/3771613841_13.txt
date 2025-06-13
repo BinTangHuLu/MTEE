@@ -1,0 +1,3 @@
+there are men ||entailment
+there is fishing ||entailment
+the men enjoy fishing ||neutral

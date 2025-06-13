@@ -1,0 +1,5 @@
+there are child ||entailment
+there is a child ||entailment
+there is drink ||entailment
+the child stand next to the boy ||entailment
+the child is sitting by water ||entailment

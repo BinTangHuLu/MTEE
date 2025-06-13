@@ -1,0 +1,3 @@
+there are friends ||entailment
+there is a celebration ||entailment
+the friends are enjoying the celebration ||entailment

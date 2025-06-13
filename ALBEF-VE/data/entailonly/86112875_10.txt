@@ -1,0 +1,3 @@
+there are humans ||entailment
+the humans are two ||entailment
+the humans are building ||entailment

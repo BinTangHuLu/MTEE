@@ -1,0 +1,4 @@
+there is a dominant ||entailment
+there is a dress ||entailment
+the dominant is red ||neutral
+the dress is white and brown ||contradiction

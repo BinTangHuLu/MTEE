@@ -1,0 +1,3 @@
+there are not women ||contradiction
+the women are not two ||entailment
+the women are not sitted ||entailment

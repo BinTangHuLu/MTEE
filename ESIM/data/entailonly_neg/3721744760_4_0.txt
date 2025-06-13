@@ -1,0 +1,3 @@
+There is not a child. ||contradiction
+The child is not getting. ||contradiction
+The child is not manicure. ||contradiction

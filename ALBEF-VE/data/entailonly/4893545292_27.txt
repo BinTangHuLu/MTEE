@@ -1,0 +1,6 @@
+there is a lady ||entailment
+there are some jeans ||entailment
+there are some sandals ||entailment
+there is a tank top ||entailment
+the lady is standing outside ||entailment
+the lady is looking at something ||entailment

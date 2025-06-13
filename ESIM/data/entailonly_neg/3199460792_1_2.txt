@@ -1,0 +1,6 @@
+There is not a dog. ||contradiction
+There is not a ball. ||contradiction
+The dog is not golden. ||contradiction
+The dog is not playing with a ball. ||contradiction
+The dog is not playing with another dog. ||contradiction
+The dog is not outside. ||contradiction

@@ -1,0 +1,5 @@
+There is a baby. ||entailment
+There is a pedal. ||entailment
+The baby is his. ||neutral
+The baby is riding the bike. ||entailment
+The pedal is down the street. ||neutral

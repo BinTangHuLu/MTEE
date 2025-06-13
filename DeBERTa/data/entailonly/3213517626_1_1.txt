@@ -1,0 +1,4 @@
+There is a roofer. ||entailment
+The roofer is outside. ||entailment
+The roofer is working. ||entailment
+The roofer is outside working. ||entailment

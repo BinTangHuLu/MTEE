@@ -1,0 +1,5 @@
+there are not people ||contradiction
+there are not men ||contradiction
+there is not music ||contradiction
+the people do not watch men ||contradiction
+the men do not make music ||contradiction

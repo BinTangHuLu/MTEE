@@ -1,0 +1,3 @@
+There is not a boy. ||Entailment
+There are not feet. ||Contradiction
+The boy does not sit at feet. ||Entailment

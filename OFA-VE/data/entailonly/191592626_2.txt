@@ -1,0 +1,5 @@
+There is a mountain. ||Entailment
+There is a climber. ||Entailment
+There is an edge. ||Entailment
+The mountain has a climber. ||Entailment
+The climber is walking along the edge. ||Neutral

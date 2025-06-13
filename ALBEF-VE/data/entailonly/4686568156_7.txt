@@ -1,0 +1,3 @@
+there is a distance ||entailment
+the distance is considerable ||neutral
+the distance is separating them ||entailment

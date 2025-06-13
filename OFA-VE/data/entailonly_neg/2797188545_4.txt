@@ -1,0 +1,3 @@
+There are not Boaters. ||Contradiction
+There are not paddlers. ||Contradiction
+The Boaters are not passing by paddlers. ||Entailment

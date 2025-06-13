@@ -1,0 +1,3 @@
+There are not firefighters. ||contradiction
+There is not a job. ||contradiction
+The firefighters have not finished the job. ||contradiction

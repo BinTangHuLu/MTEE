@@ -1,0 +1,4 @@
+There is not a lady. ||contradiction
+There is not a truck. ||contradiction
+The lady is not young. ||contradiction
+The lady is not ordering from the truck. ||contradiction

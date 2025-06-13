@@ -1,0 +1,4 @@
+there is a teenager ||entailment
+there is a skateboard ||entailment
+the teenager does trick ||entailment
+the trick is on skateboard ||entailment

@@ -1,0 +1,4 @@
+there are workers ||entailment
+there is a job ||entailment
+the workers are visibly ||entailment
+the workers struggle to job ||neutral

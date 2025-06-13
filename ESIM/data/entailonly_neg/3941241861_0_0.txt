@@ -1,0 +1,3 @@
+There are not friends. ||contradiction
+There is not a table. ||contradiction
+The friends are not at the table. ||contradiction

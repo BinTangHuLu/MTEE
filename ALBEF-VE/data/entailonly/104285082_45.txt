@@ -1,0 +1,3 @@
+there is music ||entailment
+there is sound ||entailment
+the sound is in music ||entailment

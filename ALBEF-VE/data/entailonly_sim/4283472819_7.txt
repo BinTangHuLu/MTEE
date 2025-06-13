@@ -1,0 +1,6 @@
+there is a dude ||entailment
+there is a coat ||entailment
+the coat is two toned gray ||neutral
+the coat is gray ||entailment
+the coat is two toned ||entailment
+the dude is skiing ||entailment

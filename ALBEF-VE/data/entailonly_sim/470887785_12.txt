@@ -1,0 +1,5 @@
+there is a female ||entailment
+there are some accent ||neutral
+there is a box ||entailment
+the female has sounds ||entailment
+the accent are emanating from the mouth ||entailment

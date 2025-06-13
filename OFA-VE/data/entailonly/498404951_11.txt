@@ -1,0 +1,4 @@
+There is a dog. ||Entailment
+There is some water. ||Entailment
+The dog is white. ||Entailment
+The dog is at water. ||Entailment

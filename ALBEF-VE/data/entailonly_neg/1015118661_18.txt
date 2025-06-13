@@ -1,0 +1,5 @@
+there is not a boy ||contradiction
+the boy is not smiling ||contradiction
+there is not a wall ||contradiction
+the wall is not stony ||contradiction
+the boy is not seeing the wall ||contradiction

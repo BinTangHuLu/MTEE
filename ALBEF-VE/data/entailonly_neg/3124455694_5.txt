@@ -1,0 +1,3 @@
+there are not people ||contradiction
+there is not a train ||contradiction
+the people are not getting on the train ||entailment

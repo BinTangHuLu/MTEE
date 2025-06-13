@@ -1,0 +1,2 @@
+There is not something. ||Contradiction
+Something is not broken. ||Entailment

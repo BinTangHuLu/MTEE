@@ -1,0 +1,5 @@
+There is a boy. ||entailment
+The boy is young. ||entailment
+The boy is honoring veterans. ||entailment
+There are veterans. ||entailment
+The veterans are fallen. ||neutral

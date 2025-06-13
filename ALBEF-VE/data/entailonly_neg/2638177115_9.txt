@@ -1,0 +1,3 @@
+there are not members ||contradiction
+there is not a military ||contradiction
+the members are not talking to members ||contradiction

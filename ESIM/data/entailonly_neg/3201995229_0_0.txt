@@ -1,0 +1,6 @@
+There is not a boy. ||contradiction
+There are not some shorts. ||contradiction
+The shorts are not blue. ||contradiction
+There is not a t-shirt. ||contradiction
+The boy is not about to hit a tennis ball. ||contradiction
+The boy is not about to hit a racket. ||contradiction

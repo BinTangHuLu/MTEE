@@ -1,0 +1,5 @@
+There is a dude. ||Entailment
+There is a cannon. ||Entailment
+There is a accept. ||Entailment
+The dude is with the gun. ||Entailment
+The cannon is over the shoulder. ||Entailment

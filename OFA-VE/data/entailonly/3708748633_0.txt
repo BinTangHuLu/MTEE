@@ -1,0 +1,3 @@
+There is a man. ||Entailment
+There is an instrument. ||Entailment
+The man plays instrument. ||Entailment

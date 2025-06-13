@@ -1,0 +1,8 @@
+There is a association. ||neutral
+There are some community. ||neutral
+There is a dude. ||entailment
+There is a female. ||entailment
+There are some apparatus. ||entailment
+The association is including people. ||entailment
+The association are playing instruments. ||entailment
+The association are playing on bus. ||entailment

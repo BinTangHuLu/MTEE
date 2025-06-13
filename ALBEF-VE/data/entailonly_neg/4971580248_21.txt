@@ -1,0 +1,5 @@
+there is not a woman ||contradiction
+there is not a street ||contradiction
+there is not a sandwich board ||contradiction
+the woman does not stand in the street ||contradiction
+the woman is not in front of the sandwich board ||contradiction

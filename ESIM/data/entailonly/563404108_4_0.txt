@@ -1,0 +1,3 @@
+There are people. ||entailment
+There are a lot of people. ||entailment
+The people are standing near each other. ||entailment

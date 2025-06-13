@@ -1,0 +1,6 @@
+there is not a couple ||contradiction
+there is not a view ||contradiction
+there is not a car ||contradiction
+the car is not parked ||neutral
+the couple is not enjoying the view ||contradiction
+the view is not from the car ||entailment

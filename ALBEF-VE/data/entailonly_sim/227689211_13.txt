@@ -1,0 +1,3 @@
+there is a constable ||entailment
+there are some community ||entailment
+the constable is watching people ||entailment

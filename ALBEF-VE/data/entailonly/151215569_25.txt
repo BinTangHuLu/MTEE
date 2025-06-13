@@ -1,0 +1,9 @@
+there is a child ||entailment
+there are some shoulders ||entailment
+there is a man ||entailment
+there is a group ||entailment
+there are some people ||entailment
+the child is sitting on shoulders ||entailment
+the child is on man ||entailment
+the man is amid group ||entailment
+the group is of people ||entailment

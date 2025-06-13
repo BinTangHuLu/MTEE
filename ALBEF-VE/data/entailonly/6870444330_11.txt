@@ -1,0 +1,6 @@
+there is a man ||entailment
+there is a flannel ||entailment
+there is a microphone ||entailment
+the flannel is wearing ||neutral
+the man holds the microphone ||entailment
+the man points at the man ||entailment

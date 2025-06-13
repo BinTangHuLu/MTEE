@@ -1,0 +1,4 @@
+There is a basketball player. ||Entailment
+There is an opposing. ||Entailment
+The basketball player is opposing. ||Entailment
+The basketball player is attempting to score player. ||Entailment

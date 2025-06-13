@@ -1,0 +1,5 @@
+There is not a person. ||Contradiction
+There is not a cow. ||Contradiction
+The person is not outdoors. ||Entailment
+The cow is not outdoors. ||Entailment
+The person and cow are not outdoors. ||Contradiction

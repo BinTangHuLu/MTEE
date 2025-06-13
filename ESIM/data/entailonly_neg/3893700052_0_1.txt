@@ -1,0 +1,5 @@
+There is not a couple. ||contradiction
+There is not a statue. ||contradiction
+The couple is not standing. ||entailment
+The statue is a.not ||contradiction
+The couple are not having their picture. ||contradiction

@@ -1,0 +1,4 @@
+There are people. ||entailment
+There is a lawn mower. ||entailment
+The people ride the lawn mower. ||entailment
+The lawn mower is outside. ||entailment

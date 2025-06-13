@@ -1,0 +1,6 @@
+there is a blouse ||entailment
+there is a architecture ||entailment
+the blouse is yellow ||entailment
+the architecture is old ||entailment
+the cyclist wears the blouse ||entailment
+the cyclist rides by the architecture ||entailment

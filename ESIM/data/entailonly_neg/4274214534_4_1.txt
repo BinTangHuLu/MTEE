@@ -1,0 +1,5 @@
+There is not a woman. ||contradiction
+There is not a dog. ||contradiction
+The woman is not with the dog. ||contradiction
+The woman is hernot . ||entailment
+The dog is not outside. ||contradiction

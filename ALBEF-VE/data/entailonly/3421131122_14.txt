@@ -1,0 +1,4 @@
+there is a man ||entailment
+there is a kayak ||entailment
+the kayak is red ||neutral
+the man is using kayak ||entailment

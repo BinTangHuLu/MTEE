@@ -1,0 +1,4 @@
+There is a boy. ||entailment
+There is a project. ||entailment
+The boy is school. ||entailment
+The project is for activity. ||neutral

@@ -1,0 +1,5 @@
+there is a man ||entailment
+there is a smile ||entailment
+there is a face ||entailment
+the man has a smile ||entailment
+the smile is on the face ||entailment

@@ -1,0 +1,3 @@
+there is a cyclist ||entailment
+there is a bicycle ||entailment
+the cyclist maneuvers the bicycle ||entailment

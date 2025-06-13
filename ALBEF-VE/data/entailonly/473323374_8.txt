@@ -1,0 +1,3 @@
+there is a baby ||entailment
+there is a hospital ||neutral
+the baby is in hospital ||entailment

@@ -1,0 +1,3 @@
+There is not a human. ||contradiction
+There is not a vehicle. ||contradiction
+The human is not riding the vehicle. ||contradiction

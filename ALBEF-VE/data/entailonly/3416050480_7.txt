@@ -1,0 +1,3 @@
+there is a horse ||entailment
+there is an airplane ||entailment
+the horse jumps over the airplane ||entailment

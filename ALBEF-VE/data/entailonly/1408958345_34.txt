@@ -1,0 +1,4 @@
+there is a girl ||entailment
+there is a beach ||entailment
+the girl is happy ||neutral
+the girl is at the beach ||entailment

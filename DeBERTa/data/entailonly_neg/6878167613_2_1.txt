@@ -1,0 +1,5 @@
+There is not a golfer. ||contradiction
+There is not a green. ||contradiction
+There is not a crowd. ||contradiction
+The golfer is not getting ready. ||contradiction
+The green is not putt. ||contradiction

@@ -1,0 +1,5 @@
+there is a group ||entailment
+there are some people ||entailment
+there is a room ||entailment
+the people are casually dressed ||entailment
+the people stand in room ||contradiction

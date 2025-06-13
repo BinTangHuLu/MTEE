@@ -1,0 +1,4 @@
+there is a man ||entailment
+there is some equipment ||entailment
+the equipment is photography ||neutral
+the man sets up equipment ||entailment

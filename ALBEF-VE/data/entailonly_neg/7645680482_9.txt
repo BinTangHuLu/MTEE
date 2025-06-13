@@ -1,0 +1,3 @@
+there are not cyclists ||contradiction
+there is not outside ||contradiction
+the cyclists are not outside ||contradiction

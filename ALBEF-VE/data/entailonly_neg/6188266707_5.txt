@@ -1,0 +1,4 @@
+there is not a person ||contradiction
+there is not a sport ||contradiction
+the person is not female ||contradiction
+the person is not playing sport ||contradiction

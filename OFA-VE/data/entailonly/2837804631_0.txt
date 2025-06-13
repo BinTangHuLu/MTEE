@@ -1,0 +1,3 @@
+There is a kid. ||Entailment
+There is a fountain. ||Entailment
+The kid is splashed at fountain. ||Entailment

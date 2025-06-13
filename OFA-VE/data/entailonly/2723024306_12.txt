@@ -1,0 +1,3 @@
+There is a creation. ||Entailment
+There is water. ||Contradiction
+The creation is near water. ||Entailment

@@ -1,0 +1,3 @@
+there are not plants ||contradiction
+there is not a kid ||contradiction
+the plants are not next to the kid ||contradiction

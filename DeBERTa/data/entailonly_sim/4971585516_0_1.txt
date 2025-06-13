@@ -1,0 +1,5 @@
+There is a body. ||neutral
+There is a avenue. ||entailment
+The body is wearing. ||entailment
+The body is sweating. ||neutral
+The body is wearing in street. ||entailment

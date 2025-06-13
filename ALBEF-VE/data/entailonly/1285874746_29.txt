@@ -1,0 +1,6 @@
+there is a lady ||entailment
+there is a top ||entailment
+the top is wearing ||entailment
+there is a group ||entailment
+the lady sees the group ||entailment
+the group is in distance ||entailment

@@ -1,0 +1,3 @@
+There is not a man. ||contradiction
+There is not an intersection. ||contradiction
+The man is not walking across the intersection. ||contradiction

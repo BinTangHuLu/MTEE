@@ -1,0 +1,5 @@
+There is a group. ||entailment
+There are some people. ||entailment
+The group is eating. ||entailment
+The group is drinking. ||entailment
+The people are eating and drinking in the group. ||entailment

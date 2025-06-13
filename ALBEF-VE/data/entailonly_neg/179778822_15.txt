@@ -1,0 +1,5 @@
+there is not a lady ||contradiction
+there is not a toddler ||contradiction
+there is not a mirror ||contradiction
+the lady does not sit next to the toddler ||entailment
+the toddler does not sit next to the mirror ||entailment

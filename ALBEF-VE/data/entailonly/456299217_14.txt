@@ -1,0 +1,4 @@
+there is a child ||entailment
+there is a fountain ||entailment
+the fountain is large ||entailment
+the child sits at the fountain ||entailment

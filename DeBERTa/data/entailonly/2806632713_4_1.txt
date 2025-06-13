@@ -1,0 +1,5 @@
+There is a person. ||entailment
+There is some air. ||entailment
+There is a ride. ||entailment
+The person is thrown into air. ||entailment
+The person is thrown into air by ride. ||entailment

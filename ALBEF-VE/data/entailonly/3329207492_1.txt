@@ -1,0 +1,3 @@
+there are children ||entailment
+there are cars ||entailment
+the children are playing in front of cars ||entailment

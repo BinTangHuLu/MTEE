@@ -1,0 +1,4 @@
+There is not an audience. ||contradiction
+There is not a concert. ||contradiction
+The audience is not dark. ||contradiction
+The audience is not listening to the concert. ||contradiction

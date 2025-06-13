@@ -1,0 +1,3 @@
+There are not Humans. ||contradiction
+The Humans are not outside. ||contradiction
+The Humans are meandering around menot . ||entailment

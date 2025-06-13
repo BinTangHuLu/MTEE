@@ -1,0 +1,5 @@
+there is not a man ||contradiction
+there is not a dog ||contradiction
+there is not a treat ||contradiction
+the man did not give the dog ||contradiction
+the man did not give the treat ||contradiction

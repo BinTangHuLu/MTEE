@@ -1,0 +1,3 @@
+There is a person. ||entailment
+There is a motorcycle. ||entailment
+The person is riding the motorcycle. ||entailment

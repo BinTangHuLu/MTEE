@@ -1,0 +1,3 @@
+there is a student ||entailment
+the student is working ||entailment
+the student is working ||entailment

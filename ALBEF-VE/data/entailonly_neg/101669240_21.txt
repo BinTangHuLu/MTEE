@@ -1,0 +1,6 @@
+there is not a man ||contradiction
+there is not a painting ||contradiction
+there is not snow ||contradiction
+there are not skis ||contradiction
+the man is not showing off the painting ||contradiction
+the man does not ski by the man ||contradiction

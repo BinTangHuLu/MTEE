@@ -1,0 +1,5 @@
+There is a child. ||entailment
+There is a auto. ||entailment
+The child is motorized. ||entailment
+The child played in streets. ||entailment
+The child played with a car. ||entailment

@@ -1,0 +1,5 @@
+there are men ||entailment
+there are cones ||entailment
+there is a truck ||entailment
+the men are placed cones ||entailment
+the cones are in truck ||entailment

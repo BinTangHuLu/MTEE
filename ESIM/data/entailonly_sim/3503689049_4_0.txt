@@ -1,0 +1,4 @@
+There is a dude. ||entailment
+There are some specs. ||neutral
+The specs are wearing. ||neutral
+The dude is wearing sunglasses. ||entailment

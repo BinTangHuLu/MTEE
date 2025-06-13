@@ -1,0 +1,3 @@
+there is a female ||entailment
+the female is manicuring ||entailment
+the female is manicuring nails ||entailment

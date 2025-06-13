@@ -1,0 +1,7 @@
+There are not People. ||contradiction
+The People are not talking. ||contradiction
+The People are not drinking. ||contradiction
+The People are not sitting. ||contradiction
+There is not a table. ||contradiction
+The table is not outside. ||contradiction
+The People are not sitting at the table. ||contradiction

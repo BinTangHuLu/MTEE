@@ -1,0 +1,2 @@
+There are Gymnasts. ||entailment
+The Gymnasts get ready for competition. ||entailment

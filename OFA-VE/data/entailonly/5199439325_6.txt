@@ -1,0 +1,4 @@
+There is a Student. ||Entailment
+There is a project. ||Entailment
+The project is art. ||Entailment
+The Student is working on the project. ||Entailment

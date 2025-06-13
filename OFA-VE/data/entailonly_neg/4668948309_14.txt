@@ -1,0 +1,6 @@
+There is not a group. ||Contradiction
+There are not some people. ||Contradiction
+There is not an edge. ||Contradiction
+There is not a ledge. ||Entailment
+The group is not near the ledge. ||Entailment
+The people are not near the ledge. ||Entailment

@@ -1,0 +1,8 @@
+there are not men ||contradiction
+there is not an item ||contradiction
+there are not veggies ||contradiction
+there is not a man ||contradiction
+the veggies are not fresh ||contradiction
+the men do not trade an item ||contradiction
+the item is not over veggies ||contradiction
+the men are not speaking to the man ||contradiction

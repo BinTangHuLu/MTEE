@@ -1,0 +1,4 @@
+There is a child. ||entailment
+There is a coat. ||entailment
+The child is wearing. ||entailment
+The coat is a. ||entailment

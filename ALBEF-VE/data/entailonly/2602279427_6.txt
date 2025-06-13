@@ -1,0 +1,5 @@
+there is a man ||entailment
+there is a street ||entailment
+the man is oriental ||entailment
+the street is busy ||entailment
+the man walks down street ||entailment

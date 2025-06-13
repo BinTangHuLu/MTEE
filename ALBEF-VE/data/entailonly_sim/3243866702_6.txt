@@ -1,0 +1,5 @@
+there are clan ||entailment
+there is a tortoise ||entailment
+there is drink ||entailment
+the clan are giving water ||contradiction
+the clan are giving water to the turtle ||entailment

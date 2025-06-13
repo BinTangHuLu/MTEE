@@ -1,0 +1,5 @@
+There is a runner. ||entailment
+There is a competition. ||entailment
+There is a finish line. ||entailment
+The runner is in the competition. ||neutral
+The runner wants to go to the finish line. ||entailment

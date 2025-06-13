@@ -1,0 +1,4 @@
+there is a dude ||entailment
+there is a architect ||entailment
+the architect is large ||neutral
+the dude is standing on builder ||entailment

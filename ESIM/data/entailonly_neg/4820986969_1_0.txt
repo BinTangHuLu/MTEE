@@ -1,0 +1,8 @@
+There is not a man. ||contradiction
+There is not a jersey. ||contradiction
+There is not a cubicle. ||contradiction
+The man is not sport. ||entailment
+The jersey is hisnot . ||entailment
+The cubicle is hisnot . ||entailment
+The man is not wearing jersey. ||contradiction
+The man is not in cubicle. ||contradiction

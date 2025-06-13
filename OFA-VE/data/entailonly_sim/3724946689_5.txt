@@ -1,0 +1,5 @@
+There are driver. ||Entailment
+There is a estate. ||Contradiction
+There is a plate. ||Contradiction
+The estate is amusement. ||Entailment
+The driver are on coaster. ||Neutral

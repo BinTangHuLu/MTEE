@@ -1,0 +1,3 @@
+there are lacrosse players ||entailment
+there is a ball ||entailment
+the lacrosse players are going after the ball ||neutral

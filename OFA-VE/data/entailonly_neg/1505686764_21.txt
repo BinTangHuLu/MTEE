@@ -1,0 +1,4 @@
+There is not a man. ||Contradiction
+There are not some shorts. ||Entailment
+The shorts are not red. ||Entailment
+The man is not outside in shorts. ||Entailment

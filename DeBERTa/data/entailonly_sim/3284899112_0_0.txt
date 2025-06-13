@@ -1,0 +1,8 @@
+There is a dude. ||contradiction
+There is a female. ||entailment
+There are band. ||entailment
+There is a architecture. ||entailment
+The dude looks at hands. ||contradiction
+The female looks at hands. ||neutral
+The dude is in front of the building. ||entailment
+The female is in front of the building. ||contradiction

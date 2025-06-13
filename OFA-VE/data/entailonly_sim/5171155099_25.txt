@@ -1,0 +1,4 @@
+There is a dude. ||Entailment
+There is a colt. ||Entailment
+The dude and horse are outside. ||Entailment
+The dude is outside the horse. ||Entailment

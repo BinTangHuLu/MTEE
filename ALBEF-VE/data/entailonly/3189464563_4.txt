@@ -1,0 +1,3 @@
+there are women ||entailment
+there is jewelry ||entailment
+the women wear jewelry ||entailment

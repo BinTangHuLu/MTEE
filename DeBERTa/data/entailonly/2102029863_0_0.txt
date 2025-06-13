@@ -1,0 +1,4 @@
+There is a Crowd. ||entailment
+The Crowd has gathered to celebrate. ||entailment
+The Crowd has gathered to watch. ||entailment
+The Crowd has gathered to parade. ||entailment

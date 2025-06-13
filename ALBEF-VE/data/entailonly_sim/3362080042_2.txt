@@ -1,0 +1,3 @@
+there is a animal ||entailment
+the animal is playing ||entailment
+the animal is playing baseball ||entailment

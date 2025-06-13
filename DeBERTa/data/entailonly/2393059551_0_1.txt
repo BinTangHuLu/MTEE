@@ -1,0 +1,3 @@
+There is a man. ||entailment
+There is a construction site. ||entailment
+The man stands in the construction site. ||entailment

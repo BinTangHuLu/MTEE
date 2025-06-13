@@ -1,0 +1,4 @@
+there is a female ||entailment
+there is some eyebrow ||entailment
+the eyebrow is white ||neutral
+the female has white hair ||entailment

@@ -1,0 +1,4 @@
+There are individuals. ||entailment
+There are two individuals. ||entailment
+The individuals are walking. ||entailment
+The individuals are outdoors. ||entailment

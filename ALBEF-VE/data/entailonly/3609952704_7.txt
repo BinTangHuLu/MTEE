@@ -1,0 +1,5 @@
+there is a boy ||entailment
+there is a ball ||entailment
+there is a track ||entailment
+the boy is holding the ball ||entailment
+the ball is next to the track ||entailment

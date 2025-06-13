@@ -1,0 +1,4 @@
+there is not a man ||contradiction
+there is not a bench ||contradiction
+the bench is not park ||contradiction
+the man does not lay on the bench ||entailment

@@ -1,0 +1,4 @@
+there is a boy ||entailment
+there is a device ||entailment
+the device is electronic ||entailment
+the boy has a device ||entailment

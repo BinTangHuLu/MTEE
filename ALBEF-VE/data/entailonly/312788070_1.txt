@@ -1,0 +1,3 @@
+there are players ||entailment
+there are outdoors ||entailment
+the players are outdoors ||entailment

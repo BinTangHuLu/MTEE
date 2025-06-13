@@ -1,0 +1,5 @@
+There is a boy. ||Entailment
+There is an arm. ||Entailment
+The boy is young. ||Entailment
+The arm is injured. ||Entailment
+The boy is with arm. ||Entailment

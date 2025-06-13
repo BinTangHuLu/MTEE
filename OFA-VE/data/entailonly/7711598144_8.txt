@@ -1,0 +1,4 @@
+There is a tournament. ||Entailment
+There are arts. ||Entailment
+The tournament is martial. ||Entailment
+The tournament is arts. ||Entailment

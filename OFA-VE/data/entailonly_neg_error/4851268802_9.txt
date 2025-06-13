@@ -1,0 +1,2 @@
+A,speaking
+RE2,is speaking,none

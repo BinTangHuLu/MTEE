@@ -1,0 +1,3 @@
+there is a dude ||entailment
+the dude is speaking ||entailment
+the dude is speaking ||entailment

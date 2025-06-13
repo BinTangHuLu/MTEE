@@ -1,0 +1,5 @@
+There is a person. ||Entailment
+There is a car. ||Entailment
+There is a street. ||Entailment
+The person goes by the car. ||Entailment
+The car is next to the street. ||Entailment

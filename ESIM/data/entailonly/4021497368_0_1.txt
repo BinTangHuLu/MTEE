@@ -1,0 +1,4 @@
+There is a ball. ||entailment
+The ball is kicked. ||entailment
+There are players. ||entailment
+The players mingle. ||entailment

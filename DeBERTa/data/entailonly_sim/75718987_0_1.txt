@@ -1,0 +1,4 @@
+There is a association. ||entailment
+There are female. ||entailment
+There is a boutique. ||entailment
+The association is at the deli. ||entailment

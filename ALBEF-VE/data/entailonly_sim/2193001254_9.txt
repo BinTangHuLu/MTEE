@@ -1,0 +1,4 @@
+there is a dude ||entailment
+there are community ||entailment
+the dude is sipping on beer ||neutral
+the community are around the man ||entailment

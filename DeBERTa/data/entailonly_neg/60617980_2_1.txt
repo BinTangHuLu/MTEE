@@ -1,0 +1,5 @@
+There is not a worker. ||contradiction
+There is not a sidewalk. ||contradiction
+The worker is not cement. ||contradiction
+The sidewalk is not new. ||contradiction
+The worker is not working on sidewalk. ||contradiction

@@ -1,0 +1,3 @@
+there is a male ||entailment
+there is a hat ||entailment
+the male has a hat ||entailment

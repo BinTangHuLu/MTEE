@@ -1,0 +1,3 @@
+there is a dude ||contradiction
+there is a gangster ||entailment
+the dude has a hood ||entailment

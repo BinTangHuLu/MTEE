@@ -1,0 +1,4 @@
+There is not a human. ||contradiction
+There is not an animal. ||contradiction
+The human is not outdoors. ||contradiction
+The human is not outdoors with the animal. ||entailment

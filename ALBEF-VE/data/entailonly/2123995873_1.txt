@@ -1,0 +1,3 @@
+there is a worker ||entailment
+there is a scaffold ||entailment
+the worker is climbing scaffold ||entailment

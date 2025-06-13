@@ -1,0 +1,3 @@
+There is a boy. ||entailment
+There is a horse. ||entailment
+The boy rides the horse. ||entailment

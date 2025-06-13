@@ -1,0 +1,5 @@
+There are men. ||entailment
+There are innertubes. ||entailment
+There is water. ||entailment
+The men sit on innertubes. ||entailment
+The men sit in the middle of water. ||entailment

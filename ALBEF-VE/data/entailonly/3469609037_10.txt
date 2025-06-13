@@ -1,0 +1,10 @@
+there is a person ||entailment
+there is a skateboarding trick ||entailment
+there is air ||entailment
+there is a board ||entailment
+there is a hand ||entailment
+the hand is left ||entailment
+the person does skateboarding trick ||entailment
+the skateboarding trick is in air ||entailment
+the person is holding board ||neutral
+the board is with hand ||neutral

@@ -1,0 +1,5 @@
+There are dude. ||entailment
+There is a period. ||entailment
+There is effort. ||entailment
+The dude are finishing the day. ||entailment
+The dude are finishing the work. ||entailment

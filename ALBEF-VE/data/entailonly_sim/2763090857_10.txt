@@ -1,0 +1,3 @@
+there is a blouse ||entailment
+the blouse is striped ||entailment
+someone is wearing the striped blouse ||entailment

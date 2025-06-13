@@ -1,0 +1,4 @@
+there is a dude ||entailment
+there is drink ||neutral
+the dude does flip ||entailment
+the flip is into drink ||contradiction

@@ -1,0 +1,2 @@
+There is a bronco. ||Entailment
+The bronco is outside. ||Entailment

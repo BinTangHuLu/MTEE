@@ -1,0 +1,4 @@
+There is a female. ||entailment
+There is a bank. ||neutral
+The female is shopping. ||neutral
+The female is shopping at the store. ||entailment

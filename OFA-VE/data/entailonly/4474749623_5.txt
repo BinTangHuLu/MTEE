@@ -1,0 +1,4 @@
+There are people. ||Entailment
+There are umbrellas. ||Entailment
+The umbrellas are different color. ||Entailment
+The people have umbrellas. ||Entailment

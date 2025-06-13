@@ -1,0 +1,4 @@
+there are workers ||entailment
+there is a lawn ||entailment
+the workers are construction ||neutral
+the workers are working outside on lawn ||entailment

@@ -1,0 +1,5 @@
+there are workers ||entailment
+there are feet ||entailment
+there is ground ||entailment
+the workers have feet ||entailment
+the feet are on ground ||entailment

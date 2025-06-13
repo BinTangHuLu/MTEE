@@ -1,0 +1,2 @@
+There is a dude. ||Entailment
+The dude is standing inside of the bus. ||Entailment

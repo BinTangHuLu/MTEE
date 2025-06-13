@@ -1,0 +1,4 @@
+There is a man. ||entailment
+There are coveralls. ||entailment
+The man is wearing coveralls. ||entailment
+The coveralls are coveralls. ||entailment

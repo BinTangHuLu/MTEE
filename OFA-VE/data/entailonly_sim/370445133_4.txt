@@ -1,0 +1,4 @@
+There is a dude. ||Entailment
+There is a athletics. ||Entailment
+The athletics is equestrian. ||Entailment
+The dude is participating in equestrian. ||Entailment

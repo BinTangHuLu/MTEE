@@ -1,0 +1,4 @@
+There is not a man. ||contradiction
+There is not a player. ||contradiction
+The man does not try to tackle the player. ||contradiction
+The man is not in NFL game. ||entailment

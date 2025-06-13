@@ -1,0 +1,3 @@
+there is a scientist ||entailment
+there is a microscope ||entailment
+the scientist is using microscope ||entailment

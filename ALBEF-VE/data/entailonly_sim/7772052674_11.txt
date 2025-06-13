@@ -1,0 +1,5 @@
+there are community ||entailment
+there is a bar ||entailment
+there is a block ||entailment
+the community sit at the table ||contradiction
+the bar is at the bar ||entailment

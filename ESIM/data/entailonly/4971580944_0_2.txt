@@ -1,0 +1,4 @@
+There is a Phone. ||entailment
+There is a woman. ||entailment
+The woman bends forward. ||entailment
+The Phone is to butt. ||contradiction

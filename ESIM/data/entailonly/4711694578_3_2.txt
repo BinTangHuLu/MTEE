@@ -1,0 +1,3 @@
+There is a statue. ||entailment
+There is a street. ||entailment
+The statue is in the middle of the street. ||entailment

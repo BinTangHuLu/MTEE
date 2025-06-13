@@ -1,0 +1,4 @@
+There is not a woman. ||Contradiction
+There is not a cap. ||Contradiction
+The cap is not red. ||Entailment
+The woman is not in the cap. ||Entailment

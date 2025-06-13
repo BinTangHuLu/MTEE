@@ -1,0 +1,3 @@
+EA,hat,wearing
+R,propped against
+R,is standing at

@@ -1,0 +1,5 @@
+There is a female. ||entailment
+There is a account. ||entailment
+The female is taking. ||entailment
+The account is cold weather. ||entailment
+The female is taking a picture. ||entailment

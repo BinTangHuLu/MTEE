@@ -1,0 +1,6 @@
+There is a dude. ||entailment
+There is a colt. ||neutral
+There is a armor. ||entailment
+The dude is brown. ||entailment
+The dude is riding the horse. ||entailment
+The dude is protecting head with the helmet. ||entailment

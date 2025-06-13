@@ -1,0 +1,5 @@
+There is a gentlewoman. ||entailment
+There is a gallery. ||contradiction
+The gentlewoman is in the kitchen. ||entailment
+The gentlewoman is her. ||entailment
+The gentlewoman cleans feet. ||entailment

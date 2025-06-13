@@ -1,0 +1,4 @@
+There is a male. ||entailment
+The male is elderly. ||entailment
+The male is blowing air. ||entailment
+The male is blowing into object. ||entailment

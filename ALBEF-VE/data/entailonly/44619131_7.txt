@@ -1,0 +1,5 @@
+there are men ||entailment
+there are laptops ||entailment
+there is a setting ||entailment
+the men work on laptops ||entailment
+the men are in the setting ||entailment

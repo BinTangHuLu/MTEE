@@ -1,0 +1,5 @@
+There is not a woman. ||contradiction
+The woman does not have small cutting utensils. ||contradiction
+There is not a net. ||contradiction
+The net is not large. ||contradiction
+The woman is not using the net. ||contradiction

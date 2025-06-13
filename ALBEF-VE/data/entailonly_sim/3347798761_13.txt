@@ -1,0 +1,4 @@
+there is a antic ||entailment
+there is a bluff ||entailment
+the snowboarder performs antic ||contradiction
+the antic is over hill ||contradiction

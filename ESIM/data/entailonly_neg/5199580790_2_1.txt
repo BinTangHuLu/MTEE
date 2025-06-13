@@ -1,0 +1,7 @@
+There are not people. ||contradiction
+There is not a boat. ||contradiction
+There is not a place. ||contradiction
+The place is not more than one. ||contradiction
+The people do not put something in the boat. ||contradiction
+The people do not put something in the place. ||contradiction
+The boat is not in the place. ||entailment

@@ -1,0 +1,4 @@
+There is a race car. ||Entailment
+There is fire. ||Entailment
+The race car is shooting. ||Entailment
+The race car is shooting fire. ||Entailment

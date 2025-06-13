@@ -1,0 +1,5 @@
+There is not a human. ||Contradiction
+There is not an object. ||Contradiction
+There is not some food. ||Contradiction
+The human is not holding the object. ||Contradiction
+The object is not in front of the food. ||Contradiction

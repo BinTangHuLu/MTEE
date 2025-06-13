@@ -1,0 +1,5 @@
+There is not a woman. ||contradiction
+There is not a cell phone. ||contradiction
+The woman is hernot . ||neutral
+The cell phone is not up to ear. ||contradiction
+The woman does not have a cell phone. ||contradiction

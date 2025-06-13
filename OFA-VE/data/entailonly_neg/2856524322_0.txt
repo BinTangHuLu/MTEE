@@ -1,0 +1,5 @@
+There is not a man. ||Entailment
+There is not a bicycle. ||Contradiction
+There are not tricks. ||Contradiction
+The tricks are not doing. ||Contradiction
+The man is not doing tricks. ||Contradiction

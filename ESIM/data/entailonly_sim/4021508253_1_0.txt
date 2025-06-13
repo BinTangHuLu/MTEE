@@ -1,0 +1,5 @@
+There is a gentlewoman. ||entailment
+There is some melody. ||entailment
+There are some earphones. ||neutral
+The gentlewoman is listening to music. ||entailment
+The gentlewoman is listening to headphones. ||neutral

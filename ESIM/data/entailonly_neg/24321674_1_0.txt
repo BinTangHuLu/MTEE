@@ -1,0 +1,7 @@
+There is not Pebbles. ||contradiction
+There is not a body. ||contradiction
+There is not water. ||contradiction
+There are not boys. ||contradiction
+The boys are not two. ||contradiction
+Pebbles are not being thrown into the body of water. ||contradiction
+The boys are not being thrown by Pebbles. ||contradiction

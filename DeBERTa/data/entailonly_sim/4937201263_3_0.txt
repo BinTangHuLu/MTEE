@@ -1,0 +1,7 @@
+There is a female. ||entailment
+There is a berth. ||entailment
+There is an sea. ||neutral
+The female is outside. ||entailment
+The berth is overlooking. ||entailment
+The female sits on the dock. ||entailment
+The berth is overlooking the ocean. ||neutral

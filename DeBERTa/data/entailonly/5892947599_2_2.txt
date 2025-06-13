@@ -1,0 +1,3 @@
+There is a player. ||entailment
+There is a baseball. ||entailment
+The player is catching baseball. ||entailment

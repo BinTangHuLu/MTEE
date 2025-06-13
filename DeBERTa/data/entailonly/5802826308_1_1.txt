@@ -1,0 +1,5 @@
+There are children. ||entailment
+There is a telescope. ||entailment
+There is a city street. ||entailment
+The children are looking through the telescope. ||entailment
+The children are looking at the city street. ||entailment

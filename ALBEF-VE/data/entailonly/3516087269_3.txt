@@ -1,0 +1,5 @@
+there is a woman ||entailment
+there is a subway ||entailment
+the woman has blue hair ||contradiction
+the woman is with blue hair ||contradiction
+the woman stands in the subway ||entailment

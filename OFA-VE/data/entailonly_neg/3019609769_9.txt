@@ -1,0 +1,4 @@
+There is not a group. ||Entailment
+There are not people. ||Entailment
+The people are not dark-skinned. ||Entailment
+The people are not walking in the group. ||Entailment

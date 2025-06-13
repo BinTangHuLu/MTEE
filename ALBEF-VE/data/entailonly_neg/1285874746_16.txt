@@ -1,0 +1,6 @@
+there is not a woman ||contradiction
+there is not a dress ||contradiction
+there is not a hat ||contradiction
+the dress is not blue ||contradiction
+the woman is not in dress ||entailment
+the woman is not in hat ||contradiction

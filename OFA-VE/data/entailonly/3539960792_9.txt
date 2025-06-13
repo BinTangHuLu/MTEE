@@ -1,0 +1,4 @@
+There is a man. ||Entailment
+There is a bat. ||Entailment
+The man is with the bat. ||Entailment
+The man is wearing the bat. ||Entailment

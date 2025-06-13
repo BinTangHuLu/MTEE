@@ -1,0 +1,3 @@
+there is not a person ||contradiction
+there is not surfing ||contradiction
+the person is not surfing ||contradiction

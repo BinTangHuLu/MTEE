@@ -1,0 +1,3 @@
+There are community. ||entailment
+There is a account. ||entailment
+The community are posing for the portrait. ||neutral

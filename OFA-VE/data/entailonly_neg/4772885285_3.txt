@@ -1,0 +1,7 @@
+There is not a lady. ||Contradiction
+There is not an umbrella. ||Contradiction
+The umbrella is not lucky. ||Entailment
+There is not a day. ||Contradiction
+The day is not rainy. ||Contradiction
+The umbrella is not on the day. ||Entailment
+The lady is not with the umbrella. ||Entailment

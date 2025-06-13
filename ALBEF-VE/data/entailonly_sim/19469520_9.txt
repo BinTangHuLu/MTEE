@@ -1,0 +1,3 @@
+there are competition ||entailment
+there is a championship ||neutral
+the competition are after competition ||neutral

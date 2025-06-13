@@ -1,0 +1,4 @@
+There is not an animal. ||contradiction
+There is not some grass. ||contradiction
+The animal is not furry. ||contradiction
+The animal is not in grass. ||contradiction

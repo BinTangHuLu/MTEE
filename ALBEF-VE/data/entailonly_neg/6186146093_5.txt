@@ -1,0 +1,5 @@
+there is not a man ||contradiction
+there is not a lady ||contradiction
+there is not a bike tire ||contradiction
+the man and lady are not fixing the bike tire ||contradiction
+the man is not fixing the bike tire ||contradiction

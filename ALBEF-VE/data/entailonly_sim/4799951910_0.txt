@@ -1,0 +1,5 @@
+there is a dude ||entailment
+there is a fedora ||neutral
+there is a bar ||entailment
+the fedora is with guy ||entailment
+the dude is sitting on wall ||entailment

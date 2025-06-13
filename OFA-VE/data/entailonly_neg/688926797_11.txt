@@ -1,0 +1,4 @@
+There is not a woman. ||Contradiction
+There is not a dress. ||Contradiction
+The dress is not blue. ||Entailment
+The woman does not pose in the dress. ||Contradiction

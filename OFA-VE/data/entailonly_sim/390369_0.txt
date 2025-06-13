@@ -1,0 +1,3 @@
+There is a apparel. ||Entailment
+The apparel is wearing. ||Entailment
+Someone is standing on the avenue. ||Entailment

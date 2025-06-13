@@ -1,0 +1,9 @@
+There is not a person. ||contradiction
+There is not rain. ||contradiction
+There is not damage. ||contradiction
+The person is not standing. ||contradiction
+The person is not looking at. ||contradiction
+The rain is not outside. ||contradiction
+The damage is not flood. ||contradiction
+The person is not standing outside rain. ||contradiction
+The person is not looking at damage. ||contradiction

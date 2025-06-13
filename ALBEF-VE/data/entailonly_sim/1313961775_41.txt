@@ -1,0 +1,5 @@
+there is a child ||entailment
+there is drink ||entailment
+there is a coat ||entailment
+the child floats in water ||entailment
+the child is with a jacket ||entailment

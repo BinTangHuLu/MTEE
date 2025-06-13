@@ -1,0 +1,4 @@
+there is a person ||entailment
+there is a whistle ||entailment
+the person is playing ||contradiction
+the person is playing whistle ||contradiction

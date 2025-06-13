@@ -1,0 +1,3 @@
+There are not Jockeys. ||Contradiction
+There is not a race. ||Contradiction
+The Jockeys are not on the race. ||Contradiction

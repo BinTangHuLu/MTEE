@@ -1,0 +1,5 @@
+There are dude. ||entailment
+There is a female. ||entailment
+There is crop. ||entailment
+The dude look at produce. ||entailment
+The female looks at produce. ||entailment

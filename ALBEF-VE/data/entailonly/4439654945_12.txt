@@ -1,0 +1,6 @@
+there are children ||entailment
+there is a yo yo ||entailment
+the children are young ||entailment
+the children are excitedly ||entailment
+the children watch children ||entailment
+the children demonstrate yo yo ||neutral

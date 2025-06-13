@@ -1,0 +1,4 @@
+there is not a policeman ||contradiction
+there is not a uniform ||contradiction
+the uniform is not in ||neutral
+the policeman is not standing guard ||contradiction

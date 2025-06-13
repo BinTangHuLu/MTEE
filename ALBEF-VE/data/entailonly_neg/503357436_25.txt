@@ -1,0 +1,4 @@
+there are not men ||contradiction
+there is not a couple ||entailment
+the men are not outdoors ||entailment
+the men are not outsiders ||neutral

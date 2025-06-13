@@ -1,0 +1,5 @@
+there is a dude ||entailment
+there are some gesture ||entailment
+there is a dais ||entailment
+the dude uses gestures ||entailment
+the dude is speaking at the podium ||entailment

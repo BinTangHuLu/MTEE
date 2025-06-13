@@ -1,0 +1,3 @@
+There is it. ||Entailment
+There is outside. ||Entailment
+It is raining outside. ||Entailment

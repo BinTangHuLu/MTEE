@@ -1,0 +1,5 @@
+There is not a child. ||Contradiction
+There is not a toy. ||Contradiction
+The child is not small. ||Entailment
+The child is not male. ||Entailment
+The child does not engage with toy. ||Neutral

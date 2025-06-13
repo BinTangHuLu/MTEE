@@ -1,0 +1,4 @@
+There is a girl. ||Entailment
+There is a structure. ||Entailment
+The structure is famous. ||Entailment
+The girl lays down in front of the structure. ||Entailment

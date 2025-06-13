@@ -1,0 +1,6 @@
+There is a airplane. ||Entailment
+There are some arm. ||Entailment
+The arm are plane's. ||Entailment
+The airplane flaps wings. ||Entailment
+There is an aircraft. ||Entailment
+The aircraft soars in the air. ||Entailment

@@ -1,0 +1,5 @@
+There is a group. ||entailment
+There are some people. ||entailment
+There is a stadium. ||entailment
+The group is unhappy. ||neutral
+The group are at stadium. ||entailment

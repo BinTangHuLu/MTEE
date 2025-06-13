@@ -1,0 +1,4 @@
+there is a child ||entailment
+there is a fluctuation ||neutral
+the child is young ||neutral
+the child is sitting in swing ||entailment

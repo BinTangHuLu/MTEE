@@ -1,0 +1,2 @@
+There are not animals. ||contradiction
+The animals are not swimming. ||contradiction

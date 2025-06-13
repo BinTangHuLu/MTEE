@@ -1,0 +1,5 @@
+There is not a stand. ||contradiction
+There is not some produce. ||contradiction
+There is not a street market. ||contradiction
+The stand is not selling produce. ||contradiction
+The stand is not in the street market. ||contradiction

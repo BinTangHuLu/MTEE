@@ -1,0 +1,4 @@
+There is a car. ||Entailment
+There are some people. ||Entailment
+The people are sitting. ||Entailment
+The car is with people. ||Entailment

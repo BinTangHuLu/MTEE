@@ -1,0 +1,2 @@
+there is a set ||entailment
+there is a architecture ||entailment

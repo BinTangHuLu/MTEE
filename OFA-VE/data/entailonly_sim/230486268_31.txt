@@ -1,0 +1,5 @@
+There is a child. ||Entailment
+There is a doll. ||Contradiction
+There is a apparatus. ||Entailment
+The child is little. ||Entailment
+The child has a toy. ||Entailment

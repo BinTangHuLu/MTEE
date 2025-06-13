@@ -1,0 +1,3 @@
+there is not a man ||contradiction
+there are not some skis ||contradiction
+the man is not on skis ||contradiction

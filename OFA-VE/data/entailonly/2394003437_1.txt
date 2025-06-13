@@ -1,0 +1,4 @@
+There is a boy. ||Entailment
+There is a shirt. ||Entailment
+The shirt is green. ||Entailment
+The boy is in the shirt. ||Entailment

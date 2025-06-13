@@ -1,0 +1,2 @@
+There is a account. ||entailment
+The cheerleaders are getting taken by account. ||contradiction

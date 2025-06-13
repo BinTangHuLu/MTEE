@@ -1,0 +1,5 @@
+There are community. ||neutral
+There is a artery. ||entailment
+community are riding bikes. ||neutral
+community are riding directions. ||neutral
+community are riding road. ||neutral

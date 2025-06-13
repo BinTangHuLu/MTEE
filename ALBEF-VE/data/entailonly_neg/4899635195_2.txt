@@ -1,0 +1,4 @@
+there are not women ||contradiction
+there is not a rail ||contradiction
+the dresses are not dresses ||contradiction
+the women are not standing by the rail ||entailment

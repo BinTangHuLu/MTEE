@@ -1,0 +1,4 @@
+There is not an elder. ||Entailment
+There is not a place. ||Contradiction
+The elder is not elder. ||Entailment
+The elder is not near place. ||Entailment

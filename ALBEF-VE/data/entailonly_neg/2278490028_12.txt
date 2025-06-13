@@ -1,0 +1,6 @@
+there is not a group ||contradiction
+there are not some people ||contradiction
+there is not an object ||contradiction
+the object is not floating ||contradiction
+the object is not in the wild ||contradiction
+the people are not on the object ||entailment

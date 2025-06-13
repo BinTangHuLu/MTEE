@@ -1,0 +1,4 @@
+There are not cyclists. ||Entailment
+There is not a group. ||Entailment
+The cyclists are not racing. ||Contradiction
+The cyclists are not racing in a group. ||Entailment

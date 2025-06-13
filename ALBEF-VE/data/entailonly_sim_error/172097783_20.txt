@@ -1,0 +1,2 @@
+EA,jacket,blue
+RE2,has,jacket

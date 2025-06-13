@@ -1,0 +1,3 @@
+There is not a person. ||contradiction
+The person is not standing upright. ||entailment
+The person is not standing upright. ||entailment

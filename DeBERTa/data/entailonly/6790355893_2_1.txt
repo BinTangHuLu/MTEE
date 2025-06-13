@@ -1,0 +1,5 @@
+There is a player. ||entailment
+There is a basketball. ||entailment
+The player is trying to make a shot. ||entailment
+There are players. ||entailment
+The players try to block it. ||entailment

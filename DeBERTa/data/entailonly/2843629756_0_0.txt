@@ -1,0 +1,4 @@
+There is a man. ||entailment
+There is a sign. ||entailment
+The man is putting the sign. ||entailment
+The man is in the window. ||entailment

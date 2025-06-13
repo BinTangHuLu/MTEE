@@ -1,0 +1,7 @@
+there are not men ||contradiction
+there is not a woman ||contradiction
+there is not a knife ||contradiction
+there are not two men ||contradiction
+the men are not with woman ||contradiction
+the men do not have knife ||contradiction
+the men do not grin at woman ||contradiction

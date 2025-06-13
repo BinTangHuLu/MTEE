@@ -1,0 +1,4 @@
+There is not a person. ||Contradiction
+There is not a helmet. ||Contradiction
+The helmet is not colorful. ||Entailment
+The person is not wearing a colorful helmet. ||Neutral

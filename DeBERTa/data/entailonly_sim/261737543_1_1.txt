@@ -1,0 +1,5 @@
+There is a dude. ||entailment
+There is a bluff. ||contradiction
+There is a capital. ||neutral
+The dude jumps off the cliff. ||entailment
+The bluff is near the city. ||contradiction

@@ -1,0 +1,4 @@
+There are community. ||entailment
+There is a coast. ||entailment
+The community are young. ||entailment
+The community run on beach. ||entailment

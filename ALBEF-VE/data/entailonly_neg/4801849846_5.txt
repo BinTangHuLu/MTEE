@@ -1,0 +1,6 @@
+there is not a man ||contradiction
+there are not some pants ||entailment
+there are not some buildings ||contradiction
+the buildings are not colorful ||contradiction
+the man is not with pants ||entailment
+the man is not walking near buildings ||contradiction

@@ -1,0 +1,3 @@
+There are not girls. ||contradiction
+There is not a cake. ||contradiction
+There are not three. ||contradiction

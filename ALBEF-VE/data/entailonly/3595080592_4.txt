@@ -1,0 +1,4 @@
+there are kids ||entailment
+there are people ||entailment
+the people are older ||neutral
+the kids are near people ||entailment

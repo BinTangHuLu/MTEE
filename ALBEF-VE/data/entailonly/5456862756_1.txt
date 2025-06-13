@@ -1,0 +1,5 @@
+there is a woman ||entailment
+there are some feet ||entailment
+there is water ||entailment
+the woman has feet ||entailment
+the feet are in water ||entailment

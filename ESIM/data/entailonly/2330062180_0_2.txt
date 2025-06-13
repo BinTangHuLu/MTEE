@@ -1,0 +1,5 @@
+There is a dog. ||entailment
+The dog is golden. ||entailment
+There is land. ||contradiction
+The land is snow-covered. ||entailment
+The dog bounds across the land. ||entailment

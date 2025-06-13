@@ -1,0 +1,5 @@
+There are men. ||entailment
+There is a street. ||entailment
+There are two men. ||entailment
+The men are without shirts. ||entailment
+The men are jumping in street. ||entailment

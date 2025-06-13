@@ -1,0 +1,2 @@
+There is a musician. ||entailment
+The musician is performing. ||entailment

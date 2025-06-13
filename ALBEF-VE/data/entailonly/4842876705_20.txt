@@ -1,0 +1,6 @@
+there is a man ||entailment
+there is an instrument ||entailment
+there is a wall ||entailment
+the man is playing ||entailment
+the man is playing the instrument ||entailment
+the instrument is near the wall ||entailment

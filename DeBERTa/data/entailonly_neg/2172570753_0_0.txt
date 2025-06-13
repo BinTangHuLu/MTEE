@@ -1,0 +1,7 @@
+There is not a woman. ||contradiction
+There are not some glasses. ||contradiction
+There is not a beanie. ||contradiction
+The woman is not wearing. ||contradiction
+The beanie is not brown. ||contradiction
+The woman is not wearing glasses. ||contradiction
+The woman is not wearing a beanie. ||contradiction

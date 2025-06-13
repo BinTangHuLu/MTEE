@@ -1,0 +1,4 @@
+There are girls. ||entailment
+There are dresses. ||entailment
+The dresses are different colored. ||entailment
+The girls are wearing dresses. ||entailment

@@ -1,0 +1,2 @@
+There is not a truck. ||contradiction
+The truck is not driving. ||contradiction

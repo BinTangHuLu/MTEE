@@ -1,0 +1,3 @@
+there is a girl ||entailment
+there are some bubbles ||entailment
+the girl is blowing bubbles ||entailment

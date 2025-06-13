@@ -1,0 +1,4 @@
+there is not a group ||contradiction
+there are not some people ||contradiction
+there is not an escalator ||contradiction
+the group is not on escalator ||contradiction

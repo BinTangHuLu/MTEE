@@ -1,0 +1,5 @@
+there is not a child ||contradiction
+there is not a seat ||contradiction
+there is not a motorcycle ||contradiction
+the child is not sitting on the seat ||entailment
+the seat is not of the motorcycle ||entailment

@@ -1,0 +1,5 @@
+there are not children ||contradiction
+there is not a group ||contradiction
+there are not coats ||contradiction
+the coats are not wearing ||contradiction
+the children are not wearing coats ||contradiction

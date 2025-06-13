@@ -1,0 +1,4 @@
+There is a scene. ||entailment
+There is a sunset. ||entailment
+The scene has water. ||entailment
+The scene is with sunset. ||entailment

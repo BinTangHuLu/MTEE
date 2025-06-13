@@ -1,0 +1,6 @@
+There is not a kid. ||contradiction
+There is not a helmet. ||contradiction
+There is not a bike. ||contradiction
+The kid is not in a helmet. ||contradiction
+The kid does not ride the bike. ||contradiction
+The bike does not have training wheels. ||contradiction

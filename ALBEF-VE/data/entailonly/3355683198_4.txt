@@ -1,0 +1,5 @@
+there is a guy ||entailment
+there is a skateboard ||entailment
+there is a trick ||entailment
+the guy is on the skateboard ||entailment
+the guy is mastering the trick ||neutral

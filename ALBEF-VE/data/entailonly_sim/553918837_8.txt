@@ -1,0 +1,4 @@
+there is a child ||entailment
+there is a park ||neutral
+the child is little ||entailment
+the child plays on the playground ||entailment

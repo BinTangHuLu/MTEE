@@ -1,0 +1,3 @@
+There are not kids. ||Contradiction
+There is not a ride. ||Contradiction
+The kids are not on the ride. ||Entailment

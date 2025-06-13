@@ -1,0 +1,6 @@
+There is a athlete. ||entailment
+The athlete is American. ||entailment
+The athlete is yellow. ||entailment
+The ball hook. ||entailment
+The athlete catches the ball. ||entailment
+The athlete is under pressure from another player. ||entailment

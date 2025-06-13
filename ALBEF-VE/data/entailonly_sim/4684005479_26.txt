@@ -1,0 +1,4 @@
+there is a body ||entailment
+there is a blouse ||entailment
+the blouse is numbered ||neutral
+the body is wearing the shirt ||entailment

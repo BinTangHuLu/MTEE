@@ -1,0 +1,5 @@
+There is a man. ||entailment
+There is a cart. ||entailment
+There is a road. ||entailment
+The man is pushing the cart. ||entailment
+The cart is down the road. ||entailment

@@ -1,0 +1,5 @@
+there are not people ||contradiction
+there are not uniforms ||contradiction
+there is not an activity ||contradiction
+the people are not wearing uniforms ||contradiction
+the people are not performing the activity ||neutral

@@ -1,0 +1,3 @@
+there are men ||entailment
+the men are eating ||neutral
+the men are eating outside ||entailment

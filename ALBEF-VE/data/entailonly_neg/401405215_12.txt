@@ -1,0 +1,10 @@
+there is not a sun ||contradiction
+there is not a boy ||contradiction
+there are not soap bubbles ||contradiction
+there are not rocks ||contradiction
+there is not a bay ||contradiction
+the sun is not setting ||contradiction
+the boy is not blowing soap bubbles ||contradiction
+the boy is not blowing soap bubbles ||contradiction
+the soap bubbles are not by rocks ||contradiction
+the soap bubbles are not at bay ||contradiction

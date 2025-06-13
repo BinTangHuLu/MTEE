@@ -1,0 +1,4 @@
+There is a girl. ||entailment
+There are some drums. ||entailment
+The drums are electronic. ||entailment
+The girl is playing drums. ||entailment

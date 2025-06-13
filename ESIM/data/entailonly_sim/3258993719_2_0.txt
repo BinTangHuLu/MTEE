@@ -1,0 +1,5 @@
+There is a body. ||entailment
+There is a bathrobe. ||entailment
+There is a bed. ||contradiction
+The body is robe. ||entailment
+The body sits on couch. ||entailment

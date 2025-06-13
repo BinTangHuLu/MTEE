@@ -1,0 +1,5 @@
+there is a woman ||entailment
+there is a dress ||entailment
+there is a line ||entailment
+the dress is in ||neutral
+the woman is standing in front of the line ||entailment

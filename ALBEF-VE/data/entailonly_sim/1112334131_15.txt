@@ -1,0 +1,5 @@
+there is a baby ||entailment
+there is bling cream ||entailment
+there is a gentlewoman ||entailment
+the baby is eating ice cream ||entailment
+the baby is in front of the lady ||entailment

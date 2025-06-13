@@ -1,0 +1,4 @@
+there is a man ||entailment
+there is a pitbull ||entailment
+the pitbull is dressed up ||entailment
+the man walks pitbull ||neutral

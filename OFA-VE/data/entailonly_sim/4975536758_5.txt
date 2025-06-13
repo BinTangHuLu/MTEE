@@ -1,0 +1,4 @@
+There is a baby. ||Entailment
+There is a account. ||Contradiction
+The baby is young. ||Entailment
+The baby is outside in picture. ||Entailment

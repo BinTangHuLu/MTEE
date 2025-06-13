@@ -1,0 +1,2 @@
+There are pants. ||entailment
+The pants are long. ||entailment

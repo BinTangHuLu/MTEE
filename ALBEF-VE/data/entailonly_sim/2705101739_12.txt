@@ -1,0 +1,5 @@
+there is a dude ||entailment
+there is a blouse ||entailment
+there is an congregation ||entailment
+the blouse is red ||contradiction
+the dude is performing for the audience ||neutral

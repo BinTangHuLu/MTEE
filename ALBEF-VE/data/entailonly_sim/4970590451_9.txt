@@ -1,0 +1,4 @@
+there is a body ||entailment
+there is a armor ||entailment
+the armor is interesting ||neutral
+the body has on the helmet ||entailment

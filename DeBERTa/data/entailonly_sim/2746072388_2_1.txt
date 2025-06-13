@@ -1,0 +1,4 @@
+There is a little. ||entailment
+There is a loaf. ||contradiction
+The little is messily. ||entailment
+The little is eating cake. ||entailment

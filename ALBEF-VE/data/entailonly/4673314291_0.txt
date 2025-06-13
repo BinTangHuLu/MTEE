@@ -1,0 +1,3 @@
+there are women ||entailment
+there is a man ||entailment
+the women sit man ||entailment

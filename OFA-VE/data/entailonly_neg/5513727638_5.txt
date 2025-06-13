@@ -1,0 +1,5 @@
+There is not a biker. ||Contradiction
+There is not an apex. ||Entailment
+There is not a ramp. ||Contradiction
+The biker does not reach the apex. ||Neutral
+The apex is not of the ramp. ||Entailment

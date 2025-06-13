@@ -1,0 +1,4 @@
+there is a dude ||entailment
+there is a doll ||entailment
+the doll is stuffed ||neutral
+the dude has a toy ||entailment

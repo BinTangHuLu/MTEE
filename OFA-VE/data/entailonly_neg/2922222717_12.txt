@@ -1,0 +1,5 @@
+There is not a dog. ||Contradiction
+The dog is not little. ||Entailment
+The dog is not chewing. ||Entailment
+There are not fingers. ||Contradiction
+The dog is not chewing fingers. ||Entailment

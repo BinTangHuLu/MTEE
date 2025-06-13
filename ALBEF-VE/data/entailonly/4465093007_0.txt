@@ -1,0 +1,4 @@
+there is a man ||entailment
+there is a shirt ||entailment
+the shirt is white ||entailment
+the man is having fun in shirt ||entailment

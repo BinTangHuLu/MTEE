@@ -1,0 +1,4 @@
+There is a child. ||neutral
+There is a bike. ||entailment
+The child is colorfully dressed. ||entailment
+The child rides the bike. ||neutral

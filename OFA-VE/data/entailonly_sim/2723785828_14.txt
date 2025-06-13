@@ -1,0 +1,4 @@
+There is acrylic. ||Contradiction
+There are air. ||Entailment
+The air are children's. ||Entailment
+The acrylic is on faces. ||Neutral

@@ -1,0 +1,6 @@
+there is a man ||entailment
+there is a woman ||entailment
+there is a table ||entailment
+the man sits side by side with the woman ||entailment
+the man is at the table ||entailment
+the woman is at the table ||entailment

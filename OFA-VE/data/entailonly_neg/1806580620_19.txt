@@ -1,0 +1,5 @@
+There is not a female. ||Entailment
+There is not an expression. ||Contradiction
+There is not a face. ||Contradiction
+The female does not have a face. ||Contradiction
+The expression is not on the face. ||Entailment

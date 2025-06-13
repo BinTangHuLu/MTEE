@@ -1,0 +1,5 @@
+there is a man ||entailment
+there is a rock ||entailment
+there are mountains ||entailment
+the man sits a rock ||entailment
+the man can see mountains ||entailment

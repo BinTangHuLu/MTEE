@@ -1,0 +1,5 @@
+There is not a photo. ||contradiction
+There is not a man. ||contradiction
+There is not a baby girl. ||contradiction
+The photo is not being taken of the man. ||contradiction
+The photo is not being taken of the baby girl. ||contradiction

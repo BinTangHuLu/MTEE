@@ -1,0 +1,2 @@
+There is a artery. ||entailment
+Someone is about to cross the artery. ||neutral

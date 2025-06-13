@@ -1,0 +1,4 @@
+There is a child. ||entailment
+There is some snow. ||entailment
+The child is dressed in warm winter clothes. ||entailment
+The child plays in snow. ||entailment

@@ -1,0 +1,5 @@
+there are people ||entailment
+there is a beach ||entailment
+there is a puppy ||entailment
+the people visited the beach ||entailment
+the beach is with a puppy ||entailment

@@ -1,0 +1,6 @@
+There is a woman. ||Entailment
+There is a body. ||Entailment
+There are tattoos. ||Entailment
+The tattoos are numerous. ||Neutral
+The woman has tattoos. ||Entailment
+The tattoos are all over the body. ||Entailment

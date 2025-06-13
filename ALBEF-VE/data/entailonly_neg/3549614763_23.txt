@@ -1,0 +1,5 @@
+there are not females ||contradiction
+there are not male ||entailment
+there is not a restaurant ||contradiction
+the females are not in the restaurant ||entailment
+the male is not in the restaurant ||entailment

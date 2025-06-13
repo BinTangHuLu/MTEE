@@ -1,0 +1,4 @@
+there is water ||entailment
+there is a sunset ||entailment
+the water is turbulent ||neutral
+the water is at sunset ||entailment

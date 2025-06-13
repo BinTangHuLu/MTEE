@@ -1,0 +1,5 @@
+there are not men ||contradiction
+there is not an audience ||contradiction
+there are not two men ||contradiction
+the audience is not full ||entailment
+the men are not karate fighting in front of the audience ||contradiction

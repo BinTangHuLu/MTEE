@@ -1,0 +1,5 @@
+There is a dude. ||entailment
+There is a estate. ||neutral
+The dude is with skateboard. ||entailment
+The dude is looking at the park. ||entailment
+The dude has skateboard at the park. ||entailment

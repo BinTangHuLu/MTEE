@@ -1,0 +1,3 @@
+there are boys ||entailment
+there is a couch ||entailment
+the boys are sitting on the couch ||entailment

@@ -1,0 +1,4 @@
+there is a person ||entailment
+there are some supplies ||entailment
+the supplies are bathroom cleaning ||neutral
+the person holds supplies ||entailment

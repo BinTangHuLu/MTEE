@@ -1,0 +1,4 @@
+there is not a man ||contradiction
+there is not a backpack ||contradiction
+the backpack is not with ||neutral
+the man does not take a rest ||contradiction

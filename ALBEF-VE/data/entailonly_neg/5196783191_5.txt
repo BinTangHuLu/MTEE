@@ -1,0 +1,5 @@
+there are not people ||contradiction
+there is not music ||contradiction
+there is not an audience ||contradiction
+people are not playing music ||contradiction
+the music is not in front of the audience ||contradiction

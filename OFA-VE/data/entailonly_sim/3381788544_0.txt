@@ -1,0 +1,2 @@
+There are clan. ||Entailment
+The clan are laughing. ||Neutral

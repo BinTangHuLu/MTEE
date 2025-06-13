@@ -1,0 +1,5 @@
+There is not a lady. ||contradiction
+There is not a box. ||contradiction
+There is not a phone. ||contradiction
+The lady does not look at the box. ||contradiction
+The lady does not look at the phone. ||contradiction

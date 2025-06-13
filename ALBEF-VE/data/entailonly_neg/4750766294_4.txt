@@ -1,0 +1,5 @@
+there is not a girl ||contradiction
+there is not another ||contradiction
+there is not a bedroom ||contradiction
+the girl does not read another ||contradiction
+another is not in the bedroom ||neutral

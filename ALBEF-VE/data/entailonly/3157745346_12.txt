@@ -1,0 +1,3 @@
+there is a man ||entailment
+there is an atm ||entailment
+the man is at the atm ||entailment

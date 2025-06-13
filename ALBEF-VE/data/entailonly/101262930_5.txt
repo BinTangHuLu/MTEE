@@ -1,0 +1,5 @@
+there is a woman ||entailment
+there is a man ||contradiction
+there are sunglasses ||entailment
+the woman embraces the man ||entailment
+the woman is wearing sunglasses while embracing the man ||entailment

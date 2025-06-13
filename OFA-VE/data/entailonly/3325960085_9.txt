@@ -1,0 +1,5 @@
+There is a crowd. ||Entailment
+There are some people. ||Entailment
+The crowd is of people. ||Entailment
+The crowd is seated. ||Entailment
+The crowd are seated. ||Entailment

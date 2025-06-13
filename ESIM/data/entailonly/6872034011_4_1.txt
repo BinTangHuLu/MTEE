@@ -1,0 +1,4 @@
+There is snow. ||entailment
+There is ground. ||entailment
+The snow is on the ground. ||contradiction
+There is a picture. ||entailment

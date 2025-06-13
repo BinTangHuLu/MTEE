@@ -1,0 +1,3 @@
+there are some habit ||neutral
+the habit are flexing ||neutral
+someone is flexing their habit ||entailment

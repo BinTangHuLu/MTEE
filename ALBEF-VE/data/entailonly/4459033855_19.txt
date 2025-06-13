@@ -1,0 +1,6 @@
+there is a man ||entailment
+there is a presentation ||entailment
+there are others ||entailment
+there is a slide show ||entailment
+the man is speaking in the presentation ||entailment
+the others are watching the slide show ||entailment

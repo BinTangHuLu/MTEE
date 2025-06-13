@@ -1,0 +1,4 @@
+there is a motorcycle ||entailment
+there is a track ||entailment
+the motorcycle is racing ||entailment
+the motorcycle is on track ||entailment

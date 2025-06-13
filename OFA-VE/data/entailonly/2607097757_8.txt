@@ -1,0 +1,4 @@
+There is a hole. ||Entailment
+There is some ground. ||Entailment
+The hole is open. ||Entailment
+The hole is in ground. ||Entailment

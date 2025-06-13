@@ -1,0 +1,4 @@
+There is a man. ||entailment
+There is someone. ||entailment
+The man breakdances. ||entailment
+The man is watched by someone. ||entailment

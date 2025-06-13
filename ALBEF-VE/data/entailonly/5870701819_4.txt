@@ -1,0 +1,3 @@
+there are dancers ||entailment
+there is a show ||entailment
+the dancers performed in the show ||entailment

@@ -1,0 +1,4 @@
+There are women. ||entailment
+There are flowers. ||entailment
+The women are elderly. ||entailment
+The women are resting near flowers. ||neutral

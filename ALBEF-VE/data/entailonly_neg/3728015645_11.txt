@@ -1,0 +1,5 @@
+there is not a man ||contradiction
+there is not gymnastics ||contradiction
+there is not a lake ||contradiction
+the man is not performing gymnastics ||contradiction
+the man is not performing gymnastics by the lake ||contradiction

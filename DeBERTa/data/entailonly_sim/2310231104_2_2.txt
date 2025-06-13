@@ -1,0 +1,5 @@
+There is a line. ||entailment
+There is some melody. ||entailment
+There is a lap. ||entailment
+The line is playing music. ||entailment
+The line is playing stage. ||entailment

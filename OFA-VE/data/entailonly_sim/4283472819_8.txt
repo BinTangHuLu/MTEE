@@ -1,0 +1,4 @@
+There is a dude. ||Entailment
+There is a action. ||Entailment
+The action is tricky. ||Entailment
+The dude is doing maneuver. ||Entailment

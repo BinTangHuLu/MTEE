@@ -1,0 +1,2 @@
+there is a dealer ||entailment
+the dealer tends to stand ||entailment

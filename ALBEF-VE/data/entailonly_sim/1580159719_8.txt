@@ -1,0 +1,5 @@
+there are community ||entailment
+there is barley ||neutral
+there is a fiddle ||neutral
+community sit in grass ||entailment
+the fiddle is being played by a guitar ||contradiction

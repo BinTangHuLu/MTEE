@@ -1,0 +1,5 @@
+there is a dog ||entailment
+there are some people ||entailment
+there is a stage ||entailment
+the dog is with people ||entailment
+the people are on stage ||neutral

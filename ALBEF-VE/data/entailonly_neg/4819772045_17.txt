@@ -1,0 +1,7 @@
+there is not a child ||contradiction
+there is not a street ||contradiction
+there are not women ||contradiction
+there are not chairs ||contradiction
+the child is not in the street ||contradiction
+the women are not in chairs ||contradiction
+the women do not sit and watch the street ||contradiction

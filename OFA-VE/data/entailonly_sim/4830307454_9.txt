@@ -1,0 +1,6 @@
+There is a baby. ||Contradiction
+There is a blouse. ||Contradiction
+There is a fedora. ||Entailment
+The blouse is white. ||Neutral
+The fedora is black. ||Neutral
+The Kid is wearing the blouse. ||Neutral

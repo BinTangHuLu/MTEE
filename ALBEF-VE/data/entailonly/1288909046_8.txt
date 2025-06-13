@@ -1,0 +1,7 @@
+there is a dog ||entailment
+there is a pool ||entailment
+there is water ||entailment
+there is a toy ||entailment
+the dog jumps into the pool ||entailment
+the pool is of water ||neutral
+the dog jumps into the pool to get the toy ||entailment

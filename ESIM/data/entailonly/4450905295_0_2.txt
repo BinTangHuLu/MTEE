@@ -1,0 +1,6 @@
+There is a player. ||neutral
+There is an accordion. ||entailment
+The player is lean. ||entailment
+The player is against. ||entailment
+The fence is his. ||neutral
+The player leans against fence. ||entailment

@@ -1,0 +1,3 @@
+There is a pup. ||Entailment
+The pup is white. ||Neutral
+The pup is running. ||Entailment

@@ -1,0 +1,3 @@
+there is a woman ||entailment
+there are shoes ||entailment
+the woman is carrying shoes ||contradiction

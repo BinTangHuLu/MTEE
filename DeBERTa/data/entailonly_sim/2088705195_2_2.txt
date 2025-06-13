@@ -1,0 +1,5 @@
+There are community. ||entailment
+There is a kayak. ||contradiction
+There is an sea. ||entailment
+The community paddle the canoe. ||neutral
+The community paddle the ocean. ||neutral

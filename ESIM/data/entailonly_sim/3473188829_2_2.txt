@@ -1,0 +1,3 @@
+There are band. ||neutral
+The band are busy. ||neutral
+The band are in handling orders. ||contradiction

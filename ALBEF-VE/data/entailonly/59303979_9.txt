@@ -1,0 +1,4 @@
+there is a man ||entailment
+there is an object ||entailment
+the man is old ||entailment
+the man is smiling at the object ||entailment

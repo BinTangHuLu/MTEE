@@ -1,0 +1,4 @@
+there is not a firefighter ||contradiction
+there is not some gear ||contradiction
+the gear is not red ||contradiction
+the firefighter is not dressed in gear ||contradiction

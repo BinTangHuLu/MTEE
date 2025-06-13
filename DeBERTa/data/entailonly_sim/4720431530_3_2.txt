@@ -1,0 +1,4 @@
+There is a association. ||entailment
+There are some community. ||entailment
+There is a bus bar. ||neutral
+The association waits outside the bus stop. ||neutral

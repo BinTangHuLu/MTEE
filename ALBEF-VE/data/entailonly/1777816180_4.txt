@@ -1,0 +1,4 @@
+there is a boy ||entailment
+there are some rocks ||entailment
+the boy is little ||entailment
+the boy is balancing on rocks ||entailment

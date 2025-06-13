@@ -1,0 +1,6 @@
+There is a teen. ||entailment
+There are some skateboard skills. ||entailment
+The teen is practicing. ||neutral
+The teen is his. ||neutral
+The skateboard skills is skateboard. ||entailment
+The teen is practicing skateboard skills. ||entailment

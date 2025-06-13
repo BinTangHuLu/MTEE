@@ -1,0 +1,3 @@
+there is a bus ||entailment
+the bus is moving ||entailment
+the bus is moving ||entailment

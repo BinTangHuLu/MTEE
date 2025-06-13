@@ -1,0 +1,5 @@
+There is a crowd. ||Entailment
+There is a scene. ||Entailment
+There is a mosque. ||Entailment
+The mosque is busy. ||Entailment
+The scene is in front of mosque. ||Entailment

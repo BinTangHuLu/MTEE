@@ -1,0 +1,3 @@
+There is a girl. ||entailment
+There is a bib. ||entailment
+The girl is holding the bib. ||entailment

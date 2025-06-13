@@ -1,0 +1,2 @@
+There is a adorn. ||Entailment
+They are on the adorn. ||Entailment

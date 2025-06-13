@@ -1,0 +1,3 @@
+there is a blower ||entailment
+there is work ||entailment
+the blower is at work ||entailment

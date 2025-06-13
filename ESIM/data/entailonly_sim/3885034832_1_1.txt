@@ -1,0 +1,3 @@
+There is a driver. ||neutral
+There is a pedal. ||entailment
+The photographer has angered the driver. ||neutral

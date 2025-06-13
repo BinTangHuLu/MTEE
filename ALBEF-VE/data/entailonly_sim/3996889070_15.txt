@@ -1,0 +1,3 @@
+there is a baby ||entailment
+the baby is young ||neutral
+the baby is petting deer ||entailment

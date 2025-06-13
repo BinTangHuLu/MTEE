@@ -1,0 +1,5 @@
+There are dude. ||entailment
+There is bread. ||neutral
+There is a path. ||entailment
+The dude are buying food. ||entailment
+The dude are buying sidewalk. ||entailment

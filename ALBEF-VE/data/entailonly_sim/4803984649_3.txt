@@ -1,0 +1,4 @@
+there is a dude ||entailment
+there are band ||entailment
+his band are his ||neutral
+the dude is holding out hands ||entailment

@@ -1,0 +1,5 @@
+There is a boy. ||entailment
+There is a trick. ||entailment
+There is water. ||entailment
+The boy is doing a trick. ||entailment
+The trick is by water. ||entailment

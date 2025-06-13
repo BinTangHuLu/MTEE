@@ -1,0 +1,3 @@
+there is an man ||entailment
+there is some camel ||contradiction
+the man is working with sand ||entailment

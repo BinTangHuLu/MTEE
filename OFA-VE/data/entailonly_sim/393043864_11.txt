@@ -1,0 +1,3 @@
+There is a crop stand. ||Entailment
+There is a attitude. ||Entailment
+The crop stand is fresh. ||Entailment

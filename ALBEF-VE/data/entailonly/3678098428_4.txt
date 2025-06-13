@@ -1,0 +1,3 @@
+there is a guy ||entailment
+there is a shirt ||entailment
+the shirt is black ||entailment

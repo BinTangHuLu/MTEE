@@ -1,0 +1,3 @@
+There is a female. ||Entailment
+There is a blouse. ||Entailment
+The female is wearing the shirt. ||Entailment

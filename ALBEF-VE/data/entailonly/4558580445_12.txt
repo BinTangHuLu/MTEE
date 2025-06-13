@@ -1,0 +1,2 @@
+there are horses ||entailment
+the horses are multiple ||entailment

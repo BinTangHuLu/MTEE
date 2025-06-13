@@ -1,0 +1,5 @@
+There is not a man. ||contradiction
+There is not a trick. ||contradiction
+There is not a bike. ||contradiction
+The man does not do jump trick. ||contradiction
+The man does not do on bike. ||contradiction

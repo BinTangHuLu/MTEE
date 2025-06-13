@@ -1,0 +1,3 @@
+there is a guy ||entailment
+the guy is holding ||entailment
+there is something ||entailment

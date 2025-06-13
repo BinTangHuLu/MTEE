@@ -1,0 +1,13 @@
+there is a boy ||entailment
+there is an field ||entailment
+there is a aisle ||neutral
+there is a child ||entailment
+there is some lumber ||entailment
+the boy is strolling ||entailment
+the field is wooded ||entailment
+the aisle is same time ||contradiction
+the child is teenage ||neutral
+the lumber is stacked ||entailment
+the boy is going through the area ||entailment
+the boy is on the path ||entailment
+the child is trying to go up the wood ||neutral

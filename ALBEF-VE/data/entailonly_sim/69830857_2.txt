@@ -1,0 +1,4 @@
+there is a dude ||entailment
+there is a artery ||neutral
+there is a arid ||entailment
+the dude walks down the road ||entailment

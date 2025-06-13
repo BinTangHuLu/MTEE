@@ -1,0 +1,2 @@
+There is a chat. ||Entailment
+The ladies have a chat. ||Entailment

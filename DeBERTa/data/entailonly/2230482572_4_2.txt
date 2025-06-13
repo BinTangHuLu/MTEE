@@ -1,0 +1,5 @@
+There are people. ||entailment
+There is a median. ||entailment
+The people are Two. ||entailment
+The people stand on the median. ||entailment
+The people are with advertising signs. ||entailment

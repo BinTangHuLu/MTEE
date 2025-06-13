@@ -1,0 +1,2 @@
+There is a baby. ||entailment
+The Kid is appendage sign. ||contradiction

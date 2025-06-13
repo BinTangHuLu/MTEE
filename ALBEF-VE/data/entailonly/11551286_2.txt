@@ -1,0 +1,3 @@
+there is a boy ||entailment
+there are shoes ||entailment
+the boy is not wearing shoes ||entailment

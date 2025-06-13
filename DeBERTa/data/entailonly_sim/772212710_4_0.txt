@@ -1,0 +1,4 @@
+There are clan. ||entailment
+There is a account. ||entailment
+The clan are two. ||entailment
+The clan are in the picture. ||contradiction

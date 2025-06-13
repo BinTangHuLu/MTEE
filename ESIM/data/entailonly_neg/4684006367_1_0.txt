@@ -1,0 +1,4 @@
+There is not a man. ||contradiction
+There is not a building. ||contradiction
+The building is not labeled Lottery Ticket Centre. ||contradiction
+The man is not near the building. ||contradiction

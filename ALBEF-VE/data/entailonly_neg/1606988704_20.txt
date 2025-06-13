@@ -1,0 +1,4 @@
+there is not hay ||contradiction
+there are not children ||contradiction
+the children are not three ||entailment
+the hay is not filled with children ||contradiction

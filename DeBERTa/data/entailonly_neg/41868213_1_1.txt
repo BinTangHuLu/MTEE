@@ -1,0 +1,3 @@
+There is not a man. ||contradiction
+The man does not scribble. ||contradiction
+The man is not indoors. ||contradiction

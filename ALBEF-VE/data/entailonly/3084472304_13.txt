@@ -1,0 +1,4 @@
+there are workers ||entailment
+there is some trash ||entailment
+the workers pick up trash ||entailment
+the trash is outside ||entailment

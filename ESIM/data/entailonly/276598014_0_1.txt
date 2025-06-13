@@ -1,0 +1,2 @@
+There is a singer. ||entailment
+The singer is wearing a pea coat. ||entailment

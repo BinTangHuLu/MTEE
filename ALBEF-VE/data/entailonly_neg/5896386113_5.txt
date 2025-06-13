@@ -1,0 +1,4 @@
+there is not a woman ||contradiction
+there is not some laundry ||contradiction
+the woman is not doing laundry ||contradiction
+the woman is not doing laundry ||contradiction

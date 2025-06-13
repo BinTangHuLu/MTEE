@@ -1,0 +1,5 @@
+There is a teenager. ||entailment
+There is a golf. ||entailment
+There is a field. ||entailment
+The teenager is playing golf. ||entailment
+The teenager is in the field. ||entailment

@@ -1,0 +1,4 @@
+there is a child ||entailment
+there are some flora ||entailment
+the child is young ||neutral
+the child holds flowers ||entailment

@@ -1,0 +1,4 @@
+there is not an entertainer ||contradiction
+there is not a street ||contradiction
+the entertainer is not dancing ||contradiction
+the entertainer is not dancing on the street ||contradiction

@@ -1,0 +1,2 @@
+there is not a target ||contradiction
+the target is not getting shot at ||entailment

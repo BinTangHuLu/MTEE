@@ -1,0 +1,4 @@
+There is a body. ||Entailment
+The body is playing. ||Entailment
+The body is trying to catch. ||Entailment
+The body is trying to catch the ball. ||Entailment

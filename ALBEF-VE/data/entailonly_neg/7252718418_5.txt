@@ -1,0 +1,3 @@
+there is not a girl ||contradiction
+there is not a bat ||contradiction
+the girl is not swinging the bat ||contradiction

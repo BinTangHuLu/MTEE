@@ -1,0 +1,7 @@
+there is not a dog ||contradiction
+there is not a toy ||contradiction
+there is not a pool ||contradiction
+the toy is not orange ||entailment
+the toy is not thrown ||contradiction
+the dog does not chase the toy ||contradiction
+the toy is not into the pool ||entailment

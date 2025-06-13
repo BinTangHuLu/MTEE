@@ -1,0 +1,4 @@
+There is not a man. ||Entailment
+There is not a beard. ||Entailment
+The man is not old. ||Entailment
+The man is not with beard. ||Entailment

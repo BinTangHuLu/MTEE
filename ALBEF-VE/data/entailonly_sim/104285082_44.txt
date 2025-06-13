@@ -1,0 +1,3 @@
+there is a composition ||entailment
+there is a battle ||entailment
+the composition is on war ||contradiction

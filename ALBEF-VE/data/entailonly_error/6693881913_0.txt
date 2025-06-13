@@ -1,0 +1,2 @@
+A,hugging
+RE2,hugging,players

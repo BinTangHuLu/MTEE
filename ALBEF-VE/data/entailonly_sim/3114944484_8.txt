@@ -1,0 +1,4 @@
+there is a child ||entailment
+there are community ||entailment
+the child is little ||entailment
+the child is around people ||entailment

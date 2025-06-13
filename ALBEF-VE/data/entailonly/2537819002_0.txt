@@ -1,0 +1,10 @@
+there is a man ||entailment
+there is a vest ||entailment
+there are pants ||entailment
+there are stones ||entailment
+there are tracks ||entailment
+the vest is orange ||entailment
+the man is with a vest ||entailment
+the man is with pants ||entailment
+the man is pouring stones ||entailment
+the stones are on tracks ||entailment

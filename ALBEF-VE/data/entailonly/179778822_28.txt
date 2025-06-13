@@ -1,0 +1,16 @@
+there is a girl ||entailment
+there is a shirt ||entailment
+there is a cup ||entailment
+there is a mirror ||entailment
+there is a mother ||entailment
+there are shorts ||entailment
+the girl is young blonde ||entailment
+the shirt is yellow ||entailment
+the shirt is yellow ||entailment
+the shorts are red ||entailment
+the girl is with a shirt ||entailment
+the girl is with a cup ||entailment
+the girl looks at a mirror ||entailment
+the mirror is with a mother ||neutral
+the mother is behind the girl ||entailment
+the mother is wearing a shirt ||entailment

@@ -1,0 +1,5 @@
+there is a man ||entailment
+there is an atv ||entailment
+there is a course ||entailment
+the man drives the atv ||entailment
+the atv is on the course ||entailment

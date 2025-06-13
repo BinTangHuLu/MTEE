@@ -1,0 +1,5 @@
+There are extent. ||Entailment
+There are enough. ||Entailment
+The extent are 70. ||Contradiction
+The enough are visible. ||Entailment
+The extent are on mountains. ||Entailment

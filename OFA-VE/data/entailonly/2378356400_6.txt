@@ -1,0 +1,4 @@
+There is a lady. ||Entailment
+There is a child. ||Entailment
+The child is young. ||Entailment
+The lady is together with the child. ||Entailment

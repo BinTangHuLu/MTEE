@@ -1,0 +1,3 @@
+there is a boy ||entailment
+the boy is wet ||entailment
+the boy runs ||entailment

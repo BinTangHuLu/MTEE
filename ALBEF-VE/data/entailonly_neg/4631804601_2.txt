@@ -1,0 +1,7 @@
+there is not a man ||contradiction
+there is not a cap ||contradiction
+there are not gloves ||contradiction
+there is not wood ||contradiction
+there is not a chisel ||contradiction
+the man does not carve wood ||contradiction
+the wood is not carved with a chisel ||contradiction

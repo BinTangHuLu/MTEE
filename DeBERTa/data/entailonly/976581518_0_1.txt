@@ -1,0 +1,5 @@
+There is a scientist. ||entailment
+There is a slide. ||entailment
+There is an invention. ||entailment
+The scientist studies the slide. ||entailment
+The slide is related to the invention. ||neutral

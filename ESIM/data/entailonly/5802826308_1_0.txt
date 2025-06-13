@@ -1,0 +1,5 @@
+There are children. ||entailment
+There is a street. ||entailment
+There are binoculars. ||entailment
+The children are looking at the street. ||entailment
+The children are looking at the binoculars. ||contradiction

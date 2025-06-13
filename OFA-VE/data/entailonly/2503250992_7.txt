@@ -1,0 +1,4 @@
+There is a man. ||Entailment
+There is an article. ||Entailment
+There is some clothing. ||Entailment
+The man has on the article. ||Entailment

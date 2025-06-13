@@ -1,0 +1,7 @@
+There is not a male. ||contradiction
+There are not some clothes. ||contradiction
+There is not a street. ||contradiction
+The male is not outside. ||contradiction
+The male is not walking. ||contradiction
+The male does not have clothes. ||contradiction
+The male is not walking on the street. ||contradiction

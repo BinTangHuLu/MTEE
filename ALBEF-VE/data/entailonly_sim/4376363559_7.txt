@@ -1,0 +1,5 @@
+there is a bronco ||entailment
+there is a colt ||neutral
+there are stuff ||entailment
+the bronco is wearing things ||entailment
+the colt is wearing things ||entailment

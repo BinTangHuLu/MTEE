@@ -1,0 +1,7 @@
+There is a dude. ||entailment
+The dude has concealed features. ||entailment
+There is a approach. ||entailment
+The approach is transportation. ||entailment
+The shipment is a service. ||entailment
+The dude is in the mode. ||entailment
+The approach is used in transportation. ||entailment

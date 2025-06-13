@@ -1,0 +1,3 @@
+There are not ladies. ||contradiction
+There is not a bench. ||contradiction
+The ladies do not nap on the bench. ||contradiction

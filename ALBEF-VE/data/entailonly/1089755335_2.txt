@@ -1,0 +1,8 @@
+there is an evening ||entailment
+there is an adult ||entailment
+there are kids ||entailment
+there is an ocean ||neutral
+there is a boardwalk ||entailment
+the adult watches the ocean ||neutral
+the kids watch the ocean ||neutral
+the adult watches the boardwalk ||entailment

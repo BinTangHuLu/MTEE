@@ -1,0 +1,4 @@
+There are not workers. ||contradiction
+There is not a walkway. ||contradiction
+The walkway is not slippery. ||contradiction
+The workers are not outside on walkway. ||contradiction

@@ -1,0 +1,5 @@
+There is a woman. ||entailment
+There is a man. ||entailment
+The woman is old. ||entailment
+The woman is playing bingo. ||entailment
+The man is playing bingo. ||entailment

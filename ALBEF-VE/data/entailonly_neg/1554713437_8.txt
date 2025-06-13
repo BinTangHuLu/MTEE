@@ -1,0 +1,2 @@
+there is not a dog ||contradiction
+there is not some ground ||entailment

@@ -1,0 +1,5 @@
+there is not a man ||contradiction
+there is not a picker ||contradiction
+there is not a pole ||contradiction
+the man is not on the picker ||neutral
+the picker is not near the pole ||contradiction

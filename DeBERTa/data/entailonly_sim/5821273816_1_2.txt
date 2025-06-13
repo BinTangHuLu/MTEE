@@ -1,0 +1,4 @@
+There is a baby. ||contradiction
+The baby practices guitar. ||neutral
+The baby practices indoors. ||entailment
+The baby practices guitar. ||neutral

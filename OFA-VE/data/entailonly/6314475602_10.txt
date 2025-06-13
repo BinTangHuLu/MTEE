@@ -1,0 +1,5 @@
+There are people. ||Entailment
+There are men. ||Entailment
+There are kilts. ||Entailment
+People watch men. ||Entailment
+Men are in kilts. ||Entailment

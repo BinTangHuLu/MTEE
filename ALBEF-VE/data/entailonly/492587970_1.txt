@@ -1,0 +1,3 @@
+there is a woman ||entailment
+there are men ||entailment
+the woman is looking at men ||entailment

@@ -1,0 +1,7 @@
+there are women ||entailment
+there are chairs ||entailment
+there is a child ||entailment
+the child is obese ||neutral
+the women sit in chairs ||entailment
+the child gets attention ||entailment
+the attention is of the camera ||entailment

@@ -1,0 +1,5 @@
+There is someone. ||entailment
+There is a man. ||entailment
+There is a paddle. ||entailment
+Someone dances. ||entailment
+The man holds a paddle. ||entailment

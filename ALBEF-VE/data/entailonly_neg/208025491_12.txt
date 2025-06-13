@@ -1,0 +1,4 @@
+there are not people ||contradiction
+there is not a park ||contradiction
+people do not talk to one another ||contradiction
+people are not at park ||contradiction

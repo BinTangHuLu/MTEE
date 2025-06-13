@@ -1,0 +1,6 @@
+There is a baby. ||contradiction
+There is a frame. ||entailment
+There is drink. ||entailment
+The baby is moving swiftly. ||contradiction
+The baby is moving toward the body. ||entailment
+The frame is of water. ||entailment

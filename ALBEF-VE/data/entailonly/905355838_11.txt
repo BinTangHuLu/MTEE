@@ -1,0 +1,5 @@
+there is a player ||entailment
+there is a baseball ||entailment
+there is a crowd ||entailment
+there are fans ||entailment
+the player is looking at the crowd ||entailment

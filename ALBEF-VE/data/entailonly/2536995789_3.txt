@@ -1,0 +1,3 @@
+there is a hallway ||entailment
+the hallway is busy ||contradiction
+the hallway is during construction ||entailment

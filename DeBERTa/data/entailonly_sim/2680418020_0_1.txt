@@ -1,0 +1,5 @@
+There are female. ||entailment
+There is a lawn. ||contradiction
+The female are wearing headscarves. ||entailment
+The lawn is cobbled. ||entailment
+The female stand in the courtyard. ||entailment

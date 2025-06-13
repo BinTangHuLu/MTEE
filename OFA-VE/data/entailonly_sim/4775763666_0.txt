@@ -1,0 +1,4 @@
+There is a bar. ||Entailment
+There are girl. ||Entailment
+The girl are three. ||Neutral
+The girl are standing around the table. ||Neutral

@@ -1,0 +1,3 @@
+There is not Nancy. ||Contradiction
+There is not a tattoo. ||Contradiction
+Nancy does not have a tattoo. ||Contradiction

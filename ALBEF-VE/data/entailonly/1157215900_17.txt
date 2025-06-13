@@ -1,0 +1,5 @@
+there is a lady ||entailment
+there are baskets ||entailment
+there is a hat ||entailment
+the lady is standing behind baskets ||entailment
+the lady is wearing a hat ||entailment

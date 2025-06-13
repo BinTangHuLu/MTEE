@@ -1,0 +1,3 @@
+There are not kids. ||Contradiction
+There are not toys. ||Contradiction
+The kids do not play with toys. ||Contradiction

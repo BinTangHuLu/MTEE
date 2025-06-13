@@ -1,0 +1,4 @@
+There is winter. ||Entailment
+There is cold. ||Entailment
+The winter is a season. ||Entailment
+The cold is outside. ||Entailment

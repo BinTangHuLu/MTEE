@@ -1,0 +1,3 @@
+There is a child. ||Entailment
+There is a child. ||Entailment
+The child and girl are swinging. ||Entailment

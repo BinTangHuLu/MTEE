@@ -1,0 +1,5 @@
+there is a female ||entailment
+there is a avenue ||entailment
+there is a bag ||entailment
+the female is walking in the street ||entailment
+the avenue is with a purse ||neutral

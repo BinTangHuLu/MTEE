@@ -1,0 +1,4 @@
+There is a dude. ||entailment
+There is a aisle. ||contradiction
+The dude is riding fast. ||entailment
+The dude is riding the trail. ||entailment

@@ -1,0 +1,6 @@
+There are not dogs. ||contradiction
+There is not a log. ||contradiction
+There is not a meadow. ||contradiction
+The log is not big. ||contradiction
+The dogs are not carrying the log. ||contradiction
+The dogs are not carrying in the meadow. ||contradiction

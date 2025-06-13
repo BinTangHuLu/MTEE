@@ -1,0 +1,4 @@
+there is not a man ||contradiction
+there is not air ||entailment
+the man is not jumping ||contradiction
+the man is not in the air ||entailment

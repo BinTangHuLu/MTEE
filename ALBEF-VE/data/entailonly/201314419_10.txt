@@ -1,0 +1,6 @@
+there are men ||entailment
+there is a sunset ||entailment
+there is a sea side ||entailment
+the sunset is beautiful ||entailment
+men are watching the sunset ||entailment
+the sunset is on the sea side ||entailment

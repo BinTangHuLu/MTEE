@@ -1,0 +1,4 @@
+there is a girl ||entailment
+the girl is smiling ||entailment
+there is an umbrella ||entailment
+the girl is holding the umbrella ||entailment

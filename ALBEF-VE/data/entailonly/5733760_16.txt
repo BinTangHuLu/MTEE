@@ -1,0 +1,6 @@
+there is a man ||entailment
+there is a shirt ||entailment
+there is a glass ||entailment
+there is a microphone ||entailment
+the shirt is wearing ||entailment
+the man speaks through microphone ||entailment

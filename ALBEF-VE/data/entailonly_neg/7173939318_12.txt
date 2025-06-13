@@ -1,0 +1,3 @@
+there are not people ||contradiction
+there are not boats ||contradiction
+the people do not work on boats ||contradiction

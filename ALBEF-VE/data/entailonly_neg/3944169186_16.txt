@@ -1,0 +1,4 @@
+there are not people ||contradiction
+there is not a match ||contradiction
+the match is not competitive ||neutral
+the people are not facing each other in the match ||entailment

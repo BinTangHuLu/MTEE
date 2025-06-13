@@ -1,0 +1,4 @@
+there is not a toddler ||contradiction
+there are not some shoulders ||contradiction
+there is not the rocks ||contradiction
+the toddler does not balance on shoulders ||contradiction

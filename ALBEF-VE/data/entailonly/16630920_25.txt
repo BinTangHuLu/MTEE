@@ -1,0 +1,4 @@
+there is a man ||entailment
+there is some tea ||neutral
+the man is drinking ||entailment
+the man is drinking tea ||neutral

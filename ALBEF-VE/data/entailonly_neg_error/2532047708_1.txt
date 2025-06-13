@@ -1,0 +1,3 @@
+A,playing
+E1R,another,on
+RE2,playing,a guitar

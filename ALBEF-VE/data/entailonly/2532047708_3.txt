@@ -1,0 +1,5 @@
+there are men ||entailment
+there is a banjo ||entailment
+there is a violin ||entailment
+the men play the banjo ||contradiction
+the men play the violin ||entailment

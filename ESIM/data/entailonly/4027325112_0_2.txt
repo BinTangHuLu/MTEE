@@ -1,0 +1,3 @@
+There are men. ||entailment
+There is a market. ||entailment
+The men work at the market. ||entailment

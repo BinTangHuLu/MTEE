@@ -1,0 +1,4 @@
+there is a gentlewoman ||entailment
+there is a body ||entailment
+there is a bike ||entailment
+the gentlewoman is lubricating the frame ||entailment

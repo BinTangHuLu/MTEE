@@ -1,0 +1,2 @@
+EA,stick,wet
+E1RE2,stick,is,wet

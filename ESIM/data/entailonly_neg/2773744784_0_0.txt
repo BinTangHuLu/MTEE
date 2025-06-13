@@ -1,0 +1,4 @@
+There are not men. ||contradiction
+There are not two men. ||contradiction
+The men are not standing together. ||contradiction
+The men are not dressed up. ||contradiction

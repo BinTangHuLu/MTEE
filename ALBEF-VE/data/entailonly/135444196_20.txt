@@ -1,0 +1,3 @@
+there is an african american ||entailment
+there is a street ||entailment
+the african american is crossing the street ||entailment

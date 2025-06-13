@@ -1,0 +1,2 @@
+there is a band ||entailment
+the band is playing ||entailment

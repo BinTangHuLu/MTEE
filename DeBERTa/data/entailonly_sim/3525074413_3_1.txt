@@ -1,0 +1,2 @@
+The area is rough. ||entailment
+The Hiking is along rough area. ||entailment

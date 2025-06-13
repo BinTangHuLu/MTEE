@@ -1,0 +1,3 @@
+there is a female ||entailment
+there are community ||entailment
+the female stands among people ||entailment

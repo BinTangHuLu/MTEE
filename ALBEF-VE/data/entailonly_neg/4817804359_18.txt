@@ -1,0 +1,3 @@
+there are not people ||contradiction
+there is not dancing ||contradiction
+the people are not dancing together ||contradiction

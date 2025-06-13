@@ -1,0 +1,5 @@
+There is someone. ||entailment
+There is a road. ||entailment
+Someone is about to cross the road. ||entailment
+There is someone else. ||entailment
+Someone else watches. ||entailment

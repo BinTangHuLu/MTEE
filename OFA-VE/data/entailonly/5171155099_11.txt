@@ -1,0 +1,5 @@
+There is a man. ||Entailment
+There is a dress. ||Entailment
+There is a horse. ||Entailment
+The dress is military. ||Entailment
+The man is riding the horse. ||Entailment

@@ -1,0 +1,3 @@
+there is a man ||entailment
+there is a cow ||entailment
+the man is laying down by the cow ||entailment

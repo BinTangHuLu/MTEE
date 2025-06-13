@@ -1,0 +1,6 @@
+There is a dude. ||Entailment
+There is a chair. ||Entailment
+There is a aspect. ||Entailment
+The dude is sitting. ||Entailment
+The dude is sitting on the bench. ||Entailment
+The dude enjoys the view. ||Entailment

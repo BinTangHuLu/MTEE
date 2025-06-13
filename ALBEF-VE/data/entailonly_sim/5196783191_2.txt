@@ -1,0 +1,5 @@
+there is a appearance ||entailment
+there are some bulb ||neutral
+the bulb are lots of ||neutral
+the appearance is with lights ||entailment
+the appearance is being played ||entailment

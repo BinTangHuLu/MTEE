@@ -1,0 +1,3 @@
+There are not Women. ||contradiction
+There is not a restaurant. ||contradiction
+The Women are not chatting in the restaurant. ||contradiction

@@ -1,0 +1,4 @@
+there are not horses ||contradiction
+there is not a line ||contradiction
+the horses are not three ||entailment
+the horses are not in line ||contradiction

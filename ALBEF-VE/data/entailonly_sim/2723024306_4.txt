@@ -1,0 +1,3 @@
+there is camel ||contradiction
+there is dirt ||neutral
+the camel is on ground ||contradiction

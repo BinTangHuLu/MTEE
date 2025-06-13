@@ -1,0 +1,3 @@
+There is an bodily. ||Entailment
+There is a doll. ||Contradiction
+The bodily is making contact with the toy. ||Entailment

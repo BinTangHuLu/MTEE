@@ -1,0 +1,4 @@
+there are not men ||contradiction
+there is not a building ||contradiction
+the men are not dressed up ||contradiction
+the men are not sitting in front of the building ||entailment

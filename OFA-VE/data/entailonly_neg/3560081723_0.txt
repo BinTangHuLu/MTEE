@@ -1,0 +1,6 @@
+There is not a man. ||Contradiction
+There are not some things. ||Contradiction
+There is not an All-Terrain Vehicle. ||Entailment
+The things are not risky. ||Contradiction
+The man does not do things. ||Contradiction
+The man does not do things while riding an All-Terrain Vehicle. ||Contradiction

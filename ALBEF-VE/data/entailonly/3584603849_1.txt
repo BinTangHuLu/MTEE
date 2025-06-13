@@ -1,0 +1,3 @@
+there is a plane ||entailment
+there is a trail ||entailment
+the plane leaves trail ||entailment

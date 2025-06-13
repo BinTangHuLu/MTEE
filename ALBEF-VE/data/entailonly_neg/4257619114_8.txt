@@ -1,0 +1,3 @@
+there is not a female ||contradiction
+there is not a party ||contradiction
+the female is not at the party ||entailment

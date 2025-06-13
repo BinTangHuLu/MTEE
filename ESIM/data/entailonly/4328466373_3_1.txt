@@ -1,0 +1,5 @@
+There are girls. ||entailment
+There is a presentation. ||entailment
+There is a classroom. ||entailment
+The girls are watching the presentation. ||neutral
+The girls are watching the classroom. ||neutral

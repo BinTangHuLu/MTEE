@@ -1,0 +1,3 @@
+there are men ||entailment
+there is ground ||contradiction
+the men are not standing on ground ||entailment

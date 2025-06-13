@@ -1,0 +1,7 @@
+there is a man ||entailment
+there are some hats ||entailment
+there is a group ||entailment
+there are some people ||entailment
+the man is holding hats ||entailment
+the hats are in front of the group ||entailment
+the group is of people ||neutral

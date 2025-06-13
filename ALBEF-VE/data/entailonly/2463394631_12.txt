@@ -1,0 +1,5 @@
+there is a man ||entailment
+there is a floor ||entailment
+there is a dress ||neutral
+the dress is camouflage ||neutral
+the man is kneeling on the floor ||entailment

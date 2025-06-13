@@ -1,0 +1,7 @@
+There are boys. ||entailment
+There is a floor. ||entailment
+There is a home. ||neutral
+The boys are well dressed. ||entailment
+The floor is red carpet. ||entailment
+The boys sit on the floor. ||entailment
+The boys are inside of the home. ||neutral

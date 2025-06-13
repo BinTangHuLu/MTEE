@@ -1,0 +1,5 @@
+There are female. ||entailment
+There is a farmland. ||entailment
+There is bran. ||neutral
+The female are Asian. ||entailment
+The female are walking in the field. ||entailment

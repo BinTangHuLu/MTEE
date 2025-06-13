@@ -1,0 +1,4 @@
+There are not people. ||Contradiction
+There are not microphones. ||Contradiction
+The people are not singing. ||Contradiction
+The people are not singing into microphones. ||Contradiction

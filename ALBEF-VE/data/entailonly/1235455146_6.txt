@@ -1,0 +1,3 @@
+there is a family ||entailment
+there is an asian ||entailment
+the family is asian ||neutral

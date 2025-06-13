@@ -1,0 +1,6 @@
+there is not a man ||contradiction
+there is not a microphone ||contradiction
+there is not a tent ||contradiction
+the man is not dressed in yellow ||contradiction
+the man does not sing into the microphone ||contradiction
+the man is not inside of the tent ||entailment

@@ -1,0 +1,5 @@
+There are degrees. ||Contradiction
+There are mountains. ||Entailment
+The degrees are 70. ||Contradiction
+The mountains are visible. ||Entailment
+The degrees are on mountains. ||Neutral

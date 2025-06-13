@@ -1,0 +1,4 @@
+there are community ||entailment
+the community are trying ||entailment
+the community are trying to make money ||entailment
+the community are entertaining people ||entailment

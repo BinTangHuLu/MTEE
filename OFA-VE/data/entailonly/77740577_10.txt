@@ -1,0 +1,3 @@
+There is a Woman. ||Entailment
+There is a man. ||Entailment
+The Woman sits next to the man. ||Entailment

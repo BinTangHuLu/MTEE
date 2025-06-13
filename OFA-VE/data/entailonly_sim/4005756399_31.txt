@@ -1,0 +1,3 @@
+There is a dealer. ||Entailment
+There are some development. ||Contradiction
+The dealer sells items. ||Neutral

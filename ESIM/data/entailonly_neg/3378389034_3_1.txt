@@ -1,0 +1,3 @@
+There is not a child. ||contradiction
+There is not a picture. ||entailment
+The child is not in the picture. ||entailment

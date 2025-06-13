@@ -1,0 +1,4 @@
+there is a baby ||entailment
+there is a bench ||neutral
+the baby is sitting on the seat ||contradiction
+the bench is of the motorcycle ||entailment

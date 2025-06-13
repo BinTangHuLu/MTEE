@@ -1,0 +1,5 @@
+there is not a person ||contradiction
+there is not a bike ||contradiction
+there is not some dirt ||contradiction
+there is not a motor cross ||contradiction
+the person does not ride the bike ||contradiction

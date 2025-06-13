@@ -1,0 +1,5 @@
+there is a dude ||entailment
+there is a coast ||entailment
+the dude is young ||neutral
+the dude is doing yoga ||entailment
+the dude is on beach ||entailment

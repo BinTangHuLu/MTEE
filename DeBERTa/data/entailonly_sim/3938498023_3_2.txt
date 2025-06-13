@@ -1,0 +1,3 @@
+The Pretzels are made from bread. ||neutral
+There is bread. ||entailment
+The bread is twisted. ||entailment

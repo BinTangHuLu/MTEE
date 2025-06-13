@@ -1,0 +1,5 @@
+There are community. ||Entailment
+There is a kayak. ||Entailment
+There is a estuary. ||Entailment
+The community are in the canoe. ||Neutral
+The kayak is in the river. ||Entailment

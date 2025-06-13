@@ -1,0 +1,4 @@
+there is an assemblage ||entailment
+there are artist ||entailment
+the artist are dressed as santa ||entailment
+the assemblage is of musicians ||neutral

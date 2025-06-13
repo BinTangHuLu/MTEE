@@ -1,0 +1,7 @@
+There is a athlete. ||entailment
+There is a club. ||contradiction
+There is an adversary. ||entailment
+The athlete has an orange uniform. ||entailment
+The athlete has a basketball. ||entailment
+The athlete is with the ball. ||entailment
+The athlete is guarded by opponent team player. ||entailment

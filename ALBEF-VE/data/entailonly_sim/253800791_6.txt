@@ -1,0 +1,5 @@
+there are boy ||entailment
+there is a agreeable ||entailment
+the boy are playing the game ||entailment
+the agreeable is in the lot ||entailment
+the area is public ||entailment

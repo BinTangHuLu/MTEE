@@ -1,0 +1,5 @@
+There is not a woman. ||contradiction
+There is not a camera. ||contradiction
+There is not a tripod. ||contradiction
+The woman is not setting up the camera. ||contradiction
+The camera is not on the tripod. ||contradiction

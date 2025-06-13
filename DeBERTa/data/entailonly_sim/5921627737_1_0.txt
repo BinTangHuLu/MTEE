@@ -1,0 +1,7 @@
+There is a gallery. ||neutral
+There is a body. ||neutral
+The body is wearing a black windbreaker. ||entailment
+The body takes a picture of a fish statue. ||entailment
+There is a pup. ||entailment
+The pup is small white. ||entailment
+The pup looks on the walkway. ||entailment

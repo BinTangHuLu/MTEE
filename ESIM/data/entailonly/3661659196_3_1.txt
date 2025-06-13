@@ -1,0 +1,3 @@
+There are People. ||entailment
+There are lockers. ||entailment
+The People are talking next to lockers. ||entailment

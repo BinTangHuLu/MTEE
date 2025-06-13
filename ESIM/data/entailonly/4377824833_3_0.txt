@@ -1,0 +1,5 @@
+There is a group. ||entailment
+The group is cute. ||entailment
+The children are Asian. ||entailment
+There are children. ||entailment
+The children are playing tambourines. ||entailment

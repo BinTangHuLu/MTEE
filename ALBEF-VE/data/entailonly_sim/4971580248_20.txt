@@ -1,0 +1,4 @@
+there is a female ||entailment
+there is a cabinet ||entailment
+there is a card ||entailment
+the female is looking at the board ||contradiction

@@ -1,0 +1,6 @@
+There is a baby. ||entailment
+There is a frame. ||entailment
+There is drink. ||neutral
+The baby is moving swiftly. ||entailment
+The baby is moving toward the body. ||entailment
+The frame is of water. ||neutral

@@ -1,0 +1,3 @@
+there is a bank ||entailment
+there are some development ||neutral
+the bank sells items ||entailment

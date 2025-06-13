@@ -1,0 +1,3 @@
+There are people. ||entailment
+There is a softball. ||entailment
+The people are playing softball. ||entailment

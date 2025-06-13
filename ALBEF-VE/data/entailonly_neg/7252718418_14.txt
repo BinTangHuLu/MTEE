@@ -1,0 +1,3 @@
+there is not a girl ||contradiction
+there is not a sport ||contradiction
+the girl is not playing sport ||contradiction

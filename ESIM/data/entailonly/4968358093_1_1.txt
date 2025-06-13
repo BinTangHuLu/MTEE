@@ -1,0 +1,4 @@
+There is an announcement. ||entailment
+There is a beach. ||entailment
+The announcement is a warning. ||entailment
+The announcement is for the beach. ||entailment

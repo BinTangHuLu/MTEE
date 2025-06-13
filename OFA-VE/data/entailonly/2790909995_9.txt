@@ -1,0 +1,3 @@
+There is a dog. ||Entailment
+The dog is fast. ||Entailment
+The dog is going fast. ||Entailment

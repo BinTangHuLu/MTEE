@@ -1,0 +1,5 @@
+there are community ||entailment
+there is a any ||contradiction
+there are community ||entailment
+the any is at least ||entailment
+the community are moving part ||neutral

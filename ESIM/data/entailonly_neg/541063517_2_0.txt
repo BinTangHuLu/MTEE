@@ -1,0 +1,5 @@
+There is not a climber. ||contradiction
+There is not a mountain. ||contradiction
+There is not a top. ||entailment
+There is not a cliff. ||contradiction
+The climber has not reached the top. ||entailment

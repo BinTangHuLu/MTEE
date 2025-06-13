@@ -1,0 +1,5 @@
+there is not a player ||contradiction
+there is not a football ||contradiction
+there is not a ball ||contradiction
+the player is not running ||contradiction
+the player is not running with the ball ||entailment

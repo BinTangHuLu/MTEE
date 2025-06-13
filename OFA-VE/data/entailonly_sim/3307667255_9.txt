@@ -1,0 +1,5 @@
+There is a circle. ||Contradiction
+There is a arena. ||Entailment
+There is a architecture. ||Entailment
+The architecture is religious. ||Entailment
+The arena is in front of the building. ||Neutral

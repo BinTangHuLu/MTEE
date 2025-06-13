@@ -1,0 +1,4 @@
+There is a dude. ||Entailment
+There is a chase. ||Entailment
+The dude is participating. ||Entailment
+The dude is participating in the race. ||Neutral

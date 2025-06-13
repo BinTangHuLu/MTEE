@@ -1,0 +1,3 @@
+there is a employee ||entailment
+there is a fedora ||contradiction
+the employee is wearing a hat ||entailment

@@ -1,0 +1,5 @@
+There is a dog. ||entailment
+There is a leash. ||entailment
+The leash is red. ||entailment
+The dog is on the leash. ||entailment
+The dog is walking away. ||entailment

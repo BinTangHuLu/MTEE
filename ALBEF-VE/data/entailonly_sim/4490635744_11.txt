@@ -1,0 +1,3 @@
+there are artillery ||entailment
+there is a barricade ||entailment
+the artillery are guarding a barrier ||neutral

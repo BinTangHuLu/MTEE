@@ -1,0 +1,5 @@
+there is not a man ||contradiction
+there is not a butt ||contradiction
+there is not a skateboard ||contradiction
+the man does not have a butt ||contradiction
+the butt is not on the skateboard ||entailment

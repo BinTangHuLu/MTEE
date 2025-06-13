@@ -1,0 +1,4 @@
+There are not Women. ||Entailment
+There are not saris. ||Contradiction
+The saris are not colorful. ||Contradiction
+Women are not wearing saris. ||Neutral

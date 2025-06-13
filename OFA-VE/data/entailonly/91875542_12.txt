@@ -1,0 +1,4 @@
+There is a woman. ||Entailment
+There is some hair. ||Entailment
+The hair is white. ||Entailment
+The woman has white hair. ||Entailment

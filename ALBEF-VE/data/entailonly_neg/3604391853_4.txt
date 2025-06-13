@@ -1,0 +1,3 @@
+there is not a man ||contradiction
+there is not some grass ||contradiction
+the man does not lie in grass ||contradiction

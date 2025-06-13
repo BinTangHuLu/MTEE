@@ -1,0 +1,4 @@
+there are women ||entailment
+there is an suv ||entailment
+the women are 2 ||contradiction
+the women are hugging next to the suv ||entailment

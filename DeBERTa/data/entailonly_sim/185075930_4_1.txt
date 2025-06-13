@@ -1,0 +1,3 @@
+There is a baby. ||entailment
+There is some camel. ||contradiction
+The baby has sand. ||entailment

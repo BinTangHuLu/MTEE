@@ -1,0 +1,4 @@
+There is a juvenile. ||entailment
+There is a farmland. ||neutral
+The juvenile is playing golf. ||entailment
+The juvenile is in the field. ||entailment

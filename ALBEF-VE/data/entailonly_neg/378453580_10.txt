@@ -1,0 +1,5 @@
+there is not a dog ||contradiction
+there is not a log ||contradiction
+there is not a log ||contradiction
+the dog does not jump over the log ||contradiction
+the dog is not carrying the log ||contradiction

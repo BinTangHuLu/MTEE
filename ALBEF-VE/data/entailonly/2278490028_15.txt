@@ -1,0 +1,4 @@
+there are people ||entailment
+there are rafts ||entailment
+the rafts are made of bamboo ||neutral
+the people are on rafts ||entailment

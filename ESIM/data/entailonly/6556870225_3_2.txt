@@ -1,0 +1,4 @@
+There are people. ||entailment
+There is tennis. ||entailment
+The people play tennis. ||entailment
+The people runs them. ||entailment

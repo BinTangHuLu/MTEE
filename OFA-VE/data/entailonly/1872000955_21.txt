@@ -1,0 +1,2 @@
+There are Workers. ||Entailment
+There are digging. ||Entailment

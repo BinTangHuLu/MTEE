@@ -1,0 +1,4 @@
+there is a man ||entailment
+there is a skateboard ||entailment
+the skateboard is in lap ||entailment
+the man sits with skateboard ||entailment

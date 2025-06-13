@@ -1,0 +1,4 @@
+there is a man ||entailment
+there is a motorcycle ||entailment
+the motorcycle is small ||entailment
+the man is on the motorcycle ||contradiction

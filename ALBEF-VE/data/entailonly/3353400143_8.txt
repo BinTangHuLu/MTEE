@@ -1,0 +1,4 @@
+there is a man ||entailment
+there is a rider ||entailment
+the man is experienced ||neutral
+the man is an experienced rider ||entailment

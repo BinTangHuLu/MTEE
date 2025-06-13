@@ -1,0 +1,5 @@
+there are children ||entailment
+there are parents ||entailment
+there is a bounce house ||entailment
+the children are in front of the bounce house ||entailment
+the parents are in front of the bounce house ||entailment

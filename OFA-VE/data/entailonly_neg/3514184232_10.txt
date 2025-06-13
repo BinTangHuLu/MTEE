@@ -1,0 +1,4 @@
+There is not a player. ||Contradiction
+There is not a softball. ||Contradiction
+The player is not attempting to make a play. ||Contradiction
+The player is not attempting to make play. ||Contradiction

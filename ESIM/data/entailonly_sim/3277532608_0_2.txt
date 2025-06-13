@@ -1,0 +1,4 @@
+There are community. ||neutral
+There is a avenue. ||entailment
+The freight waits for people. ||neutral
+The community wait to cross the street. ||neutral

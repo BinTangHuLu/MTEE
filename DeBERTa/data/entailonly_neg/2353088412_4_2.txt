@@ -1,0 +1,4 @@
+There is not a dog. ||contradiction
+The dog is not running. ||contradiction
+The dog is not being chased by another dog. ||contradiction
+There is not another dog. ||contradiction

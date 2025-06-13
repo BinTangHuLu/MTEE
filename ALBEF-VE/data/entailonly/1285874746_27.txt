@@ -1,0 +1,4 @@
+there is a lady ||entailment
+there is a crowd ||entailment
+the lady is looking ||entailment
+the lady is looking into the crowd ||entailment

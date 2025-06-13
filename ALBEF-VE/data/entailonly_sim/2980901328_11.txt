@@ -1,0 +1,3 @@
+there is a technician ||entailment
+there is an farther ||entailment
+the technician works outside ||entailment

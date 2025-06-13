@@ -1,0 +1,3 @@
+There are not tourists. ||Contradiction
+There is not a boat. ||Entailment
+The tourists are not on the boat. ||Entailment

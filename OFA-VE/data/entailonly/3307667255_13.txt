@@ -1,0 +1,3 @@
+There are People. ||Entailment
+There is a building. ||Entailment
+The People stand in front of the building. ||Entailment

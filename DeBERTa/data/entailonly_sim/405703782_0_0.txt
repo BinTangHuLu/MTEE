@@ -1,0 +1,2 @@
+There is a ballet dancer. ||contradiction
+The ballet dancer performs. ||contradiction

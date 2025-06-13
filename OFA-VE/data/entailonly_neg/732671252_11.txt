@@ -1,0 +1,2 @@
+There are not boys. ||Contradiction
+The boys are not outside. ||Entailment

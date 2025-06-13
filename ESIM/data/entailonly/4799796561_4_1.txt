@@ -1,0 +1,4 @@
+There is a man. ||entailment
+The man sits. ||entailment
+The man smokes. ||entailment
+The man is outside. ||entailment

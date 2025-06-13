@@ -1,0 +1,5 @@
+There is not a man. ||contradiction
+There is not a woman. ||contradiction
+There is not a statue. ||contradiction
+The man is not sitting near the statue. ||contradiction
+The woman is not sitting near the statue. ||contradiction

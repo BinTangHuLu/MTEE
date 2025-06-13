@@ -1,0 +1,8 @@
+There is a man. ||entailment
+There is a shirt. ||entailment
+There is a kitchen. ||entailment
+There is some meat. ||entailment
+There is a bag. ||entailment
+The man is holding up. ||entailment
+The meat is took out of. ||entailment
+The man is in kitchen. ||entailment

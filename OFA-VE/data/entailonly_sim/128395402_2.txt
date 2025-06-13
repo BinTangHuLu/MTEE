@@ -1,0 +1,5 @@
+There is a body. ||Entailment
+There is a pedal. ||Entailment
+There is a asphalt. ||Entailment
+The body is riding the bike. ||Entailment
+The pedal is on the pavement. ||Entailment

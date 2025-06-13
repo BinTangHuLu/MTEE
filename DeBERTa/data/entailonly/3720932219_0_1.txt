@@ -1,0 +1,8 @@
+There is a blond. ||entailment
+There is a group. ||entailment
+There is a woman. ||entailment
+There are students. ||entailment
+The blond is blond. ||entailment
+The woman is young. ||neutral
+The woman is dark-haired. ||contradiction
+The blond speaks with the group. ||entailment

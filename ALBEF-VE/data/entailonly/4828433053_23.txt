@@ -1,0 +1,5 @@
+there is a person ||entailment
+there is a dog ||entailment
+there is a leash ||entailment
+the person holds the dog ||entailment
+the dog is on the leash ||entailment

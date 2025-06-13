@@ -1,0 +1,4 @@
+there is a boy ||entailment
+there are some activities ||entailment
+the activities involve water ||entailment
+the boy is engaging in activities ||entailment

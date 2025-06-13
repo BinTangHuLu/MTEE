@@ -1,0 +1,3 @@
+there is a body ||entailment
+there is a camouflage ||entailment
+the body is in a mask ||entailment

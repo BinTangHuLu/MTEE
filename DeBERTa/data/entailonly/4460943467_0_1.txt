@@ -1,0 +1,4 @@
+There are people. ||entailment
+There is a picture. ||entailment
+The people are hood wearing. ||entailment
+The people pose for the picture. ||neutral

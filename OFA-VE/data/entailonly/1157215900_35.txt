@@ -1,0 +1,4 @@
+There is a person. ||Entailment
+There is bread. ||Entailment
+The bread is fresh. ||Entailment
+The person is selling bread. ||Entailment

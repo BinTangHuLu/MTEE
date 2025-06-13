@@ -1,0 +1,5 @@
+There are not Riders. ||Entailment
+There is not a park. ||Contradiction
+There is not a ride. ||Contradiction
+The Riders are not riding the ride. ||Entailment
+The ride is not on the park. ||Contradiction

@@ -1,0 +1,3 @@
+There is a man. ||entailment
+There is an airport. ||entailment
+The man is at the airport. ||entailment

@@ -1,0 +1,6 @@
+there are people ||entailment
+there is a cart ||entailment
+there are vegetables ||entailment
+the people are dressed differently ||entailment
+the people are standing near the cart ||entailment
+the people are looking at the vegetables ||entailment

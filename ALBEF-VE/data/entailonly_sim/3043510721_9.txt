@@ -1,0 +1,3 @@
+there is a dude ||entailment
+there is an apparatus ||entailment
+the dude is playing instrument ||entailment

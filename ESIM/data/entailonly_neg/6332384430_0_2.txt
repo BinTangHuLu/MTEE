@@ -1,0 +1,4 @@
+There is not a man. ||contradiction
+There is not a belt. ||contradiction
+The belt is not red. ||contradiction
+The man is not wearing a belt. ||contradiction

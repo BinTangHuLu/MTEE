@@ -1,0 +1,6 @@
+There is not a band. ||contradiction
+There is not some music. ||contradiction
+There is not a venue. ||contradiction
+The venue is not large. ||neutral
+The band is not playing music. ||contradiction
+The band is not playing at the venue. ||contradiction

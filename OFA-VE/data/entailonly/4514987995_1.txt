@@ -1,0 +1,5 @@
+There are people. ||Entailment
+There is a desk. ||Entailment
+The people are at. ||Entailment
+The people are at desk. ||Entailment
+The people are solving problem. ||Entailment

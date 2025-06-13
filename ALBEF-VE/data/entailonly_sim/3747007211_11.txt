@@ -1,0 +1,4 @@
+there is a dude ||entailment
+there is a alp ||entailment
+the alp is snowy ||entailment
+the dude is skiing down the mountain ||contradiction
