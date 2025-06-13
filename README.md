@@ -8,6 +8,11 @@ This repository contains data and code for the paper "Metamorphic Testing for Te
 <p>
 
 # Data
+<p align="center">
+    <br>
+    <img src="MTEE_results.png" width="800" />
+    <br>
+<p>
 * The test results of the four models in our evaluation experiment.
 
 # Code
