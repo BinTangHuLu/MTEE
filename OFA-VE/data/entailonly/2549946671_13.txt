@@ -1,0 +1,4 @@
+There is a boy. ||Entailment
+There is a phone. ||Entailment
+The boy is young. ||Entailment
+The boy holds the phone. ||Entailment

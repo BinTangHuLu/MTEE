@@ -1,0 +1,5 @@
+there is a child ||entailment
+the child is walking ||contradiction
+the child is carrying ||entailment
+the baton is bubble blowing ||entailment
+the child is carrying a wand ||neutral

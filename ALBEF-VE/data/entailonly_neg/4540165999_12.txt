@@ -1,0 +1,5 @@
+there is not someone ||contradiction
+there is not an umbrella ||contradiction
+there is not a walk ||contradiction
+someone is not carrying an umbrella ||contradiction
+someone is not on a walk ||contradiction

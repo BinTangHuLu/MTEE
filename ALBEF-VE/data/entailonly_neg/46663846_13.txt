@@ -1,0 +1,3 @@
+there are not men ||contradiction
+there are not four men ||entailment
+the men are not chatting ||contradiction

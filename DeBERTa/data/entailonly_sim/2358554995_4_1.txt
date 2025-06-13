@@ -1,0 +1,5 @@
+There is a baby. ||entailment
+There is a dominant. ||entailment
+There is a accelerate. ||entailment
+The baby is at the top. ||neutral
+The dominant is of the slide. ||entailment

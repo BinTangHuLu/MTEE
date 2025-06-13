@@ -1,0 +1,4 @@
+There is a woman. ||entailment
+There is a swimsuit. ||entailment
+The woman is wearing. ||entailment
+The woman is swimsuit. ||entailment

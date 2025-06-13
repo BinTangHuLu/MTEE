@@ -1,0 +1,5 @@
+There is a animator. ||entailment
+There is a art. ||entailment
+The animator is doing. ||entailment
+The art is watercolor. ||contradiction
+The animator is doing the painting. ||entailment

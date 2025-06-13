@@ -1,0 +1,4 @@
+there are not boys ||contradiction
+there are not structures ||contradiction
+the structures are not old ||entailment
+the boys are not playing on structures ||entailment

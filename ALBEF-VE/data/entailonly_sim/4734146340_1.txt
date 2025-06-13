@@ -1,0 +1,4 @@
+there are dude ||entailment
+the dude are old ||entailment
+there is a girder ||entailment
+the dude hold the beam ||entailment

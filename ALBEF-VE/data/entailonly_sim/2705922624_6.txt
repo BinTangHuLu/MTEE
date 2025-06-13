@@ -1,0 +1,4 @@
+there are clan ||entailment
+the clan are posing ||entailment
+there is a account ||entailment
+the clan are posing for the picture ||entailment

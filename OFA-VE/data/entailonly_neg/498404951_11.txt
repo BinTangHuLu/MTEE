@@ -1,0 +1,4 @@
+There is not a dog. ||Contradiction
+There is not some water. ||Entailment
+The dog is not white. ||Entailment
+The dog is not at water. ||Entailment

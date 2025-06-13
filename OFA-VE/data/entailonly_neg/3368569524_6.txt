@@ -1,0 +1,3 @@
+There are not Humans. ||Contradiction
+There is not a sport. ||Contradiction
+The Humans are not playing a sport. ||Contradiction

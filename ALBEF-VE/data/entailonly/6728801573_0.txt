@@ -1,0 +1,3 @@
+there is a lady ||entailment
+there is a bike ||entailment
+the lady makes adjustments ||entailment

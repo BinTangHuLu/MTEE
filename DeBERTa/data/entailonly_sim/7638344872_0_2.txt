@@ -1,0 +1,4 @@
+There are dude. ||entailment
+There is drink. ||entailment
+The dude sit on innertubes. ||entailment
+The dude sit in the middle of water. ||entailment

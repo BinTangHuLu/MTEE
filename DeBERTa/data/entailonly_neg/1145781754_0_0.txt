@@ -1,0 +1,6 @@
+There are not males. ||contradiction
+There are not clothes. ||contradiction
+The males are not socializing. ||contradiction
+The clothes are not casual. ||contradiction
+The males are not socializing with each other. ||contradiction
+The males are not wearing casual clothes. ||contradiction

@@ -1,0 +1,5 @@
+there is a sign ||entailment
+there is a couple ||entailment
+there is a hill ||entailment
+the sign stands in front of the couple ||contradiction
+the couple is on top of the hill ||entailment

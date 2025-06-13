@@ -1,0 +1,4 @@
+There is a boy. ||Entailment
+There is a bat. ||Entailment
+The bat is plastic. ||Entailment
+The boy is holding the bat. ||Entailment

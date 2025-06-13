@@ -1,0 +1,3 @@
+there is an man ||entailment
+there are clan ||entailment
+the man is surrounded by children ||entailment

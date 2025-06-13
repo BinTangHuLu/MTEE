@@ -1,0 +1,3 @@
+There is a body. ||entailment
+There is some backdrop. ||neutral
+The body is enjoying scenery. ||entailment

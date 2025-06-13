@@ -1,0 +1,4 @@
+There are adolescent. ||entailment
+There is an delight park. ||entailment
+There is a drive. ||contradiction
+The adolescent ride the ride. ||entailment

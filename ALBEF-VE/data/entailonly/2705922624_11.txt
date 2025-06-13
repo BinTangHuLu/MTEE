@@ -1,0 +1,7 @@
+there is a man ||entailment
+there is a photograph ||entailment
+there are people ||entailment
+there is a park ||entailment
+the man is taking a photograph ||entailment
+the man is taking the photograph of people ||entailment
+the people are in the park ||entailment

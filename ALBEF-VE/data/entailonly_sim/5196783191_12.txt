@@ -1,0 +1,3 @@
+there is an congregation ||entailment
+there are association ||entailment
+the congregation watched performers ||entailment

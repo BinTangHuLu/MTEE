@@ -1,0 +1,6 @@
+There are not Boys. ||Entailment
+There is not a sport. ||Contradiction
+There are not uniforms. ||Contradiction
+The sport is not a team. ||Contradiction
+The Boys do not play sport. ||Contradiction
+The sport is not in uniforms. ||Contradiction

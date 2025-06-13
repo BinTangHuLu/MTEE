@@ -1,0 +1,5 @@
+there are leaders ||entailment
+there is a side ||entailment
+there is a field ||entailment
+the leaders sit on the side ||entailment
+the side is of the field ||neutral

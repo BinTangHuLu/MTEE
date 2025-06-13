@@ -1,0 +1,5 @@
+There is not a man. ||contradiction
+There are not some surfboards. ||contradiction
+There is not a car. ||contradiction
+The man does not secure surfboards. ||contradiction
+The man does not secure a car. ||contradiction

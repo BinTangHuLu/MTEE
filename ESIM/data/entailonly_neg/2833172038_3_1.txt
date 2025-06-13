@@ -1,0 +1,5 @@
+There is not a man. ||contradiction
+There is not a card. ||contradiction
+The man is not playing. ||contradiction
+The card is not in his hand. ||contradiction
+The man does not have card. ||contradiction

@@ -1,0 +1,11 @@
+There is a group. ||entailment
+There are some people. ||entailment
+There is a man. ||entailment
+There is a woman. ||entailment
+There are some instruments. ||entailment
+There is a bus. ||entailment
+The group is including people. ||entailment
+The bus is double-decker. ||entailment
+The bus is red. ||entailment
+The group are playing instruments. ||entailment
+The group are playing on bus. ||entailment

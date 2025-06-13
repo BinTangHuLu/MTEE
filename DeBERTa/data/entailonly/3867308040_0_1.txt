@@ -1,0 +1,3 @@
+There are People. ||entailment
+There is water. ||entailment
+People are gathered by water. ||entailment

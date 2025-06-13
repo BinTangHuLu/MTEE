@@ -1,0 +1,5 @@
+there is not a couple ||contradiction
+there is not a photo ||entailment
+there is not a sign ||contradiction
+the couple does not take a photo ||contradiction
+the photo is not taken by the sign ||neutral

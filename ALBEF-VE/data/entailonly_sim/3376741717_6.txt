@@ -1,0 +1,3 @@
+there is a attendant ||entailment
+the attendant is working ||entailment
+the attendant is working ||entailment

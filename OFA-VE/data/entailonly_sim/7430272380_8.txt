@@ -1,0 +1,4 @@
+There is a dude. ||Entailment
+There is a bar. ||Contradiction
+The bar is big. ||Contradiction
+The dude has a stick. ||Entailment

@@ -1,0 +1,5 @@
+There is not a woman. ||contradiction
+There is not an animal. ||contradiction
+The woman is not holding. ||contradiction
+The animal is not stuffed. ||contradiction
+The woman is not holding an animal. ||contradiction

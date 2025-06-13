@@ -1,0 +1,3 @@
+there is a dude ||entailment
+there is a bright ||neutral
+the dude is seated under light ||entailment

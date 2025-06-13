@@ -1,0 +1,4 @@
+There are community. ||entailment
+There is a avenue. ||entailment
+The community are a large number. ||entailment
+The community are walking on the street. ||entailment

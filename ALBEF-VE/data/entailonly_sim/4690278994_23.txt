@@ -1,0 +1,5 @@
+there is a dude ||entailment
+there is a blouse ||entailment
+there are knickers ||neutral
+the dude is running in the shirt ||entailment
+the dude is running in the pants ||contradiction

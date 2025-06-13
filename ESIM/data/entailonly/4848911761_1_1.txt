@@ -1,0 +1,8 @@
+There is Tricks. ||entailment
+There is a person. ||entailment
+There is a jacket. ||entailment
+There are people. ||entailment
+The jacket is red. ||entailment
+Tricks are made by the person. ||neutral
+The person is in a red jacket. ||entailment
+People are watching him. ||entailment

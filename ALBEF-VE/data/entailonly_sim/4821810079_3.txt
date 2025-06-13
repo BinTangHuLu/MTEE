@@ -1,0 +1,6 @@
+there is a dealer ||entailment
+there is a attitude ||entailment
+there is a forum ||entailment
+the dealer is male ||neutral
+the dealer stands behind the stand ||neutral
+the attitude is at the marketplace ||entailment

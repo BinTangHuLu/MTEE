@@ -1,0 +1,4 @@
+there is a action ||entailment
+there is a metro ||entailment
+friends make action ||neutral
+the action is toward subway ||entailment

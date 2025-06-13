@@ -1,0 +1,2 @@
+There is a photographer. ||entailment
+The photographer is working. ||entailment

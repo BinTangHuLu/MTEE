@@ -1,0 +1,4 @@
+there is a gentlewoman ||neutral
+there is a artery ||entailment
+the gentlewoman prepares to throw the ball ||contradiction
+the ball is down the artery ||neutral

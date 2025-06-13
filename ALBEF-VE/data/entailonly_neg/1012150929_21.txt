@@ -1,0 +1,6 @@
+there is not a person ||contradiction
+there is not a gamecube kiosk ||contradiction
+there is not a mcdonalds ||contradiction
+the person is not young ||entailment
+the person does not play with gamecube kiosk ||contradiction
+the person does not play at mcdonalds ||contradiction

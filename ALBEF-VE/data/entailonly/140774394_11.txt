@@ -1,0 +1,4 @@
+there is a man ||entailment
+there is a saw ||entailment
+the man is cutting something ||entailment
+the something is being cut with the saw ||entailment

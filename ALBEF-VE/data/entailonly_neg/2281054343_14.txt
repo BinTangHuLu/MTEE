@@ -1,0 +1,6 @@
+there is not a person ||contradiction
+there is not some clothing ||contradiction
+there are not some objects ||contradiction
+the clothing is not dark ||contradiction
+the person is not in clothing ||contradiction
+the objects are not meant to convey some kind of information or message ||contradiction

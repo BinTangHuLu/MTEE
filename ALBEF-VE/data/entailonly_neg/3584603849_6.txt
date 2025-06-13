@@ -1,0 +1,4 @@
+there is not an airplane ||contradiction
+there is not air ||contradiction
+the airplane is not moving ||contradiction
+the airplane is not moving in air ||contradiction

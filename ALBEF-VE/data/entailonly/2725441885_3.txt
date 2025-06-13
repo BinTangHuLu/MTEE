@@ -1,0 +1,3 @@
+there is someone ||entailment
+there is a ball ||entailment
+someone is hitting the ball ||neutral

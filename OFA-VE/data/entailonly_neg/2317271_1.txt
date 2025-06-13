@@ -1,0 +1,5 @@
+There is not a picture. ||Contradiction
+There are not some people. ||Contradiction
+There is not a building. ||Contradiction
+The picture is not of people. ||Contradiction
+The picture is not taken near the building. ||Contradiction

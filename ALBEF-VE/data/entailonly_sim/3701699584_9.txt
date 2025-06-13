@@ -1,0 +1,4 @@
+there is a dude ||entailment
+there is a conspiracy ||contradiction
+the conspiracy is tennis ||contradiction
+the dude has a racket ||entailment

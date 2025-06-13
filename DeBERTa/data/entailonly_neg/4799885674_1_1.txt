@@ -1,0 +1,7 @@
+There is not a man. ||contradiction
+There is not a shirt. ||contradiction
+There is not a camera. ||contradiction
+The shirt is not stripped. ||contradiction
+The man is not with the shirt. ||contradiction
+The man is not carrying the camera. ||contradiction
+The camera is not on the body of the man. ||entailment

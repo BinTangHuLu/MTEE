@@ -1,0 +1,2 @@
+They are a ball. ||entailment
+They struggle to gain control over the ball. ||entailment

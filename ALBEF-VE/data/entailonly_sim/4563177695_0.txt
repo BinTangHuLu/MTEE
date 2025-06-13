@@ -1,0 +1,3 @@
+there are defender ||entailment
+there is an door ||entailment
+the defender are standing at the exit ||entailment

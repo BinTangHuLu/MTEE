@@ -1,0 +1,3 @@
+there is not a woman ||contradiction
+there is not a sweater ||contradiction
+the woman is not wearing a sweater ||contradiction

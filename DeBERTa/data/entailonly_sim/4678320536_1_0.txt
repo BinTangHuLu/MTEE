@@ -1,0 +1,12 @@
+There is a female. ||entailment
+There is some lumber. ||entailment
+There is a appendage. ||entailment
+There is a beam. ||entailment
+There is a air. ||entailment
+The female is standing. ||entailment
+The female is with smile. ||entailment
+The female is with wood. ||entailment
+The appendage is in her. ||contradiction
+The female is standing with smile. ||entailment
+The female is with wood. ||entailment
+The female is with hand. ||entailment

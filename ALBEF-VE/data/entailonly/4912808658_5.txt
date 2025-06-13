@@ -1,0 +1,3 @@
+there is a man ||entailment
+there is africa ||entailment
+the man is from africa ||entailment

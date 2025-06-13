@@ -1,0 +1,3 @@
+there is she ||contradiction
+there is jewelry ||entailment
+she is wearing jewelry ||entailment

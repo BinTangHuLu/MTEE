@@ -1,0 +1,4 @@
+there is a architecture ||entailment
+there is an article ||neutral
+someone is in the architecture ||entailment
+someone is moving an article ||neutral

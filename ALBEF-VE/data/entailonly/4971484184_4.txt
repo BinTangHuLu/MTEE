@@ -1,0 +1,2 @@
+there is a car ||entailment
+the car is blue ||entailment

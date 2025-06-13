@@ -1,0 +1,3 @@
+there is blizzard ||neutral
+there is dirt ||contradiction
+the blizzard is on the ground ||neutral

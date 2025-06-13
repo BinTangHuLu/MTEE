@@ -1,0 +1,5 @@
+there is a body ||entailment
+there is a kitten ||entailment
+there is a bank ||entailment
+the body stands near the cat ||contradiction
+the kitten is in the store ||entailment

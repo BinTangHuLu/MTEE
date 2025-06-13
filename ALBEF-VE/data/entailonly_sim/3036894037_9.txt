@@ -1,0 +1,2 @@
+there is a atrocity ||entailment
+the atrocity has been committed ||neutral

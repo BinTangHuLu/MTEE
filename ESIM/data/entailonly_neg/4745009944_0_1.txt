@@ -1,0 +1,5 @@
+There is not someone. ||contradiction
+There is not a man. ||contradiction
+There is not a paddle. ||contradiction
+Someone does not dance. ||contradiction
+The man does not hold a paddle. ||contradiction

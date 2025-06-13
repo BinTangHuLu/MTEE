@@ -1,0 +1,4 @@
+There is a group. ||Entailment
+There are some people. ||Entailment
+There is a house. ||Entailment
+The group is next to the house. ||Entailment

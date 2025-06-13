@@ -1,0 +1,3 @@
+There is a female. ||Entailment
+There is some bracelet. ||Neutral
+The female is wearing jewelry. ||Entailment

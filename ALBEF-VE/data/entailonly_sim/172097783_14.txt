@@ -1,0 +1,4 @@
+there is a child ||entailment
+there are some action ||entailment
+the action involve water ||entailment
+the child is engaging in activities ||entailment

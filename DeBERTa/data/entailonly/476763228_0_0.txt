@@ -1,0 +1,5 @@
+There is a group. ||entailment
+There are some people. ||entailment
+There are some Chinese. ||entailment
+There is a porch. ||entailment
+The group are hanging out on porch. ||entailment

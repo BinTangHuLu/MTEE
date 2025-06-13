@@ -1,0 +1,2 @@
+There is a man. ||neutral
+The man is leaping. ||entailment

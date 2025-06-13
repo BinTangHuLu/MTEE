@@ -1,0 +1,3 @@
+There is not an asian. ||Contradiction
+There is not a young. ||Contradiction
+The asian is not sitting young. ||Entailment

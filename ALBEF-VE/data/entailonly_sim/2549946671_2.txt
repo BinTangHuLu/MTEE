@@ -1,0 +1,4 @@
+there is a child ||entailment
+there is a accessory ||entailment
+the accessory is electronic ||entailment
+the child has a device ||entailment

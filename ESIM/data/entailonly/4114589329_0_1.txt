@@ -1,0 +1,5 @@
+There is a sedan. ||entailment
+There is a corner. ||neutral
+There are walkers. ||entailment
+The sedan was turning the corner. ||neutral
+The walkers were crossing. ||neutral

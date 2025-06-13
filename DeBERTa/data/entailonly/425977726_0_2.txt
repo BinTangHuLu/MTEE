@@ -1,0 +1,3 @@
+There is someone. ||entailment
+There is a bowling alley. ||entailment
+Someone is in the bowling alley. ||entailment

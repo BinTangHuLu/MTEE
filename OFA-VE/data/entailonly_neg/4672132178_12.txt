@@ -1,0 +1,4 @@
+There are not People. ||Contradiction
+There is not a sidewalk. ||Contradiction
+The clothing is not bright. ||Entailment
+People do not stand on the sidewalk. ||Contradiction

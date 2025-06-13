@@ -1,0 +1,3 @@
+there are dude ||entailment
+the dude are indoor ||entailment
+the dude are indoor ||entailment

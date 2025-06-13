@@ -1,0 +1,4 @@
+There is not a group. ||Entailment
+There are not some people. ||Contradiction
+There is not an escalator. ||Entailment
+The group is not on escalator. ||Entailment

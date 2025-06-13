@@ -1,0 +1,4 @@
+There is a man. ||entailment
+The man is something. ||entailment
+His hand is his. ||neutral
+The man has in hand. ||entailment

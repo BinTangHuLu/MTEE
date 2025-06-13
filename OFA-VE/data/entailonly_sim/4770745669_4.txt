@@ -1,0 +1,3 @@
+There is a body. ||Entailment
+There is a bank. ||Neutral
+The body stands near the store. ||Contradiction

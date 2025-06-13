@@ -1,0 +1,5 @@
+There are not cars. ||Contradiction
+There is not a racetrack. ||Contradiction
+There is not a race. ||Contradiction
+The cars are not on the racetrack. ||Contradiction
+The cars are not in the race. ||Contradiction

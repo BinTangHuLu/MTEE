@@ -1,0 +1,4 @@
+There is a body. ||neutral
+The body is young. ||entailment
+There is a body. ||neutral
+The body is next to the person. ||entailment

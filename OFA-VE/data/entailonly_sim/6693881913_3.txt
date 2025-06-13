@@ -1,0 +1,3 @@
+There are list. ||Contradiction
+There is a field. ||Entailment
+The list play on the rink. ||Entailment

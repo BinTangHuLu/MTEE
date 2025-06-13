@@ -1,0 +1,4 @@
+There are males. ||Entailment
+There is a lake. ||Entailment
+The males are two young. ||Entailment
+The males are playing besides lake. ||Entailment

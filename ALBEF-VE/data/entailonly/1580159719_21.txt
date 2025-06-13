@@ -1,0 +1,4 @@
+there is a group ||entailment
+there are some people ||entailment
+there is a lawn ||entailment
+the group are sitting on the lawn ||entailment

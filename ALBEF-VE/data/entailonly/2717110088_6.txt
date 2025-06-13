@@ -1,0 +1,7 @@
+there are children ||entailment
+there is a store ||entailment
+there is a floor ||entailment
+there are displays ||entailment
+the children are playing in the store ||contradiction
+the store is with the floor ||entailment
+the store is with displays ||entailment

@@ -1,0 +1,4 @@
+there is a dude ||entailment
+there is a frame ||entailment
+the frame is his ||neutral
+the dude is contorting his body ||entailment

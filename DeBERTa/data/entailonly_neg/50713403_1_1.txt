@@ -1,0 +1,3 @@
+There are not People. ||contradiction
+There is not a building. ||contradiction
+The People are not fixing the building. ||contradiction

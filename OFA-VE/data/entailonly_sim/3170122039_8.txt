@@ -1,0 +1,5 @@
+There are female. ||Entailment
+The female are two. ||Entailment
+The female are riding their bikes. ||Entailment
+The bikes are next to the female. ||Entailment
+The female are outside. ||Entailment

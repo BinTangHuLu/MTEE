@@ -1,0 +1,4 @@
+There is not a group. ||Contradiction
+There are not some people. ||Contradiction
+There is not a boat. ||Contradiction
+The group is not on boat. ||Contradiction

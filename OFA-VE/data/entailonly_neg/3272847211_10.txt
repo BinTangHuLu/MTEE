@@ -1,0 +1,3 @@
+There are not players. ||Contradiction
+There is not a court. ||Contradiction
+The players are not on court. ||Contradiction

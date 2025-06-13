@@ -1,0 +1,5 @@
+There is a room. ||Entailment
+There are some people. ||Entailment
+There are some tables. ||Entailment
+The people are old. ||Entailment
+The people stand around table. ||Entailment

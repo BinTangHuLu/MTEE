@@ -1,0 +1,5 @@
+There is a beagle. ||entailment
+There is a basin. ||neutral
+The beagle is wet. ||entailment
+The beagle is golden. ||entailment
+The beagle is in the lake. ||entailment

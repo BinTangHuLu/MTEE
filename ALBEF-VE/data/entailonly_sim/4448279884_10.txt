@@ -1,0 +1,2 @@
+there is blaze ||entailment
+the blaze is outdoor ||entailment

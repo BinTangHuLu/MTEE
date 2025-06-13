@@ -1,0 +1,4 @@
+There is a child. ||entailment
+There are some boot. ||neutral
+The child is young. ||entailment
+The child wears sandals. ||entailment

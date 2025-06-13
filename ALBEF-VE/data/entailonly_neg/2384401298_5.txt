@@ -1,0 +1,2 @@
+there are not animals ||contradiction
+the animals are not walking ||entailment

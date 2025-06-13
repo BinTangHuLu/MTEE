@@ -1,0 +1,7 @@
+there is a person ||entailment
+there is a street ||entailment
+the person is red ||contradiction
+the person is in the street ||entailment
+there is another person ||neutral
+the other person is blue ||neutral
+the person is along with the other person ||contradiction

@@ -1,0 +1,2 @@
+EA,cart,popular
+R,wait for

@@ -1,0 +1,4 @@
+There is a body. ||contradiction
+There is a counteract. ||entailment
+There is a dude. ||entailment
+The body is a man. ||entailment

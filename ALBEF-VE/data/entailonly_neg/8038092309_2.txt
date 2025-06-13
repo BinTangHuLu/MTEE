@@ -1,0 +1,4 @@
+there are not players ||contradiction
+there is not a baseball ||contradiction
+there is not a ball ||contradiction
+the players are not trying to get the ball ||contradiction

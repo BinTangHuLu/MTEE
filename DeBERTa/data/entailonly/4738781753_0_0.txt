@@ -1,0 +1,6 @@
+There is a group. ||entailment
+There are some people. ||entailment
+There is a stadium. ||entailment
+The group is of. ||entailment
+The people doesn't care about stadium. ||entailment
+The people are sitting in stadium. ||entailment

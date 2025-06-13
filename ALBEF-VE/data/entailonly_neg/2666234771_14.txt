@@ -1,0 +1,8 @@
+there is not a man ||contradiction
+there are not flags ||contradiction
+there are not hands ||contradiction
+the man is not moving ||contradiction
+the man is not holding ||contradiction
+the man is not moving flags ||contradiction
+the man is not holding flags ||contradiction
+the flags are not in hands ||contradiction

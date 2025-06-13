@@ -1,0 +1,4 @@
+there is a association ||entailment
+there are community ||entailment
+there is a avenue ||entailment
+the community are running on street ||entailment

@@ -1,0 +1,5 @@
+there is a man ||entailment
+the man is red haired ||contradiction
+the man is flexing ||entailment
+the man is posing ||entailment
+the man is topless ||entailment

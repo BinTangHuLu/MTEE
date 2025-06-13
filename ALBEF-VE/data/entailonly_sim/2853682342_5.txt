@@ -1,0 +1,4 @@
+there is a dude ||entailment
+there is a grassland ||entailment
+the dude is jumping ||entailment
+the dude is jumping in the meadow ||entailment

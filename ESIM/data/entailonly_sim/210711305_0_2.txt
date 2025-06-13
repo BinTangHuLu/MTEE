@@ -1,0 +1,6 @@
+There is a dude. ||entailment
+There is a aisle. ||entailment
+There is a baby. ||entailment
+The aisle is wooden. ||neutral
+The dude is walking down the path. ||entailment
+The dude is pushing the child. ||entailment

@@ -1,0 +1,4 @@
+EA,bag,carrying
+A,African
+A,young
+RE2,carrying,bag

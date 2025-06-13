@@ -1,0 +1,3 @@
+there is an octopus ||entailment
+there is a menu ||entailment
+the octopus is on the menu ||entailment

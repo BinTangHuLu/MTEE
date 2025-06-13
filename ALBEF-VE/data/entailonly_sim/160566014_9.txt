@@ -1,0 +1,6 @@
+there is a set ||entailment
+there is a aspect ||entailment
+there is a auto ||entailment
+the auto is parked ||entailment
+the set is enjoying the view ||neutral
+the aspect is from the car ||entailment

@@ -1,0 +1,3 @@
+There is a man. ||Entailment
+There is some art. ||Entailment
+The man makes art. ||Entailment

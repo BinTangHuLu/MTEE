@@ -1,0 +1,4 @@
+there is a man ||entailment
+there is a woman ||entailment
+the man is holding hands ||entailment
+the woman is holding hands ||entailment

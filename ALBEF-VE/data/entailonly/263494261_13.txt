@@ -1,0 +1,4 @@
+there is a group ||entailment
+there are some people ||entailment
+there are some runners ||entailment
+the people are watching runners ||entailment

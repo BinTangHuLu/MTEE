@@ -1,0 +1,3 @@
+There is a swimmer. ||Entailment
+There are some goggles. ||Entailment
+The swimmer is wearing goggles. ||Entailment

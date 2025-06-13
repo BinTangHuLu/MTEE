@@ -1,0 +1,3 @@
+There is a female. ||entailment
+There is some food. ||entailment
+The female is preparing meat. ||entailment

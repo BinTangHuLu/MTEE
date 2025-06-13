@@ -1,0 +1,4 @@
+there is not a human ||contradiction
+there is not a pair of jeans ||contradiction
+the jeans are not blue ||entailment
+the human is not wearing jeans ||contradiction

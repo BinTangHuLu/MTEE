@@ -1,0 +1,5 @@
+There is a set. ||neutral
+There is a bronze. ||entailment
+The set is standing. ||neutral
+The bronze is a. ||neutral
+The set are having their picture. ||entailment

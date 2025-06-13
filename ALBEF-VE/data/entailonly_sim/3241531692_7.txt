@@ -1,0 +1,3 @@
+there is a gentlewoman ||entailment
+there is a artist ||entailment
+the gentlewoman is a musician ||neutral

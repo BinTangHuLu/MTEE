@@ -1,0 +1,4 @@
+There is not a man. ||contradiction
+There is not a gesture. ||contradiction
+The gesture is not crude. ||entailment
+The man is not making a crude gesture. ||contradiction

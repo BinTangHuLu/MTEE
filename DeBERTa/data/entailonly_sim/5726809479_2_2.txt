@@ -1,0 +1,5 @@
+There is a female. ||entailment
+The female has small cutting utensils. ||entailment
+There is a network. ||entailment
+The network is large. ||neutral
+The female is using the net. ||entailment

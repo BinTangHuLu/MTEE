@@ -1,0 +1,3 @@
+There is a blouse. ||Entailment
+The blouse is striped. ||Neutral
+Someone is wearing the striped blouse. ||Entailment

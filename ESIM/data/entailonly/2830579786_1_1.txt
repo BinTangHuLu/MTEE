@@ -1,0 +1,6 @@
+There is a group. ||entailment
+There are some people. ||entailment
+There is a bus. ||entailment
+The group is on the bus. ||entailment
+The people are on the bus. ||entailment
+The people are sightseeing. ||entailment

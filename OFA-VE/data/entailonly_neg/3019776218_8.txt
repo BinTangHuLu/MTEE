@@ -1,0 +1,3 @@
+There is not a boy. ||Entailment
+There is not a phone. ||Contradiction
+The boy is not on the phone. ||Entailment

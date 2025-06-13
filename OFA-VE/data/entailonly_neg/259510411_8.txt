@@ -1,0 +1,4 @@
+There is not someone. ||Contradiction
+There is not a cow. ||Contradiction
+There is not a painting. ||Contradiction
+Someone is not in front of the cow. ||Entailment

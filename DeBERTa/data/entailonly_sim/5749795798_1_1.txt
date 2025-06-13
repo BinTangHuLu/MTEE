@@ -1,0 +1,3 @@
+There are community. ||entailment
+community play. ||entailment
+community play frisbee. ||entailment

@@ -1,0 +1,2 @@
+EA,ramp,vert
+RE2,on,ramp

@@ -1,0 +1,5 @@
+There is a dog. ||entailment
+The dog is big. ||entailment
+There is a dog. ||entailment
+The dog is smaller. ||entailment
+The dog is watching over the dog. ||entailment

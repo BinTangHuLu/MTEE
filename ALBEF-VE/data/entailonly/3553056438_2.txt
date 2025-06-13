@@ -1,0 +1,5 @@
+there is a boy ||entailment
+there is a girl ||entailment
+there is some hay ||entailment
+the boy kisses the girl ||contradiction
+the boy is on hay ||entailment

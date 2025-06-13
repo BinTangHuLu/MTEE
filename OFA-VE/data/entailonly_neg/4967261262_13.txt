@@ -1,0 +1,5 @@
+There are not boys. ||Entailment
+There is not a boy. ||Contradiction
+There are not two boys. ||Entailment
+The boys do not raise the boy. ||Contradiction
+The boy is not in the air. ||Contradiction

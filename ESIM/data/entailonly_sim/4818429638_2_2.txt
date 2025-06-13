@@ -1,0 +1,2 @@
+There is a dude. ||entailment
+The dude protests. ||entailment

@@ -1,0 +1,4 @@
+there is a group ||entailment
+there are some people ||entailment
+there is a line ||entailment
+the people are in line ||entailment

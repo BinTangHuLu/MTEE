@@ -1,0 +1,3 @@
+there is a hiker ||entailment
+there is a road ||entailment
+the hiker is walking along the road ||entailment

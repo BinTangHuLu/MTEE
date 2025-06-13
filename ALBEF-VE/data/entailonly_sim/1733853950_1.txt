@@ -1,0 +1,3 @@
+there are dude ||entailment
+the dude are standing ||entailment
+dude are standing by men ||entailment

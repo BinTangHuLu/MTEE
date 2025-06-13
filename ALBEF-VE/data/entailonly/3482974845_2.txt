@@ -1,0 +1,5 @@
+there is a dog ||entailment
+there is a dog wife ||neutral
+the dog is black ||entailment
+the dog wife is white ||contradiction
+the dog is running with the dog wife ||neutral

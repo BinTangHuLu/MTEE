@@ -1,0 +1,3 @@
+there is not a geisha ||contradiction
+there is not outdoors ||contradiction
+the geisha is not outdoors ||entailment

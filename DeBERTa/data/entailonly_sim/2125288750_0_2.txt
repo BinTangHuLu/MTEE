@@ -1,0 +1,5 @@
+There are community. ||entailment
+There are club. ||entailment
+There are Two community. ||entailment
+The club are opposite. ||entailment
+The community play flag football. ||entailment

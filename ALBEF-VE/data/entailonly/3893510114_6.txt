@@ -1,0 +1,5 @@
+there are men ||entailment
+there is a game ||entailment
+there is water ||entailment
+men are playing a game ||entailment
+the game is in water ||entailment

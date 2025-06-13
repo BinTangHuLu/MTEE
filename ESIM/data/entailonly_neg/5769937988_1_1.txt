@@ -1,0 +1,5 @@
+There are not Chefs. ||contradiction
+There is not food. ||contradiction
+There are not customers. ||contradiction
+The Chefs are not making food. ||contradiction
+The food is not for customers. ||contradiction

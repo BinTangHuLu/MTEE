@@ -1,0 +1,3 @@
+there are tourists ||entailment
+there is a boat ||entailment
+the tourists are on the boat ||entailment

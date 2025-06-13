@@ -1,0 +1,3 @@
+there is a photo ||entailment
+there is a dog ||entailment
+the photo has a dog ||entailment

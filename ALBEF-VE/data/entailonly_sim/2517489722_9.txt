@@ -1,0 +1,8 @@
+there is a child ||entailment
+there are some field ||entailment
+there is a dude ||entailment
+there is a aisle ||neutral
+the child is climbing ||entailment
+the dude walks past the trail ||contradiction
+the child is climbing the boards ||entailment
+the dude is walking past the girl ||entailment

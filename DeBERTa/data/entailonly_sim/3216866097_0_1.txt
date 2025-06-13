@@ -1,0 +1,4 @@
+There are community. ||entailment
+The community are old. ||entailment
+The community perform onstage. ||entailment
+The community perform onstage on stage. ||entailment

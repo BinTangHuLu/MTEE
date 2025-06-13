@@ -1,0 +1,6 @@
+there are not women ||contradiction
+there is not a child ||contradiction
+there is not a street ||contradiction
+the women are not amused ||contradiction
+the women are not amused by the child ||neutral
+the child is not in the street ||contradiction

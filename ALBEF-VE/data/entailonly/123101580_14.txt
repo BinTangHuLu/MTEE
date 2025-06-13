@@ -1,0 +1,3 @@
+there are women ||entailment
+there are games ||entailment
+the women are playing games ||entailment

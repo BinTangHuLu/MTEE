@@ -1,0 +1,5 @@
+There is a woman. ||Entailment
+There is a shirt. ||Entailment
+The woman is blond. ||Neutral
+The shirt is yellow. ||Entailment
+The woman is in the shirt. ||Entailment

@@ -1,0 +1,3 @@
+there are not people ||contradiction
+there is not a ride ||contradiction
+people are bracing themselves not on ride ||contradiction

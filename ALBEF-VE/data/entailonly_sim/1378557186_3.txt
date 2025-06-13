@@ -1,0 +1,3 @@
+there is a dude ||entailment
+there is a rip ||neutral
+the dude has a rifle ||entailment

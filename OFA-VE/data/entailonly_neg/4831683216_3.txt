@@ -1,0 +1,3 @@
+There is not a girl. ||Contradiction
+There is not a bikini. ||Entailment
+The bikini is not in. ||Contradiction

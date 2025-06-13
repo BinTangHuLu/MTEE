@@ -1,0 +1,3 @@
+there are child ||entailment
+the child are dressed for cold weather ||entailment
+the child greet each other ||entailment

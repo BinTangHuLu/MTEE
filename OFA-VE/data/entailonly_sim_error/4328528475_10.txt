@@ -1,0 +1,2 @@
+EA,racket,tennis
+E1RE2,Female,holds up,racket

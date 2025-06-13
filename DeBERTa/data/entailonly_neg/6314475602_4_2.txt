@@ -1,0 +1,3 @@
+There is not a man. ||contradiction
+There is not a skirt. ||contradiction
+The man is not wearing a skirt. ||contradiction

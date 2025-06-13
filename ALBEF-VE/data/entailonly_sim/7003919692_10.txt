@@ -1,0 +1,4 @@
+there are community ||entailment
+there is a advertise street ||entailment
+the community are young black ||neutral
+the community are in market street ||entailment

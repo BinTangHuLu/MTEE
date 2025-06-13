@@ -1,0 +1,4 @@
+there is not a woman ||contradiction
+there is not some art ||contradiction
+the art is not glass ||contradiction
+the woman does not create art ||contradiction

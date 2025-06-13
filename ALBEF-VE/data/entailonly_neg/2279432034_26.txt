@@ -1,0 +1,3 @@
+there is not an orchestra ||contradiction
+there is not a hall ||contradiction
+the orchestra is not at the hall ||entailment

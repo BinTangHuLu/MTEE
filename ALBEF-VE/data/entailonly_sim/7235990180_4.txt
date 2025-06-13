@@ -1,0 +1,4 @@
+there is a animal ||entailment
+there is an article ||neutral
+the animal is two ||neutral
+the animal is making facial expressions ||entailment

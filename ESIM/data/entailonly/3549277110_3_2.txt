@@ -1,0 +1,5 @@
+There are boys. ||entailment
+There is a piece. ||entailment
+The boys are two. ||entailment
+The piece is literature. ||entailment
+The boys are reading the piece. ||entailment

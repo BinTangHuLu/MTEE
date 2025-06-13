@@ -1,0 +1,7 @@
+There is a man. ||entailment
+There is a skateboard. ||entailment
+There is a surface. ||entailment
+The man is his. ||entailment
+The surface is cement. ||entailment
+The man flips skateboard. ||entailment
+The man flips on surface. ||entailment

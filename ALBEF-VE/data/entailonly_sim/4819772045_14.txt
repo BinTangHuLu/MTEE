@@ -1,0 +1,3 @@
+there are female ||entailment
+there are accommodation ||neutral
+the female sit in chairs ||entailment

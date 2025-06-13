@@ -1,0 +1,5 @@
+There are community. ||Entailment
+There is a counter. ||Contradiction
+The community are at. ||Entailment
+The community are at desk. ||Entailment
+The community are solving problem. ||Entailment

@@ -1,0 +1,5 @@
+there is not a team ||contradiction
+there is not a player ||contradiction
+the team is not green ||contradiction
+the player is not offensive ||contradiction
+the team does not have a player ||contradiction

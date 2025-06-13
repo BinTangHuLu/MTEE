@@ -1,0 +1,6 @@
+There is a dude. ||entailment
+There is a caravan. ||contradiction
+The caravan is tiny. ||contradiction
+The caravan is different. ||contradiction
+The dude is riding the train. ||entailment
+The dude sees another man. ||entailment

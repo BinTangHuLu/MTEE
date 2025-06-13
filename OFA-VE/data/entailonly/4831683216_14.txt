@@ -1,0 +1,4 @@
+There is a Person. ||Entailment
+There is a beer. ||Entailment
+The Person is drinking. ||Entailment
+The Person is drinking beer. ||Neutral

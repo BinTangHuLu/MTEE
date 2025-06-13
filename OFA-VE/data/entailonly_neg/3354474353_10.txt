@@ -1,0 +1,3 @@
+There are not Dogs. ||Contradiction
+There is not snow. ||Contradiction
+The Dogs are not playing in snow. ||Neutral

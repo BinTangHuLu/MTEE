@@ -1,0 +1,4 @@
+There are not Dancers. ||contradiction
+There is not a stage. ||contradiction
+The Dancers are not barefoot. ||contradiction
+The Dancers are not performing on stage. ||contradiction

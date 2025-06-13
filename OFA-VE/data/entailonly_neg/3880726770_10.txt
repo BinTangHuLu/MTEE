@@ -1,0 +1,4 @@
+There are not people. ||Contradiction
+There is not a market. ||Contradiction
+The market is not outdoor. ||Entailment
+The people are not at the market. ||Contradiction

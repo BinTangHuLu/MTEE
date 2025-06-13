@@ -1,0 +1,5 @@
+there is a boy ||entailment
+there is a face ||entailment
+there is a snack ||entailment
+the boy is making a face ||entailment
+the boy has a snack ||entailment

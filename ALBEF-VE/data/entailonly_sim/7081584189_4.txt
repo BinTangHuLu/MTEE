@@ -1,0 +1,3 @@
+there are animal ||entailment
+there is a estuary ||neutral
+the animal kayak down the river ||contradiction

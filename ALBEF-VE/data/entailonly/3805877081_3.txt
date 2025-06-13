@@ -1,0 +1,10 @@
+there is an object ||entailment
+there is a structure ||entailment
+there is a drawing ||entailment
+there are mountains ||contradiction
+there are clouds ||contradiction
+there is a wall ||entailment
+the object stands in front of the structure ||entailment
+the drawing is of mountains ||contradiction
+the drawing is of clouds ||neutral
+the drawing is against the wall ||contradiction

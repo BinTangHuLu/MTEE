@@ -1,0 +1,7 @@
+there is a man ||entailment
+there is a woman ||entailment
+there are some shirts ||entailment
+the shirts are white ||entailment
+the man wears shirts ||entailment
+the woman wears shirts ||entailment
+the shirts are worn outdoors ||entailment

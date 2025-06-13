@@ -1,0 +1,4 @@
+there is a female ||entailment
+there is a dude ||entailment
+the female is blond ||entailment
+the female is near the man ||entailment

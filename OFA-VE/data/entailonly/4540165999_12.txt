@@ -1,0 +1,5 @@
+There is someone. ||Entailment
+There is an umbrella. ||Entailment
+There is a walk. ||Entailment
+Someone is carrying an umbrella. ||Entailment
+Someone is on a walk. ||Entailment

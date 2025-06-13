@@ -1,0 +1,2 @@
+There is They. ||Entailment
+They are waiting. ||Entailment

@@ -1,0 +1,4 @@
+There is a man. ||entailment
+There is a player. ||entailment
+The man tries to tackle the player. ||entailment
+The man is in the game of football. ||entailment

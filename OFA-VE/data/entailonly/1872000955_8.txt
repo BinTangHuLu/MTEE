@@ -1,0 +1,4 @@
+There is a hole. ||Entailment
+There are some people. ||Entailment
+The hole is large. ||Neutral
+The hole is being dug by people. ||Entailment

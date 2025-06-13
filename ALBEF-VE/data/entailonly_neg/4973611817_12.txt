@@ -1,0 +1,2 @@
+there is not an officer ||contradiction
+the officer is not standing ||entailment

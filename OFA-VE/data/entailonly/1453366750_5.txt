@@ -1,0 +1,3 @@
+There are Girls. ||Entailment
+There is a bed. ||Entailment
+The Girls are by the bed. ||Neutral

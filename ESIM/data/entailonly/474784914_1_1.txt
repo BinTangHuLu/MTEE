@@ -1,0 +1,4 @@
+There are People. ||entailment
+The People are checking out. ||entailment
+The People are reflection. ||entailment
+The People are checking out reflection. ||entailment

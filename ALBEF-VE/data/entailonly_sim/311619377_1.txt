@@ -1,0 +1,5 @@
+there is a female ||entailment
+there is some aroma ||entailment
+there is some exhaust ||entailment
+the female is watching incense ||entailment
+the female is watching smoke ||entailment

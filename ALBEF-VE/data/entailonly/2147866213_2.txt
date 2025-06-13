@@ -1,0 +1,6 @@
+there is a man ||entailment
+there is a dog ||entailment
+there is a love seat ||entailment
+the man and dog are together ||entailment
+the man is sitting on the love seat ||neutral
+the dog is sitting on the love seat ||contradiction

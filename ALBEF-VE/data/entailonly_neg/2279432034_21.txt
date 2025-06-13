@@ -1,0 +1,3 @@
+there is not a conductor ||contradiction
+there are not musicians ||contradiction
+the conductor does not lead musicians ||contradiction

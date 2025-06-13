@@ -1,0 +1,5 @@
+There are people. ||Entailment
+There is a tire. ||Entailment
+There is a bike. ||Entailment
+The people are looking at the tire. ||Entailment
+The tire is of the bike. ||Entailment

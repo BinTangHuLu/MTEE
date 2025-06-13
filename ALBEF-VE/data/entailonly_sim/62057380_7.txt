@@ -1,0 +1,4 @@
+there are community ||entailment
+there is a path ||entailment
+the community are young ||neutral
+the community run down the sidewalk ||contradiction

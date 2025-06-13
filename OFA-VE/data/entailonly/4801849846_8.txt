@@ -1,0 +1,3 @@
+There is someone. ||Entailment
+There is a street. ||Entailment
+Someone is walking on street. ||Entailment

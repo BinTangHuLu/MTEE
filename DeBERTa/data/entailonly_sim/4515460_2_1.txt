@@ -1,0 +1,3 @@
+There is a employee. ||entailment
+The employee is construction. ||entailment
+The employee is looking outside. ||entailment

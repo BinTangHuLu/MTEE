@@ -1,0 +1,4 @@
+There is a crowd. ||Entailment
+There is a bonfire. ||Entailment
+The bonfire is large. ||Entailment
+The crowd is gathered around the bonfire. ||Entailment

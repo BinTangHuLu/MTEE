@@ -1,0 +1,5 @@
+there is not a man ||contradiction
+there is not a jacket ||contradiction
+there are not some trunks ||contradiction
+the man is not waterskiing in the jacket ||contradiction
+the man is not waterskiing in the trunks ||contradiction

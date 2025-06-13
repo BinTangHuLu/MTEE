@@ -1,0 +1,6 @@
+There is a car. ||Entailment
+There is a seat. ||Entailment
+There is a couple. ||Entailment
+The couple is away facing. ||Entailment
+The car serves as a seat. ||Entailment
+The seat is for the couple. ||Entailment

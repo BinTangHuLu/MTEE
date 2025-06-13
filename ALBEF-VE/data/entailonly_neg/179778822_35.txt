@@ -1,0 +1,7 @@
+there is not a woman ||contradiction
+there is not a child ||contradiction
+there is not a mirror ||contradiction
+the woman does not look at the child ||contradiction
+the child does not look at the woman ||contradiction
+the woman is not in the mirror ||contradiction
+the child is not in the mirror ||contradiction

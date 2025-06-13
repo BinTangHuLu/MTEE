@@ -1,0 +1,3 @@
+There is a association. ||entailment
+There are some community. ||entailment
+The association is sitting with people. ||entailment

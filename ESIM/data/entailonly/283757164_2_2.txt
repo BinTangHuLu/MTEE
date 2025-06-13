@@ -1,0 +1,3 @@
+There is a woman. ||entailment
+There are girls. ||entailment
+The woman is engaging girls. ||entailment

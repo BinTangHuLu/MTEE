@@ -1,0 +1,3 @@
+There are not people. ||Contradiction
+There is not a railing. ||Contradiction
+The people are not next to the railing. ||Entailment

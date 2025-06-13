@@ -1,0 +1,5 @@
+there is not a girl ||contradiction
+there is not water ||contradiction
+there is not a jacket ||contradiction
+the girl does not float in water ||contradiction
+the girl is not with a jacket ||contradiction

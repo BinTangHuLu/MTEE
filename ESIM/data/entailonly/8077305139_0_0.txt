@@ -1,0 +1,4 @@
+There is a person. ||entailment
+There is a skateboard. ||entailment
+The person is with a skateboard. ||entailment
+The person is preparing to do tricks. ||entailment

@@ -1,0 +1,4 @@
+There is a man. ||entailment
+There is a head. ||entailment
+The man is safety gear. ||entailment
+The man is wearing head. ||entailment

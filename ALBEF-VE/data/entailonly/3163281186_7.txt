@@ -1,0 +1,3 @@
+there is an elephant ||entailment
+the elephant is petting ||entailment
+the elephant is being petted ||entailment

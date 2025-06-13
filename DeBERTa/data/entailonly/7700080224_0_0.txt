@@ -1,0 +1,5 @@
+There is a volleyball match. ||entailment
+There is progress. ||entailment
+There are ladies. ||entailment
+The volleyball match is in progress. ||entailment
+The progress is between ladies. ||entailment

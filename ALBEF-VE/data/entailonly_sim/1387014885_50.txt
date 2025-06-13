@@ -1,0 +1,3 @@
+there are community ||entailment
+there is a gig ||entailment
+the community talk together at the concert ||entailment

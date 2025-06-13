@@ -1,0 +1,5 @@
+There is not a child. ||contradiction
+The child is not small. ||contradiction
+The child is not dressed for winter. ||contradiction
+The child does not stare across the lake. ||contradiction
+The child is not leaning on the fence. ||contradiction

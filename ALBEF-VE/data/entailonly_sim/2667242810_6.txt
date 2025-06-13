@@ -1,0 +1,3 @@
+there are coordinator ||entailment
+there is a booking ||entailment
+the coordinator were chatting at registration ||entailment

@@ -1,0 +1,3 @@
+There is a basin. ||Entailment
+There are some sand. ||Contradiction
+The basin is near rocks. ||Entailment

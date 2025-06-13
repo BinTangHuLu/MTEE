@@ -1,0 +1,5 @@
+There is not a man. ||contradiction
+There is not a table. ||contradiction
+The man does not sit. ||contradiction
+The man is not near the table. ||contradiction
+The man does not have his drinks. ||contradiction

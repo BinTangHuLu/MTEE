@@ -1,0 +1,5 @@
+There is not a nurse. ||contradiction
+There is not a temperature. ||contradiction
+There is not a woman. ||contradiction
+The nurse is not taking temperature. ||neutral
+The nurse is not taking the temperature of the woman. ||contradiction

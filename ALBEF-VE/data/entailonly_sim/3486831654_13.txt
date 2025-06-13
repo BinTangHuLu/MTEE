@@ -1,0 +1,3 @@
+there is a dude ||entailment
+there is a farmland ||entailment
+the dude is on the field ||entailment

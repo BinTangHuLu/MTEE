@@ -1,0 +1,3 @@
+There are not Women. ||Entailment
+There is not a group. ||Contradiction
+The Women are not in the group. ||Contradiction

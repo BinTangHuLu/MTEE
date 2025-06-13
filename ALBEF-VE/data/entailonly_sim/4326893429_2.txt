@@ -1,0 +1,5 @@
+there are dude ||entailment
+there is a bluff ||entailment
+the clothing is cold ||neutral
+the dude are in clothing ||entailment
+the dude are by the hill ||entailment

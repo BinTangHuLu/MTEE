@@ -1,0 +1,2 @@
+There is a crowd. ||entailment
+The crowd watches him. ||entailment

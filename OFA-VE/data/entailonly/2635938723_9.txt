@@ -1,0 +1,4 @@
+There is a Kid. ||Entailment
+There is a treat. ||Entailment
+The treat is frozen. ||Entailment
+The Kid is eating treat. ||Entailment

@@ -1,0 +1,3 @@
+there is bread ||entailment
+the bread is being prepared ||entailment
+the bread is being prepared by the chef ||neutral

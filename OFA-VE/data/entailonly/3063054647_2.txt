@@ -1,0 +1,6 @@
+There are Kids. ||Entailment
+There is a path. ||Entailment
+There is an area. ||Entailment
+The area is wooded. ||Entailment
+Kids walk down the path. ||Entailment
+The path is in the area. ||Entailment

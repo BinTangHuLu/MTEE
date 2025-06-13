@@ -1,0 +1,10 @@
+There is a group. ||entailment
+There are men. ||entailment
+There is clothing. ||entailment
+There is a beach. ||neutral
+There is a palm tree. ||entailment
+The group is small. ||neutral
+The men are clad in summery. ||entailment
+The beach is sandy. ||neutral
+The beach is palm tree lined. ||neutral
+The group is standing on the beach. ||neutral

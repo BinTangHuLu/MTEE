@@ -1,0 +1,6 @@
+there is a analyst ||entailment
+there is an appearance ||entailment
+there is a bottle ||entailment
+the bottle is magnifying ||entailment
+the analyst studies the image ||neutral
+the appearance is with the glass ||entailment

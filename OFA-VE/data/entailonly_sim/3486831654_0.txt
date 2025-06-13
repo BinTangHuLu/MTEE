@@ -1,0 +1,2 @@
+There is a agreeable. ||Entailment
+The agreeable is in progress. ||Entailment

@@ -1,0 +1,5 @@
+there are men ||entailment
+there is a pier ||entailment
+there is a kayak ||entailment
+the men are on the pier ||entailment
+the pier is by the kayak ||entailment

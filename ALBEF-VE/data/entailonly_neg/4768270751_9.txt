@@ -1,0 +1,4 @@
+there are not people ||contradiction
+there is not a woman ||contradiction
+the woman is not painting ||contradiction
+people do not walk past the woman ||contradiction

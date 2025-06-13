@@ -1,0 +1,10 @@
+There is a arena. ||entailment
+There are band. ||contradiction
+There is accessory. ||entailment
+The arena is outdoor. ||neutral
+The arena is daytime. ||entailment
+The band are two. ||entailment
+The band are safety. ||neutral
+The accessory is safety. ||entailment
+The arena is with workers. ||contradiction
+The band are working on scaffolding. ||contradiction

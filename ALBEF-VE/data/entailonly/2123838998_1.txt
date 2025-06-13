@@ -1,0 +1,4 @@
+there is a band ||entailment
+there is a street ||entailment
+the band is dressed as santa claus ||entailment
+the band is playing on street ||entailment

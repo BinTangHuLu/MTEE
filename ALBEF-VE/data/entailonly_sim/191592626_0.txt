@@ -1,0 +1,4 @@
+there is a alp climber ||entailment
+there is a earth face ||entailment
+the earth face is sheer ||entailment
+the alp climber scales the rock face ||entailment

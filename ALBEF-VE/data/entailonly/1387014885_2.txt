@@ -1,0 +1,4 @@
+there are people ||entailment
+there is an outing ||entailment
+the people talk with people ||entailment
+the people are on outing ||neutral

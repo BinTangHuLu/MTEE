@@ -1,0 +1,3 @@
+There is a line. ||Contradiction
+There is a scenery. ||Contradiction
+The line plays on backdrop. ||Contradiction

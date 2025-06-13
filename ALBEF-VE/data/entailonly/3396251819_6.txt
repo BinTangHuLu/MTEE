@@ -1,0 +1,4 @@
+there is a woman ||entailment
+there is an attire ||entailment
+the attire is business ||neutral
+the woman is in business attire ||entailment

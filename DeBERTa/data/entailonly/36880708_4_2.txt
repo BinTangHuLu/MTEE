@@ -1,0 +1,2 @@
+There is a xylophone. ||entailment
+The xylophone is played by someone. ||entailment

@@ -1,0 +1,4 @@
+there is a girl ||entailment
+there is a playground ||entailment
+there is a slide ||entailment
+the girl slides down the slide ||entailment

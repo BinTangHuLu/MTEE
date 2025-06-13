@@ -1,0 +1,3 @@
+there are people ||entailment
+the people are standing ||entailment
+the people are standing around people ||entailment

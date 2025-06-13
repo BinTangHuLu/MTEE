@@ -1,0 +1,4 @@
+there is a baby ||entailment
+there is a coast ||entailment
+the baby is wearing floaties ||entailment
+the baby is leaning over at beach ||entailment

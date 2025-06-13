@@ -1,0 +1,3 @@
+there is a person ||entailment
+there is a court ||entailment
+the person is on court ||entailment

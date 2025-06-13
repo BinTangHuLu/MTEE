@@ -1,0 +1,5 @@
+There is a man. ||entailment
+There are people. ||entailment
+The man is running. ||entailment
+The man is running. ||entailment
+The people are watching. ||entailment

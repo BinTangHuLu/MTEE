@@ -1,0 +1,3 @@
+A,small
+R,in
+R,is in

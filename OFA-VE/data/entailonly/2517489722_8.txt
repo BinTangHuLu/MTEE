@@ -1,0 +1,5 @@
+There are people. ||Entailment
+There is a part. ||Entailment
+There are bodies. ||Contradiction
+The part is at least. ||Entailment
+The people are moving part. ||Entailment

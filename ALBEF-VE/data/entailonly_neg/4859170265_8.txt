@@ -1,0 +1,5 @@
+there are not girls ||contradiction
+there is not literature ||contradiction
+there are not balloons ||contradiction
+the girls are not handing out literature ||contradiction
+the girls are not handing out balloons ||contradiction

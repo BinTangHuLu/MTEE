@@ -1,0 +1,6 @@
+there is a female ||entailment
+there is a apparel ||entailment
+there is a fedora ||contradiction
+the apparel is blue ||entailment
+the female is in dress ||entailment
+the female is in hat ||entailment

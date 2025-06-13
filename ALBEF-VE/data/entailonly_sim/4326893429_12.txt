@@ -1,0 +1,4 @@
+there is a association ||entailment
+there are some community ||entailment
+there is a bluff ||entailment
+the community snowboard down the hill ||contradiction

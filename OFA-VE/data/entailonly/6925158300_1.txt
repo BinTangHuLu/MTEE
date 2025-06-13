@@ -1,0 +1,5 @@
+There is a group. ||Entailment
+There are some people. ||Entailment
+There are some games. ||Entailment
+The people are playing games. ||Entailment
+The group is of people. ||Entailment

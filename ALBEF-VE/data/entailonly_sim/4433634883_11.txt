@@ -1,0 +1,3 @@
+there are auto ||entailment
+there is an crossing ||entailment
+the auto are in the intersection ||entailment

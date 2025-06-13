@@ -1,0 +1,3 @@
+R,are sitting on
+RE2,and,dog
+E1R,dog,are sitting on

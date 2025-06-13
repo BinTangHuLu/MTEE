@@ -1,0 +1,4 @@
+there is a bar ||entailment
+there are girl ||entailment
+the girl are three ||neutral
+the girl are standing around the table ||contradiction

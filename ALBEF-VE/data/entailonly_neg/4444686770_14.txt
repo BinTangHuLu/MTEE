@@ -1,0 +1,5 @@
+there is not a man ||contradiction
+there is not a woman ||contradiction
+there is not a rod ||contradiction
+the man is not looking at the rod ||entailment
+the woman is not looking at the rod ||entailment

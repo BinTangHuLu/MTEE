@@ -1,0 +1,3 @@
+There is not a man. ||Contradiction
+There is not a skateboard. ||Contradiction
+The man does not ride the skateboard. ||Contradiction

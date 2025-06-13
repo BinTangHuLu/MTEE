@@ -1,0 +1,4 @@
+There is not a child. ||Contradiction
+There is not a shirt. ||Contradiction
+The shirt is not long sleeved. ||Contradiction
+The child is not wearing a shirt. ||Neutral

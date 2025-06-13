@@ -1,0 +1,6 @@
+there is not a man ||contradiction
+there is not a public ||contradiction
+there is not a girl ||contradiction
+the man is not drinking ||contradiction
+the man is not in public ||contradiction
+the man is not marking contact with the girl ||entailment

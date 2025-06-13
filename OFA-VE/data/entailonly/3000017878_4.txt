@@ -1,0 +1,4 @@
+There is a group. ||Entailment
+There are some people. ||Entailment
+The group is playing music. ||Entailment
+The group is playing music for people. ||Entailment

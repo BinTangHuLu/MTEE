@@ -1,0 +1,6 @@
+There is not a snowman. ||contradiction
+There is not a person. ||contradiction
+There is not a picture. ||contradiction
+The snowman is a.not ||neutral
+The person does not pose for the picture. ||contradiction
+The person is not with the snowman. ||contradiction

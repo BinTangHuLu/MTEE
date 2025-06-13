@@ -1,0 +1,6 @@
+there is a person ||entailment
+there is a wall ||entailment
+there is an instrument ||entailment
+the person is leaning against the wall ||entailment
+the person is leaning against the wall ||entailment
+the person is playing the instrument ||entailment

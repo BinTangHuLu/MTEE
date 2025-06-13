@@ -1,0 +1,3 @@
+there is a body ||entailment
+there is some purification ||neutral
+the body is performing cleaning ||entailment

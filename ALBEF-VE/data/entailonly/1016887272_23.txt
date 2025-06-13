@@ -1,0 +1,3 @@
+there is a rock ||entailment
+the rock is tall enough ||entailment
+the rock is climb ||entailment

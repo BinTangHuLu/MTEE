@@ -1,0 +1,4 @@
+there is not a group ||contradiction
+there are not people ||contradiction
+there is not transportation ||contradiction
+the people do not wait for transportation ||contradiction

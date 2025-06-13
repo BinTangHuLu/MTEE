@@ -1,0 +1,4 @@
+There are Turtles. ||entailment
+There is grass. ||entailment
+The grass is green. ||entailment
+The Turtles are crawling in grass. ||entailment

@@ -1,0 +1,3 @@
+there is a baby ||entailment
+there is an bodily ||entailment
+the baby is watching the animal ||entailment

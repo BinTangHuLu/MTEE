@@ -1,0 +1,4 @@
+There is a skater. ||entailment
+There are some steps. ||entailment
+The skater is high. ||neutral
+The skater jumped over steps. ||entailment

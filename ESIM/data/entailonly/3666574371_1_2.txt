@@ -1,0 +1,8 @@
+There is a man. ||entailment
+There is some grass. ||entailment
+There is a ball. ||entailment
+The man is lying. ||entailment
+The man is holding on to. ||entailment
+The ball is holding on to. ||entailment
+The man is lying in grass. ||entailment
+The man is holding on to the ball. ||entailment

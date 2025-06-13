@@ -1,0 +1,4 @@
+There is a woman. ||entailment
+There is a microscope. ||entailment
+The woman is standing. ||neutral
+The woman is near microscope. ||entailment

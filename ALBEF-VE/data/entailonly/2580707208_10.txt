@@ -1,0 +1,4 @@
+there is a performer ||entailment
+there is a street ||entailment
+there are some hats ||entailment
+the performer is playing with hats ||entailment

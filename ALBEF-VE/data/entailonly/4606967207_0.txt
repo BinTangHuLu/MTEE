@@ -1,0 +1,3 @@
+there is a man ||entailment
+there is a store ||entailment
+the man is working in the store ||entailment

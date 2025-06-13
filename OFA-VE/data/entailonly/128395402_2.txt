@@ -1,0 +1,5 @@
+There is a person. ||Entailment
+There is a bike. ||Entailment
+There is a pavement. ||Entailment
+The person is riding the bike. ||Entailment
+The bike is on the pavement. ||Entailment

@@ -1,0 +1,2 @@
+there is a player ||entailment
+the player gets blocked ||entailment

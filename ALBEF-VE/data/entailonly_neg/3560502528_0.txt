@@ -1,0 +1,3 @@
+there are not men ||entailment
+there are not bikes ||contradiction
+the men are not near bikes ||contradiction

@@ -1,0 +1,7 @@
+there is a dude ||entailment
+there are some specs ||entailment
+there is a frame ||entailment
+the specs are a pair of ||neutral
+the dude is walking outside ||entailment
+the dude is with sunglasses ||entailment
+the specs are on the body ||entailment

@@ -1,0 +1,5 @@
+There are clan. ||entailment
+There is drink. ||entailment
+The clan are playing near water. ||entailment
+The clan are some. ||contradiction
+The clan are outside. ||entailment

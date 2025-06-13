@@ -1,0 +1,10 @@
+There is not a group. ||contradiction
+There are not some people. ||contradiction
+There are not some smiles. ||contradiction
+There is not a background. ||contradiction
+There are not some signs. ||contradiction
+The group is not of. ||contradiction
+The people are not standing. ||contradiction
+The people do not have smiles. ||contradiction
+The background is not more. ||contradiction
+The people are not standing around smiles. ||contradiction

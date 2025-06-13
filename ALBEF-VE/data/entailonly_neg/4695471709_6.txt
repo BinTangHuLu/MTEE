@@ -1,0 +1,3 @@
+there are not people ||contradiction
+there are not statues ||contradiction
+the people are not visiting statues ||contradiction

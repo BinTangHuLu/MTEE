@@ -1,0 +1,4 @@
+there is a person ||entailment
+there is a beer ||entailment
+the person is drinking ||entailment
+the person is drinking beer ||entailment

@@ -1,0 +1,3 @@
+There is a mammal. ||entailment
+There is a yard. ||entailment
+The mammal is running through the yard. ||entailment

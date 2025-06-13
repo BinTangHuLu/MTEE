@@ -1,0 +1,6 @@
+There are dude. ||entailment
+There is a coast. ||entailment
+The dude are young. ||entailment
+The dude are wearing shorts. ||entailment
+The dude are playing soccer. ||entailment
+The dude are in the beach. ||entailment

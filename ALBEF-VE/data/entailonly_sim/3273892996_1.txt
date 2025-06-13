@@ -1,0 +1,3 @@
+there are dude ||entailment
+there are flora ||entailment
+dude are weighing vegetables ||entailment

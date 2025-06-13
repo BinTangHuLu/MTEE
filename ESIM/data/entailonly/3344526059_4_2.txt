@@ -1,0 +1,2 @@
+There are They. ||entailment
+They are playing hockey. ||entailment

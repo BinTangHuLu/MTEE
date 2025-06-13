@@ -1,0 +1,5 @@
+there is a child ||entailment
+there is a female ||entailment
+there is a consideration ||entailment
+the child looks at the reflection ||entailment
+the female looks at the reflection ||entailment

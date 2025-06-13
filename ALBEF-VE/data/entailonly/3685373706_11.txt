@@ -1,0 +1,3 @@
+there is a man ||entailment
+there are hands ||entailment
+the man waves hands ||entailment

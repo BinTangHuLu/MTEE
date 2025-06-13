@@ -1,0 +1,3 @@
+there are not guards ||contradiction
+there is not an exit ||contradiction
+the guards are not standing at the exit ||entailment

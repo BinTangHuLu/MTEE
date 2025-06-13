@@ -1,0 +1,6 @@
+There are not women. ||contradiction
+There are not headscarves. ||contradiction
+There is not a courtyard. ||contradiction
+The women are not wearing headscarves. ||contradiction
+The courtyard is not cobbled. ||contradiction
+The women do not stand in the courtyard. ||contradiction

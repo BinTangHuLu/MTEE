@@ -1,0 +1,5 @@
+There is a dude. ||Entailment
+There are some stuff. ||Entailment
+The stuff are risky. ||Entailment
+The dude does things. ||Entailment
+The dude does things while riding an All-Terrain Vehicle. ||Entailment

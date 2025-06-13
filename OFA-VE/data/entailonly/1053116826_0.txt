@@ -1,0 +1,2 @@
+There are children. ||Entailment
+The children are together. ||Entailment

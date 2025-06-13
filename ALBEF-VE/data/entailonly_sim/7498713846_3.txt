@@ -1,0 +1,3 @@
+there are dude ||entailment
+the dude stand ||entailment
+the dude stand together ||entailment

@@ -1,0 +1,4 @@
+there is a colt ||neutral
+there is a avenue ||entailment
+the colt is being ridden ||entailment
+the colt is being ridden through the street ||entailment

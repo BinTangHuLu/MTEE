@@ -1,0 +1,4 @@
+there is a boy ||entailment
+there is a vendor ||entailment
+the vendor is street ||entailment
+the boy is a vendor ||entailment

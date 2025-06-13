@@ -1,0 +1,5 @@
+there are dude ||entailment
+there is a pup ||entailment
+there is a area ||entailment
+the dude are in the room ||entailment
+the pup is in the room ||entailment

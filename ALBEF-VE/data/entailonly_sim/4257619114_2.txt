@@ -1,0 +1,3 @@
+there is a female ||entailment
+there is a armor ||entailment
+the female had a helmet ||entailment

@@ -1,0 +1,2 @@
+EA,door,open
+E1RE2,door,is,open

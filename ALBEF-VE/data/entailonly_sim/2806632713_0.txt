@@ -1,0 +1,7 @@
+there is an action ||entailment
+there is an artisan ||entailment
+the action is highwire ||neutral
+the artisan is up ||neutral
+the action is during the day ||entailment
+the artisan is up supported by poles ||entailment
+the action and artist ||entailment

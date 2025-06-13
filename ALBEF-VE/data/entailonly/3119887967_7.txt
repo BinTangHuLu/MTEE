@@ -1,0 +1,3 @@
+there is a person ||entailment
+there is a man ||entailment
+the person is starting at the man ||neutral

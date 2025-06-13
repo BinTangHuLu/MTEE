@@ -1,0 +1,4 @@
+there is a dude ||entailment
+there is craft ||entailment
+the dude is cross country ||neutral
+the dude looks at sale ||entailment

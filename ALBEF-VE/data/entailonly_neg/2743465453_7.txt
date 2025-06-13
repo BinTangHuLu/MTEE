@@ -1,0 +1,4 @@
+there is not a waiter ||contradiction
+there is not an order ||contradiction
+the waiter is not ready ||contradiction
+the waiter is not ready to take the order ||contradiction

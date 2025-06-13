@@ -1,0 +1,4 @@
+There is a baby. ||entailment
+There is a dude. ||entailment
+There are animal. ||entailment
+The baby is riding on shoulders. ||entailment

@@ -1,0 +1,4 @@
+there are not workmen ||contradiction
+there are not clothes ||contradiction
+the clothes are not orange ||contradiction
+the workmen are not in clothes ||contradiction

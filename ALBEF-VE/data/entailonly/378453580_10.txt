@@ -1,0 +1,5 @@
+there is a dog ||entailment
+there is a log ||entailment
+there is a log ||entailment
+the dog jumps over the log ||entailment
+the dog is carrying the log ||entailment

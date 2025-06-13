@@ -1,0 +1,6 @@
+there is a lady ||entailment
+there is a horse ||entailment
+there is an obstacle ||entailment
+the obstacle is plane shaped ||entailment
+the lady rides the horse ||entailment
+the horse goes over the obstacle ||entailment

@@ -1,0 +1,5 @@
+there is a man ||entailment
+there is a pool ||entailment
+the man is in a group ||entailment
+the man is playing chess ||entailment
+the man is in the pool ||entailment

@@ -1,0 +1,4 @@
+there is a man ||entailment
+there is a mountain ||entailment
+the mountain is snowy ||entailment
+the man is skiing down the mountain ||contradiction

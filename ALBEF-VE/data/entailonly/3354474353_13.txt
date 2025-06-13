@@ -1,0 +1,3 @@
+there are animals ||entailment
+there is snow ||entailment
+the animals are in snow ||entailment

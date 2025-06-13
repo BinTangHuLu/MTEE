@@ -1,0 +1,5 @@
+there is not a man ||contradiction
+there is not a photo ||entailment
+there is not a statue ||contradiction
+the man is not taking a photo ||contradiction
+the photo is not by the statue ||neutral

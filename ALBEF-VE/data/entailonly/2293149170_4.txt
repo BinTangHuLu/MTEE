@@ -1,0 +1,3 @@
+there are animals ||entailment
+there is a boy ||entailment
+the animals are by the boy ||entailment

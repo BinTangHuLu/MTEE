@@ -1,0 +1,4 @@
+there is not a woman ||contradiction
+there is not a costume ||contradiction
+the costume is not white ||entailment
+the woman does not wear costume ||contradiction

@@ -1,0 +1,3 @@
+there is not an animal ||contradiction
+the animal is not playing ||contradiction
+the animal is not playing outside ||contradiction

@@ -1,0 +1,3 @@
+There are not People. ||Contradiction
+The People are not outdoor. ||Contradiction
+The People are not up in the air. ||Entailment

@@ -1,0 +1,3 @@
+there are not people ||contradiction
+there is not a store ||contradiction
+the people are not browsing the store ||contradiction

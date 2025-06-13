@@ -1,0 +1,7 @@
+There is a group. ||entailment
+There are some people. ||entailment
+There is a body. ||entailment
+There is some water. ||entailment
+The group is posing. ||entailment
+The group is posing in front of the body. ||entailment
+The group is posing in front of the water. ||entailment

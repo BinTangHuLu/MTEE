@@ -1,0 +1,6 @@
+There is a man. ||entailment
+The man is black. ||entailment
+The man has no hair. ||entailment
+The man is making a sculpture. ||entailment
+The man is with a pick. ||entailment
+The man is with a hammer. ||entailment

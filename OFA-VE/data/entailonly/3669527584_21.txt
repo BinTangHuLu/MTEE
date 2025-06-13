@@ -1,0 +1,5 @@
+There is a woman. ||Entailment
+There are some clothes. ||Entailment
+The woman is Indian. ||Entailment
+The clothes are fancy. ||Entailment
+The woman is dressed in fancy clothes. ||Entailment

@@ -1,0 +1,3 @@
+there is a man ||entailment
+there are some glasses ||entailment
+the man is wearing glasses ||neutral

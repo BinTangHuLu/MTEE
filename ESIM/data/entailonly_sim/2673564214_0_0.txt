@@ -1,0 +1,5 @@
+There is a child. ||entailment
+There are clan. ||contradiction
+The child poses. ||entailment
+The child is in front of children. ||entailment
+The clan are playing. ||neutral

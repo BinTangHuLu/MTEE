@@ -1,0 +1,3 @@
+There are not men. ||Entailment
+There is not cold. ||Contradiction
+The men are not outside in cold. ||Contradiction

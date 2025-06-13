@@ -1,0 +1,4 @@
+There is a female. ||Entailment
+There is a pose. ||Entailment
+The female is dark-skinned. ||Entailment
+The female is in pose. ||Entailment

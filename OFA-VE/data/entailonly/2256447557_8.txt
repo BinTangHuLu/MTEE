@@ -1,0 +1,3 @@
+There is a woman. ||Entailment
+The woman is chatting. ||Neutral
+The woman is chatting with another woman. ||Neutral

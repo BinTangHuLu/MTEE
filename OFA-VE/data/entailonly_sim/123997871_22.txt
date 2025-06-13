@@ -1,0 +1,3 @@
+There are adolescent. ||Entailment
+There are attire. ||Entailment
+The adolescent are in uniforms. ||Entailment

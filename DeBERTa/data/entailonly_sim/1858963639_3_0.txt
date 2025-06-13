@@ -1,0 +1,3 @@
+There is a female. ||entailment
+The female is happy. ||entailment
+The female is holding a rope. ||entailment

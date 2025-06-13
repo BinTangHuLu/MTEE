@@ -1,0 +1,4 @@
+There is not a girl. ||Contradiction
+There is not a moves. ||Contradiction
+The moves is not gymnastic. ||Entailment
+The girl is not doing moves. ||Contradiction

@@ -1,0 +1,2 @@
+there is a coast ||entailment
+the dogs are running on the coast ||entailment

@@ -1,0 +1,4 @@
+there are clan ||entailment
+there is a account ||entailment
+the account is taken ||neutral
+the clan are having a picture ||entailment

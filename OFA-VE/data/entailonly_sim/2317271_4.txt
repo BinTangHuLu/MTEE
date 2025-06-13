@@ -1,0 +1,4 @@
+There are clan. ||Entailment
+There is a cartoon. ||Contradiction
+There are two clan. ||Entailment
+The clan are posing for the photo. ||Entailment

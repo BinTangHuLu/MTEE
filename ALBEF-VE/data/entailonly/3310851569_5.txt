@@ -1,0 +1,3 @@
+there is a band ||entailment
+there are four band members ||entailment
+the band is playing music ||entailment

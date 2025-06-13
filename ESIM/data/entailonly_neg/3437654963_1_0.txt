@@ -1,0 +1,4 @@
+There are not bears. ||contradiction
+There are not two bears. ||contradiction
+The bears are not looking at each other. ||contradiction
+The bears do not have mouths open. ||contradiction

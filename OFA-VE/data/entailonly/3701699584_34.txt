@@ -1,0 +1,5 @@
+There is a person. ||Entailment
+There is a sport. ||Entailment
+The person has played. ||Entailment
+The sport has played at least once in their life. ||Entailment
+The person has played sport. ||Entailment

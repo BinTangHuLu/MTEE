@@ -1,0 +1,5 @@
+there are not people ||contradiction
+there are not some rafts ||contradiction
+there is not a forest ||contradiction
+the people are not on rafts ||contradiction
+the rafts are not in the forest ||entailment

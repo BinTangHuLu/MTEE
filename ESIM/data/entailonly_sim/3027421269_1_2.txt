@@ -1,0 +1,7 @@
+There is a baby. ||entailment
+There is a backpack. ||neutral
+The baby is young. ||entailment
+The baby is African. ||entailment
+The baby is carrying. ||entailment
+The backpack is carrying. ||neutral
+The baby is carrying the bag. ||entailment

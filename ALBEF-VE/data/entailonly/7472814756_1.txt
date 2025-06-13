@@ -1,0 +1,4 @@
+there are sailboats ||entailment
+there is water ||entailment
+the sailboats are three ||neutral
+the sailboats are sailing through water ||entailment

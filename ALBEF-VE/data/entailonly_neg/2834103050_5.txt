@@ -1,0 +1,5 @@
+there is not a female ||contradiction
+there is not a hat ||contradiction
+the female is not wearing ||contradiction
+the female is not traveling by foot ||entailment
+the female is not traveling by foot outside ||entailment

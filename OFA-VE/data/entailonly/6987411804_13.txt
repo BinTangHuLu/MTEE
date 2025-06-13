@@ -1,0 +1,4 @@
+There is a cheerleader. ||Entailment
+There is a male cheerleader. ||Neutral
+There is a female cheerleader. ||Entailment
+The male cheerleader is holding the female cheerleader. ||Neutral

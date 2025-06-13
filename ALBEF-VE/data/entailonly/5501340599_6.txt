@@ -1,0 +1,3 @@
+there is a girl ||entailment
+there is a sink ||entailment
+the girl is using the sink ||entailment

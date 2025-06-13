@@ -1,0 +1,3 @@
+There is not Bruce Springsteen. ||contradiction
+There is not Florida. ||contradiction
+Bruce Springsteen is not from Florida. ||contradiction

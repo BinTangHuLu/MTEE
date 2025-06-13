@@ -1,0 +1,4 @@
+There is a woman. ||entailment
+The woman is blonde. ||entailment
+There is a bench. ||entailment
+The woman sits on the bench. ||entailment

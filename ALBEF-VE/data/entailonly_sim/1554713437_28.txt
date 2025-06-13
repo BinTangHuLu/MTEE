@@ -1,0 +1,4 @@
+there is a pup ||entailment
+there is a arm ||entailment
+the pup is brown ||entailment
+the pup is walking on top of the branch ||entailment

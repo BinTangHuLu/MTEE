@@ -1,0 +1,7 @@
+There is a gentlewoman. ||entailment
+There is a depict. ||entailment
+There is a bar. ||neutral
+The gentlewoman is old. ||entailment
+The gentlewoman looks into the mirror. ||entailment
+The gentlewoman is at the table. ||entailment
+The depict is at the table. ||entailment

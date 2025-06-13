@@ -1,0 +1,4 @@
+there is a body ||entailment
+there is a bike ||entailment
+the bike is riding ||entailment
+the body is riding the bicycle ||entailment

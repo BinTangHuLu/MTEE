@@ -1,0 +1,4 @@
+There are community. ||Entailment
+There are two community. ||Entailment
+The community are kissing. ||Neutral
+The community are kissing outdoors. ||Neutral

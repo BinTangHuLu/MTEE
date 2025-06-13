@@ -1,0 +1,8 @@
+there is a dude ||entailment
+there is a blouse ||entailment
+there is a clue ||entailment
+the blouse is multi colored ||entailment
+the clue is orange ||entailment
+the clue is peace ||entailment
+the dude is wearing a shirt ||entailment
+the blouse is with a sign ||entailment

@@ -1,0 +1,4 @@
+there are not people ||contradiction
+there is not a street ||contradiction
+the people are not black ||contradiction
+the people do not traverse down the street ||contradiction

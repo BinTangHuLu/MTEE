@@ -1,0 +1,5 @@
+there is a woman ||entailment
+there is a man ||entailment
+there is a shirt ||entailment
+the shirt is blue ||entailment
+the woman is being dipped by the man ||entailment

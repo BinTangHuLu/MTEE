@@ -1,0 +1,5 @@
+There are people. ||Entailment
+There is a side. ||Entailment
+There is a street. ||Entailment
+The people are trying to get to the side. ||Entailment
+The side is of the street. ||Entailment

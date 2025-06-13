@@ -1,0 +1,3 @@
+There is a wedding. ||Entailment
+There is outdoors. ||Entailment
+The wedding is being held outdoors. ||Entailment

@@ -1,0 +1,6 @@
+there is not a lady ||contradiction
+there are not some pants ||contradiction
+there is not a sphear ||contradiction
+the pants are not black ||contradiction
+the lady is not in pants ||contradiction
+the lady does not do stretches on sphear ||contradiction

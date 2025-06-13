@@ -1,0 +1,4 @@
+there is a man ||entailment
+there is a beard ||entailment
+there is an instrument ||entailment
+the man plays the instrument ||entailment

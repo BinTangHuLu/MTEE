@@ -1,0 +1,6 @@
+there is a dude ||entailment
+there is an apparatus ||entailment
+there is a bar ||entailment
+the dude is playing ||entailment
+the dude is playing the instrument ||entailment
+the apparatus is near the wall ||entailment

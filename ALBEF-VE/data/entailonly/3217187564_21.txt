@@ -1,0 +1,6 @@
+there is a greyhound ||entailment
+there are some dogs ||entailment
+there are some muzzles ||entailment
+there is a track ||entailment
+the dogs wear muzzles ||entailment
+the muzzles are on the track ||entailment

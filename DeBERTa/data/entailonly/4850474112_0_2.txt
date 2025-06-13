@@ -1,0 +1,3 @@
+There are people. ||entailment
+There is a city. ||entailment
+The people populate the city. ||entailment

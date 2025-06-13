@@ -1,0 +1,3 @@
+there are children ||entailment
+there is some hay ||entailment
+the children are sitting on hay ||entailment

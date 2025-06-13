@@ -1,0 +1,6 @@
+there is not sandy ||entailment
+there is not a jacket ||contradiction
+there is not a slope ||contradiction
+the jacket is not yellow ||contradiction
+sandy did not go skiing down the slope ||contradiction
+sandy is not wearing the jacket ||contradiction

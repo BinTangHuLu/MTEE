@@ -1,0 +1,6 @@
+there are not children ||contradiction
+there is not snow ||contradiction
+there is not a trampoline ||contradiction
+there are not four children ||contradiction
+the children are not outside in snow ||contradiction
+the children are not on trampoline ||contradiction

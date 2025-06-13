@@ -1,0 +1,4 @@
+There is a man. ||entailment
+There is a woman. ||entailment
+The man is jumping in snow. ||entailment
+The woman is jumping in snow. ||entailment

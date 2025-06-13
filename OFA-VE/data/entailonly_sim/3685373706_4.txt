@@ -1,0 +1,2 @@
+There is a banner. ||Entailment
+Someone is holding the banner. ||Neutral

@@ -1,0 +1,5 @@
+There are People. ||entailment
+There is a table. ||entailment
+There is food. ||entailment
+People are at the table. ||entailment
+People are eating food. ||entailment

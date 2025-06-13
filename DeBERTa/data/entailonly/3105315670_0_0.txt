@@ -1,0 +1,2 @@
+There are trees. ||entailment
+The trees are ready. ||entailment

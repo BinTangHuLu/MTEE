@@ -1,0 +1,4 @@
+There is a group. ||entailment
+There are workers. ||entailment
+There is construction. ||entailment
+The workers are taking the group. ||neutral

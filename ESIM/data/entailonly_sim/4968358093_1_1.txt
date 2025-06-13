@@ -1,0 +1,4 @@
+There is an advertisement. ||entailment
+There is a coast. ||entailment
+The advertisement is a warning. ||entailment
+The advertisement is for the beach. ||entailment

@@ -1,0 +1,4 @@
+there is a female ||entailment
+there are stuff ||entailment
+there are many stuff ||entailment
+the female has many things ||entailment

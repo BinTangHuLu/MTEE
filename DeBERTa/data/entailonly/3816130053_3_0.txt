@@ -1,0 +1,4 @@
+There are People. ||entailment
+There is produce. ||entailment
+There is a market. ||entailment
+People buy at market. ||entailment

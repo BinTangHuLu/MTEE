@@ -1,0 +1,5 @@
+there is not she ||contradiction
+there is not a door ||contradiction
+there is not he ||entailment
+she does not stand by door ||contradiction
+he does not sit down ||entailment

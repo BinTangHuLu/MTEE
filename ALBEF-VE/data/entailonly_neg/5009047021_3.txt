@@ -1,0 +1,5 @@
+there is not a player ||contradiction
+there is not a football ||contradiction
+there are not opponents ||contradiction
+the player is not running with the football ||entailment
+the opponents do not chase after the player ||contradiction

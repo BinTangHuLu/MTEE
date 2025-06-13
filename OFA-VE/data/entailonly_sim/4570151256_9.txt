@@ -1,0 +1,3 @@
+There is a childbearing. ||Contradiction
+There is a t-blouse. ||Entailment
+The childbearing is wearing t-shirt. ||Entailment

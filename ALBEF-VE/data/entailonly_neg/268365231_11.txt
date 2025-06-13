@@ -1,0 +1,4 @@
+there is not a man ||contradiction
+there is not a woman ||contradiction
+the man does not walk together ||neutral
+the woman does not walk together ||contradiction

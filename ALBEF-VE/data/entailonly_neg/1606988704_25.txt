@@ -1,0 +1,4 @@
+there are not children ||contradiction
+there is not some hay ||contradiction
+the children are not young ||contradiction
+the children do not play in hay ||contradiction

@@ -1,0 +1,4 @@
+There is not snow. ||contradiction
+There is not ground. ||contradiction
+The snow is not on the ground. ||entailment
+There is not a picture. ||contradiction

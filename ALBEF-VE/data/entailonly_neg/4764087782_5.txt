@@ -1,0 +1,7 @@
+there is not a female ||contradiction
+there is not a top ||contradiction
+there is not a sidewalk ||contradiction
+the top is not yellow ||contradiction
+the female is not wearing ||contradiction
+the female is not wearing the top ||entailment
+the female is not walking on the sidewalk ||entailment

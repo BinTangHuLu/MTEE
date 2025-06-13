@@ -1,0 +1,3 @@
+there are men ||entailment
+there is water ||entailment
+the men are by water ||entailment

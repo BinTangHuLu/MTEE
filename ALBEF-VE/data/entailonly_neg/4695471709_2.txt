@@ -1,0 +1,5 @@
+there is not a statue ||contradiction
+there is not a man ||contradiction
+there is not a staircase ||contradiction
+the statue is not of a man ||entailment
+the statue is not on the staircase ||entailment

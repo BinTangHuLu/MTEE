@@ -1,0 +1,4 @@
+There is not a man. ||Contradiction
+There is not a hat. ||Contradiction
+The hat is not red. ||Entailment
+The man is not in the hat. ||Entailment

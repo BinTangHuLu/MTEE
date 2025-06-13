@@ -1,0 +1,9 @@
+there is a child ||entailment
+there is some eyebrow ||entailment
+there is a female ||entailment
+there is a blouse ||entailment
+the eyebrow is blond ||neutral
+the child is dressed in yellow ||entailment
+the female is in yellow ||entailment
+the child is with hair ||entailment
+the female is behind the girl ||entailment

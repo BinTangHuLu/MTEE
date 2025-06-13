@@ -1,0 +1,10 @@
+There are not people. ||contradiction
+There is not a man. ||contradiction
+There is not a transport. ||contradiction
+There is not a terrain. ||contradiction
+There are not six people. ||contradiction
+The man is not injured. ||contradiction
+The terrain is not snowy. ||contradiction
+The people do not act together to get the man. ||contradiction
+The man is not on the transport. ||entailment
+The transport is not in the terrain. ||contradiction

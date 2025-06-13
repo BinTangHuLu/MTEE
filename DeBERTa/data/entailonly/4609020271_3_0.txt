@@ -1,0 +1,3 @@
+There is a kid. ||entailment
+There is a train. ||entailment
+The kid is lying down on the train. ||entailment

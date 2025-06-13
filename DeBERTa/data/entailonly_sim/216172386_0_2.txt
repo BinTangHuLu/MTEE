@@ -1,0 +1,4 @@
+There is a dude. ||entailment
+There is a scooter. ||contradiction
+The dude is standing. ||entailment
+The dude is on motorbike. ||entailment

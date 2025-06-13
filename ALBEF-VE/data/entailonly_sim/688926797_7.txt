@@ -1,0 +1,8 @@
+there is a child ||entailment
+there is a apparel ||entailment
+the apparel is blue ||entailment
+the child is standing with girls right hand ||contradiction
+there is a appendage ||entailment
+the appendage is right ||neutral
+there is a chic ||entailment
+the adolescent right hand is on the hip ||entailment

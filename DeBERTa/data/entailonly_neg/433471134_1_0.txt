@@ -1,0 +1,6 @@
+There is not a man. ||contradiction
+There are not some boys. ||contradiction
+There is not a woman. ||contradiction
+The boys are not little. ||contradiction
+The man does not bring boys. ||contradiction
+The man does not bring boys to buy the woman. ||contradiction

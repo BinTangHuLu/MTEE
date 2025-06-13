@@ -1,0 +1,5 @@
+there are not people ||contradiction
+there is not a boy ||contradiction
+there is not an airplane ||contradiction
+the people do not watch the boy ||contradiction
+the boy does not touch the airplane ||contradiction

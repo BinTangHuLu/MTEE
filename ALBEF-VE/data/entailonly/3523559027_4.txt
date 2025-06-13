@@ -1,0 +1,5 @@
+there is a they ||entailment
+there is a formation ||entailment
+there is a field ||entailment
+they are in formation ||entailment
+they are in field ||neutral

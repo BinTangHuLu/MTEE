@@ -1,0 +1,5 @@
+there is not a boy ||contradiction
+there is not a swimsuit ||contradiction
+the boy is not barefoot ||entailment
+the swimsuit is not blue ||entailment
+the boy is not running in swimsuit ||entailment

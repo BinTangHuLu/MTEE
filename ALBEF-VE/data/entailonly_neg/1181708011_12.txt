@@ -1,0 +1,5 @@
+there is not a person ||contradiction
+there is not a tool ||contradiction
+the person is not using the tool ||entailment
+there are not people ||contradiction
+the person is not teaching people ||contradiction

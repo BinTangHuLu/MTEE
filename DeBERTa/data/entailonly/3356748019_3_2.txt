@@ -1,0 +1,4 @@
+There are Men. ||entailment
+There are bikes. ||entailment
+There is a sand hill. ||entailment
+Men go over the sand hill. ||entailment

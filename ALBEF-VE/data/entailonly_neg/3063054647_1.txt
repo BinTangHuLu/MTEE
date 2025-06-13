@@ -1,0 +1,7 @@
+there are not girls ||contradiction
+there is not a path ||contradiction
+there is not an area ||contradiction
+the path is not wood ||contradiction
+the area is not heavily wooded ||contradiction
+the girls do not walk down the path ||contradiction
+the path is not in the area ||contradiction

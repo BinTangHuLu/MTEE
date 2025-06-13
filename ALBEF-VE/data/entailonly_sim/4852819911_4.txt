@@ -1,0 +1,3 @@
+there is a scene ||entailment
+there is a architecture ||entailment
+the pallets are stacked against the architecture ||entailment

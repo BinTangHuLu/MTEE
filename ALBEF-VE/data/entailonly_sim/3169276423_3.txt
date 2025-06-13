@@ -1,0 +1,4 @@
+there are community ||entailment
+there is a camouflage ||entailment
+the community are older ||entailment
+the community are dressing up with mask ||contradiction

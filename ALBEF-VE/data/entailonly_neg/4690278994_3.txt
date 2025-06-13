@@ -1,0 +1,6 @@
+there is not a man ||contradiction
+there is not some clothing ||contradiction
+there is not a bottle ||contradiction
+the clothing is not athletic ||contradiction
+the man is not holding a bottle ||contradiction
+the man is not running ||contradiction

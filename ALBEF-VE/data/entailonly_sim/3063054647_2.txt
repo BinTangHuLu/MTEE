@@ -1,0 +1,5 @@
+there is a aisle ||entailment
+there is an field ||entailment
+the field is wooded ||entailment
+kids walk down the aisle ||contradiction
+the aisle is in the area ||entailment

@@ -1,0 +1,4 @@
+there is a woman ||entailment
+there is a crowd ||entailment
+the crowd is large ||neutral
+the woman is facing the crowd ||entailment

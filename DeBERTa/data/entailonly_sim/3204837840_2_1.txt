@@ -1,0 +1,3 @@
+There are band. ||entailment
+There are two band. ||entailment
+The band are performing jobs. ||contradiction

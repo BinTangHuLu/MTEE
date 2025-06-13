@@ -1,0 +1,3 @@
+there is a director ||entailment
+there are artist ||entailment
+the director leads musicians ||entailment

@@ -1,0 +1,4 @@
+there is a gentlewoman ||entailment
+there is a blouse ||entailment
+the blouse is blue ||entailment
+the gentlewoman is wearing a shirt ||entailment

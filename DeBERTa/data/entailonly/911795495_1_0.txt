@@ -1,0 +1,4 @@
+There is a girl. ||entailment
+There is an orange. ||entailment
+The girl is wearing. ||entailment
+The girl is orange. ||entailment

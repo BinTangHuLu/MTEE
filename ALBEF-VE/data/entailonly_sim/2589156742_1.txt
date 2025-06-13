@@ -1,0 +1,4 @@
+there is an man ||entailment
+there is a bowl ||entailment
+the bowl is paper ||entailment
+the man has a cup ||entailment

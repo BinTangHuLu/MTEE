@@ -1,0 +1,4 @@
+There is someone. ||entailment
+There is a view. ||entailment
+The view is space needle. ||entailment
+Someone is taking in the view. ||entailment

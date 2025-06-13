@@ -1,0 +1,4 @@
+There are not People. ||contradiction
+The People are not dressed in Japanese clothing. ||contradiction
+There is not a courtyard. ||contradiction
+The People do not walk through the courtyard. ||contradiction

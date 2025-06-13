@@ -1,0 +1,3 @@
+There is a body. ||Entailment
+There is description. ||Entailment
+The body is enjoying. ||Neutral

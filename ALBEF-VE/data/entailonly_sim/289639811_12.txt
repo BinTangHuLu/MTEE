@@ -1,0 +1,4 @@
+there are community ||entailment
+there is a agreeable ||entailment
+the agreeable is soccer ||entailment
+community are playing a game ||entailment

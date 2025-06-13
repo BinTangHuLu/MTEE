@@ -1,0 +1,3 @@
+there is a boy ||entailment
+there is a floor ||entailment
+the boy is sleeping on the floor ||neutral

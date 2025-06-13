@@ -1,0 +1,4 @@
+there is a man ||entailment
+there is a cap ||entailment
+the man is smiling ||entailment
+the man is wearing a cap ||entailment

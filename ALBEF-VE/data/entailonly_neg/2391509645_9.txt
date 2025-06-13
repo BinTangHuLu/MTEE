@@ -1,0 +1,5 @@
+there is not a man ||contradiction
+there is not a cow ||contradiction
+there is not a beach ||contradiction
+the man and cow are not together ||contradiction
+the cow is not on the beach ||contradiction

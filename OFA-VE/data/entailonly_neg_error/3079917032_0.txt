@@ -1,0 +1,2 @@
+EA,woman,red
+E1RE2,woman,is wearing,red

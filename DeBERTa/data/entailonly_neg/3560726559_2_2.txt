@@ -1,0 +1,4 @@
+There is not a boy. ||contradiction
+There are not some clothes. ||contradiction
+The clothes are not formal. ||contradiction
+The boy is not wearing clothes. ||contradiction

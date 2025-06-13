@@ -1,0 +1,5 @@
+There is a Bird. ||entailment
+The Bird is flying. ||entailment
+The Bird is outside. ||entailment
+The Bird is against the sky. ||entailment
+The Bird is flying in the sky. ||entailment

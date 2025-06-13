@@ -1,0 +1,6 @@
+There are not Workers. ||Contradiction
+There is not a road. ||Contradiction
+There are not signs. ||Contradiction
+The signs are not stop. ||Contradiction
+The Workers are not in road. ||Contradiction
+The Workers are not holding signs. ||Contradiction

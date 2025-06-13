@@ -1,0 +1,5 @@
+There is a dude. ||entailment
+There is a blouse. ||entailment
+There is a barbecue. ||neutral
+The blouse is blue. ||entailment
+The dude stands by grill. ||entailment

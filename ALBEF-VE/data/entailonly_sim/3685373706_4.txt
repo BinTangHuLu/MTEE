@@ -1,0 +1,2 @@
+there is a banner ||entailment
+someone is holding the banner ||entailment

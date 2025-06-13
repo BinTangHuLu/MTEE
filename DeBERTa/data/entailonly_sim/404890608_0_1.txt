@@ -1,0 +1,6 @@
+There are child. ||entailment
+There is daily. ||entailment
+There is a child. ||entailment
+There is a backpack. ||neutral
+The child have paper. ||entailment
+The child is grabbing the bag. ||entailment

@@ -1,0 +1,4 @@
+There is not a child. ||Contradiction
+There is not a slide. ||Entailment
+The child is not small. ||Entailment
+The child is not at the slide. ||Entailment

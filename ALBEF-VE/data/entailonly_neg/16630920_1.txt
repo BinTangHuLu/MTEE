@@ -1,0 +1,4 @@
+there is not a man ||contradiction
+the man is not sitting ||contradiction
+there is not outdoors ||contradiction
+the man is not sitting outdoors ||entailment

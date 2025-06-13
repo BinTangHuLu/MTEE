@@ -1,0 +1,4 @@
+there is some bread ||entailment
+there is a bag ||entailment
+the chef is putting bread ||contradiction
+the bread is being put into the container ||entailment

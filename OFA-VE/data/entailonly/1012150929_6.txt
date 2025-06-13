@@ -1,0 +1,3 @@
+There is a boy. ||Entailment
+There are video games. ||Entailment
+The boy enjoys video games. ||Entailment

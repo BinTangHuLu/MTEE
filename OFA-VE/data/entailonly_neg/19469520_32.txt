@@ -1,0 +1,4 @@
+There are not bicyclists. ||Entailment
+There are not arms. ||Contradiction
+The bicyclists are not with arms. ||Contradiction
+The arms are not around each other. ||Contradiction

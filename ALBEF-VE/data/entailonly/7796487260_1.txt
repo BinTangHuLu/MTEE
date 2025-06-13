@@ -1,0 +1,5 @@
+there is she ||contradiction
+there are shoes ||entailment
+there is a pool ||entailment
+she is wearing shoes ||neutral
+she is dancing in the pool ||neutral

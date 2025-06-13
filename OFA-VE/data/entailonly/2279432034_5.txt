@@ -1,0 +1,5 @@
+There is a group. ||Entailment
+There are musicians. ||Entailment
+There are singers. ||Entailment
+The musicians practice. ||Entailment
+The singers practice. ||Entailment

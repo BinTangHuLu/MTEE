@@ -1,0 +1,3 @@
+there are people ||entailment
+there are costumes ||entailment
+people are wearing costumes ||entailment

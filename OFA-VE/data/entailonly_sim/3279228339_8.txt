@@ -1,0 +1,3 @@
+There are dude. ||Entailment
+There is a bistro. ||Entailment
+The dude are in the cafe. ||Entailment

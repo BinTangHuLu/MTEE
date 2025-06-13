@@ -1,0 +1,3 @@
+There is a person. ||Entailment
+There is a horse. ||Entailment
+The person tries to climb onto the horse. ||Entailment

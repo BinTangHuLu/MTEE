@@ -1,0 +1,3 @@
+there are women ||entailment
+there is equipment ||entailment
+the women are operating equipment ||entailment

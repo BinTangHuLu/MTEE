@@ -1,0 +1,4 @@
+There is not a girl. ||Entailment
+There is not a door. ||Contradiction
+The girl is not waiting. ||Entailment
+The girl is not waiting by door. ||Entailment

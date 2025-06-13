@@ -1,0 +1,4 @@
+There are martial artists. ||entailment
+There are moves. ||entailment
+There is an audience. ||entailment
+The martial artists demonstrate moves to the audience. ||entailment

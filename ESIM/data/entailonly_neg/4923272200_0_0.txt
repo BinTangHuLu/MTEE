@@ -1,0 +1,7 @@
+There is not a man. ||contradiction
+There is not an instrument. ||contradiction
+There is not a street. ||contradiction
+There are not some people. ||contradiction
+The man is not playing the instrument. ||contradiction
+The man is not on the street. ||contradiction
+The street is not near the people. ||contradiction

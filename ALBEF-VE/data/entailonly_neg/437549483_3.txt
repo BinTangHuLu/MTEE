@@ -1,0 +1,4 @@
+there is not a female ||contradiction
+there is not a pose ||contradiction
+the female is not dark skinned ||entailment
+the female is not in pose ||contradiction

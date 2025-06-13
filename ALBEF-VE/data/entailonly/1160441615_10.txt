@@ -1,0 +1,6 @@
+there are girls ||entailment
+there is a pathway ||entailment
+there are three girls ||entailment
+the girls are merrily ||neutral
+the pathway is arched ||entailment
+the girls are walking along the pathway ||entailment

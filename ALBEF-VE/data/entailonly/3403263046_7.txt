@@ -1,0 +1,3 @@
+there is a basketball player ||entailment
+there is another ||neutral
+the basketball player is trying to block another ||entailment

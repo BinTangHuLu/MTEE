@@ -1,0 +1,5 @@
+there is a girl ||entailment
+there is a horse ||entailment
+there are some horses ||entailment
+the girl is watching the horse ||neutral
+the horse is nearby horses ||neutral

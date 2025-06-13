@@ -1,0 +1,6 @@
+there is a dude ||entailment
+there is a female ||entailment
+there is a shipment ||entailment
+the dude and woman are using transportation ||entailment
+the dude is using transportation ||entailment
+the female is using transportation ||entailment

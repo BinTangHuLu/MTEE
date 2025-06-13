@@ -1,0 +1,4 @@
+there are people ||entailment
+there is a building ||entailment
+the building is old ||entailment
+people are at the old building ||entailment

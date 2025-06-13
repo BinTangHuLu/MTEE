@@ -1,0 +1,7 @@
+there is a baby ||entailment
+there is a avenue ||entailment
+there are female ||entailment
+there are accommodation ||neutral
+the baby is in the street ||entailment
+the female are in chairs ||entailment
+the female sit and watch the street ||entailment

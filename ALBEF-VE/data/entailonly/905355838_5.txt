@@ -1,0 +1,4 @@
+there is a player ||entailment
+there is an outfield ||neutral
+the player is number 21 ||contradiction
+the player is staring at outfield ||neutral

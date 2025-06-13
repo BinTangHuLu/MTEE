@@ -1,0 +1,3 @@
+there are not people ||contradiction
+there is not a concert ||contradiction
+the people do not talk together at the concert ||contradiction

@@ -1,0 +1,5 @@
+there is an animal ||entailment
+there is a homogeneous ||entailment
+the homogeneous is red ||neutral
+the animal is in uniform ||contradiction
+the animal handles the ball ||contradiction

@@ -1,0 +1,4 @@
+E1R,people,put something in
+RE2,in,place
+E,place
+E1RE2,people,put something in,place

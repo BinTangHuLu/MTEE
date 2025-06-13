@@ -1,0 +1,2 @@
+There is some bread. ||Entailment
+The chef is preparing bread. ||Neutral

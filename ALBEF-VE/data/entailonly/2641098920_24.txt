@@ -1,0 +1,8 @@
+there are women ||entailment
+there is a sofa ||entailment
+there is a snack ||entailment
+there is a house ||neutral
+the women sit on the sofa ||entailment
+the women sit together ||entailment
+one eats the snack ||contradiction
+the snack is in the house ||entailment

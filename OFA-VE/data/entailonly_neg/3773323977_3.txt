@@ -1,0 +1,3 @@
+There are not boys. ||Entailment
+There is not water. ||Contradiction
+The boys are not congregating together by water. ||Entailment

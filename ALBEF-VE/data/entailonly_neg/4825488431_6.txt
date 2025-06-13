@@ -1,0 +1,3 @@
+there are not people ||contradiction
+there is not an aircraft ||contradiction
+people are not looking at aircraft ||contradiction

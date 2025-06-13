@@ -1,0 +1,5 @@
+there is not a boy ||contradiction
+there is not something ||entailment
+there is not a board ||contradiction
+the boy is trying to grab somethingnot ||neutral
+something is not near the board ||contradiction

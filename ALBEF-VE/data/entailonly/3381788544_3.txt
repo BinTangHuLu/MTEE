@@ -1,0 +1,4 @@
+there are teens ||entailment
+there are uniforms ||entailment
+the uniforms are dark ||entailment
+the teens are with uniforms ||entailment

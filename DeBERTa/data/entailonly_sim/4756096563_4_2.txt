@@ -1,0 +1,3 @@
+There is a association. ||entailment
+The association is multiple. ||entailment
+The association has recorded videos. ||entailment

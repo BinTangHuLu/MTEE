@@ -1,0 +1,5 @@
+there is a girl ||entailment
+there is a t shirt ||entailment
+there is an excavator ||entailment
+the t shirt is white ||entailment
+the girl plays on the excavator ||contradiction

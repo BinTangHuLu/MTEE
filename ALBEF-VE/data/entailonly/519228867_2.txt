@@ -1,0 +1,6 @@
+there is a boy ||entailment
+there is a tub ||entailment
+there is water ||entailment
+the boy is little ||entailment
+the boy is sitting in tub ||entailment
+the tub is of water ||entailment

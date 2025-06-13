@@ -1,0 +1,5 @@
+There are people. ||entailment
+There is a boat. ||entailment
+There is an ocean. ||entailment
+The people paddle the boat. ||entailment
+The boat is on the ocean. ||entailment

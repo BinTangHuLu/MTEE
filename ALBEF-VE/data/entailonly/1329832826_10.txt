@@ -1,0 +1,5 @@
+there are people ||entailment
+there is a side ||entailment
+there is a street ||entailment
+the people wait on side ||entailment
+the side is of street ||entailment

@@ -1,0 +1,5 @@
+there are hiker ||entailment
+there is a artery ||entailment
+there is a bistro ||entailment
+the hiker walk on the road ||contradiction
+the artery is past the cafe ||entailment

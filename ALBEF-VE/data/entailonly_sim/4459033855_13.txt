@@ -1,0 +1,4 @@
+there is a aristocrat ||entailment
+there are dude ||entailment
+the aristocrat is old ||neutral
+the aristocrat is communicating with men ||entailment

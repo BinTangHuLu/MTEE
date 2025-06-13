@@ -1,0 +1,7 @@
+there is a child ||entailment
+there is a bikini ||entailment
+there is a coast ||entailment
+the child is little ||entailment
+the bikini is flower ||contradiction
+the child is wearing swimsuit ||entailment
+the child is running across beach ||entailment

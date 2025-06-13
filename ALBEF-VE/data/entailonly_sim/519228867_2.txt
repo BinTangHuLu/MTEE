@@ -1,0 +1,5 @@
+there is a child ||entailment
+there is drink ||entailment
+the child is little ||entailment
+the child is sitting in tub ||entailment
+the tub is of drink ||neutral

@@ -1,0 +1,4 @@
+There is not a man. ||Contradiction
+There is not a sports. ||Contradiction
+The sports is not adventure. ||Entailment
+The man is not into sports. ||Contradiction

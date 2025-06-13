@@ -1,0 +1,4 @@
+there is a childbearing ||entailment
+there are some attire ||entailment
+the attire are dark ||entailment
+the childbearing is wearing clothes ||entailment

@@ -1,0 +1,3 @@
+there is a buffoon ||entailment
+the buffoon is performing physical activity ||entailment
+the buffoon is performing physical activity ||entailment

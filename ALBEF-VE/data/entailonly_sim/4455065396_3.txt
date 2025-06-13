@@ -1,0 +1,4 @@
+there is a baby ||entailment
+there is an private ||entailment
+the baby is laying ||entailment
+the baby is laying indoor ||entailment

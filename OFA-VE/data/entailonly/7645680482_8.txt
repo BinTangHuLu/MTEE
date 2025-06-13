@@ -1,0 +1,4 @@
+There are cyclists. ||Entailment
+There are bikes. ||Entailment
+The bikes are road. ||Entailment
+The cyclists are riding bikes. ||Entailment

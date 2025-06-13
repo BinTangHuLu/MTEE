@@ -1,0 +1,7 @@
+There are not men. ||contradiction
+There is not a soccer. ||contradiction
+There is not a beach. ||contradiction
+The men are not young. ||contradiction
+The men are not wearing shorts. ||contradiction
+The men are not playing soccer. ||contradiction
+The men are not in the beach. ||contradiction

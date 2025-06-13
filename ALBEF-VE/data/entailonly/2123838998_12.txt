@@ -1,0 +1,4 @@
+there is an ensemble ||entailment
+there are musicians ||entailment
+the musicians are dressed as santa ||entailment
+the ensemble is of musicians ||neutral

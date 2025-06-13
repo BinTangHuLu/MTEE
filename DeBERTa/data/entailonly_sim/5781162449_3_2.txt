@@ -1,0 +1,4 @@
+There are adolescent. ||entailment
+The adolescent are young. ||entailment
+The adolescent are showing drawing. ||entailment
+The cartoon is animal. ||entailment

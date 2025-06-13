@@ -1,0 +1,4 @@
+There is a gentlewoman. ||neutral
+There is a depot. ||entailment
+The gentlewoman is young. ||neutral
+The gentlewoman is outside the station. ||neutral

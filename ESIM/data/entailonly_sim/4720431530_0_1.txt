@@ -1,0 +1,6 @@
+There is a association. ||neutral
+There are community. ||neutral
+There is a bus bar. ||neutral
+The association is of. ||entailment
+community wait at the bus stop. ||neutral
+The bus bars at the bus stop. ||neutral

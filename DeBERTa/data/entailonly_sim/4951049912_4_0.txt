@@ -1,0 +1,3 @@
+There is a apartment. ||neutral
+There is a bar. ||contradiction
+The apartment is near the wall. ||neutral

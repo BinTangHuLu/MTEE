@@ -1,0 +1,4 @@
+there is a guy ||entailment
+there is a bike race ||entailment
+there is a bike ||entailment
+the guy jumps bike ||entailment

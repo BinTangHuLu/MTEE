@@ -1,0 +1,3 @@
+there are boys ||entailment
+the boys are running ||entailment
+the boys are running outdoors ||entailment

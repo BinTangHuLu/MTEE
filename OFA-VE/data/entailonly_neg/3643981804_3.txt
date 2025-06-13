@@ -1,0 +1,4 @@
+There is not a human. ||Entailment
+There is not some clothing. ||Contradiction
+The clothing is not head. ||Contradiction
+The human is not wearing clothing. ||Entailment

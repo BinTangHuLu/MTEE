@@ -1,0 +1,4 @@
+there is not a show ||contradiction
+there is not a band ||contradiction
+the show is not light ||contradiction
+the band did not play the show ||contradiction

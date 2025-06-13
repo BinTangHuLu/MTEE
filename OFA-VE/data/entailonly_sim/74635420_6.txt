@@ -1,0 +1,4 @@
+There are clan. ||Entailment
+There are man. ||Entailment
+The clan are shorter. ||Neutral
+The clan are shorter than adults. ||Entailment

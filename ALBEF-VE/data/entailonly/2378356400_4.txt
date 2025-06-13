@@ -1,0 +1,5 @@
+there is a mother ||entailment
+there is a child ||entailment
+there is a toy ||entailment
+the mother was watching the child ||entailment
+the child rides the toy ||entailment

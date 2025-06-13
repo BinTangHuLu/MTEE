@@ -1,0 +1,4 @@
+there is not a child ||contradiction
+there are not colors ||contradiction
+the colors are not many ||entailment
+the child is not using colors ||contradiction

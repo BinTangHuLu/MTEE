@@ -1,0 +1,5 @@
+There are not vehicles. ||contradiction
+There is not a street. ||contradiction
+There is not Thailand. ||contradiction
+The vehicles are not going down the street. ||contradiction
+The vehicles are not going down Thailand. ||contradiction

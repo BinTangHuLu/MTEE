@@ -1,0 +1,5 @@
+There is someone. ||entailment
+There is a swing. ||entailment
+There is a ball. ||entailment
+Someone takes the swing. ||entailment
+The swing is at the ball. ||entailment

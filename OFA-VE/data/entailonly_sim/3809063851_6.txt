@@ -1,0 +1,5 @@
+There are artist. ||Entailment
+There is melody. ||Entailment
+There is a estate. ||Contradiction
+The artist play music. ||Entailment
+The artist are at the park. ||Entailment

@@ -1,0 +1,4 @@
+There are not people. ||Contradiction
+There is not a picture. ||Contradiction
+There are not two people. ||Contradiction
+The people are not in the picture. ||Entailment

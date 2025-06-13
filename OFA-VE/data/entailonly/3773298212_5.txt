@@ -1,0 +1,4 @@
+There is a man. ||Entailment
+There is a machine. ||Entailment
+The man is standing up. ||Contradiction
+The man is next to the machine. ||Entailment

@@ -1,0 +1,5 @@
+there are not females ||contradiction
+there is not a table ||contradiction
+there are not materials ||contradiction
+the females are not gathering materials ||contradiction
+the materials are not on the table ||contradiction

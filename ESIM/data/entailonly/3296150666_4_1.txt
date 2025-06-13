@@ -1,0 +1,4 @@
+There is an Suv. ||entailment
+The Suv is travelling. ||entailment
+The Suv is mud. ||entailment
+The Suv is travelling through mud. ||entailment

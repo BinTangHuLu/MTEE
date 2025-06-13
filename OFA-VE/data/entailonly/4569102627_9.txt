@@ -1,0 +1,2 @@
+There are cups. ||Entailment
+The cups are good. ||Neutral

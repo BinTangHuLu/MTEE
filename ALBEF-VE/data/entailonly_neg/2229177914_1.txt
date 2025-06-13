@@ -1,0 +1,3 @@
+there is not a dog ||contradiction
+there is not some air ||entailment
+the dog is not in air ||contradiction

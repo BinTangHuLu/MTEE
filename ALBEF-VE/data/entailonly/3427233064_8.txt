@@ -1,0 +1,2 @@
+there is a horse ||entailment
+there is a girl ||entailment

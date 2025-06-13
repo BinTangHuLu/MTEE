@@ -1,0 +1,5 @@
+There are not girls. ||contradiction
+There is not a presentation. ||contradiction
+There is not a classroom. ||contradiction
+The girls are not watching the presentation. ||neutral
+The girls are not watching the classroom. ||neutral

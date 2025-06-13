@@ -1,0 +1,6 @@
+there is not a man ||contradiction
+there is not a rock wall ||contradiction
+there is not an event ||contradiction
+the event is not timed ||entailment
+the man does not climb the rock wall ||contradiction
+the man does not climb the rock wall during the event ||contradiction

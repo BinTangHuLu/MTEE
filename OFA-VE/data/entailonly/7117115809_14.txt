@@ -1,0 +1,3 @@
+There is a woman. ||Entailment
+There is a skill. ||Entailment
+The woman is practicing skill. ||Entailment

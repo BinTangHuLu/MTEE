@@ -1,0 +1,5 @@
+there is a dog ||entailment
+there is an eye ||entailment
+the dog is brown ||entailment
+the eye is missing ||neutral
+the dog is missing eye ||entailment

@@ -1,0 +1,8 @@
+There is not someone. ||contradiction
+There is not a man. ||contradiction
+There is not a helmet. ||contradiction
+There is not clown makeup. ||contradiction
+There is not a shirt. ||contradiction
+Someone is not in a helmet. ||contradiction
+Someone is not in clown makeup. ||contradiction
+Someone is not talking to a man. ||contradiction

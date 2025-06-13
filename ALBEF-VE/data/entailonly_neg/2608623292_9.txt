@@ -1,0 +1,5 @@
+there is not a man ||contradiction
+there is not some scenery ||contradiction
+the man is not elderly ||entailment
+the scenery is not beautiful ||contradiction
+the man is not enjoying scenery ||contradiction

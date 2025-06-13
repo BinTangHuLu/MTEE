@@ -1,0 +1,5 @@
+there is a dude ||entailment
+there is some bread ||neutral
+there are hiker ||entailment
+the dude is selling food ||entailment
+the bread is being sold to pedestrians ||neutral

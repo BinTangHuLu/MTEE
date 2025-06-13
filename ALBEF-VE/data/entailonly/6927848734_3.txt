@@ -1,0 +1,3 @@
+there is a man ||entailment
+there is a car ||entailment
+the man is wearing car ||entailment

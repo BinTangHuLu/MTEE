@@ -1,0 +1,4 @@
+there is a baby ||entailment
+there are some community ||entailment
+the community are seated ||contradiction
+the baby is playing near people ||entailment

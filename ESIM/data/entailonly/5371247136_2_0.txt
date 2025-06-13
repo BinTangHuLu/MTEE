@@ -1,0 +1,8 @@
+There is a lady. ||entailment
+There is a child. ||entailment
+There is a boat. ||entailment
+There is an ocean. ||entailment
+There is a scope. ||entailment
+The lady is on the boat. ||entailment
+The lady is looking out into the ocean. ||entailment
+The lady is looking out into the scope. ||entailment

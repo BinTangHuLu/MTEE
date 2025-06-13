@@ -1,0 +1,4 @@
+There are not children. ||contradiction
+The children are not enjoying. ||contradiction
+The children are not enjoying party. ||contradiction
+The party is not birthday. ||contradiction

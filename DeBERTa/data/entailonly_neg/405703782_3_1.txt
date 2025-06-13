@@ -1,0 +1,4 @@
+There is not a gymnast. ||contradiction
+The gymnast is hernot . ||contradiction
+The exercise is not complete. ||contradiction
+The gymnast does not complete exercise. ||contradiction

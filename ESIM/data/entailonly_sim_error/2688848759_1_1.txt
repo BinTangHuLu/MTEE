@@ -1,0 +1,3 @@
+EA,People,talking
+E1RE2,People,sitting at,table
+E,table

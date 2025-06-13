@@ -1,0 +1,4 @@
+there is a man ||entailment
+there is a hat ||entailment
+the hat is white ||entailment
+the man is wearing the hat ||entailment

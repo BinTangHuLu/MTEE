@@ -1,0 +1,3 @@
+there is a man ||entailment
+there is himself ||entailment
+the man is cleaning himself ||entailment

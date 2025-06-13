@@ -1,0 +1,5 @@
+there is a association ||entailment
+there is a dude ||entailment
+there is a auto ||entailment
+the dude is not used ||neutral
+the dude is not used by the car ||neutral

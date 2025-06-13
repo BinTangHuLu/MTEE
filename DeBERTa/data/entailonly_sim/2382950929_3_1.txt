@@ -1,0 +1,4 @@
+There is a star. ||contradiction
+The star is at its highest point. ||contradiction
+The mark is day. ||entailment
+The star is at point. ||neutral

@@ -1,0 +1,5 @@
+There is a bronco. ||Entailment
+There is a colt. ||Entailment
+There are stuff. ||Entailment
+The bronco is wearing things. ||Entailment
+The colt is wearing things. ||Entailment

@@ -1,0 +1,5 @@
+There is not a man. ||contradiction
+There is not a horse. ||contradiction
+There is not a helmet. ||contradiction
+The man is not riding the horse. ||contradiction
+The man is not protecting head with the helmet. ||contradiction

@@ -1,0 +1,6 @@
+there are adults ||contradiction
+there are children ||entailment
+there is a castle ||entailment
+the castle has a balloon ||entailment
+adults are watching children ||entailment
+children are playing in the castle ||entailment

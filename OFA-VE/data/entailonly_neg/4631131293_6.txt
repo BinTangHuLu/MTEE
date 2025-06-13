@@ -1,0 +1,4 @@
+There are not girls. ||Contradiction
+There is not a skirt. ||Entailment
+The skirt is not same. ||Entailment
+The girls are not wearing skirt. ||Neutral

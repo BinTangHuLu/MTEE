@@ -1,0 +1,6 @@
+there is a lady ||entailment
+there are some pants ||entailment
+there is a sphear ||entailment
+the pants are black ||entailment
+the lady is in pants ||entailment
+the lady does stretches on sphear ||neutral

@@ -1,0 +1,5 @@
+there is a woman ||entailment
+there is a street ||entailment
+there is a purse ||entailment
+the woman is walking in the street ||entailment
+the street is with a purse ||neutral

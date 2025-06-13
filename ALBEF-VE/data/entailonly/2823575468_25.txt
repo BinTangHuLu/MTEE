@@ -1,0 +1,4 @@
+there is a boy ||entailment
+there are some goggles ||entailment
+the boy is running ||entailment
+the boy is holding goggles ||entailment

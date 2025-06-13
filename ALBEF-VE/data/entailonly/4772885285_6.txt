@@ -1,0 +1,5 @@
+there is a lady ||entailment
+there is a bag ||entailment
+the bag is large black ||neutral
+the lady is with the bag ||entailment
+the lady is walking in the rain ||entailment

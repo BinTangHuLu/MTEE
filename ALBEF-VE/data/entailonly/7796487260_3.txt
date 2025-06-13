@@ -1,0 +1,4 @@
+there is a girl ||entailment
+there is a moves ||entailment
+the moves is gymnastic ||entailment
+the girl is doing moves ||entailment

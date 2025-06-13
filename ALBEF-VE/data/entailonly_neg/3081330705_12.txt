@@ -1,0 +1,6 @@
+there is not a man ||contradiction
+there are not mountains ||contradiction
+the shirt is not blue ||contradiction
+the man is not standing ||entailment
+the man is not standing in front of mountains ||contradiction
+the man is not wearing a shirt ||neutral

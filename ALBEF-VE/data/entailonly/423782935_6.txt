@@ -1,0 +1,4 @@
+there are guys ||entailment
+there is a dog ||entailment
+the dog is tiny ||contradiction
+the guys are standing near the dog ||contradiction

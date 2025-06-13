@@ -1,0 +1,3 @@
+There is not a duo. ||Contradiction
+The duo is not happy. ||Entailment
+The duo does not get intimate. ||Contradiction

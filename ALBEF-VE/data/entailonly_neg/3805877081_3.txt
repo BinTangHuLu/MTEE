@@ -1,0 +1,10 @@
+there is not an object ||contradiction
+there is not a structure ||contradiction
+there is not a drawing ||contradiction
+there are not mountains ||contradiction
+there are not clouds ||entailment
+there is not a wall ||contradiction
+the object does not stand in front of the structure ||contradiction
+the drawing is not of mountains ||entailment
+the drawing is not of clouds ||entailment
+the drawing is not against the wall ||contradiction

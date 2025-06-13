@@ -1,0 +1,2 @@
+there is an animal ||entailment
+there is some water ||entailment

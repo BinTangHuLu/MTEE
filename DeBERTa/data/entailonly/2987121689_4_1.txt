@@ -1,0 +1,3 @@
+There are players. ||entailment
+There is soccer. ||entailment
+There are two players. ||entailment

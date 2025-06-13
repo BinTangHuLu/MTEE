@@ -1,0 +1,4 @@
+There are not people. ||contradiction
+There is not a boat. ||contradiction
+The people are not smiling. ||contradiction
+The people are not on the boat. ||contradiction

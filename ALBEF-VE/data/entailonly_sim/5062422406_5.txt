@@ -1,0 +1,7 @@
+there is a coat ||entailment
+there are knickers ||entailment
+there is a business ||entailment
+the coat wears ||entailment
+the golfer wears the coat ||entailment
+the golfer wears the knickers ||contradiction
+the golfer is swinging the business ||neutral

@@ -1,0 +1,4 @@
+There is a man. ||entailment
+The man is old. ||entailment
+The man is Indian. ||entailment
+The man is sleep. ||entailment

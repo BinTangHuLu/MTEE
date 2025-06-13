@@ -1,0 +1,5 @@
+There is a goods. ||entailment
+There is a female. ||entailment
+The female is blue. ||entailment
+The female is standing next to the truck. ||entailment
+The goods is surrounded in mud. ||neutral

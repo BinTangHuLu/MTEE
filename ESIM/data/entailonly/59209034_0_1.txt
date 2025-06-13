@@ -1,0 +1,4 @@
+There is a man. ||neutral
+There is a chair. ||entailment
+The chair is purple. ||entailment
+The man sits in the chair. ||entailment

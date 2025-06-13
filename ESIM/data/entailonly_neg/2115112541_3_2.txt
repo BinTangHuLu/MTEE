@@ -1,0 +1,5 @@
+There are not People. ||contradiction
+There is not a table. ||contradiction
+There is not food. ||contradiction
+People are not at the table. ||contradiction
+People are not eating food. ||contradiction

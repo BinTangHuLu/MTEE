@@ -1,0 +1,3 @@
+there are ballet dancer ||neutral
+there is a appearance ||entailment
+the ballet dancer performed in the show ||contradiction

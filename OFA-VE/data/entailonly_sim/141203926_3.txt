@@ -1,0 +1,3 @@
+There is a female. ||Entailment
+There is an smock. ||Entailment
+The female is wearing an apron. ||Entailment

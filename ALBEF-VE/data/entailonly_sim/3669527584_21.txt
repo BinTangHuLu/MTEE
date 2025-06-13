@@ -1,0 +1,5 @@
+there is a female ||entailment
+there are some attire ||entailment
+the female is indian ||entailment
+the attire are fancy ||neutral
+the female is dressed in fancy clothes ||entailment

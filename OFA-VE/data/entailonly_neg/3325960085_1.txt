@@ -1,0 +1,3 @@
+There are not People. ||Contradiction
+There is not a school. ||Contradiction
+People do not gather at school. ||Contradiction

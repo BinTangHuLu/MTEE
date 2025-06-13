@@ -1,0 +1,5 @@
+there is not a boy ||contradiction
+there are not some bubbles ||contradiction
+the boy is not blowing ||contradiction
+the bubbles are not outdoor ||contradiction
+the boy is not blowing bubbles ||contradiction

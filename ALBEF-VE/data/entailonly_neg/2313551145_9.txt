@@ -1,0 +1,8 @@
+there is not a man ||contradiction
+there are not some boxes ||contradiction
+there are not some shoulders ||contradiction
+there is not a coca cola building ||contradiction
+the man does not deliver boxes ||contradiction
+the man does not carry boxes ||contradiction
+the boxes are not on shoulders ||contradiction
+the man does not go to coca cola building ||contradiction

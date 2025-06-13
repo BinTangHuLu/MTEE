@@ -1,0 +1,4 @@
+there are not girls ||contradiction
+there are not bikes ||contradiction
+the bikes are not outside ||entailment
+the girls are not riding bikes ||contradiction

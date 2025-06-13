@@ -1,0 +1,2 @@
+there are not adults ||entailment
+there is not sledding ||contradiction

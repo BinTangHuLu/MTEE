@@ -1,0 +1,2 @@
+there is a athlete ||entailment
+the athlete is preparing to kick ||entailment

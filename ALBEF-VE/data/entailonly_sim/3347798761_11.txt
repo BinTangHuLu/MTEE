@@ -1,0 +1,5 @@
+there is a body ||entailment
+there is a bike ||entailment
+there is atmosphere ||entailment
+the body is on the bicycle ||entailment
+the body soars through the air ||entailment

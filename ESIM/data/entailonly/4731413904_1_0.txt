@@ -1,0 +1,5 @@
+There are men. ||entailment
+There is a TV. ||entailment
+There is a bar. ||entailment
+The men are watching TV. ||entailment
+The men are at the bar. ||entailment

@@ -1,0 +1,3 @@
+there is not a skier ||contradiction
+the skier is not performing a midair trick ||contradiction
+the skier is not performing a trick ||contradiction

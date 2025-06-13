@@ -1,0 +1,3 @@
+there is music ||entailment
+the music is live ||neutral
+the music is being played ||entailment

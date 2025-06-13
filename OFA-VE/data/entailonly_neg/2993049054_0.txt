@@ -1,0 +1,4 @@
+There is not a man. ||Contradiction
+There is not a mask. ||Contradiction
+The mask is not black. ||Entailment
+The man is not in mask. ||Entailment

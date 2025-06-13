@@ -1,0 +1,5 @@
+There are not men. ||contradiction
+There are not jeans. ||contradiction
+The men are not Two. ||entailment
+The jeans are not wearing. ||contradiction
+The men are not wearing jeans. ||contradiction

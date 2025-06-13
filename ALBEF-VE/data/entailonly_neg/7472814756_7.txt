@@ -1,0 +1,3 @@
+there are not boats ||contradiction
+there is not water ||contradiction
+the boats are not in water ||contradiction

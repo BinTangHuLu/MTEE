@@ -1,0 +1,6 @@
+There are not women. ||contradiction
+There is not a dance floor. ||contradiction
+There is not bamboo. ||contradiction
+The women are not in a group. ||contradiction
+The dance floor is not decorated with bamboo. ||contradiction
+The women are not on the dance floor. ||entailment

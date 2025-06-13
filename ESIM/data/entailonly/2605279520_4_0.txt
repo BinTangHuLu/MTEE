@@ -1,0 +1,6 @@
+There are women. ||entailment
+There is a dance floor. ||entailment
+There is bamboo. ||entailment
+The women are in a group. ||neutral
+The dance floor is decorated with bamboo. ||entailment
+The women are on the dance floor. ||neutral

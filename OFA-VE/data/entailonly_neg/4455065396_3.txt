@@ -1,0 +1,4 @@
+There is not a child. ||Contradiction
+There is not an indoor. ||Entailment
+The child is not laying. ||Entailment
+The child is not laying indoor. ||Entailment

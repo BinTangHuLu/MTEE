@@ -1,0 +1,6 @@
+There is a child. ||entailment
+The child is talented. ||neutral
+There is a mic. ||entailment
+There is an instrument. ||entailment
+The child sings into the mic. ||entailment
+The child plays the instrument. ||entailment

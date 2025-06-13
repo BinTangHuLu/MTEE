@@ -1,0 +1,3 @@
+there is a tree ||entailment
+there is some ground ||entailment
+the tree is on the ground ||entailment

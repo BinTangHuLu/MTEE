@@ -1,0 +1,4 @@
+There is not a man. ||Contradiction
+There is not a race. ||Contradiction
+The man is not participating. ||Contradiction
+The man is not participating in the race. ||Contradiction

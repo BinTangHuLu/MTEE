@@ -1,0 +1,6 @@
+there are not men ||contradiction
+there is not a barbecue ||contradiction
+there is not food ||contradiction
+there is not a grill ||contradiction
+the men are not huddled around the barbecue ||contradiction
+the food is not tended to on the grill ||contradiction

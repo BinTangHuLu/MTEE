@@ -1,0 +1,6 @@
+there are men ||entailment
+there are sunglasses ||entailment
+there are beer ||entailment
+there are two men ||entailment
+the men are in sunglasses ||entailment
+the men drink beer ||entailment

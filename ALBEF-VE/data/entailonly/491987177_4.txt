@@ -1,0 +1,3 @@
+there is a man ||entailment
+there is a broom ||entailment
+the man is with broom ||entailment

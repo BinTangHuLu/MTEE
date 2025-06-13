@@ -1,0 +1,4 @@
+there are not men ||contradiction
+there are not kilts ||contradiction
+the kilts are not in ||neutral
+the men are not playing on bagpipes ||contradiction

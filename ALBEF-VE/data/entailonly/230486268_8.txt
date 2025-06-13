@@ -1,0 +1,3 @@
+there is a boy ||entailment
+there is some sand ||entailment
+the boy crouches in sand ||entailment

@@ -1,0 +1,6 @@
+There is a acrobat. ||entailment
+The acrobat is younger. ||entailment
+The acrobat is wearing dark blue and white. ||contradiction
+The lap is right. ||contradiction
+The lap is straight. ||contradiction
+The acrobat has a leg. ||entailment

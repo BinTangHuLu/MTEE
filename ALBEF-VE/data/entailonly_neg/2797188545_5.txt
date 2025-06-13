@@ -1,0 +1,7 @@
+there are not paddlers ||contradiction
+there is not a configuration ||contradiction
+there are not boulders ||contradiction
+the boulders are not giant ||contradiction
+the paddlers do not reach the configuration ||contradiction
+the configuration is not of boulders ||contradiction
+the paddlers are not in river ||contradiction

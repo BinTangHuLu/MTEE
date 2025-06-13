@@ -1,0 +1,10 @@
+there are not people ||contradiction
+there is not a hillside ||contradiction
+there is not a sun ||entailment
+there is not a cross ||contradiction
+the hillside is not grassy ||contradiction
+the cross is not large ||neutral
+the cross is not wooden ||contradiction
+the people do not stand on the hillside ||contradiction
+the people are not in front of the cross ||contradiction
+the hillside is not in the sun ||entailment

@@ -1,0 +1,5 @@
+There is a dog. ||entailment
+The dog is running. ||entailment
+There is an area. ||entailment
+The area is marshy. ||neutral
+The dog is running in the area. ||entailment

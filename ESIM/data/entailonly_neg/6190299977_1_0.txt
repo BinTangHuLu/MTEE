@@ -1,0 +1,2 @@
+There is not a soccer player. ||contradiction
+The soccer player does not try to get interception. ||contradiction

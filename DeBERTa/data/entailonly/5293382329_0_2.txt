@@ -1,0 +1,5 @@
+There is a man. ||entailment
+The man has long hair. ||entailment
+The man is acting like he. ||neutral
+The man is on stage. ||neutral
+The man is talking into a microphone. ||entailment

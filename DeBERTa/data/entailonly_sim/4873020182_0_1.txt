@@ -1,0 +1,8 @@
+There is a female. ||entailment
+There is a coat. ||entailment
+There are clan. ||entailment
+There is a bar. ||contradiction
+The female is plaid. ||entailment
+The female wears the jacket. ||entailment
+The female stands near the children. ||entailment
+The clan are sitting at the table. ||neutral

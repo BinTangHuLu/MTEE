@@ -1,0 +1,4 @@
+There is a person. ||entailment
+There is an animal. ||entailment
+The animal is large. ||entailment
+The person is riding the animal. ||entailment

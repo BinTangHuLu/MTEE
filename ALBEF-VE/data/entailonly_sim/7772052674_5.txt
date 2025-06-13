@@ -1,0 +1,4 @@
+there is a association ||entailment
+there are some community ||neutral
+there is a block ||entailment
+the association is at the bar ||entailment

@@ -1,0 +1,5 @@
+there is a lady ||entailment
+there is a bike ||entailment
+there are tires ||entailment
+the lady is putting air ||entailment
+the bikes tires ||entailment

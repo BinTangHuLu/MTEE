@@ -1,0 +1,4 @@
+there are community ||entailment
+there is an sea ||entailment
+the community are looking out at the ocean ||entailment
+the community are looking out at the sky ||contradiction

@@ -1,0 +1,5 @@
+there is a man ||entailment
+there is a cigarette ||entailment
+there is a bench ||entailment
+the man is smoking the cigarette ||neutral
+the cigarette is on the bench ||entailment

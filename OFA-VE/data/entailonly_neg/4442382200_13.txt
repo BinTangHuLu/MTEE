@@ -1,0 +1,3 @@
+There is not a priest. ||Contradiction
+There is not a cross. ||Contradiction
+The priest does not have a cross. ||Contradiction

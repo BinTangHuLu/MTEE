@@ -1,0 +1,4 @@
+there is a fellow ||entailment
+there is a alp ||entailment
+the fellow is young ||neutral
+the fellow is looking down the mountain ||entailment

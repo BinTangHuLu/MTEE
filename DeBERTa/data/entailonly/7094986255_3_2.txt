@@ -1,0 +1,5 @@
+There is a man. ||contradiction
+The man is young. ||entailment
+The man is in swimming attire. ||entailment
+There is water. ||entailment
+The man enters water. ||entailment

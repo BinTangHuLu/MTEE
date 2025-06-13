@@ -1,0 +1,5 @@
+There are community. ||Entailment
+There is a apparel. ||Entailment
+The apparel is holiday. ||Entailment
+The community have glasses. ||Entailment
+The community are one in costume. ||Entailment

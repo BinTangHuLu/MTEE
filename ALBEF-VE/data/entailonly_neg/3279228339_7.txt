@@ -1,0 +1,2 @@
+there are not humans ||contradiction
+the humans are not sitting ||entailment

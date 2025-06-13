@@ -1,0 +1,3 @@
+There is a woman. ||entailment
+There is a little girl. ||entailment
+The woman holds the little girl. ||entailment

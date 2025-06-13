@@ -1,0 +1,2 @@
+There is a Lady. ||entailment
+The Lady digs through garbage. ||entailment

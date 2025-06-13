@@ -1,0 +1,3 @@
+there is a dude ||entailment
+there is a metro ||entailment
+the dude is waiting for the subway ||neutral

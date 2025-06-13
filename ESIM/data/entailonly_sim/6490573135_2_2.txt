@@ -1,0 +1,4 @@
+There are nameless-rays. ||neutral
+There is a hockey agreeable. ||entailment
+The photographer is taking nameless-rays. ||contradiction
+The photographer is taking the hockey agreeable. ||entailment

@@ -1,0 +1,4 @@
+There is a woman. ||Entailment
+There is a case. ||Entailment
+The woman is two. ||Entailment
+The woman is next to case. ||Entailment

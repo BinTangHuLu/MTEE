@@ -1,0 +1,3 @@
+there is a bronco ||entailment
+there is a festival ||neutral
+the bronco is competing in rodeo ||neutral

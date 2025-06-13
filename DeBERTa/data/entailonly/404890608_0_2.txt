@@ -1,0 +1,5 @@
+There are friends. ||neutral
+There is paper. ||entailment
+There are bags. ||entailment
+The friends are playing with paper. ||entailment
+The friends are playing with bags. ||entailment

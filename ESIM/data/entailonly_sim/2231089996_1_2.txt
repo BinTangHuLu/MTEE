@@ -1,0 +1,4 @@
+There is a dude. ||entailment
+The dude is wearing a white shirt. ||entailment
+The dude is making a speech. ||entailment
+The dude is in front of a crowd. ||entailment

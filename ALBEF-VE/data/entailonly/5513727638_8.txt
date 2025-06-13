@@ -1,0 +1,3 @@
+there is a bicyclist ||entailment
+there is a trick ||entailment
+the bicyclist does a trick ||entailment

@@ -1,0 +1,3 @@
+there is not a person ||contradiction
+there is not a ball ||contradiction
+the person is not trying to hit the ball ||contradiction

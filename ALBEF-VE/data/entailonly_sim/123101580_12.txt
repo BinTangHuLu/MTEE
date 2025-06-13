@@ -1,0 +1,4 @@
+there are adolescent ||entailment
+the adolescent are some ||neutral
+the adolescent are playing sports ||entailment
+the adolescent are wearing different outfits ||entailment

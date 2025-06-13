@@ -1,0 +1,5 @@
+There is a girl. ||Entailment
+There is a jacket. ||Contradiction
+The girl is little. ||Entailment
+The girl is using jacket. ||Contradiction
+The jacket is to stay afloat in the water. ||Entailment

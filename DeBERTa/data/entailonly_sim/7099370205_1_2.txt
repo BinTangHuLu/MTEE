@@ -1,0 +1,2 @@
+There are list. ||entailment
+The list are chasing the ball. ||entailment

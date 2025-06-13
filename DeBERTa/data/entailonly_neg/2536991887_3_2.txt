@@ -1,0 +1,3 @@
+There are not workers. ||contradiction
+The workers are not standing. ||contradiction
+The workers are not standing outside. ||contradiction

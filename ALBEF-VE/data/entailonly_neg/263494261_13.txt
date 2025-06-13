@@ -1,0 +1,4 @@
+there is not a group ||contradiction
+there are not some people ||contradiction
+there are not some runners ||contradiction
+the people are not watching runners ||contradiction

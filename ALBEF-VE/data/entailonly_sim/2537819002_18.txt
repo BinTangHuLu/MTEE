@@ -1,0 +1,2 @@
+there is a crisis zone ||entailment
+we are riding in crisis zone ||contradiction

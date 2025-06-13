@@ -1,0 +1,3 @@
+there are people ||entailment
+the people are praying ||neutral
+the people are meditating ||neutral

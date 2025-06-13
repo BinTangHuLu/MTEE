@@ -1,0 +1,6 @@
+EA,skirts,pola dotted
+A,a few
+RE2,wearing,skirts
+A,crowded
+RE2,walking in,a line
+A,white

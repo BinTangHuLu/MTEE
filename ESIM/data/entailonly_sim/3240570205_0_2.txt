@@ -1,0 +1,5 @@
+There is an man. ||contradiction
+There is a camcorder. ||entailment
+The man is using. ||contradiction
+The camcorder is video. ||entailment
+The man is using camera. ||contradiction

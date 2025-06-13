@@ -1,0 +1,3 @@
+there is a human ||entailment
+there is something ||entailment
+the human is holding something ||entailment

@@ -1,0 +1,3 @@
+there is a man ||entailment
+there is equipment ||entailment
+the man is fixing the equipment ||neutral

@@ -1,0 +1,5 @@
+there are men ||entailment
+there is a frisbee ||entailment
+there is a park ||entailment
+the men are playing frisbee ||entailment
+the frisbee is in the park ||entailment

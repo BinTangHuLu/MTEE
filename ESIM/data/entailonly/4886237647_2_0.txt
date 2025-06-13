@@ -1,0 +1,4 @@
+There is a group. ||entailment
+There are some people. ||entailment
+There is an airport. ||entailment
+The group is at the airport. ||entailment

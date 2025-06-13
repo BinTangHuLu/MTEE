@@ -1,0 +1,4 @@
+there is a female ||entailment
+there are arms ||entailment
+the female is young ||entailment
+the female is moving arms ||entailment

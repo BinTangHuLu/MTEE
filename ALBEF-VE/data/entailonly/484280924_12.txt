@@ -1,0 +1,3 @@
+there is a man ||entailment
+the man is smiling ||entailment
+the man cooks ||entailment

@@ -1,0 +1,3 @@
+There are community. ||Entailment
+There are association. ||Entailment
+The community are performers. ||Entailment

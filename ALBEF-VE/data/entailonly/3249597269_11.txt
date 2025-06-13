@@ -1,0 +1,2 @@
+there is a squirrel ||entailment
+the squirrel jumps ||entailment

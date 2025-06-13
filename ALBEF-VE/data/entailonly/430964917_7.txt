@@ -1,0 +1,4 @@
+there is a person ||entailment
+there is a bicycle ||entailment
+the bicycle is riding ||entailment
+the person is riding the bicycle ||entailment

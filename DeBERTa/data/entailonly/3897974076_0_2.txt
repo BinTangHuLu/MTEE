@@ -1,0 +1,5 @@
+There is a woman. ||entailment
+There are some children. ||entailment
+There are some stairs. ||entailment
+The woman climbs up stairs. ||entailment
+The children climb up stairs. ||entailment

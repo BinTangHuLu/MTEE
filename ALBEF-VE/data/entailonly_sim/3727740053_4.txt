@@ -1,0 +1,3 @@
+there are community ||entailment
+the community are performing combat ||contradiction
+the community are performing combat practices ||contradiction

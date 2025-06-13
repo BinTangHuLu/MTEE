@@ -1,0 +1,2 @@
+There is a path. ||Contradiction
+The motorcycle is on path. ||Entailment

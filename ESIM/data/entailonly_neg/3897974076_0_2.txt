@@ -1,0 +1,5 @@
+There is not a woman. ||contradiction
+There are not some children. ||contradiction
+There are not some stairs. ||contradiction
+The woman does not climb up stairs. ||contradiction
+The children do not climb up stairs. ||contradiction

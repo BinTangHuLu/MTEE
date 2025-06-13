@@ -1,0 +1,3 @@
+there are people ||entailment
+there are goods ||entailment
+the people are looking at goods ||entailment

@@ -1,0 +1,7 @@
+There is a dude. ||entailment
+There is a fedora. ||neutral
+There is drink. ||neutral
+The dude is seated. ||entailment
+The dude is slightly elevated. ||entailment
+The dude is wearing a hat. ||entailment
+The dude is facing water. ||entailment

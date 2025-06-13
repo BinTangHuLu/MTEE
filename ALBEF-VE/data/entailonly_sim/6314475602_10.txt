@@ -1,0 +1,4 @@
+there are community ||entailment
+there are dude ||entailment
+community watch men ||entailment
+dude are in kilts ||entailment

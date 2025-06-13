@@ -1,0 +1,5 @@
+There are dude. ||entailment
+There is a avenue. ||entailment
+There are two dude. ||entailment
+The dude are without shirts. ||entailment
+The dude are jumping in street. ||entailment

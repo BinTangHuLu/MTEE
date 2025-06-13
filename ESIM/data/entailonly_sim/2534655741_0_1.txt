@@ -1,0 +1,5 @@
+There is a dude. ||entailment
+There is a blossom. ||entailment
+There is a female. ||entailment
+The dude takes the flower. ||entailment
+The dude takes the woman. ||entailment

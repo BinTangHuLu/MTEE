@@ -1,0 +1,3 @@
+there is a lady ||entailment
+there is a lady ||entailment
+the lady speaks to lady ||entailment

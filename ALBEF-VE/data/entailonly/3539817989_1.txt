@@ -1,0 +1,3 @@
+there is a man ||entailment
+there are some dogs ||entailment
+the man is surrounded by dogs ||contradiction

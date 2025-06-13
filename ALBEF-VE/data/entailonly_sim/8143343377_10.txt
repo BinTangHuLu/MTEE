@@ -1,0 +1,3 @@
+there are boy ||entailment
+there is melody ||entailment
+the boy play music ||entailment

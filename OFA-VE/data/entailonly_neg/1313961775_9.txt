@@ -1,0 +1,4 @@
+There is not a girl. ||Contradiction
+There is not water. ||Contradiction
+The girl is not little. ||Contradiction
+The girl does not float across water. ||Contradiction

@@ -1,0 +1,4 @@
+There is a child. ||entailment
+The child is little. ||entailment
+The child looks disgusted. ||contradiction
+The child is dirty ball. ||entailment

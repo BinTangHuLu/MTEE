@@ -1,0 +1,5 @@
+there is a dude ||entailment
+there is a pedal ||entailment
+there is a estate ||entailment
+the dude is on the bike ||entailment
+the dude is in the park ||entailment

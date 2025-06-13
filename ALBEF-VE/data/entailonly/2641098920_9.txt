@@ -1,0 +1,6 @@
+there is a man ||entailment
+there is a woman ||entailment
+there is a couch ||entailment
+the man and woman are together ||entailment
+the man sits on the couch ||contradiction
+the woman sits on the couch ||entailment

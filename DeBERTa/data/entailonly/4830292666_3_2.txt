@@ -1,0 +1,4 @@
+There is a human. ||entailment
+There is a building. ||entailment
+The human is single. ||entailment
+The human is outside in front of the building. ||entailment

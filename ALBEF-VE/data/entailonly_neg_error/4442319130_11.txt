@@ -1,0 +1,4 @@
+A,standing
+R,on
+R,standing near
+R,with

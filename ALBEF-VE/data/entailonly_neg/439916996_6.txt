@@ -1,0 +1,4 @@
+there are not dogs ||contradiction
+there is not a woman ||contradiction
+there is not a yard ||contradiction
+the woman is not in the yard ||contradiction

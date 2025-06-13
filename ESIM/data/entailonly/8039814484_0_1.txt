@@ -1,0 +1,3 @@
+There are men. ||entailment
+There are windows. ||entailment
+The men are in front of windows. ||entailment

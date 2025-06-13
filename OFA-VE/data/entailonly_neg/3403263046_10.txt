@@ -1,0 +1,6 @@
+There is not an athlete. ||Contradiction
+There is not a uniform. ||Entailment
+There is not a ball. ||Contradiction
+The uniform is not red. ||Entailment
+The athlete is not in uniform. ||Entailment
+The athlete does not handle the ball. ||Neutral

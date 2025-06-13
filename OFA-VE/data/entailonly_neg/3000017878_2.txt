@@ -1,0 +1,3 @@
+There is not a band. ||Contradiction
+There is not a backdrop. ||Contradiction
+The band does not play on backdrop. ||Contradiction

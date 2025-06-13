@@ -1,0 +1,4 @@
+there is a girl ||entailment
+the girl is little ||entailment
+there is a costume ||entailment
+the girl is dressed up in costume ||entailment

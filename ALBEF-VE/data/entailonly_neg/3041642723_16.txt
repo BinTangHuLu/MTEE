@@ -1,0 +1,3 @@
+there are not teenagers ||contradiction
+there is not a porch ||contradiction
+the teenagers do not sit on the porch ||entailment

@@ -1,0 +1,3 @@
+There are people. ||Entailment
+There is inside. ||Entailment
+The people are talking inside. ||Entailment

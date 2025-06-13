@@ -1,0 +1,5 @@
+there is a account ||entailment
+there is a avenue ||entailment
+there is a capital ||entailment
+the account is of the street ||entailment
+the account is in the city ||entailment

@@ -1,0 +1,5 @@
+there is a man ||entailment
+there is a girl ||entailment
+the girl is little ||entailment
+the man sits on shoulders ||contradiction
+the shoulders are of the girl ||entailment

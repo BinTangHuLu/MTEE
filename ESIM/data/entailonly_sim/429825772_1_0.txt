@@ -1,0 +1,5 @@
+There is a child. ||entailment
+There are some knickers. ||contradiction
+There is a basin. ||neutral
+The child is fishing in the pond. ||entailment
+The child is wearing shorts. ||entailment

@@ -1,0 +1,5 @@
+There is not a boy. ||contradiction
+There is not an age. ||contradiction
+The boy is not younger. ||contradiction
+The age is not ten. ||entailment
+The boy is not younger than age. ||contradiction

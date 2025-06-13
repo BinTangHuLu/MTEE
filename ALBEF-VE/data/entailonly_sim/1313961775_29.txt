@@ -1,0 +1,4 @@
+there is a child ||entailment
+there is drink ||entailment
+the child is young ||neutral
+the child is in water ||entailment

@@ -1,0 +1,3 @@
+there are clan ||entailment
+there is adhesive ||entailment
+the clan are standing on cement ||neutral

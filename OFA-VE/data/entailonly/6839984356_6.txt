@@ -1,0 +1,3 @@
+There is an asian. ||Entailment
+There is a young. ||Entailment
+The asian is sitting young. ||Neutral

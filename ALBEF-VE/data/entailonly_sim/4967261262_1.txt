@@ -1,0 +1,3 @@
+there are community ||entailment
+the community are fun ||neutral
+the community are having fun ||neutral

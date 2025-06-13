@@ -1,0 +1,6 @@
+there is a family member ||entailment
+there is a wedding ||entailment
+there is a photo ||entailment
+the family member documents the wedding ||entailment
+the wedding is by taking ||neutral
+taking the photo ||neutral

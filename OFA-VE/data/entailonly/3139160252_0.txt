@@ -1,0 +1,4 @@
+There are women. ||Entailment
+There is a tree. ||Entailment
+The tree is Christmas. ||Entailment
+The women are posing in front of the tree. ||Entailment

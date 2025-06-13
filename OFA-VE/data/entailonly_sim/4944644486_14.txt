@@ -1,0 +1,3 @@
+There are community. ||Entailment
+There is a boundary. ||Entailment
+The community are in line. ||Entailment

@@ -1,0 +1,3 @@
+there is a boy ||entailment
+there is indoors ||entailment
+the boy is indoors ||entailment

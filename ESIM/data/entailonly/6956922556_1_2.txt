@@ -1,0 +1,4 @@
+There are girls. ||entailment
+There are two girls. ||entailment
+The girls are doing pose. ||entailment
+The pose is same. ||neutral

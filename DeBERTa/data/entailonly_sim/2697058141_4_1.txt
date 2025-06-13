@@ -1,0 +1,8 @@
+There is a child. ||entailment
+There is a appliance. ||entailment
+There is some food. ||entailment
+There is a barbecue. ||entailment
+The child is young. ||entailment
+The child is using utensil. ||entailment
+The child is using utensil to handle meat. ||entailment
+The food is on grill. ||entailment

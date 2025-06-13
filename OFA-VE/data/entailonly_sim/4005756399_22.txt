@@ -1,0 +1,3 @@
+There is a dealer. ||Entailment
+There is a attitude. ||Entailment
+The dealer tends stand. ||Neutral

@@ -1,0 +1,7 @@
+There is not a boy. ||contradiction
+There is not a hat. ||contradiction
+The boy is not goofy. ||contradiction
+The boy is not wearing. ||contradiction
+The boy is not sledding. ||contradiction
+The boy is not wearing a hat. ||contradiction
+The boy is sledding by himselfnot . ||neutral

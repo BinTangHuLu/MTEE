@@ -1,0 +1,2 @@
+there are not boats ||contradiction
+the boats cannot float ||contradiction

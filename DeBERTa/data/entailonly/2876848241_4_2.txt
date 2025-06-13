@@ -1,0 +1,3 @@
+There is a rider. ||entailment
+There is a motorcycle. ||entailment
+The rider is riding over bump. ||entailment

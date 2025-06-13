@@ -1,0 +1,2 @@
+there is a female ||entailment
+the female is playing volleyball ||entailment

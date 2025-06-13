@@ -1,0 +1,5 @@
+there are girls ||entailment
+there is literature ||entailment
+there are balloons ||entailment
+the girls are handing out literature ||entailment
+the girls are handing out balloons ||entailment

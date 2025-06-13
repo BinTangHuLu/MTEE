@@ -1,0 +1,3 @@
+There is not a plane. ||Contradiction
+There is not some ground. ||Contradiction
+The plane is not on ground. ||Entailment

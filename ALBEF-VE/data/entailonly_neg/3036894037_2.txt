@@ -1,0 +1,6 @@
+there is not a man ||contradiction
+there are not guards ||contradiction
+there are not stairs ||contradiction
+the man is not older ||entailment
+the man is not walking past guards ||entailment
+the guards are not on stairs ||contradiction

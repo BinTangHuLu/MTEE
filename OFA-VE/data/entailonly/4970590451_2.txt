@@ -1,0 +1,4 @@
+There is a person. ||Entailment
+There is a helmet. ||Entailment
+The helmet is colorful. ||Entailment
+The person is wearing a colorful helmet. ||Entailment

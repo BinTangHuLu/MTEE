@@ -1,0 +1,4 @@
+There is a man. ||entailment
+There is some snow. ||entailment
+The man is digging. ||entailment
+The man is digging outside. ||entailment

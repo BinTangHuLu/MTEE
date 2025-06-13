@@ -1,0 +1,4 @@
+there is a body ||entailment
+there is a bank ||entailment
+the body is elderly ||neutral
+the body is in front of the store ||entailment

@@ -1,0 +1,4 @@
+There is a dude. ||Entailment
+There is a backside. ||Entailment
+The dude has a butt. ||Entailment
+The backside is on the skateboard. ||Entailment

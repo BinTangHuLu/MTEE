@@ -1,0 +1,4 @@
+there is not a lady ||contradiction
+there is not a frame ||contradiction
+there is not a bicycle ||contradiction
+the lady is not lubricating the frame ||entailment

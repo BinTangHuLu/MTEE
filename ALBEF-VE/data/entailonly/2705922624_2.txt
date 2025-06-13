@@ -1,0 +1,4 @@
+there is a man ||entailment
+there are girls ||entailment
+the man is taking pictures ||entailment
+the man is taking pictures of girls ||entailment

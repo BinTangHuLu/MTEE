@@ -1,0 +1,5 @@
+There is a animator. ||contradiction
+There are some classic. ||neutral
+There is a building. ||entailment
+The animator is copying masterpieces. ||contradiction
+The animator is copying in museum. ||contradiction

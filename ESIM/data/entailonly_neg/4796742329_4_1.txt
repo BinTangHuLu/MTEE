@@ -1,0 +1,4 @@
+There is not a man. ||contradiction
+The man is somethingnot . ||entailment
+His hand is hisnot . ||entailment
+The man does not have in hand. ||contradiction

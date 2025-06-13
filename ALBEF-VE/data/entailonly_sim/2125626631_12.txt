@@ -1,0 +1,3 @@
+there is an bodily ||entailment
+there is a doll ||neutral
+the bodily is making contact with the toy ||entailment

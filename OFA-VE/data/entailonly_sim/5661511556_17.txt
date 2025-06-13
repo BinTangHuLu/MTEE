@@ -1,0 +1,3 @@
+There is a body. ||Entailment
+The body is one. ||Entailment
+The body is present. ||Entailment

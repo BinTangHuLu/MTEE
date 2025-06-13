@@ -1,0 +1,5 @@
+there are clan ||entailment
+there is a dude ||entailment
+the clan are black ||neutral
+the dude is white ||contradiction
+the clan are walking with the man ||entailment

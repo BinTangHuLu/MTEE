@@ -1,0 +1,4 @@
+there is a dude ||entailment
+there is a carnival agreeable ||entailment
+there is a little ||entailment
+the dude is showing carnival game ||entailment

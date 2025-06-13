@@ -1,0 +1,4 @@
+There is not a photographer. ||contradiction
+There is not a rider. ||contradiction
+There is not a bike. ||contradiction
+The photographer has not angered the rider. ||contradiction

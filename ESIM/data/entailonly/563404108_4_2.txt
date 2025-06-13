@@ -1,0 +1,4 @@
+There are People. ||entailment
+People speak languages. ||entailment
+The languages are variety. ||neutral
+The languages are different. ||neutral

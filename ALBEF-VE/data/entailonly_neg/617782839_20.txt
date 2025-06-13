@@ -1,0 +1,6 @@
+there is not an archer ||contradiction
+there are not teachings ||contradiction
+there is not a target ||contradiction
+the teachings are not japanese style ||entailment
+the archer does not use teachings ||contradiction
+the archer does not aim at the target ||entailment

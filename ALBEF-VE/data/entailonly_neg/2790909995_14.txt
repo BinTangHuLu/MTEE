@@ -1,0 +1,6 @@
+there is not a dog ||contradiction
+there is not some sand ||contradiction
+there is not some grass ||entailment
+there is not a background ||contradiction
+the dog does not run into the sand ||contradiction
+the grass is not in the background ||neutral

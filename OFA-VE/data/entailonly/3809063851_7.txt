@@ -1,0 +1,5 @@
+There are musicians. ||Entailment
+There is grass. ||Entailment
+There is music. ||Entailment
+The musicians play music. ||Entailment
+The music is on grass. ||Neutral

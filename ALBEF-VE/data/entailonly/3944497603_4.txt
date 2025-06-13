@@ -1,0 +1,4 @@
+there is a person ||entailment
+there is a corridor ||entailment
+there is an entrance ||entailment
+the person is standing in the corridor ||contradiction

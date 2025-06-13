@@ -1,0 +1,2 @@
+They are walking along food. ||entailment
+They are carrying a bounty of food. ||entailment

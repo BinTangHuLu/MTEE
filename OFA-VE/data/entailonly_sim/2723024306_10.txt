@@ -1,0 +1,3 @@
+There is a dude. ||Entailment
+There is a camel castle. ||Neutral
+The dude builds sand castle. ||Entailment

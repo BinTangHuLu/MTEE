@@ -1,0 +1,3 @@
+there is a circle ||contradiction
+there is a bronze ||entailment
+the circle is near the statue ||entailment

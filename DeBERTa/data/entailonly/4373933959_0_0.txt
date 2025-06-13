@@ -1,0 +1,6 @@
+There is a crowd. ||entailment
+There are people. ||entailment
+There is a street. ||entailment
+It is winter time. ||entailment
+The crowd gathers in the street. ||entailment
+It is n winter time. ||entailment

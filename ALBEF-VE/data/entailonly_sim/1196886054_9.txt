@@ -1,0 +1,6 @@
+there is a bride to be ||entailment
+there is a bridegroom ||entailment
+the bride to be is getting married ||entailment
+the bridegroom is getting married ||entailment
+the bride to be is getting married outdoors ||entailment
+the bridegroom is getting married outdoors ||entailment

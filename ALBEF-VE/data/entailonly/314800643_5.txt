@@ -1,0 +1,5 @@
+there is a man ||entailment
+there is a camera ||entailment
+there is a girl ||entailment
+the man looks past the camera ||entailment
+the girl sits behind the man ||entailment

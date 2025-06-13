@@ -1,0 +1,6 @@
+There is not a girl. ||Contradiction
+There is not a shirt. ||Contradiction
+There is not a face. ||Contradiction
+The girl is not blonde. ||Entailment
+The shirt is not yellow. ||Entailment
+The girl does not cover face. ||Entailment

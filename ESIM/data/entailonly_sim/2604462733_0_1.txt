@@ -1,0 +1,3 @@
+There are female. ||entailment
+The female are young. ||entailment
+The female are outdoors. ||entailment

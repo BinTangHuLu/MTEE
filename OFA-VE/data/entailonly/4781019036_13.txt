@@ -1,0 +1,5 @@
+There are Riders. ||Entailment
+There is a park. ||Entailment
+There is a ride. ||Entailment
+The Riders are riding the ride. ||Entailment
+The ride is on the park. ||Entailment

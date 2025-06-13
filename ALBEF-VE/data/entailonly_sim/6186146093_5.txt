@@ -1,0 +1,5 @@
+there is a dude ||entailment
+there is a gentlewoman ||contradiction
+there is a pedal tire ||entailment
+the dude and lady are fixing the bike tire ||entailment
+the dude is fixing the bike tire ||entailment

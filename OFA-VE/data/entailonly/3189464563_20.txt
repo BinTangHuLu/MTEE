@@ -1,0 +1,3 @@
+There is a cake. ||Entailment
+There is a table. ||Entailment
+The cake is on the table. ||Entailment

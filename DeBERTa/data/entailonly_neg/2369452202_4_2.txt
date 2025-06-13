@@ -1,0 +1,2 @@
+There is not a hot air balloon. ||contradiction
+The hot air balloon is not making landing. ||contradiction

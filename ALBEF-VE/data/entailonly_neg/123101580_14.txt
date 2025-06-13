@@ -1,0 +1,3 @@
+there are not women ||contradiction
+there are not games ||contradiction
+the women are not playing games ||contradiction

@@ -1,0 +1,3 @@
+There is not a photographer. ||contradiction
+There is not a picture. ||contradiction
+The photographer is not taking a picture. ||contradiction

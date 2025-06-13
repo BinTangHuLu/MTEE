@@ -1,0 +1,5 @@
+there is a man ||entailment
+there is a beer ||entailment
+there are people ||entailment
+the man is sipping on beer ||neutral
+the people are around the man ||entailment

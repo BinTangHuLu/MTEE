@@ -1,0 +1,4 @@
+There is a lady. ||entailment
+The lady is happy. ||entailment
+The clothing is colorful. ||entailment
+The lady is with clothing. ||entailment

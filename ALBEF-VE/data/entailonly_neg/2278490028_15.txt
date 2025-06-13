@@ -1,0 +1,4 @@
+there are not people ||contradiction
+there are not rafts ||contradiction
+the rafts are not made of bamboo ||contradiction
+the people are not on rafts ||contradiction

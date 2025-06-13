@@ -1,0 +1,7 @@
+There is not a man. ||contradiction
+There is not a sidewalk. ||contradiction
+There are not headphones. ||contradiction
+The man is not walking. ||contradiction
+The man is not wearing headphones. ||contradiction
+The man does not walk down the sidewalk. ||contradiction
+The man is not wearing headphones. ||contradiction

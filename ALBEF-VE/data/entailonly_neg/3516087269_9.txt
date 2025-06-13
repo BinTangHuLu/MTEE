@@ -1,0 +1,8 @@
+there is not a girl ||contradiction
+there is not some hair ||entailment
+there are not some shoes ||contradiction
+the hair is not weird blue ||entailment
+the hair is not blue ||entailment
+the shoes are not big ||entailment
+the girl does not have weird blue hair ||contradiction
+the girl does not have big shoes ||entailment

@@ -1,0 +1,5 @@
+There is a woman. ||entailment
+There is a man. ||entailment
+The woman is holding. ||entailment
+The man is bicep. ||entailment
+The woman is holding bicep. ||entailment

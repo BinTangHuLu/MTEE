@@ -1,0 +1,5 @@
+There is not a painter. ||contradiction
+There are not some masterpieces. ||contradiction
+There is not a museum. ||contradiction
+The painter is not copying masterpieces. ||contradiction
+The painter is not copying in museum. ||contradiction

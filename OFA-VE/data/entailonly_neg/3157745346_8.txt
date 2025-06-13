@@ -1,0 +1,5 @@
+There is not a person. ||Contradiction
+There is not a helmet. ||Contradiction
+There is not an ATM. ||Contradiction
+The person is not in the helmet. ||Entailment
+The person does not use the ATM. ||Contradiction

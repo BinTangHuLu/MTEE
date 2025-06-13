@@ -1,0 +1,7 @@
+There is not a man. ||contradiction
+There is not a picture. ||contradiction
+There is not a woman. ||contradiction
+There is not outdoors. ||contradiction
+There is not a woman. ||contradiction
+The man is not taking a picture. ||contradiction
+The woman does not walk behind the man. ||contradiction

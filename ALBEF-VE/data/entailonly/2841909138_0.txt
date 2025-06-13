@@ -1,0 +1,4 @@
+there are women ||entailment
+there is a notebook ||entailment
+there is hans ||entailment
+the women held the notebook ||entailment

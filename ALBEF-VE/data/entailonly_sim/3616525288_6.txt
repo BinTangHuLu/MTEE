@@ -1,0 +1,3 @@
+there are bikini ||neutral
+there are appliance ||entailment
+the jockeys chase horses ||entailment

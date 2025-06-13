@@ -1,0 +1,5 @@
+there is not a woman ||contradiction
+the woman is not black ||contradiction
+the woman is not wearing orange ||contradiction
+there is not a tennis ||contradiction
+the woman is not playing tennis ||contradiction

@@ -1,0 +1,2 @@
+there is a wedding ||entailment
+the wedding is taking place ||entailment

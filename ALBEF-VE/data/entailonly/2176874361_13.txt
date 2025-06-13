@@ -1,0 +1,4 @@
+there is a dog ||entailment
+there is a cow ||entailment
+the dog and cow are outside ||entailment
+the dog is outside cow ||entailment

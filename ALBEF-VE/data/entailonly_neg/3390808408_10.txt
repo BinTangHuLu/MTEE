@@ -1,0 +1,3 @@
+there is not a soccer player ||contradiction
+there is not a ball ||contradiction
+the soccer player is not kicking the ball ||contradiction

@@ -1,0 +1,5 @@
+there are children ||entailment
+there is grass ||entailment
+there are two children ||entailment
+the children are sitting on grass ||entailment
+the children are reading ||entailment

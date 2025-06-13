@@ -1,0 +1,6 @@
+there is a man ||entailment
+there is an income ||entailment
+there is a performance ||entailment
+the income is primary ||neutral
+the performance is street ||neutral
+the man is in performance ||entailment

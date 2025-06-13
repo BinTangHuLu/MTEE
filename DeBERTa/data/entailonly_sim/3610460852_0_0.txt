@@ -1,0 +1,2 @@
+There is a female. ||entailment
+The female is standing. ||entailment

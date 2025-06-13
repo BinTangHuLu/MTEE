@@ -1,0 +1,4 @@
+There is a dude. ||entailment
+There is a action. ||entailment
+The action is crude. ||neutral
+The dude is making a crude gesture. ||entailment

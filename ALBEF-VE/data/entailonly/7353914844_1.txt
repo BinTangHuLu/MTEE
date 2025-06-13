@@ -1,0 +1,12 @@
+there are kayakers ||entailment
+there are helmets ||entailment
+there are life vests ||entailment
+there are oars ||entailment
+there is a river ||entailment
+there is a kayak ||entailment
+there is a photo opportunity ||entailment
+the helmets are yellow ||neutral
+the kayakers are held in place by oars ||contradiction
+the kayakers are in the river ||entailment
+the kayak is over kayak ||entailment
+the kayak is apart third ||neutral

@@ -1,0 +1,4 @@
+there is a man ||entailment
+there is a buttocks ||contradiction
+there is a bench ||entailment
+the buttocks are on the bench ||entailment

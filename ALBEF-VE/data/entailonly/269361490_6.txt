@@ -1,0 +1,7 @@
+there are people ||entailment
+there is a street ||entailment
+there are trees ||entailment
+the people are dressed in goth ||entailment
+the people walk down the street ||entailment
+the street is with trees ||entailment
+the trees are in the background ||entailment

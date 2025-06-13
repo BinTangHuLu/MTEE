@@ -1,0 +1,3 @@
+There is a dad. ||entailment
+There is a child. ||entailment
+The dad is with the child. ||entailment

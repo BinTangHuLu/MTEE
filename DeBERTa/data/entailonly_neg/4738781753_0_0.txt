@@ -1,0 +1,6 @@
+There is not a group. ||contradiction
+There are not some people. ||contradiction
+There is not a stadium. ||contradiction
+The group is not of. ||contradiction
+The people cares about stadium. ||contradiction
+The people are not sitting in stadium. ||contradiction

@@ -1,0 +1,6 @@
+There is a man. ||entailment
+There are hands. ||entailment
+There are keys. ||entailment
+There is a piano. ||entailment
+The man's hands are on keys. ||entailment
+The keys are of piano. ||entailment

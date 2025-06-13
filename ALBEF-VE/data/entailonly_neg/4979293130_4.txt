@@ -1,0 +1,4 @@
+there is not a child ||contradiction
+there is not a moped ||contradiction
+the moped is not moving ||neutral
+the child is not pointing at the moped ||contradiction

@@ -1,0 +1,4 @@
+There is a child. ||entailment
+There is a ancestor. ||entailment
+The child is present. ||entailment
+The child is present by father. ||entailment

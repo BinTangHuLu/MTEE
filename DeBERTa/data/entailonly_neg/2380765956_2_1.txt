@@ -1,0 +1,4 @@
+There is not a road. ||contradiction
+There is not a walker. ||contradiction
+The walker is not green. ||neutral
+The road does not have a walker. ||contradiction

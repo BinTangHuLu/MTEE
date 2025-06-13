@@ -1,0 +1,3 @@
+there is a marriage party ||entailment
+there is an avenue ||entailment
+the marriage party is walking down the aisle ||entailment

@@ -1,0 +1,4 @@
+There is a sun. ||entailment
+The sun is at its highest point. ||neutral
+The point is day. ||entailment
+The sun is at point. ||entailment

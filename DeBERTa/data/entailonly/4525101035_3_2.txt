@@ -1,0 +1,6 @@
+There is a man. ||entailment
+There is a jacket. ||entailment
+There is a comb. ||entailment
+The man is wearing. ||entailment
+The jacket is holding. ||entailment
+The man is while holding comb. ||entailment

@@ -1,0 +1,5 @@
+There is a man. ||Entailment
+There is a hat. ||Entailment
+There is some art. ||Entailment
+The man wears the hat. ||Entailment
+The man is near the art. ||Entailment

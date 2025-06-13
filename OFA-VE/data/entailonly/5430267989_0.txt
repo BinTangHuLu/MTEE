@@ -1,0 +1,3 @@
+There is a rider. ||Entailment
+The rider is young. ||Entailment
+The rider is female. ||Entailment

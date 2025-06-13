@@ -1,0 +1,3 @@
+there is an airplane ||entailment
+there are spectators ||entailment
+the airplane soars over spectators ||entailment

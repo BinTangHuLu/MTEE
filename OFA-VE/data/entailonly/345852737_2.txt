@@ -1,0 +1,4 @@
+There is a girl. ||Entailment
+There is a shop. ||Entailment
+The girl shop lifts. ||Contradiction
+The girl shop lifts at the shop. ||Neutral

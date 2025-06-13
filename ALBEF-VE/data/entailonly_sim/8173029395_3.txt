@@ -1,0 +1,9 @@
+there is a dude ||entailment
+there is some melody ||neutral
+there is a circle ||neutral
+there are community ||entailment
+there is a amphitheater ||entailment
+the amphitheater is packed ||entailment
+the dude is playing music ||entailment
+the dude is in front of the crowd ||entailment
+the circle is in the stadium ||contradiction

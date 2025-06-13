@@ -1,0 +1,4 @@
+There is a boy. ||entailment
+There is a sister. ||entailment
+The boy denies sister. ||entailment
+Sister a drink. ||entailment

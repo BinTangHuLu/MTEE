@@ -1,0 +1,5 @@
+there is not a boy ||contradiction
+there is not a girl ||contradiction
+there is not some hay ||contradiction
+the boy does not kiss the girl ||contradiction
+the boy is not on hay ||contradiction

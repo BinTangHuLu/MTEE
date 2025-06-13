@@ -1,0 +1,4 @@
+there is a boy ||entailment
+there is some paint ||entailment
+the paint is on the face ||entailment
+the boy has paint ||entailment

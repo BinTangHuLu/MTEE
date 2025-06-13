@@ -1,0 +1,3 @@
+There is a athlete. ||Entailment
+There is a farmland. ||Contradiction
+The athlete looks at the field. ||Entailment

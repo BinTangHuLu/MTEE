@@ -1,0 +1,6 @@
+there are people ||entailment
+there is a costume ||entailment
+there are glasses ||entailment
+the costume is holiday ||neutral
+the people have glasses ||entailment
+the people are one in costume ||entailment

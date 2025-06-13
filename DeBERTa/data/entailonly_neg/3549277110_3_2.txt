@@ -1,0 +1,5 @@
+There are not boys. ||contradiction
+There is not a piece. ||contradiction
+The boys are not two. ||contradiction
+The piece is not literature. ||contradiction
+The boys are not reading the piece. ||contradiction

@@ -1,0 +1,2 @@
+there are men ||entailment
+men are fighting men ||entailment

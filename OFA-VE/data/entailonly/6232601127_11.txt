@@ -1,0 +1,5 @@
+There is a potters wheel. ||Entailment
+There is a potter. ||Entailment
+The potter is his craft. ||Entailment
+The potters wheel spins. ||Entailment
+The potter works his craft. ||Entailment

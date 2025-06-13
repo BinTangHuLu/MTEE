@@ -1,0 +1,5 @@
+There is a female. ||entailment
+There is a call up call. ||neutral
+There is an commission environment. ||neutral
+The female is making a phone call. ||entailment
+The female is in an office environment. ||entailment

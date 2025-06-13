@@ -1,0 +1,2 @@
+there are not cats ||contradiction
+the cats are not outside ||entailment

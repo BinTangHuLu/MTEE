@@ -1,0 +1,6 @@
+there is a person ||entailment
+there is a shop ||entailment
+there is a window ||entailment
+the person is older ||entailment
+the person stands outside of window ||entailment
+the window is of shop ||neutral

@@ -1,0 +1,8 @@
+there is a child ||entailment
+there is a blossom ||entailment
+there is a blouse ||entailment
+there is a child ||entailment
+the blossom is on the shirt ||entailment
+the child is with the flower ||entailment
+the child rides the skateboard ||entailment
+the skateboard is with the child ||entailment

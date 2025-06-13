@@ -1,0 +1,5 @@
+There is a boy. ||Entailment
+The boy is smiling. ||Entailment
+The boy is smiling with something. ||Entailment
+There is something. ||Entailment
+There is a hand. ||Entailment

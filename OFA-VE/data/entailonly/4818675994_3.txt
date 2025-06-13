@@ -1,0 +1,3 @@
+There are humans. ||Entailment
+There are outdoors. ||Entailment
+The humans are outdoors. ||Entailment

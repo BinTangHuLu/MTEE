@@ -1,0 +1,5 @@
+there is a dude ||entailment
+there is a little ||entailment
+there is a call up ||neutral
+the little is with a phone ||entailment
+the dude is with baby ||entailment

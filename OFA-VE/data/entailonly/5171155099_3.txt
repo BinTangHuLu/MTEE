@@ -1,0 +1,5 @@
+There is a man. ||Entailment
+There is a hat. ||Entailment
+There is a horse. ||Entailment
+The man is in the hat. ||Entailment
+The man rides the horse. ||Entailment

@@ -1,0 +1,4 @@
+There is a child. ||Entailment
+The child is little. ||Entailment
+There is a cardinal. ||Contradiction
+The child is wearing red. ||Entailment

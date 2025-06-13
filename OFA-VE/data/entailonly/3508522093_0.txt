@@ -1,0 +1,4 @@
+There is a skateboarder. ||Entailment
+The skateboarder is young. ||Neutral
+The skateboarder is smiling. ||Neutral
+The skateboarder is outside. ||Entailment

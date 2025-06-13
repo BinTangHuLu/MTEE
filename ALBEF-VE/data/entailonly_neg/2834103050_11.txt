@@ -1,0 +1,4 @@
+there are not people ||contradiction
+there is not a beach ||contradiction
+the beach is not sandy ||entailment
+people are not standing on the beach ||contradiction

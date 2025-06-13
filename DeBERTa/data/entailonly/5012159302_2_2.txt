@@ -1,0 +1,4 @@
+There are people. ||entailment
+There is a tractor. ||entailment
+The people are Overall wearing. ||entailment
+The people are working to fix the tractor. ||entailment

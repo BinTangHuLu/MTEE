@@ -1,0 +1,7 @@
+there is not a boy ||contradiction
+there is not a coat ||contradiction
+there are not pants ||contradiction
+the coat is not red ||contradiction
+the pants are not tan ||entailment
+the boy is not provided with a coat ||contradiction
+the boy is not provided with pants ||contradiction

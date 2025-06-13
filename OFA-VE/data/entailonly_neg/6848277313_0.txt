@@ -1,0 +1,2 @@
+There is not a shirt. ||Contradiction
+The shirt is not plaid. ||Contradiction

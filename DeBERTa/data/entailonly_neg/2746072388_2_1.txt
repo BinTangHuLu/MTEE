@@ -1,0 +1,4 @@
+There is not a baby. ||contradiction
+There is not a cake. ||contradiction
+The baby is not messily. ||contradiction
+The baby is not eating cake. ||contradiction

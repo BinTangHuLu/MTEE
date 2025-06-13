@@ -1,0 +1,3 @@
+there is a circle ||entailment
+there are some competition ||entailment
+the circle is watching runners ||contradiction

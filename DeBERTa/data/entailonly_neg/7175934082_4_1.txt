@@ -1,0 +1,4 @@
+There is not a soldier. ||contradiction
+The soldier is not using binoculars. ||contradiction
+The soldier is not outside. ||contradiction
+The soldier is not in heat. ||contradiction

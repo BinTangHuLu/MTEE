@@ -1,0 +1,3 @@
+there is a body ||entailment
+there is drink ||neutral
+the body is jumping into water ||entailment

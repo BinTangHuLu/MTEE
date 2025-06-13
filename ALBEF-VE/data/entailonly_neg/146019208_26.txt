@@ -1,0 +1,4 @@
+there are not men ||contradiction
+there are not two men ||entailment
+there is not outdoors ||contradiction
+the men are not outdoors ||contradiction

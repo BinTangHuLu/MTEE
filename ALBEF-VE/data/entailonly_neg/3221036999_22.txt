@@ -1,0 +1,3 @@
+there is not a skateboarder ||contradiction
+there are not some tricks ||contradiction
+the skateboarder does not do tricks ||contradiction

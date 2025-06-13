@@ -1,0 +1,3 @@
+there is a motorcycle driver ||entailment
+the motorcycle driver is currently ||entailment
+the motorcycle driver is outdoors ||entailment

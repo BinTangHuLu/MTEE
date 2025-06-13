@@ -1,0 +1,2 @@
+There is a bobsled. ||contradiction
+Having amusing with the sled. ||entailment

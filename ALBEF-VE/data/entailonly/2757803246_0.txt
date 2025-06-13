@@ -1,0 +1,3 @@
+there is a boy ||entailment
+there are others ||entailment
+the boy runs towards others ||entailment

@@ -1,0 +1,6 @@
+There are female. ||entailment
+There is a booklet. ||entailment
+There is a album. ||neutral
+The female are Two. ||entailment
+One has a booklet. ||entailment
+The other has a album. ||neutral

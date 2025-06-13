@@ -1,0 +1,8 @@
+There is a circle. ||neutral
+There is a dirt. ||contradiction
+There are some community. ||neutral
+There is a ceiling. ||entailment
+The circle is on the ground. ||contradiction
+The community are 3. ||neutral
+The circle is watching people. ||entailment
+The community are on the edge of the roof. ||neutral

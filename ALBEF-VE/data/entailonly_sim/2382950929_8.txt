@@ -1,0 +1,3 @@
+there is a basin ||entailment
+there are some sand ||neutral
+the basin is near rocks ||entailment

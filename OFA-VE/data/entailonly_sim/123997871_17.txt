@@ -1,0 +1,3 @@
+There are adolescent. ||Entailment
+There are animal. ||Contradiction
+The adolescent are athletes. ||Entailment

@@ -1,0 +1,7 @@
+there are clan ||entailment
+there is a bank ||neutral
+there is a basement ||entailment
+there are act ||entailment
+the clan are playing in the store ||contradiction
+the bank is with the floor ||contradiction
+the bank is with displays ||entailment

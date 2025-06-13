@@ -1,0 +1,5 @@
+there is not a snowboarder ||contradiction
+there is not a stunt ||contradiction
+there is not a hill ||contradiction
+the snowboarder does not perform stunt ||contradiction
+the stunt is not over hill ||contradiction

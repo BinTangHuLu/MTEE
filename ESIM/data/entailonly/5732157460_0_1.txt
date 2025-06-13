@@ -1,0 +1,3 @@
+There are children. ||entailment
+There is a microscope. ||entailment
+The children are looking through the microscope. ||entailment

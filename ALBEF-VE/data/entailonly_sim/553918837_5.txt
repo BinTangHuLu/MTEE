@@ -1,0 +1,3 @@
+there is a baby ||entailment
+there is a park ||neutral
+the baby is in the playground ||entailment

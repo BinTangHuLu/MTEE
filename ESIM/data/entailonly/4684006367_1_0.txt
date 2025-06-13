@@ -1,0 +1,4 @@
+There is a man. ||entailment
+There is a building. ||entailment
+The building is labeled Lottery Ticket Centre. ||entailment
+The man is near the building. ||entailment

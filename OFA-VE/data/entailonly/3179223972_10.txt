@@ -1,0 +1,4 @@
+There is a boy. ||Entailment
+There is a picture. ||Entailment
+The boy is a baby. ||Entailment
+The boy gets his picture. ||Neutral

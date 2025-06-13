@@ -1,0 +1,5 @@
+there are women ||entailment
+there are vegetables ||entailment
+there is a market ||entailment
+the women sell vegetables ||entailment
+the vegetables are at the market ||entailment

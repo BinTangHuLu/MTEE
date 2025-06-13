@@ -1,0 +1,5 @@
+There is a account. ||Contradiction
+There is a avenue. ||Entailment
+There is a capital. ||Entailment
+The account is of the street. ||Entailment
+The account is in the city. ||Entailment

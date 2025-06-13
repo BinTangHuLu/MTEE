@@ -1,0 +1,4 @@
+there is an artisan ||entailment
+there is a craft ||entailment
+the artisan is mastering ||entailment
+the artisan is mastering craft ||entailment

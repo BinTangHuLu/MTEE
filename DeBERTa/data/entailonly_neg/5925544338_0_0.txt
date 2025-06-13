@@ -1,0 +1,7 @@
+There is not a man. ||contradiction
+There is not a blacksmith. ||contradiction
+There is not a tool. ||contradiction
+The man is not older. ||contradiction
+The man is not probably a blacksmith. ||contradiction
+The man is not welding a tool. ||contradiction
+The tool is not seen by look. ||contradiction

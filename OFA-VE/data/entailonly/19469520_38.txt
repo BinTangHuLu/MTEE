@@ -1,0 +1,4 @@
+There are cyclists. ||Entailment
+There is a group. ||Entailment
+The cyclists are racing. ||Entailment
+The cyclists are racing in a group. ||Entailment

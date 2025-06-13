@@ -1,0 +1,6 @@
+there is a crowd ||entailment
+there are some members ||entailment
+there is a group ||entailment
+there is a float ||entailment
+the crowd watches as members ||entailment
+the members stand next to float ||entailment

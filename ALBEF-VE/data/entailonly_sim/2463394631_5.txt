@@ -1,0 +1,3 @@
+there is a dude ||entailment
+there are knickers ||entailment
+the dude is bending over overalls ||entailment

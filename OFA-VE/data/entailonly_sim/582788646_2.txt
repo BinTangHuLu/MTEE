@@ -1,0 +1,5 @@
+There is a baby. ||Entailment
+There is drink. ||Contradiction
+The baby is looking at. ||Entailment
+The baby is wearing flotational devices. ||Entailment
+The baby is looking at water. ||Entailment

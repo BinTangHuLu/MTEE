@@ -1,0 +1,6 @@
+there is a celebration ||entailment
+there is a dude ||entailment
+there is a female ||entailment
+the dude and woman are making a toast ||neutral
+the dude is making a toast ||neutral
+the female is making a toast ||neutral

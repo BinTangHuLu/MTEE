@@ -1,0 +1,2 @@
+there is a passerby ||entailment
+the passerby is outdoors ||entailment

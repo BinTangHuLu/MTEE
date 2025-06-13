@@ -1,0 +1,6 @@
+there is a dude ||entailment
+there is a female ||entailment
+there is a metro ||entailment
+the dude is sleeping ||entailment
+the dude is next to the woman ||entailment
+the female is on the subway ||entailment

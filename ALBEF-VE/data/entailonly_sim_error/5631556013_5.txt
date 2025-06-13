@@ -1,0 +1,2 @@
+EA,shorts,wearing
+RE2,wearing,shorts

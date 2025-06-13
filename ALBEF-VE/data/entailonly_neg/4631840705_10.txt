@@ -1,0 +1,4 @@
+there is not a man ||contradiction
+there is not a wall ||contradiction
+the wall is not rock ||contradiction
+the man is not climbing the wall ||contradiction

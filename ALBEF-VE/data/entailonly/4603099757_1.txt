@@ -1,0 +1,3 @@
+there are women ||entailment
+the women are squinting ||entailment
+the women are squinting ||entailment

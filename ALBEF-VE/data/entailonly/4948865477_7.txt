@@ -1,0 +1,2 @@
+there is a man ||entailment
+there is a couch ||contradiction

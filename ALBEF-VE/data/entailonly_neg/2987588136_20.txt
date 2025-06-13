@@ -1,0 +1,3 @@
+there are not women ||contradiction
+there is not a street ||contradiction
+the women are not standing next to the street ||entailment

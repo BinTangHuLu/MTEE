@@ -1,0 +1,3 @@
+there are not people ||contradiction
+there is not grass ||entailment
+the people were not on grass ||entailment

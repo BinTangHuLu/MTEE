@@ -1,0 +1,3 @@
+There is not a person. ||Contradiction
+There is not an apparel. ||Contradiction
+The person is not in apparel. ||Entailment

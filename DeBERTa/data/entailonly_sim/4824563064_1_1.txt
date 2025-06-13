@@ -1,0 +1,3 @@
+There are community. ||entailment
+There is a agreeable. ||neutral
+The community are playing the game. ||neutral

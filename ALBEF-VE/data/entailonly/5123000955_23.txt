@@ -1,0 +1,5 @@
+there are children ||entailment
+there are coats ||neutral
+the coats are of all colors ||neutral
+the children are wearing coats ||neutral
+the children are jumping in the air ||entailment

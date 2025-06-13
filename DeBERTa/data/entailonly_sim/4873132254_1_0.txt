@@ -1,0 +1,5 @@
+There is a baby. ||entailment
+There is a account. ||entailment
+There is a child. ||entailment
+The baby draws a picture. ||entailment
+The account is of a girl. ||entailment

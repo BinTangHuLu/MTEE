@@ -1,0 +1,2 @@
+EA,hat,wearing
+A,food

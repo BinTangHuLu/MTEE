@@ -1,0 +1,5 @@
+there are crowds ||entailment
+there is a man ||entailment
+there are floors ||entailment
+the crowds have left the man ||contradiction
+the man has to sweep the floors ||neutral

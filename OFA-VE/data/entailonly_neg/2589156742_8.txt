@@ -1,0 +1,3 @@
+There is not a man. ||Contradiction
+There is not a cup. ||Contradiction
+The man is not drinking out of the cup. ||Entailment

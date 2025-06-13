@@ -1,0 +1,5 @@
+There is a person. ||entailment
+There is some clothing. ||entailment
+The clothing is very formal colorful. ||entailment
+The person is wearing clothing. ||entailment
+The person seems to be dancing. ||entailment

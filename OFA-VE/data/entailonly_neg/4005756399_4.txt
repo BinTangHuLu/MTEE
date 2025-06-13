@@ -1,0 +1,7 @@
+There is not someone. ||Contradiction
+There are not kids. ||Contradiction
+There are not goods. ||Contradiction
+There is not a street. ||Contradiction
+Someone is not selling kids. ||Entailment
+Someone is not selling goods. ||Contradiction
+Someone does not stand on the street. ||Entailment

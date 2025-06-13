@@ -1,0 +1,5 @@
+There is not a person. ||Contradiction
+There is not a bike. ||Contradiction
+There is not a pavement. ||Entailment
+The person is not riding the bike. ||Entailment
+The bike is not on the pavement. ||Entailment

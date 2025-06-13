@@ -1,0 +1,4 @@
+there is a dude ||entailment
+there is a block ||contradiction
+the block has balance ||entailment
+the dude is about to use the bar ||entailment

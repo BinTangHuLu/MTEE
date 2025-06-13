@@ -1,0 +1,3 @@
+There is not a gentleman. ||contradiction
+There is not a lady. ||contradiction
+The gentleman is not speaking to the lady. ||contradiction

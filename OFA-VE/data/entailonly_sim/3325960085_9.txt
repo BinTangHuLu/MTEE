@@ -1,0 +1,5 @@
+There is a circle. ||Entailment
+There are some community. ||Entailment
+The circle is of people. ||Entailment
+The circle is seated. ||Entailment
+The circle are seated. ||Entailment

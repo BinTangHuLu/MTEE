@@ -1,0 +1,2 @@
+There is not merchandise. ||Contradiction
+The merchandise is not for sale. ||Contradiction

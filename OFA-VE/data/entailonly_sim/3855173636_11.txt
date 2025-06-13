@@ -1,0 +1,4 @@
+There is a dude. ||Entailment
+There is some effort. ||Entailment
+The dude does work. ||Entailment
+The effort is on the dune buggy. ||Entailment

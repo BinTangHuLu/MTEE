@@ -1,0 +1,3 @@
+There is not a child. ||Contradiction
+There is not a cake. ||Contradiction
+The child does not have cake. ||Contradiction

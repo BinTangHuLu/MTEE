@@ -1,0 +1,4 @@
+there is something ||entailment
+there is a structure ||entailment
+something stands in front of the structure ||entailment
+something is positioned in front of something ||entailment

@@ -1,0 +1,6 @@
+there are men ||entailment
+there is clothing ||entailment
+there is a hill ||entailment
+the clothing is winter ||entailment
+the men are in clothing ||entailment
+the men are by the hill ||entailment

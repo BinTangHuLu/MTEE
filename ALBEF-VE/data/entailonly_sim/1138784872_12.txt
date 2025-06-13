@@ -1,0 +1,4 @@
+there is a child ||entailment
+the child is small ||entailment
+the child walks down the side ||entailment
+there is a artery ||entailment

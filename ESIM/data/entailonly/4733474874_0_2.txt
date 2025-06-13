@@ -1,0 +1,2 @@
+There is a vehicle. ||entailment
+The vehicle is open top. ||entailment

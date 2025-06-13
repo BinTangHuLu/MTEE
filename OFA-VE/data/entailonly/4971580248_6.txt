@@ -1,0 +1,4 @@
+There is a woman. ||Entailment
+The woman is dressed in black. ||Entailment
+There is a black. ||Entailment
+There is outdoors. ||Entailment

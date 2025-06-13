@@ -1,0 +1,4 @@
+There is a dude. ||entailment
+There is an sea. ||entailment
+The dude is windsurfing. ||entailment
+The dude is on the ocean. ||entailment

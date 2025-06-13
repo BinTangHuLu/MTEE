@@ -1,0 +1,3 @@
+there is a man ||entailment
+there is a bush ||entailment
+the man admires the bush ||neutral

@@ -1,0 +1,5 @@
+There is a boy. ||entailment
+The boy is orange. ||neutral
+There is a bike. ||entailment
+The bike is dirt. ||entailment
+The boy rides the bike. ||entailment

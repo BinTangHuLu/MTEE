@@ -1,0 +1,3 @@
+There is a man. ||entailment
+There is a cart. ||entailment
+The man has a cart. ||entailment

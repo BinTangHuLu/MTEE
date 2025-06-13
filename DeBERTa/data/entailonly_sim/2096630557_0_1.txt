@@ -1,0 +1,3 @@
+There is a arbiter. ||entailment
+There is a blare. ||neutral
+The arbiter blows the whistle. ||entailment

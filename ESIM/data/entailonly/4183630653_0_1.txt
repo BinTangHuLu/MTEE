@@ -1,0 +1,5 @@
+There is a woman. ||entailment
+There is a wrap. ||entailment
+The wrap is striped. ||entailment
+The woman is wearing the wrap. ||entailment
+The woman is looking at the camera. ||entailment

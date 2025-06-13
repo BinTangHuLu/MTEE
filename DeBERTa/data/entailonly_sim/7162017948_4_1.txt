@@ -1,0 +1,5 @@
+There is bread. ||neutral
+There is a dude. ||entailment
+There is a female. ||entailment
+The bread is being cut by the man. ||neutral
+The bread is being cut by the woman. ||neutral

@@ -1,0 +1,6 @@
+There is not a man. ||contradiction
+There are not some boxes. ||contradiction
+There is not a dumpster. ||contradiction
+The man does not stand. ||contradiction
+The boxes are not near the dumpster. ||contradiction
+The man does not stand by the boxes. ||contradiction

@@ -1,0 +1,5 @@
+There is not a boy. ||Entailment
+There is not a bike. ||Contradiction
+There are not some tricks. ||Entailment
+The boy does not do bike. ||Contradiction
+The boy does not do tricks. ||Contradiction

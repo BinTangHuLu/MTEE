@@ -1,0 +1,5 @@
+there is a baby ||entailment
+there is a fedora ||contradiction
+the fedora is red ||neutral
+the baby is in the hat ||contradiction
+the baby sits on the skateboard ||contradiction

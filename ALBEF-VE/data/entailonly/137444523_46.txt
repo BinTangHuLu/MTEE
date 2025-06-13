@@ -1,0 +1,3 @@
+there is a man ||entailment
+there is a subway ||entailment
+the man is waiting for the subway ||neutral

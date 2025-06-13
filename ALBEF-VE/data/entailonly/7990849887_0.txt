@@ -1,0 +1,4 @@
+there is an audience ||entailment
+there is a performance ||entailment
+the performance is musical ||entailment
+the audience is watching the performance ||entailment

@@ -1,0 +1,5 @@
+There are not women. ||contradiction
+There are not Four women. ||contradiction
+The women are not enjoying. ||neutral
+The women are not rollerskating. ||contradiction
+The women are not enjoying rollerskating. ||contradiction

@@ -1,0 +1,4 @@
+There are not people. ||Contradiction
+There is not grass. ||Entailment
+The people are not younger. ||Entailment
+The people are not outside on grass. ||Entailment

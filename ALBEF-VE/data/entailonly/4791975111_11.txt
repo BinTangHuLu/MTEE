@@ -1,0 +1,5 @@
+there is a man ||entailment
+there is a bike ||entailment
+there are women ||entailment
+the man is outside on the bike ||entailment
+the man is staring at women ||entailment

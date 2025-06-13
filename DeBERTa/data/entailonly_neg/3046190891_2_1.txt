@@ -1,0 +1,4 @@
+There is not a man. ||contradiction
+There is not a surf. ||contradiction
+The man is not daring. ||contradiction
+The man is not in surf. ||contradiction

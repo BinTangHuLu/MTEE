@@ -1,0 +1,4 @@
+There are dogs. ||entailment
+There is a yard. ||entailment
+The dogs are Two. ||entailment
+The dogs are standing in yard. ||entailment

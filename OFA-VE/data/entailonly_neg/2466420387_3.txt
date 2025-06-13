@@ -1,0 +1,2 @@
+There are not girls. ||Contradiction
+The girls are not leaning. ||Entailment

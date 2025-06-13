@@ -1,0 +1,3 @@
+there is a person ||entailment
+there is a tent ||entailment
+the person peeks out from the tent ||entailment

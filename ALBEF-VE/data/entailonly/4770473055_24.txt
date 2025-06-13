@@ -1,0 +1,3 @@
+there is a bass drummer ||neutral
+there is a formation ||entailment
+the bass drummer is in the formation ||neutral

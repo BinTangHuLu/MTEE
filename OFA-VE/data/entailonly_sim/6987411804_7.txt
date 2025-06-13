@@ -1,0 +1,4 @@
+There are adolescent. ||Entailment
+There are apparel. ||Entailment
+The apparel are cheerleading. ||Entailment
+The adolescent are wearing outfits. ||Entailment

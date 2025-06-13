@@ -1,0 +1,3 @@
+there are not workers ||contradiction
+there are not tools ||contradiction
+the workers do not grab the tools ||contradiction

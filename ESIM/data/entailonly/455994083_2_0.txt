@@ -1,0 +1,5 @@
+There is a male. ||entailment
+There is a device. ||entailment
+The male is male. ||entailment
+The device is near his mouth. ||entailment
+The male has a device. ||entailment

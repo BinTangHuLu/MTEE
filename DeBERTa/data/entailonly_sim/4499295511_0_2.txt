@@ -1,0 +1,3 @@
+There are community. ||entailment
+There is a depot. ||entailment
+community wait at station. ||entailment

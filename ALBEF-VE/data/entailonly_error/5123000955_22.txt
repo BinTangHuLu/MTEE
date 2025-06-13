@@ -1,0 +1,2 @@
+EA,coats,all the colors
+RE2,wearing,coats

@@ -1,0 +1,4 @@
+there is a kid ||entailment
+there is a gamecube ||entailment
+the kid is little ||entailment
+the kid is playing gamecube ||entailment

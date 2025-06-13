@@ -1,0 +1,4 @@
+there are not children ||contradiction
+there are not games ||contradiction
+the games are not childish ||entailment
+the children are not playing games ||contradiction

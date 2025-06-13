@@ -1,0 +1,5 @@
+There is a group. ||entailment
+There are people. ||entailment
+There is a square. ||entailment
+The group is of. ||neutral
+The group walks in square. ||entailment

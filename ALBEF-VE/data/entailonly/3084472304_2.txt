@@ -1,0 +1,3 @@
+there are workers ||entailment
+there is machinery ||entailment
+the workers are unloading machinery ||entailment

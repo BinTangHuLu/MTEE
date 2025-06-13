@@ -1,0 +1,4 @@
+there is a man ||entailment
+there is a woman ||entailment
+there are some toys ||entailment
+the man is playing with the woman ||entailment

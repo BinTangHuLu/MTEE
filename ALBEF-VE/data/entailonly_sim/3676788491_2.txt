@@ -1,0 +1,4 @@
+there is a dude ||entailment
+there is a architecture ||entailment
+the architecture is yellow ||entailment
+the dude is standing in front of the building ||entailment

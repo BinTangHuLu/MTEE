@@ -1,0 +1,4 @@
+there are community ||entailment
+there is a bank ||entailment
+there is bling cream ||neutral
+the community are outside the store ||entailment

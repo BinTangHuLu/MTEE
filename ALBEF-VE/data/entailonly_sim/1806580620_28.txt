@@ -1,0 +1,9 @@
+there is a animal ||entailment
+there are some specs ||entailment
+there is a control ||entailment
+there is an definition ||entailment
+there is a air ||entailment
+the specs are wearing ||neutral
+the definition is on face ||entailment
+the human character in direction ||entailment
+the animal is with expression ||entailment

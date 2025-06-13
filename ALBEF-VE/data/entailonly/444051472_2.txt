@@ -1,0 +1,8 @@
+there is a man ||entailment
+there are some glasses ||entailment
+there is a book ||entailment
+there is a bench ||entailment
+the glasses are wearing ||entailment
+the book is outdoor ||entailment
+the man reads the book ||neutral
+the book is on the bench ||entailment

@@ -1,0 +1,5 @@
+there is not a cameraman ||contradiction
+there are not women ||contradiction
+there is not a crowd ||contradiction
+the cameraman is not filming women ||entailment
+the women are not walking through the crowd ||contradiction

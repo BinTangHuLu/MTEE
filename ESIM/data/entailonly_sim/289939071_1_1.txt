@@ -1,0 +1,4 @@
+There are community. ||neutral
+There is a bit. ||entailment
+The community are Two. ||neutral
+The community are having moment. ||neutral

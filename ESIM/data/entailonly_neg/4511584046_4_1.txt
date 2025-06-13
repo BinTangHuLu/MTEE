@@ -1,0 +1,4 @@
+There is not a woman. ||contradiction
+The woman is hernot . ||entailment
+The woman is not hair. ||contradiction
+The woman does not fix hair. ||contradiction

@@ -1,0 +1,4 @@
+there is not a girl ||contradiction
+there is not grass ||contradiction
+the girl is not running ||contradiction
+the girl is not on grass ||entailment

@@ -1,0 +1,5 @@
+There is a dude. ||Entailment
+There is a apparel. ||Entailment
+There is a colt. ||Entailment
+The apparel is military. ||Entailment
+The dude is riding the horse. ||Entailment

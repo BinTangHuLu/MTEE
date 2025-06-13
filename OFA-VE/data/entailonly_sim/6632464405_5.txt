@@ -1,0 +1,4 @@
+There is a achievement. ||Entailment
+There is some melody. ||Neutral
+The achievement is underway. ||Neutral
+The achievement is underway by music. ||Entailment

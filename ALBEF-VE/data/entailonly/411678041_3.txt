@@ -1,0 +1,5 @@
+there is a man ||entailment
+there is a horse ||entailment
+there is a street ||entailment
+the man is riding the horse ||entailment
+the horse is in the street ||entailment

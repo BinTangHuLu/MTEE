@@ -1,0 +1,3 @@
+There is a dude. ||Entailment
+There is a camcorder. ||Entailment
+The dude is smiling for camera. ||Entailment

@@ -1,0 +1,9 @@
+there are female ||entailment
+the female are with bicycles ||entailment
+there is a knapsack ||entailment
+the knapsack is red ||contradiction
+the female is wearing a backpack ||entailment
+there is a armor ||entailment
+the armor is black ||contradiction
+the female has a helmet ||entailment
+the female has a sweatshirt ||entailment

@@ -1,0 +1,5 @@
+There are dude. ||entailment
+The dude are young. ||entailment
+The dude are looking up at hoop. ||entailment
+There is a basket. ||entailment
+There is a ball. ||entailment

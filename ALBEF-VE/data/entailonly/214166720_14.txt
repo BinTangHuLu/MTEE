@@ -1,0 +1,5 @@
+there is a man ||entailment
+there is an animal ||entailment
+there is a child ||entailment
+the man is giving the animal ||entailment
+the animal is to the child ||entailment

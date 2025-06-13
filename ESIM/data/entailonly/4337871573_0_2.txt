@@ -1,0 +1,5 @@
+There is a man. ||entailment
+There is a truck. ||entailment
+There is a gas station. ||entailment
+The man is sitting on the truck. ||entailment
+The truck is at the gas station. ||entailment

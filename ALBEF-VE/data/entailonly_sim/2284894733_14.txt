@@ -1,0 +1,5 @@
+there is a pup ||entailment
+there are some community ||entailment
+there is a lap ||entailment
+the pup is with people ||neutral
+the community are on stage ||contradiction

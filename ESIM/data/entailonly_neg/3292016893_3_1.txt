@@ -1,0 +1,4 @@
+There are not dogs. ||contradiction
+There is not a piece. ||contradiction
+The piece is not fabric. ||contradiction
+The dogs are not fighting over the piece. ||contradiction

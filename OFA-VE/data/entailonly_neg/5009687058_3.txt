@@ -1,0 +1,4 @@
+There are not players. ||Contradiction
+There is not a football. ||Contradiction
+The players are not opposing. ||Entailment
+Players do not tackle players. ||Contradiction

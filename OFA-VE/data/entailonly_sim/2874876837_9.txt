@@ -1,0 +1,4 @@
+There is a baby. ||Entailment
+There is a blouse. ||Entailment
+The blouse is long sleeved. ||Neutral
+The baby is wearing a shirt. ||Entailment

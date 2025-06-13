@@ -1,0 +1,3 @@
+there is a dude ||entailment
+there is a dredge ||entailment
+the dude clutches the shovel ||entailment

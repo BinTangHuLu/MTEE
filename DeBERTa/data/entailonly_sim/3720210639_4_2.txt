@@ -1,0 +1,3 @@
+There is a child. ||entailment
+There is a bike. ||entailment
+The child is airborne on the bicycle. ||entailment

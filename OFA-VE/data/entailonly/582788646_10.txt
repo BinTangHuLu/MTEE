@@ -1,0 +1,3 @@
+There is a child. ||Entailment
+There is a beach. ||Entailment
+The child is at the beach. ||Entailment

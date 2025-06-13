@@ -1,0 +1,4 @@
+There are not people. ||Contradiction
+There are not boats. ||Contradiction
+The people are not boarding boats. ||Entailment
+The people are not disembarking boats. ||Entailment

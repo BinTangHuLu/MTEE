@@ -1,0 +1,3 @@
+There is not a kid. ||contradiction
+There is not a swing. ||contradiction
+The kid is not on the swing. ||contradiction

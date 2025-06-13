@@ -1,0 +1,2 @@
+There is a mom. ||entailment
+The Puppies are next to the mom. ||entailment

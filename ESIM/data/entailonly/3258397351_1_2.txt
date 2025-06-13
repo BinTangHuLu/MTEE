@@ -1,0 +1,6 @@
+There is a group. ||entailment
+There are some people. ||entailment
+There is a boy. ||entailment
+There is an interviewer. ||entailment
+The group is watching the boy. ||entailment
+The group is watching the interviewer. ||entailment

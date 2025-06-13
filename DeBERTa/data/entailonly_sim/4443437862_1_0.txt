@@ -1,0 +1,6 @@
+There is a body. ||entailment
+There is a backpack. ||neutral
+There is a child. ||entailment
+The body is carrying. ||entailment
+The backpack is with a girl behind her. ||neutral
+The body is carrying a bag. ||entailment

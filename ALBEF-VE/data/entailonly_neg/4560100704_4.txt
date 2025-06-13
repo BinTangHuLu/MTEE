@@ -1,0 +1,2 @@
+there are not folks ||contradiction
+the folks are not stationary ||entailment

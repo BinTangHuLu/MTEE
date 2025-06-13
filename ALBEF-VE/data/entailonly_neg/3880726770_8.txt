@@ -1,0 +1,5 @@
+there is not a lady ||contradiction
+there is not some hay ||contradiction
+there is not some grain ||contradiction
+the lady does not sit by hay ||contradiction
+the lady does not sit by grain ||contradiction

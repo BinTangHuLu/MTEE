@@ -1,0 +1,4 @@
+there are women ||entailment
+there are workers ||entailment
+there is water ||entailment
+the worker is near women ||entailment

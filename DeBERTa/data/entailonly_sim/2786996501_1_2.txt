@@ -1,0 +1,7 @@
+There are adolescent. ||entailment
+The adolescent are Two. ||entailment
+The adolescent smile. ||entailment
+The adolescent are wearing sunglasses. ||entailment
+The adolescent have sunglasses. ||entailment
+The adolescent smile. ||entailment
+The adolescent are wearing sunglasses. ||entailment

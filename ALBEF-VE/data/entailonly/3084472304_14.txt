@@ -1,0 +1,3 @@
+there are workers ||entailment
+there are vests ||entailment
+the workers are wearing vests ||entailment

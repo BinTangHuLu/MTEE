@@ -1,0 +1,4 @@
+there are kids ||entailment
+there is gear ||entailment
+the gear is safety ||neutral
+the kids are wearing gear ||entailment

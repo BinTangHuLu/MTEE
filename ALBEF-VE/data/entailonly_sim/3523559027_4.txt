@@ -1,0 +1,4 @@
+there is a arrangement ||entailment
+there is a farmland ||entailment
+they are in arrangement ||neutral
+they are in farmland ||neutral

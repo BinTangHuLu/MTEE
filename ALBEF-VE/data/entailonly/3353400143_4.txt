@@ -1,0 +1,3 @@
+there is a motorcycle ||entailment
+the motorcycle is yellow ||entailment
+the motorcycle is speeding ||entailment

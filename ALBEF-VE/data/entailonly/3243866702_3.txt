@@ -1,0 +1,5 @@
+there are children ||entailment
+there is a turtle ||entailment
+there is a beach ||entailment
+the children play with the turtle ||entailment
+the turtle is at the beach ||neutral

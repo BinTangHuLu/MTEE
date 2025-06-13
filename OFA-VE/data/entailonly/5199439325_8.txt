@@ -1,0 +1,2 @@
+There is a student. ||Entailment
+The student is painting. ||Entailment

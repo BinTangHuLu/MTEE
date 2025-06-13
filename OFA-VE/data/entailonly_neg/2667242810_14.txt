@@ -1,0 +1,4 @@
+There are not people. ||Contradiction
+There is not a table. ||Entailment
+The people are not total. ||Entailment
+The people are not near the table. ||Entailment

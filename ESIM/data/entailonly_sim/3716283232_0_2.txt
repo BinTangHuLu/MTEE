@@ -1,0 +1,5 @@
+There are dude. ||entailment
+There is a mannerism. ||entailment
+The dude are sharply dressed. ||entailment
+The dude strike a pose. ||neutral
+The dude are standing in front of logos. ||entailment

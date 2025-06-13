@@ -1,0 +1,4 @@
+There are people. ||entailment
+There is a chorus. ||entailment
+The people are part of the chorus. ||neutral
+The people are performing. ||entailment

@@ -1,0 +1,4 @@
+there is a human ||entailment
+the human is young ||neutral
+the human is wearing red ||entailment
+the human is walking outdoors ||entailment

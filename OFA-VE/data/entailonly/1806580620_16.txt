@@ -1,0 +1,4 @@
+There is a girl. ||Entailment
+There is a picture. ||Entailment
+The girl is smiling. ||Entailment
+The girl is in the picture. ||Entailment

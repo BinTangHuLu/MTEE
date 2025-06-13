@@ -1,0 +1,3 @@
+there is a man ||entailment
+there is a city ||entailment
+the man is in the city ||entailment

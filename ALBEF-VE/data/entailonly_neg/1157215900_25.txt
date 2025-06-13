@@ -1,0 +1,7 @@
+there is not a woman ||contradiction
+there is not a hat ||contradiction
+there are not baskets ||contradiction
+there is not bread ||contradiction
+the woman is not in a hat ||contradiction
+the baskets are not of bread ||contradiction
+the woman is not standing behind the baskets ||entailment

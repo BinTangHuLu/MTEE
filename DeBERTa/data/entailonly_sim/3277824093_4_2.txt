@@ -1,0 +1,2 @@
+There is a earth. ||entailment
+The skateboarder is near the earth. ||entailment

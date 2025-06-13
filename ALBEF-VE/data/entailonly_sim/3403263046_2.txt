@@ -1,0 +1,3 @@
+there is a athlete ||entailment
+there is a box ||entailment
+the athlete is looking at the basket ||entailment

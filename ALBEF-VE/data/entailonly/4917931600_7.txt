@@ -1,0 +1,3 @@
+there is a man ||entailment
+there is a side walk ||neutral
+the man is on side walk ||entailment

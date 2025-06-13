@@ -1,0 +1,4 @@
+There is a man. ||entailment
+The man is old. ||entailment
+There are threads. ||entailment
+The man is looming threads. ||entailment

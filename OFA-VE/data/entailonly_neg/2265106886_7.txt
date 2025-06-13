@@ -1,0 +1,3 @@
+There is not a lady. ||Entailment
+There are not some veggies. ||Entailment
+The lady is not with veggies. ||Entailment

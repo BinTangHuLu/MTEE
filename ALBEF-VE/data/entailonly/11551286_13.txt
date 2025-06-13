@@ -1,0 +1,2 @@
+there is an infant ||entailment
+the infant is crying ||contradiction

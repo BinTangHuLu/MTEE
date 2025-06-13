@@ -1,0 +1,6 @@
+There is not a Child. ||Contradiction
+There is not a helmet. ||Contradiction
+There is not a cow. ||Entailment
+There is not a vest. ||Entailment
+The helmet is not viking. ||Entailment
+The vest is not cow. ||Contradiction

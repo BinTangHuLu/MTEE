@@ -1,0 +1,7 @@
+There is not a car. ||contradiction
+There are not pedestrians. ||contradiction
+There is not a road. ||contradiction
+The car is not straight. ||entailment
+The car is not proceeding pedestrians. ||entailment
+The pedestrians did not walk across the road. ||contradiction
+The road is not in back of the car. ||entailment

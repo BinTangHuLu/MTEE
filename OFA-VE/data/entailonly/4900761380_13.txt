@@ -1,0 +1,4 @@
+There are men. ||Entailment
+There is a stand. ||Entailment
+There is a fruit. ||Entailment
+The men are near the stand. ||Entailment

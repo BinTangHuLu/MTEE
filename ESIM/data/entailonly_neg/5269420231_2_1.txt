@@ -1,0 +1,4 @@
+There is not a girl. ||contradiction
+The girl is not young. ||contradiction
+The girl is not in the middle of jumping. ||entailment
+The girl is not in the middle of a dance routine. ||contradiction

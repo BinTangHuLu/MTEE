@@ -1,0 +1,4 @@
+There is a body. ||entailment
+There is a architecture. ||entailment
+The body is standing. ||entailment
+The body is near the building. ||entailment

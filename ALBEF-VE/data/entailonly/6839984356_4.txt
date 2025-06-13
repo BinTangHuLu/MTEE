@@ -1,0 +1,4 @@
+there is a person ||entailment
+there is a skateboard ||entailment
+the person is asian ||neutral
+the person is holding a skateboard ||entailment

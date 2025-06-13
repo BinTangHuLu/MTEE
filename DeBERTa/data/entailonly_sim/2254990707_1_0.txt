@@ -1,0 +1,4 @@
+There are dude. ||entailment
+There is a auto. ||entailment
+There is blizzard. ||neutral
+The dude are trying to push the car. ||entailment

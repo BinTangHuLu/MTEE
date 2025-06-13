@@ -1,0 +1,3 @@
+there is a man ||entailment
+there are some animals ||entailment
+the man is outdoors with animals ||entailment

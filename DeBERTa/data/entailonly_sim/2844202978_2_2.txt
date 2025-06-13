@@ -1,0 +1,3 @@
+There is a bar. ||contradiction
+There is a gentlewoman. ||neutral
+The bar is next to the lady. ||contradiction

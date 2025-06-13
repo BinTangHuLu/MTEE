@@ -1,0 +1,2 @@
+There is not a guy. ||Entailment
+The guy is not inside. ||Entailment

@@ -1,0 +1,3 @@
+There is not a man. ||Contradiction
+There is not a camera. ||Contradiction
+The man is not smiling for camera. ||Contradiction

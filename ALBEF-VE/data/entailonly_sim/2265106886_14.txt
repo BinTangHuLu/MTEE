@@ -1,0 +1,5 @@
+there are female ||entailment
+there are flora ||entailment
+there is a advertise ||entailment
+the female sell vegetables ||entailment
+the flora are at the market ||entailment

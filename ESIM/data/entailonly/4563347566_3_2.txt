@@ -1,0 +1,4 @@
+There is a man. ||entailment
+The man is Asian. ||entailment
+The man is a performer. ||entailment
+The performer is a man. ||entailment

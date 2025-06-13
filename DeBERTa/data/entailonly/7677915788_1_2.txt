@@ -1,0 +1,3 @@
+There is a soccer player. ||entailment
+There is a goal. ||entailment
+The soccer player scored the goal. ||entailment

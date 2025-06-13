@@ -1,0 +1,3 @@
+there is not a boy ||contradiction
+there are not others ||contradiction
+the boy does not run towards others ||contradiction

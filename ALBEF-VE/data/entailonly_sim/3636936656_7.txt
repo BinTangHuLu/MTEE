@@ -1,0 +1,3 @@
+there is a female ||entailment
+there is a boot ||entailment
+the female is putting on the shoe ||entailment

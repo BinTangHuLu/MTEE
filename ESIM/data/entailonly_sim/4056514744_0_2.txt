@@ -1,0 +1,3 @@
+There are community. ||neutral
+There are two community. ||entailment
+The community are outdoors. ||entailment

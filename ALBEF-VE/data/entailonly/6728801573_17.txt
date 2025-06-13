@@ -1,0 +1,5 @@
+there is a bicycle ||entailment
+there is a shop ||entailment
+there is a worker ||entailment
+the worker is at work ||neutral
+the worker is at the bicycle ||entailment

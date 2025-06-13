@@ -1,0 +1,2 @@
+There is not a cigarette. ||Entailment
+The cigarette is not light. ||Entailment

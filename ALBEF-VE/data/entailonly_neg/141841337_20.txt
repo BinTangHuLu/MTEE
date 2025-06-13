@@ -1,0 +1,4 @@
+there is not a boy ||contradiction
+there is not a leg ||contradiction
+the leg does not need some assistance ||entailment
+the boy does not stretch out leg ||contradiction

@@ -1,0 +1,3 @@
+there are not men ||contradiction
+there is not a rugby ||contradiction
+the men are not playing rugby ||contradiction

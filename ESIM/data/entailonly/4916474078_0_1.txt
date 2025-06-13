@@ -1,0 +1,6 @@
+There is a woman. ||entailment
+There is a tunnel. ||entailment
+There is a hallway. ||entailment
+The woman is darkened. ||entailment
+The woman is in the tunnel. ||entailment
+The woman is in the hallway. ||entailment

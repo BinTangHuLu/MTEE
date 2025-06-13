@@ -1,0 +1,4 @@
+there is a man ||entailment
+there is a car ||entailment
+the man is old ||neutral
+the man is fixing the car ||entailment

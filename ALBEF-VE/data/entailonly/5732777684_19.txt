@@ -1,0 +1,3 @@
+there are children ||entailment
+there are wires ||entailment
+the children are playing with wires ||entailment

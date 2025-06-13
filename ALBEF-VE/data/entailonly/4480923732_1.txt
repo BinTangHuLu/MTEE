@@ -1,0 +1,2 @@
+there is a jacket ||entailment
+the jacket is green ||entailment

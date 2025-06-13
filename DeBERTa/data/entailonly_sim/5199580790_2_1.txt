@@ -1,0 +1,7 @@
+There are community. ||entailment
+There is a barge. ||neutral
+There is a apartment. ||contradiction
+The apartment is more than one. ||contradiction
+The community put something in the boat. ||neutral
+The community put something in the place. ||neutral
+The barge is in the place. ||neutral

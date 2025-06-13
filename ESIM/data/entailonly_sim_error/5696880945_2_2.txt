@@ -1,0 +1,2 @@
+EA,people,clothes on
+E1RE2,people,in,water

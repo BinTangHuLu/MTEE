@@ -1,0 +1,3 @@
+There is an cosmonaut. ||entailment
+The cosmonaut is training. ||entailment
+The cosmonaut is underwater. ||entailment

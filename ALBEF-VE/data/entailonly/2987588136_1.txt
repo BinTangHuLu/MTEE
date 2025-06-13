@@ -1,0 +1,3 @@
+there is an suv ||entailment
+there are women ||entailment
+the women are asian ||neutral

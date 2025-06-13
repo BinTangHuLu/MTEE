@@ -1,0 +1,5 @@
+There is a dog. ||entailment
+The dog is big. ||entailment
+The dog is brown. ||entailment
+The dog is tiny. ||contradiction
+The dog is standing in a field. ||entailment

@@ -1,0 +1,2 @@
+There are girl. ||Entailment
+The girl embrace females. ||Entailment

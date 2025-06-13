@@ -1,0 +1,5 @@
+there is a female ||entailment
+there is a blouse ||entailment
+there is a cram ||entailment
+the blouse is blue ||entailment
+the female stares at the ram ||entailment

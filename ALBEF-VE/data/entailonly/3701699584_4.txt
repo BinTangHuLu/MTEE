@@ -1,0 +1,3 @@
+there is a player ||entailment
+there is some air ||entailment
+the player is in air ||entailment

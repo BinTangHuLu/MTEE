@@ -1,0 +1,8 @@
+there are men ||entailment
+there is an item ||entailment
+there are veggies ||entailment
+there is a man ||entailment
+the veggies are fresh ||neutral
+the men trade an item ||entailment
+the item is over veggies ||entailment
+the men are speaking to the man ||entailment

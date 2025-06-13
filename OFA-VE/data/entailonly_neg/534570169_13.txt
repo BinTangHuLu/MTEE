@@ -1,0 +1,3 @@
+There is not a shot. ||Contradiction
+There is not someone. ||Contradiction
+The someone is not dressed relatively fancily. ||Entailment

@@ -1,0 +1,4 @@
+there is a dude ||entailment
+there is some backdrop ||entailment
+the backdrop is a mountain ||entailment
+the dude is enjoying the scenery ||entailment

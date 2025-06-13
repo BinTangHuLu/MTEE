@@ -1,0 +1,4 @@
+There are not People. ||Contradiction
+There are not bikes. ||Entailment
+The bikes are not parked. ||Entailment
+People do not walk by bikes. ||Entailment

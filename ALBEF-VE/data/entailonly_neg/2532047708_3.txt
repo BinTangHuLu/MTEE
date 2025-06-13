@@ -1,0 +1,5 @@
+there are not men ||contradiction
+there is not a banjo ||contradiction
+there is not a violin ||contradiction
+the men do not play the banjo ||contradiction
+the men do not play the violin ||contradiction

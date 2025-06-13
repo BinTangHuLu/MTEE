@@ -1,0 +1,15 @@
+There is not a man. ||Contradiction
+There is not a shirt. ||Contradiction
+There is not a jack knife. ||Contradiction
+There is not a woman. ||Contradiction
+There is not a cake. ||Contradiction
+There is not another man. ||Contradiction
+The shirt is not blue. ||Entailment
+The man is not holding. ||Contradiction
+The woman is not in front of. ||Contradiction
+The cake is not creamy chocolate. ||Entailment
+The man is not of the same type. ||Contradiction
+The man is not in the shirt. ||Contradiction
+The man is not holding the jack knife. ||Contradiction
+The man is not standing in front of the cake. ||Contradiction
+The man is not standing behind the other man. ||Entailment

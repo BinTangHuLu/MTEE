@@ -1,0 +1,6 @@
+there are child ||entailment
+there are attire ||entailment
+there is a farmland ||entailment
+the attire are red and white striped ||entailment
+the child are in uniforms ||entailment
+the child are standing in the field ||entailment

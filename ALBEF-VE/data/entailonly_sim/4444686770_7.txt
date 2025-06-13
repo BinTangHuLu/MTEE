@@ -1,0 +1,4 @@
+there are community ||entailment
+there is apparatus ||entailment
+the community are using equipment ||entailment
+the apparatus is used to catch fish ||entailment

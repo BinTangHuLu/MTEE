@@ -1,0 +1,3 @@
+there is a attempt ||entailment
+there is a soccer ||contradiction
+the someone is holding the soccer ||contradiction

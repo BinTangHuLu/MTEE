@@ -1,0 +1,4 @@
+there is a choras ||entailment
+there is a band ||entailment
+there is an instrument ||entailment
+the band rehearses choras ||neutral

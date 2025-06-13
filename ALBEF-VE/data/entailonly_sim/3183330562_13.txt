@@ -1,0 +1,6 @@
+the clothing is summertime ||neutral
+there is a dude ||entailment
+the dude is young ||entailment
+there is a aisle ||entailment
+kids follow the dude ||entailment
+the dude is down the path ||neutral

@@ -1,0 +1,5 @@
+There is not a boy. ||contradiction
+The boy is not orange. ||contradiction
+There is not a bike. ||contradiction
+The bike is not dirt. ||contradiction
+The boy does not ride the bike. ||contradiction

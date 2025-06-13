@@ -1,0 +1,3 @@
+there are not people ||contradiction
+there is not a bridge ||contradiction
+the people are not crossing the bridge ||contradiction

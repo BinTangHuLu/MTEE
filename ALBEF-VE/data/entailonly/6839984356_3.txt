@@ -1,0 +1,4 @@
+there is a youth ||entailment
+there is a skateboard trick ||entailment
+the youth is asian ||neutral
+the youth is doing skateboard trick ||entailment

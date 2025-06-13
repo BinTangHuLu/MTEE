@@ -1,0 +1,8 @@
+there is a girl ||entailment
+there is some hair ||entailment
+there are some shoes ||entailment
+the hair is weird blue ||neutral
+the hair is blue ||contradiction
+the shoes are big ||neutral
+the girl has weird blue hair ||entailment
+the girl has big shoes ||neutral

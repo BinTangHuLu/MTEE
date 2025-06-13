@@ -1,0 +1,5 @@
+There are workers. ||Entailment
+There is a boat. ||Entailment
+There is water. ||Entailment
+The workers are in the boat. ||Entailment
+The boat is on water. ||Entailment

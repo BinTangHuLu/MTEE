@@ -1,0 +1,3 @@
+there is a man ||entailment
+there is a bathroom ||entailment
+the man is in the bathroom ||entailment

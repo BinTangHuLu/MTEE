@@ -1,0 +1,6 @@
+There is a group. ||entailment
+There are some people. ||entailment
+There is something. ||entailment
+There is a picture. ||entailment
+The group is watching something. ||entailment
+The group takes a picture of one. ||entailment

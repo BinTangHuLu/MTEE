@@ -1,0 +1,5 @@
+there are not people ||contradiction
+there is not a porch ||contradiction
+there is not a dog ||contradiction
+the people are not on the porch ||contradiction
+one is not petting the dog ||entailment

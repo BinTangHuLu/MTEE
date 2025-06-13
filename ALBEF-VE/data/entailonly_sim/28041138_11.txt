@@ -1,0 +1,7 @@
+there is a dude ||entailment
+there is a dark ||entailment
+the dude is wearing ||entailment
+the dude is singing into ||neutral
+the dude is playing ||entailment
+the dude is singing into microphone ||entailment
+the dude is playing bass ||entailment

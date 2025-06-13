@@ -1,0 +1,7 @@
+there is a dude ||entailment
+there is a beat ||entailment
+there are mitt ||entailment
+there is lumber ||entailment
+there is a blade ||entailment
+the dude carves wood ||entailment
+the lumber is carved with a chisel ||neutral

@@ -1,0 +1,4 @@
+There are players. ||Entailment
+There is hockey. ||Entailment
+The players are hugging. ||Entailment
+The players are hugging players. ||Entailment

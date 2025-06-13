@@ -1,0 +1,5 @@
+there is a aristocrat ||entailment
+there is some melody ||entailment
+the aristocrat is bearded ||entailment
+the aristocrat creates music ||neutral
+the aristocrat is with guitar ||entailment

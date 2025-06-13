@@ -1,0 +1,3 @@
+There is a pup. ||Entailment
+There is a data processor. ||Entailment
+The pup is sitting in front of the computer. ||Entailment

@@ -1,0 +1,4 @@
+there is a child ||entailment
+there is a chamber ||entailment
+the child reads another ||entailment
+another is in the chamber ||neutral

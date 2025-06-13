@@ -1,0 +1,4 @@
+There is a earth. ||Contradiction
+There are community. ||Entailment
+The earth is big. ||Contradiction
+The community are climbing the rock. ||Neutral

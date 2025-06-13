@@ -1,0 +1,2 @@
+There is a teenager. ||entailment
+The teenager is seated. ||entailment

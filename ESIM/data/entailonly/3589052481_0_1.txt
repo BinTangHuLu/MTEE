@@ -1,0 +1,7 @@
+There is a man. ||entailment
+There is a camera. ||entailment
+There is a photo. ||entailment
+There is an arm. ||entailment
+There is a lady. ||entailment
+The man is looking at the camera. ||entailment
+The arm is around the lady. ||entailment

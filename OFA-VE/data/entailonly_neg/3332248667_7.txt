@@ -1,0 +1,4 @@
+There are not Guys. ||Entailment
+There are not gal. ||Entailment
+The gal is awake. ||Entailment
+Guys are standing while gal. ||Contradiction

@@ -1,0 +1,5 @@
+There are clan. ||contradiction
+There is a drink art display. ||entailment
+The clan are Three. ||neutral
+The drink art display is illuminated. ||entailment
+The clan are interacting with the water art display. ||neutral

@@ -1,0 +1,4 @@
+There are community. ||neutral
+There are dude. ||entailment
+The dude are kilts. ||entailment
+The community watch the men. ||neutral

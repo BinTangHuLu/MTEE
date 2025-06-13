@@ -1,0 +1,4 @@
+There is not a person. ||Contradiction
+There is not clothing. ||Contradiction
+The person is not wearing clothing. ||Entailment
+The person is not outside. ||Entailment

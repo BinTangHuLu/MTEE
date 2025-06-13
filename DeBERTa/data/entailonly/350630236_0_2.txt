@@ -1,0 +1,5 @@
+There are men. ||entailment
+There is a day. ||entailment
+There is work. ||entailment
+The men are finishing the day. ||entailment
+The men are finishing the work. ||entailment

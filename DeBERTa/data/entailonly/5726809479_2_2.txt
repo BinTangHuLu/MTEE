@@ -1,0 +1,5 @@
+There is a woman. ||entailment
+The woman has small cutting utensils. ||entailment
+There is a net. ||entailment
+The net is large. ||entailment
+The woman is using the net. ||entailment

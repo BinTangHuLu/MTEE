@@ -1,0 +1,4 @@
+There is not a man. ||contradiction
+There is not some hair. ||contradiction
+The man does not have hair. ||contradiction
+The hair is not on his face. ||entailment

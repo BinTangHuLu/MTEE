@@ -1,0 +1,7 @@
+There is not an employee. ||contradiction
+There is not a construction. ||contradiction
+There is not a road. ||contradiction
+The employee is not in the city. ||contradiction
+The road is not public. ||contradiction
+The employee does not inspect construction. ||contradiction
+The employee does not inspect the road. ||contradiction

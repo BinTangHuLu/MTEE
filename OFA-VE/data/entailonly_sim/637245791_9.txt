@@ -1,0 +1,5 @@
+There is a baby. ||Entailment
+There is a basement. ||Contradiction
+There is a doll. ||Contradiction
+The baby plays on the floor. ||Entailment
+The baby plays with the toy. ||Entailment

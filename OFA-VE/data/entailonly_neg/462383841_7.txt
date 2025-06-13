@@ -1,0 +1,5 @@
+There is not a woman. ||Contradiction
+There is not an ocean. ||Entailment
+There is not a beach. ||Contradiction
+The woman is not at the ocean. ||Entailment
+The ocean is not at the beach. ||Contradiction

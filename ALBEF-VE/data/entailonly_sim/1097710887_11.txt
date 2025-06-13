@@ -1,0 +1,3 @@
+there is a farmland ||neutral
+the farmland is grassy ||neutral
+the farmland is springtime ||neutral

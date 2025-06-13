@@ -1,0 +1,3 @@
+there is a kid ||entailment
+there is a skate park ||entailment
+the kid skates at the skate park ||entailment

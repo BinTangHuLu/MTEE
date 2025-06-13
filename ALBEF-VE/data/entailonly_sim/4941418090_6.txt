@@ -1,0 +1,4 @@
+there are female ||entailment
+there is a blouse ||entailment
+the blouse is playing music ||entailment
+the female is a shirt ||entailment

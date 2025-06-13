@@ -1,0 +1,2 @@
+There is a girl. ||Entailment
+The girl can't wait to eat. ||Entailment

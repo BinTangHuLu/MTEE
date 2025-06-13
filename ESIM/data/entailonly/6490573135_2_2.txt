@@ -1,0 +1,5 @@
+There is a photographer. ||entailment
+There are x-rays. ||neutral
+There is a hockey game. ||entailment
+The photographer is taking x-rays. ||neutral
+The photographer is taking the hockey game. ||entailment

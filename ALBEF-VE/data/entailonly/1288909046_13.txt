@@ -1,0 +1,6 @@
+there is a dog ||entailment
+there is a toy ||entailment
+there is a pool ||entailment
+the toy is orange ||entailment
+the dog is getting the toy ||entailment
+the toy is from the pool ||neutral

@@ -1,0 +1,6 @@
+there is a female ||entailment
+there is a championship ||neutral
+there is an airfield ||entailment
+the championship involves riding ||neutral
+the female competes in the competition ||neutral
+the championship has an airport ||neutral

@@ -1,0 +1,3 @@
+There is someone. ||entailment
+There is a couch. ||entailment
+The someone is sleeping on the couch. ||entailment

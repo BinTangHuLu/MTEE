@@ -1,0 +1,6 @@
+there is a child ||entailment
+there are some animal ||entailment
+there is a female ||entailment
+the child is little ||entailment
+the child sits on shoulders ||entailment
+the child is on woman ||entailment

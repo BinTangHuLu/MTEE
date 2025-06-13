@@ -1,0 +1,5 @@
+There are not girls. ||Contradiction
+There are not jerseys. ||Contradiction
+The girls are not two. ||Entailment
+The jerseys are not wearing. ||Contradiction
+The girls are not playing sports. ||Contradiction

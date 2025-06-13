@@ -1,0 +1,4 @@
+there is a body ||entailment
+there is a pup ||entailment
+the body is playing catch ||neutral
+the body is playing catch with the dog ||contradiction

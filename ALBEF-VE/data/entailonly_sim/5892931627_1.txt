@@ -1,0 +1,8 @@
+there is a athlete ||entailment
+there is a club ||neutral
+there is a comedy ||neutral
+the athlete is uniformed ||entailment
+the athlete took a swing at the ball ||entailment
+the club looks on the player ||neutral
+the catcher is behind the athlete ||entailment
+the catcher is ready for the comedy ||neutral

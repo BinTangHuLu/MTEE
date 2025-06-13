@@ -1,0 +1,3 @@
+there is a area ||entailment
+the area is considerable ||neutral
+the area is separating them ||entailment

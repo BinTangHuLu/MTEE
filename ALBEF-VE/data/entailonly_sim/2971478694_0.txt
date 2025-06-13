@@ -1,0 +1,3 @@
+there are community ||entailment
+the community are listening ||entailment
+the community are listening to someone ||entailment

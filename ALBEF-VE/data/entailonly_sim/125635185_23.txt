@@ -1,0 +1,3 @@
+there are clan ||entailment
+there is a cask swing ||entailment
+the clan are playing on barrel swing ||entailment

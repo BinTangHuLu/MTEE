@@ -1,0 +1,5 @@
+There is a man. ||entailment
+There are some boomboxes. ||entailment
+The man has two. ||neutral
+The man has boomboxes. ||entailment
+The boomboxes are on shoulders. ||entailment

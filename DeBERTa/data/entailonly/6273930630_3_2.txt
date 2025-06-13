@@ -1,0 +1,5 @@
+There are men. ||entailment
+There are three men. ||entailment
+The men have red uniforms. ||entailment
+The men are celebrating a goal. ||entailment
+The men are at a soccer game. ||entailment

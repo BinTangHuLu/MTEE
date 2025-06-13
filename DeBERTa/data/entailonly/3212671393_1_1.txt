@@ -1,0 +1,12 @@
+There is a man. ||entailment
+There is a t-shirt. ||entailment
+There are jeans. ||entailment
+There is a cap. ||entailment
+There is a roof. ||entailment
+There is a house. ||entailment
+There are shingles. ||entailment
+The man is single. ||entailment
+The t-shirt is blue. ||entailment
+The man works on the roof. ||entailment
+The roof is laying shingles. ||entailment
+The man wears the t-shirt. ||entailment

@@ -1,0 +1,5 @@
+there is not a soccer player ||contradiction
+there is not a ramp ||contradiction
+the soccer player is not flying ||entailment
+the soccer player is not flying over the ramp ||contradiction
+the flying is not outside ||entailment

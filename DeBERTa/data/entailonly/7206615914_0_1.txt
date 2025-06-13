@@ -1,0 +1,4 @@
+There is an audience. ||entailment
+There is a concert. ||entailment
+The audience is dark. ||entailment
+The audience is listening to the concert. ||entailment

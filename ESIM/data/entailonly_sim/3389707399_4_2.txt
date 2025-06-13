@@ -1,0 +1,5 @@
+There are dude. ||entailment
+There are boot. ||entailment
+There are two dude. ||entailment
+The boot are shining. ||entailment
+The dude are shining shoes. ||entailment

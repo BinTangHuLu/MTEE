@@ -1,0 +1,4 @@
+there is a dude ||entailment
+there is a canvas ||entailment
+the canvas is blue ||contradiction
+the dude has a tent ||entailment

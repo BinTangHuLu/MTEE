@@ -1,0 +1,4 @@
+There are bill. ||contradiction
+There is a bar. ||neutral
+There are female. ||entailment
+The female look through Books. ||entailment

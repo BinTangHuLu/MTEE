@@ -1,0 +1,5 @@
+There is a woman. ||entailment
+There is a picture. ||entailment
+There is a truck. ||entailment
+The woman is getting taken by the picture. ||neutral
+The woman is near the truck. ||entailment

@@ -1,0 +1,3 @@
+there are not kids ||contradiction
+there are not instruments ||contradiction
+the kids are not playing instruments ||contradiction

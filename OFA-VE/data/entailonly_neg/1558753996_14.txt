@@ -1,0 +1,4 @@
+There is not a man. ||Contradiction
+The man is not bearded. ||Entailment
+There is not a guitar. ||Contradiction
+The man does not play guitar. ||Contradiction

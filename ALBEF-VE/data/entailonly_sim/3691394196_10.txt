@@ -1,0 +1,5 @@
+there is a dude ||entailment
+there is a blaze ||entailment
+there is a circle ||entailment
+the dude holds fire ||entailment
+the blaze is in the crowd ||entailment

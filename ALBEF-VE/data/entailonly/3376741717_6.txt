@@ -1,0 +1,3 @@
+there is a janitor ||entailment
+the janitor is working ||entailment
+the janitor is working ||entailment

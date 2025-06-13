@@ -1,0 +1,2 @@
+EA,walkway,slippery
+RE2,outside on,walkway

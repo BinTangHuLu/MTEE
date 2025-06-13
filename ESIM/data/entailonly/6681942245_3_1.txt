@@ -1,0 +1,4 @@
+There is a woman. ||entailment
+There is a dinner. ||entailment
+There are guests. ||entailment
+The woman is cooking for guests. ||entailment

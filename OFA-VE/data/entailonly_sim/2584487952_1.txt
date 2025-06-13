@@ -1,0 +1,4 @@
+There is a pup. ||Entailment
+There is some atmosphere. ||Entailment
+The pup is jumping. ||Entailment
+The pup is in the air. ||Entailment

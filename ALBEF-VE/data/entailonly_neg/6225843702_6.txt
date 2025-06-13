@@ -1,0 +1,4 @@
+there is not a guy ||contradiction
+there is not a bike race ||contradiction
+there is not a bike ||contradiction
+the guy does not jump bike ||contradiction

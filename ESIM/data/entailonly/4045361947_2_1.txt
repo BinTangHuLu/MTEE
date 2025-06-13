@@ -1,0 +1,4 @@
+There is a guy. ||entailment
+The guy is working. ||entailment
+The guy has his instrument. ||entailment
+The guy is working on his instrument. ||entailment

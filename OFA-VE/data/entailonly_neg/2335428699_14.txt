@@ -1,0 +1,4 @@
+There are not kids. ||Contradiction
+There is not a trampoline. ||Contradiction
+There are not two kids. ||Contradiction
+The kids are not on the trampoline. ||Entailment

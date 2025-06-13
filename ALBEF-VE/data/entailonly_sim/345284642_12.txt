@@ -1,0 +1,3 @@
+there is a pup ||entailment
+there is a farmland ||entailment
+the pup is in the field ||entailment

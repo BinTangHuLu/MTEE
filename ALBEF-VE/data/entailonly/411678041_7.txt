@@ -1,0 +1,3 @@
+there is a cowboy ||entailment
+there is a horse ||entailment
+the cowboy is on the horse ||entailment

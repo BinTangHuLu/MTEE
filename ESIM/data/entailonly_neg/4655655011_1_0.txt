@@ -1,0 +1,3 @@
+There is not a performer. ||contradiction
+There is not a scene. ||contradiction
+The performer is not acting out scene. ||contradiction

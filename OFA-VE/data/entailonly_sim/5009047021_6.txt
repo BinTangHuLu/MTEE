@@ -1,0 +1,4 @@
+There is a athlete. ||Entailment
+There is a soccer. ||Entailment
+The athlete is running. ||Entailment
+The athlete is running with the ball. ||Neutral

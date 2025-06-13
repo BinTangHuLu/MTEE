@@ -1,0 +1,3 @@
+there are female ||entailment
+there are card ||entailment
+the female look at menus ||entailment

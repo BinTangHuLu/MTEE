@@ -1,0 +1,3 @@
+there is a boy ||entailment
+the boy is bouncing around ||entailment
+the boy is bouncing around outside ||entailment

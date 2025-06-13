@@ -1,0 +1,4 @@
+there are not people ||contradiction
+there is not a stroll ||contradiction
+there are not outdoors ||contradiction
+people do not take a stroll outdoors ||contradiction

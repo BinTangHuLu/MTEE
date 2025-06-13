@@ -1,0 +1,3 @@
+there is not an adult ||entailment
+there are not children ||contradiction
+the adult is not surrounded by children ||contradiction

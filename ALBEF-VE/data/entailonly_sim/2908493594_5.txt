@@ -1,0 +1,4 @@
+there is a body ||entailment
+there is a chair ||entailment
+the chair is in the park ||entailment
+the body is sprawled on the bench ||entailment

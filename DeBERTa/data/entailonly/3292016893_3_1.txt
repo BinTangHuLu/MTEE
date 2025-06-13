@@ -1,0 +1,4 @@
+There are dogs. ||entailment
+There is a piece. ||entailment
+The piece is fabric. ||entailment
+The dogs are fighting over the piece. ||entailment

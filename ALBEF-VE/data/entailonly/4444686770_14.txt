@@ -1,0 +1,5 @@
+there is a man ||entailment
+there is a woman ||entailment
+there is a rod ||entailment
+the man is looking at the rod ||entailment
+the woman is looking at the rod ||contradiction

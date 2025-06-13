@@ -1,0 +1,3 @@
+There is not a group. ||Entailment
+There is not a path. ||Contradiction
+The group did not walk away from the path. ||Entailment

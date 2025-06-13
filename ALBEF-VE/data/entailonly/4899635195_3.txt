@@ -1,0 +1,3 @@
+there are people ||entailment
+there is a railing ||entailment
+the people are next to the railing ||entailment

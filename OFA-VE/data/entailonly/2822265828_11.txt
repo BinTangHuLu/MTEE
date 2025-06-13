@@ -1,0 +1,3 @@
+There are cheerleaders. ||Entailment
+There is an event. ||Entailment
+The cheerleaders are at the event. ||Entailment

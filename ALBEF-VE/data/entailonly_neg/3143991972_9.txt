@@ -1,0 +1,4 @@
+there are not people ||contradiction
+there is not an airport ||contradiction
+there are not two people ||contradiction
+the people are not at the airport ||entailment

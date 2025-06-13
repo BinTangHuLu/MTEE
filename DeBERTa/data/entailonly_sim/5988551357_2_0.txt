@@ -1,0 +1,3 @@
+There is a buffoon. ||entailment
+There is a colt. ||neutral
+The buffoon has fallen off the horse. ||entailment

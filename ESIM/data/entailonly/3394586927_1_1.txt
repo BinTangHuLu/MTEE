@@ -1,0 +1,6 @@
+There is a person. ||entailment
+There is a top. ||entailment
+The top is dark. ||entailment
+The person is with top. ||entailment
+The person is outside. ||entailment
+The person is doing something active. ||entailment

@@ -1,0 +1,4 @@
+There are people. ||Entailment
+There is an airport. ||Entailment
+There are two people. ||Entailment
+The people are at the airport. ||Neutral

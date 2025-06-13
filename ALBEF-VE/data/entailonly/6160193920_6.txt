@@ -1,0 +1,3 @@
+there is a lady ||entailment
+there is a dress ||entailment
+the lady is wearing ||entailment

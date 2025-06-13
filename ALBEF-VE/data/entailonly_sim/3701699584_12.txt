@@ -1,0 +1,5 @@
+there is a clue ||entailment
+there is a dude ||entailment
+the dude is swinging at the ball ||entailment
+the clue says finderspot ||neutral
+the finderspot is by the dude ||entailment

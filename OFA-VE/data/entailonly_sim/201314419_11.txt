@@ -1,0 +1,6 @@
+There are community. ||Entailment
+There is a dusk. ||Entailment
+There is a expanse side. ||Entailment
+The dusk is beautiful. ||Entailment
+community are watching the sunset. ||Neutral
+The dusk is on sea side. ||Entailment

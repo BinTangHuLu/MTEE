@@ -1,0 +1,6 @@
+there is a female ||entailment
+there is an field ||contradiction
+the female is blond ||entailment
+the field is crowded ||contradiction
+the female is in the area ||entailment
+the female hands out fliers ||entailment

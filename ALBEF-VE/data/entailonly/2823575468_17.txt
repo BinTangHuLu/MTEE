@@ -1,0 +1,4 @@
+there is a man ||entailment
+there is a swimsuit ||entailment
+the swimsuit is blue ||neutral
+the man is wearing swimsuit ||entailment

@@ -1,0 +1,4 @@
+There is a dude. ||Entailment
+There is a business. ||Contradiction
+The business is adventure. ||Neutral
+The dude is into sports. ||Entailment

@@ -1,0 +1,4 @@
+There are female. ||entailment
+There are flora. ||entailment
+The female are elderly. ||entailment
+The female are resting near flowers. ||entailment

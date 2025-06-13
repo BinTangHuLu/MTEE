@@ -1,0 +1,3 @@
+there is not a mom ||entailment
+there is not a park ||contradiction
+the mom does not take a break in the park ||contradiction

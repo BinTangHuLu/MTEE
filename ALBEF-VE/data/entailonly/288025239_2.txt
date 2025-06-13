@@ -1,0 +1,5 @@
+there is a person ||entailment
+there is a picture ||entailment
+there is a tent ||entailment
+the person is having the picture ||neutral
+the picture is taken inside the tent ||entailment

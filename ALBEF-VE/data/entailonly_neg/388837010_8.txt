@@ -1,0 +1,3 @@
+there are not children ||contradiction
+there are not animals ||contradiction
+the children are not by animals ||contradiction

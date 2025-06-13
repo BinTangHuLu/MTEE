@@ -1,0 +1,3 @@
+There is a lady. ||entailment
+There is a street. ||entailment
+The lady walks down the street. ||entailment

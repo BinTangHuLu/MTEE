@@ -1,0 +1,4 @@
+There is not a man. ||contradiction
+There is not a unicycle. ||contradiction
+The man is not curious. ||contradiction
+The man is not holding the unicycle. ||entailment

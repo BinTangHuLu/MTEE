@@ -1,0 +1,3 @@
+there is a man ||entailment
+there is a jersey ||entailment
+the man is outside jersey ||entailment

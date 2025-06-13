@@ -1,0 +1,7 @@
+there is not a woman ||contradiction
+there are not children ||contradiction
+there is not a boardwalk ||contradiction
+the children are not fishing ||contradiction
+the woman is not with children ||contradiction
+the children are not fishing over the boardwalk ||contradiction
+fishing over the boardwalk is not in the evening ||contradiction

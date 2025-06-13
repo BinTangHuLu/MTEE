@@ -1,0 +1,4 @@
+There is not a boy. ||contradiction
+There is not a sidewalk. ||contradiction
+The boy is not little. ||contradiction
+The boy is not standing on the sidewalk. ||contradiction

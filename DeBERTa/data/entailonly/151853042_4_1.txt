@@ -1,0 +1,4 @@
+There is a man. ||entailment
+There is a head. ||entailment
+The head is partially obscured. ||entailment
+The man is obscured. ||entailment

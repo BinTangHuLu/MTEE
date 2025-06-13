@@ -1,0 +1,6 @@
+There is a child. ||entailment
+There are some brooms. ||entailment
+The child plays. ||entailment
+There are two brooms. ||entailment
+The child plays with brooms. ||entailment
+The child plays outside. ||entailment

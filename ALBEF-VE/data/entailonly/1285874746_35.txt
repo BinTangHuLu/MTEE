@@ -1,0 +1,4 @@
+there is a girl ||entailment
+there is a dress ||entailment
+the dress is in ||neutral
+the girl walks ||entailment

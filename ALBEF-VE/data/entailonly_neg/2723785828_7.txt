@@ -1,0 +1,5 @@
+there are not children ||contradiction
+there is not a face ||contradiction
+the children are not two ||entailment
+the face is not paint ||contradiction
+the children does not have face ||contradiction

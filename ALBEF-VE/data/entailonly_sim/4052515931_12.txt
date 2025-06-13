@@ -1,0 +1,4 @@
+there is a juvenile boy ||entailment
+there is a knapsack ||entailment
+the juvenile boy is smiling ||entailment
+the juvenile boy is holding a backpack ||entailment

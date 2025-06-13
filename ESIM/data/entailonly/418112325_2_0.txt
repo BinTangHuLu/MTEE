@@ -1,0 +1,3 @@
+There are kids. ||entailment
+There is a table. ||entailment
+The kids eat at the table. ||entailment

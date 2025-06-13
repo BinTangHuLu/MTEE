@@ -1,0 +1,6 @@
+There are community. ||neutral
+There is a architecture. ||entailment
+The architecture is brick. ||entailment
+The painting is colorful. ||entailment
+The community are walking toward the building. ||neutral
+The architecture is with mural. ||entailment

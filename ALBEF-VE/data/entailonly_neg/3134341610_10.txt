@@ -1,0 +1,7 @@
+there is not a party ||contradiction
+there is not a christmas ||contradiction
+there is not a man ||contradiction
+there is not a woman ||contradiction
+the man and woman are not making a toast ||contradiction
+the man is not making a toast ||contradiction
+the woman is not making a toast ||contradiction

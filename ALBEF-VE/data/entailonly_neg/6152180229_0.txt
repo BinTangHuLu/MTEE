@@ -1,0 +1,4 @@
+there are not people ||contradiction
+there is not a picture ||entailment
+the picture is not outdoors ||entailment
+the people are not posing for the picture ||contradiction

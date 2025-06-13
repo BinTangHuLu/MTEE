@@ -1,0 +1,3 @@
+there is not a woman ||contradiction
+there is not a house ||contradiction
+the woman is not cleaning the house ||contradiction

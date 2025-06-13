@@ -1,0 +1,5 @@
+there are men ||entailment
+there is an audience ||entailment
+there are two men ||entailment
+the audience is full ||neutral
+the men are karate fighting in front of the audience ||entailment

@@ -1,0 +1,6 @@
+There is a dog. ||entailment
+There is a mouth. ||entailment
+There is a ball. ||entailment
+The dog holds the ball. ||entailment
+The mouth holds the ball. ||entailment
+The ball is retrieved. ||neutral

@@ -1,0 +1,3 @@
+there are not people ||contradiction
+there is not a destination ||contradiction
+the people are not headed to the destination ||contradiction

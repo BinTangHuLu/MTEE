@@ -1,0 +1,5 @@
+There is not a runner. ||contradiction
+There is not a competition. ||contradiction
+There is not a finish line. ||contradiction
+The runner is not in the competition. ||contradiction
+The runner does not want to go to the finish line. ||contradiction

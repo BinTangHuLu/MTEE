@@ -1,0 +1,7 @@
+There is not a woman. ||contradiction
+There is not a crowd. ||contradiction
+There is not an umbrella. ||contradiction
+The woman is not raven haired. ||contradiction
+The umbrella is not white opened. ||entailment
+The woman is not seen by the crowd. ||contradiction
+The woman is not holding the umbrella. ||contradiction

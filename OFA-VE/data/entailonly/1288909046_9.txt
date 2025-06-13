@@ -1,0 +1,4 @@
+There is a dog. ||Entailment
+There is water. ||Entailment
+The dog is jumping. ||Entailment
+The dog is jumping into water. ||Neutral

@@ -1,0 +1,5 @@
+There are guys. ||entailment
+There is a girl. ||entailment
+There is a harness. ||entailment
+The guys help the girl. ||entailment
+The girl is with the harness. ||entailment

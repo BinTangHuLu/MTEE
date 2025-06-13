@@ -1,0 +1,4 @@
+there is a break ||entailment
+there are some community ||entailment
+the break is large ||neutral
+the break is being dug by people ||entailment

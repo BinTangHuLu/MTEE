@@ -1,0 +1,5 @@
+There is a boy. ||entailment
+There are some shorts. ||entailment
+The shorts are blue. ||entailment
+There is a t-shirt. ||entailment
+The boy is about to hit a tennis ball. ||entailment

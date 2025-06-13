@@ -1,0 +1,5 @@
+there is not a basketball game ||contradiction
+there is not lafayette ||contradiction
+there is not penn state ||contradiction
+the basketball game is not between lafayette ||entailment
+the basketball game is not between penn state ||contradiction

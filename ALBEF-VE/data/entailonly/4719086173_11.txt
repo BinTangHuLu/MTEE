@@ -1,0 +1,3 @@
+there are firefighters ||entailment
+there is an area ||entailment
+the firefighters check the area ||entailment

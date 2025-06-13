@@ -1,0 +1,3 @@
+There is a boy. ||Entailment
+There are some tracks. ||Entailment
+The boy walks down tracks. ||Entailment

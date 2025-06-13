@@ -1,0 +1,4 @@
+There are community. ||entailment
+The community are uniform. ||neutral
+The community are working near. ||entailment
+Near a blaze. ||entailment

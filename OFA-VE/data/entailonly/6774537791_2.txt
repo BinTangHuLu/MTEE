@@ -1,0 +1,4 @@
+There is a skier. ||Entailment
+There is a jumps. ||Entailment
+The jumps is nice. ||Entailment
+The skier is getting jumps. ||Entailment

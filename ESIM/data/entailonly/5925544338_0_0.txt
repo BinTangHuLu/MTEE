@@ -1,0 +1,7 @@
+There is a man. ||entailment
+There is a blacksmith. ||entailment
+There is a tool. ||entailment
+The man is older. ||entailment
+The man is probably a blacksmith. ||entailment
+The man is welding a tool. ||entailment
+The tool is seen by look. ||entailment

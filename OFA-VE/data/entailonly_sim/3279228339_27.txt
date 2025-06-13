@@ -1,0 +1,2 @@
+There is a bar. ||Entailment
+The someone is at the bar. ||Neutral

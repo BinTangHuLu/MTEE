@@ -1,0 +1,5 @@
+There is not a person. ||contradiction
+The person is not young. ||contradiction
+The person is not bored. ||contradiction
+There is not a restaurant. ||contradiction
+The person does not appear in the restaurant. ||contradiction

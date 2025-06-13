@@ -1,0 +1,2 @@
+there are swimmers ||entailment
+the swimmers are about to get wet ||entailment

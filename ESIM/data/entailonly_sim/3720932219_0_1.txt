@@ -1,0 +1,8 @@
+There is a bleached. ||contradiction
+There is a association. ||neutral
+There is a female. ||entailment
+There are admission. ||neutral
+The bleached is blond. ||contradiction
+The admission are pieces of paper. ||neutral
+The bleached speaks with the group. ||contradiction
+The association is carrying students. ||entailment

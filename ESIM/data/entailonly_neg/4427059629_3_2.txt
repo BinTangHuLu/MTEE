@@ -1,0 +1,4 @@
+There is not a cowboy. ||contradiction
+There is not a bronco. ||contradiction
+The cowboy is not riding the bronco. ||contradiction
+The cowboy is not riding outside. ||entailment

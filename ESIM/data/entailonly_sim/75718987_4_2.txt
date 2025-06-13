@@ -1,0 +1,4 @@
+There are female. ||entailment
+There are adolescent. ||entailment
+The female are looking at something. ||entailment
+The adolescent are looking at something. ||entailment

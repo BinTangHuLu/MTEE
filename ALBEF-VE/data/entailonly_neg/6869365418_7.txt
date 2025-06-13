@@ -1,0 +1,4 @@
+there are not children ||contradiction
+the children are not 3 ||entailment
+the children are not chasing bubbles ||contradiction
+the children are not blowing bubbles ||contradiction

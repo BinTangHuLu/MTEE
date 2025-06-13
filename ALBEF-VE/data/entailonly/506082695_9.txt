@@ -1,0 +1,2 @@
+there is a wall ||entailment
+the wall is ready for climbers ||entailment

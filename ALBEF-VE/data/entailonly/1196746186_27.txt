@@ -1,0 +1,3 @@
+there is a woman ||entailment
+there is a beach ||entailment
+the woman walks on the beach ||entailment

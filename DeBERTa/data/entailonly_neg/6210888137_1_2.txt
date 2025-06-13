@@ -1,0 +1,4 @@
+There is not a guy. ||contradiction
+The guy does not look upon collision. ||contradiction
+There are not vehicles. ||contradiction
+The collision is not between vehicles. ||contradiction

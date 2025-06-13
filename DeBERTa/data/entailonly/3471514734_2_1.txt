@@ -1,0 +1,4 @@
+There is a girl. ||entailment
+The girl is gray. ||contradiction
+The girl smiles as she. ||entailment
+The girl brushes teeth. ||entailment

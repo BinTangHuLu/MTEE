@@ -1,0 +1,9 @@
+there are not girls ||contradiction
+there are not uniforms ||contradiction
+there is not field hockey ||contradiction
+there are not teams ||contradiction
+the uniforms are not in ||contradiction
+the girls are not playing field hockey ||contradiction
+the girls are not in uniforms ||contradiction
+the girls are not playing field hockey ||contradiction
+the girls are not on teams ||contradiction

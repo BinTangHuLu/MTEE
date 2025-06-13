@@ -1,0 +1,2 @@
+There is not a group. ||Entailment
+The group is not outdoors. ||Entailment

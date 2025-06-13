@@ -1,0 +1,6 @@
+There is not a snowboarder. ||contradiction
+There is not a railing. ||contradiction
+There is not a hat. ||contradiction
+The hat is not green. ||contradiction
+The snowboarder is not riding along railing. ||contradiction
+The snowboarder is not while wearing hat. ||contradiction

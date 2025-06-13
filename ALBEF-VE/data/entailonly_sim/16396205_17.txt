@@ -1,0 +1,3 @@
+there are dude ||entailment
+there is bread ||entailment
+the dude are cooking food ||entailment

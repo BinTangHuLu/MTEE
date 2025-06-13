@@ -1,0 +1,3 @@
+there are girls ||entailment
+there are uniforms ||entailment
+the girls are wearing uniforms ||entailment

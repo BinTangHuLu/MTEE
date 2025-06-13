@@ -1,0 +1,3 @@
+there are female ||entailment
+there is a avenue ||neutral
+the female are standing next to the street ||contradiction

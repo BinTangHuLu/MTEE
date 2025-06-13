@@ -1,0 +1,4 @@
+There is a animal. ||entailment
+There is a camcorder. ||neutral
+The human character at the camera. ||entailment
+The animal is building something. ||contradiction

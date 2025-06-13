@@ -1,0 +1,2 @@
+there is a smoke ||entailment
+the smoke is light ||neutral

@@ -1,0 +1,3 @@
+There are friends. ||entailment
+There is a table. ||entailment
+The friends are at the table. ||entailment

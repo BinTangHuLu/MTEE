@@ -1,0 +1,2 @@
+E1R,shop's window,belongs to
+E1RE2,woman,is standing,outside

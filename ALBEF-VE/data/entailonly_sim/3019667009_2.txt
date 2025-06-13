@@ -1,0 +1,3 @@
+there are child ||entailment
+the child are two ||neutral
+the child are playing outside ||entailment

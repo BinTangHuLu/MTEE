@@ -1,0 +1,5 @@
+there is not a woman ||contradiction
+there is not a subway ||contradiction
+the woman does not have blue hair ||entailment
+the woman is not with blue hair ||entailment
+the woman does not stand in the subway ||contradiction

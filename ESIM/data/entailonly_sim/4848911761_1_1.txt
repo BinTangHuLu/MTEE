@@ -1,0 +1,7 @@
+There is a body. ||entailment
+There is a coat. ||entailment
+There are community. ||neutral
+The coat is red. ||entailment
+Tricks are made by the body. ||contradiction
+The body is in a red jacket. ||entailment
+community are watching him. ||neutral

@@ -1,0 +1,3 @@
+there is not a man ||contradiction
+there is not a cab ||contradiction
+the man is not standing in front of the cab ||contradiction

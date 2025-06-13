@@ -1,0 +1,3 @@
+there is a man ||entailment
+there is a boat ||entailment
+the man is outside on the boat ||entailment

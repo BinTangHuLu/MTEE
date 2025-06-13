@@ -1,0 +1,3 @@
+there is a artist ||entailment
+there is an apparatus ||entailment
+the artist plays the instrument ||entailment

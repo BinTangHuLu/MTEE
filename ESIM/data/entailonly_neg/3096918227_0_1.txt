@@ -1,0 +1,7 @@
+There is not a skateboarder. ||contradiction
+There are not some tricks. ||contradiction
+There is not an area. ||contradiction
+There are not some ramps. ||contradiction
+The skateboarder is not doing tricks. ||contradiction
+The skateboarder is not in the area. ||contradiction
+The area is not with ramps. ||contradiction

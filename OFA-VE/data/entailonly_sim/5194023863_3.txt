@@ -1,0 +1,5 @@
+There is a child. ||Entailment
+There is a abalone. ||Entailment
+There is a appendage. ||Entailment
+The child is holding the snail. ||Entailment
+The abalone is in the hand. ||Entailment

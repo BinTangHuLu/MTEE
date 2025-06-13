@@ -1,0 +1,3 @@
+There is a man. ||entailment
+There is some clothing. ||entailment
+The man is covering themselves in clothing. ||entailment

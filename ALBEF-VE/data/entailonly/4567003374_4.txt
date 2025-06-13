@@ -1,0 +1,5 @@
+there is a man ||entailment
+there is a trumpet ||entailment
+there is a crowd ||entailment
+the man plays the trumpet ||contradiction
+the man plays for the crowd ||entailment

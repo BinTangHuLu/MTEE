@@ -1,0 +1,3 @@
+There is an escalator. ||Entailment
+The escalator is escalating. ||Entailment
+The escalator is escalating the escalator. ||Entailment

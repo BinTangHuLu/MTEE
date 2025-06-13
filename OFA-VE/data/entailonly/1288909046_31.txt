@@ -1,0 +1,3 @@
+There is a dog. ||Entailment
+The dog is dry. ||Contradiction
+The dog prepares to get wet. ||Entailment

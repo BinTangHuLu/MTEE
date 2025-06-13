@@ -1,0 +1,2 @@
+there is a forest ||entailment
+the dogs walk on the forest ||entailment

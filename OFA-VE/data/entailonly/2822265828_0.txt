@@ -1,0 +1,4 @@
+There are girls. ||Entailment
+The girls are each. ||Entailment
+The girls are wearing. ||Entailment
+The girls are different. ||Entailment

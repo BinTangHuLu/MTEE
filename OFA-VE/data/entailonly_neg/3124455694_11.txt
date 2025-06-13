@@ -1,0 +1,6 @@
+There are not People. ||Contradiction
+There is not a surface. ||Entailment
+There are not traintracks. ||Entailment
+The surface is not raised. ||Entailment
+The People are not on the surface. ||Entailment
+The surface is not near traintracks. ||Contradiction

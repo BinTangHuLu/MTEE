@@ -1,0 +1,4 @@
+there is not a man ||contradiction
+there is not a tree ||contradiction
+the man is not leaning ||contradiction
+the man is not leaning on the tree ||contradiction

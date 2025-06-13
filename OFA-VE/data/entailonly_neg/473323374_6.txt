@@ -1,0 +1,3 @@
+There is not a baby. ||Contradiction
+The baby does not have curly hair. ||Entailment
+The hair is not curly. ||Entailment

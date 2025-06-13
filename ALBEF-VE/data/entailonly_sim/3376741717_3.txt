@@ -1,0 +1,5 @@
+there are circle ||entailment
+there is a dude ||entailment
+there are carpet ||neutral
+the circle have left the man ||contradiction
+the dude has to sweep the floors ||neutral

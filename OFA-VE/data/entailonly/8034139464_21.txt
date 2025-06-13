@@ -1,0 +1,4 @@
+There is a man. ||Entailment
+There is a golf. ||Entailment
+The golf is round. ||Entailment
+The man is playing round of golf. ||Entailment

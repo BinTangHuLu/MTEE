@@ -1,0 +1,5 @@
+There is a girl. ||Entailment
+There are some clothes. ||Entailment
+The clothes are wet. ||Entailment
+The girl is washing clothes. ||Neutral
+The clothes are washed by the girl. ||Neutral

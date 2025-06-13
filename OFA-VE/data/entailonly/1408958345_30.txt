@@ -1,0 +1,4 @@
+There is a girl. ||Entailment
+There is a beach. ||Entailment
+The girl is young. ||Entailment
+The girl is at the beach. ||Entailment

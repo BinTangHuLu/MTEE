@@ -1,0 +1,2 @@
+there are ball players ||entailment
+the ball players are competing for the ball ||neutral

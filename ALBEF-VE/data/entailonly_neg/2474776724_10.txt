@@ -1,0 +1,6 @@
+there are not people ||contradiction
+there are not uniforms ||contradiction
+the uniforms are not red and white striped ||contradiction
+people are not in uniforms ||contradiction
+there is not a field ||contradiction
+people are not standing in the field ||contradiction

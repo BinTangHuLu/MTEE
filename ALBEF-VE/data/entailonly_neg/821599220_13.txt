@@ -1,0 +1,5 @@
+there are not people ||contradiction
+there is not a picture ||entailment
+the people are not in the picture ||contradiction
+there are not two people ||contradiction
+the people are not outside people ||entailment

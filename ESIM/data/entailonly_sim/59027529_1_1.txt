@@ -1,0 +1,2 @@
+There is a gallery. ||contradiction
+The chef is near the gallery. ||entailment

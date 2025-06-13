@@ -1,0 +1,3 @@
+there is an bodily ||entailment
+there is a bar ||entailment
+the bodily swims stick ||entailment

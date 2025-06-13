@@ -1,0 +1,4 @@
+there is a firefighter ||entailment
+there is some gear ||entailment
+the firefighter is dressed ||entailment
+the firefighter is dressed in gear ||entailment

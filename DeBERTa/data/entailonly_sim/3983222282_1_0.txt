@@ -1,0 +1,3 @@
+There are dude. ||entailment
+The dude are young. ||entailment
+The dude are talking. ||entailment

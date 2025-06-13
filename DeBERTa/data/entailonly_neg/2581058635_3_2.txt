@@ -1,0 +1,5 @@
+There is not a man. ||contradiction
+The man does not see something. ||contradiction
+The man is not in a park. ||contradiction
+There is not something. ||contradiction
+There is not a park. ||contradiction

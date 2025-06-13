@@ -1,0 +1,4 @@
+There is a dude. ||Entailment
+There is a female. ||Entailment
+The dude and woman are sitting. ||Entailment
+The dude is sitting and the woman is sitting. ||Entailment

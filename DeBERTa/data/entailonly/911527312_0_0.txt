@@ -1,0 +1,4 @@
+There is a boy. ||entailment
+There are some sandals. ||entailment
+The boy is young. ||entailment
+The boy wears sandals. ||entailment

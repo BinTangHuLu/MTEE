@@ -1,0 +1,3 @@
+there is a man ||entailment
+there is a drum ||entailment
+the man is holding the drum ||entailment

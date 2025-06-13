@@ -1,0 +1,4 @@
+there is not a bike ||contradiction
+there are not some parts ||entailment
+the parts are not shiny ||contradiction
+the bike did not come with parts ||contradiction

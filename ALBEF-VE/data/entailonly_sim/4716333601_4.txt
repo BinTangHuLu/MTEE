@@ -1,0 +1,5 @@
+there is a female ||entailment
+there is a blouse ||entailment
+the blouse is striped ||entailment
+the female is in the shirt ||entailment
+the female is in the glasses ||entailment

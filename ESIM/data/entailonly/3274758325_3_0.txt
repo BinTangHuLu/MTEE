@@ -1,0 +1,5 @@
+There is an instrument. ||entailment
+There is a performer. ||entailment
+There is an audience. ||entailment
+The instrument plays the performer. ||entailment
+The performer performs for the audience. ||entailment

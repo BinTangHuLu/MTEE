@@ -1,0 +1,2 @@
+There is not a station. ||contradiction
+There is not transportation. ||contradiction

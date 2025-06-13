@@ -1,0 +1,2 @@
+there are guys ||entailment
+the guys are walking ||entailment

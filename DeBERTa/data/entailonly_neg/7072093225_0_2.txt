@@ -1,0 +1,4 @@
+There is not a man. ||contradiction
+There is not a shirt. ||contradiction
+The shirt is not button up. ||contradiction
+The man is not wearing the shirt. ||contradiction

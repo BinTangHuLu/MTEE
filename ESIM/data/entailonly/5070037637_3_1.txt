@@ -1,0 +1,3 @@
+There is a man. ||entailment
+There is a song. ||entailment
+The man is singing the song. ||entailment

@@ -1,0 +1,4 @@
+There is a dog. ||Entailment
+There are legs. ||Entailment
+The legs are 3. ||Entailment
+The dog has 3 legs. ||Entailment

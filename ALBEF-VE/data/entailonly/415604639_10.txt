@@ -1,0 +1,5 @@
+there is a man ||entailment
+there is a woman ||entailment
+there is a kitchen ||entailment
+the man enters a kitchen ||entailment
+the woman enters a kitchen ||entailment

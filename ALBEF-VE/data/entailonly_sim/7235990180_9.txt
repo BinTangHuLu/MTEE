@@ -1,0 +1,5 @@
+there are clan ||entailment
+there is a circle ||entailment
+there is a bar ||entailment
+the clan are in the crowd ||entailment
+the clan are with a stick ||entailment

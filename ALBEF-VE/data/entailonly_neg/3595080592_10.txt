@@ -1,0 +1,3 @@
+there are not kids ||contradiction
+the kids are not two ||entailment
+the kids are not smiling ||contradiction

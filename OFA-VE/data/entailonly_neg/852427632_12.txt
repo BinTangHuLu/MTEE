@@ -1,0 +1,5 @@
+There is not someone. ||Entailment
+There is not a horse. ||Entailment
+There is not an animal. ||Contradiction
+Someone is not on the horse. ||Entailment
+Someone is not chasing the animal. ||Entailment

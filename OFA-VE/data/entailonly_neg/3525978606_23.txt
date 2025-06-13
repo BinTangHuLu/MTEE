@@ -1,0 +1,4 @@
+There is not a woman. ||Contradiction
+There is not an object. ||Contradiction
+The woman is not cleaning. ||Contradiction
+The woman is not cleaning the object. ||Contradiction

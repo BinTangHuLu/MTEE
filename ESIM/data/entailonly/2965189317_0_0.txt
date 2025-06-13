@@ -1,0 +1,7 @@
+There is a person. ||entailment
+There is an object. ||entailment
+There is a wall. ||entailment
+There is a balloon. ||entailment
+The person is long. ||entailment
+The person stands on the side of the wall. ||entailment
+The balloon floats on the side. ||entailment

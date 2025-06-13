@@ -1,0 +1,4 @@
+There is not a girl. ||Contradiction
+There is not a picture. ||Contradiction
+The girl is not smiling. ||Contradiction
+The girl is not in the picture. ||Entailment

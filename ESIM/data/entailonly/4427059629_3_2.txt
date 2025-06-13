@@ -1,0 +1,4 @@
+There is a cowboy. ||entailment
+There is a bronco. ||entailment
+The cowboy is riding the bronco. ||entailment
+The cowboy is riding outside. ||entailment

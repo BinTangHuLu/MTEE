@@ -1,0 +1,4 @@
+There is not a man. ||contradiction
+There is not a mop. ||contradiction
+The man is not holding the mop. ||entailment
+The man is not on a roof. ||contradiction

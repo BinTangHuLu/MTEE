@@ -1,0 +1,5 @@
+There is not a girl. ||contradiction
+There is not a cellphone. ||contradiction
+There is not a ground. ||contradiction
+The girl is not lying on the ground. ||contradiction
+The girl is not on the cellphone. ||contradiction

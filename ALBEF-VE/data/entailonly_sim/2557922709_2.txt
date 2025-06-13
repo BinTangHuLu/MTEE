@@ -1,0 +1,4 @@
+there is a child ||entailment
+there are banner ||neutral
+the banner are two ||neutral
+the child has flags ||entailment

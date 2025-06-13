@@ -1,0 +1,3 @@
+There is not a canine. ||contradiction
+The canine does not have his legs. ||contradiction
+The canine is not using legs. ||entailment

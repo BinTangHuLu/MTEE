@@ -1,0 +1,6 @@
+There is a man. ||entailment
+There is a crowd. ||entailment
+There is a hat. ||entailment
+The man is in the crowd. ||entailment
+The hat is backwards. ||entailment
+The man is wearing the hat. ||entailment

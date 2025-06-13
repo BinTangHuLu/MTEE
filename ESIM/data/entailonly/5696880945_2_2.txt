@@ -1,0 +1,4 @@
+There are people. ||entailment
+There is water. ||entailment
+The people have clothes on. ||entailment
+The people are in water. ||entailment

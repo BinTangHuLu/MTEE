@@ -1,0 +1,3 @@
+there is a girl ||entailment
+the girl is small ||entailment
+the girl is out in air ||entailment

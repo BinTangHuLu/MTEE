@@ -1,0 +1,4 @@
+there is a boy ||entailment
+there is some hair ||entailment
+the hair is shortening ||neutral
+the boy is shortening hair ||entailment

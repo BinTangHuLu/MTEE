@@ -1,0 +1,4 @@
+there is a group ||entailment
+there are some people ||entailment
+the group is huge ||neutral
+the group are laying in the grass ||entailment

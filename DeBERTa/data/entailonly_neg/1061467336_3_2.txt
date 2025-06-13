@@ -1,0 +1,4 @@
+There are not People. ||contradiction
+There is not a firetruck. ||contradiction
+The firetruck does not have all its lights on. ||contradiction
+People do not stand outside of the firetruck. ||contradiction

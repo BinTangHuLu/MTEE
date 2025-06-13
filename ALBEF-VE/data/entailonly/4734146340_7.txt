@@ -1,0 +1,8 @@
+there is a worker ||entailment
+there is a pole ||entailment
+there is work ||entailment
+there is a dude ||entailment
+there is a shirt ||entailment
+the shirt is striped ||entailment
+the worker is doing pole based work ||contradiction
+the dude talks to the worker ||entailment

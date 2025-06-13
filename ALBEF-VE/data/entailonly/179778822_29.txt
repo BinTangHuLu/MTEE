@@ -1,0 +1,6 @@
+there is a girl ||entailment
+there are some shoulders ||entailment
+there is a woman ||entailment
+the girl is little ||entailment
+the girl sits on shoulders ||entailment
+the girl is on woman ||entailment

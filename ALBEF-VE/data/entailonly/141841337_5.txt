@@ -1,0 +1,5 @@
+there is a man ||entailment
+there is a leg ||entailment
+there is a head ||entailment
+the man has a leg ||entailment
+the leg is over the head ||entailment

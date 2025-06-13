@@ -1,0 +1,7 @@
+there is a child ||entailment
+there is a street ||entailment
+there are women ||entailment
+there are chairs ||entailment
+the child is in the street ||entailment
+the women are in chairs ||entailment
+the women sit and watch the street ||contradiction

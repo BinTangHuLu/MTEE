@@ -1,0 +1,4 @@
+there are not men ||contradiction
+there is not a kitchen ||contradiction
+the men are not inside the kitchen ||contradiction
+there are not three men ||contradiction

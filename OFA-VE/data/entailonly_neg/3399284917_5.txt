@@ -1,0 +1,3 @@
+There is not a child. ||Contradiction
+There is not a swing. ||Entailment
+The child is not on swing. ||Entailment

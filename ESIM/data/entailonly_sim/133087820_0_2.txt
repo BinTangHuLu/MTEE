@@ -1,0 +1,6 @@
+There is a dude. ||entailment
+There is a chair. ||neutral
+There is a bank. ||contradiction
+The dude is reading. ||entailment
+The dude is reading on the bench. ||entailment
+The chair is outside of the store. ||entailment

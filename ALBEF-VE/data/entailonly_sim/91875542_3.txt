@@ -1,0 +1,6 @@
+there is a female ||entailment
+there is some eyebrow ||entailment
+the female is old ||entailment
+the eyebrow is white ||neutral
+the female is with hair ||entailment
+the female peers through spectacles ||entailment

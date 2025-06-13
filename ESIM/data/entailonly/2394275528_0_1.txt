@@ -1,0 +1,5 @@
+There is a girl. ||entailment
+There is a swing. ||entailment
+The girl is rather high. ||entailment
+The swing has blue ropes. ||entailment
+The girl is swinging with the swing. ||entailment

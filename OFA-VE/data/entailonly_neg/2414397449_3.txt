@@ -1,0 +1,5 @@
+There is not a dog. ||Contradiction
+There is not a dog. ||Contradiction
+The dog is not large. ||Entailment
+The dog is not small. ||Entailment
+The dog is not beneath the dog. ||Entailment

@@ -1,0 +1,4 @@
+there is a man ||entailment
+there is a tool ||entailment
+the tool is hand ||neutral
+the man is waiting with tool ||entailment

@@ -1,0 +1,3 @@
+there is a mom ||entailment
+there is a park ||entailment
+the mom takes a break in the park ||entailment

@@ -1,0 +1,4 @@
+there is a girl ||entailment
+there is an obstacle course ||entailment
+the girl is outdoor ||entailment
+the girl runs through the obstacle course ||entailment

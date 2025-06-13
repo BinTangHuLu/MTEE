@@ -1,0 +1,2 @@
+There is not a building. ||contradiction
+The building is not older. ||contradiction

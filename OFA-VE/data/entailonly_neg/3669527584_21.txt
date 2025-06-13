@@ -1,0 +1,5 @@
+There is not a woman. ||Contradiction
+There are not some clothes. ||Contradiction
+The woman is not Indian. ||Entailment
+The clothes are not fancy. ||Entailment
+The woman is not dressed in fancy clothes. ||Entailment

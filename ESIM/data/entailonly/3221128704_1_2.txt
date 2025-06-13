@@ -1,0 +1,5 @@
+There is a man. ||entailment
+The man is purple. ||entailment
+The man is green. ||entailment
+The ball is soccer. ||entailment
+The man falls down after being hit by the ball. ||neutral

@@ -1,0 +1,7 @@
+There is a dude. ||Entailment
+There is an capability. ||Entailment
+There is a bike. ||Entailment
+The capability is to balance. ||Entailment
+The bike is on one wheel. ||Entailment
+The dude shows the ability. ||Entailment
+The capability to balance is shown by the bicycle. ||Entailment

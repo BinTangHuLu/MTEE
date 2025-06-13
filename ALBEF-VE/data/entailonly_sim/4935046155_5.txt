@@ -1,0 +1,4 @@
+there is a female ||entailment
+there is a call up ||neutral
+the female is looking at ||entailment
+the female is looking at the phone ||entailment

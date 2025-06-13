@@ -1,0 +1,7 @@
+there is an individual ||entailment
+there is a photo ||entailment
+there is a shirt ||entailment
+there are pants ||entailment
+the shirt is the same color ||contradiction
+the pants are the same color ||contradiction
+the individual is in the photo ||entailment

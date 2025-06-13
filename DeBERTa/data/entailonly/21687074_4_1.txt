@@ -1,0 +1,6 @@
+There is summer. ||entailment
+There is a beach. ||entailment
+There is a walkway. ||entailment
+The summer is hot. ||neutral
+The summer is by the beach. ||entailment
+The summer is on the walkway. ||entailment

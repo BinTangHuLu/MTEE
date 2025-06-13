@@ -1,0 +1,4 @@
+there is a female ||entailment
+there is drink ||entailment
+the female is outside ||entailment
+the female is touching water ||entailment

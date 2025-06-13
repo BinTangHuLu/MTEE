@@ -1,0 +1,3 @@
+A,two
+A,outside
+R,next to

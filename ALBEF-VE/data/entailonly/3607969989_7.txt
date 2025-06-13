@@ -1,0 +1,4 @@
+there is someone ||entailment
+there is a path ||entailment
+the path is brick ||neutral
+someone is skateboarding down the path ||entailment

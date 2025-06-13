@@ -1,0 +1,5 @@
+there is a child ||entailment
+there is a apparel ||entailment
+there are bulk ||contradiction
+the apparel is in ||neutral
+the child is carrying bags ||entailment

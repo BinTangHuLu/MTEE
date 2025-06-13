@@ -1,0 +1,3 @@
+there are not people ||contradiction
+there is not a display ||contradiction
+people do not stand in front of display ||contradiction

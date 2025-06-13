@@ -1,0 +1,6 @@
+There are not people. ||Contradiction
+There is not a costume. ||Contradiction
+There are not glasses. ||Contradiction
+The costume is not holiday. ||Contradiction
+The people do not have glasses. ||Contradiction
+The people are not one in costume. ||Contradiction

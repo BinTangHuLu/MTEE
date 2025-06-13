@@ -1,0 +1,5 @@
+there is a analyst ||entailment
+there are some appliance ||entailment
+the appliance are proper ||entailment
+the analyst has tools ||entailment
+the appliance are for analysis work ||neutral

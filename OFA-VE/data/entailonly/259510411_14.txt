@@ -1,0 +1,5 @@
+There is a woman. ||Entailment
+There is a picture. ||Entailment
+There is a cow. ||Entailment
+The woman is with the picture. ||Entailment
+The picture is of the cow. ||Entailment

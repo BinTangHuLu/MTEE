@@ -1,0 +1,4 @@
+there is a boy ||entailment
+there is a shovel ||entailment
+the shovel is tiny ||neutral
+the boy has a shovel ||entailment

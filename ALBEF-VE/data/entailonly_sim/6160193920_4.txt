@@ -1,0 +1,5 @@
+there is a female ||entailment
+there is a gentlewoman ||entailment
+the female is asian ||neutral
+the female is smiling at ||entailment
+the gentlewoman is rowing ||contradiction

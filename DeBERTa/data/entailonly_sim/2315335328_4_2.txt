@@ -1,0 +1,7 @@
+There is a gentlewoman. ||neutral
+There is a apparel. ||entailment
+There is a bag. ||entailment
+There are doll. ||neutral
+The gentlewoman is in a dress. ||neutral
+The bag is of yarn. ||entailment
+The gentlewoman has toys. ||neutral

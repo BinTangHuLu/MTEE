@@ -1,0 +1,5 @@
+There is not a child. ||contradiction
+There is not a jungle gym. ||contradiction
+The child is not playing. ||contradiction
+The child is not outside. ||contradiction
+The child is not playing on jungle gym. ||contradiction

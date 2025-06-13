@@ -1,0 +1,3 @@
+There is a man. ||entailment
+There is indoors. ||entailment
+The man is singing indoors. ||entailment

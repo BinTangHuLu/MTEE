@@ -1,0 +1,3 @@
+there are players ||entailment
+there is a game ||entailment
+the players are in the game ||entailment

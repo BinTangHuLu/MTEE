@@ -1,0 +1,6 @@
+there is not a man ||contradiction
+there is not a bass ||contradiction
+the bass is not playing ||neutral
+the bass is not singing ||contradiction
+the man is not playing bass ||contradiction
+the man is not singing bass ||contradiction

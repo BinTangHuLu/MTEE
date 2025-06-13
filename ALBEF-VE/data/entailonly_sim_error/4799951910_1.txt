@@ -1,0 +1,3 @@
+EA,hat,brimmed
+R,on
+A,bright yellow

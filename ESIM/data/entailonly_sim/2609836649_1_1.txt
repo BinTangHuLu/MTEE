@@ -1,0 +1,3 @@
+There is a pup. ||entailment
+The pup is brown. ||entailment
+The pup swims. ||entailment

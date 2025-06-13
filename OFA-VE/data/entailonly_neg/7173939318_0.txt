@@ -1,0 +1,4 @@
+There is not a pier. ||Contradiction
+There are not people. ||Contradiction
+The people are not many. ||Entailment
+The pier does not have people. ||Contradiction

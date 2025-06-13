@@ -1,0 +1,3 @@
+there are community ||entailment
+there is a lap ||contradiction
+the community are on stage ||entailment

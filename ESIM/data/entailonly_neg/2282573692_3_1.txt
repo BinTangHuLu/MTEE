@@ -1,0 +1,4 @@
+There are not women. ||contradiction
+There is not a tub. ||contradiction
+The tub is not hot. ||contradiction
+The women are not in the tub. ||contradiction

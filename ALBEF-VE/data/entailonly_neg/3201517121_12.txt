@@ -1,0 +1,4 @@
+there are not twins ||contradiction
+there are not shirts ||contradiction
+the shirts are not long ||entailment
+the twins are not having a confrontation ||contradiction

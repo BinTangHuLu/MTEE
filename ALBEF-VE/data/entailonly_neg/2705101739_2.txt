@@ -1,0 +1,4 @@
+there is not a boy ||contradiction
+there is not an instrument ||contradiction
+the instrument is not musical ||neutral
+the boy is not playing the instrument ||entailment

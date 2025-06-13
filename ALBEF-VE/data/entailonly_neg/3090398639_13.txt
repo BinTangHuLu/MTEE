@@ -1,0 +1,2 @@
+there are not bicyclists ||contradiction
+the bicyclists are not riding ||contradiction

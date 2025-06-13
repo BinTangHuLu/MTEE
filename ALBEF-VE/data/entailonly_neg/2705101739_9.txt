@@ -1,0 +1,3 @@
+there are not people ||contradiction
+there is not a man ||contradiction
+the people are not sitting around the man ||entailment

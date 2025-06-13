@@ -1,0 +1,4 @@
+There is a apparel. ||Entailment
+There is a cartoon. ||Contradiction
+The apparel has a color. ||Entailment
+The apparel vary in color. ||Entailment

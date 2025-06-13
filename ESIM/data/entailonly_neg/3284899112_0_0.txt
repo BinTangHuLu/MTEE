@@ -1,0 +1,8 @@
+There is not a man. ||contradiction
+There is not a woman. ||contradiction
+There are not hands. ||contradiction
+There is not a building. ||contradiction
+The man does not look at hands. ||contradiction
+The woman does not look at hands. ||contradiction
+The man is not in front of the building. ||contradiction
+The woman is not in front of the building. ||contradiction

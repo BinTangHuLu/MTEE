@@ -1,0 +1,4 @@
+There is not a rock. ||Contradiction
+There are not people. ||Contradiction
+The rock is not big. ||Entailment
+The people are not climbing the rock. ||Contradiction

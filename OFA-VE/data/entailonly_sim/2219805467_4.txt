@@ -1,0 +1,4 @@
+There is a pup. ||Entailment
+There is some drink. ||Contradiction
+The pup is by water. ||Entailment
+The pup is with a ball. ||Entailment

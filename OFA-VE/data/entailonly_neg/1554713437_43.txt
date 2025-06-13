@@ -1,0 +1,2 @@
+There is not an animal. ||Contradiction
+The animal is not walking. ||Entailment

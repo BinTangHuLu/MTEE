@@ -1,0 +1,4 @@
+there is a baby ||entailment
+there is a exit ||entailment
+the baby is young ||neutral
+the baby looks out of the door ||entailment

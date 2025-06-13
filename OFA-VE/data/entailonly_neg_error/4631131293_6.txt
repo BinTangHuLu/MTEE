@@ -1,0 +1,2 @@
+EA,skirt,same
+RE2,are wearing,skirt

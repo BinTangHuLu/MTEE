@@ -1,0 +1,4 @@
+There is a boy. ||Entailment
+There is a board. ||Entailment
+The board is wooden. ||Entailment
+The boy is being over board. ||Entailment

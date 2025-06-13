@@ -1,0 +1,6 @@
+There is not a male. ||Entailment
+There is not a hat. ||Contradiction
+There is not a head. ||Contradiction
+The male is not male. ||Contradiction
+The male does not have a hat. ||Contradiction
+The hat is not over the head. ||Entailment

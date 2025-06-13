@@ -1,0 +1,2 @@
+There are not people. ||Contradiction
+There are not three people. ||Entailment

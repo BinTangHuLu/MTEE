@@ -1,0 +1,8 @@
+there is not a woman ||contradiction
+there is not a shirt ||entailment
+there are not shorts ||contradiction
+there is not a girl ||contradiction
+the shirt is not yellow ||contradiction
+the shorts are not red ||entailment
+the girl is not young ||entailment
+the woman is not standing next to the girl ||entailment

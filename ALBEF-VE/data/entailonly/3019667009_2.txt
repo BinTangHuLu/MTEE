@@ -1,0 +1,3 @@
+there are boys ||entailment
+the boys are two ||neutral
+the boys are playing outside ||entailment

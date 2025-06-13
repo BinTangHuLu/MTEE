@@ -1,0 +1,7 @@
+there is a dude ||entailment
+there is a blouse ||entailment
+there is a fedora ||contradiction
+the blouse is brown ||entailment
+the dude is holding ||entailment
+the dude is holding the hat ||entailment
+the fedora is above the man ||contradiction

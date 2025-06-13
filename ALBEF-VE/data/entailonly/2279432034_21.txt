@@ -1,0 +1,3 @@
+there is a conductor ||entailment
+there are musicians ||entailment
+the conductor leads musicians ||entailment

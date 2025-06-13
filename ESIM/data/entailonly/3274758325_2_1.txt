@@ -1,0 +1,4 @@
+There is a Person. ||entailment
+There is a bandanna. ||entailment
+The bandanna is orange. ||entailment
+The Person is playing flute. ||entailment

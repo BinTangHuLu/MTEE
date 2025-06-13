@@ -1,0 +1,4 @@
+There is a dude. ||Entailment
+There is a child. ||Entailment
+There are some development. ||Neutral
+The dude and the boy are selling items. ||Entailment

@@ -1,0 +1,7 @@
+there is a childbearing ||entailment
+there is a dominant ||entailment
+there is a path ||entailment
+the dominant is yellow ||entailment
+the childbearing is wearing ||entailment
+the childbearing is wearing the top ||entailment
+the childbearing is walking on the sidewalk ||entailment

@@ -1,0 +1,5 @@
+There is a pup. ||entailment
+The pup is dark colored. ||entailment
+The pup is digging. ||entailment
+The pup is in the snow. ||entailment
+The pup is digging through snow. ||entailment

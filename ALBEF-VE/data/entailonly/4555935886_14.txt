@@ -1,0 +1,3 @@
+there is a lady ||entailment
+there is some laundry ||entailment
+the lady does laundry ||entailment

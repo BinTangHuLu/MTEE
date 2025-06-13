@@ -1,0 +1,4 @@
+there is a dude ||entailment
+there is a army ||entailment
+the dude is helping others ||neutral
+the dude is in military ||entailment

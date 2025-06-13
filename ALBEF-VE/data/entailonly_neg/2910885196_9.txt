@@ -1,0 +1,6 @@
+there is not a man ||contradiction
+there are not women ||contradiction
+there is not a cake ||contradiction
+the man does not grin ||contradiction
+the man does not grin at women ||contradiction
+the man does not stand behind cake ||contradiction

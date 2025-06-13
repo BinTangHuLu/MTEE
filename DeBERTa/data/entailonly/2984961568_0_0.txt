@@ -1,0 +1,5 @@
+There are People. ||entailment
+There is a bus. ||entailment
+The bus is double decker. ||entailment
+People wait to get on bus. ||entailment
+People are night. ||entailment

@@ -1,0 +1,6 @@
+there is a man ||entailment
+there is a microphone ||entailment
+there is a tent ||entailment
+the man is dressed in yellow ||entailment
+the man sings into the microphone ||entailment
+the man is inside of the tent ||entailment

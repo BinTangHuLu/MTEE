@@ -1,0 +1,3 @@
+there are computers ||entailment
+there are people ||entailment
+the computers are being used by people ||entailment

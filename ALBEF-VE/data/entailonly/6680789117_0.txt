@@ -1,0 +1,2 @@
+there are people ||entailment
+there are kayaking ||entailment

@@ -1,0 +1,3 @@
+there are not miners ||contradiction
+there is not digging ||contradiction
+the miners are not digging ||contradiction

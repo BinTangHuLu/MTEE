@@ -1,0 +1,5 @@
+There is not a man. ||contradiction
+There is not a player. ||contradiction
+There is not a guitar. ||contradiction
+The man is not young. ||contradiction
+The man is not a player with the guitar. ||contradiction

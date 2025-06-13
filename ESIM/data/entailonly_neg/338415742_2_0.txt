@@ -1,0 +1,6 @@
+There is not a man. ||contradiction
+There is not a duffel bag. ||contradiction
+There is not a cart. ||contradiction
+There is not a street. ||contradiction
+The man is not with a duffel bag. ||contradiction
+The man does not walk with the girl. ||contradiction

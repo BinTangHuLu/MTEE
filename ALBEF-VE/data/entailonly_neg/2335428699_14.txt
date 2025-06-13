@@ -1,0 +1,4 @@
+there are not kids ||contradiction
+there is not a trampoline ||contradiction
+there are not two kids ||contradiction
+the kids are not on the trampoline ||contradiction

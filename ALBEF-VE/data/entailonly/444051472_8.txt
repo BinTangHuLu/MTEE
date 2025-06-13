@@ -1,0 +1,8 @@
+there is a man ||entailment
+there is a table ||entailment
+there is a book ||entailment
+there are some ducks ||entailment
+the man is reading ||entailment
+the man is at table ||entailment
+the man is reading book ||neutral
+the ducks are at sight ||entailment

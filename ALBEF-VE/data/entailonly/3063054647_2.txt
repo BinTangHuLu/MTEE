@@ -1,0 +1,6 @@
+there are kids ||entailment
+there is a path ||entailment
+there is an area ||entailment
+the area is wooded ||entailment
+kids walk down the path ||entailment
+the path is in the area ||entailment

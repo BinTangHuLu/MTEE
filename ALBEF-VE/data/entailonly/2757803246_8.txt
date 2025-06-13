@@ -1,0 +1,4 @@
+there is a boy ||entailment
+there are some people ||entailment
+the boy is energetic ||entailment
+the boy runs around people ||entailment

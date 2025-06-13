@@ -1,0 +1,3 @@
+There is a girl. ||entailment
+There are some skis. ||entailment
+The girl has on skis. ||entailment

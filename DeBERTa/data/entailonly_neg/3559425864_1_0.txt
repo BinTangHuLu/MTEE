@@ -1,0 +1,7 @@
+There is not a cyclist. ||contradiction
+There is not an ocean. ||contradiction
+The cyclist is not riding. ||contradiction
+The cyclist is not near. ||contradiction
+The cyclist is not near sunset. ||contradiction
+The cyclist was not riding near. ||contradiction
+The cyclist was not riding sunset. ||contradiction

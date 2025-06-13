@@ -1,0 +1,3 @@
+there are women ||entailment
+there are asian ||entailment
+the women are hugging each other ||entailment

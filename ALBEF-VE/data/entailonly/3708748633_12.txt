@@ -1,0 +1,4 @@
+there is a man ||entailment
+there is a quilt ||entailment
+the man is older ||entailment
+the man is wearing quilt ||entailment

@@ -1,0 +1,4 @@
+there is a body ||entailment
+there is a lap ||contradiction
+the body is on stage ||entailment
+the body is with a microphone ||entailment

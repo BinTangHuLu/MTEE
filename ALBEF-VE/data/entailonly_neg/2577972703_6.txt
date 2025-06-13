@@ -1,0 +1,6 @@
+there is not a girl ||contradiction
+there is not a face ||contradiction
+there is not some finger paint ||contradiction
+the girl is not with finger paint on her face ||contradiction
+the face does not have finger paint ||contradiction
+the girl is not laughing ||contradiction

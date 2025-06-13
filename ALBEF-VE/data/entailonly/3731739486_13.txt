@@ -1,0 +1,19 @@
+there are people ||entailment
+there are males ||entailment
+there are shirts ||entailment
+there are slacks ||contradiction
+there are females ||entailment
+there are buses ||entailment
+there are school buses ||entailment
+there are papers ||entailment
+the male is in a blue shirt ||entailment
+the male is in slacks ||contradiction
+the female is in pink ||entailment
+the female is holding a paper ||entailment
+the female is on the phone ||entailment
+the people are in a school bus ||contradiction
+the male is in a shirt ||entailment
+the male is in slacks ||contradiction
+the female is in pink ||entailment
+the female is holding a paper ||entailment
+the female is on the phone ||entailment

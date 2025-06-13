@@ -1,0 +1,3 @@
+there is not an escalator ||contradiction
+the escalator is not indoors ||entailment
+the escalator is not indoors ||entailment

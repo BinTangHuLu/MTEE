@@ -1,0 +1,3 @@
+there is a pup ||entailment
+there is a bludgeon ||entailment
+the pup is chasing the cow ||entailment

@@ -1,0 +1,4 @@
+There is not a boy. ||Entailment
+There is not a bed. ||Entailment
+The boy is not very tired. ||Entailment
+The boy is not resting on the bed. ||Entailment

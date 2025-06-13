@@ -1,0 +1,5 @@
+there is a lady ||entailment
+there is a beach ||entailment
+there is a crowd ||entailment
+the lady is black ||entailment
+the lady is walking on the beach ||contradiction

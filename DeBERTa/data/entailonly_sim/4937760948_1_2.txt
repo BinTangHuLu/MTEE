@@ -1,0 +1,3 @@
+There is a child. ||contradiction
+There is a automobile. ||entailment
+The child is inside the vehicle. ||contradiction

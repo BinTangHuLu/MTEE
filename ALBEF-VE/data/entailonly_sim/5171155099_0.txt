@@ -1,0 +1,3 @@
+there is a body ||entailment
+there is an bodily ||entailment
+the body is riding the animal ||entailment

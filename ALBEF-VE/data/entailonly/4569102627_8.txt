@@ -1,0 +1,3 @@
+there is a girl ||entailment
+there is something ||entailment
+the girl is drinking something ||entailment

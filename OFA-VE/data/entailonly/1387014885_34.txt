@@ -1,0 +1,3 @@
+There are people. ||Entailment
+There is an event. ||Entailment
+The people are talking at the event. ||Entailment

@@ -1,0 +1,3 @@
+there is a animal ||entailment
+there is a combination of jeans ||entailment
+the animal is wearing jeans ||contradiction

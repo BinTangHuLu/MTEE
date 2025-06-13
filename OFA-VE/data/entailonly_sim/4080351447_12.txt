@@ -1,0 +1,4 @@
+There is a dude. ||Entailment
+There is a gallery. ||Contradiction
+The dude is cooking. ||Entailment
+The dude is cooking at the kitchen. ||Entailment

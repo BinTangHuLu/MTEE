@@ -1,0 +1,4 @@
+There are men. ||entailment
+There is a basketball. ||entailment
+The men have no audience. ||entailment
+The men are playing basketball. ||entailment

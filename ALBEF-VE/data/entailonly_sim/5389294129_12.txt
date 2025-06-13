@@ -1,0 +1,3 @@
+there are dude ||entailment
+there are banner ||entailment
+the dude are waving flags ||entailment

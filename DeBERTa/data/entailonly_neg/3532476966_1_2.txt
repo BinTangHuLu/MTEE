@@ -1,0 +1,5 @@
+There are not men. ||contradiction
+There is not a woman. ||contradiction
+There is not produce. ||contradiction
+The men do not look at produce. ||contradiction
+The woman does not look at produce. ||contradiction

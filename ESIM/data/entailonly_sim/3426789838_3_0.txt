@@ -1,0 +1,5 @@
+There is a baby. ||entailment
+There is a dude. ||entailment
+There is a basin. ||neutral
+The baby is thrown by the man. ||entailment
+The dude is in the pool. ||entailment

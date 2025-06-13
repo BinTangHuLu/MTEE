@@ -1,0 +1,4 @@
+There are clan. ||Entailment
+There is a association. ||Entailment
+The clan laugh. ||Neutral
+The clan play. ||Neutral

@@ -1,0 +1,6 @@
+There is a band. ||entailment
+There is some music. ||entailment
+There is a venue. ||entailment
+The venue is large. ||neutral
+The band is playing music. ||entailment
+The band is playing at the venue. ||entailment

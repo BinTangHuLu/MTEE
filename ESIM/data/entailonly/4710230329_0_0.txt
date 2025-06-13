@@ -1,0 +1,6 @@
+There is a tram. ||entailment
+There is a street. ||entailment
+There are pedestrians. ||entailment
+The tram is blue. ||entailment
+The tram goes down the street. ||entailment
+The pedestrians sight-see the street. ||entailment

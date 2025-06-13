@@ -1,0 +1,5 @@
+There are dude. ||entailment
+There are female. ||entailment
+There are two dude. ||contradiction
+The dude are outside conversations. ||entailment
+The female are outside conversations. ||entailment

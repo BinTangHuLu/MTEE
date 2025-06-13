@@ -1,0 +1,5 @@
+There is not a woman. ||contradiction
+There is not a picture. ||contradiction
+The woman is not two. ||contradiction
+The woman is not in the picture. ||entailment
+The woman is not outside. ||contradiction

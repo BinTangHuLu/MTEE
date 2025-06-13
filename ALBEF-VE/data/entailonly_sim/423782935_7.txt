@@ -1,0 +1,3 @@
+there are dude ||entailment
+there is apparatus ||entailment
+the dude are standing outside near equipment ||entailment

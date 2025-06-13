@@ -1,0 +1,3 @@
+There is a dude. ||Entailment
+There are some development. ||Neutral
+The dude is examining items. ||Entailment

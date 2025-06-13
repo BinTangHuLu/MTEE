@@ -1,0 +1,8 @@
+there is a child ||entailment
+there is a alcohol ||entailment
+there is a period ||entailment
+the child is young ||neutral
+the period is beautiful ||neutral
+the child took a sip ||entailment
+the imbibe is of the drink ||entailment
+the imbibe is on the day ||entailment

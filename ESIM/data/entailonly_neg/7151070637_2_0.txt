@@ -1,0 +1,4 @@
+There are not runners. ||contradiction
+There are not buildings. ||contradiction
+The buildings are not large. ||neutral
+The runners are not running towards buildings. ||contradiction

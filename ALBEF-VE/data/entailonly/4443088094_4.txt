@@ -1,0 +1,3 @@
+there are people ||entailment
+there is a sidewalk ||entailment
+people walk down sidewalk ||entailment

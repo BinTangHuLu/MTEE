@@ -1,0 +1,4 @@
+there is not a man ||contradiction
+there is not a bus ride ||contradiction
+the man is not well dressed ||entailment
+the man is not waiting for bus ride ||contradiction

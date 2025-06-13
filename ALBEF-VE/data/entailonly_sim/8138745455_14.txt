@@ -1,0 +1,4 @@
+there is a agreeable ||entailment
+there are some boy ||entailment
+the boy are three old ||neutral
+the agreeable is being played by guys ||entailment

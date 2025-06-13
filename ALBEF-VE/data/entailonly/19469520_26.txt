@@ -1,0 +1,5 @@
+there are cyclists ||entailment
+there is a group ||entailment
+there is a race ||entailment
+the race is outdoors ||entailment
+the cyclists prepare for the race ||entailment

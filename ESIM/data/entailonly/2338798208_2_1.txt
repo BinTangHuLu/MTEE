@@ -1,0 +1,3 @@
+There are women. ||entailment
+The women are happy. ||entailment
+The women are about baking cupcakes. ||entailment

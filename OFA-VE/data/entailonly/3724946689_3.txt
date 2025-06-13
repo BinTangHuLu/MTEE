@@ -1,0 +1,4 @@
+There are People. ||Entailment
+There is a ride. ||Entailment
+The ride is park. ||Entailment
+People are riding a ride. ||Entailment

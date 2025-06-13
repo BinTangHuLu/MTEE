@@ -1,0 +1,2 @@
+There is a soccer agreeable. ||entailment
+The soccer agreeable is being played. ||entailment

@@ -1,0 +1,5 @@
+There are dude. ||entailment
+There are attire. ||entailment
+There are dude. ||entailment
+The dude are mean. ||neutral
+The attire are wearing. ||entailment

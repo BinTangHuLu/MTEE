@@ -1,0 +1,4 @@
+there is a acrobat ||entailment
+there is a air ||entailment
+the air is painted ||entailment
+the acrobat has a face ||entailment

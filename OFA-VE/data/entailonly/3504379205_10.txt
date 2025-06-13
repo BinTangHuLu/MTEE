@@ -1,0 +1,2 @@
+There are People. ||Entailment
+The People are shopping. ||Entailment

@@ -1,0 +1,3 @@
+there is a man ||entailment
+there is a pocket ||entailment
+the man reaches for something in the pocket ||entailment

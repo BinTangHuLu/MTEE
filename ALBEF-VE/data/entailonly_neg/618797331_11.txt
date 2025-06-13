@@ -1,0 +1,6 @@
+there is not a boy ||contradiction
+there is not a sweater ||contradiction
+there is not a necklace ||contradiction
+the boy is not little ||contradiction
+the necklace is not wooden and glass beads ||entailment
+the boy does not hold up necklace ||contradiction

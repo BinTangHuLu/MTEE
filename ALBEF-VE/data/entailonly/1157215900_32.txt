@@ -1,0 +1,3 @@
+there is a person ||entailment
+there is bread ||entailment
+the person is near bread ||entailment

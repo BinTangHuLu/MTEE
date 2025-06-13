@@ -1,0 +1,2 @@
+there are doll ||entailment
+the kids play with doll ||contradiction

@@ -1,0 +1,8 @@
+there is a dude ||entailment
+there is a fedora ||contradiction
+there is a architecture ||entailment
+there is a kitten ||entailment
+the dude is standing ||entailment
+the dude is standing near the building ||neutral
+the kitten is on the man ||contradiction
+the dude is with the cat ||entailment

@@ -1,0 +1,3 @@
+there are not children ||contradiction
+the children are not fun ||contradiction
+the children are not having fun ||contradiction

@@ -1,0 +1,7 @@
+There is a boy. ||entailment
+The boy is circular. ||neutral
+The clue is horizontal. ||neutral
+The clue is made. ||neutral
+The clue is erected. ||neutral
+The boy uses paint. ||contradiction
+The male stencils words on the clue. ||neutral

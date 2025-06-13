@@ -1,0 +1,4 @@
+There is a man. ||entailment
+There is water. ||entailment
+The man is exercising. ||entailment
+The man is exercising by water. ||entailment

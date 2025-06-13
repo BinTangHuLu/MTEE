@@ -1,0 +1,7 @@
+there is winter ||entailment
+there is time ||entailment
+there is shopping ||entailment
+there is a corner ||entailment
+there is a market ||entailment
+the shopping is at the market ||neutral
+the shopping is at the corner ||entailment

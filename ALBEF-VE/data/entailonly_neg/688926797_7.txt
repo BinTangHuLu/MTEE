@@ -1,0 +1,8 @@
+there is not a girl ||contradiction
+there is not a dress ||contradiction
+the dress is not blue ||contradiction
+the girl is not standing with girls right hand ||entailment
+there is not a hand ||contradiction
+the hand is not right ||entailment
+there is not a hip ||contradiction
+the girls right hand is not on the hip ||entailment

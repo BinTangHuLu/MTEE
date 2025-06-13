@@ -1,0 +1,2 @@
+There are Men. ||Entailment
+The Men are sitting. ||Entailment

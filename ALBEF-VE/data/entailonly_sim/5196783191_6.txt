@@ -1,0 +1,4 @@
+there is a appearance ||entailment
+there is a line ||entailment
+the appearance is light ||entailment
+the line played the show ||contradiction

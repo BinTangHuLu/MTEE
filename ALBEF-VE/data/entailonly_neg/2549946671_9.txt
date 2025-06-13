@@ -1,0 +1,5 @@
+there is not a child ||contradiction
+there is not a phone ||contradiction
+the child is not little ||entailment
+the child is not talking on the phone ||contradiction
+the child is not outside the phone ||contradiction

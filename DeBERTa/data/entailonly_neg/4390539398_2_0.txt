@@ -1,0 +1,4 @@
+There are not kids. ||contradiction
+There is not a skit. ||contradiction
+The kids did not perform the skit. ||contradiction
+The kids did not perform camping. ||contradiction

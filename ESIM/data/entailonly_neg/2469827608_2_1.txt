@@ -1,0 +1,5 @@
+There is not She. ||contradiction
+There are not questions. ||contradiction
+There is not a table. ||contradiction
+She does not answer questions. ||contradiction
+She is not sitting at the table. ||contradiction

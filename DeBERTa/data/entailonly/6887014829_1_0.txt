@@ -1,0 +1,3 @@
+There is a couple. ||entailment
+The couple is posing. ||entailment
+The couple is posing for camera. ||entailment

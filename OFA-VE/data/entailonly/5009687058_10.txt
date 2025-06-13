@@ -1,0 +1,4 @@
+There are people. ||Entailment
+There is a football. ||Entailment
+There is outdoors. ||Entailment
+The people are playing football. ||Entailment

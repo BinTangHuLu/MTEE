@@ -1,0 +1,5 @@
+There is a pup. ||entailment
+There is a cord. ||neutral
+The cord is red. ||entailment
+The pup is on the leash. ||entailment
+The pup is walking away. ||entailment

@@ -1,0 +1,4 @@
+there is a body ||entailment
+there is some conservation ||entailment
+the conservation is eye ||neutral
+the body is wearing protection ||entailment

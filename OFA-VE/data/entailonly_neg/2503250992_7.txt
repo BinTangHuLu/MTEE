@@ -1,0 +1,4 @@
+There is not a man. ||Contradiction
+There is not an article. ||Contradiction
+There is not some clothing. ||Contradiction
+The man does not have on the article. ||Contradiction

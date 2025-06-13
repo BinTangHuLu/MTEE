@@ -1,0 +1,5 @@
+there is a child ||entailment
+there is a farmland ||neutral
+the child is ||contradiction
+the child is in the field ||entailment
+the child blew bubbles ||entailment

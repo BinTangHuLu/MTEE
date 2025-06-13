@@ -1,0 +1,2 @@
+There are Humans. ||entailment
+Humans are working. ||entailment

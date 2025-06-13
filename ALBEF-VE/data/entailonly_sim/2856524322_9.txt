@@ -1,0 +1,5 @@
+there is a dude ||entailment
+there is a pedal ||entailment
+the dude is doing tricks ||entailment
+the dude is doing the bike ||entailment
+the dude is at night ||entailment

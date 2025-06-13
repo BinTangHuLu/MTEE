@@ -1,0 +1,4 @@
+there is a person ||entailment
+there is a helmet ||entailment
+the helmet is green ||entailment
+the person is snowing helmet ||neutral

@@ -1,0 +1,4 @@
+There are community. ||entailment
+The community are some. ||entailment
+The community are outside. ||entailment
+The community are kneeling. ||entailment

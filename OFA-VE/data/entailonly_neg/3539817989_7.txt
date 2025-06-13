@@ -1,0 +1,5 @@
+There is not a person. ||Contradiction
+There are not some cats. ||Entailment
+The person is not standing. ||Entailment
+The person is not next to cats. ||Entailment
+There is not outdoors. ||Contradiction

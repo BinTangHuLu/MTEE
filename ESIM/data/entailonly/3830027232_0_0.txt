@@ -1,0 +1,4 @@
+There are people. ||entailment
+There is a store. ||entailment
+There are two people. ||entailment
+The people are near the store. ||entailment

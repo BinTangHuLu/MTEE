@@ -1,0 +1,5 @@
+there is a person ||entailment
+there is a helmet ||entailment
+there is an atm ||entailment
+the person is in the helmet ||entailment
+the person uses the atm ||entailment

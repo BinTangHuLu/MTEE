@@ -1,0 +1,3 @@
+There is a association. ||neutral
+There are some community. ||neutral
+The association are standing by people. ||entailment

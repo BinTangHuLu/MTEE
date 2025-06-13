@@ -1,0 +1,5 @@
+There is not a woman. ||contradiction
+There is not a man. ||contradiction
+The woman is not old. ||contradiction
+The woman is not playing bingo. ||contradiction
+The man is not playing bingo. ||contradiction

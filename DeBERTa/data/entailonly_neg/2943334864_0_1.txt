@@ -1,0 +1,5 @@
+There is not a man. ||contradiction
+There is not a motorcycle. ||contradiction
+The man is not sitting. ||contradiction
+The motorcycle is hisnot . ||neutral
+The man is not on the motorcycle. ||contradiction

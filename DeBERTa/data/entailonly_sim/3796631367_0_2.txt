@@ -1,0 +1,3 @@
+There is a female. ||entailment
+There is a rostrum. ||entailment
+The female is standing at the lectern. ||entailment

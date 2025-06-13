@@ -1,0 +1,3 @@
+there are not women ||contradiction
+there is not jewelry ||contradiction
+the women do not wear jewelry ||contradiction

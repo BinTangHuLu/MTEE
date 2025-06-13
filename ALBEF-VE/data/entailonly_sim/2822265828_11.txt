@@ -1,0 +1,2 @@
+there is an accident ||neutral
+the cheerleaders are at the accident ||contradiction

@@ -1,0 +1,3 @@
+There is a theme. ||neutral
+There is a photo. ||entailment
+The theme is red. ||entailment

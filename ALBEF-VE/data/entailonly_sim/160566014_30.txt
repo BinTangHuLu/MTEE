@@ -1,0 +1,4 @@
+there is a auto ||entailment
+there are some community ||entailment
+the community are sitting ||contradiction
+the auto is with people ||neutral

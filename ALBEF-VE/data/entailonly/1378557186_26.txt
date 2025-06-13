@@ -1,0 +1,3 @@
+there is a hunter ||entailment
+there is a dog ||entailment
+the hunter is posing with the dog ||entailment

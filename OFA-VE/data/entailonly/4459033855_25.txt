@@ -1,0 +1,4 @@
+There are men. ||Entailment
+All men wear formal. ||Neutral
+Men wear similar. ||Entailment
+Men are dress in wear. ||Entailment

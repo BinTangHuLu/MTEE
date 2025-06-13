@@ -1,0 +1,4 @@
+There is not a crowd. ||Contradiction
+There is not a city. ||Contradiction
+The crowd is not large. ||Entailment
+The crowd is not in the city. ||Entailment

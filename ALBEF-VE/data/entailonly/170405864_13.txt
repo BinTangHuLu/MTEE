@@ -1,0 +1,3 @@
+there is a boy ||contradiction
+there is a woman ||entailment
+the boy is holding the woman ||entailment

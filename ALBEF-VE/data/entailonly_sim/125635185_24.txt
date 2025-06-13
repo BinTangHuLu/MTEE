@@ -1,0 +1,3 @@
+there are clan ||entailment
+there is a fluctuation ||entailment
+the clan are playing on the swing ||entailment

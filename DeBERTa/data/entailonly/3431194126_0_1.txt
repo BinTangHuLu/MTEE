@@ -1,0 +1,4 @@
+There is a couple. ||entailment
+There are some outfits. ||entailment
+The outfits are bright. ||entailment
+The couple is wearing bright outfits. ||entailment

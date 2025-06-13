@@ -1,0 +1,6 @@
+There is not a man. ||contradiction
+There is not a chair. ||contradiction
+There are not some channels. ||contradiction
+The man is not sitting. ||contradiction
+The chair is not red. ||contradiction
+The man is not flipping through channels. ||neutral

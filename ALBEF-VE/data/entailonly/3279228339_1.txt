@@ -1,0 +1,4 @@
+there is a cafe ||entailment
+there are men ||entailment
+there are two men ||entailment
+the men sit alone ||entailment

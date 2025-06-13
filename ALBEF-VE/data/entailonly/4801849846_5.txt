@@ -1,0 +1,6 @@
+there is a man ||entailment
+there are some pants ||entailment
+there are some buildings ||entailment
+the buildings are colorful ||entailment
+the man is with pants ||entailment
+the man is walking near buildings ||entailment

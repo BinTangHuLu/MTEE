@@ -1,0 +1,4 @@
+There are clan. ||neutral
+There is a avenue. ||entailment
+The clan are looking at the street. ||contradiction
+The clan are looking at the binoculars. ||contradiction

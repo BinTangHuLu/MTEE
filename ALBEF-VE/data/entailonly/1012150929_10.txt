@@ -1,0 +1,5 @@
+there is a boy ||entailment
+there is a building ||entailment
+there is a game ||entailment
+the boy is sitting in the building ||contradiction
+the boy is playing the game ||entailment

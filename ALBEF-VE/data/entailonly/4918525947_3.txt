@@ -1,0 +1,3 @@
+there is a geisha ||entailment
+there is outdoors ||entailment
+the geisha is outdoors ||entailment

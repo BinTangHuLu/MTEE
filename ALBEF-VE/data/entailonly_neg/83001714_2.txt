@@ -1,0 +1,5 @@
+there are not people ||contradiction
+there is not a game ||contradiction
+the game is not playing ||neutral
+people are not playing the game ||entailment
+the game is not outside ||contradiction

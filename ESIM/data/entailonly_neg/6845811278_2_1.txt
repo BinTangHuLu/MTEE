@@ -1,0 +1,11 @@
+There is not a man. ||contradiction
+There is not a bike. ||contradiction
+There is not a laundry hamper. ||contradiction
+There are not clothes. ||contradiction
+The man is not old. ||contradiction
+The laundry hamper is not blue. ||contradiction
+The laundry hamper is not full of clothes. ||contradiction
+The man is not riding the bike. ||contradiction
+The bike is not with the laundry hamper. ||contradiction
+The laundry hamper is not full of clothes. ||contradiction
+The man is not on the handlebars. ||contradiction

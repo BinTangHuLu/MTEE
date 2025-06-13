@@ -1,0 +1,3 @@
+There are Bicyclists. ||Entailment
+There are each other. ||Entailment
+The Bicyclists are riding against each other. ||Entailment

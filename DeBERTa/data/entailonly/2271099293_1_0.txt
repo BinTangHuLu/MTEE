@@ -1,0 +1,3 @@
+There is a man. ||entailment
+There is a saxophone. ||entailment
+The man plays saxophone. ||entailment

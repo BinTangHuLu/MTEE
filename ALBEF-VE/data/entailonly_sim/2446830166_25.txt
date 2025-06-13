@@ -1,0 +1,3 @@
+there are association ||entailment
+there is a avenue ||entailment
+the association are on street ||entailment

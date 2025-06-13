@@ -1,0 +1,6 @@
+There are dogs. ||entailment
+There is a log. ||entailment
+There is a meadow. ||entailment
+The log is big. ||entailment
+The dogs are carrying the log. ||entailment
+The dogs are carrying in the meadow. ||entailment

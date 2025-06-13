@@ -1,0 +1,3 @@
+There is a worker. ||entailment
+There is a shovel. ||entailment
+The worker uses shovel. ||entailment

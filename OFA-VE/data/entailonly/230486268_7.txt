@@ -1,0 +1,3 @@
+There is a kid. ||Entailment
+There is a toy. ||Entailment
+The kid is holding the toy. ||Entailment

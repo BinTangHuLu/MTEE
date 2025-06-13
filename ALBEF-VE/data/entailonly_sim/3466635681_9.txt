@@ -1,0 +1,3 @@
+there is a body ||entailment
+there is a architecture ||entailment
+the body is cleaning the building ||entailment

@@ -1,0 +1,3 @@
+There are female. ||Entailment
+There is deluge. ||Neutral
+The female use umbrellas. ||Entailment

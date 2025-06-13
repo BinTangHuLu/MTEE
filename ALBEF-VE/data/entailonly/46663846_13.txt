@@ -1,0 +1,3 @@
+there are men ||entailment
+there are four men ||entailment
+the men are chatting ||entailment

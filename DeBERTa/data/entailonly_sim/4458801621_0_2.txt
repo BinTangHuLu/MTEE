@@ -1,0 +1,3 @@
+There are community. ||entailment
+There is a bar. ||entailment
+The community are walking through the gate. ||entailment

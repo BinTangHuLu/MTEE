@@ -1,0 +1,5 @@
+There are community. ||neutral
+There is a bar. ||neutral
+There is bread. ||neutral
+community are at the table. ||neutral
+community are eating food. ||neutral

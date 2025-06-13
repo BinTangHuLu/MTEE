@@ -1,0 +1,3 @@
+there is he ||contradiction
+there is a scooter ||entailment
+he is riding a scooter ||entailment

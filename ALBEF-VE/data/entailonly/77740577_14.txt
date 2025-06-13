@@ -1,0 +1,6 @@
+there is a man ||entailment
+there are women ||entailment
+there is furniture ||entailment
+the man and women are together ||entailment
+the man is sitting on furniture ||entailment
+the women are sitting on furniture ||entailment

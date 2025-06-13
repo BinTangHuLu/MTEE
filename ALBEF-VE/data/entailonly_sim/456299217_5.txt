@@ -1,0 +1,2 @@
+there is a geyser ||entailment
+the child sits by the fountain ||entailment

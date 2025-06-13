@@ -1,0 +1,2 @@
+There are friends. ||Entailment
+The friends enjoy company. ||Entailment

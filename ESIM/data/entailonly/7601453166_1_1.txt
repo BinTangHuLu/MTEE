@@ -1,0 +1,7 @@
+There is a male. ||entailment
+The male is circular. ||neutral
+The sign is horizontal. ||neutral
+The sign is made. ||neutral
+The sign is erected. ||neutral
+The male uses paint. ||entailment
+The male stencils words on the sign. ||entailment

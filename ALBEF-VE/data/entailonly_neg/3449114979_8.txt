@@ -1,0 +1,6 @@
+there are not kids ||contradiction
+there are not desks ||contradiction
+there are not bags ||contradiction
+the bags are not plastic ||neutral
+the kids do not sit at desks ||contradiction
+the bags are not in front of kids ||contradiction

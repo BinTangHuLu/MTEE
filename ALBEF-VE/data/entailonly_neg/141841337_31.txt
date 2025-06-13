@@ -1,0 +1,4 @@
+there is not a man ||contradiction
+there is not a body ||contradiction
+the body is hisnot ||contradiction
+the man is not contorting his body ||entailment

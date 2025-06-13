@@ -1,0 +1,9 @@
+there is a man ||entailment
+there is some music ||entailment
+there is a crowd ||entailment
+there are people ||entailment
+there is a stadium ||neutral
+the stadium is packed ||entailment
+the man is playing music ||entailment
+the man is in front of the crowd ||entailment
+the crowd is in the stadium ||contradiction

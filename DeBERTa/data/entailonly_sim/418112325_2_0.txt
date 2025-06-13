@@ -1,0 +1,2 @@
+There is a bar. ||entailment
+The kids eat at the bar. ||contradiction

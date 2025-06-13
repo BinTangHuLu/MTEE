@@ -1,0 +1,4 @@
+there is a kid ||entailment
+there is a trick ||entailment
+the trick is skateboarding ||neutral
+the kid does a trick ||entailment

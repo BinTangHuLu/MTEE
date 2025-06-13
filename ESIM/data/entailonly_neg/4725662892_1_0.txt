@@ -1,0 +1,3 @@
+There are not People. ||contradiction
+There are not watermelons. ||contradiction
+People are not shopping for watermelons. ||contradiction

@@ -1,0 +1,7 @@
+there are boy ||entailment
+there is a green picker ||entailment
+there are business ||entailment
+there are flora ||entailment
+the boy stand in the cherry picker ||entailment
+the green picker is near wires ||entailment
+the green picker is near trees ||entailment

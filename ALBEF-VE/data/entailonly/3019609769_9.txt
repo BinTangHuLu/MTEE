@@ -1,0 +1,4 @@
+there is a group ||entailment
+there are people ||entailment
+the people are dark skinned ||entailment
+the people are walking in the group ||entailment

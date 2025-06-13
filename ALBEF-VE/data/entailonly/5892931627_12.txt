@@ -1,0 +1,6 @@
+there is a game ||entailment
+there is a baseball ||entailment
+there is a player ||entailment
+there is a ball ||entailment
+the game is live ||contradiction
+the player hits the ball ||entailment

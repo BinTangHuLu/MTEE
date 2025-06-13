@@ -1,0 +1,5 @@
+There are not guys. ||Entailment
+There is not grass. ||Contradiction
+The guys are somenot . ||Entailment
+The grass is somenot . ||Entailment
+The guys are not having a good time. ||Neutral

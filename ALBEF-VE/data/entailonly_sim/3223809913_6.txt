@@ -1,0 +1,2 @@
+there is a body ||entailment
+the body is on the skateboard ||entailment

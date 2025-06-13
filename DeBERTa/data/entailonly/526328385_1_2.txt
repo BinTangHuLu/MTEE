@@ -1,0 +1,5 @@
+There is a picture. ||entailment
+There are some people. ||entailment
+There is an amusement park. ||entailment
+The picture is of people enjoying themselves. ||neutral
+The people are at the amusement park. ||entailment

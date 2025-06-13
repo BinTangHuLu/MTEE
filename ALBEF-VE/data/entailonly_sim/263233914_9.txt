@@ -1,0 +1,5 @@
+there is a body ||entailment
+there is a basin ||entailment
+the body is little ||entailment
+the body is wearing a pink bathing suit ||contradiction
+the body laughs by the pool ||entailment

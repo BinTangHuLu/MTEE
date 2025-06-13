@@ -1,0 +1,3 @@
+There is a man. ||entailment
+There is a briefcase. ||entailment
+The man is outdoors with the briefcase. ||entailment

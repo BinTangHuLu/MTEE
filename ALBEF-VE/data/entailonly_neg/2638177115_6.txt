@@ -1,0 +1,4 @@
+there are not men ||contradiction
+there are not pants ||contradiction
+the pants are not khaki green ||entailment
+men are not speaking to fellow acquaintances ||contradiction

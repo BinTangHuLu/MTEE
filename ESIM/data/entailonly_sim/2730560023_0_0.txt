@@ -1,0 +1,11 @@
+There are band. ||neutral
+There is an accident. ||neutral
+There are dressing. ||entailment
+There is a bar. ||contradiction
+The band are preparing. ||neutral
+The accident is catered. ||neutral
+The dressing are lining. ||entailment
+The bar has food. ||contradiction
+The band are preparing for the event. ||neutral
+The accident is with condiments. ||neutral
+The dressing are lining the table. ||entailment

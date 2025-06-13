@@ -1,0 +1,4 @@
+There is a baby. ||entailment
+There is some blizzard. ||neutral
+The baby is dressed in warm winter clothes. ||neutral
+The baby plays in snow. ||entailment

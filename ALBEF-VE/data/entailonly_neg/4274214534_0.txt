@@ -1,0 +1,6 @@
+there is not a woman ||contradiction
+there is not a hat ||contradiction
+there are not ice skates ||contradiction
+the hat is not red ||contradiction
+the woman is not wearing a hat ||contradiction
+the woman is not wearing ice skates ||contradiction

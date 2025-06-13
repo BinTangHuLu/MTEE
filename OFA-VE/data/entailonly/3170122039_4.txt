@@ -1,0 +1,4 @@
+There are girls. ||Entailment
+There are bikes. ||Entailment
+The bikes are outside. ||Entailment
+The girls are riding bikes. ||Entailment

@@ -1,0 +1,3 @@
+there is a set ||entailment
+there is a data processor ||entailment
+the set is in front of the computer ||entailment

@@ -1,0 +1,3 @@
+There are men. ||entailment
+There are woods. ||entailment
+The men are in woods. ||entailment

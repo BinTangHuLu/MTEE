@@ -1,0 +1,3 @@
+There are humans. ||entailment
+The humans are a group. ||entailment
+The humans are looking at the same direction. ||entailment

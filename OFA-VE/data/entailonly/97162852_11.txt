@@ -1,0 +1,4 @@
+There is a Woman. ||Entailment
+There is some fabric. ||Entailment
+There is outdoors. ||Entailment
+The Woman works with fabric. ||Entailment

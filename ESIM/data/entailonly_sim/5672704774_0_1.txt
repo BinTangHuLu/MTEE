@@ -1,0 +1,4 @@
+There are adolescent. ||entailment
+The adolescent are standing up. ||entailment
+There is a bar. ||contradiction
+The adolescent are against the wall. ||entailment

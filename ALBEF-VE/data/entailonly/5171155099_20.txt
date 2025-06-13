@@ -1,0 +1,5 @@
+there is a man ||entailment
+there is a uniform ||entailment
+there is a horse ||entailment
+the uniform is in ||entailment
+the man rides on top of the horse ||entailment

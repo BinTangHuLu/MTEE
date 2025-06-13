@@ -1,0 +1,2 @@
+There are not Animals. ||Contradiction
+The Animals are not play-fighting. ||Entailment

@@ -1,0 +1,3 @@
+There are not women. ||Contradiction
+The women are not three. ||Entailment
+The women are not standing inside. ||Entailment

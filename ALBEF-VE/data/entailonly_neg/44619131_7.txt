@@ -1,0 +1,5 @@
+there are not men ||contradiction
+there are not laptops ||contradiction
+there is not a setting ||contradiction
+the men do not work on laptops ||contradiction
+the men are not in the setting ||neutral

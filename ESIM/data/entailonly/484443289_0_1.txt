@@ -1,0 +1,4 @@
+There is a woman. ||entailment
+There is a jacket. ||entailment
+The woman is old. ||entailment
+The jacket is jean. ||entailment

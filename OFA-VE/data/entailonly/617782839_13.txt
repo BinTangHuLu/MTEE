@@ -1,0 +1,3 @@
+There is a man. ||Entailment
+There is archery. ||Entailment
+The man performs archery. ||Entailment

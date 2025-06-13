@@ -1,0 +1,5 @@
+There is a gentlewoman. ||entailment
+There is an cleave. ||entailment
+The gentlewoman is posing. ||entailment
+The gentlewoman is with an axe. ||entailment
+The gentlewoman is posing in woods. ||entailment

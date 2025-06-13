@@ -1,0 +1,2 @@
+There are not people. ||entailment
+The people are not laughing. ||contradiction

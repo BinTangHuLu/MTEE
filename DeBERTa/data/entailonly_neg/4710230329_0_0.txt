@@ -1,0 +1,6 @@
+There is not a tram. ||contradiction
+There is not a street. ||contradiction
+There are not pedestrians. ||contradiction
+The tram is not blue. ||contradiction
+The tram does not go down the street. ||contradiction
+The pedestrians sight-do not see the street. ||contradiction

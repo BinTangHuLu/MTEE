@@ -1,0 +1,4 @@
+there is not a guy ||contradiction
+there is not a horse ||contradiction
+the guy is not walking ||entailment
+the guy is not walking the horse ||entailment

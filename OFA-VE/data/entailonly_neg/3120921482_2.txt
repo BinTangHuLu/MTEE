@@ -1,0 +1,4 @@
+There is not a Kid. ||Contradiction
+There is not an instrument. ||Contradiction
+The Kid is not holding. ||Contradiction
+The Kid is not holding the instrument. ||Contradiction

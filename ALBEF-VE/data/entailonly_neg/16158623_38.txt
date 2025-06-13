@@ -1,0 +1,8 @@
+there is not a man ||contradiction
+there is not a pyramid ||contradiction
+there is not a bottom ||contradiction
+there is not a human ||contradiction
+the pyramid is not human ||contradiction
+the bottom is not all gray ||entailment
+the man is not on the bottom ||entailment
+the bottom is not of the pyramid ||entailment

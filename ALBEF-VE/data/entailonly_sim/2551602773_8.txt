@@ -1,0 +1,3 @@
+there are community ||entailment
+there is an aircraft ||entailment
+the community are leaving the airplane ||contradiction

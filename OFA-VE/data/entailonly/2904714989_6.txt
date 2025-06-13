@@ -1,0 +1,2 @@
+There are players. ||Entailment
+There is a tennis. ||Entailment

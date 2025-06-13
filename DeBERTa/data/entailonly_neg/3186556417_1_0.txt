@@ -1,0 +1,3 @@
+There are not birds. ||contradiction
+There is not a sidewalk. ||contradiction
+The birds are not outside the sidewalk. ||entailment

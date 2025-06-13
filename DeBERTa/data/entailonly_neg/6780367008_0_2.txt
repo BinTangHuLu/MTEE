@@ -1,0 +1,5 @@
+There are not men. ||contradiction
+The men are not young. ||contradiction
+The men are not looking up at hoop. ||contradiction
+There is not a hoop. ||contradiction
+There is not a basketball. ||contradiction

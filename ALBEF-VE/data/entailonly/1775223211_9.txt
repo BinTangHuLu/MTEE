@@ -1,0 +1,3 @@
+there are women ||entailment
+there is a job ||entailment
+the women are at the job ||neutral

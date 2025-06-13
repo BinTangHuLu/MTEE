@@ -1,0 +1,5 @@
+there is not a game ||contradiction
+there is not a basketball ||contradiction
+there are not teams ||contradiction
+the teams are not college ||contradiction
+the game is not being played by teams ||contradiction

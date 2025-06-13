@@ -1,0 +1,8 @@
+there is not a woman ||contradiction
+there is not a shirt ||contradiction
+there is not a sign ||contradiction
+there is not a street ||contradiction
+the shirt is not white ||contradiction
+the woman is not in the shirt ||neutral
+the woman is not standing next to the sign ||contradiction
+the sign is not outside on the street ||entailment

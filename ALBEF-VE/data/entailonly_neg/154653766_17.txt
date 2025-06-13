@@ -1,0 +1,4 @@
+there is not a group ||contradiction
+there are not some people ||contradiction
+the group is not standing ||entailment
+the group is not standing by people ||contradiction

@@ -1,0 +1,5 @@
+there are men ||entailment
+there is a ladder ||entailment
+the men are on the ladder ||entailment
+there are two men ||entailment
+the men are working together on the ladder ||entailment

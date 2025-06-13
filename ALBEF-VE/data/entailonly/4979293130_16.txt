@@ -1,0 +1,4 @@
+there is a child ||entailment
+there is a moped ||entailment
+the child knows what ||entailment
+the moped is called ||neutral

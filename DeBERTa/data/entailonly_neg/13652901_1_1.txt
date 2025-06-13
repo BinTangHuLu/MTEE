@@ -1,0 +1,3 @@
+There are not workers. ||contradiction
+There is not water. ||contradiction
+The workers are not close to water. ||contradiction

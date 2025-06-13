@@ -1,0 +1,4 @@
+There is a baby. ||Entailment
+There is a blouse. ||Contradiction
+The blouse is Sesame Street. ||Neutral
+The baby is with shirt. ||Entailment

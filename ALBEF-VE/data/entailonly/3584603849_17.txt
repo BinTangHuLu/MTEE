@@ -1,0 +1,4 @@
+there is a plane ||entailment
+there are passengers ||entailment
+the passengers are two ||neutral
+the plane has passengers ||neutral

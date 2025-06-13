@@ -1,0 +1,7 @@
+there is not a girl ||contradiction
+there is not a swimsuit ||contradiction
+there is not a beach ||contradiction
+the girl is not little ||contradiction
+the swimsuit is not flower ||entailment
+the girl is not wearing swimsuit ||contradiction
+the girl is not running across beach ||contradiction

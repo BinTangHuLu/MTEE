@@ -1,0 +1,8 @@
+there is not a girl ||contradiction
+there are not some boards ||contradiction
+there is not a man ||contradiction
+there is not a trail ||contradiction
+the girl is not climbing ||contradiction
+the man does not walk past the trail ||contradiction
+the girl is not climbing the boards ||entailment
+the man is not walking past the girl ||entailment

@@ -1,0 +1,3 @@
+There is not a dog. ||Contradiction
+The dog is not dry. ||Entailment
+The dog does not prepare to get wet. ||Entailment

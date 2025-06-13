@@ -1,0 +1,3 @@
+there is a human ||entailment
+there is a guitar ||entailment
+the human is playing guitar ||entailment

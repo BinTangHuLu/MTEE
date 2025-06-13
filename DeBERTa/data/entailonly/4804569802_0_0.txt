@@ -1,0 +1,5 @@
+There is something. ||neutral
+There is a shot. ||contradiction
+The something is shown. ||entailment
+The something is made of paper. ||entailment
+The something is shown in shot. ||entailment

@@ -1,0 +1,8 @@
+There is not a man. ||contradiction
+There are not some jeans. ||contradiction
+There is not a shirt. ||contradiction
+There is not a woman. ||contradiction
+The man is not wearing. ||contradiction
+The jeans are not blue. ||contradiction
+The shirt is not peach. ||contradiction
+The man is not arguing with the woman. ||contradiction

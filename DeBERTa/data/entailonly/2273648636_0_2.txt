@@ -1,0 +1,10 @@
+There is a man. ||entailment
+There is a picture. ||entailment
+There is a dog. ||entailment
+There is a canvas. ||entailment
+The man is holding. ||entailment
+The dog is small. ||entailment
+The canvas is white. ||entailment
+The man is painting the dog. ||entailment
+The man is holding the picture. ||entailment
+The picture is of the dog. ||entailment

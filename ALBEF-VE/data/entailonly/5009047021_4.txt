@@ -1,0 +1,6 @@
+there is a player ||entailment
+there is an end zone ||entailment
+there are opponents ||entailment
+the player is running ||entailment
+the player is running for the end zone ||neutral
+the opponents chase the player ||entailment

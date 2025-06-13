@@ -1,0 +1,4 @@
+There is a dude. ||entailment
+There is a bar. ||neutral
+The dude stands by the wall. ||entailment
+The bar is outside. ||neutral

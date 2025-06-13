@@ -1,0 +1,4 @@
+There are people. ||entailment
+There is a cap. ||entailment
+The cap is on. ||entailment
+The people has cap. ||entailment

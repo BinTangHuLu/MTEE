@@ -1,0 +1,4 @@
+there is a man ||entailment
+there is a cigarette ||entailment
+the man is young ||neutral
+the man is smoking a cigarette ||entailment

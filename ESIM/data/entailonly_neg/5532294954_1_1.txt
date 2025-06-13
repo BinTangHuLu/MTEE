@@ -1,0 +1,5 @@
+There is not a fireman. ||contradiction
+There is not an axe. ||contradiction
+There is not debris. ||contradiction
+The fireman is not with an axe. ||contradiction
+The fireman does not look at debris. ||contradiction

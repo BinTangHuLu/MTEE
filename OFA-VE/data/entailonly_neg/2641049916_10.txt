@@ -1,0 +1,4 @@
+There is not a kid. ||Contradiction
+There is not a face. ||Contradiction
+The face is not painted. ||Contradiction
+The kid is not face. ||Entailment

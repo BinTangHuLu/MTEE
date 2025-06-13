@@ -1,0 +1,5 @@
+There is not an instrument. ||contradiction
+There is not a performer. ||contradiction
+There is not an audience. ||contradiction
+The instrument does not play the performer. ||contradiction
+The performer does not perform for the audience. ||contradiction

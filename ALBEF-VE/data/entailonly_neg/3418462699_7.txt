@@ -1,0 +1,4 @@
+there is not a body ||contradiction
+there is not a tree ||contradiction
+the tree is not very large ||entailment
+the body is not push over tree ||contradiction

@@ -1,0 +1,4 @@
+there is a guy ||entailment
+there is a hill ||entailment
+the guy is jumping ||entailment
+the guy is jumping down hill ||neutral

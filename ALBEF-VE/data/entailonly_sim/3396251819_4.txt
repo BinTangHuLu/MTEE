@@ -1,0 +1,8 @@
+there is a auto ||entailment
+there is a dude ||entailment
+there is a fur ||entailment
+the dude is wearing a coat ||entailment
+the dude is wearing glasses ||entailment
+the dude is having cameras ||entailment
+the dude is in front of the car ||entailment
+the dude is standing in front of the man ||entailment

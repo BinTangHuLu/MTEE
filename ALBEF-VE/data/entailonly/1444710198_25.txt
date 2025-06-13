@@ -1,0 +1,7 @@
+there are boys ||entailment
+there is a lake ||entailment
+there are rocks ||entailment
+there is water ||entailment
+the boys are at the lake ||entailment
+the boys are playing and skipping rocks ||neutral
+the rocks are in the water ||entailment

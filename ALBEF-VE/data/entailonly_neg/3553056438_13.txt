@@ -1,0 +1,8 @@
+there is not a boy ||contradiction
+there is not a girl ||contradiction
+the boy is not young ||entailment
+the girl is not young ||entailment
+the boy does not kiss with the girl ||contradiction
+the boy is not near hay ||contradiction
+the boy is not near autumn display ||contradiction
+the girl is not near hay ||contradiction

@@ -1,0 +1,4 @@
+there is not a man ||contradiction
+there is not a horn ||contradiction
+the horn is not air ||entailment
+the man is not holding horn ||contradiction

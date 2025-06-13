@@ -1,0 +1,7 @@
+There is not a man. ||contradiction
+There are not some books. ||contradiction
+There is not a chair. ||contradiction
+The man is not handling. ||contradiction
+The chair is not sitting. ||contradiction
+The man is not handling books. ||contradiction
+The man is not sitting in the chair. ||contradiction

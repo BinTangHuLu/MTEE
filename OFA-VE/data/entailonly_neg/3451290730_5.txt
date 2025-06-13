@@ -1,0 +1,4 @@
+There are not men. ||Entailment
+There is not a picture. ||Contradiction
+The men are not in the picture. ||Contradiction
+The men are not outside men. ||Contradiction

@@ -1,0 +1,8 @@
+There are not women. ||contradiction
+There is not Police. ||contradiction
+There are not jackets. ||contradiction
+There is not street. ||contradiction
+The women are not Two. ||contradiction
+The jackets are not similar. ||contradiction
+The women do not look like Police. ||contradiction
+The Police are not standing in street. ||contradiction

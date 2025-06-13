@@ -1,0 +1,6 @@
+there is not a girl ||contradiction
+there are not some sunglasses ||contradiction
+there is not a jean ||contradiction
+the girl is not wearing ||contradiction
+the sunglasses are not wearing ||neutral
+the girl is not smiling ||contradiction

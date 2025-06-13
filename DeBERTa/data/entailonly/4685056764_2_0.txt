@@ -1,0 +1,4 @@
+There are Soldiers. ||entailment
+There is a building. ||entailment
+The Soldiers are packing heat. ||entailment
+The Soldiers are near the building. ||entailment

@@ -1,0 +1,4 @@
+there is a female ||entailment
+the female is white ||neutral
+the apparel is traditional ||entailment
+the female is standing outside ||entailment

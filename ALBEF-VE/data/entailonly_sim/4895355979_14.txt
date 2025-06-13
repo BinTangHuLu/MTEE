@@ -1,0 +1,3 @@
+there is a dude ||entailment
+there is a cat sculpture ||contradiction
+the dude is standing next to the lion sculpture ||entailment

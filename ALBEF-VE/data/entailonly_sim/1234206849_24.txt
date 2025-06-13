@@ -1,0 +1,3 @@
+there is a female ||entailment
+the female is covering her head ||entailment
+the female is posing for a picture ||entailment

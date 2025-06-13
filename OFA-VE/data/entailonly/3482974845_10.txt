@@ -1,0 +1,4 @@
+There are dogs. ||Entailment
+There is outdoors. ||Entailment
+There are two dogs. ||Entailment
+The dogs are outdoors. ||Entailment

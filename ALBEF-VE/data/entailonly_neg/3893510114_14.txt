@@ -1,0 +1,4 @@
+there are not men ||entailment
+there is not a game ||contradiction
+the men are not playing the game ||entailment
+the game is not outside ||entailment

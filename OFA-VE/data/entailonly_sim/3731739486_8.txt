@@ -1,0 +1,2 @@
+There is a boundary. ||Entailment
+The boundary is to get on bus. ||Entailment

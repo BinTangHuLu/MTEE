@@ -1,0 +1,3 @@
+there is not a woman ||contradiction
+the woman is not looking ||contradiction
+the woman is looking at somethingnot ||entailment

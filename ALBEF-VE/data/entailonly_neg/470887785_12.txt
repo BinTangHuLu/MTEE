@@ -1,0 +1,5 @@
+there is not a woman ||contradiction
+there are not some sounds ||entailment
+there is not a mouth ||contradiction
+the woman does not have sounds ||entailment
+the sounds are not emanating from the mouth ||contradiction

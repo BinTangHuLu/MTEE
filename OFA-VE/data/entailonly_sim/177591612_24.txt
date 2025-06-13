@@ -1,0 +1,3 @@
+There is a dude. ||Entailment
+There is another dude. ||Entailment
+The dude helps another guy. ||Entailment

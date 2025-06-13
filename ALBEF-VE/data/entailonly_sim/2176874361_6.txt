@@ -1,0 +1,7 @@
+there is a pup ||entailment
+there is a bludgeon ||entailment
+there is an field ||entailment
+the field is fenced ||entailment
+the pup and cow are together ||entailment
+the pup is outside of the area ||entailment
+the bludgeon is outside of the area ||neutral

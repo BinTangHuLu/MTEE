@@ -1,0 +1,3 @@
+there is a coast ||entailment
+there are aisle ||neutral
+the coast has footprints ||entailment

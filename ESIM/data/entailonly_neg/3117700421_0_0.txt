@@ -1,0 +1,5 @@
+There is not a man. ||contradiction
+There is not a floor. ||contradiction
+There is not a can. ||contradiction
+The man does not polish the floor. ||contradiction
+The man is not next to the can. ||contradiction

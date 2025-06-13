@@ -1,0 +1,6 @@
+There are women. ||Entailment
+There are bikes. ||Entailment
+The women are two. ||Entailment
+The women are riding their bikes. ||Entailment
+The bikes are next to the women. ||Entailment
+The women are outside. ||Entailment

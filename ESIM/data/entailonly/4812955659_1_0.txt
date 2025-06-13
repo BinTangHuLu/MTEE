@@ -1,0 +1,4 @@
+There is a guy. ||entailment
+The guy is top. ||entailment
+The guy is tie. ||entailment
+The guy makes a speech. ||entailment

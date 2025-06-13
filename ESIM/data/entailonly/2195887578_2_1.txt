@@ -1,0 +1,5 @@
+There are men. ||entailment
+There is a vehicle. ||entailment
+There are two men. ||entailment
+The vehicle is large. ||neutral
+The men are standing in front of the vehicle. ||entailment

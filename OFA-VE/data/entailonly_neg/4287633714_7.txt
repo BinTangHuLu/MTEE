@@ -1,0 +1,4 @@
+There is not a person. ||Contradiction
+There is not a jacket. ||Contradiction
+The jacket is not leather. ||Entailment
+The person does not have a jacket. ||Contradiction

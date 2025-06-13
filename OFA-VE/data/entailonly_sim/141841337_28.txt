@@ -1,0 +1,4 @@
+There is a dude. ||Entailment
+There is a lap. ||Entailment
+The dude is flexible. ||Entailment
+The dude is stretching the leg. ||Neutral

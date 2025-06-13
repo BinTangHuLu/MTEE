@@ -1,0 +1,6 @@
+There is a gentleman. ||entailment
+The gentleman is older. ||entailment
+The gentleman is wearing a plaid shirt. ||entailment
+The gentleman is wearing blue pants. ||entailment
+There is a telescope. ||entailment
+The gentleman looks through the telescope. ||entailment

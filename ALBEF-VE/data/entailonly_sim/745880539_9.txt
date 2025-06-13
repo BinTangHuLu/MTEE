@@ -1,0 +1,3 @@
+there is a pup ||entailment
+there is a development ||entailment
+the pup is running through the course ||neutral

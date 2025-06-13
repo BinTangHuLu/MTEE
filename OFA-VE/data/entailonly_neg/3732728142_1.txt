@@ -1,0 +1,5 @@
+There is not a Baby. ||Contradiction
+There is not a hat. ||Contradiction
+There is not a car seat. ||Contradiction
+The hat is not wearing. ||Contradiction
+The Baby is not in car seat. ||Entailment

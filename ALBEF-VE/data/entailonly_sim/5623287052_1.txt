@@ -1,0 +1,3 @@
+there is a dude ||entailment
+there is some bread ||neutral
+the dude is going to buy food ||neutral

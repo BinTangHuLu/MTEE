@@ -1,0 +1,4 @@
+There is a woman. ||entailment
+There is a newspaper. ||entailment
+The newspaper is "real change". ||entailment
+The woman is holding the newspaper. ||entailment

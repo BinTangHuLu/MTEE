@@ -1,0 +1,4 @@
+there is a child ||entailment
+there is drink ||entailment
+the child is riding the wakeboard ||entailment
+the wakeboard is on the drink ||entailment

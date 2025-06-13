@@ -1,0 +1,3 @@
+There is a lady. ||entailment
+The lady is young. ||neutral
+The lady plays outside. ||entailment

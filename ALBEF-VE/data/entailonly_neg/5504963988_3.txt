@@ -1,0 +1,3 @@
+there are not workers ||contradiction
+there is not food ||contradiction
+the workers are not getting food ||contradiction

@@ -1,0 +1,4 @@
+There is a Kid. ||Entailment
+There is an instrument. ||Entailment
+The Kid is holding. ||Entailment
+The Kid is holding the instrument. ||Entailment

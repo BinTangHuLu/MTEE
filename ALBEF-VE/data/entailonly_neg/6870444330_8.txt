@@ -1,0 +1,3 @@
+there is not a male ||contradiction
+there is not a microphone ||contradiction
+the male is not holding the microphone ||contradiction

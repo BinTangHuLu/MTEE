@@ -1,0 +1,4 @@
+there are not people ||contradiction
+there is not a market street ||contradiction
+the people are not young black ||entailment
+the people are not in market street ||contradiction

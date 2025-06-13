@@ -1,0 +1,7 @@
+there is he ||contradiction
+there are tricks ||entailment
+there are onlookers ||entailment
+the tricks are skating ||neutral
+he is performing tricks ||neutral
+he is with onlookers ||entailment
+onlookers are on the side ||entailment

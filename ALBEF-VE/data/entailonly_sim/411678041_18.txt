@@ -1,0 +1,6 @@
+there is a dude ||entailment
+there is a colt ||neutral
+there is a cable ||entailment
+the dude stands on the horse ||entailment
+the dude is displaying skills ||entailment
+the skills are with the cable ||entailment

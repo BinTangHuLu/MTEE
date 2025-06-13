@@ -1,0 +1,4 @@
+There is not a child. ||contradiction
+There is not a road. ||contradiction
+The child is not small. ||contradiction
+The child is not walking on road. ||contradiction

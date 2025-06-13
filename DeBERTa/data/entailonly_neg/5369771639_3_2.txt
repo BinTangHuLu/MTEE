@@ -1,0 +1,6 @@
+There is not a ref. ||contradiction
+There are not men. ||contradiction
+There is not a game. ||contradiction
+The ref does not watch men. ||contradiction
+The men are not in the game. ||contradiction
+The ref does not watch the game. ||contradiction

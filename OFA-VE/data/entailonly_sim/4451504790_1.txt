@@ -1,0 +1,5 @@
+There is a baby. ||Entailment
+There is a boating. ||Contradiction
+There is a auto. ||Entailment
+The baby is holding the steering. ||Entailment
+The boating is of the car. ||Contradiction

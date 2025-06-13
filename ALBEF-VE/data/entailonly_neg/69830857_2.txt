@@ -1,0 +1,4 @@
+there is not a man ||contradiction
+there is not a road ||contradiction
+there is not a desert ||contradiction
+the man does not walk down the road ||entailment

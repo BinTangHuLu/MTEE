@@ -1,0 +1,8 @@
+there is a boy ||entailment
+there are some floaties ||neutral
+there are feet ||entailment
+there is sand ||entailment
+there is a beach ||entailment
+the boy has feet ||entailment
+the feet are in sand ||entailment
+the sand is on the beach ||neutral

@@ -1,0 +1,3 @@
+There are community. ||Entailment
+There is a counter. ||Entailment
+People are sitting by counter. ||Entailment

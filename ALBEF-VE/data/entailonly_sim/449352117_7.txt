@@ -1,0 +1,3 @@
+there is a pup ||entailment
+there is a account ||entailment
+the pup is in the picture ||entailment

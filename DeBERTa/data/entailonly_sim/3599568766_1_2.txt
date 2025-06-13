@@ -1,0 +1,3 @@
+There is a pup. ||entailment
+There is a aisle. ||entailment
+The pup runs on the path. ||entailment

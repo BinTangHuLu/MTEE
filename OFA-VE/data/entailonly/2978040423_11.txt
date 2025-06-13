@@ -1,0 +1,6 @@
+There is a woman. ||Entailment
+There is a cart. ||Entailment
+There is a vendor. ||Entailment
+There are drinks. ||Entailment
+The woman is near the cart. ||Entailment
+The cart is with drinks. ||Entailment

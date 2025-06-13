@@ -1,0 +1,3 @@
+There is a Vendor. ||Entailment
+There are some items. ||Entailment
+The Vendor is selling items. ||Entailment

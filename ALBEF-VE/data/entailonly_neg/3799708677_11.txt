@@ -1,0 +1,3 @@
+there are not monks ||contradiction
+the monks are not walking ||contradiction
+the monks are not walking together ||contradiction

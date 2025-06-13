@@ -1,0 +1,3 @@
+There is a crowd. ||entailment
+There is a market. ||entailment
+The crowd is at the market. ||entailment

@@ -1,0 +1,3 @@
+there is a dog ||entailment
+the dog is laying ||entailment
+the dog is laying on its side ||entailment

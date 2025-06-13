@@ -1,0 +1,11 @@
+There is not a computer. ||contradiction
+There are not some people. ||contradiction
+There is not a woman. ||contradiction
+There is not a Winter Sport. ||contradiction
+There is not a store. ||contradiction
+There is not a bike. ||contradiction
+The woman is not standing nearby. ||contradiction
+The computer is not with people. ||contradiction
+The woman is standing nearby themnot . ||entailment
+The woman is not inside Winter Sport. ||entailment
+The store is not with bike. ||contradiction

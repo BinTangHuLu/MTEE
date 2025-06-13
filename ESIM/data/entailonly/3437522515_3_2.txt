@@ -1,0 +1,2 @@
+There is a lady. ||entailment
+There is a garden. ||entailment

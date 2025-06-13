@@ -1,0 +1,4 @@
+There is a dude. ||Entailment
+There is a driver. ||Entailment
+The dude is experienced. ||Entailment
+The dude is an experienced rider. ||Entailment

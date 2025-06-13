@@ -1,0 +1,6 @@
+there is an man ||entailment
+there is an sea ||entailment
+there is a deck ||entailment
+the man watches the ocean ||neutral
+the kids watch the sea ||entailment
+the man watches the boardwalk ||entailment

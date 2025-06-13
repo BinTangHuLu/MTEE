@@ -1,0 +1,7 @@
+there is a girl ||entailment
+there is a bottle ||entailment
+there is a wand ||entailment
+the girl is young ||entailment
+the girl walks outside ||entailment
+the girl is holding a bottle ||entailment
+the girl is holding a wand ||entailment

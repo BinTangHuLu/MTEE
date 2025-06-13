@@ -1,0 +1,3 @@
+there is a snowboarder ||entailment
+there is a ramp ||entailment
+the snowboarder went off ramp ||contradiction

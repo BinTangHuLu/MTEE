@@ -1,0 +1,3 @@
+there are women ||entailment
+there are dresses ||entailment
+the women have dresses ||entailment

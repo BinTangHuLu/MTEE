@@ -1,0 +1,4 @@
+there is a body ||entailment
+there is a missile ||entailment
+there is a apartment ||entailment
+the body is trying to move the projectile ||entailment

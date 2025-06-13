@@ -1,0 +1,5 @@
+there are men ||entailment
+there are guitars ||entailment
+there is a stage ||entailment
+men sing and play guitars ||entailment
+guitars are on stage ||entailment

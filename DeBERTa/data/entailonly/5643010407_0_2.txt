@@ -1,0 +1,4 @@
+There is a man. ||entailment
+There is surfing. ||entailment
+The man is outdoors. ||entailment
+The man is surfing outdoors. ||entailment

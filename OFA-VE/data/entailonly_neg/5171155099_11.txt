@@ -1,0 +1,5 @@
+There is not a man. ||Contradiction
+There is not a dress. ||Contradiction
+There is not a horse. ||Contradiction
+The dress is not military. ||Contradiction
+The man is not riding the horse. ||Contradiction

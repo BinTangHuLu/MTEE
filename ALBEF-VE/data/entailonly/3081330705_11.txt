@@ -1,0 +1,3 @@
+there is a man ||entailment
+there is an outside ||entailment
+the man is standing outside ||entailment

@@ -1,0 +1,4 @@
+There is a association. ||Entailment
+There are some community. ||Neutral
+The community are playing. ||Entailment
+The community are playing with the ball. ||Neutral

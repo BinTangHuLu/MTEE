@@ -1,0 +1,5 @@
+there are not women ||contradiction
+there is not a picture ||entailment
+there is not a tree ||contradiction
+the women are not posing for the picture ||contradiction
+the picture is not in front of the tree ||contradiction

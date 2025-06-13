@@ -1,0 +1,4 @@
+There are people. ||Entailment
+There is a street. ||Entailment
+The people are Asian. ||Entailment
+The people are on street. ||Entailment

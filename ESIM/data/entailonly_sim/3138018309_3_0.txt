@@ -1,0 +1,3 @@
+There is a baby. ||entailment
+There is a forest. ||neutral
+The baby is in front of the tree. ||entailment

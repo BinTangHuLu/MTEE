@@ -1,0 +1,3 @@
+there is a woman ||entailment
+there are directions ||entailment
+the woman asks woman ||neutral

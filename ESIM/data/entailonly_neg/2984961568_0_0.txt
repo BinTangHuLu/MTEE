@@ -1,0 +1,5 @@
+There are not People. ||contradiction
+There is not a bus. ||contradiction
+The bus is not double decker. ||contradiction
+People do not wait to get on bus. ||contradiction
+People are not night. ||contradiction

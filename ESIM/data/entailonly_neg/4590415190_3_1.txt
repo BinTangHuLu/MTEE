@@ -1,0 +1,5 @@
+There is not a gymnast. ||contradiction
+There is not a routine. ||contradiction
+There are not bars. ||contradiction
+The gymnast is not performing routine. ||contradiction
+The routine is not on bars. ||contradiction

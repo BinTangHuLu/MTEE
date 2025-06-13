@@ -1,0 +1,3 @@
+there is a boy ||entailment
+there is a chair ||entailment
+the boy is sitting in the chair ||entailment

@@ -1,0 +1,7 @@
+There is not a guy. ||contradiction
+There is not a top. ||contradiction
+There is not a pack. ||contradiction
+There is not snow. ||contradiction
+The top is not blue. ||contradiction
+The guy does not carry the pack. ||contradiction
+The guy does not make his way through the snow. ||contradiction

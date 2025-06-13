@@ -1,0 +1,7 @@
+There is a man. ||entailment
+The man has concealed features. ||entailment
+There is a mode. ||entailment
+The mode is transportation. ||entailment
+The transportation is a service. ||entailment
+The man is in the mode. ||entailment
+The mode is used in transportation. ||entailment

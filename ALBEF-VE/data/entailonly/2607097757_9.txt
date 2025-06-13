@@ -1,0 +1,3 @@
+there is a worker ||entailment
+there is a hat ||entailment
+the worker is wearing a hat ||entailment

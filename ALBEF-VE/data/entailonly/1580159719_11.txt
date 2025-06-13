@@ -1,0 +1,4 @@
+there are people ||entailment
+the people are young ||entailment
+the people are playing music ||entailment
+the people are outside music ||entailment

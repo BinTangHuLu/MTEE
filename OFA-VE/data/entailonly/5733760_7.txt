@@ -1,0 +1,4 @@
+There is a man. ||Entailment
+There is a song. ||Entailment
+The man is signing. ||Neutral
+The man is signing a song. ||Neutral

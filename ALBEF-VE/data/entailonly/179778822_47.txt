@@ -1,0 +1,5 @@
+there is a girl ||entailment
+there is a woman ||entailment
+there is a reflection ||entailment
+the girl looks at the reflection ||entailment
+the woman looks at the reflection ||entailment

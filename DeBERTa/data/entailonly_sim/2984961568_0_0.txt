@@ -1,0 +1,3 @@
+There are community. ||entailment
+community wait to get on bus. ||entailment
+community are night. ||entailment

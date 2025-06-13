@@ -1,0 +1,5 @@
+There is not a woman. ||Contradiction
+There are not some feet. ||Entailment
+There is not water. ||Entailment
+The woman does not have feet. ||Entailment
+The feet are not in water. ||Entailment

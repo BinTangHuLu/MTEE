@@ -1,0 +1,3 @@
+there are dude ||entailment
+there are three dude ||entailment
+the dude are waiting ||entailment

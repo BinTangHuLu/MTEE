@@ -1,0 +1,5 @@
+There are not friends. ||Contradiction
+There is not a park. ||Contradiction
+There is not a gathering. ||Contradiction
+The friends are not together at the park. ||Contradiction
+The gathering is not outside the park. ||Entailment

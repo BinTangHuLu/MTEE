@@ -1,0 +1,3 @@
+there is a female ||entailment
+the female is chatting ||entailment
+the female is chatting with another woman ||contradiction

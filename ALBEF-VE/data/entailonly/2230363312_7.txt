@@ -1,0 +1,4 @@
+there is a fellow ||entailment
+there is a sidewalk ||entailment
+the fellow is older ||entailment
+the fellow walks on sidewalk ||entailment

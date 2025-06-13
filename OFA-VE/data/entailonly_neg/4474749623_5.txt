@@ -1,0 +1,4 @@
+There are not people. ||Contradiction
+There are not umbrellas. ||Contradiction
+The umbrellas are not different color. ||Entailment
+The people do not have umbrellas. ||Contradiction

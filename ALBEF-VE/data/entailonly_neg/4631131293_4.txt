@@ -1,0 +1,11 @@
+there is not a street ||contradiction
+there are not some people ||contradiction
+there are not some shirts ||contradiction
+there are not some skirts ||entailment
+the street is not crowded ||entailment
+the people are not a few ||entailment
+the shirts are not white ||entailment
+the skirts are not polka dotted ||entailment
+the people are not wearing shirts ||contradiction
+the people are not wearing skirts ||entailment
+the people are not walking in a line ||entailment

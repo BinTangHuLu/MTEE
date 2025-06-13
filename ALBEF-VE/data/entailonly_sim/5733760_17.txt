@@ -1,0 +1,4 @@
+there is a dude ||entailment
+there is a call up ||neutral
+the dude is talking to someone else ||neutral
+the dude is talking to the phone ||entailment

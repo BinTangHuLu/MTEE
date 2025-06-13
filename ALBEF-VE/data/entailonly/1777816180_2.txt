@@ -1,0 +1,4 @@
+there is a toddler ||entailment
+there are some shoulders ||entailment
+there is the rocks ||entailment
+the toddler balances on shoulders ||entailment

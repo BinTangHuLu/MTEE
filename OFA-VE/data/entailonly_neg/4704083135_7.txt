@@ -1,0 +1,7 @@
+There is not a woman. ||Contradiction
+There is not time. ||Entailment
+There is not motion. ||Contradiction
+The woman is not enjoying. ||Neutral
+The time is not out. ||Entailment
+The woman is not enjoying time. ||Neutral
+The woman is not expressing motion. ||Entailment

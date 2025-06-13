@@ -1,0 +1,6 @@
+There is not a man. ||contradiction
+There is not a sign. ||contradiction
+There is not a store. ||contradiction
+The man is not black. ||contradiction
+The man does not pose in front of the sign. ||contradiction
+The man is not making a purchase at the store. ||contradiction

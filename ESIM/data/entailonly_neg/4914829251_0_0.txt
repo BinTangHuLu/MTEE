@@ -1,0 +1,7 @@
+There are not People. ||contradiction
+There are not bikes. ||contradiction
+There are not directions. ||contradiction
+There is not a road. ||contradiction
+People are not riding bikes. ||contradiction
+People are not riding directions. ||contradiction
+People are not riding road. ||contradiction

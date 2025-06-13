@@ -1,0 +1,2 @@
+A,blue
+E1R,ball,attached to

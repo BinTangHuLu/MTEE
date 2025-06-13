@@ -1,0 +1,5 @@
+there is not a scene ||contradiction
+there is not a beach ||contradiction
+there is not a man ||contradiction
+the man is not doing yoga ||contradiction
+the scene is not with the man ||contradiction

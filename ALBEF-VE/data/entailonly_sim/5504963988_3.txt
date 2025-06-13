@@ -1,0 +1,3 @@
+there are band ||neutral
+there is bread ||entailment
+the band are getting food ||contradiction

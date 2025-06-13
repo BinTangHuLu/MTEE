@@ -1,0 +1,3 @@
+There is not a motorcycle rider. ||Contradiction
+There are not some tricks. ||Contradiction
+The motorcycle rider is not doing tricks. ||Contradiction

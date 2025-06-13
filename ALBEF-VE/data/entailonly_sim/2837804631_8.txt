@@ -1,0 +1,6 @@
+there is a child ||entailment
+there is a blouse ||entailment
+there is a geyser ||entailment
+the blouse is red ||entailment
+the child is in the shirt ||entailment
+the child is leaning away from the fountain ||contradiction

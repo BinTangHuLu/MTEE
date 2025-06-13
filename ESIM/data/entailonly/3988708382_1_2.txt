@@ -1,0 +1,7 @@
+There is a man. ||entailment
+There is a conversation. ||entailment
+There is a friend. ||entailment
+There is a fishing. ||entailment
+The man is having a conversation. ||entailment
+The man is with a friend. ||entailment
+The man is fishing with a friend. ||entailment

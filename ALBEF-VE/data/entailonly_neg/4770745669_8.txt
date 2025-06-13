@@ -1,0 +1,6 @@
+there is not a man ||contradiction
+there is not an object ||contradiction
+the object is not large ||entailment
+the pants are not only ||entailment
+the man is not sitting in front of the object ||entailment
+the man is not wearing pants ||entailment

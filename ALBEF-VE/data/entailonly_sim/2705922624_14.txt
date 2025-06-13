@@ -1,0 +1,4 @@
+there are clan ||entailment
+the clan are playing ||entailment
+the clan are posing ||entailment
+the clan are posing for pictures ||entailment

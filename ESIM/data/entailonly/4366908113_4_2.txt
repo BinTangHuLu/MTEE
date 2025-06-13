@@ -1,0 +1,3 @@
+There are performers. ||entailment
+The performers are Three. ||entailment
+The performers wear lace costumes. ||entailment

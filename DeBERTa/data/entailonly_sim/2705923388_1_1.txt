@@ -1,0 +1,6 @@
+There is a female. ||entailment
+There is a dude. ||entailment
+The female is old. ||entailment
+The dude is young. ||entailment
+The female is playing bingo. ||entailment
+The dude is playing bingo. ||entailment

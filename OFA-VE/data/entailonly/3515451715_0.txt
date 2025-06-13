@@ -1,0 +1,2 @@
+There are humans. ||Entailment
+There are outside. ||Entailment

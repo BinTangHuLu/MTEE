@@ -1,0 +1,5 @@
+there is a association ||entailment
+there is some melody ||entailment
+there are some artist ||entailment
+the association is playing music ||entailment
+the melody is with musicians ||entailment

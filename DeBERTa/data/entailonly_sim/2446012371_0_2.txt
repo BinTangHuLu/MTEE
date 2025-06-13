@@ -1,0 +1,7 @@
+There is a set. ||entailment
+There are angel apparel. ||entailment
+There is a path. ||entailment
+The set is dressed in angel costumes. ||entailment
+The set are handing out leaflets. ||entailment
+The set are dressed in angel costumes. ||entailment
+The set are handing out on sidewalk. ||entailment

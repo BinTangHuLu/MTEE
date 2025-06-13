@@ -1,0 +1,3 @@
+there are clan ||entailment
+there is a combination ||entailment
+the clan have painted faces ||entailment

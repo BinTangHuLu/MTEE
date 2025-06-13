@@ -1,0 +1,7 @@
+There is not a man. ||contradiction
+There is not a go kart. ||contradiction
+There is not a road. ||contradiction
+The go kart is not numbered 65. ||contradiction
+The road is not narrow. ||contradiction
+The man is not driving the go kart. ||contradiction
+The man is not on the road. ||contradiction

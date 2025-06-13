@@ -1,0 +1,4 @@
+There is a association. ||neutral
+There are some community. ||neutral
+There is a avenue. ||entailment
+The association is waiting to cross street. ||entailment

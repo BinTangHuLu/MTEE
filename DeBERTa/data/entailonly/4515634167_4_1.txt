@@ -1,0 +1,2 @@
+There is a vendor. ||entailment
+The vendor stares into space. ||entailment

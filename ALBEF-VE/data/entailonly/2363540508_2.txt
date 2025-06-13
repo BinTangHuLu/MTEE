@@ -1,0 +1,3 @@
+there is a girl ||entailment
+there is a tunnel ||entailment
+the girl is going through the tunnel ||entailment

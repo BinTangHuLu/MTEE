@@ -1,0 +1,3 @@
+there is not a snowboarder ||contradiction
+there is not a ramp ||contradiction
+the snowboarder did not go off ramp ||contradiction

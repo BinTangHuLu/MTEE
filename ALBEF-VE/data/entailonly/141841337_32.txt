@@ -1,0 +1,3 @@
+there is a man ||entailment
+there is a foot ||entailment
+the man moves foot ||entailment

@@ -1,0 +1,3 @@
+there are not basketball players ||contradiction
+there is not a ball ||contradiction
+the basketball players are not competing for the ball ||contradiction

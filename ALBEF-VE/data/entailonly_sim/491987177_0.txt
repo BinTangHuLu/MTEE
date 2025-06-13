@@ -1,0 +1,4 @@
+there is a aristocrat ||entailment
+there is a block ||entailment
+the aristocrat is older ||neutral
+the aristocrat cleans the bar ||neutral

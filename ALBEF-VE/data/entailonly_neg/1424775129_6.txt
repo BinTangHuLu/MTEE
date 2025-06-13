@@ -1,0 +1,6 @@
+there is not a boy ||contradiction
+there is not a track ||contradiction
+there is not a stick ||contradiction
+the boy is not little ||contradiction
+the boy is not walking down the track ||entailment
+the track is not with stick ||contradiction

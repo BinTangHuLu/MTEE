@@ -1,0 +1,4 @@
+There are not mountaineers. ||contradiction
+There is not a mountain. ||contradiction
+The mountaineers are not Two. ||contradiction
+The mountaineers are not walking on mountain. ||contradiction

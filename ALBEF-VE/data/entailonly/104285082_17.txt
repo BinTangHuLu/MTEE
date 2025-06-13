@@ -1,0 +1,4 @@
+there is a man ||entailment
+there is an instrument ||entailment
+the man is old ||entailment
+the man is playing the instrument ||entailment

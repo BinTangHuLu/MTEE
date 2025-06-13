@@ -1,0 +1,5 @@
+There is not a person. ||Contradiction
+There is not a mic. ||Contradiction
+There is not a sign. ||Contradiction
+The person does not sit near the mic. ||Contradiction
+The mic is not with the sign. ||Contradiction

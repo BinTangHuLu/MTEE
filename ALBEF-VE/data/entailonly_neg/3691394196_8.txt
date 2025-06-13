@@ -1,0 +1,5 @@
+there is not a thing ||contradiction
+there is not a man ||contradiction
+there is not fire ||contradiction
+the man is not holding the thing ||contradiction
+the thing is not on fire ||contradiction

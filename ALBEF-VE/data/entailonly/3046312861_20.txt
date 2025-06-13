@@ -1,0 +1,6 @@
+there is a girl ||entailment
+there is wrestling ||entailment
+there is florida ||contradiction
+the girl is training ||entailment
+the girl is wrestling ||neutral
+the girl is wrestling in florida ||contradiction

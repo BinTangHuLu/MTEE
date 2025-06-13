@@ -1,0 +1,4 @@
+there is a group ||entailment
+there are some people ||entailment
+there is a sidewalk ||entailment
+the people walk on the sidewalk ||entailment

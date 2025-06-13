@@ -1,0 +1,4 @@
+There is not a man. ||contradiction
+There is not a chair. ||contradiction
+The chair is not purple. ||contradiction
+The man does not sit in the chair. ||contradiction

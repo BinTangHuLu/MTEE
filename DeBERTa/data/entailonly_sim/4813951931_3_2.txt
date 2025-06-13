@@ -1,0 +1,7 @@
+There is a dude. ||entailment
+There is a fedora. ||contradiction
+There is a pedal. ||entailment
+There is a avenue. ||entailment
+The dude walks down the street. ||entailment
+The dude walks with a hat. ||entailment
+The dude walks with a bike. ||entailment

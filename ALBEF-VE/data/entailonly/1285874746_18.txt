@@ -1,0 +1,6 @@
+there is a woman ||entailment
+there is a top ||entailment
+there is a crowd ||entailment
+the top is backless ||entailment
+the woman is wearing the top ||entailment
+the woman is facing the crowd ||entailment

@@ -1,0 +1,5 @@
+EA,workers,preparing
+EA,table,food
+E1RE2,workers,preparing for,event
+EA,event,catered
+E1R,event,with

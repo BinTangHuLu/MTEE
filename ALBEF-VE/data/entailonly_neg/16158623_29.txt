@@ -1,0 +1,5 @@
+there are not men ||contradiction
+there is not a ladder ||contradiction
+there are not two men ||contradiction
+the men do not work on the ladder ||contradiction
+the men are not handing to each other ||contradiction

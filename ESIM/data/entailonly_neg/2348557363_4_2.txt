@@ -1,0 +1,5 @@
+There is not a child. ||contradiction
+There are not some steps. ||contradiction
+There is not a library. ||contradiction
+The child is not on steps. ||contradiction
+The steps are not inside the library. ||entailment

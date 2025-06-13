@@ -1,0 +1,4 @@
+there is a female ||entailment
+there is a berth ||entailment
+the female is on the dock ||contradiction
+the female is with coolers ||entailment

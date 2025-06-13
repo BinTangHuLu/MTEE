@@ -1,0 +1,6 @@
+there is a child ||entailment
+there is a bow ||entailment
+there is a apparel ||entailment
+the apparel is yellow ||entailment
+the child has a ribbon ||entailment
+the child has a dress ||entailment

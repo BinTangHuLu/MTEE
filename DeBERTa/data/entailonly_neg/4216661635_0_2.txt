@@ -1,0 +1,7 @@
+There is not a man. ||contradiction
+There is not a hat. ||contradiction
+There is not water. ||contradiction
+The man is not seated. ||contradiction
+The man is not slightly elevated. ||entailment
+The man is not wearing a hat. ||contradiction
+The man is not facing water. ||contradiction

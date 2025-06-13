@@ -1,0 +1,4 @@
+there are not objects ||entailment
+there is not a photo ||entailment
+there are not three objects ||entailment
+the objects are not animate ||contradiction

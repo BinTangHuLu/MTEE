@@ -1,0 +1,5 @@
+There are female. ||entailment
+There are automation. ||entailment
+There is a bank. ||entailment
+The Women are shopping for automation. ||neutral
+The Women are shopping at the bank. ||contradiction

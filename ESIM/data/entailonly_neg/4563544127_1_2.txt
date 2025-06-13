@@ -1,0 +1,4 @@
+There is not a man. ||contradiction
+There is not a business. ||contradiction
+The man does not work with business. ||contradiction
+The business does not have a tattoo. ||contradiction

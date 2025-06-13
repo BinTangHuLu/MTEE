@@ -1,0 +1,2 @@
+EA,escalator,indoors
+E1RE2,escalator,is,indoors

@@ -1,0 +1,3 @@
+There is not a bird. ||Contradiction
+There are not some rocks. ||Entailment
+The bird is not on rocks. ||Contradiction

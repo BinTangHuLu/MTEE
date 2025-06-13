@@ -1,0 +1,5 @@
+There is a woman. ||entailment
+There is some wood. ||entailment
+The woman is smiling. ||entailment
+The woman stands while smiling. ||entailment
+The wood was handed to the woman. ||entailment

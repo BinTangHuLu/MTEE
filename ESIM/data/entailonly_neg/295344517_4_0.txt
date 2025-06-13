@@ -1,0 +1,4 @@
+There are not people. ||contradiction
+There is not a man. ||contradiction
+The man is not in uniform. ||neutral
+The people do not walk with the man. ||contradiction

@@ -1,0 +1,2 @@
+There is a dude. ||Entailment
+The cats are with the dude. ||Entailment

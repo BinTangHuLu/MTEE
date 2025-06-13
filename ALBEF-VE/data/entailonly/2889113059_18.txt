@@ -1,0 +1,8 @@
+there is a man ||entailment
+there is a microphone ||entailment
+there is a group ||entailment
+there are people ||entailment
+the microphone is with ||neutral
+the people are seated ||entailment
+the man is gesturing towards the group ||entailment
+the group is behind the man ||entailment

@@ -1,0 +1,3 @@
+there is a man ||entailment
+there is an audience ||entailment
+the man is playing for the audience ||entailment

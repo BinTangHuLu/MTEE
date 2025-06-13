@@ -1,0 +1,2 @@
+E1R,runners,are running towards
+A,large

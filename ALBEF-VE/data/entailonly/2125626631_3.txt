@@ -1,0 +1,5 @@
+there is a dog ||entailment
+there is a toy ||entailment
+the dog is white ||entailment
+the toy is green ||contradiction
+the dog is catching the toy ||entailment

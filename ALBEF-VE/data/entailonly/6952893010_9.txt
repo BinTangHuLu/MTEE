@@ -1,0 +1,4 @@
+there are boats ||entailment
+there is a day ||entailment
+the day is sunny ||neutral
+boats gather on day ||entailment

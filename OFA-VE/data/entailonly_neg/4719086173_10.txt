@@ -1,0 +1,2 @@
+There are not Firefighters. ||Contradiction
+The Firefighters are not walking. ||Entailment

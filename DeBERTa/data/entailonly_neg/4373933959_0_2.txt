@@ -1,0 +1,5 @@
+There is not It. ||contradiction
+It is not cold. ||contradiction
+It is not snowy. ||contradiction
+It is not cold outside. ||contradiction
+It is not snowy outside. ||contradiction

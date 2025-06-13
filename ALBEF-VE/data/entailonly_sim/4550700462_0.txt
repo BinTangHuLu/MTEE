@@ -1,0 +1,7 @@
+there is a child ||entailment
+there is a banner ||entailment
+there is a female ||entailment
+the child is little ||entailment
+the banner is mexican ||contradiction
+the child is holding the flag ||entailment
+the child is walking beside the woman ||entailment

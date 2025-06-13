@@ -1,0 +1,4 @@
+There is a guy. ||entailment
+The guy has funky clothes. ||entailment
+There is a bench. ||entailment
+The guy is on the bench. ||entailment

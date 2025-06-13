@@ -1,0 +1,2 @@
+E1R,photographer,is taking
+E1R,photos,of

@@ -1,0 +1,4 @@
+There is not an ocean. ||contradiction
+The ocean is not blue. ||contradiction
+The wideness is not blue. ||contradiction
+The ocean does not swim in wideness. ||contradiction

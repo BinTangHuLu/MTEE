@@ -1,0 +1,5 @@
+there is a coat ||entailment
+there is a hill ||entailment
+the coat is yellow ||entailment
+sandy went skiing down the hill ||neutral
+sandy is wearing the coat ||neutral

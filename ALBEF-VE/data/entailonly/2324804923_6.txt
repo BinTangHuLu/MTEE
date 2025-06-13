@@ -1,0 +1,5 @@
+there is a person ||entailment
+there is a mic ||entailment
+there is a sign ||entailment
+the person sits near the mic ||entailment
+the mic is with the sign ||neutral

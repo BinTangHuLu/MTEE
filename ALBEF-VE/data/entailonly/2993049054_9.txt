@@ -1,0 +1,6 @@
+there is a man ||entailment
+there is some clothing ||entailment
+there is a mask ||entailment
+the clothing is black ||entailment
+the man is wearing clothing ||entailment
+the man is wearing a mask ||entailment

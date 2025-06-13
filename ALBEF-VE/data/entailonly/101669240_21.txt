@@ -1,0 +1,6 @@
+there is a man ||entailment
+there is a painting ||entailment
+there is snow ||entailment
+there are skis ||entailment
+the man is showing off the painting ||neutral
+the man skis by the man ||entailment

@@ -1,0 +1,3 @@
+there is a group ||entailment
+there are some people ||entailment
+the group and people are working together ||entailment

@@ -1,0 +1,4 @@
+there are not men ||contradiction
+the men are not old ||entailment
+there is not a beam ||contradiction
+the men do not hold the beam ||contradiction

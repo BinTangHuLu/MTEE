@@ -1,0 +1,4 @@
+there is not a lady ||contradiction
+there is not a work of art ||contradiction
+the lady does not do stretches ||contradiction
+the lady does not stretch on the work of art ||entailment

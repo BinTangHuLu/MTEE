@@ -1,0 +1,9 @@
+there are child ||entailment
+there is a basin ||entailment
+there is a child ||entailment
+there is a blouse ||entailment
+there are sand ||neutral
+the blouse is teal ||entailment
+the child are playing by the lake ||entailment
+the child throws rocks ||entailment
+the sand are in the lake ||contradiction

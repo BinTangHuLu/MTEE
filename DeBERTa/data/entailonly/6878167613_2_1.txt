@@ -1,0 +1,5 @@
+There is a golfer. ||entailment
+There is a green. ||entailment
+There is a crowd. ||entailment
+The golfer is getting ready. ||entailment
+The green is putt. ||entailment

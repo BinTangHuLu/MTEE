@@ -1,0 +1,4 @@
+There is a human. ||Entailment
+There is a sidewalk. ||Entailment
+The human is old. ||Entailment
+The human is on sidewalk. ||Entailment

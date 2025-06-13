@@ -1,0 +1,4 @@
+There is not a person. ||contradiction
+There is not a wheel. ||contradiction
+The wheel is not big. ||neutral
+The person is not riding the wheel. ||contradiction

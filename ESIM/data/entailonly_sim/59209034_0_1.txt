@@ -1,0 +1,4 @@
+There is a dude. ||neutral
+There is a armchair. ||entailment
+The armchair is purple. ||entailment
+The dude sits in the chair. ||entailment

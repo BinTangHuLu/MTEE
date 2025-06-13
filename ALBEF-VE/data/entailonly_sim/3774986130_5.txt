@@ -1,0 +1,3 @@
+there are female ||entailment
+the female are two ||neutral
+the female are dressed in colorful garments ||entailment

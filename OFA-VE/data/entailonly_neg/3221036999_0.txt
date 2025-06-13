@@ -1,0 +1,5 @@
+There is not a person. ||Contradiction
+There is not some air. ||Entailment
+There is not a ramp. ||Contradiction
+The person is not in the air. ||Entailment
+The air is not over the ramp. ||Entailment

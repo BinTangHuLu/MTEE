@@ -1,0 +1,3 @@
+there are not children ||contradiction
+there is not a flag ||contradiction
+the children are not running past the flag ||entailment

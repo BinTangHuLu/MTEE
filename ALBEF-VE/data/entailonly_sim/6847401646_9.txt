@@ -1,0 +1,5 @@
+there is a dude ||entailment
+the dude is red haired ||contradiction
+the dude is flexing ||entailment
+the dude is posing ||entailment
+the dude is topless ||entailment

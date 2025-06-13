@@ -1,0 +1,5 @@
+there are dude ||entailment
+there are course ||entailment
+there is a artery ||entailment
+the dude take bricks ||entailment
+the course are taken from the road ||entailment

@@ -1,0 +1,8 @@
+there is not a man ||contradiction
+there is not a woman ||contradiction
+there are not some lawn chairs ||contradiction
+there are not some books ||contradiction
+the man is not in lawn chairs ||contradiction
+the woman is not in lawn chairs ||contradiction
+the man is not reading books ||contradiction
+the woman is not reading books ||contradiction

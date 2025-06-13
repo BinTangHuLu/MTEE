@@ -1,0 +1,3 @@
+there is not a person ||contradiction
+there is not an object ||contradiction
+the person is not posing with the object ||contradiction

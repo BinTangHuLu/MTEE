@@ -1,0 +1,4 @@
+there are community ||entailment
+there is a bar ||contradiction
+the community are jumping ||entailment
+the community are jumping on the wall ||contradiction

@@ -1,0 +1,3 @@
+there is a man ||entailment
+there are some items ||entailment
+the man is in front of items ||entailment

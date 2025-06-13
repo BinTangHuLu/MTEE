@@ -1,0 +1,4 @@
+there is a man ||entailment
+there is a bulldog ||entailment
+the man is outdoors ||entailment
+the man is petting the bulldog ||contradiction

@@ -1,0 +1,3 @@
+there are clan ||entailment
+the clan are outside ||entailment
+the clan are outside playing around ||entailment

@@ -1,0 +1,3 @@
+there is a dude ||entailment
+there is a blouse ||entailment
+the dude is outside jersey ||entailment

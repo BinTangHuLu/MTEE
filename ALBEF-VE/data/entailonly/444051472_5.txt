@@ -1,0 +1,6 @@
+there is a man ||entailment
+there is a book ||entailment
+there are some ducks ||entailment
+the man is older ||entailment
+the man reads the book ||neutral
+the book is next to the ducks ||neutral

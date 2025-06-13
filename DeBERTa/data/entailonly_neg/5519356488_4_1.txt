@@ -1,0 +1,4 @@
+There is not a clown. ||contradiction
+There is not a school. ||contradiction
+The school is not children's. ||contradiction
+The clown is not at school. ||contradiction

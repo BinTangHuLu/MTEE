@@ -1,0 +1,3 @@
+There is not snow. ||Entailment
+There is not ground. ||Entailment
+The snow is not on the ground. ||Entailment

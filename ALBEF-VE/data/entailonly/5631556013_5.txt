@@ -1,0 +1,4 @@
+there is a boy ||entailment
+there are some shorts ||entailment
+the shorts are wearing ||neutral
+the boy is wearing shorts ||entailment

@@ -1,0 +1,6 @@
+There is a bride. ||Entailment
+There is a groom. ||Entailment
+The bride is getting married. ||Entailment
+The groom is getting married. ||Entailment
+The bride is getting married outdoors. ||Entailment
+The groom is getting married outdoors. ||Neutral

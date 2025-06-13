@@ -1,0 +1,4 @@
+There are Guys. ||Entailment
+There are gal. ||Entailment
+The gal is not awake. ||Entailment
+Guys are not standing while gal. ||Entailment

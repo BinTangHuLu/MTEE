@@ -1,0 +1,4 @@
+There are community. ||Entailment
+There is accessory. ||Entailment
+The accessory is protective. ||Entailment
+The community are wearing gear. ||Entailment

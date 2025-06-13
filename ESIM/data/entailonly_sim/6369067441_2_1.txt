@@ -1,0 +1,7 @@
+There is a association. ||neutral
+There are some community. ||neutral
+There is a frame. ||entailment
+There is some drink. ||neutral
+The association is posing. ||entailment
+The association is posing in front of the body. ||entailment
+The association is posing in front of the water. ||entailment

@@ -1,0 +1,3 @@
+There is not a man. ||contradiction
+There is not a rock. ||contradiction
+The man is not on the rock. ||contradiction

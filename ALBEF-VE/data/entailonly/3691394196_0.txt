@@ -1,0 +1,4 @@
+there is a performer ||entailment
+there is a street ||entailment
+the performer is juggling ||entailment
+the performer is juggling street ||entailment

@@ -1,0 +1,4 @@
+There are bicyclists. ||entailment
+There is a group. ||entailment
+There is a street. ||entailment
+The bicyclists are on the street. ||entailment

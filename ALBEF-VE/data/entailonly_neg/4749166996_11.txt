@@ -1,0 +1,5 @@
+there is not a man ||contradiction
+there is not a suit ||contradiction
+there is not a podium ||contradiction
+the suit is not in ||contradiction
+the man is not standing in front of podium ||contradiction

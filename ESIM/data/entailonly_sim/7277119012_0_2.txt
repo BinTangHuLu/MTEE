@@ -1,0 +1,6 @@
+There is a child. ||entailment
+The child is happily. ||entailment
+There is an clown. ||neutral
+There is a lap. ||contradiction
+The child watches the acrobat. ||contradiction
+The clown is jumping on the stage. ||neutral

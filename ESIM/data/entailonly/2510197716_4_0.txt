@@ -1,0 +1,3 @@
+There is a kid. ||entailment
+There is a swing. ||entailment
+The kid is on the swing. ||entailment

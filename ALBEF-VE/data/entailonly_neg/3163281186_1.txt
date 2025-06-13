@@ -1,0 +1,7 @@
+there is not a woman ||contradiction
+there is not an elephant ||contradiction
+there is not a person ||contradiction
+the person is anothernot ||neutral
+the elephant does not have a head ||entailment
+the woman is not riding the elephant ||entailment
+the person is not touching the elephant ||contradiction

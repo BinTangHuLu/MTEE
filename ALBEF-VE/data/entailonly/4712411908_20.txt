@@ -1,0 +1,9 @@
+there is a lady ||entailment
+there is an exercises ||entailment
+there is a sphere ||entailment
+there is a building ||entailment
+the building is 18th century ||neutral
+the sphere is concrete ||entailment
+the lady does exercises ||entailment
+the exercises are on top of sphere ||entailment
+the building is surrounding sphere ||entailment

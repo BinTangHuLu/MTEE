@@ -1,0 +1,4 @@
+There is a baby. ||entailment
+There is a cake. ||entailment
+The baby is messily. ||entailment
+The baby is eating cake. ||entailment

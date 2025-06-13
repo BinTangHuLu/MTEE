@@ -1,0 +1,5 @@
+there is not a dog ||contradiction
+there are not some people ||contradiction
+there is not a stage ||contradiction
+the dog is not with people ||contradiction
+the people are not on stage ||entailment

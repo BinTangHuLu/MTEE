@@ -1,0 +1,2 @@
+there are not firefighters ||contradiction
+the firefighters are not walking ||contradiction

@@ -1,0 +1,3 @@
+there are people ||entailment
+the people are walking ||entailment
+the people are walking together ||entailment

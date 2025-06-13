@@ -1,0 +1,3 @@
+There is a earth. ||Contradiction
+The earth is tall enough. ||Contradiction
+The earth is climb. ||Entailment

@@ -1,0 +1,4 @@
+There is not a girl. ||contradiction
+The girl is not gray. ||entailment
+The girl does not smile as she. ||contradiction
+The girl does not brush teeth. ||contradiction

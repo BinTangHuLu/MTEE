@@ -1,0 +1,3 @@
+there is a aisle ||entailment
+the scaffold is on the path ||entailment
+the aisle is for painters ||neutral

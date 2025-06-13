@@ -1,0 +1,4 @@
+there is not a girl ||contradiction
+there is not a swing ||contradiction
+the girl is not young ||entailment
+the girl is not sitting in swing ||entailment

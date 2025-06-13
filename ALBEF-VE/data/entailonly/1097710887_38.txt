@@ -1,0 +1,3 @@
+there is a girl ||entailment
+there are flowers ||entailment
+the girl is playing with flowers ||entailment

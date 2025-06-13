@@ -1,0 +1,3 @@
+there is a person ||entailment
+there is a sign ||entailment
+the person is looking at the sign ||entailment

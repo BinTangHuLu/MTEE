@@ -1,0 +1,2 @@
+There is a boat. ||Entailment
+The boat passes by. ||Entailment

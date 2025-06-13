@@ -1,0 +1,6 @@
+there is a child ||entailment
+there is a appendage ||entailment
+there is a basin ||entailment
+the child has a ball ||entailment
+the ball is in the appendage ||entailment
+the child jumped into the pool ||entailment

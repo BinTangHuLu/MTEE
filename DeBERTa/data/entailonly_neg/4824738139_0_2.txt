@@ -1,0 +1,3 @@
+There is not a plane. ||contradiction
+There is not a fighter jet. ||contradiction
+The plane is moving. ||contradiction

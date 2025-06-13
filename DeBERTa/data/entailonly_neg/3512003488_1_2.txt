@@ -1,0 +1,6 @@
+There is not a room. ||contradiction
+There are not actors. ||contradiction
+The room is not dim. ||contradiction
+The actors are not several. ||contradiction
+The actors barely do not see each other. ||entailment
+The actors are not getting ready to act. ||contradiction

@@ -1,0 +1,3 @@
+there are community ||entailment
+there is a account ||entailment
+the community are taking a picture ||entailment

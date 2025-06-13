@@ -1,0 +1,5 @@
+There is a association. ||entailment
+There is a child. ||entailment
+The association is gorup. ||entailment
+The child is jumping. ||contradiction
+The association is jumping over each other. ||entailment

@@ -1,0 +1,3 @@
+there are dude ||entailment
+there are four dude ||entailment
+the dude are chatting ||entailment

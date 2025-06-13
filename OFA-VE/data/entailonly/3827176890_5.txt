@@ -1,0 +1,3 @@
+There are children. ||Entailment
+There are hands. ||Entailment
+The children are moving their hands. ||Entailment

@@ -1,0 +1,14 @@
+There is a guy. ||entailment
+There are some pants. ||entailment
+There is a shirt. ||entailment
+There is something. ||entailment
+There is a face. ||entailment
+There are lungs. ||entailment
+There is fire. ||entailment
+The guy is clothed. ||entailment
+The guy is wearing a shirt. ||entailment
+The pants are clothed. ||entailment
+The shirt is clothed. ||entailment
+The guy is wearing face. ||entailment
+The guy is wearing lungs. ||entailment
+The guy puts out fire. ||entailment

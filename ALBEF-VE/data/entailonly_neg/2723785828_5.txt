@@ -1,0 +1,5 @@
+there are not girls ||contradiction
+there are not faces ||contradiction
+the girls are not young ||entailment
+the faces are not painted ||contradiction
+the girls are not with faces ||contradiction

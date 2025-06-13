@@ -1,0 +1,6 @@
+there is not a person ||contradiction
+there is not a jumpsuit ||contradiction
+there is not a metro station ||contradiction
+the jumpsuit is not wearing ||contradiction
+the person is not standing ||entailment
+the person is not standing nearby metro station ||entailment

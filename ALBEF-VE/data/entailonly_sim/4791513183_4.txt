@@ -1,0 +1,6 @@
+there is a child ||entailment
+there is a aspect ||entailment
+the aspect is fixated ||entailment
+the child has a view ||entailment
+the aspect is on something ||neutral
+there is a area ||entailment

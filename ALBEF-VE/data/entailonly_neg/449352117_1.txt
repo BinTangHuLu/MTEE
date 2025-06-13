@@ -1,0 +1,3 @@
+there is not a dog ||contradiction
+the dog is not standing ||entailment
+the dog is not standing ||entailment

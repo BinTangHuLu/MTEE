@@ -1,0 +1,8 @@
+There is not a male. ||entailment
+There are not clothes. ||contradiction
+There is not a pair. ||contradiction
+There are not scissors. ||contradiction
+The male is not little. ||contradiction
+The male is not with a pair of scissors in his hands. ||contradiction
+The male does not have clothes. ||contradiction
+The clothes are not on with a pair of scissors. ||contradiction

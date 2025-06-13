@@ -1,0 +1,5 @@
+there is a pup ||entailment
+there is a cylinder ||entailment
+the pup is white ||neutral
+the cylinder is yellow ||neutral
+the pup is walking through tube ||entailment

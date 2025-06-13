@@ -1,0 +1,6 @@
+There is not a squirrel. ||contradiction
+There is not a position. ||contradiction
+There is not a road. ||contradiction
+The squirrel is not upright. ||entailment
+The squirrel is not situated in position. ||entailment
+The squirrel is not near road. ||contradiction

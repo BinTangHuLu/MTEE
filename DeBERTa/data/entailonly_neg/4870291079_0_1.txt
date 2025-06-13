@@ -1,0 +1,5 @@
+There is not a man. ||contradiction
+There is not a walking stick. ||contradiction
+There is not a street. ||contradiction
+The man is not with a walking stick. ||entailment
+The man is not next to street. ||contradiction

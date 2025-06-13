@@ -1,0 +1,8 @@
+She exists. ||entailment
+There is a conversation. ||entailment
+There is a phone. ||entailment
+There is outdoors. ||entailment
+She has a conversation. ||entailment
+The conversation is on the phone. ||entailment
+She has the phone. ||entailment
+She has outdoors. ||entailment

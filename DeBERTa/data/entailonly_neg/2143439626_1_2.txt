@@ -1,0 +1,4 @@
+There is not a girl. ||contradiction
+There is not a chalkboard. ||contradiction
+The girl is not young. ||contradiction
+The girl is not drawing on chalkboard. ||contradiction

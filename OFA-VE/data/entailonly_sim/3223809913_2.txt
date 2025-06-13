@@ -1,0 +1,3 @@
+There is a baby. ||Contradiction
+The baby is skateboarding. ||Contradiction
+The baby is skateboarding. ||Contradiction

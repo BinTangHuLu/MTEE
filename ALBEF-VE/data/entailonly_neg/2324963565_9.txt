@@ -1,0 +1,3 @@
+there are not candy bars ||contradiction
+there is not a womans head ||contradiction
+the candy bars are not above the womans head ||contradiction

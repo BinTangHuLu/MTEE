@@ -1,0 +1,5 @@
+there is an administration ||entailment
+there is a conversation ||entailment
+there is a architecture ||entailment
+the administration is holding the speech ||neutral
+the conversation is inside the building ||entailment

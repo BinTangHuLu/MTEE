@@ -1,0 +1,4 @@
+There are not women. ||contradiction
+There is not a market. ||contradiction
+The women are not asian. ||contradiction
+The women are not at the market. ||contradiction

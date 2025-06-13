@@ -1,0 +1,2 @@
+There is not a runner. ||contradiction
+The runner does not want to head for the finish line. ||contradiction

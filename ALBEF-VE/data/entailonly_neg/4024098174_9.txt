@@ -1,0 +1,4 @@
+there is not a snowboarder ||contradiction
+there is not a mountain ||contradiction
+the snowboarder is not going down ||contradiction
+the snowboarder is not going down the mountain ||contradiction

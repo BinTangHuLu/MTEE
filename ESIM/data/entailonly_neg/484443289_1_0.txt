@@ -1,0 +1,4 @@
+There is not a man. ||contradiction
+There is not a cap. ||contradiction
+The cap is not gray. ||contradiction
+The man is not wearing a cap. ||contradiction

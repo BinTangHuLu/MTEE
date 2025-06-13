@@ -1,0 +1,2 @@
+there are men ||entailment
+the men walk past each other ||entailment

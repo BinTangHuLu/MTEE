@@ -1,0 +1,4 @@
+There is a bike. ||Entailment
+There is a drive. ||Entailment
+The friends go for the bike. ||Entailment
+The bike ride. ||Entailment

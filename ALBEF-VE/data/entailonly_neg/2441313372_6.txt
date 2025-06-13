@@ -1,0 +1,5 @@
+there is not a boy ||contradiction
+there is not an arm ||contradiction
+the boy is not young ||contradiction
+the arm is not injured ||contradiction
+the boy is not with arm ||contradiction

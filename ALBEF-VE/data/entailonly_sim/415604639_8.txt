@@ -1,0 +1,4 @@
+there is a period ||entailment
+there is a st patricks period ||entailment
+there is an agent ||entailment
+the agent is inside day ||entailment

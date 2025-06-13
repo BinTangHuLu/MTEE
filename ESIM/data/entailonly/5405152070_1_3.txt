@@ -1,0 +1,11 @@
+There are boys. ||entailment
+There is a floor. ||entailment
+There is a gym. ||entailment
+There are circles. ||entailment
+The boys are The. ||entailment
+The boys are wearing. ||entailment
+The floor is stretch. ||entailment
+The gym is The. ||entailment
+The circles are on their jackets. ||entailment
+The boys are stretch of floor. ||entailment
+The boys are wearing circles. ||entailment

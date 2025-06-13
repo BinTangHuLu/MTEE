@@ -1,0 +1,2 @@
+There is a female. ||entailment
+The female was talking on the phone. ||entailment

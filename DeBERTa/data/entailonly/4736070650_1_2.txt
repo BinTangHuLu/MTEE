@@ -1,0 +1,2 @@
+There is a cigarette. ||entailment
+The cigarette is lit. ||entailment

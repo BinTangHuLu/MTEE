@@ -1,0 +1,3 @@
+There is a dude. ||Entailment
+There is some bran. ||Entailment
+The dude picks corn. ||Entailment

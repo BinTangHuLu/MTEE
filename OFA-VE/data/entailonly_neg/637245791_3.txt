@@ -1,0 +1,4 @@
+There is not a Boy. ||Contradiction
+There are not Legos. ||Contradiction
+The Boy is not playing. ||Entailment
+The Boy is not playing with Legos. ||Neutral

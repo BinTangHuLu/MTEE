@@ -1,0 +1,2 @@
+There are not dogs. ||Contradiction
+The dogs are not biting each other. ||Entailment

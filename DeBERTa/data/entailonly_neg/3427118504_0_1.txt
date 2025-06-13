@@ -1,0 +1,11 @@
+There is not a male. ||contradiction
+There are not clothes. ||contradiction
+There is not a hand. ||contradiction
+There is not a painting. ||contradiction
+There is not a young male. ||contradiction
+The male is not male. ||contradiction
+The young male is not another young. ||neutral
+The male does not have clothes. ||contradiction
+The male is not holding another young male. ||contradiction
+The hand is not holding another young male. ||contradiction
+The hand is not in front of the painting. ||contradiction

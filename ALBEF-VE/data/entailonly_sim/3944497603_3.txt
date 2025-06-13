@@ -1,0 +1,3 @@
+there is a body ||entailment
+there is an access corridor ||entailment
+the body lays on top of entrance corridor ||entailment

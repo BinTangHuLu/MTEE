@@ -1,0 +1,8 @@
+there is a group ||entailment
+there is a female ||entailment
+there is a guitar ||entailment
+the female is playing guitar ||entailment
+others are giving her rhythm ||neutral
+the group is with the female ||neutral
+the female is playing guitar ||entailment
+others are giving her rhythm ||neutral

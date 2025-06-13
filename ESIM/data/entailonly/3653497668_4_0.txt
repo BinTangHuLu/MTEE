@@ -1,0 +1,4 @@
+There are children. ||entailment
+The children are enjoying. ||entailment
+The children are enjoying party. ||entailment
+The party is birthday. ||entailment

@@ -1,0 +1,4 @@
+there is a boy ||entailment
+there are women ||entailment
+the boy throws something ||entailment
+the women sit nearby ||neutral

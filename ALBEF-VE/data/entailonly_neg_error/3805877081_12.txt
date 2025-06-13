@@ -1,0 +1,2 @@
+EA,person,shopping
+E1RE2,person,is shopping,

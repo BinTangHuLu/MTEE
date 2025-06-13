@@ -1,0 +1,4 @@
+there is a anything ||contradiction
+there is blaze ||entailment
+the dude is holding the thing ||entailment
+the anything is on fire ||contradiction

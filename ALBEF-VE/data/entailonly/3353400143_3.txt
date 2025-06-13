@@ -1,0 +1,4 @@
+there is a cyclist ||entailment
+there is a motorcycle ||entailment
+the motorcycle is yellow ||entailment
+the cyclist is driving the motorcycle ||entailment

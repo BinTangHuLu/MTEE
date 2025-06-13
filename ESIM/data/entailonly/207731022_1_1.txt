@@ -1,0 +1,2 @@
+There is a canoe. ||entailment
+The canoe goes over waterfall. ||contradiction

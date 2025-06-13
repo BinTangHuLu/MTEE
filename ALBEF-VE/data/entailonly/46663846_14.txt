@@ -1,0 +1,3 @@
+there are men ||entailment
+there is a truck ||entailment
+the men are near the truck ||entailment

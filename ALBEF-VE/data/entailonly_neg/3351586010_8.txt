@@ -1,0 +1,6 @@
+there is not a male ||contradiction
+there is not a park ||contradiction
+the male is not male ||entailment
+the park is not outdoor ||contradiction
+the male is not at the park ||contradiction
+the male is not skating at the park ||contradiction

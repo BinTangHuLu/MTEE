@@ -1,0 +1,2 @@
+There is a ceremony. ||Entailment
+The ceremony is taking place. ||Entailment

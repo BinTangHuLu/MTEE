@@ -1,0 +1,3 @@
+there are not kayakers ||contradiction
+there are not rapids ||contradiction
+the kayakers are not going down rapids ||contradiction

@@ -1,0 +1,6 @@
+There is not a person. ||Contradiction
+There is not some equipment. ||Contradiction
+There is not a load. ||Contradiction
+The equipment is not heavy. ||Entailment
+The person is not driving equipment. ||Contradiction
+The person does not maneuver the load. ||Contradiction

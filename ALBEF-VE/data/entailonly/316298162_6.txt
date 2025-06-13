@@ -1,0 +1,5 @@
+there is a group ||entailment
+there is a man ||entailment
+there is a car ||neutral
+the man is not used ||neutral
+the man is not used by the car ||neutral

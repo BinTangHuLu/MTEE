@@ -1,0 +1,5 @@
+there is not a woman ||contradiction
+there are not some feet ||entailment
+there is not a stream ||contradiction
+the woman does not have feet ||contradiction
+the feet are not in the stream ||entailment

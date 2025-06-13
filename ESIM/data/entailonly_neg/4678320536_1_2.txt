@@ -1,0 +1,5 @@
+There is not a woman. ||contradiction
+There is not some wood. ||contradiction
+The woman is not smiling. ||contradiction
+The woman does not stand while smiling. ||contradiction
+The wood was not handed to the woman. ||contradiction

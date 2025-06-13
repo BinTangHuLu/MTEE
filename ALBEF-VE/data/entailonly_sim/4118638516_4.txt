@@ -1,0 +1,5 @@
+there is a dude ||entailment
+there are some flora ||entailment
+there is a advertise ||entailment
+the dude is selling flowers ||entailment
+the flora are at market ||entailment

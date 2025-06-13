@@ -1,0 +1,4 @@
+there is not a woman ||contradiction
+there is not an ocean ||contradiction
+the woman is not barefoot ||entailment
+the woman does not walk by the ocean ||contradiction

@@ -1,0 +1,6 @@
+There is a gentlewoman. ||entailment
+There is a amount. ||entailment
+There is a call up. ||entailment
+The gentlewoman looks at the product. ||entailment
+The gentlewoman looks up the product. ||entailment
+The gentlewoman looks up the phone. ||entailment

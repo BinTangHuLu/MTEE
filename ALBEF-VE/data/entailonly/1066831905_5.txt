@@ -1,0 +1,4 @@
+there is a man ||entailment
+there is a shoe ||entailment
+the man is elderly ||neutral
+the man is looking at the shoe ||entailment

@@ -1,0 +1,3 @@
+there are animals ||entailment
+there are mouths ||entailment
+the animals are showing their mouths ||entailment

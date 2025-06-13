@@ -1,0 +1,4 @@
+there is not a potter ||contradiction
+there is not a pot ||contradiction
+the potter is not shaping ||contradiction
+the potter is not shaping the pot ||contradiction

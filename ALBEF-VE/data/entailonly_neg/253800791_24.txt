@@ -1,0 +1,5 @@
+there are not men ||contradiction
+there is not a frisbee ||contradiction
+there is not a park ||contradiction
+the men are not playing frisbee ||contradiction
+the frisbee is not in the park ||contradiction

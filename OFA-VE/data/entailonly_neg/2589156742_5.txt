@@ -1,0 +1,4 @@
+There is not a man. ||Contradiction
+There is not a picture. ||Contradiction
+The picture is not taken. ||Contradiction
+The man does not have a picture. ||Contradiction

@@ -1,0 +1,4 @@
+There is a dude. ||Entailment
+There is a camouflage. ||Contradiction
+The camouflage is black. ||Neutral
+The dude raises hand. ||Entailment

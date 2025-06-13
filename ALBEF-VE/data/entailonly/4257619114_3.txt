@@ -1,0 +1,6 @@
+there is a woman ||entailment
+there is a costume ||entailment
+there is a party ||entailment
+the costume is unusual ||entailment
+the woman wears the costume ||entailment
+the costume goes to the party ||contradiction

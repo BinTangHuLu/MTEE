@@ -1,0 +1,5 @@
+there is a man ||entailment
+there is a saw ||entailment
+there is a fair ||entailment
+the man is using saw ||entailment
+the saw is at fair ||entailment

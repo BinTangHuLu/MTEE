@@ -1,0 +1,4 @@
+There is not a child. ||Contradiction
+There is not a machine. ||Contradiction
+The machine is not large. ||Entailment
+The child does not hold onto the machine. ||Entailment

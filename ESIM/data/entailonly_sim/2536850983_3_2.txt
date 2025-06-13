@@ -1,0 +1,4 @@
+There is a club. ||contradiction
+There is a metro station. ||entailment
+The club is under construction. ||contradiction
+The club is working in the subway station. ||contradiction

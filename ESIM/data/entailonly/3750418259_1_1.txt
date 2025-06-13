@@ -1,0 +1,4 @@
+There is a boy. ||entailment
+The boy is dressed for summer. ||entailment
+The boy is wearing a green shirt. ||entailment
+The boy is wearing khaki shorts. ||entailment

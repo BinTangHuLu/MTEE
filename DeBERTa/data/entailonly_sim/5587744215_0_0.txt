@@ -1,0 +1,4 @@
+There is a female. ||entailment
+There is a chair. ||entailment
+There is a period. ||entailment
+The female rests on the bench. ||entailment

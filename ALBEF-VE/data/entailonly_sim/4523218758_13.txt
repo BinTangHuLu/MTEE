@@ -1,0 +1,4 @@
+there is a association ||entailment
+there are some community ||entailment
+there is a path ||entailment
+the community walk on the sidewalk ||entailment

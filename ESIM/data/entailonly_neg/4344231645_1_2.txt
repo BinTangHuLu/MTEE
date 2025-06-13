@@ -1,0 +1,6 @@
+There is not a child. ||contradiction
+The child is not talented. ||neutral
+There is not a mic. ||contradiction
+There is not an instrument. ||contradiction
+The child does not sing into the mic. ||contradiction
+The child does not play the instrument. ||contradiction

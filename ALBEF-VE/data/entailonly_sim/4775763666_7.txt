@@ -1,0 +1,3 @@
+there are female ||entailment
+the female are busy ||entailment
+the female are working on something ||entailment

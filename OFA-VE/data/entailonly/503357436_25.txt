@@ -1,0 +1,4 @@
+There are men. ||Entailment
+There is a couple. ||Entailment
+The men are outdoors. ||Entailment
+The men are outsiders. ||Neutral

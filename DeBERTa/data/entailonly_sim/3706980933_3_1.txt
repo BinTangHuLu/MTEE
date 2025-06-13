@@ -1,0 +1,2 @@
+There is an farther. ||entailment
+The dude is sleeping outside. ||entailment

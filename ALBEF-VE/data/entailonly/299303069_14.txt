@@ -1,0 +1,3 @@
+there is a boy ||entailment
+there are legos ||entailment
+the boy has legos ||entailment

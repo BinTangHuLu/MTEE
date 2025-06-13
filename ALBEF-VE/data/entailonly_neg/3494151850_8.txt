@@ -1,0 +1,4 @@
+there is not a boat ||contradiction
+there are not some guys ||contradiction
+the boat is not full ||entailment
+the boat does not make a turn ||contradiction

@@ -1,0 +1,7 @@
+there is not a girl ||contradiction
+there is not a bottle ||contradiction
+there is not a wand ||contradiction
+the girl is not young ||entailment
+the girl does not walk outside ||entailment
+the girl is not holding a bottle ||contradiction
+the girl is not holding a wand ||contradiction

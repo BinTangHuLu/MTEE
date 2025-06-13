@@ -1,0 +1,5 @@
+there is not an act ||contradiction
+there are not some buildings ||contradiction
+the act is not highwire ||entailment
+the act is not too high ||entailment
+the act is not suspended between buildings ||contradiction

@@ -1,0 +1,2 @@
+there are surfers ||entailment
+the surfers are out surfing ||entailment

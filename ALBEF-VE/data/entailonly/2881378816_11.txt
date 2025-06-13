@@ -1,0 +1,4 @@
+there are people ||entailment
+there is a man ||entailment
+there is a chair ||entailment
+the people walk by the man ||entailment

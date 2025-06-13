@@ -1,0 +1,4 @@
+There are clan. ||entailment
+There is a association. ||entailment
+There is a lap. ||entailment
+The clan are on stage. ||neutral

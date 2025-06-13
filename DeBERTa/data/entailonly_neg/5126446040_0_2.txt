@@ -1,0 +1,5 @@
+There are not people. ||contradiction
+There is not a house. ||contradiction
+There are not three people. ||contradiction
+The people are not standing inside the house. ||contradiction
+The people are not near each other. ||contradiction

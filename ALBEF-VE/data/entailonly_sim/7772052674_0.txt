@@ -1,0 +1,3 @@
+there are dude ||entailment
+dude and women are sitting inside ||entailment
+dude are sitting inside drinking ||entailment

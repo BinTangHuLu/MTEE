@@ -1,0 +1,3 @@
+there is a girl ||entailment
+there are some glasses ||entailment
+the girl has glasses ||entailment

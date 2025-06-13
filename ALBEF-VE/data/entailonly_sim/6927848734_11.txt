@@ -1,0 +1,4 @@
+there is a dude ||entailment
+there is a harbor ||contradiction
+the dude is attempting ||entailment
+the dude is attempting to arrive at destination ||neutral

@@ -1,0 +1,2 @@
+There is a soccer game. ||entailment
+The soccer game is being played. ||entailment

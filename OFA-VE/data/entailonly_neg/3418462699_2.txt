@@ -1,0 +1,5 @@
+There is not a man. ||Contradiction
+There is not a sweater. ||Contradiction
+The sweater is not red. ||Entailment
+The man is not with the sweater. ||Entailment
+The man is not outdoors. ||Contradiction

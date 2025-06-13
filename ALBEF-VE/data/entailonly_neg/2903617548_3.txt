@@ -1,0 +1,4 @@
+there is not a boy ||contradiction
+there is not a ball ||entailment
+the boy does not have the ball ||entailment
+the ball is not in his possession ||entailment

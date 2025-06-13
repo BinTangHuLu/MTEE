@@ -1,0 +1,4 @@
+There is not a man. ||contradiction
+There is not a raincoat. ||contradiction
+The man is not red. ||contradiction
+The man is not in front of camera. ||entailment

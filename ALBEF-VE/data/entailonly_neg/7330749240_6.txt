@@ -1,0 +1,4 @@
+there are not cars ||contradiction
+there is not a track ||contradiction
+the cars are not fast ||contradiction
+the cars are not going around track ||contradiction

@@ -1,0 +1,7 @@
+There is a auto. ||entailment
+There are hiker. ||entailment
+The auto is making a right turn. ||entailment
+The auto is making. ||entailment
+The hiker are three. ||entailment
+The auto is making a turn. ||entailment
+The hiker cross behind the car. ||entailment

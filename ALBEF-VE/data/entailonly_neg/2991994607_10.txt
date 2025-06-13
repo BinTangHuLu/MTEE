@@ -1,0 +1,5 @@
+there are not people ||contradiction
+there is not a costume ||contradiction
+there is not a party ||contradiction
+the people are not in costume ||contradiction
+the people are not at the party ||entailment

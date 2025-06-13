@@ -1,0 +1,3 @@
+there is a man ||entailment
+the man is old ||neutral
+the man bends to pick something ||entailment

@@ -1,0 +1,5 @@
+there are not girls ||contradiction
+there are not dogs ||contradiction
+there is not a street ||contradiction
+the girls are not walking down the street ||contradiction
+the dogs are not walking down the street ||contradiction

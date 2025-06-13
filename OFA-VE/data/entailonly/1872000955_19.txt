@@ -1,0 +1,3 @@
+There are workers. ||Entailment
+There is a hole. ||Entailment
+The workers are trying to get deeper into the hole. ||Entailment

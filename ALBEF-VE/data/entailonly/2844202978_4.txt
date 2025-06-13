@@ -1,0 +1,4 @@
+there is a woman ||entailment
+there are some goods ||entailment
+the goods are variety ||entailment
+the woman is presenting goods ||entailment

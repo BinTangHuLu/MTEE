@@ -1,0 +1,4 @@
+there is a man ||entailment
+there is an event ||entailment
+the man is standing around ||entailment
+the man is at the event ||entailment

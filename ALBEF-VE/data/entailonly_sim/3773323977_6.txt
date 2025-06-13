@@ -1,0 +1,4 @@
+there are child ||entailment
+there is drink ||entailment
+the child are young ||neutral
+the child are near water ||entailment

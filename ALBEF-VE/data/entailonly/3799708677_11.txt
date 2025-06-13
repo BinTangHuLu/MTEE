@@ -1,0 +1,3 @@
+there are monks ||entailment
+the monks are walking ||entailment
+the monks are walking together ||entailment

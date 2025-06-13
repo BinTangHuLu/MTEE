@@ -1,0 +1,4 @@
+there is a store ||entailment
+there are some shoppers ||entailment
+the store is crowded ||entailment
+the store is crowded with shoppers ||entailment

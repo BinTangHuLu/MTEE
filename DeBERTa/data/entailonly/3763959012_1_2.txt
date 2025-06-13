@@ -1,0 +1,4 @@
+There are humans. ||entailment
+The humans are male. ||entailment
+The humans are outside. ||entailment
+The humans are with a hat on. ||entailment

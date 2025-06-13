@@ -1,0 +1,5 @@
+There is a female. ||entailment
+There is a area. ||entailment
+The female is sitting. ||entailment
+The female is in the room. ||entailment
+The area is with people. ||entailment

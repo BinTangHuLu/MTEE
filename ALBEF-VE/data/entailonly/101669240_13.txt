@@ -1,0 +1,3 @@
+there are men ||entailment
+there is cold ||entailment
+the men are outside in cold ||entailment

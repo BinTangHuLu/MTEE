@@ -1,0 +1,4 @@
+There are men. ||entailment
+There is a cafe. ||entailment
+The men are older. ||entailment
+The men are sitting at cafe. ||entailment

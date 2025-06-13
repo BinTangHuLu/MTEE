@@ -1,0 +1,4 @@
+there is a boundary ||entailment
+there are some community ||entailment
+there is a artery ||neutral
+the community are biking down the road ||entailment

@@ -1,0 +1,5 @@
+there is not a guy ||contradiction
+there is not a shirt ||contradiction
+there are not pants ||contradiction
+the guy is not running in the shirt ||entailment
+the guy is not running in the pants ||entailment

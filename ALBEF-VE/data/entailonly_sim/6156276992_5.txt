@@ -1,0 +1,2 @@
+there are adventurer ||entailment
+the adventurer are looking at sites ||entailment

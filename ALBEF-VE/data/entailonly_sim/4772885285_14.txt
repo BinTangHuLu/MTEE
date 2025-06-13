@@ -1,0 +1,4 @@
+there is a female ||entailment
+there is deluge ||entailment
+the female is alone ||neutral
+the female is in rain ||entailment

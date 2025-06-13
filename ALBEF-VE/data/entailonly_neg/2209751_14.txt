@@ -1,0 +1,2 @@
+there is not an automobile ||contradiction
+the automobile is not being made suitable for capturing on camera ||entailment

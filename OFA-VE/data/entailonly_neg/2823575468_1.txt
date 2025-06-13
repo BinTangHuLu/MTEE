@@ -1,0 +1,4 @@
+There is not a male. ||Entailment
+There are not some clothes. ||Contradiction
+The male is not young. ||Entailment
+The male does not have clothes. ||Entailment

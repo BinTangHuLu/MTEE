@@ -1,0 +1,5 @@
+there is a female ||entailment
+there are boot ||entailment
+there are chain ||neutral
+the female carries shoes ||entailment
+the female threw shoes to tracks ||contradiction

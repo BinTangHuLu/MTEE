@@ -1,0 +1,3 @@
+there are not animals ||contradiction
+there is not a meadow ||contradiction
+the animals are not in the meadow ||contradiction

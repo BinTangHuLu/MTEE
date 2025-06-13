@@ -1,0 +1,3 @@
+There are boys. ||entailment
+There are two boys. ||entailment
+The boys are near each other. ||entailment

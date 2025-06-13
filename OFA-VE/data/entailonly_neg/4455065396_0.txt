@@ -1,0 +1,4 @@
+There is not a child. ||Contradiction
+There is not a floor. ||Entailment
+The child is not inside. ||Entailment
+The child is not on the floor. ||Entailment

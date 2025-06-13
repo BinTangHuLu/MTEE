@@ -1,0 +1,5 @@
+There is not a girl. ||Contradiction
+There is not a snail. ||Contradiction
+There is not a hand. ||Contradiction
+The girl is not holding the snail. ||Contradiction
+The snail is not in the hand. ||Entailment

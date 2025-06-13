@@ -1,0 +1,3 @@
+there are artillery ||entailment
+there are equipment ||entailment
+the artillery wash objects ||contradiction

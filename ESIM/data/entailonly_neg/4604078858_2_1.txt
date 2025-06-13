@@ -1,0 +1,3 @@
+There is not a person. ||contradiction
+There is not a tree. ||contradiction
+The person is not messing with the tree. ||contradiction

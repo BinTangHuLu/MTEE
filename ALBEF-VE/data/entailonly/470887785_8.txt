@@ -1,0 +1,3 @@
+there is a girl ||entailment
+there is an event ||entailment
+the girl is protesting at the event ||neutral

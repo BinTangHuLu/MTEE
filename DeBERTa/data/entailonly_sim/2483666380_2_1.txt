@@ -1,0 +1,4 @@
+There is a female. ||entailment
+The female is doing something. ||entailment
+Her band are her. ||neutral
+The female is doing with hands. ||entailment

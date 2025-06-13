@@ -1,0 +1,3 @@
+there is a cop ||entailment
+there is new york ||entailment
+the cop is in new york ||entailment

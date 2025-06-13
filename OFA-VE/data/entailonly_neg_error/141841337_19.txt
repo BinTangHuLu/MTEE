@@ -1,0 +1,2 @@
+EA,boy,flexible
+A,grey

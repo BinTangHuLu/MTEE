@@ -1,0 +1,7 @@
+there is a female ||entailment
+there is a baby ||entailment
+there is a berry ||entailment
+there is a bar ||entailment
+the female is watching the child ||entailment
+the baby is eating the fruit ||contradiction
+the berry is on the table ||entailment

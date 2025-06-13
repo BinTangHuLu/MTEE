@@ -1,0 +1,5 @@
+There is not a kid. ||contradiction
+There is not a picture. ||contradiction
+There is not a girl. ||contradiction
+The kid does not draw a picture. ||contradiction
+The picture is not of a girl. ||contradiction

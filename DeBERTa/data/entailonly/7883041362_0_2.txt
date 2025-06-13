@@ -1,0 +1,6 @@
+There is a woman. ||entailment
+There are some tricks. ||entailment
+There is a park. ||entailment
+The woman is young. ||entailment
+The woman is performing tricks. ||entailment
+The woman is at park. ||entailment

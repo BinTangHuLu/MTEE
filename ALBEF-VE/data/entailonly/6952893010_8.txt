@@ -1,0 +1,3 @@
+there is a boat ||entailment
+there is water ||entailment
+the boat is in water ||entailment

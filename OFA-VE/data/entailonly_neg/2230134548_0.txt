@@ -1,0 +1,3 @@
+There is not a cook. ||Contradiction
+There are not some items. ||Contradiction
+The cook does not prepare items. ||Contradiction

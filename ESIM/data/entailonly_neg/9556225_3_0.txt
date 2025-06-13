@@ -1,0 +1,4 @@
+There is not a woman. ||contradiction
+The woman is not working. ||contradiction
+The hands are not protected from harm. ||contradiction
+The woman is not working with hands. ||contradiction

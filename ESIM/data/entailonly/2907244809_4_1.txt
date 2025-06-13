@@ -1,0 +1,3 @@
+There is a skateboarder. ||entailment
+The skateboarder is doing a trick. ||entailment
+The skateboarder is doing trick. ||entailment

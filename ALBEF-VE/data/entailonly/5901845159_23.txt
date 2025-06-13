@@ -1,0 +1,4 @@
+there is a child ||entailment
+there is a circus guy ||neutral
+the circus guy is working ||neutral
+the child is looking at the circus guy ||neutral

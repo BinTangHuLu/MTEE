@@ -1,0 +1,3 @@
+there is a corridor ||entailment
+the corridor is busy ||contradiction
+the corridor is during construction ||entailment

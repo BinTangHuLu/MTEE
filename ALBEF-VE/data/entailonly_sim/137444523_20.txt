@@ -1,0 +1,5 @@
+there is a body ||entailment
+there is a account ||entailment
+the body is getting ||entailment
+the account is taken ||entailment
+the body is taking the picture ||entailment

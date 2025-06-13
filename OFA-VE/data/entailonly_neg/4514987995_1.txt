@@ -1,0 +1,5 @@
+There are not people. ||Contradiction
+There is not a desk. ||Contradiction
+The people are not at. ||Contradiction
+The people are not at desk. ||Entailment
+The people are not solving problem. ||Contradiction

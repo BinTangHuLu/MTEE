@@ -1,0 +1,4 @@
+there is not a person ||contradiction
+there is not a wall ||contradiction
+the person is not orange ||contradiction
+the person is not laying on the wall ||entailment

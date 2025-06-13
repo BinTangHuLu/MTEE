@@ -1,0 +1,3 @@
+there is an elephant ||entailment
+there is a man ||entailment
+the elephant is being ridden by the man ||entailment

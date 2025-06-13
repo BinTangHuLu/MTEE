@@ -1,0 +1,4 @@
+There is not a riverbank. ||contradiction
+There is not nudity. ||contradiction
+There are not kids. ||contradiction
+The riverbank was not played on by nudity of kids. ||contradiction

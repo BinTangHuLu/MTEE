@@ -1,0 +1,6 @@
+There is not a girl. ||Contradiction
+There is not a hand. ||Contradiction
+There are not eyes. ||Entailment
+The girl is not blonde. ||Entailment
+The girl does not have a hand. ||Neutral
+The hand is not over eyes. ||Entailment

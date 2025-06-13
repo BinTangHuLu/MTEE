@@ -1,0 +1,3 @@
+there is an man ||entailment
+there is a barge ||entailment
+the man is on the boat ||entailment

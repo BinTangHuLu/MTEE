@@ -1,0 +1,5 @@
+there is a musician ||entailment
+there is a guitar ||entailment
+there are people ||entailment
+the musician is playing guitar ||entailment
+the musician is playing for people ||entailment

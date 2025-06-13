@@ -1,0 +1,3 @@
+there is a little ||entailment
+there are some attire ||entailment
+the little is wearing clothes ||entailment

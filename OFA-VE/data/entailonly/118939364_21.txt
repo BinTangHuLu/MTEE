@@ -1,0 +1,3 @@
+There is a woman. ||Entailment
+There is a thread. ||Entailment
+The woman is near the thread. ||Entailment

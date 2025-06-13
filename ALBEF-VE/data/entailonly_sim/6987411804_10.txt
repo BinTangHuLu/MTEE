@@ -1,0 +1,4 @@
+there is a child ||entailment
+there is atmosphere ||entailment
+the cheerleader holds the child ||contradiction
+the cheerleader holds in the atmosphere ||entailment

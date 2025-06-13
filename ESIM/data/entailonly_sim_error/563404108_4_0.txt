@@ -1,0 +1,2 @@
+E,people
+E1RE2,people,standing near,each other

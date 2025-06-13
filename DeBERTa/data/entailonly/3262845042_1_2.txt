@@ -1,0 +1,3 @@
+There is a worker. ||entailment
+The worker is emergency. ||entailment
+The worker helps outdoors. ||entailment

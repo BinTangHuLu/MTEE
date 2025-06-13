@@ -1,0 +1,4 @@
+There is a dude. ||entailment
+The dude is old. ||entailment
+The dude is Indian. ||entailment
+The dude is sleep. ||entailment

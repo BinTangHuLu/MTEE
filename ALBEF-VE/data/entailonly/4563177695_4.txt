@@ -1,0 +1,3 @@
+there are people ||entailment
+the people are sitting ||contradiction
+the people are talking ||entailment

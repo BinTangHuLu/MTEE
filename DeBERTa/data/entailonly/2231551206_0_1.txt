@@ -1,0 +1,9 @@
+There is a man. ||entailment
+There is some clothing. ||entailment
+There is a chair. ||entailment
+There is a TV. ||entailment
+The man is relaxed. ||neutral
+The clothing is relaxed. ||entailment
+The man is lounging. ||entailment
+The man is in the chair. ||entailment
+The man is watching TV. ||entailment

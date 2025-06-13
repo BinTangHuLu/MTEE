@@ -1,0 +1,4 @@
+there are community ||entailment
+there is a bar ||entailment
+the community are total ||contradiction
+the community are near the table ||entailment

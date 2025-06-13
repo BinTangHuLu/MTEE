@@ -1,0 +1,3 @@
+there are not dancers ||contradiction
+there is not a show ||contradiction
+the dancers did not perform in the show ||contradiction

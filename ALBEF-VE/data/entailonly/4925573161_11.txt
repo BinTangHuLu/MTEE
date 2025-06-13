@@ -1,0 +1,4 @@
+there is a bike rider ||entailment
+there is a shirt ||entailment
+the shirt is yellow ||entailment
+the bike rider is wearing a yellow shirt ||entailment

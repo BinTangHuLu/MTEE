@@ -1,0 +1,3 @@
+there is a man ||entailment
+there is a pawn ||entailment
+the man is moving the pawn ||entailment

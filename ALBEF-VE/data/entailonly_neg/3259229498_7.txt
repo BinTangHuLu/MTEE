@@ -1,0 +1,5 @@
+there is not someone ||contradiction
+there is not a stage ||contradiction
+there is not a crowd ||contradiction
+someone is not standing on stage ||contradiction
+someone is not in front of the crowd ||contradiction

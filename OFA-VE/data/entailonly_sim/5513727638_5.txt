@@ -1,0 +1,4 @@
+There is an apogee. ||Entailment
+There is a slope. ||Entailment
+The biker reaches the apogee. ||Entailment
+The apogee is of the ramp. ||Entailment

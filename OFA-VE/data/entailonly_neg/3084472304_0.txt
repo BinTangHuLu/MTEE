@@ -1,0 +1,2 @@
+There are not Workers. ||Contradiction
+There is not machinery. ||Entailment

@@ -1,0 +1,5 @@
+There are vehicles. ||entailment
+There is a photo. ||entailment
+The vehicles are police. ||entailment
+The photo is two. ||entailment
+The vehicles are in the photo. ||entailment

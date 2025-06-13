@@ -1,0 +1,3 @@
+There is a pup. ||entailment
+There is a dude. ||entailment
+The pup is being trained by the man. ||entailment

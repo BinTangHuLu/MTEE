@@ -1,0 +1,4 @@
+there is a association ||entailment
+there are boy ||entailment
+the boy are four ||neutral
+the boy are wearing slacks ||entailment

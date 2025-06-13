@@ -1,0 +1,5 @@
+There are not men. ||contradiction
+There is not a day. ||contradiction
+There is not work. ||contradiction
+The men are not finishing the day. ||contradiction
+The men are not finishing the work. ||contradiction

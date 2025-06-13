@@ -1,0 +1,6 @@
+There are not children. ||contradiction
+There is not a game. ||contradiction
+There is not grass. ||contradiction
+The grass is not green. ||neutral
+The children are not playing the game. ||contradiction
+The children are not playing on the grass. ||contradiction

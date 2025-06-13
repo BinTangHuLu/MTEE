@@ -1,0 +1,5 @@
+There is a child. ||entailment
+There is a circle. ||neutral
+There is some camel. ||contradiction
+The child swims. ||entailment
+The circle shits on sand. ||neutral

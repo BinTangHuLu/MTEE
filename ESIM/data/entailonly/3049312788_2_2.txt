@@ -1,0 +1,7 @@
+There is a man. ||entailment
+There are some books. ||entailment
+There is a chair. ||entailment
+The man is handling. ||entailment
+The chair is sitting. ||entailment
+The man is handling books. ||entailment
+The man is sitting in the chair. ||entailment

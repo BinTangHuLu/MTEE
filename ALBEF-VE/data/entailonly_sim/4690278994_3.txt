@@ -1,0 +1,4 @@
+there is a dude ||entailment
+there is a glass ||entailment
+the dude is holding a bottle ||neutral
+the dude is running ||entailment

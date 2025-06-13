@@ -1,0 +1,3 @@
+there are dude ||entailment
+there are attire ||entailment
+the dude are wearing uniforms ||entailment

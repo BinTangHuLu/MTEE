@@ -1,0 +1,5 @@
+there is a dude ||entailment
+there is a artery ||neutral
+there is barley ||neutral
+the dude jumps from the road ||entailment
+the dude jumps into the grass ||entailment

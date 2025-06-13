@@ -1,0 +1,3 @@
+there is a girl ||entailment
+there is a bikini ||neutral
+the bikini is in ||neutral

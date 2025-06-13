@@ -1,0 +1,5 @@
+There is not a woman. ||contradiction
+There is not a picture. ||contradiction
+There is not a truck. ||contradiction
+The woman is not getting taken by the picture. ||neutral
+The woman is not near the truck. ||contradiction

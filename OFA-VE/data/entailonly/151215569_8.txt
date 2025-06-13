@@ -1,0 +1,4 @@
+There is a girl. ||Entailment
+There is a signal. ||Entailment
+The signal is hand. ||Entailment
+The girl is making signal. ||Entailment

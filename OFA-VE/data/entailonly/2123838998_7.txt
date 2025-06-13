@@ -1,0 +1,4 @@
+There are santas. ||Entailment
+There are tunes. ||Entailment
+The tunes are christmas. ||Entailment
+The santas are playing tunes. ||Entailment

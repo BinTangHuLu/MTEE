@@ -1,0 +1,6 @@
+there is a man ||entailment
+there is some clothing ||entailment
+there is a bottle ||entailment
+the clothing is athletic ||entailment
+the man is holding a bottle ||neutral
+the man is running ||entailment

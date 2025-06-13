@@ -1,0 +1,6 @@
+there is a dude ||entailment
+there is a edge ||entailment
+there is a architecture ||entailment
+the dude is standing at the corner ||entailment
+the edge is of the building ||entailment
+the dude is talking ||entailment

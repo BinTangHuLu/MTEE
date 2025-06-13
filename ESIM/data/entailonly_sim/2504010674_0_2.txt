@@ -1,0 +1,5 @@
+There is a dude. ||entailment
+The dude is wearing a suit with gold buttons. ||entailment
+The costume has a name tag. ||entailment
+The dude has hands. ||entailment
+The dude gestures with hands. ||entailment

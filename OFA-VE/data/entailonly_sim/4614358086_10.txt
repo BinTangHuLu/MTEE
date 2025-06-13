@@ -1,0 +1,3 @@
+There is an agent. ||Entailment
+There are some community. ||Entailment
+The agent observes people. ||Entailment

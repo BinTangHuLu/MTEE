@@ -1,0 +1,5 @@
+there is a man ||entailment
+there are wares ||entailment
+there is a street ||entailment
+the man hawks wares ||contradiction
+the man is on street ||entailment

@@ -1,0 +1,4 @@
+There is a body. ||Entailment
+There is a colt. ||Entailment
+The body is outdoors. ||Entailment
+The body is on the horse. ||Entailment

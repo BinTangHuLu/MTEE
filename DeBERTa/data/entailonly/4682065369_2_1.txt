@@ -1,0 +1,3 @@
+There is a photographer. ||entailment
+There is a picture. ||entailment
+The photographer is taking a picture. ||entailment

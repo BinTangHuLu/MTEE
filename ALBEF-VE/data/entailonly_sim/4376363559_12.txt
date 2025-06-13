@@ -1,0 +1,3 @@
+there is a dude ||entailment
+there is a colt ||neutral
+the dude is looking at the horse ||entailment

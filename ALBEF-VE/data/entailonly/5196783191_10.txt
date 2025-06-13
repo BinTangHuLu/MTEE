@@ -1,0 +1,5 @@
+there is a group ||entailment
+there is an audience ||entailment
+the group is musical ||entailment
+the audience is live ||entailment
+the group performs in front of the audience ||entailment

@@ -1,0 +1,6 @@
+There is a person. ||entailment
+There is a crowd. ||entailment
+There are teenagers. ||entailment
+The person stands in the middle. ||entailment
+The person stands in the crowd. ||entailment
+The crowd is of teenagers. ||entailment

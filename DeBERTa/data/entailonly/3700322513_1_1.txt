@@ -1,0 +1,2 @@
+There is a cyclist. ||entailment
+The cyclist is being filmed. ||entailment

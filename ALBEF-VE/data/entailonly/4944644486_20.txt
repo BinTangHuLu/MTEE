@@ -1,0 +1,4 @@
+there is a depiction ||entailment
+there is an animal ||entailment
+the depiction is some kind of ||entailment
+the depiction is visible ||entailment

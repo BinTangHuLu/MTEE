@@ -1,0 +1,4 @@
+There are not kids. ||contradiction
+There is not water. ||contradiction
+The kids do not splash in water. ||contradiction
+The kids do not interact with each other. ||contradiction

@@ -1,0 +1,4 @@
+there is a set ||entailment
+there are some pallets ||entailment
+there is a building ||entailment
+the pallets are stacked against the building ||entailment

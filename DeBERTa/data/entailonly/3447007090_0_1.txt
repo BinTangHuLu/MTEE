@@ -1,0 +1,5 @@
+There is a group. ||entailment
+There is a street. ||entailment
+There is a brick wall. ||entailment
+The group stands on the street. ||entailment
+The group is in front of the brick wall. ||entailment

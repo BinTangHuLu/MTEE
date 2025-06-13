@@ -1,0 +1,7 @@
+there is a dude ||entailment
+there is a colt ||neutral
+there is a avenue ||entailment
+there are some community ||entailment
+the dude is on the horse ||entailment
+the dude goes down the street ||entailment
+the community watch the man ||entailment

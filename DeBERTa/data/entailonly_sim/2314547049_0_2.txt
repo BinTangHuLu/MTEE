@@ -1,0 +1,3 @@
+There is a female. ||entailment
+There is a box. ||entailment
+The female is smiling at the package. ||entailment

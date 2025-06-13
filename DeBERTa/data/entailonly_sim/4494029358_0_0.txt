@@ -1,0 +1,7 @@
+There is a backpack. ||neutral
+There is a bodice. ||entailment
+There is a dude. ||entailment
+The backpack is pink. ||neutral
+The Lady is with the backpack. ||neutral
+The Lady is with the bodice. ||neutral
+The Lady reaches toward the dude. ||entailment

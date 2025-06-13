@@ -1,0 +1,3 @@
+there is a association ||entailment
+there is a aisle ||entailment
+the association walked away from the path ||entailment

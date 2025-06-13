@@ -1,0 +1,5 @@
+There are not women. ||contradiction
+There is not a group. ||contradiction
+The women are not alike. ||contradiction
+The group is not dressed. ||contradiction
+The group is not dressed by women. ||contradiction

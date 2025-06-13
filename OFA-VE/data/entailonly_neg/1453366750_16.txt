@@ -1,0 +1,2 @@
+There are not kids. ||Contradiction
+There are not two kids. ||Entailment

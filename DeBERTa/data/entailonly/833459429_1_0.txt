@@ -1,0 +1,5 @@
+There is a woman. ||entailment
+There is a dress. ||entailment
+There is some food. ||entailment
+The woman is wearing a dress. ||entailment
+The woman cooks food. ||entailment

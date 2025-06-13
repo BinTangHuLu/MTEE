@@ -1,0 +1,6 @@
+There is not a woman. ||contradiction
+There is not a camera. ||contradiction
+There is not a wall. ||contradiction
+The woman is not pointing. ||contradiction
+The camera is not upwards. ||contradiction
+The woman is not while standing at the wall. ||contradiction

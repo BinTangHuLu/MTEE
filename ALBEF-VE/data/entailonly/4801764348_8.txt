@@ -1,0 +1,2 @@
+there are men ||contradiction
+the men are sitting ||entailment

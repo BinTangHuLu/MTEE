@@ -1,0 +1,7 @@
+There is not a girl. ||contradiction
+There is not a tub. ||contradiction
+There is not a part. ||contradiction
+There is not a snake. ||contradiction
+The girl is not sitting in the tub. ||contradiction
+The tub is not with the part. ||contradiction
+The part is not of the snake. ||contradiction

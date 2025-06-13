@@ -1,0 +1,4 @@
+There is a leg. ||entailment
+The leg is right. ||entailment
+The leg is brace. ||entailment
+The leg is in brace. ||entailment

@@ -1,0 +1,2 @@
+there are players ||entailment
+the players are outside ||entailment

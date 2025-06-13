@@ -1,0 +1,4 @@
+there is a man ||entailment
+there is a head ||entailment
+the head is covered ||entailment
+the man is covered by head ||entailment

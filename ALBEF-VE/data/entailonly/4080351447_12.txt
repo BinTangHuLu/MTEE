@@ -1,0 +1,4 @@
+there is a man ||entailment
+there is a kitchen ||entailment
+the man is cooking ||entailment
+the man is cooking at the kitchen ||contradiction

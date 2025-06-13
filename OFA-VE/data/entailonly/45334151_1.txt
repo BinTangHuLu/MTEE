@@ -1,0 +1,3 @@
+There is a woman. ||Entailment
+There is a laundromat. ||Entailment
+The woman is at the laundromat. ||Entailment

@@ -1,0 +1,2 @@
+EA,jeans,blue
+RE2,is wearing,jeans

@@ -1,0 +1,3 @@
+There is a human. ||Entailment
+There is a guitar. ||Entailment
+The human is playing guitar. ||Entailment

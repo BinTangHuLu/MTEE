@@ -1,0 +1,10 @@
+there is not a car ||contradiction
+there is not a man ||contradiction
+there is not a coat ||contradiction
+there are not glasses ||contradiction
+the glasses are not red ||entailment
+the man is not wearing a coat ||contradiction
+the man is not wearing glasses ||contradiction
+the man is not having cameras ||contradiction
+the man is not in front of the car ||entailment
+the man is not standing in front of the man ||contradiction

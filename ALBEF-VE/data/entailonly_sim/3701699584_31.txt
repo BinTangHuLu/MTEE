@@ -1,0 +1,3 @@
+there is a body ||entailment
+there is a bench ||neutral
+the body is on court ||entailment

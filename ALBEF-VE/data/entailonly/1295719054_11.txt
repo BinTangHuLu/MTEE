@@ -1,0 +1,3 @@
+there are kids ||entailment
+the kids are young ||entailment
+the kids run together ||entailment

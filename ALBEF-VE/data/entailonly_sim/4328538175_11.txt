@@ -1,0 +1,7 @@
+there is a boy ||entailment
+there is a childbearing ||entailment
+the boy is looking at ||entailment
+the childbearing is looking at ||entailment
+the appearance are similar ||entailment
+the boy is looking at the images ||entailment
+the childbearing is looking at the images ||entailment

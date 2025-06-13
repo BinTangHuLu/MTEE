@@ -1,0 +1,5 @@
+There is not a man. ||contradiction
+There are not some toes. ||contradiction
+There are not people. ||contradiction
+The man does not stand on toes. ||contradiction
+The man is not in front of people. ||contradiction

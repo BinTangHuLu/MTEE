@@ -1,0 +1,4 @@
+There is a little. ||entailment
+The little is little. ||entailment
+The little is blue. ||entailment
+The little is wearing. ||entailment

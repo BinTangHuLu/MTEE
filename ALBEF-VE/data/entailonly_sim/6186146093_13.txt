@@ -1,0 +1,4 @@
+there is a dude ||entailment
+there is a female ||entailment
+there is a pedal tire ||entailment
+the dude works on the bike tire ||entailment

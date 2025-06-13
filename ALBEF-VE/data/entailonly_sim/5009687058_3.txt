@@ -1,0 +1,4 @@
+there are list ||neutral
+there is a soccer ||contradiction
+the list are opposing ||entailment
+list tackle players ||neutral

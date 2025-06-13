@@ -1,0 +1,2 @@
+there is a sweater ||entailment
+the sweater is dark blue ||entailment

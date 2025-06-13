@@ -1,0 +1,4 @@
+there is a childbearing ||contradiction
+there are some attire ||entailment
+the attire are orange ||entailment
+the childbearing is in clothes ||entailment

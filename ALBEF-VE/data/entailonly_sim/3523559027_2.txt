@@ -1,0 +1,3 @@
+there are community ||entailment
+the community are standing ||entailment
+the community are standing together ||entailment

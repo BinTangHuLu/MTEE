@@ -1,0 +1,7 @@
+There is an individual. ||entailment
+There is a table. ||entailment
+There is water. ||entailment
+There is a stroller. ||entailment
+The individual holds water. ||entailment
+The individual is near the stroller. ||entailment
+The water is near the stroller. ||entailment

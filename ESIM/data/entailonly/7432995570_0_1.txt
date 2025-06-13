@@ -1,0 +1,4 @@
+There is a man. ||entailment
+There is a trail. ||entailment
+The man is riding fast. ||entailment
+The man is riding the trail. ||entailment

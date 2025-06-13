@@ -1,0 +1,3 @@
+there are not friends ||contradiction
+there is not outside ||contradiction
+the friends are not outside ||contradiction

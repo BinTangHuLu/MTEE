@@ -1,0 +1,7 @@
+There is not a human being. ||contradiction
+There is not a kitchen. ||contradiction
+There is not meat. ||contradiction
+The human being is not in. ||contradiction
+The meat is not in front of. ||entailment
+The human being is not in the kitchen. ||contradiction
+The human being is not with meat. ||contradiction

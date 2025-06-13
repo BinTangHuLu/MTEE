@@ -1,0 +1,6 @@
+there is not a child ||contradiction
+there is not a helmet ||contradiction
+there is not a vest ||contradiction
+the helmet is not with ||neutral
+the vest is not cow ||entailment
+the child is not with helmet ||contradiction

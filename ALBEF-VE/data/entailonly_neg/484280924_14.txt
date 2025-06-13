@@ -1,0 +1,5 @@
+there is not a chef ||contradiction
+there is not some food ||contradiction
+there is not a container ||contradiction
+the chef is not putting food ||contradiction
+the food is not being put into the container ||contradiction

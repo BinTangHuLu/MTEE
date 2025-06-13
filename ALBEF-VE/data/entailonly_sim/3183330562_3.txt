@@ -1,0 +1,3 @@
+there are clan ||entailment
+there are composure ||entailment
+the clan are moving their legs ||entailment

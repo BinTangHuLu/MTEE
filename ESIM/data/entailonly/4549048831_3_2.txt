@@ -1,0 +1,2 @@
+There are People. ||entailment
+People are getting ready to run. ||entailment

@@ -1,0 +1,5 @@
+there is a line ||entailment
+there is some melody ||entailment
+the line is small ||neutral
+the line plays music ||entailment
+the line is dressed in costume ||entailment

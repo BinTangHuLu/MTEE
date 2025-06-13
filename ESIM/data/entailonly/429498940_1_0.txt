@@ -1,0 +1,3 @@
+There is a trio. ||entailment
+There are humans. ||entailment
+The trio is sitting. ||entailment

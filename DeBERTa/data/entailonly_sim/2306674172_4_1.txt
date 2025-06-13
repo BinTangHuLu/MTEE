@@ -1,0 +1,2 @@
+There are some staircase. ||entailment
+The skater jumped over staircase. ||entailment

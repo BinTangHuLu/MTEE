@@ -1,0 +1,5 @@
+There is a body. ||entailment
+There are community. ||entailment
+There is air painting. ||contradiction
+The body shows people. ||contradiction
+The body shows face painting. ||entailment

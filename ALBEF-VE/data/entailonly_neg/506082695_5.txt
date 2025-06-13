@@ -1,0 +1,3 @@
+there are not climbers ||contradiction
+there is not outside ||contradiction
+the climbers are not climbing outside ||contradiction

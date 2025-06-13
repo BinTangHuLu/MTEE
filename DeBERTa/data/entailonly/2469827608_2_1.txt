@@ -1,0 +1,5 @@
+There is She. ||entailment
+There are questions. ||entailment
+There is a table. ||entailment
+She answers questions. ||entailment
+She is sitting at the table. ||entailment

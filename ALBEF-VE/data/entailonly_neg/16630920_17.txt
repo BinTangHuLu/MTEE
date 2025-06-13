@@ -1,0 +1,3 @@
+there are not rugs ||contradiction
+there are not patterns ||contradiction
+the rugs do not have patterns ||contradiction

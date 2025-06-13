@@ -1,0 +1,3 @@
+There are miners. ||Entailment
+There is digging. ||Entailment
+The miners are digging. ||Entailment

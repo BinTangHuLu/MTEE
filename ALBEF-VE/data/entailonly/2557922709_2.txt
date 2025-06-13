@@ -1,0 +1,4 @@
+there is a girl ||entailment
+there are flags ||entailment
+the flags are two ||neutral
+the girl has flags ||entailment

@@ -1,0 +1,5 @@
+There is not a man. ||Contradiction
+There is not an attire. ||Contradiction
+There is not a drum. ||Entailment
+The attire is not fancy. ||Entailment
+The man does not hold the drum. ||Contradiction

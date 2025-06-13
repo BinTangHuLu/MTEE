@@ -1,0 +1,5 @@
+There is a child. ||entailment
+There is an climate. ||entailment
+The child is wild. ||neutral
+The child is natural. ||contradiction
+The climate is his. ||entailment

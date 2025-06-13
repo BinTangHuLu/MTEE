@@ -1,0 +1,4 @@
+there are men ||entailment
+there are pants ||entailment
+the pants are khaki green ||neutral
+men are speaking to fellow acquaintances ||entailment

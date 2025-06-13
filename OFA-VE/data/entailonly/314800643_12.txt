@@ -1,0 +1,3 @@
+There is a couple. ||Entailment
+There is camping. ||Entailment
+The couple is camping out. ||Neutral

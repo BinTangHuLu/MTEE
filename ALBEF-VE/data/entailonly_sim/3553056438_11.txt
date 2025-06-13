@@ -1,0 +1,3 @@
+there are clan ||entailment
+there are fruit ||entailment
+the clan are in front of pumpkins ||entailment

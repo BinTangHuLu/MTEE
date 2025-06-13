@@ -1,0 +1,4 @@
+There are girls. ||entailment
+There is an amusement park. ||entailment
+There is a ride. ||entailment
+The girls ride the ride. ||entailment

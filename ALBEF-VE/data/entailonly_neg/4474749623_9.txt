@@ -1,0 +1,3 @@
+there are not women ||entailment
+the women are not strolling together ||entailment
+the women are not strolling outside ||contradiction

@@ -1,0 +1,4 @@
+there is a guy ||entailment
+there is a newspaper ||entailment
+the newspaper is outdoors ||entailment
+the guy is reading newspaper ||entailment

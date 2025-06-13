@@ -1,0 +1,3 @@
+there is a girl ||entailment
+there is a deer ||entailment
+the girl pets the deer ||entailment

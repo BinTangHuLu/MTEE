@@ -1,0 +1,7 @@
+there is not a girl ||contradiction
+there is not a bikini ||contradiction
+there are not some goggles ||contradiction
+there is not a cap ||contradiction
+the girl is not wearing bikini ||contradiction
+the girl is not wearing goggles ||contradiction
+the girl is not wearing cap ||contradiction

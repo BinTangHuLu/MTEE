@@ -1,0 +1,5 @@
+There is a woman. ||Entailment
+There is a picture. ||Entailment
+The woman is 2. ||Neutral
+The woman is in the picture. ||Entailment
+The woman is working together with the woman. ||Entailment

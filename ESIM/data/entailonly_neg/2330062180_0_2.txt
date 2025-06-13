@@ -1,0 +1,5 @@
+There is not a dog. ||contradiction
+The dog is not golden. ||contradiction
+There is not land. ||contradiction
+The land is not snow-covered. ||contradiction
+The dog does not bound across the land. ||contradiction

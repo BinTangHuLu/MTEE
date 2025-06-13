@@ -1,0 +1,5 @@
+there is a cheerleader ||entailment
+there is a girl ||entailment
+there is air ||entailment
+the cheerleader holds the girl ||entailment
+the cheerleader holds in the air ||entailment

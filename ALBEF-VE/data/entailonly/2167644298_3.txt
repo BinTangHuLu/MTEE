@@ -1,0 +1,3 @@
+there is a man ||entailment
+there is a wall ||entailment
+the man stands against the wall ||entailment

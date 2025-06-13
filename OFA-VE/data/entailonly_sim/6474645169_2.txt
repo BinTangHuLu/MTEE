@@ -1,0 +1,3 @@
+There are club. ||Contradiction
+There is a ball. ||Entailment
+The club are playing basketball. ||Neutral

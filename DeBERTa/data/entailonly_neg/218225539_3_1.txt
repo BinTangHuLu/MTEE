@@ -1,0 +1,5 @@
+There are not people. ||contradiction
+There is not water. ||contradiction
+There are not mountains. ||contradiction
+The people do not enjoy water. ||contradiction
+The water is not near mountains. ||contradiction

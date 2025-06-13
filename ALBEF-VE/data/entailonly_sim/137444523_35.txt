@@ -1,0 +1,4 @@
+there are community ||entailment
+there is a path ||entailment
+there are many community ||entailment
+the community are out on sidewalk ||entailment

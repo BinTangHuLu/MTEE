@@ -1,0 +1,5 @@
+there are community ||entailment
+there is a apparel ||entailment
+the apparel is holiday ||neutral
+the community have glasses ||entailment
+the community are one in costume ||contradiction

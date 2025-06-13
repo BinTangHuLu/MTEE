@@ -1,0 +1,4 @@
+There is a athlete. ||entailment
+There is a ball. ||entailment
+The athlete is red. ||entailment
+The athlete is trying to grab the ball. ||entailment

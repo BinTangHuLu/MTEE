@@ -1,0 +1,5 @@
+There are not carts. ||contradiction
+There is not trash. ||entailment
+There is not a beach. ||contradiction
+The carts are not filled with trash. ||entailment
+The carts are not sitting on the beach. ||contradiction

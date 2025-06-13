@@ -1,0 +1,8 @@
+There is not a man. ||contradiction
+There is not a brief case. ||contradiction
+There is not a corner. ||entailment
+There is not a woman. ||entailment
+The man is not with a brief case. ||contradiction
+The man is not near a corner. ||contradiction
+The man does not stand near the corner. ||entailment
+The woman does not walk past the corner. ||contradiction

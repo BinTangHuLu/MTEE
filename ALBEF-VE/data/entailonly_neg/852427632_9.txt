@@ -1,0 +1,5 @@
+there is not a woman ||contradiction
+there is not a horse ||contradiction
+there is not a calf ||contradiction
+the woman is not on the horse ||entailment
+the woman is not chasing the calf ||entailment

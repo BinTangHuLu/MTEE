@@ -1,0 +1,2 @@
+There are not wrestlers. ||contradiction
+The wrestlers are not in a match. ||contradiction

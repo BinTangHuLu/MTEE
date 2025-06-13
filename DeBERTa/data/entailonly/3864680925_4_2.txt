@@ -1,0 +1,4 @@
+There are guys. ||entailment
+There are shirts. ||entailment
+The shirts are matching. ||entailment
+The guys are talking in shirts. ||entailment

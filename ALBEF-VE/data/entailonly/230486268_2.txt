@@ -1,0 +1,3 @@
+there is a boy ||entailment
+there is a shovel ||entailment
+the boy holds the shovel ||entailment

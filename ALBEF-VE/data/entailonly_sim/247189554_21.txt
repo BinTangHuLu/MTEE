@@ -1,0 +1,4 @@
+there is a dude ||entailment
+there is a armchair ||entailment
+the dude is one armed ||neutral
+the dude sits in chair ||entailment

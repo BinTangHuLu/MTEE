@@ -1,0 +1,2 @@
+There is a dealer. ||entailment
+The dealer stares into space. ||entailment

@@ -1,0 +1,4 @@
+there is not a human ||contradiction
+there are not some flowers ||contradiction
+the human is not yellow haired ||entailment
+the human does not receive flowers ||contradiction

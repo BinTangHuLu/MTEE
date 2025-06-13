@@ -1,0 +1,4 @@
+There is not a man. ||contradiction
+There is not a bike. ||contradiction
+The man is not dirt. ||contradiction
+The man is not riding the bike. ||contradiction

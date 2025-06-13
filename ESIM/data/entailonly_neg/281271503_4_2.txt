@@ -1,0 +1,6 @@
+There is not a man. ||contradiction
+There is not an act. ||contradiction
+There is not a unicycle. ||contradiction
+The man does not perform act. ||contradiction
+The man is not on unicycle. ||contradiction
+The act is not juggling. ||contradiction

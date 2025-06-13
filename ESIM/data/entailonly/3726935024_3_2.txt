@@ -1,0 +1,4 @@
+There is a woman. ||entailment
+The woman is black. ||entailment
+The material is printed. ||entailment
+The woman is handling material. ||entailment

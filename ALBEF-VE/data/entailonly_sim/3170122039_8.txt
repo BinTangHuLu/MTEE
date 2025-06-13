@@ -1,0 +1,5 @@
+there are female ||entailment
+the female are two ||neutral
+the female are riding their bikes ||entailment
+the bikes are next to the female ||contradiction
+the female are outside ||entailment

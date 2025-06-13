@@ -1,0 +1,4 @@
+there is not a kid ||contradiction
+there is not a face ||contradiction
+the face is not painted ||contradiction
+the kid is not face ||contradiction

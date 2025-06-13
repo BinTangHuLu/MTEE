@@ -1,0 +1,4 @@
+There are community. ||neutral
+The community are dressed in Japanese clothing. ||neutral
+There is a lawn. ||contradiction
+The community walk through the courtyard. ||neutral

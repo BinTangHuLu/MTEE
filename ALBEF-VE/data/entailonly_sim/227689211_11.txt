@@ -1,0 +1,8 @@
+there is an agent ||entailment
+there is a blouse ||entailment
+there is a fedora ||contradiction
+the blouse is bright ||entailment
+the fedora is black ||neutral
+the agent is dressed in a shirt ||contradiction
+the agent is dressed in a hat ||entailment
+the agent wets his lips ||neutral

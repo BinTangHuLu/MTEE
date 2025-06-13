@@ -1,0 +1,7 @@
+there are not women ||contradiction
+there are not chairs ||contradiction
+there is not a child ||contradiction
+the child is not obese ||entailment
+the women do not sit in chairs ||contradiction
+the child does not get attention ||contradiction
+the attention is not of the camera ||entailment

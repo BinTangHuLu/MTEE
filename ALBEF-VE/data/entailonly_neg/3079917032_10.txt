@@ -1,0 +1,6 @@
+there is not a woman ||contradiction
+there is not a sweater ||contradiction
+there is not a girl ||contradiction
+the sweater is not red ||contradiction
+the woman is not in the sweater ||contradiction
+the girl is not in front of the girl ||entailment

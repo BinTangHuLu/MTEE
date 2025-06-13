@@ -1,0 +1,5 @@
+there is not a group ||contradiction
+there is not a man ||contradiction
+there is not a car ||neutral
+the man is used ||neutral
+the man is used by the car ||contradiction

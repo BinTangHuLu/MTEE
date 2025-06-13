@@ -1,0 +1,8 @@
+There is not a person. ||Contradiction
+There is not a photo. ||Contradiction
+There is not a thing. ||Contradiction
+There is not a stand. ||Contradiction
+There is not a cart. ||Contradiction
+The person is not in the photo. ||Entailment
+The thing is not for sale at the stand. ||Contradiction
+The thing is not for sale at the cart. ||Entailment

@@ -1,0 +1,6 @@
+there are female ||entailment
+there are attire ||entailment
+there are community ||entailment
+the female are asian ||neutral
+the female put clothes ||entailment
+the attire are on heads ||entailment

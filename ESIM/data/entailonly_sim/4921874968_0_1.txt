@@ -1,0 +1,4 @@
+There is a pedal. ||entailment
+There is a aisle. ||contradiction
+Somebody is riding the pedal. ||neutral
+The pedal is on the trail. ||neutral

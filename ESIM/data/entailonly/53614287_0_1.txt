@@ -1,0 +1,7 @@
+There is a boy. ||entailment
+There is a Nintendo DS. ||entailment
+There is a sister. ||entailment
+The boy is playing. ||entailment
+The sister loves. ||neutral
+The boy is playing Nintendo DS. ||entailment
+The boy loves the sister. ||neutral

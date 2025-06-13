@@ -1,0 +1,5 @@
+there is a dog ||entailment
+there is some water ||entailment
+there is a stick ||entailment
+the dog is floating on water ||contradiction
+the dog is with a stick ||entailment

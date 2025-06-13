@@ -1,0 +1,3 @@
+There is a dealer. ||Entailment
+There are some doll. ||Entailment
+The dealer is selling toys. ||Neutral

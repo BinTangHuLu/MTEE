@@ -1,0 +1,3 @@
+there is not a chevrolet cruze ||contradiction
+there is not a woman ||contradiction
+the chevrolet cruze is not being presented by the woman ||contradiction

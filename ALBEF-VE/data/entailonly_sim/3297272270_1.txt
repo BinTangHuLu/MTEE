@@ -1,0 +1,4 @@
+there are boy ||entailment
+there are attire ||entailment
+the attire are ballerina ||neutral
+the boy are wearing clothes ||entailment

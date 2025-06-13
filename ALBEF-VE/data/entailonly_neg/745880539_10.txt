@@ -1,0 +1,3 @@
+there is not an animal ||contradiction
+there is not a tube ||contradiction
+the animal is not in the tube ||contradiction

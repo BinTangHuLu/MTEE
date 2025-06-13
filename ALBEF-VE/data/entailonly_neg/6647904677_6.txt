@@ -1,0 +1,10 @@
+there is not a group ||contradiction
+there are not some people ||entailment
+there are not some robes ||contradiction
+there are not some headdresses ||contradiction
+there are not some bikes ||contradiction
+the robes are not blue ||entailment
+the headdresses are not white ||entailment
+the people are not in robes ||contradiction
+the people are not in headdresses ||contradiction
+the people are not on bikes ||contradiction

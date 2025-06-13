@@ -1,0 +1,3 @@
+There are community. ||Entailment
+There is drink. ||Contradiction
+The community are near water. ||Entailment

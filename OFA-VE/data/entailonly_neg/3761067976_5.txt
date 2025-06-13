@@ -1,0 +1,4 @@
+There is not a girl. ||Contradiction
+There are not hands. ||Contradiction
+The hands are not full. ||Contradiction
+The girl does not have hands. ||Contradiction

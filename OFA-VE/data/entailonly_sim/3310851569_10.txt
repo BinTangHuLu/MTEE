@@ -1,0 +1,4 @@
+There is a association. ||Entailment
+There are some community. ||Contradiction
+There is a lap. ||Contradiction
+The community are on stage. ||Neutral

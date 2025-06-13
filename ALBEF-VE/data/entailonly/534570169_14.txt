@@ -1,0 +1,3 @@
+there is a guy ||entailment
+there is a stage ||entailment
+the guy is walking across the stage ||entailment

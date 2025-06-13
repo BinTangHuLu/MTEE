@@ -1,0 +1,5 @@
+there is not a man ||contradiction
+there is not a shirt ||contradiction
+the shirt is not blue ||entailment
+the man is not wearing the shirt ||neutral
+the man is not sitting near the street ||contradiction

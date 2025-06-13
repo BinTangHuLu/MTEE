@@ -1,0 +1,3 @@
+There is not a cyclist. ||Contradiction
+There is not a bicycle. ||Contradiction
+The cyclist does not maneuver the bicycle. ||Contradiction

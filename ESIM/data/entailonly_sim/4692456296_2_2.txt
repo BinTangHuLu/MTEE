@@ -1,0 +1,3 @@
+There is a mom. ||entailment
+There is a child. ||entailment
+The mom and daughter are walking. ||entailment

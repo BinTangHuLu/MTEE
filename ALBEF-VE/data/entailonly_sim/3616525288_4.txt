@@ -1,0 +1,3 @@
+there are community ||entailment
+there are appliance ||entailment
+community ride horses ||entailment

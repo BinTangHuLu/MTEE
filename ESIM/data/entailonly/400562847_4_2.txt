@@ -1,0 +1,5 @@
+There is a dog. ||entailment
+There is some snow. ||entailment
+There is an object. ||entailment
+The dog is in the snow. ||entailment
+The dog is carrying the object. ||entailment

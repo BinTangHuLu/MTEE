@@ -1,0 +1,5 @@
+there are men ||entailment
+there is a concert ||neutral
+there is a camera ||entailment
+the men are at the concert ||neutral
+the men are using the camera ||entailment

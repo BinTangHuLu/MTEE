@@ -1,0 +1,4 @@
+there are list ||entailment
+there is a farmland ||entailment
+the list are grabbing the ball ||neutral
+the ball is on the farmland ||contradiction

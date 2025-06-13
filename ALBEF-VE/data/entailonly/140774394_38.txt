@@ -1,0 +1,5 @@
+there is a man ||entailment
+there are wood blocks ||neutral
+there is a public ||entailment
+the man is cutting and carving wood blocks ||contradiction
+the wood blocks are in public ||entailment

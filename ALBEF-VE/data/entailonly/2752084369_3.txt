@@ -1,0 +1,3 @@
+there is a toddler ||entailment
+there is red ||entailment
+the toddler is wearing red ||entailment

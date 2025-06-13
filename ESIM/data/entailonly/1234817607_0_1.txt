@@ -1,0 +1,5 @@
+There is a man. ||entailment
+The man is old. ||entailment
+There are cans. ||entailment
+The cans are soda. ||entailment
+The man collects cans. ||neutral

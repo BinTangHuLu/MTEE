@@ -1,0 +1,4 @@
+there are community ||entailment
+there is a dispatch ||entailment
+the dispatch is pirate ||neutral
+the community are riding on the ship ||entailment

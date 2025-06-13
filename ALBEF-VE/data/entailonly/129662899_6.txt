@@ -1,0 +1,4 @@
+there is a man ||entailment
+there is a hat ||entailment
+the hat is wearing ||neutral
+the man is touching rope ||entailment

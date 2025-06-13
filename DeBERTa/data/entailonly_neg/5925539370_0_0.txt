@@ -1,0 +1,5 @@
+There are not boys. ||contradiction
+There are not gloves. ||contradiction
+There are not three boys. ||contradiction
+The gloves are not baseball. ||contradiction
+The boys do not hold gloves. ||contradiction

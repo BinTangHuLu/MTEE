@@ -1,0 +1,5 @@
+there is a skateboarder ||entailment
+there is a ramp ||entailment
+there is a painting ||entailment
+the skateboarder is on ramp ||entailment
+the ramp is near painting ||entailment

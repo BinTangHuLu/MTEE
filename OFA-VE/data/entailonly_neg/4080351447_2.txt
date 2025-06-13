@@ -1,0 +1,4 @@
+There is not a man. ||Contradiction
+There is not a kitchen. ||Contradiction
+The man is not ready. ||Contradiction
+The man is not ready to cook in kitchen. ||Contradiction

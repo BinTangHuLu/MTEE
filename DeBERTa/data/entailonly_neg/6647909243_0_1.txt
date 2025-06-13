@@ -1,0 +1,7 @@
+There is not a person. ||contradiction
+There are not some clothes. ||entailment
+There is not some water. ||contradiction
+The person is not poor. ||contradiction
+The clothes are not tattered. ||contradiction
+The water is not trash filled. ||contradiction
+The person does not kneel by body. ||contradiction

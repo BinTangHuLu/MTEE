@@ -1,0 +1,4 @@
+There are adolescent. ||entailment
+The adolescent are Two. ||entailment
+The adolescent are enjoying. ||entailment
+The adolescent are on night. ||entailment

@@ -1,0 +1,4 @@
+there is a human ||entailment
+there is a vehicle ||entailment
+the vehicle is outside ||entailment
+the human is inside the vehicle ||entailment

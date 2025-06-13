@@ -1,0 +1,5 @@
+There is a set. ||neutral
+There is a chair. ||neutral
+The set is asleep. ||entailment
+The set is on the bench. ||entailment
+The chair is outside. ||entailment

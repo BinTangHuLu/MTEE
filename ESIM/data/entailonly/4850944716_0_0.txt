@@ -1,0 +1,2 @@
+There is a gentleman. ||entailment
+The gentleman window shops. ||entailment

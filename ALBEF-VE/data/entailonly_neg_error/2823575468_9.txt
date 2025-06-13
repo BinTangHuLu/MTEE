@@ -1,0 +1,3 @@
+A,barefoot
+R,is running in
+A,blue

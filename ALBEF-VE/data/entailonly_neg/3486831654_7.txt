@@ -1,0 +1,3 @@
+there are not people ||contradiction
+there is not a baseball ||contradiction
+people are not playing baseball ||contradiction

@@ -1,0 +1,5 @@
+there is a lady ||entailment
+there are some causals ||entailment
+there is lunch ||entailment
+the lady is in causals ||entailment
+the lady is having lunch ||neutral

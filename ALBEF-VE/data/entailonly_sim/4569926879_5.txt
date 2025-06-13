@@ -1,0 +1,6 @@
+there is a dude ||entailment
+there is a civic ||entailment
+there is a child ||entailment
+the dude is drinking ||entailment
+the dude is in public ||entailment
+the dude is marking contact with the girl ||entailment

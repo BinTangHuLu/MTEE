@@ -1,0 +1,4 @@
+There is a girl. ||Entailment
+There is some hair. ||Entailment
+The hair is dark. ||Neutral
+The girl has dark hair. ||Entailment

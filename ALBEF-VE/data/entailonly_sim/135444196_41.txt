@@ -1,0 +1,5 @@
+there is a female ||entailment
+there is a apparel ||entailment
+the female is young ||neutral
+the female is in a dress ||entailment
+the female walks in street ||entailment

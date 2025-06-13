@@ -1,0 +1,5 @@
+There is not a person. ||contradiction
+There are not some tricks. ||contradiction
+There is not a crowd. ||contradiction
+The person is not doing tricks. ||contradiction
+The person is not in front of the crowd. ||contradiction

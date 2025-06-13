@@ -1,0 +1,4 @@
+there are not people ||contradiction
+the people are not non caucasian ||entailment
+there is not a window ||contradiction
+the people are not sitting near the window ||contradiction

@@ -1,0 +1,5 @@
+there are not dogs ||contradiction
+there are not muzzles ||contradiction
+there is not a track ||contradiction
+the dogs are not wearing muzzles ||contradiction
+the dogs are not on track ||contradiction

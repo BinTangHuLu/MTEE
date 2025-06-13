@@ -1,0 +1,2 @@
+There is drink. ||entailment
+The kids are playing in drink. ||entailment

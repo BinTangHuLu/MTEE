@@ -1,0 +1,8 @@
+there is not a man ||contradiction
+there is not a shirt ||contradiction
+there is not a sign ||contradiction
+the shirt is not multi colored ||contradiction
+the sign is not orange ||contradiction
+the sign is not peace ||neutral
+the man is not wearing a shirt ||contradiction
+the shirt is not with a sign ||contradiction

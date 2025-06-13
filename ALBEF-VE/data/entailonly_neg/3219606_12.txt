@@ -1,0 +1,4 @@
+there are not children ||contradiction
+there is not a crowd ||contradiction
+the children are not black and white ||entailment
+the children will not perform for the crowd ||contradiction

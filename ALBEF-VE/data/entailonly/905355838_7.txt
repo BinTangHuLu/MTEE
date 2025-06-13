@@ -1,0 +1,3 @@
+there is a ballplayer ||entailment
+there is a ball ||entailment
+the ballplayer is throwing the ball ||entailment

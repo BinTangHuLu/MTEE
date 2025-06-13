@@ -1,0 +1,9 @@
+there is a child ||entailment
+there is a backdrop ||entailment
+there is a coast ||entailment
+there is a bikini ||entailment
+the child is little ||entailment
+the child is in a swimsuit ||entailment
+the child waves in the background ||entailment
+the child is at the beach ||entailment
+the child is running in a swimsuit ||entailment

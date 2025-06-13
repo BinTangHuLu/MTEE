@@ -1,0 +1,3 @@
+there are teens ||entailment
+there is a porch ||entailment
+the teens are on porch ||entailment

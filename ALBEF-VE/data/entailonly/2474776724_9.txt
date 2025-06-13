@@ -1,0 +1,6 @@
+there are boys ||entailment
+there are uniforms ||entailment
+there is a field ||entailment
+the uniforms are red and white striped ||entailment
+the boys are in uniforms ||entailment
+the boys are standing in the field ||entailment

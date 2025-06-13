@@ -1,0 +1,3 @@
+there are people ||entailment
+the people are kicking ||entailment
+the people are kicking each other ||neutral

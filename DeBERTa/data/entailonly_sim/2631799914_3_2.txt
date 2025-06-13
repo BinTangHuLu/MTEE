@@ -1,0 +1,2 @@
+The kids are playing a broadcast game. ||entailment
+The kids are playing broadcast game. ||entailment

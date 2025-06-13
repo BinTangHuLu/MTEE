@@ -1,0 +1,3 @@
+there is a female ||entailment
+the female is outdoors ||entailment
+the female is outdoors ||entailment

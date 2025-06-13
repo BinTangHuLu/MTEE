@@ -1,0 +1,4 @@
+there is a group ||entailment
+there are some people ||entailment
+there is a venue ||entailment
+the group is at venue ||entailment

@@ -1,0 +1,4 @@
+There are performers. ||Entailment
+There is a street. ||Entailment
+The performers are a pair. ||Neutral
+The performers are outsides the street. ||Entailment

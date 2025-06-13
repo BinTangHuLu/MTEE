@@ -1,0 +1,6 @@
+There is a female. ||Entailment
+There is a frame. ||Entailment
+There are emblem. ||Entailment
+The emblem are numerous. ||Neutral
+The female has tattoos. ||Entailment
+The emblem are all over the body. ||Entailment

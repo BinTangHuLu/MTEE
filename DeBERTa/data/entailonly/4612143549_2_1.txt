@@ -1,0 +1,3 @@
+There are people. ||entailment
+There are four people. ||entailment
+The people are standing up. ||entailment

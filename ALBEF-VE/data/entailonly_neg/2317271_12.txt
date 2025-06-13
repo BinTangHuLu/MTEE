@@ -1,0 +1,5 @@
+there are not people ||contradiction
+there is not a church ||contradiction
+there is not a wedding ||contradiction
+the people are not inside the church ||entailment
+the people are not at the wedding ||contradiction

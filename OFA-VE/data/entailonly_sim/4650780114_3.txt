@@ -1,0 +1,3 @@
+There is a bank. ||Contradiction
+The bank is crowded. ||Entailment
+The bank is crowded with shoppers. ||Neutral

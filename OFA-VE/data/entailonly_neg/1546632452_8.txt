@@ -1,0 +1,4 @@
+There is not a boy. ||Contradiction
+The boy is not having fun. ||Neutral
+There is not outdoors. ||Contradiction
+The boy is not having fun outdoors. ||Neutral

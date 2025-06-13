@@ -1,0 +1,3 @@
+there is a child ||entailment
+there is an animal ||entailment
+the child is watching the animal ||entailment

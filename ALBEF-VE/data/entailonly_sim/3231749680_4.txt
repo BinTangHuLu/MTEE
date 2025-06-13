@@ -1,0 +1,4 @@
+there are clan ||entailment
+there are sleeping bulk ||entailment
+the sleeping bulk are bright colored ||entailment
+the clan are sleeping in sleeping bags ||contradiction

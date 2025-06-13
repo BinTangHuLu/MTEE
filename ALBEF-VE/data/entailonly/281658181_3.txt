@@ -1,0 +1,4 @@
+there is a woman ||entailment
+there is an athlete ||entailment
+the athlete is getting ready ||entailment
+the athlete can jump high ||entailment

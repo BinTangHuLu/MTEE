@@ -1,0 +1,3 @@
+EA,gentleman,bearded
+E1RE2,gentleman,with,guitar
+E1R,gentleman,creates

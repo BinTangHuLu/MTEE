@@ -1,0 +1,5 @@
+there is a body ||entailment
+there is a account ||entailment
+there is a canvas ||entailment
+the body is having the picture ||contradiction
+the account is taken inside the tent ||neutral

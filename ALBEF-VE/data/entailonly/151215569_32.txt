@@ -1,0 +1,5 @@
+there is a girl ||entailment
+there is a man ||entailment
+there are shoulders ||entailment
+the girl rides on shoulders ||entailment
+the man possesses the girl ||neutral

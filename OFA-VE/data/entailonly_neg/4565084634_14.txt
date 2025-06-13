@@ -1,0 +1,4 @@
+There is not a man. ||Entailment
+There is not a woman. ||Entailment
+The man is not walking. ||Contradiction
+The man is not walking with the woman. ||Contradiction

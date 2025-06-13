@@ -1,0 +1,3 @@
+There are People. ||Entailment
+There is a waterfall. ||Entailment
+The People are swimming in the waterfall. ||Neutral

@@ -1,0 +1,4 @@
+There is not a man. ||Entailment
+There is not a boy. ||Entailment
+There are not some items. ||Contradiction
+The man and the boy are not selling items. ||Contradiction

@@ -1,0 +1,3 @@
+There is a man. ||entailment
+The man is speaking in a classroom. ||entailment
+There is a classroom. ||entailment

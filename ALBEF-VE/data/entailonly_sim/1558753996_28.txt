@@ -1,0 +1,6 @@
+there is a dude ||entailment
+there is a bar ||entailment
+the dude is bearded ||entailment
+the bar is white ||neutral
+the dude plays the song ||entailment
+the song is played against the bar ||contradiction

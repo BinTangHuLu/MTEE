@@ -1,0 +1,5 @@
+There are not girls. ||contradiction
+There is not a fountain. ||contradiction
+The girls are not young. ||contradiction
+The girls are not standing under fountain. ||contradiction
+The fountain does not have water. ||contradiction

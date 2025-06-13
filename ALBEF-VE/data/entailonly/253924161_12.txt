@@ -1,0 +1,6 @@
+there is a man ||entailment
+there are women ||entailment
+there is a table ||entailment
+the man and women are together ||entailment
+the man and table are together ||entailment
+the women are sitting at the table ||contradiction

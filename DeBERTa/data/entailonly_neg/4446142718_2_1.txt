@@ -1,0 +1,6 @@
+There is not a boy. ||contradiction
+There are not some streets. ||contradiction
+There is not a car. ||contradiction
+The boy is not motorized. ||contradiction
+The boy did not play in streets. ||contradiction
+The boy did not play with a car. ||contradiction

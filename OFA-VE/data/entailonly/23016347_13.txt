@@ -1,0 +1,4 @@
+There is a woman. ||Entailment
+There are some shorts. ||Entailment
+The shorts are in. ||Entailment
+The woman plays tennis. ||Entailment

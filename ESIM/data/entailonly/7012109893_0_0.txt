@@ -1,0 +1,4 @@
+There is a man. ||entailment
+There is a mop. ||entailment
+The man is holding the mop. ||neutral
+The man is on a roof. ||entailment

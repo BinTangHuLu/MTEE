@@ -1,0 +1,2 @@
+There are babies. ||entailment
+The babies are asleep. ||entailment

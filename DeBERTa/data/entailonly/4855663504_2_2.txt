@@ -1,0 +1,5 @@
+There is a guy. ||entailment
+There is an afro. ||entailment
+There is a guitar. ||entailment
+The guy is playing on the guitar. ||entailment
+The guy is with afro. ||entailment

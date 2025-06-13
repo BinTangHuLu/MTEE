@@ -1,0 +1,2 @@
+There is a child. ||entailment
+The child walks through woods. ||entailment

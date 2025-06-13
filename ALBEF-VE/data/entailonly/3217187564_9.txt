@@ -1,0 +1,3 @@
+there are animals ||entailment
+the animals are clothed ||entailment
+the animals are racing animals ||entailment

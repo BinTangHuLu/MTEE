@@ -1,0 +1,6 @@
+there is a child ||entailment
+there is a dredge ||entailment
+there is an sea ||entailment
+the child is young ||entailment
+the child holds a shovel ||entailment
+the dredge is close to the ocean ||entailment

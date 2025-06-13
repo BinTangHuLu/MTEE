@@ -1,0 +1,3 @@
+there are men ||entailment
+there is an entrance ||entailment
+the men are resting near the entrance ||neutral

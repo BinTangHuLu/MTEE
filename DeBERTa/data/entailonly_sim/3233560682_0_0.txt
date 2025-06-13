@@ -1,0 +1,3 @@
+There is a line. ||entailment
+The line is music. ||entailment
+The line is playing music. ||entailment

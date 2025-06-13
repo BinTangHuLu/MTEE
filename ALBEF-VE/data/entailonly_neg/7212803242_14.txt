@@ -1,0 +1,5 @@
+there is not a baby ||contradiction
+there is not a hand ||contradiction
+there is not a rattle ||contradiction
+the baby is not using hand ||entailment
+the hand is not to shake rattle ||neutral

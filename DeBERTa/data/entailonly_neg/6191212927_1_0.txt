@@ -1,0 +1,3 @@
+There is not a man. ||contradiction
+The man does not compete in run. ||contradiction
+The run is not long distance. ||neutral

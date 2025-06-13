@@ -1,0 +1,4 @@
+There is a woman. ||entailment
+There is a dress. ||entailment
+The dress is wearing. ||entailment
+The woman is wearing the dress. ||entailment

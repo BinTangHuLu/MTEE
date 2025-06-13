@@ -1,0 +1,3 @@
+There are community. ||Entailment
+The community are boarding boats. ||Neutral
+The community are disembarking boats. ||Entailment

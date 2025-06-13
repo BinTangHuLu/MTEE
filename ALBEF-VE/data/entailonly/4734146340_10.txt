@@ -1,0 +1,3 @@
+there are men ||entailment
+there are glasses ||entailment
+the men are wearing glasses ||entailment

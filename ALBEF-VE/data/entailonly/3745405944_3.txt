@@ -1,0 +1,5 @@
+there is a woman ||entailment
+there is a man ||entailment
+there is a park ||entailment
+the woman is at the park ||neutral
+the man is at the park ||neutral

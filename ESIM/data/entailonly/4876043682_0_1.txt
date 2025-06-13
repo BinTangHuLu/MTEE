@@ -1,0 +1,5 @@
+There is a boy. ||entailment
+The boy is yellow. ||neutral
+The boy is pink. ||entailment
+The boy is wearing a t-shirt. ||entailment
+The boy is wearing a sweater. ||entailment

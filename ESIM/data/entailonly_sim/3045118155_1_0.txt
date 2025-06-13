@@ -1,0 +1,5 @@
+There is a dude. ||entailment
+There is a counter. ||entailment
+There is a data processor. ||neutral
+The dude is near the desk. ||entailment
+The dude is near the computer. ||entailment

@@ -1,0 +1,4 @@
+there is not wood ||contradiction
+there is not a frame ||contradiction
+the wood is not visible ||contradiction
+the wood is not visible in the frame ||neutral

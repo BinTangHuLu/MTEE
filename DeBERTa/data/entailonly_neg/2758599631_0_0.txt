@@ -1,0 +1,5 @@
+There is not a woman. ||contradiction
+There is not a shoulder. ||contradiction
+There is not a man. ||contradiction
+The woman does not rest on the shoulder. ||contradiction
+The woman does not rest on the man. ||contradiction

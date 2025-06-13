@@ -1,0 +1,6 @@
+there is a man ||entailment
+there is a camera ||entailment
+there is another ||neutral
+there is him ||neutral
+the man smiles at the camera ||entailment
+another plays behind him ||neutral

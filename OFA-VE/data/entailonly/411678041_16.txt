@@ -1,0 +1,5 @@
+There is a cowboy. ||Entailment
+There are some people. ||Entailment
+There is a street. ||Entailment
+The cowboy rides past people. ||Entailment
+The people are on the street. ||Entailment

@@ -1,0 +1,3 @@
+There is a child. ||entailment
+The child is having a good time. ||entailment
+The child is cracking up. ||entailment

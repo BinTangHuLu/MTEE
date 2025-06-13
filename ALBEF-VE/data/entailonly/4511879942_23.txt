@@ -1,0 +1,8 @@
+there is a woman ||entailment
+there is tan ||entailment
+there is pink ||entailment
+the woman is tan ||entailment
+the woman is pink ||entailment
+the woman is in tan ||entailment
+the woman is in pink ||entailment
+the woman questions the woman ||entailment

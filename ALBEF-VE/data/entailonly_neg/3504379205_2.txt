@@ -1,0 +1,4 @@
+there are not women ||contradiction
+there is not a vendor ||contradiction
+the women are not two ||entailment
+the women are not looking at the vendor ||contradiction

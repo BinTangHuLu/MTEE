@@ -1,0 +1,5 @@
+There are kids. ||entailment
+There are indoors. ||entailment
+The kids are playing a video game. ||entailment
+The kids are playing video game. ||entailment
+The kids are indoors. ||entailment

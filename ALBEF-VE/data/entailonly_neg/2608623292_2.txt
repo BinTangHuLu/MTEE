@@ -1,0 +1,6 @@
+there is not a man ||contradiction
+there is not a bench ||contradiction
+there is not a view ||contradiction
+the man is not sitting ||entailment
+the man is not sitting on the bench ||entailment
+the man does not enjoy the view ||contradiction

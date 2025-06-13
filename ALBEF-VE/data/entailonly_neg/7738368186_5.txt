@@ -1,0 +1,3 @@
+there is not a person ||contradiction
+there is not a bottle ||contradiction
+the person is not holding the bottle ||contradiction

@@ -1,0 +1,4 @@
+There is a tree. ||entailment
+There is a child. ||entailment
+The tree has a child. ||contradiction
+The child is stuck up in the tree. ||entailment

@@ -1,0 +1,6 @@
+there is a flag ||entailment
+there is a boy ||entailment
+there is a pocket ||entailment
+the flag is mexican ||neutral
+the flag is tucked in the pocket ||neutral
+the boys pocket ||entailment

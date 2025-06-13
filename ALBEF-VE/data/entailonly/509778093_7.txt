@@ -1,0 +1,2 @@
+there is a ball ||entailment
+the ball is white ||entailment

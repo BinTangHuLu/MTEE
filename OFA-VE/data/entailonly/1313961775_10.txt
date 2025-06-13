@@ -1,0 +1,4 @@
+There is a girl. ||Entailment
+There is water. ||Entailment
+The girl is Little. ||Entailment
+The girl is floating in water. ||Entailment

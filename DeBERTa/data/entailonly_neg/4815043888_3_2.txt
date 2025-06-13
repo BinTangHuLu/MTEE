@@ -1,0 +1,5 @@
+There are not People. ||contradiction
+There is not food. ||contradiction
+There is not a vendor. ||contradiction
+People are not buying food. ||contradiction
+People are not buying from the vendor. ||contradiction

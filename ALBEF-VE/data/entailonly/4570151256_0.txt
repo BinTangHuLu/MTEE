@@ -1,0 +1,3 @@
+there is a female ||entailment
+there are woods ||entailment
+the female is in woods ||entailment

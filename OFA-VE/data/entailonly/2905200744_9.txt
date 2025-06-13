@@ -1,0 +1,2 @@
+There is water. ||Entailment
+There is nearby. ||Entailment

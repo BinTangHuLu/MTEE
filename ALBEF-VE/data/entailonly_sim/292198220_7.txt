@@ -1,0 +1,4 @@
+there is a childbearing ||entailment
+there is a figurine ||entailment
+the childbearing is young ||entailment
+the childbearing is looking at the doll ||neutral

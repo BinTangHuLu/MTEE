@@ -1,0 +1,7 @@
+There is not an individual. ||contradiction
+There is not a table. ||contradiction
+There is not water. ||contradiction
+There is not a stroller. ||contradiction
+The individual does not hold water. ||contradiction
+The individual is not near the stroller. ||contradiction
+The water is not near the stroller. ||contradiction

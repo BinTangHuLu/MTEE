@@ -1,0 +1,3 @@
+there is a guy ||entailment
+there is a laundromat ||entailment
+the guy is in the laundromat ||entailment

@@ -1,0 +1,4 @@
+There are men. ||Entailment
+The men are young. ||Entailment
+There is a boardgame. ||Entailment
+The men play boardgame. ||Entailment

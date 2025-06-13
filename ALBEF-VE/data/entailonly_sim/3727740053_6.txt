@@ -1,0 +1,3 @@
+there are community ||entailment
+the community are kicking ||entailment
+the community are kicking each other ||contradiction

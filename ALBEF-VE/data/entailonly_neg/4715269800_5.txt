@@ -1,0 +1,3 @@
+there is not a fireman ||contradiction
+there is not a vehicle ||contradiction
+the fireman is not in the vehicle ||contradiction

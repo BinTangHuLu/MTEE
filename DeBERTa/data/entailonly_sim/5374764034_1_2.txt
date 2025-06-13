@@ -1,0 +1,6 @@
+There is a child. ||entailment
+There is a any. ||entailment
+There is a serpent. ||entailment
+The child is sitting in the tub. ||entailment
+The tub is with the any. ||contradiction
+The any is of the snake. ||entailment

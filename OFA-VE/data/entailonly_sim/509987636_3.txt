@@ -1,0 +1,5 @@
+There is a dude. ||Entailment
+There are some detritus. ||Entailment
+There is some craft. ||Entailment
+The dude is looking at pieces. ||Entailment
+The detritus are of art. ||Entailment

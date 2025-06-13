@@ -1,0 +1,3 @@
+There is not a dog. ||contradiction
+There is not some snow. ||contradiction
+The dog does not enjoy snow. ||contradiction

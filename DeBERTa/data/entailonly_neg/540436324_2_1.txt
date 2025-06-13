@@ -1,0 +1,4 @@
+There are not men. ||contradiction
+The men are not on raining. ||contradiction
+It is not heavily raining. ||neutral
+There is not a group. ||contradiction

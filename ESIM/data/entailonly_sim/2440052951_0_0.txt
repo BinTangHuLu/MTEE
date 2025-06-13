@@ -1,0 +1,6 @@
+There is a baby. ||entailment
+There is a armor. ||entailment
+There is a pedal. ||entailment
+The baby is in a helmet. ||entailment
+The baby rides the bike. ||entailment
+The pedal has training wheels. ||entailment

@@ -1,0 +1,4 @@
+There is a Lady. ||entailment
+The Lady is pink. ||entailment
+The Lady reaches to a man. ||entailment
+The man is sitting beside the Lady. ||entailment

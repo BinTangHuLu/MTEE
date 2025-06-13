@@ -1,0 +1,6 @@
+there is a boy ||entailment
+there are some legos ||entailment
+there is a tree ||entailment
+the boy is little ||entailment
+the boy was playing with legos ||neutral
+the legos are by the tree ||entailment

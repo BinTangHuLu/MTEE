@@ -1,0 +1,2 @@
+There is a kid. ||entailment
+The kid has a painted face. ||entailment

@@ -1,0 +1,4 @@
+There is a analyst. ||Entailment
+There is a workshop. ||Entailment
+The analyst is looking closely in the microscope. ||Entailment
+The microscope is in the workshop. ||Entailment

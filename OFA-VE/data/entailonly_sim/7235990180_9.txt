@@ -1,0 +1,5 @@
+There are clan. ||Entailment
+There is a circle. ||Contradiction
+There is a bar. ||Contradiction
+The clan are in the crowd. ||Entailment
+The clan are with a stick. ||Entailment

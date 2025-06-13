@@ -1,0 +1,3 @@
+there are women ||entailment
+there is a road ||entailment
+the women bike down the road ||entailment

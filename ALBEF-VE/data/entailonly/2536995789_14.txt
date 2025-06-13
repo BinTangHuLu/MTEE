@@ -1,0 +1,3 @@
+there is a ladders ||entailment
+there is a path ||entailment
+the ladders is on path ||entailment

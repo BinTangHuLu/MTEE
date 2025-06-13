@@ -1,0 +1,3 @@
+there are female ||entailment
+there is drink ||entailment
+the female are relaxing in water ||entailment

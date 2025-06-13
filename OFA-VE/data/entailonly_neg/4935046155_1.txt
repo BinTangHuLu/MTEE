@@ -1,0 +1,2 @@
+There are not cars. ||Contradiction
+The cars are not lining up. ||Neutral

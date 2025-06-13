@@ -1,0 +1,7 @@
+there is a dude ||entailment
+there is a female ||entailment
+there is some salute ||neutral
+there is a forest ||neutral
+the dude is making toast ||contradiction
+the female is making toast ||contradiction
+the salute is in front of the tree ||neutral

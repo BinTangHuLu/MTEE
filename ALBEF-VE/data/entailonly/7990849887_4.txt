@@ -1,0 +1,3 @@
+there is a club ||entailment
+there is a band ||entailment
+the club is holding the band ||entailment

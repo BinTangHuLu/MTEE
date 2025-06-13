@@ -1,0 +1,4 @@
+there are not people ||contradiction
+there is not a mask ||contradiction
+the people are not older ||entailment
+the people are not dressing up with mask ||contradiction

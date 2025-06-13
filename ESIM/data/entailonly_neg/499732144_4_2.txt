@@ -1,0 +1,8 @@
+There is not a boy. ||contradiction
+There are not suspenders. ||contradiction
+There are not pants. ||contradiction
+The boy is hisnot . ||entailment
+The pants are hisnot . ||entailment
+The suspenders are not attached to pants. ||contradiction
+The boy does not have suspenders. ||contradiction
+The suspenders are not attached to pants. ||contradiction

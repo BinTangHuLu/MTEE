@@ -1,0 +1,6 @@
+There is an lone. ||entailment
+There is a bar. ||contradiction
+There is drink. ||entailment
+The lone holds water. ||entailment
+The lone is near the stroller. ||entailment
+The drink is near the stroller. ||entailment

@@ -1,0 +1,7 @@
+There is not a child. ||contradiction
+There is not a tree. ||contradiction
+The child is not female. ||contradiction
+The child does not have no shoes. ||entailment
+The child does not have a helmet on. ||contradiction
+The tree has not fallen down. ||contradiction
+The child does not walk on top of the tree. ||entailment

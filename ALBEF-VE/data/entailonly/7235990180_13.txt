@@ -1,0 +1,4 @@
+there is a boy ||entailment
+there is a girl ||entailment
+the boy and girl are playing ||entailment
+the boy is playing with the girl ||entailment

@@ -1,0 +1,4 @@
+There is a child. ||Entailment
+There is a fedora. ||Entailment
+The child is in the hat. ||Entailment
+The child looks like a fool. ||Entailment

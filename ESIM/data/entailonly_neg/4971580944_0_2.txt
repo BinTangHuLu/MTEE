@@ -1,0 +1,4 @@
+There is not a Phone. ||contradiction
+There is not a woman. ||contradiction
+The woman does not bend forward. ||contradiction
+The Phone is not to butt. ||contradiction

@@ -1,0 +1,4 @@
+There is a mountain climber. ||Entailment
+There is a top. ||Entailment
+There is a mountain. ||Entailment
+The mountain climber reached the top. ||Entailment

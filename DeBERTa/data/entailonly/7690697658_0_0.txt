@@ -1,0 +1,2 @@
+There is a group. ||entailment
+The group is celebrating 4th of July. ||entailment

@@ -1,0 +1,3 @@
+there is an bodily ||entailment
+there is some drink ||entailment
+the bodily is in water ||neutral

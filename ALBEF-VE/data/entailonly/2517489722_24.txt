@@ -1,0 +1,3 @@
+there is a girl ||entailment
+the girl is outdoors ||entailment
+the girl is outdoors ||entailment

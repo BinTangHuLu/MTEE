@@ -1,0 +1,5 @@
+there are girls ||entailment
+there are heads ||entailment
+there are feet ||entailment
+the heads are where their feet should be ||entailment
+the girls have heads ||entailment

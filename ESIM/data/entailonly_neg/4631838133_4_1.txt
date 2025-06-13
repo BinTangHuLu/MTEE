@@ -1,0 +1,3 @@
+There is not a farmer. ||contradiction
+There is not a farm. ||contradiction
+The farmer does not work on the farm. ||contradiction

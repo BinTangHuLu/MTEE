@@ -1,0 +1,3 @@
+There are not men. ||contradiction
+There is not a Frisbee. ||contradiction
+The men are not playing with the Frisbee. ||contradiction

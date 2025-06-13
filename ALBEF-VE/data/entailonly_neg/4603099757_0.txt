@@ -1,0 +1,3 @@
+there are not women ||contradiction
+there is not a shirt ||contradiction
+the shirt is not yellow ||contradiction

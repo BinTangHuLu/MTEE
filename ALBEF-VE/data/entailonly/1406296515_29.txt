@@ -1,0 +1,4 @@
+there is a girl ||entailment
+there is a structure ||entailment
+the structure is famous ||neutral
+the girl lays down in front of the structure ||entailment

@@ -1,0 +1,4 @@
+There are dogs. ||entailment
+There are groups. ||entailment
+The dogs are loose. ||entailment
+The dogs are in groups. ||entailment

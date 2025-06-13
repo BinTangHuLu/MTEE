@@ -1,0 +1,4 @@
+there is a agreeable ||entailment
+there is a athlete ||entailment
+the agreeable is live ||contradiction
+the athlete hits the ball ||entailment

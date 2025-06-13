@@ -1,0 +1,2 @@
+There is not a car. ||contradiction
+The car is not part of race. ||contradiction

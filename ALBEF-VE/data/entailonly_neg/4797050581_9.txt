@@ -1,0 +1,3 @@
+there are not people ||contradiction
+the people are not playing ||entailment
+the people are not outdoors ||contradiction

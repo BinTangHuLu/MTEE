@@ -1,0 +1,4 @@
+There is a child. ||Entailment
+There is a account. ||Contradiction
+The child is in the picture. ||Entailment
+The child is outside. ||Entailment

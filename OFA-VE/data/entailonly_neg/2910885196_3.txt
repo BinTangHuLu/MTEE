@@ -1,0 +1,3 @@
+There is not a cake. ||Contradiction
+There is not some frosting. ||Contradiction
+The cake does not have frosting. ||Contradiction

@@ -1,0 +1,4 @@
+there is not a jumper ||contradiction
+the jumper is not high ||contradiction
+there is not outdoors ||contradiction
+the jumper is not outdoors ||entailment

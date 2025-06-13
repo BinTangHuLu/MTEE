@@ -1,0 +1,5 @@
+there is a man ||entailment
+there is skiing ||entailment
+there is art ||entailment
+the man is cross country ||neutral
+the man looks at sale ||entailment

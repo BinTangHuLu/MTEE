@@ -1,0 +1,5 @@
+there is not a girl ||contradiction
+there is not a field ||contradiction
+the girl is not ||entailment
+the girl is not in the field ||entailment
+the girl did not blow bubbles ||contradiction

@@ -1,0 +1,4 @@
+There is a child. ||Entailment
+There is a child. ||Entailment
+There is one child. ||Contradiction
+There is one child. ||Contradiction

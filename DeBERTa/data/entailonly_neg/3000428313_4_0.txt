@@ -1,0 +1,3 @@
+There are not children. ||contradiction
+There is not an ocean. ||contradiction
+The children do not surf in the ocean. ||contradiction

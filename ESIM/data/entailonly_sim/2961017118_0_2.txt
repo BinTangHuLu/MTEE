@@ -1,0 +1,10 @@
+There is a baby. ||entailment
+There is a bit. ||neutral
+There is an apparatus. ||entailment
+There is an sphere. ||entailment
+There is a exterior. ||entailment
+The baby is colorful. ||neutral
+The baby holds a piece. ||entailment
+The baby uses equipment. ||entailment
+The apparatus propels the orb. ||contradiction
+The sphere is against the surface. ||entailment

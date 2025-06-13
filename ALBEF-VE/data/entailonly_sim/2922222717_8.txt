@@ -1,0 +1,5 @@
+there is a pup ||entailment
+there is a rip ||neutral
+the pup is small ||entailment
+the rip is aimed ||neutral
+the pup aims a rifle ||entailment

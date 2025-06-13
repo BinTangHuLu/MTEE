@@ -1,0 +1,3 @@
+There is not a man. ||contradiction
+There is not a unicycle. ||contradiction
+The man is not riding the unicycle. ||entailment

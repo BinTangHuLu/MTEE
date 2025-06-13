@@ -1,0 +1,3 @@
+there is a group ||entailment
+there is a line ||entailment
+the group is in line ||entailment

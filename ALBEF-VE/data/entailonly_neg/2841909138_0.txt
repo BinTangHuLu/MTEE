@@ -1,0 +1,4 @@
+there are not women ||entailment
+there is not a notebook ||contradiction
+there is not hans ||contradiction
+the women did not hold the notebook ||contradiction

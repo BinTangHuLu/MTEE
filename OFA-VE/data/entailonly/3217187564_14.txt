@@ -1,0 +1,3 @@
+There are animals. ||Entailment
+There is a race. ||Entailment
+The animals are about to win the race. ||Entailment

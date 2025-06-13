@@ -1,0 +1,6 @@
+there is a gentlewoman ||entailment
+there is a dominant ||entailment
+the dominant is wearing ||entailment
+there is a association ||entailment
+the gentlewoman sees the group ||neutral
+the association is in distance ||entailment

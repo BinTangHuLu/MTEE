@@ -1,0 +1,3 @@
+there is a dude ||entailment
+the dude is tired ||entailment
+the dude is young ||neutral

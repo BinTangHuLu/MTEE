@@ -1,0 +1,3 @@
+there is an boar ||contradiction
+there is a dude ||entailment
+the boar is being ridden by the man ||contradiction

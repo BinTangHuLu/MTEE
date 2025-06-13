@@ -1,0 +1,3 @@
+There is a man. ||Entailment
+There are some bricks. ||Entailment
+The man is moving bricks. ||Entailment

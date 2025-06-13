@@ -1,0 +1,4 @@
+there is a child ||entailment
+there are some bounce ||entailment
+the child is small ||entailment
+the child is cleaning boots ||entailment

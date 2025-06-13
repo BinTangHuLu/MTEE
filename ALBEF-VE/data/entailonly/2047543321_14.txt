@@ -1,0 +1,3 @@
+there is a worker ||entailment
+there is a hose ||entailment
+the worker is holding hose ||neutral

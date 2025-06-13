@@ -1,0 +1,5 @@
+there are girl ||entailment
+there are boy ||contradiction
+there is a bar ||entailment
+the girl are in the restaurant ||contradiction
+the boy is in the restaurant ||contradiction

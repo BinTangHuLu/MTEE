@@ -1,0 +1,5 @@
+there are not boys ||contradiction
+there is not a house ||contradiction
+the boys are not many ||entailment
+the boys are not outside ||contradiction
+the boys do not bounce house ||contradiction

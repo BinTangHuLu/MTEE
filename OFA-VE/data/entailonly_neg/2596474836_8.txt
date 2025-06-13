@@ -1,0 +1,5 @@
+There is not a woman. ||Contradiction
+There is not some water. ||Contradiction
+There is not a boy. ||Contradiction
+The woman is not in water. ||Contradiction
+The woman is not with the boy. ||Contradiction

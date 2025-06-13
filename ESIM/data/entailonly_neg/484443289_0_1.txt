@@ -1,0 +1,4 @@
+There is not a woman. ||contradiction
+There is not a jacket. ||contradiction
+The woman is not old. ||contradiction
+The jacket is not jean. ||contradiction

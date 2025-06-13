@@ -1,0 +1,3 @@
+there is a pup ||entailment
+there is camel ||entailment
+the pup is playing in sand ||entailment

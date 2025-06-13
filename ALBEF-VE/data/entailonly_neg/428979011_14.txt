@@ -1,0 +1,7 @@
+there is not a man ||contradiction
+there is not an outfit ||contradiction
+there is not a microphone ||contradiction
+there is not a tent ||contradiction
+the outfit is not yellow ||contradiction
+the man does not stand behind the microphone ||contradiction
+the microphone is not in the tent ||neutral

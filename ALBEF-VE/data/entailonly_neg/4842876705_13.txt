@@ -1,0 +1,5 @@
+there is not a man ||contradiction
+there is not an instrument ||contradiction
+there is not a wall ||contradiction
+the man does not play the instrument ||contradiction
+the instrument is not played against the wall ||contradiction

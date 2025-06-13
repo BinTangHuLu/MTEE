@@ -1,0 +1,4 @@
+there is a pup ||entailment
+there is an sea ||entailment
+the pup is playing with the ball ||entailment
+the ball is by the sea ||entailment

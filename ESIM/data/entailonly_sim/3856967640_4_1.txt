@@ -1,0 +1,10 @@
+There is a female. ||entailment
+There is a album. ||neutral
+There is daily. ||entailment
+There is a celebrity. ||entailment
+The female is holding. ||entailment
+The album is yellow. ||entailment
+The female is holding the book. ||entailment
+The female is holding the paper. ||entailment
+The female is holding the star. ||entailment
+The female is smiling. ||entailment

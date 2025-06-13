@@ -1,0 +1,6 @@
+there is a hiker ||entailment
+there is a pole ||entailment
+there is a mountain ||entailment
+the pole is nordic ||neutral
+the hiker is using pole ||entailment
+the pole is used to walk up mountain ||neutral

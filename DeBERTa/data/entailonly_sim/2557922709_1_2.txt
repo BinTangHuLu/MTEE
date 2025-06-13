@@ -1,0 +1,4 @@
+There is a baby. ||contradiction
+The baby has poor vision. ||contradiction
+There are some equipment. ||entailment
+The baby holds objects. ||entailment

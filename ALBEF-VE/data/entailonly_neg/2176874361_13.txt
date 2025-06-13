@@ -1,0 +1,4 @@
+there is not a dog ||contradiction
+there is not a cow ||contradiction
+the dog and cow are not outside ||entailment
+the dog is not outside cow ||contradiction

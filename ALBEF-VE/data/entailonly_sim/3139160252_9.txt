@@ -1,0 +1,6 @@
+there are adolescent ||entailment
+there is a closet ||entailment
+there is a forest ||entailment
+the adolescent are three ||neutral
+the adolescent pose beside the dresser ||entailment
+the closet is with the tree ||contradiction

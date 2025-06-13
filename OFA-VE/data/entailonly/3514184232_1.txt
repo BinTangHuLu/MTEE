@@ -1,0 +1,5 @@
+There is a person. ||Entailment
+There is a ball. ||Entailment
+The person is playing. ||Entailment
+The person is trying to catch. ||Entailment
+The person is trying to catch the ball. ||Entailment

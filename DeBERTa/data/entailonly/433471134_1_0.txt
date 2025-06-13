@@ -1,0 +1,6 @@
+There is a man. ||entailment
+There are some boys. ||entailment
+There is a woman. ||entailment
+The boys are little. ||entailment
+The man brings boys. ||entailment
+The man brings boys to buy the woman. ||entailment

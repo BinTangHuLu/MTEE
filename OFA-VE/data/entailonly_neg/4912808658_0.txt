@@ -1,0 +1,4 @@
+There is not a man. ||Contradiction
+The man is not good. ||Neutral
+There are not instruments. ||Contradiction
+The man is not good with instruments. ||Neutral

@@ -1,0 +1,5 @@
+there are females ||entailment
+there is a table ||entailment
+there are materials ||entailment
+the females are gathering materials ||entailment
+the materials are on the table ||entailment

@@ -1,0 +1,6 @@
+there is an archer ||entailment
+there are teachings ||entailment
+there is a target ||entailment
+the teachings are japanese style ||neutral
+the archer uses teachings ||entailment
+the archer aims at the target ||neutral

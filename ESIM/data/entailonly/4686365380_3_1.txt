@@ -1,0 +1,4 @@
+There are people. ||entailment
+There is a picture. ||entailment
+The picture is this. ||entailment
+The people are in the picture. ||entailment

@@ -1,0 +1,4 @@
+there is a child ||entailment
+there are some people ||entailment
+the people are seated ||contradiction
+the child is playing near people ||entailment

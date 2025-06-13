@@ -1,0 +1,5 @@
+there is a woman ||entailment
+there are goods ||entailment
+the goods are perishable ||entailment
+the woman is presenting goods ||entailment
+the goods are a variety of goods ||neutral

@@ -1,0 +1,3 @@
+there is a childbearing ||entailment
+there is drink ||entailment
+the childbearing is in water ||entailment

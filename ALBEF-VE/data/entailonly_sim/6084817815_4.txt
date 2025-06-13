@@ -1,0 +1,4 @@
+there are ballet dancer ||neutral
+there is a artery ||neutral
+the ballet dancer are colorfully dressed ||entailment
+the ballet dancer are entertaining on the road ||neutral

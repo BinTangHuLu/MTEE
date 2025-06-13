@@ -1,0 +1,2 @@
+E,human
+E1R,human,is outside in front of

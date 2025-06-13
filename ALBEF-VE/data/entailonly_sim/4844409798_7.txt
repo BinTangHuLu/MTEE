@@ -1,0 +1,3 @@
+there is a baby ||entailment
+there is an man ||entailment
+the baby is walking with the adult ||entailment

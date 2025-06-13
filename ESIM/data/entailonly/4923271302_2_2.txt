@@ -1,0 +1,2 @@
+There is an arch. ||entailment
+The arch is old. ||entailment

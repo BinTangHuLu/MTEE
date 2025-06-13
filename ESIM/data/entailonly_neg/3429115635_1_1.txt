@@ -1,0 +1,2 @@
+There is not a Tennis player. ||contradiction
+The Tennis player is not playing tennis. ||contradiction

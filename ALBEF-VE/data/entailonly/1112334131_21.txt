@@ -1,0 +1,5 @@
+there is a boy ||entailment
+there is a hat ||entailment
+there is a nike ||entailment
+the hat is nike ||neutral
+the boy is squinting ||entailment

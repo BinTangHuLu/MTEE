@@ -1,0 +1,5 @@
+There is not a band. ||contradiction
+There is not a trio. ||contradiction
+There are not musicians. ||contradiction
+The band does not consist of trio. ||contradiction
+The trio does not consist of musicians. ||contradiction

@@ -1,0 +1,6 @@
+there is not a man ||contradiction
+there is not a horse ||contradiction
+there is not a road ||entailment
+the man is not leading ||neutral
+the man is not leading the horse ||neutral
+the horse is not down the road ||entailment

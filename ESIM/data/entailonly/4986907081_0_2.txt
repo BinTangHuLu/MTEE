@@ -1,0 +1,5 @@
+There is a person. ||entailment
+There is a chair. ||entailment
+There is water. ||entailment
+The person sits in the chair. ||entailment
+The person sits in the water. ||entailment

@@ -1,0 +1,4 @@
+there are clan ||entailment
+there is a circle ||neutral
+the clan are black and white ||neutral
+the clan will perform for the crowd ||neutral

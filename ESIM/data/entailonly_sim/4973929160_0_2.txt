@@ -1,0 +1,7 @@
+There are dude. ||entailment
+There is apparel. ||entailment
+There is a circle. ||neutral
+The dude are Two. ||entailment
+The dude are in garb. ||entailment
+The dude play drums. ||entailment
+The drums are for the circle. ||neutral

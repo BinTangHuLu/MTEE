@@ -1,0 +1,4 @@
+There are auto. ||Entailment
+There is a path. ||Contradiction
+The auto are fast. ||Entailment
+The auto are going around track. ||Entailment

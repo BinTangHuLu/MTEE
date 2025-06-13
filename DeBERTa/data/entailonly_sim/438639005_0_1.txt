@@ -1,0 +1,2 @@
+There is a farmland. ||entailment
+The Kids are walking in the farmland. ||entailment

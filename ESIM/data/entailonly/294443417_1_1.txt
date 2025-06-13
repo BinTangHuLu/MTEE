@@ -1,0 +1,7 @@
+There is a boy. ||entailment
+There is a hat. ||entailment
+The boy is goofy. ||entailment
+The boy is wearing. ||entailment
+The boy is sledding. ||entailment
+The boy is wearing a hat. ||entailment
+The boy is sledding by himself. ||neutral

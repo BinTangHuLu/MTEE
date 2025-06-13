@@ -1,0 +1,4 @@
+there is a child ||entailment
+there are frond ||entailment
+the child is wearing ||entailment
+the child is standing in a pile of leaves ||entailment

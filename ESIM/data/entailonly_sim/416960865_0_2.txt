@@ -1,0 +1,4 @@
+There is a female. ||entailment
+There are some attire. ||entailment
+The female is outdoor. ||entailment
+The female is hiking. ||entailment

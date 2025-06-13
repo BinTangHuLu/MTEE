@@ -1,0 +1,4 @@
+There is not a dog. ||contradiction
+There is not a ball. ||contradiction
+The dog is not outside. ||contradiction
+The dog is not with the ball. ||contradiction

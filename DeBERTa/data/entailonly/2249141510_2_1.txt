@@ -1,0 +1,4 @@
+There is a child. ||entailment
+There is some sand. ||entailment
+The child is playing. ||entailment
+The child is playing in sand. ||entailment

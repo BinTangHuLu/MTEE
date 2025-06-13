@@ -1,0 +1,3 @@
+there is a boy ||entailment
+there is a fedora ||contradiction
+the boy has a hat ||entailment

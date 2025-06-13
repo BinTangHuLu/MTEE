@@ -1,0 +1,3 @@
+There are clan. ||contradiction
+There is drink. ||neutral
+The clan are in water. ||neutral

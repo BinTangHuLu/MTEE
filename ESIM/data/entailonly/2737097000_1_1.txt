@@ -1,0 +1,2 @@
+There are adults. ||entailment
+The adults are young. ||entailment

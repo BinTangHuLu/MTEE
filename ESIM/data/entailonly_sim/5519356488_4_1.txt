@@ -1,0 +1,4 @@
+There is a buffoon. ||contradiction
+There is a academy. ||entailment
+The academy is children's. ||neutral
+The buffoon is at school. ||entailment

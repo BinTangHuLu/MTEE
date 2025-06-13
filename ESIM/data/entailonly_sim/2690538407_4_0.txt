@@ -1,0 +1,3 @@
+There is a baby. ||entailment
+The Kid is heavy alloy. ||entailment
+The Kid is appendage sign. ||entailment
